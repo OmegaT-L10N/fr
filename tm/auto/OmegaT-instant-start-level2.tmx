@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.5.2_2" segtype="sentence" srclang="EN"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv xml:lang="EN">
+        <seg><bpt i="0" x="0">&lt;p0&gt;</bpt>Menu Project<ept i="0">&lt;/p0&gt;</ept> <bpt i="1" x="1">&lt;s1&gt;</bpt>New...<ept i="1">&lt;/s1&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="FR" changeid="briglegrand" changedate="20110926T161240Z">
+        <seg><bpt i="0" x="0">&lt;p0&gt;</bpt>Menu Projet<ept i="0">&lt;/p0&gt;</ept> <bpt i="1" x="1">&lt;s1&gt;</bpt>Nouveau...<ept i="1">&lt;/s1&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg><bpt i="0" x="0">&lt;p0&gt;</bpt>Project<ept i="0">&lt;/p0&gt;</ept> <bpt i="1" x="1">&lt;s1&gt;</bpt>Create / open new<ept i="1">&lt;/s1&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="FR" changeid="briglegrand" changedate="20110926T161231Z">
+        <seg><bpt i="0" x="0">&lt;p0&gt;</bpt>Projet<ept i="0">&lt;/p0&gt;</ept> <bpt i="1" x="1">&lt;s1&gt;</bpt>Créer / ouvrir<ept i="1">&lt;/s1&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg><bpt i="0" x="0">&lt;r0&gt;</bpt>Note:<ept i="0">&lt;/r0&gt;</ept> On an Apple Mac, use the <bpt i="1" x="1">&lt;k1&gt;</bpt>Cmd<ept i="1">&lt;/k1&gt;</ept> or <bpt i="2" x="2">&lt;k2&gt;</bpt>Apple<ept i="2">&lt;/k2&gt;</ept> key instead of the <bpt i="3" x="3">&lt;k3&gt;</bpt>Ctrl<ept i="3">&lt;/k3&gt;</ept> key</seg>
+      </tuv>
+      <tuv xml:lang="FR" changeid="briglegrand" changedate="20120502T132335Z">
+        <seg><bpt i="0" x="0">&lt;r0&gt;</bpt>Remarque :<ept i="0">&lt;/r0&gt;</ept>Sur un Mac, utilisez la touche <bpt i="1" x="1">&lt;k1&gt;</bpt>cmd<ept i="1">&lt;/k1&gt;</ept> (commande) à la place de la touche <bpt i="2" x="2">&lt;k2&gt;</bpt>ctrl<ept i="2">&lt;/k2&gt;</ept>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>After the source file has loaded in the Editor pane, you can close the Project files dialog.</seg>
+      </tuv>
+      <tuv xml:lang="FR" changeid="briglegrand" changedate="20120501T184623Z">
+        <seg>Une fois le fichier source chargé et affiché dans le volet d'édition, vous pouvez fermer la fenêtre Fichiers du projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>After you give your project a name, the Create New Project dialog will open.</seg>
+      </tuv>
+      <tuv xml:lang="FR" changeid="briglegrand" changedate="20120501T181419Z">
+        <seg>Une fois le nom du projet défini, OmegaT ouvre la fenêtre Création du projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>After you have translated each segment, press <bpt i="0" x="0">&lt;k0&gt;</bpt>Ctrl+U <ept i="0">&lt;/k0&gt;</ept>to move to the next untranslated segment.</seg>
+      </tuv>
+      <tuv xml:lang="FR" changeid="briglegrand" changedate="20120501T185705Z">
+        <seg>Appuyez sur la touche <bpt i="0" x="0">&lt;k0&gt;</bpt>« Entrée »<ept i="0">&lt;/k0&gt;</ept> pour passer d'un segment à l'autre ou utilisez le raccourci clavier <bpt i="1" x="1">&lt;k1&gt;</bpt>Ctrl+U <ept i="1">&lt;/k1&gt;</ept> pour accéder au prochain segment non traduit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>At the end of your translation, OmegaT exports three translation memories called "level1", "level2" and "omegat" to your project folder.</seg>
+      </tuv>
+      <tuv xml:lang="FR" changeid="briglegrand" changedate="20120502T113849Z">
+        <seg>OmegaT exporte trois versions (« level1 », « level2 » et « omegat ») de la mémoire de traduction dans le dossier projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>At the top of that dialog, select your source file's language and the language that your translated file will be, and click <bpt i="0" x="0">&lt;g0&gt;</bpt>OK <ept i="0">&lt;/g0&gt;</ept>to continue.</seg>
+      </tuv>
+      <tuv xml:lang="FR" changeid="briglegrand" changedate="20120502T132446Z">
+        <seg>Indiquez la langue du fichier source ainsi que la langue de la traduction, puis cliquez sur <bpt i="0" x="0">&lt;g0&gt;</bpt>OK <ept i="0">&lt;/g0&gt;</ept>pour continuer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Click the Import source files... button to select your source file.</seg>
+      </tuv>
+      <tuv xml:lang="FR" changeid="briglegrand" changedate="20120502T132701Z">
+        <seg>Cliquez sur le bouton Importer des fichiers source... pour sélectionner le fichier source.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>During translation, use the <bpt i="2" x="2">&lt;g2&gt;</bpt>Edit<ept i="2">&lt;/g2&gt;</ept> and <bpt i="3" x="3">&lt;g3&gt;</bpt>Go To<ept i="3">&lt;/g3&gt;</ept> menus to perform various useful functions.</seg>
+      </tuv>
+      <tuv xml:lang="FR" changeid="briglegrand" changedate="20120502T132912Z">
+        <seg>Les menus <bpt i="2" x="2">&lt;g2&gt;</bpt>Édition<ept i="2">&lt;/g2&gt;</ept> et  <bpt i="3" x="3">&lt;g3&gt;</bpt>Atteindre<ept i="3">&lt;/g3&gt;</ept> vous donnent accès à diverses fonctions très utiles pendant le travail de traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Few more things to remember</seg>
+      </tuv>
+      <tuv xml:lang="FR" changeid="briglegrand" changedate="20120502T064744Z">
+        <seg>D'autres points à retenir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>For a more comprehensive introduction see <bpt i="0" x="0">&lt;u0&gt;</bpt>OmegaT for Beginners<ept i="0">&lt;/u0&gt;</ept> on the OmegaT web site.</seg>
+      </tuv>
+      <tuv xml:lang="FR" changeid="briglegrand" changedate="20120502T133325Z">
+        <seg>Le tutoriel pour débutants <bpt i="0" x="0">&lt;u0&gt;</bpt>OmegaT for Beginners<ept i="0">&lt;/u0&gt;</ept> (en anglais) est disponible sur le site Web d'OmegaT et vous propose une introduction complète.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Generate the translated file</seg>
+      </tuv>
+      <tuv xml:lang="FR" changeid="briglegrand" changedate="20120501T200920Z">
+        <seg>Création du fichier traduit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>However, if you made mistakes when you typed the formatting tags, your translated file might fail to open.</seg>
+      </tuv>
+      <tuv xml:lang="FR" changeid="briglegrand" changedate="20120501T193006Z">
+        <seg>Toutefois, si vous avez fait des erreurs en saisissant les balises de formatage, l'ouverture du fichier traduit pourra échouer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>If a file does not loads into the Editor pane, then it could be that your source file is in a format that doesn't work in OmegaT.</seg>
+      </tuv>
+      <tuv xml:lang="FR" changeid="briglegrand" changedate="20120502T113539Z">
+        <seg>Si le chargement d'un fichier source échoue, c'est-à-dire s'il ne s'affiche pas dans le volet d'édition, il s'agit vraisemblablement d'un fichier dont le format est incompatible avec OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>If you are interested in other settings of this dialog, you can return to it any time by pressing <bpt i="0" x="0">&lt;k0&gt;</bpt>Ctrl+E.<ept i="0">&lt;/k0&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="FR" changeid="briglegrand" changedate="20120501T183241Z">
+        <seg>Utilisez le raccourci clavier <bpt i="0" x="0">&lt;k0&gt;</bpt>Ctrl+E<ept i="0">&lt;/k0&gt;</ept> si vous avez besoin de revenir aux réglages de cette fenêtre plus tard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>If you need assistance with any aspect of OmegaT, feel free to join the <bpt i="1" x="1">&lt;u1&gt;</bpt>OmegaT user group.<ept i="1">&lt;/u1&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="FR" changeid="briglegrand" changedate="20120502T133335Z">
+        <seg>N'hésitez pas à vous inscrire à la liste de diffusion du <bpt i="1" x="1">&lt;u1&gt;</bpt>groupe des utilisateurs d'OmegaT<ept i="1">&lt;/u1&gt;</ept>, vous pouvez y échanger votre expérience et y trouver de l'aide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>If you place translation memory files in the /tm/ subfolder of your project folder, OmegaT will automatically search them for similar segments, called "fuzzy matches".</seg>
+      </tuv>
+      <tuv xml:lang="FR" changeid="briglegrand" changedate="20120502T133226Z">
+        <seg>Si vous placez des mémoires de traduction dans le sous-dossier /tm/ du dossier projet, OmegaT les analyse automatiquement à la recherche de segments semblables et affiche les analogies et les correspondances partielles dans le volet Correspondances.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>If your source file is a formatted file, e.g. Microsoft Word, LibreOffice Writer or HTML, OmegaT will convert the formatting into tags that surround the text that you translate.</seg>
+      </tuv>
+      <tuv xml:lang="FR" changeid="briglegrand" changedate="20120501T191430Z">
+        <seg>Si votre fichier source est un fichier formaté, par exemple au format Microsoft Word, LibreOffice Writer ou HTML, OmegaT convertit le formatage en balises qui encadrent le texte que vous traduisez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>In the <bpt i="0" x="0">&lt;g0&gt;</bpt>Project<ept i="0">&lt;/g0&gt;</ept> menu, select <bpt i="1" x="1">&lt;m1&gt;</bpt> <ph x="2">&lt;g2/&gt;</ph> <bpt i="3" x="3">&lt;g3&gt;</bpt>New...<ept i="3">&lt;/g3&gt;</ept> <ept i="1">&lt;/m1&gt;</ept><ph x="4">&lt;i4/&gt;</ph> type a name for your project.</seg>
+      </tuv>
+      <tuv xml:lang="FR" changeid="briglegrand" changedate="20120501T180625Z">
+        <seg>Dans le menu <bpt i="0" x="0">&lt;g0&gt;</bpt>Projet<ept i="0">&lt;/g0&gt;</ept>, sélectionnez <bpt i="1" x="1">&lt;m1&gt;</bpt> <ph x="2">&lt;g2/&gt;</ph> <bpt i="3" x="3">&lt;g3&gt;</bpt>Nouveau...<ept i="3">&lt;/g3&gt;</ept> <ept i="1">&lt;/m1&gt;</ept><ph x="4">&lt;i4/&gt;</ph> et saisissez le nom du projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>It is often useful to search for words and phrases in the source text and in your translation, so press <bpt i="0" x="0">&lt;k0&gt;</bpt>Ctrl+F<ept i="0">&lt;/k0&gt;</ept> for the "Text Search" dialog at any time.</seg>
+      </tuv>
+      <tuv xml:lang="FR" changeid="briglegrand" changedate="20120502T113021Z">
+        <seg>Vous disposez également de puissantes fonctions de recherche dans la fenêtre « Recherche textuelle » que vous pouvez utiliser au cours de la traduction (raccourci clavier <bpt i="0" x="0">&lt;k0&gt;</bpt>Ctrl+F<ept i="0">&lt;/k0&gt;</ept>).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Learn to use OmegaT in 5 minutes!</seg>
+      </tuv>
+      <tuv xml:lang="FR" changeid="briglegrand" changedate="20120501T172458Z">
+        <seg>Apprendre à utiliser OmegaT en 5 minutes !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Next, the Project Files dialog opens.</seg>
+      </tuv>
+      <tuv xml:lang="FR" changeid="briglegrand" changedate="20120501T183635Z">
+        <seg>OmegaT ouvre ensuite la fenêtre Fichiers du projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Often documents will also have tags that have nothing to do with formatting, but which are also important.In the source file (and in the translated file), A source sentence might look like</seg>
+      </tuv>
+      <tuv xml:lang="FR" changeid="briglegrand" changedate="20120501T192236Z">
+        <seg>Souvent, les documents contiennent également un certain nombre de balises essentielles sans rapport direct avec le formatage. Dans le fichier source (ainsi que dans le fichier traduit), une phrase peut se présenter comme ceci :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>OmegaT will present one segment at a time for you to translate.</seg>
+      </tuv>
+      <tuv xml:lang="FR" changeid="briglegrand" changedate="20120501T184950Z">
+        <seg>OmegaT vous propose un segment à traduire après l'autre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>OmegaT will then copy the selected file to the <bpt i="0" x="0">&lt;f0&gt;</bpt>/source/<ept i="0">&lt;/f0&gt;</ept> subfolder of your newly created project.</seg>
+      </tuv>
+      <tuv xml:lang="FR" changeid="briglegrand" changedate="20120502T132722Z">
+        <seg>OmegaT copie le fichier sélectionné dans le sous-dossier <bpt i="0" x="0">&lt;f0&gt;</bpt>/source/<ept i="0">&lt;/f0&gt;</ept> du projet que vous venez de créer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>OmegaT, however, will present this sentence in the following fashion:</seg>
+      </tuv>
+      <tuv xml:lang="FR" changeid="briglegrand" changedate="20120501T192403Z">
+        <seg>Ici, OmegaT présente cette phrase de la manière suivante :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Once you have made certain that there are no tag errors in your translation, press <bpt i="0" x="0">&lt;k0&gt;</bpt>Ctrl+D<ept i="0">&lt;/k0&gt;</ept> to generate the target file, which will be created in the<bpt i="1" x="1">&lt;f1&gt;</bpt> /target/<ept i="1">&lt;/f1&gt;</ept>subfolder of your project folder.</seg>
+      </tuv>
+      <tuv xml:lang="FR" changeid="briglegrand" changedate="20120502T133919Z">
+        <seg>Après avoir vérifié que votre traduction ne contient pas d'erreur de balises, générez le fichier cible (raccourci clavier <bpt i="0" x="0">&lt;k0&gt;</bpt>Ctrl+D<ept i="0">&lt;/k0&gt;</ept>) dans le sous-dossier <bpt i="1" x="1">&lt;f1&gt;</bpt>/target/<ept i="1">&lt;/f1&gt;</ept> du dossier projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Remember where you create the project, because you will later need to return to it.</seg>
+      </tuv>
+      <tuv xml:lang="FR" changeid="briglegrand" changedate="20120501T180909Z">
+        <seg>Mémorisez bien l'emplacement du projet car vous devrez y accéder ultérieurement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>See Chapter 7: File Filters in the User Manual for a list of file formats that OmegaT can handle.</seg>
+      </tuv>
+      <tuv xml:lang="FR" changeid="briglegrand" changedate="20120502T070615Z">
+        <seg>Reportez-vous au chapitre 7 (Filtre de fichiers) du guide de l'utilisateur pour obtenir la liste des formats de fichier gérés par OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Set up a new project</seg>
+      </tuv>
+      <tuv xml:lang="FR" changeid="briglegrand" changedate="20120501T174652Z">
+        <seg>Préparation d'un nouveau projet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The "level1" and "level2" memories can be shared with users of other translation programs.</seg>
+      </tuv>
+      <tuv xml:lang="FR" changeid="briglegrand" changedate="20120502T110321Z">
+        <seg>Les mémoires « level1 » et « level2 » sont compatibles avec les outils de TAO prenant en charge les TMX niveaux 1 et 2 et peuvent être partagées avec d'autres utilisateurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The memory named "omegat" can be used in OmegaT itself, in future projects that you create.</seg>
+      </tuv>
+      <tuv xml:lang="FR" changeid="briglegrand" changedate="20120502T133202Z">
+        <seg>La mémoire « omegat » est une mémoire native, propre à OmegaT et peut être réutilisée dans d'autres projets OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The tags in OmegaT are greyed, so they are easy to recognise.</seg>
+      </tuv>
+      <tuv xml:lang="FR" changeid="briglegrand" changedate="20120501T192453Z">
+        <seg>Les balises dans OmegaT sont grisées pour être facilement reconnaissables.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Therefore, press <bpt i="0" x="0">&lt;k0&gt;</bpt>Ctrl+T<ept i="0">&lt;/k0&gt;</ept> before you generate your translated file, to validate that your tags are correct.</seg>
+      </tuv>
+      <tuv xml:lang="FR" changeid="briglegrand" changedate="20120502T113322Z">
+        <seg>Par conséquent, assurez-vous que vos balises sont correctes et validez-les avant de générer le fichier traduit (raccourci clavier <bpt i="0" x="0">&lt;k0&gt;</bpt>Ctrl+T<ept i="0">&lt;/k0&gt;</ept>).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>They are not protected, so that you can delete them, enter them by hand or move them around in the target sentence.</seg>
+      </tuv>
+      <tuv xml:lang="FR" changeid="briglegrand" changedate="20120501T192606Z">
+        <seg>Elles ne sont pas protégées et vous pouvez donc les supprimer, en ajouter manuellement ou les déplacer dans la phrase cible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>To remind yourself of the project's initial settings, open the Project Settings dialog by pressing <bpt i="0" x="0">&lt;k0&gt;</bpt>Ctrl+E<ept i="0">&lt;/k0&gt;</ept>.</seg>
+      </tuv>
+      <tuv xml:lang="FR" changeid="briglegrand" changedate="20120502T113752Z">
+        <seg>Vous pouvez revoir les réglages du projet dans la fenêtre Modifier le projet (raccourci clavier <bpt i="0" x="0">&lt;k0&gt;</bpt>Ctrl+E<ept i="0">&lt;/k0&gt;</ept>).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>To see a list of files in the project, open the Project Files dialog by pressing <bpt i="1" x="1">&lt;k1&gt;</bpt>Ctrl+L<ept i="1">&lt;/k1&gt;</ept>..</seg>
+      </tuv>
+      <tuv xml:lang="FR" changeid="briglegrand" changedate="20120502T113836Z">
+        <seg>Vous pouvez afficher la liste des fichiers du projet dans la fenêtre Fichiers du projet (raccourci clavier <bpt i="0" x="0">&lt;k0&gt;</bpt>Ctrl+L<ept i="0">&lt;/k0&gt;</ept>).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>To start using OmegaT, first create a project that will hold all your files, such as your source file, translation memories, glossaries, and eventually your translated file.</seg>
+      </tuv>
+      <tuv xml:lang="FR" changeid="briglegrand" changedate="20120502T132418Z">
+        <seg>Pour pouvoir travailler avec OmegaT, vous devez commencer par créer un projet qui contiendra vos fichiers, notamment le fichier source, les mémoires de traduction, les glossaires ainsi que le fichier traduit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Translate the file</seg>
+      </tuv>
+      <tuv xml:lang="FR" changeid="briglegrand" changedate="20120501T184643Z">
+        <seg>Traduction du fichier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Validate your tags</seg>
+      </tuv>
+      <tuv xml:lang="FR" changeid="briglegrand" changedate="20120501T190844Z">
+        <seg>Validation des balises</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Whenever you want to see what your translation will look like in its final format, press <bpt i="1" x="1">&lt;k1&gt;</bpt>Ctrl+D<ept i="1">&lt;/k1&gt;</ept> to generate the translated document, which you will be created in the /target/ subfolder of your project folder.</seg>
+      </tuv>
+      <tuv xml:lang="FR" changeid="briglegrand" changedate="20120502T132831Z">
+        <seg>Si vous souhaitez obtenir un aperçu de votre traduction dans son format final, utilisez le raccourci <bpt i="1" x="1">&lt;k1&gt;</bpt>Ctrl+D<ept i="1">&lt;/k1&gt;</ept> pour générer le document traduit dans le sous-dossier /target/ du dossier projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>You can create a glossary by pressing <bpt i="0" x="0">&lt;g0&gt;</bpt>Ctrl+Shift+G<ept i="0">&lt;/g0&gt;</ept>, or copy existing glossaries to the <bpt i="1" x="1">&lt;f1&gt;</bpt>/glossary/<ept i="1">&lt;/f1&gt;</ept> subfolder of your project folder, and OmegaT will automatically look up words in them.</seg>
+      </tuv>
+      <tuv xml:lang="FR" changeid="briglegrand" changedate="20120502T133251Z">
+        <seg>Vous pouvez créer un nouveau glossaire au cours de la traduction (raccourci clavier <bpt i="0" x="0">&lt;g0&gt;</bpt>Ctrl+Shift+G<ept i="0">&lt;/g0&gt;</ept>), ou copier d'autres glossaires dans le sous-dossier <bpt i="1" x="1">&lt;f1&gt;</bpt>/glossary/<ept i="1">&lt;/f1&gt;</ept> du dossier projet : OmegaT y recherche automatiquement les mots associés au segment actif.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>You can create a new project for each new job, and you can add several source files to a project at a time.</seg>
+      </tuv>
+      <tuv xml:lang="FR" changeid="briglegrand" changedate="20120502T071134Z">
+        <seg>Vous pouvez créer de nouveaux projets en fonction de votre travail et vous pouvez ajouter plusieurs fichiers source à un même projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>http://tech.groups.yahoo.com/group/OmegaT/</seg>
+      </tuv>
+      <tuv xml:lang="FR" changeid="briglegrand" changedate="20120502T114459Z">
+        <seg>http://tech.groups.yahoo.com/group/omegat/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>http://www.omegat.org/en/tutorial/OmegaT%20for%20Beginners.pdf</seg>
+      </tuv>
+      <tuv xml:lang="FR" changeid="briglegrand" changedate="20120502T114441Z">
+        <seg>http://www.omegat.org/en/tutorial/OmegaT%20for%20Beginners.pdf</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

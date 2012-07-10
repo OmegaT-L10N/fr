@@ -1,13 +1,21 @@
-09/07/12 15:04
+10/07/12 14:40
 Données du projet
 
-                           	Segments	Mots	Caractères (sans espaces)	Caractères (avec espaces)	
-Total :                    	       0	   0	                        0	                        0	
-Restants :                 	       0	   0	                        0	                        0	
-Segments uniques :         	       0	   0	                        0	                        0	
-Segments uniques restants :	       0	   0	                        0	                        0	
+                           	Segments	 Mots	Caractères (sans espaces)	Caractères (avec espaces)	
+Total :                    	    2187	13516	                    74963	                    86006	
+Restants :                 	       0	    0	                        0	                        0	
+Segments uniques :         	    1061	 6643	                    36481	                    41922	
+Segments uniques restants :	       0	    0	                        0	                        0	
 
 
 Statistiques par fichiers :
 
-Nom du fichier	Total segments	Segments restants	Segments uniques	Segments uniques restants	Total mots	Mots restants	Mots uniques	Mots uniques restants	Total caractères (sans espaces)	Caractères restants (sans espaces)	Caractères uniques (sans espaces)	Caractères uniques restants (sans espaces)	Total caractères (avec espaces)	Caractères restants (avec espaces)	Caractères uniques (avec espaces)	Caractères uniques restants (avec espaces)	
+Nom du fichier                                 	Total segments	Segments restants	Segments uniques	Segments uniques restants	Total mots	Mots restants	Mots uniques	Mots uniques restants	Total caractères (sans espaces)	Caractères restants (sans espaces)	Caractères uniques (sans espaces)	Caractères uniques restants (sans espaces)	Total caractères (avec espaces)	Caractères restants (avec espaces)	Caractères uniques (avec espaces)	Caractères uniques restants (avec espaces)	
+2.5\doc_src\en\InstantStartGuide.xml           	            49	                0	              47	                        0	       792	            0	         746	                    0	                           3771	                                 0	                             3589	                                         0	                           4495	                                 0	                             4269	                                         0	
+2.5\readme.utf8                                	           228	                0	             209	                        0	      1963	            0	        1929	                    0	                          11318	                                 0	                            10647	                                         0	                          13017	                                 0	                            12334	                                         0	
+2.5\release\win32-specific\CustomMessages.ini  	             5	                0	               5	                        0	        45	            0	          45	                    0	                            231	                                 0	                              231	                                         0	                            271	                                 0	                              271	                                         0	
+2.5\src\org\omegat\Bundle.properties           	           791	                0	             760	                        0	      3880	            0	        3777	                    0	                          21661	                                 0	                            21074	                                         0	                          24663	                                 0	                            24004	                                         0	
+trunk\doc_src\en\InstantStartGuide.xml         	            49	                0	               0	                        0	       792	            0	           0	                    0	                           3771	                                 0	                                0	                                         0	                           4495	                                 0	                                0	                                         0	
+trunk\readme.utf8                              	           228	                0	               0	                        0	      1963	            0	           0	                    0	                          11318	                                 0	                                0	                                         0	                          13017	                                 0	                                0	                                         0	
+trunk\release\win32-specific\CustomMessages.ini	             5	                0	               0	                        0	        45	            0	           0	                    0	                            231	                                 0	                                0	                                         0	                            271	                                 0	                                0	                                         0	
+trunk\src\org\omegat\Bundle.properties         	           832	                0	              40	                        0	      4036	            0	         146	                    0	                          22662	                                 0	                              940	                                         0	                          25777	                                 0	                             1044	                                         0	
