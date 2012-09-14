@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.0_4" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.1" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4060,6 +4060,16 @@ Zoltan Bartko, Volker Berlin, Didier Briel (responsable du développement), Kim 
     <tu>
       <tuv lang="EN">
         <seg>Code has been contributed by: 
+Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, Alex Buloichik (lead developer), Thomas Cordonnier, Sandra Jean Chua, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Ibai Lakunza Velasco, Guido Leenders, Fabián Mandelbaum, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Rashid Umarov, Antonio Vilei, Martin Wunderlich and Michael Zakharov</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20120914T162132Z">
+        <seg>Contributions au code :
+Zoltan Bartko, Volker Berlin, Didier Briel (responsable du développement), Kim Bruning, Alex Buloichik (développeur principal), Thomas Cordonnier, Sandra Jean Chua, Martin Fleurke, Wildrich Fourie, Philippe Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Ibai Lakunza Velasco, Guido Leenders, Fabián Mandelbaum, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Rashid Umarov, Antonio Vilei, Martin Wunderlich and Michael Zakharov</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Code has been contributed by: 
 Zoltan Bartko, Volker Berlin, Didier Briel (release manager), Kim Bruning, Alex Buloichik, Sandra Jean Chua, Martin Fleurke, Wildrich Fourie, Thomas Huriaux, Fabián Mandelbaum, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Tiago Saboga, Andrzej Sawuła, Benjamin Siband and Martin Wunderlich</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20100510T123038Z">
@@ -4125,6 +4135,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (responsable de versions), Kim Brunin
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20120420T210632Z">
         <seg>Il est impossible de valide, parce que quelqu'un d'autre a modifié la traduction distante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Compress whitespace in translated document</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20120914T162147Z">
+        <seg>Compresser les espaces dans le document traduit</seg>
       </tuv>
     </tu>
     <tu>
@@ -5182,6 +5200,14 @@ several security warnings.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Encoding</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20120914T162031Z">
+        <seg>Encodage</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Encountered illegal \u sequence</seg>
       </tuv>
       <tuv lang="FR">
@@ -5928,6 +5954,14 @@ launch script.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Ce nom de fichier existe déjà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Filter</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20120914T162016Z">
+        <seg>Filtre</seg>
       </tuv>
     </tu>
     <tu>
@@ -10869,6 +10903,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove HTML comments in translated document</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20120914T162208Z">
+        <seg>Supprimer les commentaires HTML dans le document traduit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove Script</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20111111T125128Z">
@@ -14473,6 +14515,14 @@ you can search through without subscription:</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20120305T142443Z">
         <seg>Voir, ajouter, supprimer ou modifier une note dans le segment actif.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Visio Files</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20120914T162040Z">
+        <seg>Fichiers Visio</seg>
       </tuv>
     </tu>
     <tu>
