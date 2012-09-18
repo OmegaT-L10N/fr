@@ -3331,6 +3331,14 @@ provoquer des comportements inattendus, mais corrects.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Auto replace 'nplurals=INTEGER; plural=EXPRESSION;' in header</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20120918T151713Z">
+        <seg>Remplacer 'nplurals=INTEGER; plural=EXPRESSION;' in header</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Available dictionaries:</seg>
       </tuv>
       <tuv lang="FR">
@@ -11907,6 +11915,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Les raccourcis clavier décrits ici utilisent la notation « Ctrl+touche » que les utilisateurs de Mac doivent lire « Cmd+touche ».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Skip PO header</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20120918T151707Z">
+        <seg>Ignorer l'en-tête des fichiers PO</seg>
       </tuv>
     </tu>
     <tu>
