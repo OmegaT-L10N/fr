@@ -2929,6 +2929,14 @@ OmegaT peut être exécuté de différentes façons.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add entry</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20121113T090015Z">
+        <seg>Ajouter une entrée</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add or rewrite encoding declaration in HTML and XHTML files:</seg>
       </tuv>
       <tuv lang="FR">
@@ -4253,6 +4261,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (responsable de versions), Kim Brunin
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Connection available, the project is in team project mode.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20121113T090159Z">
+        <seg>Connexion disponible, le projet est en mode projet en équipe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Contents</seg>
       </tuv>
       <tuv lang="FR">
@@ -4381,6 +4397,14 @@ archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>L'apparence spécifique au système d'exploitation n'a pas pu être initialisée !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Could not save credentials to text file</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20121113T090358Z">
+        <seg>Impossible d'enregistrer les informations d'identification dans un fichier texte</seg>
       </tuv>
     </tu>
     <tu>
@@ -5388,6 +5412,14 @@ launch script.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error checking out the project from remote repository:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20121113T090224Z">
+        <seg>Erreur durant l'extraction du projet à partir du référentiel distant :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error checking out the project from remote repository: {0}</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20120420T211414Z">
@@ -6100,6 +6132,14 @@ launch script.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Caractère « ? » flottant non lié à « &gt; » !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Folder already exists and is not empty.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20121113T085947Z">
+        <seg>Le dossier existe déjà et n'est pas vide.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9002,6 +9042,14 @@ Java already installed on their machines.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No connection available, the project is in offline mode.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20121113T090204Z">
+        <seg>Aucune connexion disponible, le projet est en mode déconnecté.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>No match:</seg>
       </tuv>
       <tuv lang="FR">
@@ -9486,6 +9534,14 @@ Java already installed on their machines.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20120404T141042Z">
         <seg>OmegaT est distribué gratuitement, il n'est donc pas nécessaire de payer de licence d'utilisation même pour un usage professionnel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT has chosen option 'Yes' automatically.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20121113T085935Z">
+        <seg>OmegaT a choisi l'option « Oui » automatiquement.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10343,6 +10399,14 @@ this and all previous releases.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20100403T094759Z">
         <seg>Veuillez d'abord sélectionner un dossier pour les dictionnaires</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please select a different folder.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20121113T090005Z">
+        <seg>Veuillez choisir un autre dossier.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13032,6 +13096,14 @@ an access to the hard drive of the computer.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The project folder {0} is missing and could not be created.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20121113T090335Z">
+        <seg>Le dossier de projet {0} est absent et n'a pas pu être créé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The script "{0}" is running...</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20111028T124838Z">
@@ -14419,6 +14491,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Utilisation de la mémoire de traduction et les correspondances de vos glossaires et dictionnaires</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User denied credentials</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20121113T090319Z">
+        <seg>Informations d'identification de l'utilisateur refusés</seg>
       </tuv>
     </tu>
     <tu>
