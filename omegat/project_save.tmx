@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.1_2" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.1_3" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2482,14 +2482,6 @@ OmegaT peut être exécuté de différentes façons.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; conserve le formatage des documents originaux (caractères gras, italiques...) en utilisant des balises spéciales.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; is a free multi platform Computer Aided Translation tool, with the following highlights:</seg>
-      </tuv>
-      <tuv lang="FR" changeid="briglegrand" changedate="20121227T180223Z">
-        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; is a free multi platform Computer Aided Translation tool, with the following highlights:</seg>
       </tuv>
     </tu>
     <tu>
