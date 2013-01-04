@@ -2953,6 +2953,14 @@ OmegaT peut être exécuté de différentes façons.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add glossary entry</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130104T145708Z">
+        <seg>Ajouter une entrée de glossaire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add or rewrite encoding declaration in HTML and XHTML files:</seg>
       </tuv>
       <tuv lang="FR">
@@ -8738,6 +8746,14 @@ Java already installed on their machines.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mark Bidirectional Algorithm Control Characters</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130104T145940Z">
+        <seg>Marquer les caractères de contrôle de bidirectionnalité</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mark Non-&amp;Unique Segments</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20101119T085440Z">
@@ -8750,6 +8766,14 @@ Java already installed on their machines.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20120225T175501Z">
         <seg>Marquer les segments &amp;annotés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark Whitespace</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130104T145854Z">
+        <seg>Marquer les caractères d'espacement</seg>
       </tuv>
     </tu>
     <tu>
@@ -11045,6 +11069,22 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20111028T125147Z">
         <seg>Actualisation du dossier de script « {0} »</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Regular expression for custom tags:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130104T145616Z">
+        <seg>Expression régulière pour les balises personnalisées :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Regular expression for fragments that should be removed from translation:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130104T145655Z">
+        <seg>Expression régulière pour les fragments à supprimer de la traduction :</seg>
       </tuv>
     </tu>
     <tu>
