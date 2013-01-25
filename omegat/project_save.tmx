@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.1_3" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.2" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2594,6 +2594,14 @@ OmegaT peut être exécuté de différentes façons.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>&lt;f6&gt;&lt;/i&gt;&lt;/f6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;html&gt;Per-project external commands are disabled and will not be executed.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130125T163526Z">
+        <seg>&lt;html&gt;Les commande externes par projet sont désactivée et ne seront pas exécutées.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5314,6 +5322,14 @@ several security warnings.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enable them in &lt;b&gt;Options &gt; Save...&lt;/b&gt;.&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130125T163541Z">
+        <seg>Activez-les dans &lt;b&gt;Options &gt; Enregistrement...&lt;/b&gt;.&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enabled</seg>
       </tuv>
       <tuv lang="FR">
@@ -5516,6 +5532,14 @@ launch script.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error monitoring external command!</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130125T163351Z">
+        <seg>Erreur de surveillance de la commande externe !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error on application startup</seg>
       </tuv>
       <tuv lang="FR">
@@ -5576,6 +5600,14 @@ launch script.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Erreur dans la recherche des répertoires !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error starting external command: {0}</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130125T163223Z">
+        <seg>Erreur au démarrage d'une commande externe : {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -5838,6 +5870,30 @@ launch script.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Executing external command...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130125T163307Z">
+        <seg>Exécution de la commande externe...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exit code {0}: "{1}"</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130125T163252Z">
+        <seg>Code de sortie {0} : "{1}"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exit code: {0}</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130125T163240Z">
+        <seg>Code de sortie : {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Export Selection</seg>
       </tuv>
       <tuv lang="FR">
@@ -5862,6 +5918,22 @@ launch script.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>External Post-processing Command (Disabled):</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130125T163503Z">
+        <seg>Commande de post-traitement externe (désactivée) :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>External Post-processing Command:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130125T163446Z">
+        <seg>Commande de post-traitement externe :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>External TM&amp;Xs...</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20101001T212941Z">
@@ -5874,6 +5946,30 @@ launch script.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20101001T213012Z">
         <seg>Options des TMX externes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>External command completed.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130125T163234Z">
+        <seg>Commande externe terminée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>External command failed.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130125T163315Z">
+        <seg>Échec de la commande externe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>External command was interrupted.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130125T163335Z">
+        <seg>La commande externe a été interrompue.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15297,6 +15393,14 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       </tuv>
       <tuv lang="FR">
         <seg>Mots</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Writable Glossary File</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130125T163610Z">
+        <seg>Writable Glossary File</seg>
       </tuv>
     </tu>
     <tu>
