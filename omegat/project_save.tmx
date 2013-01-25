@@ -3090,6 +3090,14 @@ it includes the directory where the 'java' application resides.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Allow translated tags to be in a different order</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130125T164653Z">
+        <seg>Autoriser un ordre différent pour les balises traduites</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Allows to view, add, remove or edit a note in the active segment.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20120307T084220Z">
@@ -3708,6 +3716,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Canceled creating new team project</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130125T165000Z">
+        <seg>Canceled creating new team project</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cancelled creating new team project</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20120504T064805Z">
@@ -4161,6 +4177,16 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="FR" changeid="Didier" changedate="20121004T153129Z">
         <seg>Contributions au code :
 Zoltan Bartko, Volker Berlin, Didier Briel (responsable du développement), Kim Bruning, Alex Buloichik (développeur principal), Thomas Cordonnier, Sandra Jean Chua, Martin Fleurke, Wildrich Fourie, Philippe Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Rashid Umarov, Antonio Vilei, Martin Wunderlich and Michael Zakharov</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Code has been contributed by: 
+Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, Alex Buloichik (lead developer), Thomas Cordonnier, Sandra Jean Chua, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Martin Wunderlich and Michael Zakharov</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130125T164618Z">
+        <seg>Contributions au code :
+Zoltan Bartko, Volker Berlin, Didier Briel (responsable du développement), Kim Bruning, Alex Buloichik (développeur principal), Thomas Cordonnier, Sandra Jean Chua, Martin Fleurke, Wildrich Fourie, Philippe Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Martin Wunderlich and Michael Zakharov</seg>
       </tuv>
     </tu>
     <tu>
@@ -15039,6 +15065,14 @@ you can search through without subscription:</seg>
       <tuv lang="FR">
         <seg>Avertissement à la ligne {0}, colonne {1} pendant l'analyse :
 {2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Warning: Changing tag order may break the translated document!</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130125T164715Z">
+        <seg>Attention : modifier l'ordre des balises peut endommager le document traduit !</seg>
       </tuv>
     </tu>
     <tu>
