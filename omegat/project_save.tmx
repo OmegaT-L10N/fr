@@ -5952,6 +5952,14 @@ launch script.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>External Post-processing Command</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130128T144834Z">
+        <seg>Commande de post-traitement externe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>External Post-processing Command (Disabled):</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130125T163503Z">
@@ -10175,14 +10183,6 @@ with exactly the same structure, including copies of any non-supported files.</s
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>OmegaT-{0}</seg>
-      </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20121205T180334Z">
-        <seg>OmegaT-{0}</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>OmegaT-{0}_{1}</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20120131T094122Z">
@@ -11675,6 +11675,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sa&amp;ving and Output...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130128T144807Z">
+        <seg>Enregistre&amp;ment et exécution...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sabim (Portugese-Brazil)</seg>
       </tuv>
       <tuv lang="FR">
@@ -11743,6 +11751,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20111028T125155Z">
         <seg>Enregistrer le script</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Saving and Output Options</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130128T144828Z">
+        <seg>Options d'enregistrement et d'exécution</seg>
       </tuv>
     </tu>
     <tu>
@@ -13652,6 +13668,14 @@ version will not interfere with it.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Cet appel DOIT être dans le fil d'exécution swing</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This command will be executed after Creating Translated Documents.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130128T144858Z">
+        <seg>Cette commande sera exécutée après Créer les documents traduits.</seg>
       </tuv>
     </tu>
     <tu>
