@@ -1054,6 +1054,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>'{0}' menu selected</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130316T132758Z">
+        <seg>Menu « {0} » sélectionné</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(&lt;i0&gt;→ Formatted Text&lt;/i0&gt;)</seg>
       </tuv>
       <tuv lang="FR">
@@ -4467,6 +4475,14 @@ archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copyright © 2000-2013 Keith Godfrey, Maxym Mykhalchuk and others</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130316T132601Z">
+        <seg>Copyright © 2000-2013 Keith Godfrey, Maxym Mykhalchuk et d'autres personnes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Core changes:</seg>
       </tuv>
       <tuv lang="FR">
@@ -5015,6 +5031,14 @@ archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Dmitri Gabinski (biélorusse, espéranto et russe)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do not allow creating translated documents with tag issues</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130316T132719Z">
+        <seg>Ne pas permettre la création des documents traduits avec des problèmes de balise</seg>
       </tuv>
     </tu>
     <tu>
@@ -6583,6 +6607,14 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Glossaries</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130316T132517Z">
+        <seg>les glossaires</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Glossary</seg>
       </tuv>
       <tuv lang="FR">
@@ -7937,6 +7969,22 @@ script,and select it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Insert next missing tag</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130316T132414Z">
+        <seg>Insérer la prochaine balise manquante</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert tag</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130316T132429Z">
+        <seg>Insérer une balise</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Insert the &amp;best fuzzy match</seg>
       </tuv>
       <tuv lang="FR">
@@ -9080,6 +9128,14 @@ Java already installed on their machines.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Maxym Mykhalchuk (responsable du développement)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Memory</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130316T132458Z">
+        <seg>la mémoire</seg>
       </tuv>
     </tu>
     <tu>
@@ -10799,6 +10855,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Preserve spaces for all tags</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130316T132648Z">
+        <seg>Préserver les espaces pour toutes les balises</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Press "&lt;s0&gt;ENTER&lt;/s0&gt;" to advance to the next segment.</seg>
       </tuv>
       <tuv lang="FR">
@@ -11371,6 +11435,22 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove leading and trailing tags</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130316T132620Z">
+        <seg>Supprimer les balises en début et fin de segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove leading and trailing whitespace in non-segmented projects</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130316T132638Z">
+        <seg>Supprimer les espaces en début et fin de segment dans les projets non segmentés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove pattern?</seg>
       </tuv>
       <tuv lang="FR">
@@ -11919,6 +11999,22 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Rechercher :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search in</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130316T132453Z">
+        <seg>Rechercher dans</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search in project</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130316T132536Z">
+        <seg>Rechercher dans le projet</seg>
       </tuv>
     </tu>
     <tu>
@@ -12745,6 +12841,14 @@ and then start OmegaT.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Fichiers TMX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TMs</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130316T132512Z">
+        <seg>les MT</seg>
       </tuv>
     </tu>
     <tu>
@@ -14217,6 +14321,14 @@ Kaptain.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20101230T141239Z">
         <seg>Traduisez les segments un par un</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translated</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130316T132528Z">
+        <seg>Traduits</seg>
       </tuv>
     </tu>
     <tu>
