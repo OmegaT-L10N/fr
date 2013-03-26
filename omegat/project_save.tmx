@@ -3106,6 +3106,14 @@ it includes the directory where the 'java' application resides.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Allow tag editing</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130326T082506Z">
+        <seg>Autoriser la modification des balises</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Allow translated tags to be in a different order</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130125T164653Z">
@@ -7953,10 +7961,34 @@ script,and select it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Insert Missing Source &amp;Tags</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130326T082135Z">
+        <seg>Insérer les ba&amp;lises source manquantes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert Next Missing Tag</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130326T082158Z">
+        <seg>Insérer la prochaine balise manquante</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Insert Source &amp;Tags</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20100118T131316Z">
         <seg>Insérer les ba&amp;lises source</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert Tag {0}</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130326T082223Z">
+        <seg>Insérer la balise {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -8205,6 +8237,14 @@ inside the configuration folder.</seg>
       <tuv lang="FR">
         <seg>Il n'a pas été possible de créer le dossier script
 dans le dossier de configuration.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It was not possible to create translated documents, because some tags are missing or damaged.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130326T082420Z">
+        <seg>Il n'a pas été possible de créer les documents traduits, parce qu'il manque certaines balises ou qu'elles sont endommagées.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9312,6 +9352,14 @@ Java already installed on their machines.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Fenêtre des paramètres du projet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Next &amp;Translated Segment</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130326T082333Z">
+        <seg>Segment tradu&amp;it suivant</seg>
       </tuv>
     </tu>
     <tu>
@@ -10688,6 +10736,14 @@ to determine the source of the error and try again.</seg>
         <seg>Consultez le journal
 ({1})
 pour déterminer la source de l'erreur et faites une nouvelle tentative.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please correct the tag issues before using again Create Translated Documents.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130326T082452Z">
+        <seg>Veuillez corriger les problèmes de balises avant d'utiliser à nouveau Créer les documents traduits.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15063,6 +15119,14 @@ you can search through without subscription:</seg>
       </tuv>
       <tuv lang="FR">
         <seg>VLDocking Framework 2.0 par VLSolutions (licence CeCILL).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Validate tags when leaving a segment</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130326T082518Z">
+        <seg>Valider les balises en quittant un segment</seg>
       </tuv>
     </tu>
     <tu>
