@@ -1,0 +1,99 @@
+SRC_CANFORM	TGT_CANFORM	COMMENTS
+aligner	outil d'alignement	(GDT : aligneur)
+aligner utility	utilitaire d'alignement	
+alignment tool	outil d'alignement	
+block-level segmentation	segmentation en mode bloc	segmentation en paragraphes
+CAT	TAO	computer assisted translation = traduction assistée par ordinateur
+code repository	dépôt de code source	(revision control system = système de gestion de version)
+computer aided translation	traduction assistée par ordinateur	CAT = TAO
+core application	application de base	
+crawled data	données récupérées	(données indexées ?)
+Download Overview	présentation des téléchargements	web
+Download Selector	sélecteur de téléchargement	web
+editing behaviour	ligne d'édition	IHM (menu Options)
+editor	éditeur	Editor pane = volet d'édition
+file encodings	encodage des fichiers	
+free software	logiciel libre	(libre vs open source : www.commentcamarche.net/faq/4626-mythe-logiciel-libre-logiciel-open-source)
+free translation memory application	logiciel libre de mémoire de traduction	CONTEXTE ! si relatif au logiciel OmegaT 'logiciel libre de TAO' (mt est trop restrictif)
+free translation memory tool	outil libre de mémoire de traduction	web : was 'outil gratuit d'aide à la traduction' but not accurate ; CONTEXTE ! si relatif au logiciel OmegaT 'logiciel libre de TAO' (mt est trop restrictif)
+fuzzy match	correspondance partielle	IHM : correspondance (pour l'onglet parce que c'est plus court, mais aussi parce que ça peut très bien contenir des correspondances tout ce qu'il y a de plus exactes.)
+fuzzy matching	correspondance partielle	concordances
+glossary look-up	recherche dans les glossaires	
+glossary lookup	recherche dans les glossaires	
+inline tag information	repères de formatage	
+instant start	pour commencer tout de suite	guide de prise en main affiché par défaut au lancement de l'interface utilisateur (instant start manual, instant start guide, instant start tutorial)
+instant start guide	tutoriel de prise en main	guide de prise en main affiché par défaut au lancement de l'interface utilisateur (instant start manual, instant start guide, instant start tutorial)
+instant start tutorial	tutoriel de prise en main	guide de prise en main affiché par défaut au lancement de l'interface utilisateur (instant start manual, instant start guide, instant start tutorial)
+integrated translation environment	environnement de traduction intégré	
+Java Web Start	Java Web Start	www.java.com/en/download/faq/java_webstart.xml (OmegaT Java Web Start Launcher = lanceur Java Web Start d'OmegaT)
+LanguageTool	LanguageTool	nom de l'extension (www.omegat.org/fr/resources.html), vérificateur linguistique
+machine translator	traducteur automatique	fonctionnalité/système de traduction automatique
+match propagation	propagation des correspondances	phénomène qui fait que plusieurs instances d'une même chaine seront traduites de la même manière car considérées comme une seule chaine pour OmegaT
+Microsoft Office 2007 XML	Microsoft Office 2007 XML	product name
+multiple-file	multifichier	
+multiple-file project	projet multifichier	pl = projets multifichier
+non-latin alphabets	alphabets non latin	
+Okapi	Okapi	product name ; Okapi framework = logiciel intégré Okapi
+OmegaT	OmegaT	product name
+open-source software	logiciel open source	logiciel à code source ouvert (libre vs open source : www.commentcamarche.net/faq/4626-mythe-logiciel-libre-logiciel-open-source)
+Oracle Open Office	Oracle Open Office	product name, formerly 'StarOffice'
+pattern	masque	file pattern = masque de filtre ; filename pattern = masque de nom de fichier
+placeables	transposables	voir wordfast, éléments transposables : élément non traduisible, comme une balise html (tag), un paramètre numérique, une URL ou adresse mail, qui doivent en général être copié tel quel dans le segment cible (objets insérables : http://lists.debian.org/debian-l10n-french/2009/07/msg00108.html)
+plain text file	fichier texte	plain text = texte brut
+Platform-independent	multiplateforme 	
+plug-in	extension, module d'extension	termes adoptés en France par la commission générale de terminologie et de néologie (au Québec : plugiciel, mot-valise formé à partir de plus et logiciel) (en termino inf, on rencontre aussi le terme 'greffon')
+plugin	extension, module d'extension	termes adoptés en France par la commission générale de terminologie et de néologie (au Québec : plugiciel, mot-valise formé à partir de plus et logiciel) (en termino inf, on rencontre aussi le terme 'greffon')
+project file	fichier projet, fichier du projet	CONTEXTE ! pl = fichiers projet (fichiers du projet, fichiers d'un projet)
+Rainbow	Rainbow	product name
+recognition of inflected forms	identification des flexions	glossary function
+regular expression	expression régulière	regexp, regex ; emploi critiqué (expression rationnelle) 
+ressource file	fichier de ressources	fichier ressource
+revision control system	système de gestion de version	
+right-to-left languages	langues s'écrivant de droite à gauche	
+screenshots	captures d'écran	
+segment	segment	
+source segment	segment source	
+source text 	texte source	pl = textes source
+spell checker	vérificateur orthographique	(plus courant : vérificateur d'orthographe)
+spell checking	vérification de l'orthographe, vérification orthographique	selon contexte : correction (orthographique) ; interactive spell-checking = correction interactive ; inline spell-checking = vérification orthographique lors de la frappe
+spell-checking	vérification de l'orthographe, vérification orthographique	selon contexte : correction (orthographique) ; interactive spell-checking = correction interactive ; inline spell-checking = vérification orthographique lors de la frappe
+spelling checker	vérificateur orthographique	(plus courant : vérificateur d'orthographe)
+string	chaîne de caractères	chaîne
+Subversion	Subversion	http://fr.wikipedia.org/wiki/Apache_Subversion
+tag	balise	
+tag verification	validation des balises	IHM (menu Options)
+TagEditor	TagEditor	product name (Trados)
+target field	ligne d'édition	
+target segment	segment cible	
+terminology manager	gestionnaire de terminologie	
+text counting	comptage de texte	
+third-party translation memories	mémoires de traduction externes	
+TM	MT	translation memory = mémoire de traduction
+TMX file	fichier TMX	native TMX file = fichier TMX natif ; level 1 TMX file = fichier TMX niveau 1; level 2 TMX file = fichier TMX niveau 2
+tokenizer	lemmatiseur	un lemmatiseur est un programme de traitement automatique du langage qui permet de passer d'un mot portant des marques de flexion (pluriel, forme conjuguée d'un verbe...) à sa forme de référence (lemme ou forme canonique) ou inversement (www.profession-traducteur.net/outils/outils.htm) ; la principale utilisation d'un tokenizer est de créer les mots (clés) pour les moteurs de recherche ; (stemming = recherche de radical, indexation par radicaux)
+Tokenizer	Tokenizer	nom de l'extension (www.omegat.org/fr/resources.html)
+tracking system	système de suivi	
+translation memory	mémoire de traduction	TM = MT
+translation memory application	logiciel de mémoire de traduction	CONTEXTE ! si relatif au logiciel OmegaT 'logiciel de TAO' (mt est trop restrictif)
+translation memory program	logiciel de mémoire de traduction	CONTEXTE ! si relatif au logiciel OmegaT 'logiciel de TAO' (mt est trop restrictif)
+translation memory tool	outil de mémoire de traduction	CONTEXTE ! si relatif au logiciel OmegaT 'logiciel de TAO' (mt est trop restrictif)
+translation unit	unité de traduction	
+translation workflow assistant	assistant de processus de traduction	TWA (Benten)
+tutorial	tutoriel	detailed tutorial = tutoriel complet
+TWA	assistant de processus de traduction	translation workflow assistant (Benten)
+uncleaned	non-nettoyé	Trados bilingual RTF format ("uncleaned" files) = format RTF bilingue de Trados (fichiers « non nettoyés »)
+user manual	manuel de l'utilisateur	manuel utilisateur, syn. selon contexte : guide
+Web Start	Web Start	Web Start version = version Web Start
+tagged text	texte balisé	tagged text file = fichier texte balisé
+monolingual XLIFF	XLIFF monolingue	(.xlf, .sdlxliff)
+QuarkXPress CopyFlowGold	CopyFlowGold pour QuarkXPress	(.tag, .xtg)
+SubRip title files	sous-titres SubRip	(.srt)
+Android resource 	ressource Android	(.xml)
+Typo3 LocManager	Typo3 LocManager	(.xml)
+WiX Localization	WiX Localization	(.wxl)
+DocBook	DocBook	(.xml)
+HTML Help Compiler	HTML Help Compiler	(.hhc, .hhk)
+DocuWiki	DocuWiki	(.txt)
+INI (key=value)	INI (clé=valeur) 	(.ini)
+PO	Portable Object (PO), PO	(.po)
+Java resource bundles	paquets de ressources Java	(.properties)
