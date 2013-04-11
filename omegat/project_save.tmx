@@ -2234,6 +2234,14 @@ OmegaT.bat to the desktop or Start menu to link it from there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>10.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briglegrand" changedate="20110112T083627Z">
+        <seg>10.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>2) Increase the amount of memory available to OmegaT, by
 specifying "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" on the
 command line or in the OmegaT start script;</seg>
@@ -2430,6 +2438,14 @@ OmegaT peut être exécuté de différentes façons.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>7.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briglegrand" changedate="20110111T202813Z">
+        <seg>7.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>75%-84%:</seg>
       </tuv>
       <tuv lang="FR">
@@ -2438,10 +2454,26 @@ OmegaT peut être exécuté de différentes façons.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>8.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briglegrand" changedate="20110111T210401Z">
+        <seg>8.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>85%-94%:</seg>
       </tuv>
       <tuv lang="FR">
         <seg>85 % à 94 % :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>9.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briglegrand" changedate="20110111T215201Z">
+        <seg>9.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9762,6 +9794,14 @@ Java already installed on their machines.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Fichiers XLIFF Okapi monolingues</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>OmegaT</seg>
       </tuv>
     </tu>
     <tu>
