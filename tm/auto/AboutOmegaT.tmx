@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.5.2_2" segtype="sentence" srclang="EN"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;/e4&gt; They can also be complex, allowing for instance to search for segments with two or more consecutive spaces.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130410T141731Z">
+        <seg>&lt;/e4&gt; Elles peuvent aussi être complexes, permettant, par exemple, de rechercher des segments contenant deux espaces consécutifs ou plus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; is a free multi platform Computer Aided Translation tool, with the following highlights:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130410T131958Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; est un outil de Traduction Assistée par Ordinateur libre et multiplateforme, qui présente les caractéristiques suivantes :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Appendices&lt;/e0&gt; contain the following information</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130410T142226Z">
+        <seg>&lt;e0&gt;Les annexes&lt;/e0&gt; contiennent les informations suivantes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Dictionaries, Glossaries&lt;/e0&gt;, &lt;e1&gt;Machine translation&lt;/e1&gt; , &lt;e2&gt;Spellchecker, LanguageTool:&lt;/e2&gt; OmegaT supports an extensive use of dictionaries and glossaries.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130410T141941Z">
+        <seg>&lt;e0&gt;Dictionnaires, Glossaires&lt;/e0&gt;, &lt;e1&gt;Traduction automatique&lt;/e1&gt; , &lt;e2&gt;Correcteur orthographique, LanguageTool :&lt;/e2&gt; OmegaT prend en charge l'utilisation d'un grand nombre de dictionnaires et de glossaires.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Editing field behavior:&lt;/e0&gt; a short chapter describing how to set up the editing behavior of the segment being translated.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130410T140409Z">
+        <seg>&lt;e0&gt;Comportement des domaines d'édition :&lt;/e0&gt; ce court chapitre décrit comment mettre en place le comportement d'édition d'un segment en cours de traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Installing and running OmegaT: &lt;/e0&gt;this chapter is useful when you first begin using OmegaT.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T123735Z">
+        <seg>&lt;e0&gt;Installation et démarrage d'OmegaT: &lt;/e0&gt;ce chapitre est utile lorsque vous commencez à utiliser OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Keyboard shortcuts in the editor&lt;/e0&gt;: the list of shortcuts used in the editor</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130410T142357Z">
+        <seg>&lt;e0&gt;Raccourcis clavier dans le volet d'édition&lt;/e0&gt;: la liste des raccourcis utilisés pour l'édition</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Keyword index:&lt;/e0&gt; an extensive keyword index is provided to help the reader find the relevant information.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T130500Z">
+        <seg>&lt;e0&gt;Index par mots-clés :&lt;/e0&gt;  un grand index par mots-clés est fourni pour aider le lecteur à trouver les informations pertinentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Languages:&lt;/e0&gt; the ISO list of languages and language codes is provided</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130410T142317Z">
+        <seg>&lt;e0&gt;Langues :&lt;/e0&gt; la liste ISO des langues et des codes de langue est fournie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Miscellanea&lt;/e0&gt;: deals with other issues of interest, such as how to avoid losing data.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130410T142157Z">
+        <seg>&lt;e0&gt;Divers&lt;/e0&gt;: ce chapitre traite d'autres questions importantes, telles que les façons d'éviter des pertes de données.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;OmegaT on the web:&lt;/e0&gt; information regarding on-line OmegaT resources</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130410T142246Z">
+        <seg>&lt;e0&gt;OmegaT sur le web:&lt;/e0&gt; informations concernant les ressources en ligne d'OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Project properties&lt;/e0&gt;, &lt;e1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt; Files and Directories:&lt;/e1&gt; a project in the context of OmegaT is the piece of work that OmegaT as a CAT tool is able to handle.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130410T140056Z">
+        <seg>&lt;e0&gt;Propriétés du projet&lt;/e0&gt;, &lt;e1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt; Fichiers et Répertoires :&lt;/e1&gt; Pour OmegaT, un projet est un travail qu'il est en mesure de gérer, en tant qu'outil TAO.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Searches&lt;/e0&gt; and&lt;e1&gt; &lt;/e1&gt;&lt;e2&gt;Regular expressions&lt;/e2&gt;: Searches in OmegaT can be as simple as "&lt;e3&gt;list segments with &lt;/e3&gt;&lt;e4&gt;the word 'kangaroo' ".</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130410T141626Z">
+        <seg>&lt;e0&gt;Recherches&lt;/e0&gt; et&lt;e1&gt; &lt;/e1&gt;&lt;e2&gt;Expressions régulières&lt;/e2&gt;: Les recherches sur OmegaT peuvent être aussi simples que "&lt;e3&gt;lister les segments contenant&lt;/e3&gt;&lt;e4&gt;le mot 'kangourou' ".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Segmentation&lt;/e0&gt;:translation memory tools work with textual units called segments.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130410T140812Z">
+        <seg>&lt;e0&gt;Segmentation&lt;/e0&gt;: les outils de mémoire de traduction fonctionnent avec des unités de texte appelées segments.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Shortcuts customization:&lt;/e0&gt; shortcuts can be customized to your personal preferences</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T130302Z">
+        <seg>&lt;e0&gt;Personnalisation des raccourcis :&lt;/e0&gt; les raccourcis peuvent être personnalisés selon vos préférences personnelles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Terminology management&lt;/e0&gt;: Terminology management is important for translation consistency.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T122727Z">
+        <seg>&lt;e0&gt;Gestion de la terminologie&lt;/e0&gt;: La gestion de la terminologie est importante pour la cohérence de la traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;The user interface&lt;/e0&gt;,&lt;e1&gt;Main Menu and Keyboard Shortcuts&lt;/e1&gt;: these two chapters are likely to be heavily consulted, since they explain the user interface of OmegaT and the functions available via the main menu and the keyboard shortcuts.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130410T135814Z">
+        <seg>&lt;e0&gt;L'interface utilisateur&lt;/e0&gt;,&lt;e1&gt;Menu Princpal et Raccourcis Claviers&lt;/e1&gt;: ces deux chapitres seront certainement très consultés car ils expliquent le fonctionnement de l'interface utilisateur d'OmegaT et les fonctionnalités disponibles via le menu principal et les raccourcis claviers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Translation memories: &lt;/e0&gt; explains the role of the various subdirectories containing translation memories, and provides information on other important aspects relating to translation memories.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130410T140723Z">
+        <seg>&lt;e0&gt;Mémoires de traduction: &lt;/e0&gt; ce chapitre explique le rôle des différents sous-répertoires contenant les mémoires de traduction, et fourni des informations concernant d'autres éléments importants en lien avec les mémoires de traductions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Translation memory:&lt;/e0&gt;&lt;a1&gt; OmegaT&lt;/a1&gt; stores your translations in a translation memory file.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T121117Z">
+        <seg>&lt;e0&gt;Mémoire de traduction :&lt;/e0&gt;&lt;a1&gt; OmegaT&lt;/a1&gt; enregistre vos traductions dans un fichier mémoire de traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Translation process:&lt;/e0&gt; Imagine having to translate something; from a single file to a folder containing subfolders each with a number of files in a variety of formats.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130410T133643Z">
+        <seg>&lt;e0&gt;Travail de traduction :&lt;/e0&gt; Imaginez que vous ayez à traduire quelque chose ; d'un fichier unique à un dossier contenant des sous-dossiers, chacun rempli d'un certain nombre de fichiers sous différents formats.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Working with plain text&lt;/e0&gt; and &lt;e1&gt;Working with formatted text&lt;/e1&gt;: these two chapters explain certain important points concerning texts to be translated, such as the encoding set (in the case of plain text files) and tag handling (in the case of formatted text).</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130410T140545Z">
+        <seg>&lt;e0&gt;Travailler avec du texte brut&lt;/e0&gt; et &lt;e1&gt;Travailler avec du texte formaté &lt;/e1&gt;: Ces deux chapitres expliquent certains points importants concernant les textes à traduire, tels que les ensembles d'encodage (dans le cas de fichiers textes bruts)  et la gestion de balises (dans le cas de textes formatés).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt; Instant start guide:&lt;/e0&gt; this chapter is intended as an Instant Start Guide for beginners and “tyre kickers”, showing the complete procedure from opening a new translation project through to completing the translation.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130410T135304Z">
+        <seg>&lt;e0&gt; Tutoriel premiers pas :&lt;/e0&gt; Ce chapitre est conçu comme un tutoriel premiers pas pour les débutants et les “impatients”, il offre un aperçu de la procédure complète, allant de la création d'un nouveau projet de traduction à la traduction effective.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A number of rule sets are provided while additional rules can be defined by the user, as described in this chapter.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130410T141433Z">
+        <seg>Un certain nombre d'ensembles de règles sont fournis même si des règles additionnelles peuvent être définies par l'utilisateur, comme décrit dans ce chapitre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>About &lt;a0&gt;OmegaT&lt;/a0&gt; - introduction</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T120755Z">
+        <seg>À propos d'&lt;a0&gt;OmegaT&lt;/a0&gt; - introduction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>At the same time, it can use memories files from previous translations for reference.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130410T132147Z">
+        <seg>Il peut aussi utiliser simultanément des fichiers mémoires de précédentes traductions comme références.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For advanced users, the chapter describes the command line mode and its possibilities.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T123850Z">
+        <seg>Pour les utilisateurs confirmés, ce chapitre décrit le mode ligne de commande et ses possibilités.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For your reference, OmegaT displays the translation of any words that happen to be present in the segment that currently has focus.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130410T133529Z">
+        <seg>Pour vous informer, OmegaT affiche la traduction de tous les mots qui peuvent apparaitre dans le segment que vous êtes en train de traduire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Here is a short summary of the chapters and their contents.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T123531Z">
+        <seg>Vous trouverez ici un court résumé des chapitres et de leur contenu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If an Internet connection is available, various MT services such as Google Translate and Microsoft Translator can be used from within OmegaT.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130410T142021Z">
+        <seg>Si une connexion internet est disponible, différents services de traduction automatique tels que Google Traduction et Microsoft Translator peuvent être utilisés à l'intérieur même d'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If spell checking is activated, spelling mistakes and typos are recognized and can be corrected during translation.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130410T142054Z">
+        <seg>Si le correcteur orthographique est activé, les fautes d'orthographe et les fautes de frappe sont reconnues et corrigées pendant la traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you are supplied with previously created translation memories , for example by your translation agency or your client, OmegaT is able to use these as reference memories.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T122350Z">
+        <seg>Si l'on vous confie des mémoires de traduction précédemment créées (que vous pouvez recevoir, par exemple, de votre agence de traduction ou bien d'un client), OmegaT est en mesure de les utiliser comme mémoires de référence.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In OmegaT, segments can be based on paragraphs or on segmentation rules.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T124816Z">
+        <seg>Dans OmegaT, les segments peuvent être définis en fonction des paragraphes ou des règles de segmentation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this case the regular expression ^s^s+ would be used to find and list the offending segments.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T125352Z">
+        <seg>Dans ce cas, l'expression régulière ^s^s+ sera utilisée pour trouver une liste de tous les segments concernés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Introduction into Tokenizer and Scripting plugins</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T130324Z">
+        <seg>Introduction à la Tokenization et aux plug-ins scriptés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It contains the specific instructions on how to install OmegaT and run it on Windows, Mac OS X and Linux.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T123815Z">
+        <seg>Il contient les instructions spécifiques concernant l'installation d'OmegaT et sa mise en route sur Windows, Mac OS X et Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Legal notices and Acknowledgements</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130410T142611Z">
+        <seg>Mentions légales et Remerciements</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Modifications to the original document are thus handled with greater ease.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130410T132744Z">
+        <seg>Les modifications apportées au document original sont ainsi traduites avec une plus grande facilité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT highlights</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T120835Z">
+        <seg>Les atouts d'OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT stores your translations and proposes possible translations from similar segments in previous memory files.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130410T134303Z">
+        <seg>OmegaT enregistre vos traductions et propose des traductions possibles en fonction des segments similaires présent dans les fichiers mémoires pré-existants.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT uses glossaries containing translations of single words or small phrases: a simplified bilingual dictionary for a specific domain.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130410T133429Z">
+        <seg>OmegaT utilise des glossaires contenant des traductions de mots uniques ou de petites phrases, soit, un dictionnaire bilingue simplifié dédié à un domaine spécifique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT uses the standard tmx file format to store and access translation memories, which guarantees that you can exchange your translation material with other CAT applications supporting this file format.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130410T133114Z">
+        <seg>OmegaT utilise le format de fichier tmx standard pour enregistrer et pour avoir accès à vos mémoires de traduction, ce qui vous garantit la possibilité de réaliser des échanges de matériel de traduction avec les autres applications de logiciel TAO qui utilisent ce format.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT uses translation memories to store your previous translations and then suggest likely translations for the text you are currently working on.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130410T132411Z">
+        <seg>OmegaT utilise les mémoires de traduction pour enregistrer vos précédentes traductions et pour ensuite vous suggérer des traductions possibles pour le texte surlequel vous êtes en train de travailler.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Paragraph segmentation is less frequently used, but can be useful in cases of so-called "creative" texts.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130410T140909Z">
+        <seg>La segmentation par paragraphe est moins souvent utilisée mais peut se révéler utile dans le cadre de textes dits "créatifs".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Regular expressions are also used extensively in the segmentation rules.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T125438Z">
+        <seg>Les expressions régulières sont également largement utilisées dans les règles de segmentation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Summary of chapters</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130410T134459Z">
+        <seg>Résumé des chapitres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Team Projects</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130410T142601Z">
+        <seg>Projets en équipe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The openSource LanguageTool can be used to correct common grammatical and stylistic mistakes.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T125923Z">
+        <seg>Le logiciel libre LanguageTool peut être utilisé pour corriger les erreurs grammaticales et stylistiques courantes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The rule-based segmentation is usually synonymous with sentence-based segmentation.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130410T141219Z">
+        <seg>L'autre type de segmentation, basée sur un ensemble de règles, est généralement synonyme de segmentation par phrase.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The second of these chapters describes the various subfolders and files in a translation project and their role as well as other user and application files associated with OmegaT.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130410T140240Z">
+        <seg>Le second de ces chapitres décrit les différents sous-dossiers et fichiers d'un projet de traduction ainsi que leur rôles. Il décrit également les autres fichiers utilisateur et fichiers application associés à OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These translation memories can be very useful when a document that has already been translated needs to be updated.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130410T132459Z">
+        <seg>Ces mémoires de traduction peuvent être très utiles lorsqu'un document qui a déjà été traduit doit être mis à jour.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This chapter describes the project properties, such as the source and target languages.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T124227Z">
+        <seg>Ce chapitre décrit les propriétés du projet, comme les langues sources et les langues cibles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This documentation is intended both as a tutorial and as a reference guide.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130410T134617Z">
+        <seg>Ce manuel est conçu pour servir à la fois de tutoriel et de guide de référence.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translation memories can be very useful in a translation where there are numerous repetitions or reasonably similar segments of text.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130410T132307Z">
+        <seg>Les mémoires de traduction peuvent être très utiles dans les traductions où l'on trouve de nombreuses répétitions ou des segments de texte relativement similaires.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unchanged sentences are automatically translated, while updated sentences are shown with the translation of the most similar, older sentence.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130410T132717Z">
+        <seg>Les phrases inchangées sont traduites automatiquement alors que pour les phrases mises à jour, la traduction des anciennes phrases qui leur ressemblent le plus est affichée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you are ready to view the final product, you can export the translated files, open them in the appropriate application and view the translation in the final format...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130410T134445Z">
+        <seg>Lorsque vous êtes prêt à voir le produit final, vous pouvez exporter les fichiers traduits, les ouvrir avec le programme approprié et regarder la traduction dans son format final...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you let OmegaT know the files that you need to translate, it looks for the files it understands based on file filtering rules, recognizes the textual parts within them, splits up the text groups according to the segmentation rules, and displays the segments one by one so that you can proceed with the translation.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130410T134036Z">
+        <seg>Lorsqu'OmegaT prend connaissance des fichiers que vous voulez traduire, il recherche les fichiers qu'il reconnait sur la base de règles de filtrage de fichiers, reconnait les parties textuelles, sépare les groupes de texte en suivant les règles de segmentation, et affiche les segments un par un de sorte que vous puissiez procéder à la traduction.</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

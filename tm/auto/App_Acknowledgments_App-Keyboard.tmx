@@ -1,0 +1,1073 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.5.2_2" segtype="sentence" srclang="EN"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN">
+        <seg>* These keys behave differently when the cursor is outside the editable segment:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130411T081546Z">
+        <seg>* Ces touches ont un comportement différent lorsque le curseur est à l'extérieur du segment modifiable:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Any char key,&lt;/e0&gt; if clicked outside editable segment, will be ignored.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130411T081708Z">
+        <seg>Un appui sur &lt;e0&gt;n'importe qu'elle autre touche&lt;/e0&gt;  à l'extérieur du segment modifiable sera ignoré.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Backspace: &lt;/e0&gt;nothing</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130411T081613Z">
+        <seg>&lt;e0&gt;Retour arrière : &lt;/e0&gt;rien ne se passe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Delete: &lt;/e0&gt;nothing</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130411T081623Z">
+        <seg>&lt;e0&gt;Supprimer : &lt;/e0&gt;rien ne se passe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;End: &lt;/e0&gt; cursor to the end of the active segment</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130411T081607Z">
+        <seg>&lt;e0&gt;Fin : &lt;/e0&gt; déplacement du curseur à la fin du segment actif</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Home: &lt;/e0&gt; cursor to the beginning of the active segment</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130411T081601Z">
+        <seg>&lt;e0&gt;Début : &lt;/e0&gt; déplacement du curseur au début du segment actif</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Project&lt;/p0&gt; &lt;s1&gt;Properties&lt;/s1&gt; &lt;s2&gt;Languages&lt;/s2&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T123653Z">
+        <seg>&lt;p0&gt;Projet&lt;/p0&gt; &lt;s1&gt;Propriétés&lt;/s1&gt; &lt;s2&gt;Langues&lt;/s2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Abkhaz</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T123922Z">
+        <seg>Abkhaze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Acknowledgements</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T121150Z">
+        <seg>Remerciements</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Albanian</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T124118Z">
+        <seg>Albanais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Amharic</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T124135Z">
+        <seg>Amharique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Arabic</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T124202Z">
+        <seg>Arabe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Aragonese</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T124219Z">
+        <seg>Aragonais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Armenian</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T124223Z">
+        <seg>Arménien</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Assamese</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T124251Z">
+        <seg>Assamais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Avaric</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T124400Z">
+        <seg>Avar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Avestan</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T124428Z">
+        <seg>Avestique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Azerbaijani</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T124542Z">
+        <seg>Azerbaïdjanais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Backspace*</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T122546Z">
+        <seg>Retour arrière*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Belarusian</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T124616Z">
+        <seg>Biélorusse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bislama</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T124714Z">
+        <seg>Bichelamar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bosnian</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T124729Z">
+        <seg>Bosnien</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bulgarian</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T124735Z">
+        <seg>Bulgare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Burmese</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T124806Z">
+        <seg>Birman</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chechen</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T124850Z">
+        <seg>Tchètchène</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chinese</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T124924Z">
+        <seg>Chinois</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chuvash</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T124952Z">
+        <seg>Tchouvache</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cornish</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T125017Z">
+        <seg>Cornique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Corsican</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T125041Z">
+        <seg>Corse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cree</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T125054Z">
+        <seg>Cri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Croatian</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T125107Z">
+        <seg>Croate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Backspace</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T122623Z">
+        <seg>Ctrl+Retour arrière</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Delete</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T122717Z">
+        <seg>Ctrl+Supprimer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+End</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T122452Z">
+        <seg>Ctrl+Fin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Enter</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T122740Z">
+        <seg>Ctrl+Entrée</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Home</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T122426Z">
+        <seg>Ctrl+Début</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Left:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130411T080625Z">
+        <seg>Ctrl+Gauche :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+PgDn</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T122527Z">
+        <seg>Ctrl+Pg suiv</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+PgUp</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T122503Z">
+        <seg>Ctrl+Pg préc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Right:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130411T080621Z">
+        <seg>Ctrl+Droite :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Shift+O</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T122823Z">
+        <seg>Ctrl+Maj+O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Czech</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T125115Z">
+        <seg>Tchèque</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Danish</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T125124Z">
+        <seg>Danois</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Delete*</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T122604Z">
+        <seg>Supprimer*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Didier Briel: I could not do without Didier's patient and persistent help with DocBook intricacies.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130411T074346Z">
+        <seg>Didier Briel : Je n'aurais rien pu faire sans I'aide patiente et persistante que Didier m'a apportée face à la complexité de DocBook.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Divehi, Dhivehi, Maldivian</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T125150Z">
+        <seg>Divehi, Dhivehi, Maldivien</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dutch</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T125202Z">
+        <seg>Néerlandais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>End*</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T122403Z">
+        <seg>Fin*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>English</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T125234Z">
+        <seg>Anglais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Estonian</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T125246Z">
+        <seg>Estonien</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Explicit thanks to:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130411T074334Z">
+        <seg>J'exprime donc ma gratitude à :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Faroese</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T125325Z">
+        <seg>Féroïen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fijian</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T125352Z">
+        <seg>Fidjien</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Finnish</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T125410Z">
+        <seg>Finnois</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>French</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T125414Z">
+        <seg>Français</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fula, Fulah, Pulaar, Pular</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T125507Z">
+        <seg>Peul, Peulh, Pulaar, Pularl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Galician</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T125519Z">
+        <seg>Galicien</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Georgian</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T125533Z">
+        <seg>Géorgien</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>German</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T125537Z">
+        <seg>Allemand</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Greek, Modern</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T125553Z">
+        <seg>Grec oderne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Haitian, Haitian Creole</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T125701Z">
+        <seg>Haïtien, Créole</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hausa</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T125710Z">
+        <seg>Haoussa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hebrew (modern)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T125717Z">
+        <seg>Hebreu (moderne)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Herero</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T125730Z">
+        <seg>Héréro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hiri Motu</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T125750Z">
+        <seg>Hiri Motou</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Home*</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T122323Z">
+        <seg>Début*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hungarian</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T125802Z">
+        <seg>Hongrois</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ISO 639-1/639-2 Language code list</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T123845Z">
+        <seg>Liste des codes langues ISO 639-1/639-2 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ISO language codes</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T123642Z">
+        <seg>Codes langues ISO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Icelandic</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T125943Z">
+        <seg>Islandais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Indonesian</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T125849Z">
+        <seg>Indonesien</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Inupiaq</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T125925Z">
+        <seg>Inupiak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Irish</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T125853Z">
+        <seg>Irlandais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Italian</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T125948Z">
+        <seg>Italien</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Japanese</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T130003Z">
+        <seg>Japonais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Javanese</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T130009Z">
+        <seg>Javanais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Jean-Christophe Helary: special thanks to JC for his concise description of OmegaT run, command line parameters and all other details, I have yet to notice.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130411T073704Z">
+        <seg>Jean-Christophe Helary: remerciements particuliers à JC pour sa description concise de l'éxécution d'OmegaT, des paramètres de ses lignes de commandes et de tous les autres petits détails que je n'ai pas encore repérés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Kalaallisut, Greenlandic</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T130027Z">
+        <seg>Kalaallisut, Groenlandais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Kanuri</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T130103Z">
+        <seg>Kanouri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Kashmiri</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T130119Z">
+        <seg>Cachemiri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Keep up your good work!</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130411T074324Z">
+        <seg>Continuez votre excellent travail !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Key behavior in the editor</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T122005Z">
+        <seg>Comportement des touches dans le volet d'édition</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Key combination</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130411T080031Z">
+        <seg>Combinaison de touches</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Keyboard shortcuts in the editor</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130411T074521Z">
+        <seg>Raccourcis clavier dans le volet d'édition</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Kirghiz, Kyrgyz</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T130254Z">
+        <seg>Kirghiz, Kirghize</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Kongo</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T130336Z">
+        <seg>Kikongo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Korean</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T130344Z">
+        <seg>Coréen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Kurdish</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T130353Z">
+        <seg>Kurde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Kwanyama, Kuanyama</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T130415Z">
+        <seg>Kuanyama</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Language name</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T123849Z">
+        <seg>Nom de la langue</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Languages</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T123630Z">
+        <seg>Langues</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Languages - ISO 639 code list</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T123709Z">
+        <seg>Langues - Liste de codes ISO 639</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Last but not least: my thanks to all the contributors to&lt;u0&gt; OmegaT documentation tracker&lt;/u0&gt; for all the inconsistencies found in the previous versions of the documentation.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130411T074106Z">
+        <seg>Dernier remerciement mais non des moindres: je remercie tous ceux qui ont contribué à &lt;u0&gt;l'analyse du manuel d'OmegaT&lt;/u0&gt; pour toutes les incohérences qu'ils ont trouvées dans ses précédentes versions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Left:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130411T080633Z">
+        <seg>Gauche :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Limburgish, Limburgan, Limburger</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T130532Z">
+        <seg>Limbourgeois</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Luxembourgish, Letzeburgesch</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T130437Z">
+        <seg>Luxembourgeois, Letzeburgesch</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark Prior: correcting my first draft was an act of love for OmegaT and the English language.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130411T074350Z">
+        <seg>Mark Prior : corriger ma première ébauche a été un acte d'amour pour OmegaT et la langue anglaise.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Not to mention his care and diligence, keeping repositories intact and in good order.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T121559Z">
+        <seg>Sans parler des soins et du zèle dont il a fait preuve pour protéger les référentiels et les tenir en ordre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note that you can reassign the shortcuts to your own preferences.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130411T082148Z">
+        <seg>Notez que vous pouvez reprogrammer les raccourcis selon vos préférences.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>One could only wonder, how many the and a prepositions would still be missing without his invaluable help.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130411T073512Z">
+        <seg>Je ne peux qu'imaginer le nombre de prépositions qui manqueraient encore si je n'avais pas bénéficié de son aide précieuse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>PgDn:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130411T080652Z">
+        <seg>Pg suiv :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>PgUp:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130411T080616Z">
+        <seg>Pg préc :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please check the&lt;u0&gt; ISO 639 Code Tables&lt;/u0&gt; for further and up-to-date information about language codes.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T123827Z">
+        <seg>Merci de vérifier le  &lt;u0&gt;Tableau de Codes ISO 639 &lt;/u0&gt; pour des informations complémentaires et actualisées à propos des codes langues.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>RTL-LTR switch</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130411T081512Z">
+        <seg>Passage du mode de lecture droite-à-gauche au mode de lecture gauche-à-droite (et inversement)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Right:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130411T080628Z">
+        <seg>Droite :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Samuel Murray: for the introductory chapter "Learn to use OmegaT in 5 minutes".</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130411T074354Z">
+        <seg>Samuel Murray : pour le chapitre d'introduction "Apprenez à utiliser OmegaT en 5 minutes".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See &lt;l0&gt;Appendix ShortCut Customization&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T123549Z">
+        <seg>Voir &lt;l0&gt;Annexe Peronnalisation des Raccourcis&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>System-wide commands Select All (&lt;k0&gt;Ctrl+A&lt;/k0&gt;), Paste (&lt;e1&gt;Ctrl+V&lt;/e1&gt;), Cut (&lt;e2&gt;Ctrl+X&lt;/e2&gt;), copy (&lt;e3&gt;Ctrl+C)&lt;/e3&gt;, Insert match &lt;e4&gt;(Ctrl+I&lt;/e4&gt;) and Insert source (&lt;e5&gt;Ctrl+Shift+I&lt;/e5&gt;) act in principle on the text within the currently open segment only.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T123545Z">
+        <seg>Les commandes utilisées pour l'ensemble du système, Tout sélectionner (&lt;k0&gt;Ctrl+A&lt;/k0&gt;), Coller (&lt;e1&gt;Ctrl+V&lt;/e1&gt;), Couper (&lt;e2&gt;Ctrl+X&lt;/e2&gt;), Copier (&lt;e3&gt;Ctrl+C)&lt;/e3&gt;, Insérer la correspondance &lt;e4&gt;(Ctrl+I&lt;/e4&gt;) et Insérer le texte source (&lt;e5&gt;Ctrl+Maj+I&lt;/e5&gt;) fonctionnent en principe sur le texte, mais uniquement à l'intérieur du segment ouvert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Thank you all!</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130411T074415Z">
+        <seg>Merci à tous !!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The "Shift" key doesn't exhibit any special behavior per se: when the "Shift" key is pressed, all keys move the cursor in their usual manner, except in the case of the &lt;l0&gt;Shift+Enter&lt;/l0&gt; combination, that inserts a line brak into the text.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130411T082005Z">
+        <seg>En elle-même, la touche "Maj" ne provoque pas de comportement particulier : lorsque la touche "Maj" est appuyée, toutes les touches déplacent le curseur de manière habituelle, à l'exception de la combinaison  &lt;l0&gt;Maj+Entrée&lt;/l0&gt; qui insère un retour à la ligne dans le texte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The term "Move to inside segment" means, that the cursor moves to the beginning of the segment if it was previously before the segment, and to the end of the segment if it was previously after it.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130411T080007Z">
+        <seg>Le terme "Déplacement vers l'intérieur du segment" signifie que le curseur ira se placer au début du segment actif s'il est positionné avant celui-ci, et qu'il ira se placer à la fin du segment actif s'il est positionné après.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This manual, however, would not be possible without the help and support from a number of people.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T121709Z">
+        <seg>Cependant, ce manuel n'aurait pas pu voir le jour sans l'aide et le soutien d'un grand nombre de personnes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This short text describes key behavior in the editor pane.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T121933Z">
+        <seg>Ce petit texte décrit le comportement des touches dans le volet d'édition.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Whatever the inconsistencies, omissions and straightforward errors you may find in the present version, I declare them all my own.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130411T072426Z">
+        <seg>Quelles que soient les incohérences, omissions et simples erreurs que pourriez trouver dans cette version, je tiens à déclarer que j'en assume l'entière responsabilité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Will Helton: his final reading of the draft has spared me a lot of embarrassment.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130411T074402Z">
+        <seg>Will Helton : sa lecture finale du projet m'a évité de nombreux désagréments.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>move to the beginning of the line in the segment</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T122358Z">
+        <seg>déplacement au début de la ligne à l'intérieur du segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>move to the end of the document (Mac: &lt;e0&gt;Cmd+PgDn&lt;/e0&gt;)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T122540Z">
+        <seg>déplacement à la fin du document (Mac: &lt;e0&gt;Cmd+Pg suiv&lt;/e0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>move to the end of the line in the segment</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T122420Z">
+        <seg>déplacement à la fin de la ligne à l'intérieur du segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>move to the end of the segment</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T122458Z">
+        <seg>déplacement à la fin du segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>move to the start of the document (Mac: &lt;e0&gt;Cmd+PgUp&lt;/e0&gt;)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T122522Z">
+        <seg>déplacement au début du document (Mac: &lt;e0&gt;Cmd+Pg préc&lt;/e0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>move to the start of the segment</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T122447Z">
+        <seg>déplacement au début du segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>one char left, but not further than the beginning of segment</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130411T080419Z">
+        <seg>déplacement d'un caractère sur la gauche mais qui ne va pas plus loin que le début du segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>one char right, but not further than the end of segment</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130411T080453Z">
+        <seg>déplacement d'un caractère sur la droite mais qui ne va pas plus loin que la fin du segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>one word left, but not further than the beginning of segment</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130411T080517Z">
+        <seg>déplacement d'un mot sur la gauche mais qui ne va pas plus loin que le début du segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>one word right, but not further than the end of segment</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130411T080534Z">
+        <seg>déplacement d'un mot sur la droite mais qui ne va pas plus loin que la fin du segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>open previous segment (Mac: &lt;e0&gt;Cmd+Enter&lt;/e0&gt;)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T122750Z">
+        <seg>ouvre le segment précédent (Mac: &lt;e0&gt;Cmd+Enter&lt;/e0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>page down through the document</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130411T080717Z">
+        <seg>le document défile vers le bas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>page up through the document</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130411T080734Z">
+        <seg>le document défile vers le haut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>remove char after cursor</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T122617Z">
+        <seg>supprime le caractère placé après le curseur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>remove char before cursor</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T122600Z">
+        <seg>supprime le caractère placé avant le curseur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>remove chars up to the start of next word (Mac: &lt;e0&gt;Alt+Delete&lt;/e0&gt;)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T122737Z">
+        <seg>supprime tous les caractères du mot placé après le curseur (Mac: &lt;e0&gt;Alt+Supprimer&lt;/e0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>remove chars up to the start of the current word (Mac: &lt;e0&gt;Alt+Backspace&lt;/e0&gt;)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T122709Z">
+        <seg>supprime tous les caractères du mot placé avant le curseur (Mac: &lt;e0&gt;Alt+Retour arrière&lt;/e0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>select complete segment (Mac: &lt;e0&gt;Cmd+A&lt;/e0&gt;)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T122818Z">
+        <seg>sélectionne le segment complet (Mac: &lt;e0&gt;Cmd+A&lt;/e0&gt;)</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
