@@ -21,12 +21,12 @@
       <itemizedlist>
         <listitem>
           <para><emphasis role="bold">Yes: </emphasis>download
-          <emphasis>OmegaT_2.5.x_Windows_without_JRE.exe</emphasis>.</para>
+          <emphasis>OmegaT_2.6.x_Windows_without_JRE.exe</emphasis>.</para>
         </listitem>
 
         <listitem>
           <para><emphasis role="bold">No / I don't know:</emphasis>
-          download<emphasis> OmegaT_2.5.x_Windows.exe.</emphasis></para>
+          download<emphasis> OmegaT_2.6.x_Windows.exe.</emphasis></para>
 
           <para>This package is bundled with Oracle's Java Runtime
           Environment. This JRE will not interfere with other Java
@@ -39,25 +39,21 @@
       <title><application>Installing OmegaT</application></title>
 
       <para>To install <application>OmegaT</application>, double-click on the
-      program you have downloaded, and follow the instructions</para>
-    </section>
+      program you have downloaded.</para>
 
-    <section id="adding.OmegaT.to.the.start.menu.or.desktop">
-      <title>Adding <application>OmegaT</application> to the start menu or
-      desktop<indexterm class="singular">
-          <primary>Customizing OmegaT</primary>
-
-          <secondary>Windows</secondary>
-        </indexterm></title>
-
-      <para>During the installation, the setup program asks you whether you
-      wish to create a folder in the <emphasis>start</emphasis> menu, and
-      whether you wish to create a shortcut on the desktop and in the quick
-      launch bar.</para>
-
-      <para>You can still create a shortcut later by dragging
+      <para>At the beginning of the installation you can select the language
+      to be used during the installation. In the following window you can
+      indicate that the language selected is to be used in OmegaT. If you
+      check the corresponding checkbox, the OmegaT.l4J.ini file is modified to
+      use the language selected (see next section for details). Later, after
+      you have accepted the license agreement, the setup program asks you
+      whether you wish to create a folder in the <emphasis>start</emphasis>
+      menu, and whether you wish to create a shortcut on the desktop and in
+      the quick launch bar - you can create these shortcuts later by dragging
       <emphasis><application>OmegaT</application>.exe</emphasis> to the
-      desktop or start menu to link it from there.</para>
+      desktop or to the start menu to link it from there. The last frame
+      offers you to have a look at the readme and changes files for the
+      version you have installed.</para>
     </section>
 
     <section id="running.OmegaT.Windows">
@@ -171,12 +167,12 @@
       <itemizedlist>
         <listitem>
           <para><emphasis role="bold">Yes: </emphasis>download
-          <emphasis>OmegaT_2.5.x_Without_JRE.zip</emphasis>.</para>
+          <emphasis>OmegaT_2.6.x_Without_JRE.zip</emphasis>.</para>
         </listitem>
 
         <listitem>
           <para><emphasis role="bold">No / I don't know:</emphasis> download
-          <emphasis>OmegaT_2.5.x_Linux.tar.bz2.</emphasis></para>
+          <emphasis>OmegaT_2.6.x_Linux.tar.bz2.</emphasis></para>
 
           <para>This package is bundled with Oracle's Java Runtime
           Environment. This JRE will not interfere with other Java
@@ -314,23 +310,23 @@
     <section id="which.package.to.download.OSX">
       <title>Downloading the package</title>
 
-      <para><application>OmegaT</application> 2.5 requires Java 1.5 to run.
+      <para><application>OmegaT</application> 2.6 requires Java 1.5 to run.
       Use "Software Update..." from the Apple menu to update your Java
       version.</para>
 
-      <para>Download <emphasis>OmegaT_2.5.x_Mac.zip.</emphasis></para>
+      <para>Download <emphasis>OmegaT_2.6.x_Mac.zip.</emphasis></para>
     </section>
 
     <section id="OmegaT.installation.OSX">
       <title><application>Installing OmegaT </application></title>
 
-      <para>Double click on <emphasis>OmegaT_2.5.x_Mac.zip</emphasis> to
+      <para>Double click on <emphasis>OmegaT_2.6.x_Mac.zip</emphasis> to
       unpack it. This creates a folder called <emphasis>
       <application>OmegaT</application> </emphasis>. The folder contains 2
       files: index.html and
       <emphasis><application>OmegaT</application>.app.</emphasis> Copy the
       folder to a suitable folder (e.g. Applications). Once you have done
-      this, you can delete the <emphasis>OmegaT_2.5.x_Mac.zip</emphasis> file,
+      this, you can delete the <emphasis>OmegaT_2.6.x_Mac.zip</emphasis> file,
       it is no longer needed.</para>
     </section>
 
@@ -429,7 +425,7 @@
       <itemizedlist>
         <listitem>
           <para><emphasis role="bold">Yes: </emphasis>download
-          <emphasis>OmegaT_2.5.x_Windows_without_JRE.</emphasis>zip. This
+          <emphasis>OmegaT_2.6.x_Windows_without_JRE.</emphasis>zip. This
           package can be used on any platform where a Java 1.5 JRE compatible
           JRE is installed.</para>
         </listitem>
@@ -444,7 +440,7 @@
         <listitem>
           <para><emphasis role="bold">No:</emphasis> obtain a Java JRE for
           your system (see below) and download
-          <emphasis>OmegaT_2.5.x_Without_JRE.zip</emphasis>.</para>
+          <emphasis>OmegaT_2.6.x_Without_JRE.zip</emphasis>.</para>
 
           <para>Oracle provides JREs for Solaris SPARC/x86 (Java 1.5) and for
           Linux x64, Solaris x64, Windows x64 (Java 1.5) at <ulink
@@ -468,8 +464,8 @@
         </indexterm></title>
 
       <para>To install <application>OmegaT</application>, simply unpack the
-      <emphasis role="bold">OmegaT_2.5.x_Without_JRE.zip</emphasis> file. This
-      creates an <emphasis>./OmegaT_2.5.x_Without_JRE/</emphasis> directory in
+      <emphasis role="bold">OmegaT_2.6.x_Without_JRE.zip</emphasis> file. This
+      creates an <emphasis>./OmegaT_2.6.x_Without_JRE/</emphasis> directory in
       the working folder with all the files necessary to run
       <application>OmegaT</application>.</para>
     </section>
@@ -599,9 +595,9 @@
       <para><literal>java -jar
       <application>OmegaT</application>.jar</literal></para>
 
-      <para>Pay attention to the capitalization - the program will not start,
-      if you enter <emphasis>omegat</emphasis> instead of <emphasis>OmegaT
-      </emphasis>!</para>
+      <para>Pay attention to the capitalization - in OS other than Windows,
+      the program will not start, if you enter <emphasis>omegat</emphasis>
+      instead of <emphasis>OmegaT </emphasis>!</para>
 
       <para>This method has a particular benefit of being suitable for finding
       causes of problems: if an error occurs during use of the program, an
@@ -776,6 +772,48 @@
             </indexterm></emphasis> If you have signed up for the Google
           Translate services, enter your private Google API key here. Note
           that the key is 38 characters long.</para>
+        </listitem>
+
+        <listitem>
+          <para><emphasis role="bold">Microsoft
+          Translator</emphasis><indexterm class="singular">
+              <primary>Running OmegaT</primary>
+
+              <secondary>Launch script arguments</secondary>
+
+              <tertiary>Microsoft Translator</tertiary>
+            </indexterm></para>
+
+          <para>Make sure that you have a free Microsoft account. You’ll need
+          this to sign-in to <ulink
+          url="http://datamarket.azure.com/dataset/bing/microsofttranslator#schema">Windows
+          Azure Marketplace</ulink> and use the Translator service. Note that
+          up to 2M characters per month are free of charge. the two entries
+          required are available in your <ulink
+          url="https://datamarket.azure.com/account">account page</ulink>
+          under Primary account key and Customer-ID:</para>
+
+          <para><emphasis
+          role="bold">-Dmicrosoft.api.client_id=</emphasis><emphasis
+          role="bold">XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX</emphasis></para>
+
+          <para>-<emphasis
+          role="bold">Dmicrosoft.api.client_secret=XXXX9xXxX9xXXxxXXX9xxX99xXXXX9xx9XXxXxXXXXX=</emphasis></para>
+        </listitem>
+
+        <listitem>
+          <para><emphasis role="bold">Team project option<parameter><indexterm
+              class="singular">
+              <primary>Running OmegaT</primary>
+
+              <secondary>Launch script arguments</secondary>
+
+              <tertiary>no-team option</tertiary>
+            </indexterm></parameter></emphasis></para>
+
+          <para><emphasis role="bold">-no-team</emphasis> addresses projects
+          set up for team work. Use it if OmegaT is not to synchronize the
+          project contents.</para>
         </listitem>
       </itemizedlist>
 
@@ -1009,15 +1047,12 @@
             <para><literal>--tag-validation=[abort|warn]</literal><parameter>
             outputFileName</parameter></para>
 
-            <para><parameter>and the output would contain remaining tag
-            validation errors that could be given back to the
-            translator.</parameter></para>
-
-            <para>This option allows batch mode validation of tags. If abort
-            is selected, the tag validator will stop on the first invalid
-            segment. If warn is specified, the tag validator will process all
-            segments and write warnings about any segments with invalid tags
-            into the file specified.</para>
+            <para>This option allows the tag validation in a batch mode. If
+            <literal>abort </literal>is selected, the tag validator will stop
+            on the first invalid segment. If <literal>warn</literal> is
+            specified, the tag validator will process all segments and write
+            warnings about any segments with invalid tags into the file
+            specified.</para>
           </listitem>
         </itemizedlist>
       </section>
@@ -1062,8 +1097,8 @@
     <para>Note that you will need the ant program
     (<emphasis>http://ant.apache.org/bindownload.cgi</emphasis>) to build your
     own version of OmegaT. Unpack the
-    <emphasis>OmegaT_2.5.x_Source.zip</emphasis> file and enter the
-    OmegaT_2.5.x_Source directory or enter the <emphasis>./omegat/</emphasis>
+    <emphasis>OmegaT_2.6.x_Source.zip</emphasis> file and enter the
+    OmegaT_2.6.x_Source directory or enter the <emphasis>./omegat/</emphasis>
     directory of the SVN checked out code. Please make sure that a build.xml
     file is present in that folder. Then, on the command line, type:</para>
 

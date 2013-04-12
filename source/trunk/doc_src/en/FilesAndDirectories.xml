@@ -55,10 +55,13 @@
 
       <mediaobject>
         <imageobject role="html">
-          <imagedata fileref="images/Omegatproject.png"/>
+		          <imagedata fileref="images/Omegatproject.png"/>
+       </imageobject>
+      <imageobject role="fo">
+          <imagedata fileref="images/Omegatproject.png" width="60%"/>
         </imageobject>
       </mediaobject>
-    </figure>
+	  </figure>
 
     <para>Alternate locations for some of the folders can be chosen at project
     creation or during the translation. It is therefore possible to select
@@ -145,7 +148,7 @@
 
       <para><informaltable>
           <tgroup align="left" cols="2" rowsep="1">
-            <colspec align="left" colnum="1" colwidth="120"/>
+            <colspec align="left" colnum="1"/>
 
             <tbody>
               <row>
@@ -252,7 +255,7 @@
   </section>
 
   <section id="user.files">
-    <title id="user.files.location">User settings files<indexterm
+    <title>User settings files<indexterm
         class="singular">
         <primary>Project files</primary>
 
@@ -264,7 +267,7 @@
 
     <informaltable>
       <tgroup align="left" cols="2" rowsep="1">
-        <colspec align="left" colnum="1" colwidth="100"/>
+        <colspec align="left" colnum="1"/>
 
         <tbody>
           <row>
@@ -317,7 +320,7 @@
 
     <informaltable>
       <tgroup align="left" cols="2" rowsep="1">
-        <colspec align="left" colnum="1" colwidth="100"/>
+        <colspec align="left" colnum="1"/>
 
         <tbody>
           <row>
@@ -391,7 +394,7 @@
 
     <informaltable>
       <tgroup align="left" cols="2" rowsep="1">
-        <colspec align="left" colnum="1" colwidth="100"/>
+        <colspec align="left" colnum="1"/>
 
         <tbody>
           <row>
@@ -471,7 +474,7 @@
           </row>
 
           <row>
-            <entry rowsep="0"><application>OmegaT</application></entry>
+            <entry rowsep="0"><literal>OmegaT</literal></entry>
 
             <entry rowsep="0">A text file containing two lines:</entry>
           </row>
@@ -496,11 +499,11 @@
             executable (chmod +x OmegaT) from the command line after making
             sure you are in the /OmegaT_2.5/ directory. You will then be able
             to launch OmegaT by executing this file from the command
-            line</entry>
+            line.</entry>
           </row>
 
           <row>
-            <entry rowsep="0"><application>OmegaT</application>.bat</entry>
+            <entry rowsep="0"><literal>OmegaT.bat</literal></entry>
 
             <entry rowsep="0">A batch file, used to launch
             <application>OmegaT</application> from the Windows command line.
@@ -510,12 +513,12 @@
           <row>
             <entry/>
 
-            <entry><literal>java -jar <application>OmegaT</application>.jar
+            <entry><literal>java -jar OmegaT.jar
             %*</literal></entry>
           </row>
 
           <row>
-            <entry><application>OmegaT</application>.jar</entry>
+            <entry><literal>OmegaT.jar</literal></entry>
 
             <entry>The main OmegaT application. To launch OmegaT, you must
             launch this file either from the command line or from your file
