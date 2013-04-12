@@ -1400,6 +1400,14 @@ Pour installer OmegaT, créez simplement un dossier approprié pour OmegaT.</seg
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>* These keys behave differently when the cursor is outside the editable segment:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130411T081546Z">
+        <seg>* Ces touches ont un comportement différent lorsque le curseur est à l'extérieur du segment modifiable:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>* Windows users: 
 If, during installation, you have created a shortcut on the desktop, 
 double-click on that shortcut.</seg>
@@ -2494,6 +2502,14 @@ OmegaT peut être exécuté de différentes façons.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/e4&gt; They can also be complex, allowing for instance to search for segments with two or more consecutive spaces.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130410T141731Z">
+        <seg>&lt;/e4&gt; Elles peuvent aussi être complexes, permettant, par exemple, de rechercher des segments contenant deux espaces consécutifs ou plus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;EMPTY&gt;</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20111111T124825Z">
@@ -2544,8 +2560,8 @@ OmegaT peut être exécuté de différentes façons.</seg>
       <tuv lang="EN">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; is a free multi platform Computer Aided Translation tool, with the following highlights:</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20130404T142808Z">
-        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; is a free multi platform Computer Aided Translation tool, with the following highlights:</seg>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130412T014643Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; est un outil de Traduction Assistée par Ordinateur libre et multiplateforme, qui présente les caractéristiques suivantes :</seg>
       </tuv>
     </tu>
     <tu>
@@ -2618,6 +2634,182 @@ OmegaT peut être exécuté de différentes façons.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130308T152435Z">
         <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt; 2.5&lt;/e0&gt; est Copyright © 2000-2012 Keith Godfrey, Maxym Mykhalchuk, Zoltan Bartko, Didier Briel, Kim Bruning, Alex Buloichik, Thomas Cordonnier, Sandra Jean Chua, Martin Fleurke, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, John Moran, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Rashid Umarov, Antonio Vilei, Martin Wunderlich et Michael Zakharov.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Any char key,&lt;/e0&gt; if clicked outside editable segment, will be ignored.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130411T081708Z">
+        <seg>Un appui sur &lt;e0&gt;n'importe qu'elle autre touche&lt;/e0&gt;  à l'extérieur du segment modifiable sera ignoré.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Appendices&lt;/e0&gt; contain the following information</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130410T142226Z">
+        <seg>&lt;e0&gt;Les annexes&lt;/e0&gt; contiennent les informations suivantes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Backspace: &lt;/e0&gt;nothing</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130411T081613Z">
+        <seg>&lt;e0&gt;Retour arrière : &lt;/e0&gt;rien ne se passe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Delete: &lt;/e0&gt;nothing</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130411T081623Z">
+        <seg>&lt;e0&gt;Supprimer : &lt;/e0&gt;rien ne se passe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Editing field behavior:&lt;/e0&gt; a short chapter describing how to set up the editing behavior of the segment being translated.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130410T140409Z">
+        <seg>&lt;e0&gt;Comportement des domaines d'édition :&lt;/e0&gt; ce court chapitre décrit comment mettre en place le comportement d'édition d'un segment en cours de traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;End: &lt;/e0&gt; cursor to the end of the active segment</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130411T081607Z">
+        <seg>&lt;e0&gt;Fin : &lt;/e0&gt; déplacement du curseur à la fin du segment actif</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Home: &lt;/e0&gt; cursor to the beginning of the active segment</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130411T081601Z">
+        <seg>&lt;e0&gt;Début : &lt;/e0&gt; déplacement du curseur au début du segment actif</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Installing and running OmegaT: &lt;/e0&gt;this chapter is useful when you first begin using OmegaT.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T123735Z">
+        <seg>&lt;e0&gt;Installation et démarrage d'OmegaT: &lt;/e0&gt;ce chapitre est utile lorsque vous commencez à utiliser OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Keyboard shortcuts in the editor&lt;/e0&gt;: the list of shortcuts used in the editor</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130410T142357Z">
+        <seg>&lt;e0&gt;Raccourcis clavier dans le volet d'édition&lt;/e0&gt;: la liste des raccourcis utilisés pour l'édition</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Keyword index:&lt;/e0&gt; an extensive keyword index is provided to help the reader find the relevant information.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T130500Z">
+        <seg>&lt;e0&gt;Index par mots-clés :&lt;/e0&gt;  un grand index par mots-clés est fourni pour aider le lecteur à trouver les informations pertinentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Miscellanea&lt;/e0&gt;: deals with other issues of interest, such as how to avoid losing data.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130410T142157Z">
+        <seg>&lt;e0&gt;Divers&lt;/e0&gt;: ce chapitre traite d'autres questions importantes, telles que les façons d'éviter des pertes de données.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;OmegaT on the web:&lt;/e0&gt; information regarding on-line OmegaT resources</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130410T142246Z">
+        <seg>&lt;e0&gt;OmegaT sur le web:&lt;/e0&gt; informations concernant les ressources en ligne d'OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Project properties&lt;/e0&gt;, &lt;e1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt; Files and Directories:&lt;/e1&gt; a project in the context of OmegaT is the piece of work that OmegaT as a CAT tool is able to handle.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130410T140056Z">
+        <seg>&lt;e0&gt;Propriétés du projet&lt;/e0&gt;, &lt;e1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt; Fichiers et Répertoires :&lt;/e1&gt; Pour OmegaT, un projet est un travail qu'il est en mesure de gérer, en tant qu'outil TAO.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Searches&lt;/e0&gt; and&lt;e1&gt; &lt;/e1&gt;&lt;e2&gt;Regular expressions&lt;/e2&gt;: Searches in OmegaT can be as simple as "&lt;e3&gt;list segments with &lt;/e3&gt;&lt;e4&gt;the word 'kangaroo' ".</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130410T141626Z">
+        <seg>&lt;e0&gt;Recherches&lt;/e0&gt; et&lt;e1&gt; &lt;/e1&gt;&lt;e2&gt;Expressions régulières&lt;/e2&gt;: Les recherches sur OmegaT peuvent être aussi simples que "&lt;e3&gt;lister les segments contenant&lt;/e3&gt;&lt;e4&gt;le mot 'kangourou' ".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Segmentation&lt;/e0&gt;:translation memory tools work with textual units called segments.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130410T140812Z">
+        <seg>&lt;e0&gt;Segmentation&lt;/e0&gt;: les outils de mémoire de traduction fonctionnent avec des unités de texte appelées segments.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Terminology management&lt;/e0&gt;: Terminology management is important for translation consistency.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T122727Z">
+        <seg>&lt;e0&gt;Gestion de la terminologie&lt;/e0&gt;: La gestion de la terminologie est importante pour la cohérence de la traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;The user interface&lt;/e0&gt;,&lt;e1&gt;Main Menu and Keyboard Shortcuts&lt;/e1&gt;: these two chapters are likely to be heavily consulted, since they explain the user interface of OmegaT and the functions available via the main menu and the keyboard shortcuts.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130410T135814Z">
+        <seg>&lt;e0&gt;L'interface utilisateur&lt;/e0&gt;,&lt;e1&gt;Menu Princpal et Raccourcis Claviers&lt;/e1&gt;: ces deux chapitres seront certainement très consultés car ils expliquent le fonctionnement de l'interface utilisateur d'OmegaT et les fonctionnalités disponibles via le menu principal et les raccourcis claviers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Translation memories: &lt;/e0&gt; explains the role of the various subdirectories containing translation memories, and provides information on other important aspects relating to translation memories.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130410T140723Z">
+        <seg>&lt;e0&gt;Mémoires de traduction: &lt;/e0&gt; ce chapitre explique le rôle des différents sous-répertoires contenant les mémoires de traduction, et fourni des informations concernant d'autres éléments importants en lien avec les mémoires de traductions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Translation memory:&lt;/e0&gt;&lt;a1&gt; &lt;/a1&gt;OmegaT stores your translations in a translation memory file.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130412T014635Z">
+        <seg>&lt;e0&gt;Mémoire de traduction :&lt;/e0&gt;&lt;a1&gt; OmegaT&lt;/a1&gt; enregistre vos traductions dans un fichier mémoire de traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Translation process:&lt;/e0&gt; Imagine having to translate something; from a single file to a folder containing subfolders each with a number of files in a variety of formats.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130410T133643Z">
+        <seg>&lt;e0&gt;Travail de traduction :&lt;/e0&gt; Imaginez que vous ayez à traduire quelque chose ; d'un fichier unique à un dossier contenant des sous-dossiers, chacun rempli d'un certain nombre de fichiers sous différents formats.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Working with plain text&lt;/e0&gt; and &lt;e1&gt;Working with formatted text&lt;/e1&gt;: these two chapters explain certain important points concerning texts to be translated, such as the encoding set (in the case of plain text files) and tag handling (in the case of formatted text).</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130410T140545Z">
+        <seg>&lt;e0&gt;Travailler avec du texte brut&lt;/e0&gt; et &lt;e1&gt;Travailler avec du texte formaté &lt;/e1&gt;: Ces deux chapitres expliquent certains points importants concernant les textes à traduire, tels que les ensembles d'encodage (dans le cas de fichiers textes bruts)  et la gestion de balises (dans le cas de textes formatés).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt; Instant start guide:&lt;/e0&gt; this chapter is intended as an Instant Start Guide for beginners and “tyre kickers”, showing the complete procedure from opening a new translation project through to completing the translation.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130410T135304Z">
+        <seg>&lt;e0&gt; Tutoriel premiers pas :&lt;/e0&gt; Ce chapitre est conçu comme un tutoriel premiers pas pour les débutants et les “impatients”, il offre un aperçu de la procédure complète, allant de la création d'un nouveau projet de traduction à la traduction effective.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2790,6 +2982,14 @@ OmegaT peut être exécuté de différentes façons.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Project&lt;/p0&gt; &lt;s1&gt;Properties&lt;/s1&gt; &lt;s2&gt;Languages&lt;/s2&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T123653Z">
+        <seg>&lt;p0&gt;Projet&lt;/p0&gt; &lt;s1&gt;Propriétés&lt;/s1&gt; &lt;s2&gt;Langues&lt;/s2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Segmentation&lt;/p0&gt; &lt;s1&gt;Segmentation rules&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="FR">
@@ -2929,6 +3129,14 @@ OmegaT peut être exécuté de différentes façons.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A number of rule sets are provided while additional rules can be defined by the user, as described in this chapter.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130410T141433Z">
+        <seg>Un certain nombre d'ensembles de règles sont fournis même si des règles additionnelles peuvent être définies par l'utilisateur, comme décrit dans ce chapitre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A table will be displayed showing the segments where the source and target tags do not correspond.</seg>
       </tuv>
       <tuv lang="FR">
@@ -2977,6 +3185,14 @@ OmegaT peut être exécuté de différentes façons.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Abkhaz</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T123922Z">
+        <seg>Abkhaze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Aborted.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20120131T094630Z">
@@ -2997,6 +3213,14 @@ OmegaT peut être exécuté de différentes façons.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>À propos de OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Acknowledgements</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T121150Z">
+        <seg>Remerciements</seg>
       </tuv>
     </tu>
     <tu>
@@ -3130,6 +3354,14 @@ it includes the directory where the 'java' application resides.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Albanian</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T124118Z">
+        <seg>Albanais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Alessandro Cattelan (Italian)</seg>
       </tuv>
       <tuv lang="FR">
@@ -3231,6 +3463,14 @@ OmegaT.exe.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Vous pouvez également sélectionner un mot ou une phrase dans le champ d'édition (texte cible du segment actif) et appuyer sur &lt;c1&gt;Ctrl+F&lt;/c1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Amharic</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T124135Z">
+        <seg>Amharique</seg>
       </tuv>
     </tu>
     <tu>
@@ -3375,10 +3615,34 @@ Le fichier ne sera pas chargé.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Arabic</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T124202Z">
+        <seg>Arabe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Aragonese</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T124219Z">
+        <seg>Aragonais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Are you sure you want to remove the {0} set of segmentation rules?</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Êtes-vous sur de vouloir supprimer les règles de segmentation {0} ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Armenian</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T124223Z">
+        <seg>Arménien</seg>
       </tuv>
     </tu>
     <tu>
@@ -3435,10 +3699,26 @@ provoquer des comportements inattendus, mais corrects.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Assamese</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T124251Z">
+        <seg>Assamais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>At the end of your translation, OmegaT exports three translation memories called "level1", "level2" and "omegat" to your project folder.</seg>
       </tuv>
       <tuv lang="FR" changeid="briglegrand" changedate="20120502T113849Z">
         <seg>OmegaT exporte trois versions (« level1 », « level2 » et « omegat ») de la mémoire de traduction dans le dossier projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>At the same time, it can use memories files from previous translations for reference.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130410T132147Z">
+        <seg>Il peut aussi utiliser simultanément des fichiers mémoires de précédentes traductions comme références.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3547,6 +3827,30 @@ provoquer des comportements inattendus, mais corrects.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Avaric</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T124400Z">
+        <seg>Avar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Avestan</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T124428Z">
+        <seg>Avestique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Azerbaijani</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T124542Z">
+        <seg>Azerbaïdjanais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>B&amp;rowse</seg>
       </tuv>
       <tuv lang="FR">
@@ -3559,6 +3863,14 @@ provoquer des comportements inattendus, mais corrects.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Backport-util-concurrent (domaine public)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Backspace*</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T122546Z">
+        <seg>Retour arrière*</seg>
       </tuv>
     </tu>
     <tu>
@@ -3636,6 +3948,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Belarusian</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T124616Z">
+        <seg>Biélorusse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Belazar</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20101112T182936Z">
@@ -3668,10 +3988,26 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Bislama</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T124714Z">
+        <seg>Bichelamar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bookmark &amp;references</seg>
       </tuv>
       <tuv lang="FR">
         <seg>&amp;Références aux signets</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bosnian</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T124729Z">
+        <seg>Bosnien</seg>
       </tuv>
     </tu>
     <tu>
@@ -3740,10 +4076,26 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Bulgarian</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T124735Z">
+        <seg>Bulgare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bundle.properties Java</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Ensemble de ressources Java (Bundle.properties)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Burmese</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T124806Z">
+        <seg>Birman</seg>
       </tuv>
     </tu>
     <tu>
@@ -4004,6 +4356,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Chechen</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T124850Z">
+        <seg>Tchètchène</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check &amp;all printf-variables (e.g., %s, %-s)</seg>
       </tuv>
       <tuv lang="FR">
@@ -4024,6 +4384,22 @@ documentation.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20120420T211355Z">
         <seg>Extraction du projet...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chinese</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T124924Z">
+        <seg>Chinois</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chuvash</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T124952Z">
+        <seg>Tchouvache</seg>
       </tuv>
     </tu>
     <tu>
@@ -4565,6 +4941,22 @@ archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cornish</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T125017Z">
+        <seg>Cornique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Corsican</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T125041Z">
+        <seg>Corse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Could not initialize OS look and feel!</seg>
       </tuv>
       <tuv lang="FR">
@@ -4701,6 +5093,102 @@ archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cree</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T125054Z">
+        <seg>Cri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Croatian</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T125107Z">
+        <seg>Croate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Backspace</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T122623Z">
+        <seg>Ctrl+Retour arrière</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Delete</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T122717Z">
+        <seg>Ctrl+Supprimer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+End</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T122452Z">
+        <seg>Ctrl+Fin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Enter</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T122740Z">
+        <seg>Ctrl+Entrée</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Home</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T122426Z">
+        <seg>Ctrl+Début</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Left:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130411T080625Z">
+        <seg>Ctrl+Gauche :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+PgDn</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T122527Z">
+        <seg>Ctrl+Pg suiv</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+PgUp</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T122503Z">
+        <seg>Ctrl+Pg préc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Right:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130411T080621Z">
+        <seg>Ctrl+Droite :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Shift+O</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T122823Z">
+        <seg>Ctrl+Maj+O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Current memory usage by the VM:</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20111116T101327Z">
@@ -4741,6 +5229,14 @@ archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Czech</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T125115Z">
+        <seg>Tchèque</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>D&amp;iagrams</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20101112T182928Z">
@@ -4753,6 +5249,14 @@ archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>DTD (.dtd)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Danish</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T125124Z">
+        <seg>Danois</seg>
       </tuv>
     </tu>
     <tu>
@@ -4785,6 +5289,14 @@ archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Valeurs par défaut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Delete*</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T122604Z">
+        <seg>Supprimer*</seg>
       </tuv>
     </tu>
     <tu>
@@ -4897,6 +5409,14 @@ archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20100304T181026Z">
         <seg>Didier Briel (responsable de versions)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Didier Briel: I could not do without Didier's patient and persistent help with DocBook intricacies.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130411T074346Z">
+        <seg>Didier Briel : Je n'aurais rien pu faire sans I'aide patiente et persistante que Didier m'a apportée face à la complexité de DocBook.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5089,6 +5609,14 @@ archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20120307T084157Z">
         <seg>Affiche la traduction du segment source effectuée par les services de traductions automatiques sélectionnés dans Options &gt; Traduction automatique si ces services sont disponibles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Divehi, Dhivehi, Maldivian</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T125150Z">
+        <seg>Divehi, Dhivehi, Maldivien</seg>
       </tuv>
     </tu>
     <tu>
@@ -5518,6 +6046,14 @@ several security warnings.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>End*</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T122403Z">
+        <seg>Fin*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>English</seg>
       </tuv>
       <tuv lang="FR">
@@ -5808,6 +6344,14 @@ launch script.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Estonian</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T125246Z">
+        <seg>Estonien</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Event: application shutdown</seg>
       </tuv>
       <tuv lang="FR">
@@ -6034,6 +6578,14 @@ launch script.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Explicit thanks to:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130411T074334Z">
+        <seg>J'exprime donc ma gratitude à :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Export Selection</seg>
       </tuv>
       <tuv lang="FR">
@@ -6202,6 +6754,14 @@ launch script.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Faroese</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T125325Z">
+        <seg>Féroïen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Fatal error encountered - saving project file with '.recover' backup extension.</seg>
       </tuv>
       <tuv lang="FR">
@@ -6232,6 +6792,14 @@ launch script.</seg>
       </tuv>
       <tuv lang="FR" changeid="briglegrand" changedate="20120502T064744Z">
         <seg>D'autres points à retenir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fijian</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T125352Z">
+        <seg>Fidjien</seg>
       </tuv>
     </tu>
     <tu>
@@ -6461,6 +7029,14 @@ Tutorial.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For advanced users, the chapter describes the command line mode and its possibilities.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T123850Z">
+        <seg>Pour les utilisateurs confirmés, ce chapitre décrit le mode ligne de commande et ses possibilités.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For each project OmegaT will create a set of folders.</seg>
       </tuv>
       <tuv lang="FR">
@@ -6502,6 +7078,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For your reference, OmegaT displays the translation of any words that happen to be present in the segment that currently has focus.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130410T133529Z">
+        <seg>Pour vous informer, OmegaT affiche la traduction de tous les mots qui peuvent apparaitre dans le segment que vous êtes en train de traduire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Force saving password as plain text</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20121004T090715Z">
@@ -6530,6 +7114,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20121205T180204Z">
         <seg>Français</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fula, Fulah, Pulaar, Pular</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T125507Z">
+        <seg>Peul, Peulh, Pulaar, Pularl</seg>
       </tuv>
     </tu>
     <tu>
@@ -6582,6 +7174,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Galician</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T125519Z">
+        <seg>Galicien</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>General
 In order to run, OmegaT requires the Java Runtime Environment (JRE) version 
 1.5 or higher to be installed on your system.</seg>
@@ -6613,6 +7213,14 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20100728T195106Z">
         <seg>Options génériques :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Georgian</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T125533Z">
+        <seg>Géorgien</seg>
       </tuv>
     </tu>
     <tu>
@@ -6857,6 +7465,14 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Greek, Modern</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T125553Z">
+        <seg>Grec oderne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Guido Leenders</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20111213T152807Z">
@@ -6953,6 +7569,14 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Haitian, Haitian Creole</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T125701Z">
+        <seg>Haïtien, Créole</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Handling tagged text</seg>
       </tuv>
       <tuv lang="FR">
@@ -6969,10 +7593,26 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Hausa</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T125710Z">
+        <seg>Haoussa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>He&amp;aders</seg>
       </tuv>
       <tuv lang="FR">
         <seg>&amp;En-têtes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hebrew (modern)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T125717Z">
+        <seg>Hebreu (moderne)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7013,6 +7653,14 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       </tuv>
       <tuv lang="FR">
         <seg>Henry Pijffers (contrôle de version)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Here is a short summary of the chapters and their contents.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T123531Z">
+        <seg>Vous trouverez ici un court résumé des chapitres et de leur contenu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7073,6 +7721,14 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Herero</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T125730Z">
+        <seg>Héréro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Hidden &amp;Text</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20101112T182915Z">
@@ -7105,6 +7761,14 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Hiri Motu</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T125750Z">
+        <seg>Hiri Motou</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Hisashi Yanagida (Japanese)</seg>
       </tuv>
       <tuv lang="FR">
@@ -7125,6 +7789,14 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       </tuv>
       <tuv lang="FR">
         <seg>Appuyez sur &lt;s1&gt;Entrée&lt;/s1&gt; pour valider le segment corrigé et vérifiez la correction en appuyant à nouveau sur &lt;s2&gt;Control-T&lt;/s2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Home*</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T122323Z">
+        <seg>Début*</seg>
       </tuv>
     </tu>
     <tu>
@@ -7157,6 +7829,14 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       </tuv>
       <tuv lang="FR">
         <seg>Cependant, il est nécessaire de prendre des précautions contre la perte de données de la même manière que vous le feriez avec d'autres applications.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hungarian</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T125802Z">
+        <seg>Hongrois</seg>
       </tuv>
     </tu>
     <tu>
@@ -7209,10 +7889,34 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ISO 639-1/639-2 Language code list</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T123845Z">
+        <seg>Liste des codes langues ISO 639-1/639-2 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ISO language codes</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T123642Z">
+        <seg>Codes langues ISO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ibai Lakunza Velasco</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20101223T174922Z">
         <seg>Ibai Lakunza Velasco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Icelandic</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T125943Z">
+        <seg>Islandais</seg>
       </tuv>
     </tu>
     <tu>
@@ -7394,6 +8098,14 @@ tous les paramètres reprendront leur valeur par défaut,
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If spell checking is activated, spelling mistakes and typos are recognized and can be corrected during translation.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130410T142054Z">
+        <seg>Si le correcteur orthographique est activé, les fautes d'orthographe et les fautes de frappe sont reconnues et corrigées pendant la traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If tags happen to be missing or are misplaced, the text may not be shown as intended and the translation will have to be corrected - see the chapter "Tag verification" below.</seg>
       </tuv>
       <tuv lang="FR">
@@ -7458,6 +8170,14 @@ that you install an OmegaT version with JRE included.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20120411T090228Z">
         <seg>Si vous n'êtes pas très habitués à Linux, nous vous recommandons donc d'installer une version d'OmegaT comportant le JRE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you are supplied with previously created translation memories , for example by your translation agency or your client, OmegaT is able to use these as reference memories.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T122350Z">
+        <seg>Si l'on vous confie des mémoires de traduction précédemment créées (que vous pouvez recevoir, par exemple, de votre agence de traduction ou bien d'un client), OmegaT est en mesure de les utiliser comme mémoires de référence.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7786,6 +8506,14 @@ installation program can create shortcuts to launch OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In OmegaT, segments can be based on paragraphs or on segmentation rules.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T124816Z">
+        <seg>Dans OmegaT, les segments peuvent être définis en fonction des paragraphes ou des règles de segmentation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In addition to the text you wish to translate, tagged text files contain formatting information made visible in OmegaT in the form of “tags”.</seg>
       </tuv>
       <tuv lang="FR">
@@ -7963,6 +8691,14 @@ script,and select it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In this case the regular expression ^s^s+ would be used to find and list the offending segments.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T125352Z">
+        <seg>Dans ce cas, l'expression régulière ^s^s+ sera utilisée pour trouver une liste de tous les segments concernés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In tra&amp;nslations</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20100608T100433Z">
@@ -7983,6 +8719,14 @@ script,and select it.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Statistiques par fichiers :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Indonesian</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T125849Z">
+        <seg>Indonesien</seg>
       </tuv>
     </tu>
     <tu>
@@ -8193,6 +8937,14 @@ exécutez simplement le programme d'installation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Inupiaq</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T125925Z">
+        <seg>Inupiak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Invalid HTML file</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20101229T183222Z">
@@ -8205,6 +8957,14 @@ exécutez simplement le programme d'installation.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20110516T172256Z">
         <seg>Format de fichier non valide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Irish</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T125853Z">
+        <seg>Irlandais</seg>
       </tuv>
     </tu>
     <tu>
@@ -8237,6 +8997,14 @@ exécutez simplement le programme d'installation.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>OmegaT va aussi chercher dans les mémoires de traduction et les glossaires des correspondances avec le segment suivant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It contains the specific instructions on how to install OmegaT and run it on Windows, Mac OS X and Linux.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T123815Z">
+        <seg>Il contient les instructions spécifiques concernant l'installation d'OmegaT et sa mise en route sur Windows, Mac OS X et Linux.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8436,6 +9204,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Javanese</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T130009Z">
+        <seg>Javanais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Jean-Christophe Helary</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20120330T092039Z">
@@ -8476,6 +9252,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Jean-Christophe Helary: special thanks to JC for his concise description of OmegaT run, command line parameters and all other details, I have yet to notice.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130411T073704Z">
+        <seg>Jean-Christophe Helary: remerciements particuliers à JC pour sa description concise de l'éxécution d'OmegaT, des paramètres de ses lignes de commandes et de tous les autres petits détails que je n'ai pas encore repérés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Jmyspell 2.1.4 (LGPL License)</seg>
       </tuv>
       <tuv lang="FR">
@@ -8500,6 +9284,22 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Kalaallisut, Greenlandic</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T130027Z">
+        <seg>Kalaallisut, Groenlandais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Kanuri</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T130103Z">
+        <seg>Kanouri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Karsten Voss (Polish)</seg>
       </tuv>
       <tuv lang="FR">
@@ -8508,10 +9308,42 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Kashmiri</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T130119Z">
+        <seg>Cachemiri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Keep up your good work!</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130411T074324Z">
+        <seg>Continuez votre excellent travail !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Key</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20110924T124707Z">
         <seg>Clé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Key behavior in the editor</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T122005Z">
+        <seg>Comportement des touches dans le volet d'édition</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Key combination</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130411T080031Z">
+        <seg>Combinaison de touches</seg>
       </tuv>
     </tu>
     <tu>
@@ -8536,6 +9368,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Raccourcis clavier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Keyboard shortcuts in the editor</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130411T074521Z">
+        <seg>Raccourcis clavier dans le volet d'édition</seg>
       </tuv>
     </tu>
     <tu>
@@ -8588,10 +9428,50 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Kirghiz, Kyrgyz</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T130254Z">
+        <seg>Kirghiz, Kirghize</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Kongo</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T130336Z">
+        <seg>Kikongo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Korean</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T130344Z">
+        <seg>Coréen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Kunihiko Yokota (Japanese)</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Kunihiko Yokota (japonais)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Kurdish</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T130353Z">
+        <seg>Kurde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Kwanyama, Kuanyama</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T130415Z">
+        <seg>Kuanyama</seg>
       </tuv>
     </tu>
     <tu>
@@ -8644,6 +9524,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Language name</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T123849Z">
+        <seg>Nom de la langue</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Language not specified for translation unit variant.</seg>
       </tuv>
       <tuv lang="FR">
@@ -8656,6 +9544,22 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20110924T124045Z">
         <seg>Langues</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Languages - ISO 639 code list</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T123709Z">
+        <seg>Langues - Liste de codes ISO 639</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Last but not least: my thanks to all the contributors to&lt;u0&gt; OmegaT documentation tracker&lt;/u0&gt; for all the inconsistencies found in the previous versions of the documentation.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130411T074106Z">
+        <seg>Dernier remerciement mais non des moindres: je remercie tous ceux qui ont contribué à &lt;u0&gt;l'analyse du manuel d'OmegaT&lt;/u0&gt; pour toutes les incohérences qu'ils ont trouvées dans ses précédentes versions.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8712,10 +9616,26 @@ OmegaT peut être exécuté de différentes façons.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Left:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130411T080633Z">
+        <seg>Gauche :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Legal Notices</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Informations légales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Limburgish, Limburgan, Limburger</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T130532Z">
+        <seg>Limbourgeois</seg>
       </tuv>
     </tu>
     <tu>
@@ -8883,6 +9803,14 @@ automatically download and install it.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Emplacement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Luxembourgish, Letzeburgesch</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T130437Z">
+        <seg>Luxembourgeois, Letzeburgesch</seg>
       </tuv>
     </tu>
     <tu>
@@ -9098,6 +10026,14 @@ Java already installed on their machines.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20101119T085440Z">
         <seg>Marquer les segments non &amp;uniques</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark Prior: correcting my first draft was an act of love for OmegaT and the English language.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130411T074350Z">
+        <seg>Mark Prior : corriger ma première ébauche a été un acte d'amour pour OmegaT et la langue anglaise.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9330,6 +10266,14 @@ Java already installed on their machines.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Les modifications du document original peuvent donc être traitées avec beaucoup de facilité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Modifications to the original document are thus handled with greater ease.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130410T132744Z">
+        <seg>Les modifications apportées au document original sont ainsi traduites avec une plus grande facilité.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9618,6 +10562,14 @@ Java already installed on their machines.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Fichier XML non valide !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Not to mention his care and diligence, keeping repositories intact and in good order.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T121559Z">
+        <seg>Sans parler des soins et du zèle dont il a fait preuve pour protéger les référentiels et les tenir en ordre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10226,6 +11178,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT stores your translations and proposes possible translations from similar segments in previous memory files.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130410T134303Z">
+        <seg>OmegaT enregistre vos traductions et propose des traductions possibles en fonction des segments similaires présent dans les fichiers mémoires pré-existants.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT supports OpenDocument files, Microsoft Office files (using
 OpenOffice.org as a conversion filter, or by conversion to HTML),
 OpenOffice.org or StarOffice files, as well as (X)HTML, Java localization
@@ -10277,6 +11237,14 @@ files, plain text files, and more.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT uses glossaries containing translations of single words or small phrases: a simplified bilingual dictionary for a specific domain.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130410T133429Z">
+        <seg>OmegaT utilise des glossaires contenant des traductions de mots uniques ou de petites phrases, soit, un dictionnaire bilingue simplifié dédié à un domaine spécifique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT uses glossaries that contain translations of single words or small phrases, a sort of simplified bilingual dictionary for a specfic domain.</seg>
       </tuv>
       <tuv lang="FR">
@@ -10289,6 +11257,22 @@ files, plain text files, and more.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>OmegaT utilise les bibliothèques suivantes :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT uses the standard tmx file format to store and access translation memories, which guarantees that you can exchange your translation material with other CAT applications supporting this file format.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130410T133114Z">
+        <seg>OmegaT utilise le format de fichier tmx standard pour enregistrer et pour avoir accès à vos mémoires de traduction, ce qui vous garantit la possibilité de réaliser des échanges de matériel de traduction avec les autres applications de logiciel TAO qui utilisent ce format.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT uses translation memories to store your previous translations and then suggest likely translations for the text you are currently working on.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130410T132411Z">
+        <seg>OmegaT utilise les mémoires de traduction pour enregistrer vos précédentes traductions et pour ensuite vous suggérer des traductions possibles pour le texte surlequel vous êtes en train de travailler.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10494,6 +11478,14 @@ double-clicking the OmegaT.jar file.</seg>
       </tuv>
       <tuv lang="FR" changeid="briglegrand" changedate="20120502T133919Z">
         <seg>Après avoir vérifié que votre traduction ne contient pas d'erreur de balises, générez le fichier cible (raccourci clavier &lt;k0&gt;Ctrl+D&lt;/k0&gt;) dans le sous-dossier &lt;f1&gt;/target/&lt;/f1&gt; du dossier projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>One could only wonder, how many the and a prepositions would still be missing without his invaluable help.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130411T073512Z">
+        <seg>Je ne peux qu'imaginer le nombre de prépositions qui manqueraient encore si je n'avais pas bénéficié de son aide précieuse.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10734,6 +11726,14 @@ happen should you file a bug report.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Paragraph segmentation is less frequently used, but can be useful in cases of so-called "creative" texts.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130410T140909Z">
+        <seg>La segmentation par paragraphe est moins souvent utilisée mais peut se révéler utile dans le cadre de textes dits "créatifs".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Parse error encountered reading preferences file!</seg>
       </tuv>
       <tuv lang="FR">
@@ -10782,6 +11782,22 @@ happen should you file a bug report.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>PgDn:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130411T080652Z">
+        <seg>Pg suiv :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>PgUp:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130411T080616Z">
+        <seg>Pg préc :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Phillip Hall</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20121004T152549Z">
@@ -10802,6 +11818,14 @@ happen should you file a bug report.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Formats de fichier texte brut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please check the&lt;u0&gt; ISO 639 Code Tables&lt;/u0&gt; for further and up-to-date information about language codes.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T123827Z">
+        <seg>Merci de vérifier le  &lt;u0&gt;Tableau de Codes ISO 639 &lt;/u0&gt; pour des informations complémentaires et actualisées à propos des codes langues.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11363,6 +12387,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>RTL-LTR switch</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130411T081512Z">
+        <seg>Passage du mode de lecture droite-à-gauche au mode de lecture gauche-à-droite (et inversement)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Rashid Umarov</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20101223T174927Z">
@@ -11497,6 +12529,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Expressions régulières</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Regular expressions are also used extensively in the segmentation rules.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T125438Z">
+        <seg>Les expressions régulières sont également largement utilisées dans les règles de segmentation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11797,6 +12837,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Right:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130411T080628Z">
+        <seg>Droite :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Roberto Argus (Portugese-Brazil)</seg>
       </tuv>
       <tuv lang="FR">
@@ -11993,6 +13041,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Samuel Murray (afrikaans)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Samuel Murray: for the introductory chapter "Learn to use OmegaT in 5 minutes".</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130411T074354Z">
+        <seg>Samuel Murray : pour le chapitre d'introduction "Apprenez à utiliser OmegaT en 5 minutes".</seg>
       </tuv>
     </tu>
     <tu>
@@ -12983,6 +14039,14 @@ and then start OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Summary of chapters</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130410T134459Z">
+        <seg>Résumé des chapitres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Supported File Formats</seg>
       </tuv>
       <tuv lang="FR">
@@ -13299,6 +14363,14 @@ and then start OmegaT.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130104T150007Z">
         <seg>Texte à supprimer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Thank you all!</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130411T074415Z">
+        <seg>Merci à tous !!</seg>
       </tuv>
     </tu>
     <tu>
@@ -13740,6 +14812,14 @@ an access to the hard drive of the computer.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The rule-based segmentation is usually synonymous with sentence-based segmentation.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130410T141219Z">
+        <seg>L'autre type de segmentation, basée sur un ensemble de règles, est généralement synonyme de segmentation par phrase.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The script "{0}" is running...</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20111028T124838Z">
@@ -13752,6 +14832,14 @@ an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20110717T153528Z">
         <seg>Le script est en cours d'exécution...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The second of these chapters describes the various subfolders and files in a translation project and their role as well as other user and application files associated with OmegaT.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130410T140240Z">
+        <seg>Le second de ces chapitres décrit les différents sous-dossiers et fichiers d'un projet de traduction ainsi que leur rôles. Il décrit également les autres fichiers utilisateur et fichiers application associés à OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13792,6 +14880,14 @@ an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Les balises HTML, mises en évidence ci-dessous en &lt;f1&gt;vert&lt;/f1&gt;, doivent être gérées par OmegaT parce qu'elles sont à l'intérieur du segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The term "Move to inside segment" means, that the cursor moves to the beginning of the segment if it was previously before the segment, and to the end of the segment if it was previously after it.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130411T080007Z">
+        <seg>Le terme "Déplacement vers l'intérieur du segment" signifie que le curseur ira se placer au début du segment actif s'il est positionné avant celui-ci, et qu'il ira se placer à la fin du segment actif s'il est positionné après.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13936,6 +15032,14 @@ de configuration d'OmegaT ne peut donc pas être déterminé de façon sûre.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>These translation memories can be very useful when a document that has already been translated needs to be updated.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130410T132459Z">
+        <seg>Ces mémoires de traduction peuvent être très utiles lorsqu'un document qui a déjà été traduit doit être mis à jour.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>These units have been skipped.</seg>
       </tuv>
       <tuv lang="FR">
@@ -13994,10 +15098,26 @@ version will not interfere with it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This chapter describes the project properties, such as the source and target languages.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T124227Z">
+        <seg>Ce chapitre décrit les propriétés du projet, comme les langues sources et les langues cibles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This command will be executed after Creating Translated Documents.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130128T144858Z">
         <seg>Cette commande sera exécutée après Créer les documents traduits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This documentation is intended both as a tutorial and as a reference guide.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130410T134617Z">
+        <seg>Ce manuel est conçu pour servir à la fois de tutoriel et de guide de référence.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14086,6 +15206,14 @@ this version will not interfere with it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This manual, however, would not be possible without the help and support from a number of people.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T121709Z">
+        <seg>Cependant, ce manuel n'aurait pas pu voir le jour sans l'aide et le soutien d'un grand nombre de personnes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This name will be used for the main project folder; all the project files will be stored in this folder or its subfolders.</seg>
       </tuv>
       <tuv lang="FR">
@@ -14116,6 +15244,14 @@ this version will not interfere with it.</seg>
         <seg>Ce programme est libre. Vous pouvez le redistribuer et le modifier selon les termes de la licence GNU General Public License publiée par la Free Software Foundation. La licence applicable est la version 2 ou bien une version plus récente à votre choix.
 
 Seule la licence en langue anglaise est légalement valable. Vous pouvez trouver des traductions françaises qui peuvent servir de référence mais qui en aucun cas ne peuvent remplacer la licence originale GNU General Public License, Free Software Foundation, version 2 ou plus récente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This short text describes key behavior in the editor pane.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T121933Z">
+        <seg>Ce petit texte décrit le comportement des touches dans le volet d'édition.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14719,6 +15855,14 @@ Kaptain.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translation memories can be very useful in a translation where there are numerous repetitions or reasonably similar segments of text.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130410T132307Z">
+        <seg>Les mémoires de traduction peuvent être très utiles dans les traductions où l'on trouve de nombreuses répétitions ou des segments de texte relativement similaires.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translation memory files folder entered does not exist!</seg>
       </tuv>
       <tuv lang="FR">
@@ -14883,6 +16027,14 @@ Kaptain.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Impossible de désinstaller le dictionnaire sélectionné</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unchanged sentences are automatically translated, while updated sentences are shown with the translation of the most similar, older sentence.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130410T132717Z">
+        <seg>Les phrases inchangées sont traduites automatiquement alors que pour les phrases mises à jour, la traduction des anciennes phrases qui leur ressemblent le plus est affichée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15531,6 +16683,14 @@ you have just discovered.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Whatever the inconsistencies, omissions and straightforward errors you may find in the present version, I declare them all my own.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130411T072426Z">
+        <seg>Quelles que soient les incohérences, omissions et simples erreurs que pourriez trouver dans cette version, je tiens à déclarer que j'en assume l'entière responsabilité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When &lt;a0&gt;OmegaT&lt;/a0&gt; has created the translated document, the HTML will look like this:</seg>
       </tuv>
       <tuv lang="FR">
@@ -15560,6 +16720,14 @@ as Sun does not provide a JRE for PPC systems.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Sur des architectures Power PC, Linux demandera le JRE d'IBM, puisque Sun ne fournit pas de JRE pour les systèmes PPC.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you are ready to view the final product, you can export the translated files, open them in the appropriate application and view the translation in the final format...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130410T134445Z">
+        <seg>Lorsque vous êtes prêt à voir le produit final, vous pouvez exporter les fichiers traduits, les ouvrir avec le programme approprié et regarder la traduction dans son format final...</seg>
       </tuv>
     </tu>
     <tu>
@@ -15608,6 +16776,14 @@ as Sun does not provide a JRE for PPC systems.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Quand vous indiquez à OmegaT ce que votre traduction contient, OmegaT va rechercher les fichiers dans les &lt;a0&gt;formats&lt;/a0&gt; qu'il accepte, en fonction des rêgles de &lt;a1&gt;filtrage des fichiers&lt;/a1&gt;, il reconnaitra les parties textuelles et séparera les groupes </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you let OmegaT know the files that you need to translate, it looks for the files it understands based on file filtering rules, recognizes the textual parts within them, splits up the text groups according to the segmentation rules, and displays the segments one by one so that you can proceed with the translation.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130410T134036Z">
+        <seg>Lorsqu'OmegaT prend connaissance des fichiers que vous voulez traduire, il recherche les fichiers qu'il reconnait sur la base de règles de filtrage de fichiers, reconnait les parties textuelles, sépare les groupes de texte en suivant les règles de segmentation, et affiche les segments un par un de sorte que vous puissiez procéder à la traduction.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15696,6 +16872,14 @@ as Sun does not provide a JRE for PPC systems.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20101223T174921Z">
         <seg>Wildrich Fourie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Will Helton: his final reading of the draft has spared me a lot of embarrassment.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130411T074402Z">
+        <seg>Will Helton : sa lecture finale du projet m'a évité de nombreux désagréments.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16642,6 +17826,94 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>move to the beginning of the line in the segment</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T122358Z">
+        <seg>déplacement au début de la ligne à l'intérieur du segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>move to the end of the document (Mac: &lt;e0&gt;Cmd+PgDn&lt;/e0&gt;)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T122540Z">
+        <seg>déplacement à la fin du document (Mac: &lt;e0&gt;Cmd+Pg suiv&lt;/e0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>move to the end of the line in the segment</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T122420Z">
+        <seg>déplacement à la fin de la ligne à l'intérieur du segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>move to the end of the segment</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T122458Z">
+        <seg>déplacement à la fin du segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>move to the start of the document (Mac: &lt;e0&gt;Cmd+PgUp&lt;/e0&gt;)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T122522Z">
+        <seg>déplacement au début du document (Mac: &lt;e0&gt;Cmd+Pg préc&lt;/e0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>move to the start of the segment</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T122447Z">
+        <seg>déplacement au début du segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>one char left, but not further than the beginning of segment</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130411T080419Z">
+        <seg>déplacement d'un caractère sur la gauche mais qui ne va pas plus loin que le début du segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>one char right, but not further than the end of segment</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130411T080453Z">
+        <seg>déplacement d'un caractère sur la droite mais qui ne va pas plus loin que la fin du segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>one word left, but not further than the beginning of segment</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130411T080517Z">
+        <seg>déplacement d'un mot sur la gauche mais qui ne va pas plus loin que le début du segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>one word right, but not further than the end of segment</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130411T080534Z">
+        <seg>déplacement d'un mot sur la droite mais qui ne va pas plus loin que la fin du segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>open previous segment (Mac: &lt;e0&gt;Cmd+Enter&lt;/e0&gt;)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T122750Z">
+        <seg>ouvre le segment précédent (Mac: &lt;e0&gt;Cmd+Enter&lt;/e0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>or &lt;s0&gt;Start using OmegaT in 5 minutes&lt;/s0&gt;</seg>
       </tuv>
       <tuv lang="FR">
@@ -16666,6 +17938,22 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>page down through the document</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130411T080717Z">
+        <seg>le document défile vers le bas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>page up through the document</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130411T080734Z">
+        <seg>le document défile vers le haut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>plain text</seg>
       </tuv>
       <tuv lang="FR">
@@ -16682,6 +17970,38 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>remove char after cursor</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T122617Z">
+        <seg>supprime le caractère placé après le curseur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>remove char before cursor</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T122600Z">
+        <seg>supprime le caractère placé avant le curseur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>remove chars up to the start of next word (Mac: &lt;e0&gt;Alt+Delete&lt;/e0&gt;)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T122737Z">
+        <seg>supprime tous les caractères du mot placé après le curseur (Mac: &lt;e0&gt;Alt+Supprimer&lt;/e0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>remove chars up to the start of the current word (Mac: &lt;e0&gt;Alt+Backspace&lt;/e0&gt;)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T122709Z">
+        <seg>supprime tous les caractères du mot placé avant le curseur (Mac: &lt;e0&gt;Alt+Retour arrière&lt;/e0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>segment 0000</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20110118T144718Z">
@@ -16694,6 +18014,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>segmentation.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>select complete segment (Mac: &lt;e0&gt;Cmd+A&lt;/e0&gt;)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T122818Z">
+        <seg>sélectionne le segment complet (Mac: &lt;e0&gt;Cmd+A&lt;/e0&gt;)</seg>
       </tuv>
     </tu>
     <tu>
