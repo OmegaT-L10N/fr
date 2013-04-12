@@ -2670,6 +2670,14 @@ OmegaT peut être exécuté de différentes façons.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Dictionaries, Glossaries&lt;/e0&gt;, &lt;e1&gt;Machine translation&lt;/e1&gt; , &lt;e2&gt;Spellchecker, LanguageTool:&lt;/e2&gt; OmegaT supports an extensive use of dictionaries and glossaries.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130410T141941Z">
+        <seg>&lt;e0&gt;Dictionnaires, Glossaires&lt;/e0&gt;, &lt;e1&gt;Traduction automatique&lt;/e1&gt; , &lt;e2&gt;Correcteur orthographique, LanguageTool :&lt;/e2&gt; OmegaT prend en charge l'utilisation d'un grand nombre de dictionnaires et de glossaires.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Editing field behavior:&lt;/e0&gt; a short chapter describing how to set up the editing behavior of the segment being translated.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130410T140409Z">
@@ -2718,6 +2726,14 @@ OmegaT peut être exécuté de différentes façons.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Languages:&lt;/e0&gt; the ISO list of languages and language codes is provided</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130410T142317Z">
+        <seg>&lt;e0&gt;Langues :&lt;/e0&gt; la liste ISO des langues et des codes de langue est fournie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Miscellanea&lt;/e0&gt;: deals with other issues of interest, such as how to avoid losing data.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130410T142157Z">
@@ -2758,6 +2774,14 @@ OmegaT peut être exécuté de différentes façons.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Shortcuts customization:&lt;/e0&gt; shortcuts can be customized to your personal preferences</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T130302Z">
+        <seg>&lt;e0&gt;Personnalisation des raccourcis :&lt;/e0&gt; les raccourcis peuvent être personnalisés selon vos préférences personnelles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Terminology management&lt;/e0&gt;: Terminology management is important for translation consistency.</seg>
       </tuv>
       <tuv lang="FR" changeid="etudiant_local" changedate="20130410T122727Z">
@@ -2785,6 +2809,14 @@ OmegaT peut être exécuté de différentes façons.</seg>
         <seg>&lt;e0&gt;Translation memory:&lt;/e0&gt;&lt;a1&gt; &lt;/a1&gt;OmegaT stores your translations in a translation memory file.</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130412T014635Z">
+        <seg>&lt;e0&gt;Mémoire de traduction :&lt;/e0&gt;&lt;a1&gt; OmegaT&lt;/a1&gt; enregistre vos traductions dans un fichier mémoire de traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Translation memory:&lt;/e0&gt;&lt;a1&gt; OmegaT&lt;/a1&gt; stores your translations in a translation memory file.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T121117Z">
         <seg>&lt;e0&gt;Mémoire de traduction :&lt;/e0&gt;&lt;a1&gt; OmegaT&lt;/a1&gt; enregistre vos traductions dans un fichier mémoire de traduction.</seg>
       </tuv>
     </tu>
@@ -8084,6 +8116,14 @@ path need not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If an Internet connection is available, various MT services such as Google Translate and Microsoft Translator can be used from within OmegaT.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130410T142021Z">
+        <seg>Si une connexion internet est disponible, différents services de traduction automatique tels que Google Traduction et Microsoft Translator peuvent être utilisés à l'intérieur même d'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If later access to the desired location is granted
 that location will be used and all settings will return to
 their defaults as a result of the location change.</seg>
@@ -8953,6 +8993,14 @@ exécutez simplement le programme d'installation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Introduction into Tokenizer and Scripting plugins</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T130324Z">
+        <seg>Introduction à la Tokenization et aux plug-ins scriptés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Inupiaq</seg>
       </tuv>
       <tuv lang="FR" changeid="etudiant_local" changedate="20130410T125925Z">
@@ -9644,6 +9692,14 @@ OmegaT peut être exécuté de différentes façons.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Informations légales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Legal notices and Acknowledgements</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130410T142611Z">
+        <seg>Mentions légales et Remerciements</seg>
       </tuv>
     </tu>
     <tu>
@@ -10602,6 +10658,14 @@ Java already installed on their machines.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Notez que le vérificateur de balises pourra indiquer une erreur dans les cas où les balises, certes correctement présentes dans la traduction, auront dû être déplacées pour des raisons grammaticales ou syntaxiques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note that you can reassign the shortcuts to your own preferences.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130411T082148Z">
+        <seg>Notez que vous pouvez reprogrammer les raccourcis selon vos préférences.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13341,6 +13405,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See &lt;l0&gt;Appendix ShortCut Customization&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T123549Z">
+        <seg>Voir &lt;l0&gt;Annexe Peronnalisation des Raccourcis&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See Chapter 7: File Filters in the User Manual for a list of file formats that OmegaT can handle.</seg>
       </tuv>
       <tuv lang="FR" changeid="briglegrand" changedate="20120502T070615Z">
@@ -14103,6 +14175,14 @@ and then start OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>System-wide commands Select All (&lt;k0&gt;Ctrl+A&lt;/k0&gt;), Paste (&lt;e1&gt;Ctrl+V&lt;/e1&gt;), Cut (&lt;e2&gt;Ctrl+X&lt;/e2&gt;), copy (&lt;e3&gt;Ctrl+C)&lt;/e3&gt;, Insert match &lt;e4&gt;(Ctrl+I&lt;/e4&gt;) and Insert source (&lt;e5&gt;Ctrl+Shift+I&lt;/e5&gt;) act in principle on the text within the currently open segment only.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T123545Z">
+        <seg>Les commandes utilisées pour l'ensemble du système, Tout sélectionner (&lt;k0&gt;Ctrl+A&lt;/k0&gt;), Coller (&lt;e1&gt;Ctrl+V&lt;/e1&gt;), Couper (&lt;e2&gt;Ctrl+X&lt;/e2&gt;), Copier (&lt;e3&gt;Ctrl+C)&lt;/e3&gt;, Insérer la correspondance &lt;e4&gt;(Ctrl+I&lt;/e4&gt;) et Insérer le texte source (&lt;e5&gt;Ctrl+Maj+I&lt;/e5&gt;) fonctionnent en principe sur le texte, mais uniquement à l'intérieur du segment ouvert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>TMX file was created by OmegaT 1.4.</seg>
       </tuv>
       <tuv lang="FR">
@@ -14303,6 +14383,14 @@ and then start OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Team Projects</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130410T142601Z">
+        <seg>Projets en équipe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Team synchronization</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20120420T211447Z">
@@ -14405,6 +14493,14 @@ dossier actuel sera utilisé à la place.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Cette touche est étiquetée « &lt;k7&gt;cmd&lt;/k7&gt; » ou « command », ou est indiquée avec une pomme sur les claviers Apple.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The "Shift" key doesn't exhibit any special behavior per se: when the "Shift" key is pressed, all keys move the cursor in their usual manner, except in the case of the &lt;l0&gt;Shift+Enter&lt;/l0&gt; combination, that inserts a line brak into the text.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130411T082005Z">
+        <seg>En elle-même, la touche "Maj" ne provoque pas de comportement particulier : lorsque la touche "Maj" est appuyée, toutes les touches déplacent le curseur de manière habituelle, à l'exception de la combinaison  &lt;l0&gt;Maj+Entrée&lt;/l0&gt; qui insère un retour à la ligne dans le texte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14797,6 +14893,14 @@ this has not already been reported.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>L'étape suivante est d'avoir votre découverte confirmée par d'autres utilisateurs pour s'assurer qu'un rapport n'a pas déjà été rempli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The openSource LanguageTool can be used to correct common grammatical and stylistic mistakes.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T125923Z">
+        <seg>Le logiciel libre LanguageTool peut être utilisé pour corriger les erreurs grammaticales et stylistiques courantes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16537,6 +16641,14 @@ you can search through without subscription:</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20120914T162040Z">
         <seg>Fichiers Visio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Vito Smolej</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Vito Smolej</seg>
       </tuv>
     </tu>
     <tu>
