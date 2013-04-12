@@ -3705,6 +3705,14 @@ Le fichier ne sera pas chargé.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Are you sure you want to fix all tags automatically?</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130412T135821Z">
+        <seg>Êtes-vous sûr de vouloir corriger toutes les balises automatiquement ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Are you sure you want to remove the {0} set of segmentation rules?</seg>
       </tuv>
       <tuv lang="FR">
@@ -3961,6 +3969,14 @@ provoquer des comportements inattendus, mais corrects.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Nom de dossier erroné {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bad nesting</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130412T135637Z">
+        <seg>Mauvaise imbrication</seg>
       </tuv>
     </tu>
     <tu>
@@ -5919,6 +5935,14 @@ install the OmegaT package bundled with JRE (the .tar.gz bundle marked
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Duplicate</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130412T135628Z">
+        <seg>Doublon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>During the installation, depending on your operating system, you may receive 
 several security warnings.</seg>
       </tuv>
@@ -6286,6 +6310,14 @@ launch script.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20101220T155114Z">
         <seg>Erreur en décodage de l'utilisateur et du mot de passe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error fixing tags</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130412T135906Z">
+        <seg>Erreur durant la correction des balises</seg>
       </tuv>
     </tu>
     <tu>
@@ -6804,6 +6836,14 @@ launch script.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Extraneous</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130412T135654Z">
+        <seg>En trop</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>F&amp;ont...</seg>
       </tuv>
       <tuv lang="FR">
@@ -7082,6 +7122,22 @@ launch script.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20121206T092046Z">
         <seg>Finnois</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fix</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130412T135743Z">
+        <seg>Corriger</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fix all</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130412T135802Z">
+        <seg>Corriger tout</seg>
       </tuv>
     </tu>
     <tu>
@@ -10416,6 +10472,14 @@ Java already installed on their machines.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Missing</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130412T135645Z">
+        <seg>Manquante</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Modifications of the original document will thus be handled with greater ease.</seg>
       </tuv>
       <tuv lang="FR">
@@ -11824,6 +11888,14 @@ happen should you file a bug report.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Orphaned</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130412T135717Z">
+        <seg>Orphelin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Other Options:</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20101112T170320Z">
@@ -11852,6 +11924,14 @@ happen should you file a bug report.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20120518T143304Z">
         <seg>Sinon, OmegaT utilisera la langue du système d'exploitation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Out-of-order</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130412T135703Z">
+        <seg>Ordre non respecté</seg>
       </tuv>
     </tu>
     <tu>
@@ -12060,6 +12140,14 @@ pour déterminer la source de l'erreur et faites une nouvelle tentative.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20091211T172714Z">
         <seg>Veuillez entrer votre nom/identifiant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please redo tag validation.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130412T135924Z">
+        <seg>Veuillez effectuer à nouveau la validation des balises.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15110,6 +15198,14 @@ an access to the hard drive of the computer.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The translation has changed.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130412T135914Z">
+        <seg>La traduction a été modifiée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The user manual is in the package you just downloaded, you can access it from
 the [Help] menu after starting OmegaT.</seg>
       </tuv>
@@ -15436,6 +15532,14 @@ this version will not interfere with it.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Cette recherche est effectuée aussi bien dans la langue source que dans la langue cible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This operation will affect {0} segments and cannot be undone.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130412T135855Z">
+        <seg>Cette opération affectera {0} segment(s) et ne pourra pas être annulée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16389,6 +16493,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unspecified</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130412T135738Z">
+        <seg>Non spécifié</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unsupported XML version {0}!</seg>
       </tuv>
       <tuv lang="FR">
@@ -17066,6 +17178,14 @@ as Sun does not provide a JRE for PPC systems.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20120710T123546Z">
         <seg>Si vous souhaitez obtenir un aperçu de votre traduction dans son format final, utilisez le raccourci &lt;k1&gt;Ctrl+D&lt;/k1&gt; pour générer le document traduit dans le sous-dossier /target/ du dossier projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Whitespace</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130412T135710Z">
+        <seg>Espaces</seg>
       </tuv>
     </tu>
     <tu>
@@ -18008,6 +18128,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>http://www.omegat.org/omegat/omegat_en/translation-info.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.sil.org/ISO639-3/codes.asp</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130412T135933Z">
+        <seg>http://www.sil.org/ISO639-3/codes.asp</seg>
       </tuv>
     </tu>
     <tu>
