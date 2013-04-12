@@ -20,9 +20,9 @@
         </indexterm></title>
 
       <tgroup cols="2" colsep="0" rowsep="1" title="Main OMegaT window">
-        <colspec align="left" colnum="1" colwidth="90"/>
+        <colspec align="left" colnum="1"/>
 
-        <colspec align="left" colnum="2" colwidth=""/>
+        <colspec align="left" colnum="2"/>
 
         <tbody>
           <row>
@@ -85,9 +85,9 @@
         </indexterm></title>
 
       <tgroup cols="2" colsep="0" rowsep="1" title="Other windows">
-        <colspec align="left" colnum="1" colwidth="90"/>
+        <colspec align="left" colnum="1"/>
 
-        <colspec align="left" colnum="2" colwidth=""/>
+        <colspec align="left" colnum="2"/>
 
         <tbody>
           <row>
@@ -97,7 +97,7 @@
                 <secondary>Tag validation - Ctrl+T</secondary>
               </indexterm>Tag Validation window</guimenuitem></entry>
 
-            <entry><para>Used to read the user manual (open with <keycombo>
+            <entry><para>Used to validate tags (open with <keycombo>
                 <keycap>Ctrl</keycap>
 
                 <keycap>T</keycap>
@@ -159,9 +159,9 @@
         </indexterm></title>
 
       <tgroup cols="2" colsep="0" rowsep="1" title="Settings dialogs">
-        <colspec align="left" colnum="1" colwidth="90"/>
+        <colspec align="left" colnum="1"/>
 
-        <colspec align="left" colnum="2" colwidth=""/>
+        <colspec align="left" colnum="2"/>
 
         <tbody>
           <row>
@@ -190,14 +190,14 @@
                 <secondary>Font</secondary>
               </indexterm></guimenuitem></entry>
 
-            <entry><para>Used to modify the font <application>used by
-            OmegaT</application> to display source, translation, matches and
+            <entry><para>Used to modify the font used by
+            <application>OmegaT</application> to display source, translation, matches and
             glossary terms, (access via <menuchoice>
                 <guimenu>Options</guimenu>
 
                 <guimenuitem>Font...</guimenuitem>
               </menuchoice>, close via
-            <keycap>Esc</keycap><keycap>)</keycap></para></entry>
+            <keycap>Esc</keycap>)</para></entry>
           </row>
 
           <row>
@@ -293,7 +293,7 @@
     <note>
       <para>If you can not see all the panes (be it opened or minimized),
       pressing <guisubmenu> Options &gt; Restore Main Window </guisubmenu>will
-      restore them to the state, defined in the installation..</para>
+      restore them to the state, defined in the installation.</para>
     </note>
 
     <table>
@@ -304,7 +304,7 @@
         </indexterm></title>
 
       <tgroup cols="2">
-        <colspec align="left" colnum="1" colwidth="60"/>
+        <colspec align="left" colnum="1"/>
 
         <tbody>
           <row>
@@ -407,32 +407,32 @@
         </indexterm></title>
 
       <tgroup cols="2">
-        <colspec align="left" colnum="1" colwidth="60"/>
+        <colspec align="left" colnum="1"/>
 
         <tbody>
           <row>
-            <entry>33/33</entry>
+            <entry>27/27</entry>
 
             <entry>number of segments - translated vs total for the current
             file</entry>
           </row>
 
           <row>
-            <entry>2780/2780</entry>
+            <entry>9319/16338</entry>
 
             <entry>number of unique segments - translated vs total in the
             project</entry>
           </row>
 
           <row>
-            <entry>3760</entry>
+            <entry>31175</entry>
 
             <entry>total number of segments (including repeats) in the
             project</entry>
           </row>
 
           <row>
-            <entry>126/127</entry>
+            <entry>103/114</entry>
 
             <entry>number of source and target characters in the current
             segment</entry>
@@ -605,6 +605,145 @@
           <para>OmegaT match, including numbers, tags</para>
         </listitem>
       </itemizedlist>
+
+      <section>
+        <title>Customizing the Fuzzy matches pane<indexterm class="singular">
+            <primary>Windows and panes in OmegaT</primary>
+
+            <secondary>Fuzzy matches pane</secondary>
+
+            <tertiary>Customizing</tertiary>
+          </indexterm><indexterm class="singular">
+            <primary>Source files</primary>
+
+            <secondary>Translating updated source</secondary>
+          </indexterm></title>
+
+        <para>In <guimenu>Options &gt; External TMXs</guimenu>, a number of
+        variables allow to configure the display of the match pane:</para>
+
+        <figure id="matches.pane.setup">
+          <title><indexterm class="singular">
+              <primary>Matches</primary>
+
+              <secondary>Matches pane setup - figure</secondary>
+            </indexterm><indexterm class="singular">
+              <primary>Windows and panes in OmegaT</primary>
+
+              <secondary>Matches pane setup - figure</secondary>
+            </indexterm>Matches pane setup</title>
+
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="images/MatchesPaneSetup.png"/>
+            </imageobject>
+
+            <imageobject role="fo">
+              <imagedata fileref="images/MatchesPaneSetup.png" width="50%"/>
+            </imageobject>
+          </mediaobject>
+        </figure>
+
+        <para>The figure above shows the default match display template. The
+        contents can be customized using following variables:</para>
+
+        <table colsep="0" rowsep="0">
+          <title>Match pane setup<indexterm class="singular">
+              <primary>User Interface</primary>
+
+              <secondary>Match pane setup</secondary>
+            </indexterm></title>
+
+          <tgroup cols="2" colsep="1" rowsep="1" title="Match pane setup">
+            <colspec align="left" colnum="1"/>
+
+            <colspec align="left" colnum="2"/>
+
+            <tbody>
+              <row>
+                <entry><literal>${id}</literal></entry>
+
+                <entry>Number of the match from 1 to 5</entry>
+              </row>
+
+              <row>
+                <entry><literal>${sourceText}</literal></entry>
+
+                <entry>Source text of the match</entry>
+              </row>
+
+              <row>
+                <entry><literal>${targetText}</literal></entry>
+
+                <entry>Target text of the match</entry>
+              </row>
+
+              <row>
+                <entry><literal>${diff}</literal></entry>
+
+                <entry>String showing the differences between the source and
+                the match.<emphasis> Hint:</emphasis> use this if the text,
+                you are translated, that has been updated.</entry>
+              </row>
+
+              <row>
+                <entry><literal>${score}</literal></entry>
+
+                <entry>Percentage with tokenizer</entry>
+              </row>
+
+              <row>
+                <entry><literal>${noStemScore}</literal></entry>
+
+                <entry>Percentage without numbers and tags</entry>
+              </row>
+
+              <row>
+                <entry><literal>${adjustedScore}</literal></entry>
+
+                <entry>Percentage adjusted</entry>
+              </row>
+
+              <row>
+                <entry><literal>${fileNameOnly}</literal></entry>
+
+                <entry>Name of the TMX</entry>
+              </row>
+
+              <row>
+                <entry><literal>${filePath}</literal></entry>
+
+                <entry>Full path of the TMX</entry>
+              </row>
+
+              <row>
+                <entry><literal>${fileShortPath}</literal></entry>
+
+                <entry>Path of the TMX starting from the root of /tm</entry>
+              </row>
+
+              <row>
+                <entry><literal>${creationID}</literal></entry>
+
+                <entry>Author of the match</entry>
+              </row>
+
+              <row>
+                <entry><literal>${creationDate}</literal></entry>
+
+                <entry>Date of the match</entry>
+              </row>
+
+              <row>
+                <entry><literal>${fuzzyFlag}</literal></entry>
+
+                <entry>Indicate that this match is fuzzy (currently only for
+                translations from PO files with the #fuzzy mark)</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
     </section>
 
     <section>
@@ -698,7 +837,7 @@
       translator to check the length of the translation:</para>
 
       <figure id="comments.pane">
-        <title><indexterm class="singular">
+        <title>Comments pane<indexterm class="singular">
             <primary>Comments</primary>
 
             <secondary>Comments pane</secondary>
@@ -706,7 +845,7 @@
 
         <mediaobject>
           <imageobject role="html">
-            <imagedata fileref="images/Comments_25.png" width=""/>
+            <imagedata fileref="images/Comments_25.png"/>
           </imageobject>
 
           <imageobject role="fo">
@@ -791,8 +930,8 @@
 
       <itemizedlist>
         <listitem>
-          <para>the number of segments in each file is shown next to the file
-          name</para>
+          <para>File entries include their names, file filter types, their
+          encoding and the number of segments each file contains</para>
         </listitem>
       </itemizedlist>
 
@@ -938,7 +1077,7 @@
           class="singular">
           <primary>Shortcuts</primary>
 
-          <secondary>copy text - Ctrl+C</secondary>
+          <secondary>Copy text - Ctrl+C</secondary>
         </indexterm></guimenuitem>, <guimenuitem>Ctrl+V <indexterm
           class="singular">
           <primary>Shortcuts</primary>
@@ -971,13 +1110,12 @@
       Statistics.</guimenuitem> The evaluation is rather CPU intensive and can
       be time-consuming, so a progress bar is shown during the calculation. As
       far as categories are concerned, the de facto industry standard of
-      classifying matches into the following groups is used: Exact match,
-      95%-100%, 85%-94%, 75%-84%, 50%-74% and No match. The word counts,
-      identical to counts in the Project Files window, are based strictly on
-      OmegaT's method of counting, with a few differences in terminology to
-      account for concept differences. This information is computed for
-      segments as well as for words and for characters (without and including
-      spaces).<figure>
+      classifying matches into the following groups is used: Repetitions, Exact match,
+      95%-100%, 85%-94%, 75%-84%, 50%-74% and No match. This information is
+      computed for segments as well as for words and for characters (without
+      and including spaces). Note that there could be minor differences
+      between the OmegaT counts and the numbers, provided by other CAT
+      tools.<figure>
           <title>Match statistics</title>
 
           <mediaobject>

@@ -38,7 +38,7 @@
   Filters...</emphasis> option in Project Properties.</para>
 
   <para>You can enable project specific filters via the <emphasis
-  role="bold">Options → Properties...</emphasis>. Click on <guibutton>File
+  role="bold">Project → Properties...</emphasis>. Click on <guibutton>File
   Filters</guibutton> button and activate the check box <guimenuitem>Enable
   project specific filters</guimenuitem><indexterm class="singular">
       <primary>File filters</primary>
@@ -78,11 +78,11 @@
         <secondary>Options</secondary>
       </indexterm></title>
 
-    <para>Five filters (Text files, XHTML files, HTML and XHTML files,
-    OpenDocument/OpenOffice.org files and Microsoft Open XML files) have one
-    or more specific options. To modify the options select the filter from the
-    list and click on <emphasis role="bold">Options</emphasis>. The available
-    options are:</para>
+    <para>Several filters (Text files, XHTML files, HTML and XHTML files,
+    OpenDocument files and Microsoft Open XML files) have one or more specific
+    options. To modify the options select the filter from the list and click
+    on <emphasis role="bold">Options</emphasis>. The available options
+    are:</para>
 
     <para><emphasis role="bold">Text files</emphasis></para>
 
@@ -112,11 +112,44 @@
       </listitem>
     </itemizedlist>
 
+    <itemizedlist>
+      <listitem>
+        <para><emphasis>Skip PO header</emphasis></para>
+
+        <para>PO header will be skipped and left unchanged, if this option is
+        checked.</para>
+      </listitem>
+    </itemizedlist>
+
+    <itemizedlist>
+      <listitem>
+        <para><emphasis>Auto replace 'nplurals=INTEGER; plural=EXPRESSION;' in
+        header</emphasis></para>
+
+        <para><emphasis><emphasis>The option allows OmegaT to override the
+        specification in the PO file header and use the default for the
+        selected target language. </emphasis></emphasis></para>
+      </listitem>
+    </itemizedlist>
+
     <para><emphasis role="bold">XHTML Files</emphasis></para>
 
     <itemizedlist>
       <listitem>
-        <para><emphasis>Translate the following attributes </emphasis>- the
+        <para><emphasis>Add or rewrite encoding declaration in HTML and XHTML
+        files</emphasis>: frequently the target files must have the encoding
+        character set different from the one in the source file (wether it is
+        explicitly defined or implied). Using this option the translator can
+        specify, whether the target files are to have the encoding declaration
+        included. For instance, if the file filter specifies UTF8 as the
+        encoding scheme for the target files, selecting Always will assure
+        that this information is included in the translated files.</para>
+      </listitem>
+    </itemizedlist>
+
+    <itemizedlist>
+      <listitem>
+        <para><emphasis>Translate the following attributes</emphasis>: the
         selected attributes will appear as segments in the Editor
         window.</para>
       </listitem>
@@ -277,7 +310,7 @@
       </listitem>
     </itemizedlist>
 
-    <para><emphasis role="bold">OpenDocument/OpenOffice.org
+    <para><emphasis role="bold">Open Document Format (ODF)
     files</emphasis></para>
 
     <itemizedlist>
@@ -318,7 +351,7 @@
           class="singular">
           <primary>File filters</primary>
 
-          <secondary>File type and name patterne</secondary>
+          <secondary>File type and name pattern</secondary>
         </indexterm></title>
 
       <para>When OmegaT encounters a file in its source folder, it attempts to
@@ -464,7 +497,7 @@
         </listitem>
 
         <listitem>
-          <para><literal>$(timestamp-????)</literal> - system date time at
+          <para><literal>${timestamp-????}</literal> – system date time at
           generation time in various patterns</para>
 
           <para>See <ulink
@@ -474,62 +507,62 @@
         </listitem>
 
         <listitem>
-          <para>${system-os-name} - operating system of the computer
+          <para><literal>${system-os-name}</literal> - operating system of the computer
           used</para>
         </listitem>
 
         <listitem>
-          <para>${system-user-name) - system user name</para>
+          <para><literal>${system-user-name)</literal> - system user name</para>
         </listitem>
 
         <listitem>
-          <para>${system-host-name} - system host name</para>
+          <para><literal>${system-host-name}</literal> - system host name</para>
         </listitem>
 
         <listitem>
-          <para>${file-source-encoding} - source file encoding</para>
+          <para><literal>${file-source-encoding}</literal> - source file encoding</para>
         </listitem>
 
         <listitem>
-          <para>${file-target-encoding} - target file encoding</para>
+          <para><literal>${file-target-encoding}</literal> - target file encoding</para>
         </listitem>
 
         <listitem>
-          <para>${targetLocaleLCID) - Microsoft target locale</para>
+          <para><literal>${targetLocaleLCID)</literal> - Microsoft target locale</para>
         </listitem>
       </itemizedlist>
 
       <para>Additional variants are available for variables ${nameOnly} and
       ${Extension}. In case the file name has ambivalent name, one can apply
-      variables of the form <literal>$(name only</literal><emphasis>-number of
-      extensions</emphasis>) and
-      <literal>${extension</literal>-<emphasis>number of extensions}
-      </emphasis>. If for example the original file is named Document.xx.docx,
-      the following variables will give the following results:</para>
+      variables of the form <literal>${name only</literal><emphasis>-extension
+      number</emphasis>} and
+      <literal>${extension</literal>-<emphasis>extension number} </emphasis>.
+      If for example the original file is named Document.xx.docx, the
+      following variables will give the following results:</para>
 
       <itemizedlist>
         <listitem>
-          <para>${nameOnly-0} Document</para>
+          <para><literal>${nameOnly-0}</literal> Document</para>
         </listitem>
 
         <listitem>
-          <para>${nameOnly-1} Document.xx</para>
+          <para><literal>${nameOnly-1}</literal> Document.xx</para>
         </listitem>
 
         <listitem>
-          <para>${nameOnly-2} Document.xx.docx</para>
+          <para><literal>${nameOnly-2}</literal> Document.xx.docx</para>
         </listitem>
 
         <listitem>
-          <para>${extension-0} docx</para>
+          <para><literal>${extension-0}</literal> docx</para>
         </listitem>
 
         <listitem>
-          <para>${extension-1} xx.docx</para>
+          <para><literal>${extension-1}</literal> xx.docx</para>
         </listitem>
 
         <listitem>
-          <para>${extension-2} Document.xx.docx</para>
+          <para><literal>${extension-2}</literal> Document.xx.docx</para>
         </listitem>
       </itemizedlist>
     </section>
