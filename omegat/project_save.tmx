@@ -2823,11 +2823,12 @@ OmegaT peut être exécuté de différentes façons.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>(DB) La gestion : sauf cas particulier, pas de majuscule après : &gt; la gestion</note>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Terminology management&lt;/e0&gt;: Terminology management is important for translation consistency.</seg>
       </tuv>
-      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T122727Z">
-        <seg>&lt;e0&gt;Gestion de la terminologie&lt;/e0&gt;: La gestion de la terminologie est importante pour la cohérence de la traduction.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130418T141034Z">
+        <seg>&lt;e0&gt;Gestion de la terminologie&lt;/e0&gt;: la gestion de la terminologie est importante pour la cohérence de la traduction.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2863,11 +2864,12 @@ OmegaT peut être exécuté de différentes façons.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>(DB) Imaginez &gt; imaginez </note>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Translation process:&lt;/e0&gt; Imagine having to translate something; from a single file to a folder containing subfolders each with a number of files in a variety of formats.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130410T133643Z">
-        <seg>&lt;e0&gt;Travail de traduction :&lt;/e0&gt; Imaginez que vous ayez à traduire quelque chose ; d'un fichier unique à un dossier contenant des sous-dossiers, chacun rempli d'un certain nombre de fichiers sous différents formats.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130418T141116Z">
+        <seg>&lt;e0&gt;Travail de traduction :&lt;/e0&gt; imaginez que vous ayez à traduire quelque chose ; d'un fichier unique à un dossier contenant des sous-dossiers, chacun rempli d'un certain nombre de fichiers sous différents formats.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7263,11 +7265,12 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>(DB) apparaitre : l'utilisation de la réforme de 1990 est-elle volontaire ? Je ne la recommande pas, elle n'est pas utilisée à ma connaissance dans le monde professionnel. Pour l'instant, je rectifie donc avec l'accent : apparaître</note>
       <tuv lang="EN">
         <seg>For your reference, OmegaT displays the translation of any words that happen to be present in the segment that currently has focus.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130410T133529Z">
-        <seg>Pour vous informer, OmegaT affiche la traduction de tous les mots qui peuvent apparaitre dans le segment que vous êtes en train de traduire.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130418T141000Z">
+        <seg>Pour vous informer, OmegaT affiche la traduction de tous les mots qui peuvent apparaître dans le segment que vous êtes en train de traduire.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11478,11 +11481,12 @@ files, plain text files, and more.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>(DB) phrase &gt; phrase est un faux amis. small phrases &gt; courtes expressions</note>
       <tuv lang="EN">
         <seg>OmegaT uses glossaries containing translations of single words or small phrases: a simplified bilingual dictionary for a specific domain.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130410T133429Z">
-        <seg>OmegaT utilise des glossaires contenant des traductions de mots uniques ou de petites phrases, soit, un dictionnaire bilingue simplifié dédié à un domaine spécifique.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130418T140829Z">
+        <seg>OmegaT utilise des glossaires contenant des traductions de mots uniques ou de courtes expression, soit, un dictionnaire bilingue simplifié dédié à un domaine spécifique.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11502,19 +11506,22 @@ files, plain text files, and more.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>(DB) tmx &gt; TMX : L'utilisation des minuscules pour ce type d'acronyme est une erreur en anglais comme en français.
+ les autres applications de logiciel TAO : les autres logiciels de TAO ou les autres applications de TAO</note>
       <tuv lang="EN">
         <seg>OmegaT uses the standard tmx file format to store and access translation memories, which guarantees that you can exchange your translation material with other CAT applications supporting this file format.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130410T133114Z">
-        <seg>OmegaT utilise le format de fichier tmx standard pour enregistrer et pour avoir accès à vos mémoires de traduction, ce qui vous garantit la possibilité de réaliser des échanges de matériel de traduction avec les autres applications de logiciel TAO qui utilisent ce format.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130418T140713Z">
+        <seg>OmegaT utilise le format de fichier TMX standard pour enregistrer et pour avoir accès à vos mémoires de traduction, ce qui vous garantit la possibilité de réaliser des échanges de matériel de traduction avec les autres applications de TAO qui utilisent ce format.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>(DB) surlequel : espace manquante</note>
       <tuv lang="EN">
         <seg>OmegaT uses translation memories to store your previous translations and then suggest likely translations for the text you are currently working on.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130410T132411Z">
-        <seg>OmegaT utilise les mémoires de traduction pour enregistrer vos précédentes traductions et pour ensuite vous suggérer des traductions possibles pour le texte surlequel vous êtes en train de travailler.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130418T140426Z">
+        <seg>OmegaT utilise les mémoires de traduction pour enregistrer vos précédentes traductions et pour ensuite vous suggérer des traductions possibles pour le texte sur lequel vous êtes en train de travailler.</seg>
       </tuv>
     </tu>
     <tu>
