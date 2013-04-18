@@ -2719,11 +2719,12 @@ OmegaT peut être exécuté de différentes façons.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>(DB) Comportement des domaines d'édition &gt; Comportement de la zone d'édition (field a ici le sens informatique champ, zone)</note>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Editing field behavior:&lt;/e0&gt; a short chapter describing how to set up the editing behavior of the segment being translated.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130410T140409Z">
-        <seg>&lt;e0&gt;Comportement des domaines d'édition :&lt;/e0&gt; ce court chapitre décrit comment mettre en place le comportement d'édition d'un segment en cours de traduction.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130418T142404Z">
+        <seg>&lt;e0&gt;Comportement de la zone d'édition :&lt;/e0&gt; ce court chapitre décrit comment mettre en place le comportement d'édition d'un segment en cours de traduction.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2791,11 +2792,13 @@ OmegaT peut être exécuté de différentes façons.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>(DB) Pour OmegaT : pour OmegaT
+outil TAO : outil de TAO</note>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Project properties&lt;/e0&gt;, &lt;e1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt; Files and Directories:&lt;/e1&gt; a project in the context of OmegaT is the piece of work that OmegaT as a CAT tool is able to handle.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130410T140056Z">
-        <seg>&lt;e0&gt;Propriétés du projet&lt;/e0&gt;, &lt;e1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt; Fichiers et Répertoires :&lt;/e1&gt; Pour OmegaT, un projet est un travail qu'il est en mesure de gérer, en tant qu'outil TAO.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130418T142141Z">
+        <seg>&lt;e0&gt;Propriétés du projet&lt;/e0&gt;, &lt;e1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt; Fichiers et Répertoires :&lt;/e1&gt; Pour OmegaT, un projet est un travail qu'il est en mesure de gérer, en tant qu'outil de TAO.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2841,11 +2844,12 @@ OmegaT peut être exécuté de différentes façons.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>(DB) fourni : fournit (verbe conjugué)</note>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Translation memories: &lt;/e0&gt; explains the role of the various subdirectories containing translation memories, and provides information on other important aspects relating to translation memories.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130410T140723Z">
-        <seg>&lt;e0&gt;Mémoires de traduction: &lt;/e0&gt; ce chapitre explique le rôle des différents sous-répertoires contenant les mémoires de traduction, et fourni des informations concernant d'autres éléments importants en lien avec les mémoires de traductions.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130418T142518Z">
+        <seg>&lt;e0&gt;Mémoires de traduction: &lt;/e0&gt; ce chapitre explique le rôle des différents sous-répertoires contenant les mémoires de traduction, et fournit des informations concernant d'autres éléments importants en lien avec les mémoires de traductions.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2874,11 +2878,12 @@ OmegaT peut être exécuté de différentes façons.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>(DB) Ces deux : ces deux</note>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Working with plain text&lt;/e0&gt; and &lt;e1&gt;Working with formatted text&lt;/e1&gt;: these two chapters explain certain important points concerning texts to be translated, such as the encoding set (in the case of plain text files) and tag handling (in the case of formatted text).</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130410T140545Z">
-        <seg>&lt;e0&gt;Travailler avec du texte brut&lt;/e0&gt; et &lt;e1&gt;Travailler avec du texte formaté &lt;/e1&gt;: Ces deux chapitres expliquent certains points importants concernant les textes à traduire, tels que les ensembles d'encodage (dans le cas de fichiers textes bruts)  et la gestion de balises (dans le cas de textes formatés).</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130418T142442Z">
+        <seg>&lt;e0&gt;Travailler avec du texte brut&lt;/e0&gt; et &lt;e1&gt;Travailler avec du texte formaté &lt;/e1&gt;: ces deux chapitres expliquent certains points importants concernant les textes à traduire, tels que les ensembles d'encodage (dans le cas de fichiers textes bruts)  et la gestion de balises (dans le cas de textes formatés).</seg>
       </tuv>
     </tu>
     <tu>
@@ -11993,6 +11998,7 @@ happen should you file a bug report.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>(DB) "créatifs" : « créatifs » typographie</note>
       <tuv lang="EN">
         <seg>Paragraph segmentation is less frequently used, but can be useful in cases of so-called "creative" texts.</seg>
       </tuv>
@@ -15421,11 +15427,12 @@ version will not interfere with it.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>langues sources et les langues cibles : langues source et langues cible (source et cible considérés ici comme invariables)</note>
       <tuv lang="EN">
         <seg>This chapter describes the project properties, such as the source and target languages.</seg>
       </tuv>
-      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T124227Z">
-        <seg>Ce chapitre décrit les propriétés du projet, comme les langues sources et les langues cibles.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130418T142219Z">
+        <seg>Ce chapitre décrit les propriétés du projet, comme les langues source et les langues cible.</seg>
       </tuv>
     </tu>
     <tu>
