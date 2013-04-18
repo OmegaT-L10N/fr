@@ -2832,11 +2832,12 @@ OmegaT peut être exécuté de différentes façons.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>(DB) raccourcis claviers &gt; raccourcis clavier (de type clavier)</note>
       <tuv lang="EN">
         <seg>&lt;e0&gt;The user interface&lt;/e0&gt;,&lt;e1&gt;Main Menu and Keyboard Shortcuts&lt;/e1&gt;: these two chapters are likely to be heavily consulted, since they explain the user interface of OmegaT and the functions available via the main menu and the keyboard shortcuts.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130410T135814Z">
-        <seg>&lt;e0&gt;L'interface utilisateur&lt;/e0&gt;,&lt;e1&gt;Menu Princpal et Raccourcis Claviers&lt;/e1&gt;: ces deux chapitres seront certainement très consultés car ils expliquent le fonctionnement de l'interface utilisateur d'OmegaT et les fonctionnalités disponibles via le menu principal et les raccourcis claviers.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130418T142053Z">
+        <seg>&lt;e0&gt;L'interface utilisateur&lt;/e0&gt;,&lt;e1&gt;Menu Princpal et Raccourcis Claviers&lt;/e1&gt;: ces deux chapitres seront certainement très consultés car ils expliquent le fonctionnement de l'interface utilisateur d'OmegaT et les fonctionnalités disponibles via le menu principal et les raccourcis clavier.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2881,6 +2882,8 @@ OmegaT peut être exécuté de différentes façons.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>(DB) Ce chapitre &gt; ce chapitre
+“impatients” &gt; « impatients », typographie française standard</note>
       <tuv lang="EN">
         <seg>&lt;e0&gt; Instant start guide:&lt;/e0&gt; this chapter is intended as an Instant Start Guide for beginners and “tyre kickers”, showing the complete procedure from opening a new translation project through to completing the translation.</seg>
       </tuv>
@@ -17132,11 +17135,13 @@ as Sun does not provide a JRE for PPC systems.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>(DB) Lorsqu'OmegaT : discutable. De façon classique, l'élision après lorsque n'est admise que pour un petit nombre de mots. Grévisse l'admet pour tous les mots, mais reconnaît que certains écrivains et grammairiens ne l'acceptent que pour il(s), elle(s), un(e), on ; certains ajoutent ainsi, en. 
+reconnait &gt; reconnaît réf. 1990</note>
       <tuv lang="EN">
         <seg>When you let OmegaT know the files that you need to translate, it looks for the files it understands based on file filtering rules, recognizes the textual parts within them, splits up the text groups according to the segmentation rules, and displays the segments one by one so that you can proceed with the translation.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130410T134036Z">
-        <seg>Lorsqu'OmegaT prend connaissance des fichiers que vous voulez traduire, il recherche les fichiers qu'il reconnait sur la base de règles de filtrage de fichiers, reconnait les parties textuelles, sépare les groupes de texte en suivant les règles de segmentation, et affiche les segments un par un de sorte que vous puissiez procéder à la traduction.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130418T141902Z">
+        <seg>Lorsqu'OmegaT prend connaissance des fichiers que vous voulez traduire, il recherche les fichiers qu'il reconnaît sur la base de règles de filtrage de fichiers, reconnaît les parties textuelles, sépare les groupes de texte en suivant les règles de segmentation, et affiche les segments un par un de sorte que vous puissiez procéder à la traduction.</seg>
       </tuv>
     </tu>
     <tu>
