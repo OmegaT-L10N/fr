@@ -3245,6 +3245,14 @@ outil TAO : outil de TAO</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ANTLR 3.4 (ANTLR 3 License)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130423T094234Z">
+        <seg>ANTLR 3.4 (licence ANTLR 3)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ANTLR 3.4 (ANTLR 3 license)</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20120708T144757Z">
@@ -3393,6 +3401,14 @@ outil TAO : outil de TAO</note>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20100608T085914Z">
         <seg>Options avan&amp;cées</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Afrikaans</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130423T094358Z">
+        <seg>Afrikaans</seg>
       </tuv>
     </tu>
     <tu>
@@ -8086,6 +8102,14 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ISO 639-1</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130423T094333Z">
+        <seg>ISO 639-1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ISO 639-1/639-2 Language code list</seg>
       </tuv>
       <tuv lang="FR" changeid="etudiant_local" changedate="20130410T123845Z">
@@ -9755,6 +9779,22 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LanguageTool.jar (LGPL License)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130423T094259Z">
+        <seg>LanguageTool.jar (licence LGPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool.jar (LGPL license)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130423T094205Z">
+        <seg>LanguageTool.jar (licence LGPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Languages</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20110924T124045Z">
@@ -10114,6 +10154,14 @@ Java already installed on their machines.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Les utilisateurs de Mac OS X ont déjà un JRE installé par défaut sur leur machine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Macedonian</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130423T094424Z">
+        <seg>Macedonien</seg>
       </tuv>
     </tu>
     <tu>
@@ -11062,6 +11110,14 @@ Java already installed on their machines.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT 3.0, Read Me file</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130423T093840Z">
+        <seg>OmegaT 3.0, fichier « Lisez-moi »</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT Project Directory</seg>
       </tuv>
       <tuv lang="FR">
@@ -11649,6 +11705,14 @@ with exactly the same structure, including copies of any non-supported files.</s
       </tuv>
       <tuv lang="FR" changeid="briglegrand" changedate="20120501T192403Z">
         <seg>Ici, OmegaT présente cette phrase de la manière suivante :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT-{0}</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130423T094224Z">
+        <seg>OmegaT-{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -13198,6 +13262,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20120508T173835Z">
         <seg>SJXP 1.0.2 (GPLv2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SQLJet 1.1.3 (GPL License)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130423T094251Z">
+        <seg>SQLJet 1.1.3 (licence GPL)</seg>
       </tuv>
     </tu>
     <tu>
@@ -14772,6 +14844,14 @@ dossier actuel sera utilisé à la place.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Les balises &lt;f0&gt;bleues&lt;/f0&gt; sont les balises HTML qui seront ignorées par OmegaT parce qu'elles entourent entièrement le segment, les balises &lt;f1&gt;vertes&lt;/f1&gt; sont celles qui sont gérées par OmegaT parce qu'elles sont à l'intérieur du segment,  et les &lt;f2&gt;rouges&lt;/f2&gt; sont telles qu'elles apparaîtront dans OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The English tokenizers (org.omegat.tokenizer.SnowballEnglishTokenizer and</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130423T093940Z">
+        <seg>Les lemmatiseurs anglais (org.omegat.tokenizer.SnowballEnglishTokenizer et</seg>
       </tuv>
     </tu>
     <tu>
@@ -17996,6 +18076,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>commons-*.jar (Apache License 2.0)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130423T094150Z">
+        <seg>commons-*.jar (licence Apache 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>fileFilters.html</seg>
       </tuv>
       <tuv lang="FR">
@@ -18180,6 +18268,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>jWordSplitter (Apache License 2.0)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130423T094159Z">
+        <seg>jWordSplitter (licence Apache 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>lan&amp;g (language attribute)</seg>
       </tuv>
       <tuv lang="FR">
@@ -18196,10 +18292,26 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>lucene-*.jar (Apache License 2.0)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130423T093902Z">
+        <seg>lucene-*.jar (licence Apache 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>matches pane</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20101002T214309Z">
         <seg>Volet des correspondances</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>mk</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130423T094433Z">
+        <seg>mk</seg>
       </tuv>
     </tu>
     <tu>
@@ -18216,6 +18328,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20110709T092230Z">
         <seg>XLIFF monolingue (.xlf, *.xliff, .sdlxliff)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>morfologik-*.jar (Morfologik license)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130423T094213Z">
+        <seg>morfologik-*.jar (licence Morfologik)</seg>
       </tuv>
     </tu>
     <tu>
@@ -18324,6 +18444,16 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>org.omegat.tokenizer.LuceneEnglishTokenizer) use stop words from Okapi
+(http://okapi.sourceforge.net) (LGPL license)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130423T094127Z">
+        <seg>org.omegat.tokenizer.LuceneEnglishTokenizer) utilisent des mots non significatifs d'Okapi
+(http://okapi.sourceforge.net) (licence LGPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>orion-ssh2-214 (Orion SSH for Java license)</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130404T142520Z">
@@ -18404,6 +18534,22 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>segment-1.3.0.jar (Segment License)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130423T094309Z">
+        <seg>segment-1.3.0.jar (licence Segment)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>segment-1.3.0.jar (Segment license)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130423T094222Z">
+        <seg>segment-1.3.0.jar (licence Segment)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>segmentation.html</seg>
       </tuv>
       <tuv lang="FR">
@@ -18424,6 +18570,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>src (URL des &amp;images)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tinysegmenter.jar (Modified BSD license)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130423T094143Z">
+        <seg>tinysegmenter.jar (licence BSD modifiée)</seg>
       </tuv>
     </tu>
     <tu>
