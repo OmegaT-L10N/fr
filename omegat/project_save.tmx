@@ -2536,6 +2536,15 @@ OmegaT.bat to the desktop or Start menu to link it from there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>12719: Info: Source tokenizer: org.omegat.core.matching.Tokenizer 12719: Info: Target tokenizer: org.omegat.core.matching.Tokenizer</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104241Z">
+        <seg>12719: Info: Source tokenizer: org.omegat.core.matching.Tokenizer
+12719: Info: Target tokenizer: org.omegat.core.matching.Tokenizer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>2 letters (e.g. JA for Japanese), or</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130424T094251Z">
@@ -2768,6 +2777,14 @@ OmegaT peut être exécuté de différentes façons.</seg>
       </tuv>
       <tuv lang="FR" changeid="briglegrand" changedate="20110111T210401Z">
         <seg>8.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>84528: Info: Source tokenizer: org.omegat.plugins.tokenizer.LuceneCJKTokenizer 84528: Info: Target tokenizer: org.omegat.plugins.tokenizer.LuceneFrenchTokenizer</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104143Z">
+        <seg>84528: Info: Source tokenizer: org.omegat.plugins.tokenizer.LuceneCJKTokenizer 84528: Info: Target tokenizer: org.omegat.plugins.tokenizer.LuceneFrenchTokenizer</seg>
       </tuv>
     </tu>
     <tu>
@@ -4442,6 +4459,14 @@ outil TAO : outil de TAO</note>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130503T084847Z">
         <seg>&lt;k1&gt;Ctrl&lt;/k1&gt; est utilisé sur Windows, UNIX et les systèmes opérateurs fonctionnant comme UNIX avec des claviers comportant une touche &lt;k2&gt;Ctrl&lt;/k2&gt; ou &lt;k3&gt;Control&lt;/k3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;key&gt;VMOptions&lt;/key&gt; &lt;string&gt;-Xmx1024M&lt;/string&gt; &lt;key&gt;Arguments&lt;/key&gt; &lt;array&gt; &lt;string&gt;--ITokenizer=org.omegat.plugins.tokenizer.LuceneCJKTokenizer&lt;/string&gt; &lt;string&gt;--ITokenizerTarget=org.omegat.plugins.tokenizer.LuceneFrenchTokenizer&lt;/string&gt; &lt;/array&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104141Z">
+        <seg>&lt;key&gt;VMOptions&lt;/key&gt; &lt;string&gt;-Xmx1024M&lt;/string&gt; &lt;key&gt;Arguments&lt;/key&gt; &lt;array&gt; &lt;string&gt;--ITokenizer=org.omegat.plugins.tokenizer.LuceneCJKTokenizer&lt;/string&gt; &lt;string&gt;--ITokenizerTarget=org.omegat.plugins.tokenizer.LuceneFrenchTokenizer&lt;/string&gt; &lt;/array&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10819,6 +10844,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl +T</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104013Z">
+        <seg>Ctrl +T</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl is used on Windows, UNIX and UNIX-like operating systems with keyboards featuring a &lt;k0&gt;Ctrl&lt;/k0&gt; / &lt;k1&gt;Control key&lt;/k1&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130421T221007Z">
@@ -10947,6 +10980,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+J</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104002Z">
+        <seg>Ctrl+J</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+L</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T103801Z">
@@ -11055,6 +11096,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130412T080640Z">
         <seg>Ctrl+Maj+W</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+U</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T103959Z">
+        <seg>Ctrl+U</seg>
       </tuv>
     </tu>
     <tu>
@@ -12661,6 +12710,14 @@ launch script.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enter the URL, provided by ProjectLocker, into the field &lt;e0&gt;URL of repository&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104132Z">
+        <seg>Entrez l'URL fournie par ProjectLocker dans le champ &lt;e0&gt;URL of repository&lt;/e0&gt; (URL du référentiel).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enter the segment number:</seg>
       </tuv>
       <tuv lang="FR">
@@ -13387,6 +13444,14 @@ launch script.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>&amp;Police...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>F1</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104048Z">
+        <seg>F1</seg>
       </tuv>
     </tu>
     <tu>
@@ -26414,6 +26479,14 @@ REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Saving and Output...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104043Z">
+        <seg>Enregistrement et exécution...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Saving project...</seg>
       </tuv>
       <tuv lang="FR">
@@ -27082,6 +27155,14 @@ REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Les règles de segmentation sont appliquées dans l'ordre suivant :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Segmentation...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104030Z">
+        <seg>Segmentation...</seg>
       </tuv>
     </tu>
     <tu>
@@ -39865,6 +39946,70 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>gotoHistoryBackMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104005Z">
+        <seg>gotoHistoryBackMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>gotoHistoryForwardMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104004Z">
+        <seg>gotoHistoryForwardMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>gotoNextNoteMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104003Z">
+        <seg>gotoNextNoteMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>gotoNextSegmentMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104001Z">
+        <seg>gotoNextSegmentMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>gotoNextUntranslatedMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104000Z">
+        <seg>gotoNextUntranslatedMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>gotoPreviousNoteMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104004Z">
+        <seg>gotoPreviousNoteMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>gotoPreviousSegmentMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104001Z">
+        <seg>gotoPreviousSegmentMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>gotoSegmentMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104003Z">
+        <seg>gotoSegmentMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>greedy quantifiers will match as much as they can.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130428T155023Z">
@@ -39953,6 +40098,22 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>helpAboutMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104050Z">
+        <seg>helpAboutMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>helpContentsMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104049Z">
+        <seg>helpContentsMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>her</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T095946Z">
@@ -40025,6 +40186,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://code.google.com/p/tortoisegit/</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104054Z">
+        <seg>http://code.google.com/p/tortoisegit/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://docs.oracle.com/javase/6/docs/api/java/awt/event/KeyEvent.html</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T103727Z">
@@ -40041,9 +40210,25 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://git-scm.com/</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104052Z">
+        <seg>http://git-scm.com/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://groups.yahoo.com/group/OmegaT/</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20101223T174836Z">
+        <seg>http://groups.yahoo.com/group/OmegaT/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://groups.yahoo.com/group/omegat/</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104221Z">
         <seg>http://groups.yahoo.com/group/OmegaT/</seg>
       </tuv>
     </tu>
@@ -40097,6 +40282,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://projectlocker.com/</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104057Z">
+        <seg>http://projectlocker.com/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://sourceforge.net/projects/htmlparser</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20101223T174935Z">
@@ -40109,6 +40302,22 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T103634Z">
         <seg>http://sourceforge.net/projects/omegat-plugins/files</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://sourceforge.net/tracker/?group_id=68187&amp;amp;atid=520347</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104246Z">
+        <seg>http://sourceforge.net/tracker/?group_id=68187&amp;amp;atid=520347</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://sourceforge.net/tracker/?group_id=68187&amp;amp;atid=52035</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104249Z">
+        <seg>http://sourceforge.net/tracker/?group_id=68187&amp;amp;atid=52035</seg>
       </tuv>
     </tu>
     <tu>
@@ -40137,6 +40346,22 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://stardict.sourceforge.net/index.php</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104307Z">
+        <seg>http://stardict.sourceforge.net/index.php</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://subversion.apache.org</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104051Z">
+        <seg>http://subversion.apache.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://tech.groups.yahoo.com/group/OmegaT/</seg>
       </tuv>
       <tuv lang="FR" changeid="briglegrand" changedate="20120502T114459Z">
@@ -40153,6 +40378,22 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://tech.groups.yahoo.com/group/omegat/database?method=reportRows&amp;amp;tbl=1</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104245Z">
+        <seg>http://tech.groups.yahoo.com/group/omegat/database?method=reportRows&amp;amp;tbl=1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://tortoisesvn.net/</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104053Z">
+        <seg>http://tortoisesvn.net/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://www-128.ibm.com/developerworks/java/jdk/linux/download.html</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20101223T174911Z">
@@ -40165,6 +40406,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20120411T090552Z">
         <seg>http://www.ibm.com/developerworks/java/jdk/linux/download.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.joelonsoftware.com/articles/fog0000000029.html</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104250Z">
+        <seg>http://www.joelonsoftware.com/articles/fog0000000029.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -40189,6 +40438,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20101223T174835Z">
         <seg>http://www.omegat.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.omegat.org/en/howtos/localizing_omegat.html</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104252Z">
+        <seg>http://www.omegat.org/en/howtos/localizing_omegat.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -40229,6 +40486,22 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>http://www.vlsolutions.com/fr/products/docking/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://sourceforge.net/projects/macsvn/</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104055Z">
+        <seg>https://sourceforge.net/projects/macsvn/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://www.paypal.com/us/cgi-bin/webscr?cmd=_flow&amp;SESSION=Wumx5AKXybfb0RFlBA4Zve2v75W1qGfK9-ujQ1vYZQGSOnjY-hjIb4st1aG&amp;dispatch=5885d80a13c0db1f8e263663d3faee8d569c51c61ce57e9125f793ea33988004</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104306Z">
+        <seg>https://www.paypal.com/us/cgi-bin/webscr?cmd=_flow&amp;SESSION=Wumx5AKXybfb0RFlBA4Zve2v75W1qGfK9-ujQ1vYZQGSOnjY-hjIb4st1aG&amp;dispatch=5885d80a13c0db1f8e263663d3faee8d569c51c61ce57e9125f793ea33988004</seg>
       </tuv>
     </tu>
     <tu>
@@ -40541,6 +40814,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="laurieetclémentine" changedate="20130412T122156Z">
         <seg>java -jar OmegaT.jar --ITokenizer=[nom du lemmatiseur pour la langue source] --ITokenizerTarget=[nom du lemmatiseur pour la langue cible]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>java -jar OmegaT.jar --ITokenizer=org.omegat.plugins.tokenizer.LuceneCJKTokenizer --ITokenizerTarget=org.omegat.plugins.tokenizer.LuceneFrenchTokenizer</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104136Z">
+        <seg>java -jar OmegaT.jar --ITokenizer=org.omegat.plugins.tokenizer.LuceneCJKTokenizer --ITokenizerTarget=org.omegat.plugins.tokenizer.LuceneFrenchTokenizer</seg>
       </tuv>
     </tu>
     <tu>
@@ -41693,6 +41974,134 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130422T143548Z">
         <seg>Ouvrez votre fichier source dans un éditeur de texte capable d'interpréter correctement l'encodage et enregistrez le fichier sous l'encodage &lt;e0&gt;"UTF-8"&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>optionsAlwaysConfirmQuitCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104019Z">
+        <seg>optionsAlwaysConfirmQuitCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>optionsExtTMXMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104035Z">
+        <seg>optionsExtTMXMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>optionsFontSelectionMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104021Z">
+        <seg>optionsFontSelectionMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>optionsRestoreGUIMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104047Z">
+        <seg>optionsRestoreGUIMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>optionsSaveOptionsMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104043Z">
+        <seg>optionsSaveOptionsMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>optionsSentsegMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104031Z">
+        <seg>optionsSentsegMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>optionsSetupFileFiltersMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104021Z">
+        <seg>optionsSetupFileFiltersMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>optionsSpellCheckMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104032Z">
+        <seg>optionsSpellCheckMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>optionsTabAdvanceCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104018Z">
+        <seg>optionsTabAdvanceCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>optionsTagValidationMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104033Z">
+        <seg>optionsTagValidationMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>optionsTeamMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104034Z">
+        <seg>optionsTeamMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>optionsTransTipsEnableMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104019Z">
+        <seg>optionsTransTipsEnableMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>optionsTransTipsExactMatchMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104020Z">
+        <seg>optionsTransTipsExactMatchMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>optionsViewOptionsMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104036Z">
+        <seg>optionsViewOptionsMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>optionsViewOptionsMenuLoginItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104046Z">
+        <seg>optionsViewOptionsMenuLoginItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>optionsWorkflowMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104033Z">
+        <seg>optionsWorkflowMenuItem</seg>
       </tuv>
     </tu>
     <tu>
@@ -42955,10 +43364,34 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>toolsShowStatisticsMatchesMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104017Z">
+        <seg>toolsShowStatisticsMatchesMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>toolsShowStatisticsStandardMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104017Z">
+        <seg>toolsShowStatisticsStandardMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>toolsShowStatisticsStandardMenuItem=shift meta S</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T103734Z">
         <seg>toolsShowStatisticsStandardMenuItem=shift meta S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>toolsValidateTagsMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104016Z">
+        <seg>toolsValidateTagsMenuItem</seg>
       </tuv>
     </tu>
     <tu>
@@ -43235,10 +43668,98 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>viewDisplayModificationInfoAllRadioButtonMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104012Z">
+        <seg>viewDisplayModificationInfoAllRadioButtonMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>viewDisplayModificationInfoNoneRadioButtonMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104011Z">
+        <seg>viewDisplayModificationInfoNoneRadioButtonMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>viewDisplayModificationInfoSelectedRadioButtonMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104012Z">
+        <seg>viewDisplayModificationInfoSelectedRadioButtonMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>viewDisplaySegmentSourceCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104007Z">
+        <seg>viewDisplaySegmentSourceCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>viewFileListMenuItem</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T103802Z">
         <seg>viewFileListMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>viewMarkBidiCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104010Z">
+        <seg>viewMarkBidiCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>viewMarkNBSPCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104009Z">
+        <seg>viewMarkNBSPCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>viewMarkNonUniqueSegmentsCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104008Z">
+        <seg>viewMarkNonUniqueSegmentsCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>viewMarkNotedSegmentsCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104008Z">
+        <seg>viewMarkNotedSegmentsCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>viewMarkTranslatedSegmentsCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104006Z">
+        <seg>viewMarkTranslatedSegmentsCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>viewMarkUntranslatedSegmentsCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104006Z">
+        <seg>viewMarkUntranslatedSegmentsCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>viewMarkWhitespaceCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104010Z">
+        <seg>viewMarkWhitespaceCheckBoxMenuItem</seg>
       </tuv>
     </tu>
     <tu>
@@ -43327,6 +43848,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T103615Z">
         <seg>wol</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>www.yolinux.com/TUTORIALS/Subversion.html</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104056Z">
+        <seg>www.yolinux.com/TUTORIALS/Subversion.html</seg>
       </tuv>
     </tu>
     <tu>
