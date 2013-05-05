@@ -174,6 +174,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>$</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T105125Z">
+        <seg>$</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>$ ant jar release</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T104548Z">
@@ -194,6 +202,110 @@
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T104729Z">
         <seg>$&gt; java -jar &lt;a0&gt;OmegaT&lt;/a0&gt;.jar /chemin/vers/le/projet \</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>${adjustedScore}</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T105229Z">
+        <seg>${adjustedScore}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>${creationDate}</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T105236Z">
+        <seg>${creationDate}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>${creationID}</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T105232Z">
+        <seg>${creationID}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>${diff}</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T105227Z">
+        <seg>${diff}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>${fileNameOnly}</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T105230Z">
+        <seg>${fileNameOnly}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>${filePath}</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T105230Z">
+        <seg>${filePath}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>${fileShortPath}</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T105231Z">
+        <seg>${fileShortPath}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>${fuzzyFlag}</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T105237Z">
+        <seg>${fuzzyFlag}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>${id}</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T105225Z">
+        <seg>${id}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>${noStemScore}</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T105228Z">
+        <seg>${noStemScore}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>${score}</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T105228Z">
+        <seg>${score}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>${sourceText}</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T105225Z">
+        <seg>${sourceText}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>${targetText}</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T105226Z">
+        <seg>${targetText}</seg>
       </tuv>
     </tu>
     <tu>
@@ -1254,6 +1366,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(?i)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T105041Z">
+        <seg>(?i)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(At this point, all text outside the target field is protected and cannot be modified.) You must type your translation before the tag &lt;&lt;l0&gt;segment 0001&gt;&lt;/l0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20110709T092254Z">
@@ -1415,10 +1535,26 @@ your programs, too.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(XY)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T105140Z">
+        <seg>(XY)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(You can tell OmegaT to insert any first match above a specified matching percentage automatically into the target field whenever the segment opens.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Il est possible de demander à OmegaT d'insérer automatiquement dans la ligne d'édition la meilleure correspondance au delà d'un seuil que vous déterminez dès que le segment se présente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(\b\w+\b)\s\1\b</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T105142Z">
+        <seg>(\b\w+\b)\s\1\b</seg>
       </tuv>
     </tu>
     <tu>
@@ -2696,6 +2832,14 @@ OmegaT.bat to the desktop or Start menu to link it from there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>103/114</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T105223Z">
+        <seg>103/114</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>11.</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T104609Z">
@@ -2763,6 +2907,14 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20101223T174830Z">
         <seg>2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>27/27</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T105221Z">
+        <seg>27/27</seg>
       </tuv>
     </tu>
     <tu>
@@ -2901,6 +3053,14 @@ OmegaT peut être exécuté de différentes façons.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>31175</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T105222Z">
+        <seg>31175</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>4.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20101223T174831Z">
@@ -2985,6 +3145,14 @@ OmegaT peut être exécuté de différentes façons.</seg>
       </tuv>
       <tuv lang="FR" changeid="briglegrand" changedate="20110111T215201Z">
         <seg>9.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>9319/16338</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T105222Z">
+        <seg>9319/16338</seg>
       </tuv>
     </tu>
     <tu>
@@ -5671,6 +5839,14 @@ outil TAO : outil de TAO</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Menu Options&lt;/p0&gt; &lt;s1&gt;Segmentation&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T105217Z">
+        <seg>&lt;p0&gt;Menu Options&lt;/p0&gt; &lt;s1&gt;Segmentation&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Menu Options&lt;/p0&gt; &lt;s1&gt;Spell checking&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130424T164636Z">
@@ -7556,7 +7732,7 @@ outil TAO : outil de TAO</note>
       <tuv lang="EN">
         <seg>A non-whitespace character: [^\s]</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130424T073821Z">
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T105122Z">
         <seg>Un caractère de non-espacement équivalent à [^\s]</seg>
       </tuv>
     </tu>
@@ -8533,8 +8709,8 @@ Le fichier ne sera pas chargé.</seg>
       <tuv lang="EN">
         <seg>An extra command line parameter specific to console mode: &lt;l0&gt;--quiet&lt;/l0&gt;.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130421T134537Z">
-        <seg>Un paramètre de ligne de commande supplémentaire spécifique au mode console : &lt;l0&gt;--quiet&lt;/l0&gt;.</seg>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104934Z">
+        <seg>Un paramètre de ligne de commande supplémentaire spécifique au mode console : &lt;l0&gt;--quiet&lt;/l0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18972,6 +19148,14 @@ exécutez simplement le programme d'installation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Intention</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T105158Z">
+        <seg>Intention</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Interlingue</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T095959Z">
@@ -21635,6 +21819,22 @@ impose that choice.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20100219T091712Z">
         <seg>Fichiers DTD Mozilla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mr??s??\.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T105211Z">
+        <seg>Mr??s??\.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mr\.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T105203Z">
+        <seg>Mr\.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27595,6 +27795,14 @@ REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Segment, source et cible – image</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Segmentation</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T105220Z">
+        <seg>Segmentation</seg>
       </tuv>
     </tu>
     <tu>
@@ -35931,8 +36139,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>Usage: &lt;l0&gt;java -jar &lt;a1&gt;OmegaT&lt;/a1&gt;.jar /path/to/project --mode=console-translate --quiet&lt;/l0&gt;</seg>
       </tuv>
-      <tuv lang="FR" changeid="pingouin" changedate="20130418T160834Z">
-        <seg>Utilisation : &lt;l0&gt;java -jar &lt;a1&gt;OmegaT&lt;/a1&gt;.jar /path/to/project --mode=console-translate --quiet&lt;/l0&gt;</seg>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104959Z">
+        <seg>Utilisation : &lt;l0&gt;java -jar &lt;a1&gt;OmegaT&lt;/a1&gt;.jar /path/to/project --mode=console-translate --quiet&lt;/l0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -37758,6 +37966,22 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>X*?</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T105135Z">
+        <seg>X*?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>X+?</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T105136Z">
+        <seg>X+?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>X, once or not at all</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130424T073424Z">
@@ -37778,6 +38002,38 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130424T074054Z">
         <seg>X, zéro ou plus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>X&lt;e0&gt;*&lt;/e0&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T105131Z">
+        <seg>X&lt;e0&gt;*&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>X&lt;e0&gt;+&lt;/e0&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T105132Z">
+        <seg>X&lt;e0&gt;+&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>X&lt;e0&gt;?&lt;/e0&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T105129Z">
+        <seg>X&lt;e0&gt;?&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>X??</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T105134Z">
+        <seg>X??</seg>
       </tuv>
     </tu>
     <tu>
@@ -37838,6 +38094,14 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>XY</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T105138Z">
+        <seg>XY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>XY as a single group</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130424T074426Z">
@@ -37850,6 +38114,14 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T103617Z">
         <seg>Xhosa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>X|Y</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T105138Z">
+        <seg>X|Y</seg>
       </tuv>
     </tu>
     <tu>
@@ -38994,10 +39266,338 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>[\.,]\s*[\.,]+</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T105144Z">
+        <seg>[\.,]\s*[\.,]+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>[\p{L}&amp;&amp;[^\p{Lu}]]</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T105103Z">
+        <seg>[\p{L}&amp;&amp;[^\p{Lu}]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>[^abc]</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T105106Z">
+        <seg>[^abc]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>[a-zA-Z]</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T105106Z">
+        <seg>[a-zA-Z]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>[abc]</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T105104Z">
+        <seg>[abc]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>[fuzzy]</seg>
       </tuv>
       <tuv lang="FR">
         <seg>[correspondance]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T105049Z">
+        <seg>\</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T105146Z">
+        <seg>\.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\.[A-Z]</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T105153Z">
+        <seg>\.[A-Z]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\0mnn</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T105048Z">
+        <seg>\0mnn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\0n</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T105047Z">
+        <seg>\0n</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\0nn</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T105047Z">
+        <seg>\0nn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\B</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T105127Z">
+        <seg>\B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\D</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T105111Z">
+        <seg>\D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\E</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T105055Z">
+        <seg>\E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\P{InGreek}</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T105102Z">
+        <seg>\P{InGreek}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\Q</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T105050Z">
+        <seg>\Q</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\S</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T105116Z">
+        <seg>\S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\W</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T105123Z">
+        <seg>\W</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\\</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T105049Z">
+        <seg>\\</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\a</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T105046Z">
+        <seg>\a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\b</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T105126Z">
+        <seg>\b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\bis\b</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T105154Z">
+        <seg>\bis\b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\cx</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T105046Z">
+        <seg>\cx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\d</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T105107Z">
+        <seg>\d</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\e</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T105046Z">
+        <seg>\e</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\f</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T105045Z">
+        <seg>\f</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\n</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T105044Z">
+        <seg>\n</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\p{InGreek}</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T105051Z">
+        <seg>\p{InGreek}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\p{Lu}</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T105100Z">
+        <seg>\p{Lu}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\p{Sc}</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T105100Z">
+        <seg>\p{Sc}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\r</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T105045Z">
+        <seg>\r</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\s</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T105109Z">
+        <seg>\s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\s+$</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T105147Z">
+        <seg>\s+$</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\s+a\s+[aeiou]</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T105148Z">
+        <seg>\s+a\s+[aeiou]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\s+an\s+[^aeiou]</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T105149Z">
+        <seg>\s+an\s+[^aeiou]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\s{2,}</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T105151Z">
+        <seg>\s{2,}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\t</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T105043Z">
+        <seg>\t</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\uhhhh</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T105043Z">
+        <seg>\uhhhh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\w</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T105112Z">
+        <seg>\w</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\xhh</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T105048Z">
+        <seg>\xhh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>^</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T105124Z">
+        <seg>^</seg>
       </tuv>
     </tu>
     <tu>
@@ -40794,6 +41394,22 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://download.oracle.com/javase/1.5.0/docs/api/java/util/regex/Pattern.html</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T105040Z">
+        <seg>http://download.oracle.com/javase/1.5.0/docs/api/java/util/regex/Pattern.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://download.oracle.com/javase/1.5.0/docs/api/java/util/regex/Pattern.html#ubc</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T105059Z">
+        <seg>http://download.oracle.com/javase/1.5.0/docs/api/java/util/regex/Pattern.html#ubc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://git-scm.com/</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T104052Z">
@@ -40962,6 +41578,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://tech.groups.yahoo.com/group/Omegat/</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T105035Z">
+        <seg>http://tech.groups.yahoo.com/group/Omegat/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://tech.groups.yahoo.com/group/omegat/</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20101223T174916Z">
@@ -40982,6 +41606,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T104053Z">
         <seg>http://tortoisesvn.net/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://weitz.de/regex-coach/</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T105141Z">
+        <seg>http://weitz.de/regex-coach/</seg>
       </tuv>
     </tu>
     <tu>
@@ -41542,6 +42174,22 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T104136Z">
         <seg>java -jar OmegaT.jar --ITokenizer=org.omegat.plugins.tokenizer.LuceneCJKTokenizer --ITokenizerTarget=org.omegat.plugins.tokenizer.LuceneFrenchTokenizer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>java -jar OmegaT.jar --mode=console-align /my-project-dir --alignDir=/translatedFiles/</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T105028Z">
+        <seg>java -jar OmegaT.jar --mode=console-align /my-project-dir --alignDir=/translatedFiles/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>java -jar omegat.jar --pseudotranslatetmx=&lt;filename&gt; [pseudotranslatetype=[equal|empty]]</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T105214Z">
+        <seg>java -jar omegat.jar --pseudotranslatetmx=&lt;filename&gt; [pseudotranslatetype=[equal|empty]]</seg>
       </tuv>
     </tu>
     <tu>
@@ -44572,6 +45220,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>vs</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T105038Z">
+        <seg>vs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>wa</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T103611Z">
@@ -44648,6 +45304,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T104056Z">
         <seg>www.yolinux.com/TUTORIALS/Subversion.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>x</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T105042Z">
+        <seg>x</seg>
       </tuv>
     </tu>
     <tu>
@@ -44840,6 +45504,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>‪&lt;début 0000&gt;‬</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>。</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T105210Z">
+        <seg>。</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
