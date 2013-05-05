@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>"This is a source term, which contains a comma","c'est un terme, qui contient une virgule"</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104504Z">
+        <seg>"This is a source term, which contains a comma","c'est un terme, qui contient une virgule"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>"XX" in the command stands for the two-digit code of the desired language.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130418T132630Z">
@@ -58,6 +66,14 @@
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130502T093946Z">
         <seg># OmegaT.exe runtime configuration # Pour utiliser un paramètre, supprimez le '#' avant le '-' # Memory -Xmx1024M # Language -Duser.language=FR # Country -Duser.country=CA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>#!/bin/bash java</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104421Z">
+        <seg>#!/bin/bash java</seg>
       </tuv>
     </tu>
     <tu>
@@ -154,6 +170,22 @@
       </tuv>
       <tuv lang="FR">
         <seg>#Use_TM_and_glossary_matches</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>$ ant jar release</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104548Z">
+        <seg>$ ant jar release</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>$ tar xf downloaded_file.tar.gz</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104507Z">
+        <seg>$ tar xf downloaded_file.tar.gz</seg>
       </tuv>
     </tu>
     <tu>
@@ -2448,10 +2480,58 @@ OmegaT.bat to the desktop or Start menu to link it from there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>--config-dir=/path/to/config-files/ \</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104532Z">
+        <seg>--config-dir=/path/to/config-files/ \</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--mode=console-align</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104542Z">
+        <seg>--mode=console-align</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--mode=console-createpseudotranslatetmx</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104541Z">
+        <seg>--mode=console-createpseudotranslatetmx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--mode=console-translate</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104533Z">
+        <seg>--mode=console-translate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--mode=console-translate|console-createpseudotranslatetmx|console-align</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104533Z">
+        <seg>--mode=console-translate|console-createpseudotranslatetmx|console-align</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>--output-tag-validation-={regexp}</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130502T142123Z">
         <seg>--output-tag-validation-={expression régulière}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--pseudotranslatetmx=allsegments.tmx --pseudotranslatetype=[equal|empty]</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104541Z">
+        <seg>--pseudotranslatetmx=allsegments.tmx --pseudotranslatetype=[equal|empty]</seg>
       </tuv>
     </tu>
     <tu>
@@ -2464,10 +2544,26 @@ OmegaT.bat to the desktop or Start menu to link it from there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>-&lt;e0&gt;Dmicrosoft.api.client_secret=XXXX9xXxX9xXXxxXXX9xxX99xXXXX9xx9XXxXxXXXXX=&lt;/e0&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104529Z">
+        <seg>-&lt;e0&gt;Dmicrosoft.api.client_secret=XXXX9xXxX9xXXxxXXX9xxX99xXXXX9xx9XXxXxXXXXX=&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20120710T123934Z">
         <seg>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>.*\.html</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104543Z">
+        <seg>.*\.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -2504,6 +2600,38 @@ OmegaT.bat to the desktop or Start menu to link it from there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>/docs/</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104409Z">
+        <seg>/docs/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>/images/</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104410Z">
+        <seg>/images/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>/lib/</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104410Z">
+        <seg>/lib/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104608Z">
+        <seg>0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>1 and 2 above on a medium customarily used for software interchange; or,</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130503T080816Z">
@@ -2532,6 +2660,22 @@ OmegaT.bat to the desktop or Start menu to link it from there.</seg>
       </tuv>
       <tuv lang="FR" changeid="briglegrand" changedate="20110112T083627Z">
         <seg>10.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>11.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104609Z">
+        <seg>11.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>12.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104609Z">
+        <seg>12.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2745,6 +2889,14 @@ OmegaT peut être exécuté de différentes façons.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>50 % à 74 % :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104606Z">
+        <seg>51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA</seg>
       </tuv>
     </tu>
     <tu>
@@ -3213,6 +3365,14 @@ OmegaT peut être exécuté de différentes façons.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;b0&gt;&lt;Ctr+N&gt;&lt;/b0&gt;, &lt;br1&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104448Z">
+        <seg>&lt;b0&gt;&lt;Ctr+N&gt;&lt;/b0&gt;, &lt;br1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;b0&gt;Formatting &lt;b1&gt;one&lt;/b0&gt; &lt;/b1&gt;is very messed up now.&lt;segment 0001&gt;</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130416T145713Z">
@@ -3285,6 +3445,14 @@ OmegaT peut être exécuté de différentes façons.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;br1&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104450Z">
+        <seg>&lt;br1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;c0&gt;&lt;event&gt;&lt;/c0&gt; can be: &lt;e1&gt;typed&lt;/e1&gt;, &lt;e2&gt;pressed&lt;/e2&gt;, &lt;e3&gt;released&lt;/e3&gt;</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130412T075359Z">
@@ -3329,6 +3497,14 @@ OmegaT peut être exécuté de différentes façons.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130502T133545Z">
         <seg>&lt;e0&gt;-Dhttp.proxyPort=NNNN&lt;/e0&gt; &lt;i1/&gt; correspond au numéro de port que votre système utilise pour accéder au serveur proxy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;-Dmicrosoft.api.client_id=&lt;/e0&gt;&lt;e1&gt;XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX&lt;/e1&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104527Z">
+        <seg>&lt;e0&gt;-Dmicrosoft.api.client_id=&lt;/e0&gt;&lt;e1&gt;XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX&lt;/e1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4471,6 +4647,30 @@ outil TAO : outil de TAO</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;l0&gt;${extension-0}&lt;/l0&gt; docx</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104353Z">
+        <seg>&lt;l0&gt;${extension-0}&lt;/l0&gt; docx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;${extension-1}&lt;/l0&gt; xx.docx</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104353Z">
+        <seg>&lt;l0&gt;${extension-1}&lt;/l0&gt; xx.docx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;${extension-2}&lt;/l0&gt; Document.xx.docx</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104354Z">
+        <seg>&lt;l0&gt;${extension-2}&lt;/l0&gt; Document.xx.docx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;l0&gt;${extension} &lt;/l0&gt;- the original file extension</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130415T191054Z">
@@ -4491,6 +4691,30 @@ outil TAO : outil de TAO</note>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130415T191828Z">
         <seg>&lt;l0&gt;${file-target-encoding}&lt;/l0&gt; - encodage du fichier cible</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;${nameOnly-0}&lt;/l0&gt; Document</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104327Z">
+        <seg>&lt;l0&gt;${nameOnly-0}&lt;/l0&gt; Document</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;${nameOnly-1}&lt;/l0&gt; Document.xx</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104350Z">
+        <seg>&lt;l0&gt;${nameOnly-1}&lt;/l0&gt; Document.xx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;${nameOnly-2}&lt;/l0&gt; Document.xx.docx</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104352Z">
+        <seg>&lt;l0&gt;${nameOnly-2}&lt;/l0&gt; Document.xx.docx</seg>
       </tuv>
     </tu>
     <tu>
@@ -4611,6 +4835,14 @@ outil TAO : outil de TAO</note>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130428T153430Z">
         <seg>&lt;l0&gt;--tag-validation=[abort|warn] &lt;/l0&gt; Avec "abort" (annulation), le programme est interrompu lorsque la validation des balises rencontre des erreurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;--tag-validation=[abort|warn]&lt;/l0&gt;&lt;p1&gt; outputFileName&lt;/p1&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104547Z">
+        <seg>&lt;l0&gt;--tag-validation=[abort|warn]&lt;/l0&gt;&lt;p1&gt; outputFileName&lt;/p1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16136,8 +16368,8 @@ compelled to copy the source along with the object code.</seg>
       <tuv lang="EN">
         <seg>If for example the original file is named Document.xx.docx, the following variables will give the following results:</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130429T093059Z">
-        <seg>Si, par exemple, le fichier original est appelé Document.xx.docx, les variables suivantes auront pour résultat :</seg>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104332Z">
+        <seg>Si, par exemple, le fichier original est appelé Document.xx.docx, les variables suivantes auront pour résultat :</seg>
       </tuv>
     </tu>
     <tu>
@@ -19873,6 +20105,14 @@ Ubuntu), as these are either outdated or incomplete.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Linux/Solaris/FreeBSD</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104404Z">
+        <seg>Linux/Solaris/FreeBSD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Lion users will be prompted by the system when they first launch 
 an application that requires Java and the system will eventually 
 automatically download and install it.</seg>
@@ -19995,6 +20235,14 @@ automatically download and install it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Longman Dictionary of Contemporary English</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104313Z">
+        <seg>Longman Dictionary of Contemporary English</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Losing them may affect the project's integrity and your ability to complete a job.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130415T142446Z">
@@ -20023,6 +20271,14 @@ automatically download and install it.</seg>
       </tuv>
       <tuv lang="FR" changeid="etudiant_local" changedate="20130410T130437Z">
         <seg>Luxembourgeois, Letzeburgesch</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>MAC OS X</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104408Z">
+        <seg>Mac OS X</seg>
       </tuv>
     </tu>
     <tu>
@@ -20811,6 +21067,14 @@ impose that choice.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20111130T160451Z">
         <seg>Michael Zakharov</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Microsoft Office Open XML (*.docx, *.dotx, *.xlsx, *.xltx, *.pptx)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104436Z">
+        <seg>Microsoft Office Open XML (*.docx, *.dotx, *.xlsx, *.xltx, *.pptx)</seg>
       </tuv>
     </tu>
     <tu>
@@ -23221,6 +23485,22 @@ with exactly the same structure, including copies of any non-supported files.</s
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20120131T094122Z">
         <seg>OmegaT-{0}_{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT.bat</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104423Z">
+        <seg>OmegaT.bat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT.jar</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104426Z">
+        <seg>OmegaT.jar</seg>
       </tuv>
     </tu>
     <tu>
@@ -29680,6 +29960,14 @@ language.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130429T124002Z">
         <seg>Une fenêtre Add Finished!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Britannica Concise Encyclopedia</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104314Z">
+        <seg>The Britannica Concise Encyclopedia</seg>
       </tuv>
     </tu>
     <tu>
@@ -36203,6 +36491,14 @@ you can search through without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Visio (*.vxd)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104440Z">
+        <seg>Visio (*.vxd)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Visio Files</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20120914T162040Z">
@@ -36392,6 +36688,14 @@ program proprietary.</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130418T224930Z">
         <seg>Nous souhaitons éviter le risque que les redistributeurs d'un programme libre fassent des demandes individuelles de licence de brevet, ceci ayant pour effet de rendre le programme propriétaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Webster's Revised Unabridged Dictionary (1913)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104310Z">
+        <seg>Webster's Revised Unabridged Dictionary (1913)</seg>
       </tuv>
     </tu>
     <tu>
@@ -39050,10 +39354,34 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>cd /usr/local/omegat</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104519Z">
+        <seg>cd /usr/local/omegat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>cd &lt;&lt;a0&gt;OmegaT&lt;/a0&gt;.app location&gt;/&lt;a1&gt;OmegaT&lt;/a1&gt;.app/Contents/Resources/Java/</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104518Z">
+        <seg>cd &lt;&lt;a0&gt;OmegaT&lt;/a0&gt;.app location&gt;/&lt;a1&gt;OmegaT&lt;/a1&gt;.app/Contents/Resources/Java/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>cd &lt;folder where the file OmegaT.jar is located&gt;</seg>
       </tuv>
       <tuv lang="FR">
         <seg>cd &lt;dossier dans lequel le fichier OmegaT.jar est situé&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>cd C:\Program Files\&lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104516Z">
+        <seg>cd C:\Program Files\&lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -39094,6 +39422,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T095854Z">
         <seg>cha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>changes.txt</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104417Z">
+        <seg>changes.txt</seg>
       </tuv>
     </tu>
     <tu>
@@ -39330,6 +39666,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>dir-10\\test\.html</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104544Z">
+        <seg>dir-10\\test\.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>displays dictionary hits found for items in the current segment</seg>
       </tuv>
       <tuv lang="FR" changeid="pingouin" changedate="20130426T120323Z">
@@ -39374,6 +39718,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T095909Z">
         <seg>div</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>doc-license.txt</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104419Z">
+        <seg>doc-license.txt</seg>
       </tuv>
     </tu>
     <tu>
@@ -39646,6 +39998,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T095918Z">
         <seg>et</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>etc...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104317Z">
+        <seg>etc...</seg>
       </tuv>
     </tu>
     <tu>
@@ -40194,6 +40554,22 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://datamarket.azure.com/dataset/bing/microsofttranslator#schema</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104525Z">
+        <seg>http://datamarket.azure.com/dataset/bing/microsofttranslator#schema</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://docs.oracle.com/javase/1.4.2/docs/api/java/text/SimpleDateFormat.html</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104322Z">
+        <seg>http://docs.oracle.com/javase/1.4.2/docs/api/java/text/SimpleDateFormat.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://docs.oracle.com/javase/6/docs/api/java/awt/event/KeyEvent.html</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T103727Z">
@@ -40254,6 +40630,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20101223T174915Z">
         <seg>http://lists.sourceforge.net/mailman/listinfo/omegat-l10n</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://omegat.sourceforge.net/webstart/&lt;a0&gt;OmegaT&lt;/a0&gt;.jnlp</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104511Z">
+        <seg>http://omegat.sourceforge.net/webstart/&lt;a0&gt;OmegaT&lt;/a0&gt;.jnlp</seg>
       </tuv>
     </tu>
     <tu>
@@ -40434,6 +40818,22 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://www.microsoft.com/Language/en-US/Terminology.aspx</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104505Z">
+        <seg>http://www.microsoft.com/Language/en-US/Terminology.aspx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.omegat.org</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104445Z">
+        <seg>http://www.omegat.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://www.omegat.org/</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20101223T174835Z">
@@ -40446,6 +40846,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T104252Z">
         <seg>http://www.omegat.org/en/howtos/localizing_omegat.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.omegat.org/en/howtos/text_export.html</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104318Z">
+        <seg>http://www.omegat.org/en/howtos/text_export.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -40474,6 +40882,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://www.oracle.com/technetwork/java/archive-139210.html</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104509Z">
+        <seg>http://www.oracle.com/technetwork/java/archive-139210.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://www.sil.org/ISO639-3/codes.asp</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130412T135933Z">
@@ -40486,6 +40902,22 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>http://www.vlsolutions.com/fr/products/docking/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://datamarket.azure.com/account</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104526Z">
+        <seg>https://datamarket.azure.com/account</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://developers.google.com/translate/v2/pricing?hl=en-US</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104617Z">
+        <seg>https://developers.google.com/translate/v2/pricing?hl=en-US</seg>
       </tuv>
     </tu>
     <tu>
@@ -40622,6 +41054,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T100010Z">
         <seg>ig</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ignored_words.txt.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104357Z">
+        <seg>ignored_words.txt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40810,6 +41250,62 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>java -Dswing.aatext=true -Duser.language=pt -Duser.country=BR -Xmx1024M &lt;a0&gt;-DDhttp.proxyHost=192.168.1.1 -Dhttp.proxyport&lt;e1&gt;=&lt;/e1&gt;3128 -jar -OmegaT&lt;/a0&gt;.jar</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104530Z">
+        <seg>java -Dswing.aatext=true -Duser.language=pt -Duser.country=BR -Xmx1024M &lt;a0&gt;-DDhttp.proxyHost=192.168.1.1 -Dhttp.proxyport&lt;e1&gt;=&lt;/e1&gt;3128 -jar -OmegaT&lt;/a0&gt;.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>java -Duser.language=fr -jar &lt;a0&gt;OmegaT&lt;/a0&gt;.jar</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104523Z">
+        <seg>java -Duser.language=fr -jar &lt;a0&gt;OmegaT&lt;/a0&gt;.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>java -Xmx1024M -jar &lt;a0&gt;OmegaT&lt;/a0&gt;.jar</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104524Z">
+        <seg>java -Xmx1024M -jar &lt;a0&gt;OmegaT&lt;/a0&gt;.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>java -jar &lt;a0&gt;OmegaT&lt;/a0&gt;.jar</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104521Z">
+        <seg>java -jar &lt;a0&gt;OmegaT&lt;/a0&gt;.jar $*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>java -jar &lt;a0&gt;OmegaT&lt;/a0&gt;.jar $*</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104422Z">
+        <seg>java -jar &lt;a0&gt;OmegaT&lt;/a0&gt;.jar $*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>java -jar &lt;a0&gt;OmegaT&lt;/a0&gt;.jar /path/to/project \</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104531Z">
+        <seg>java -jar &lt;a0&gt;OmegaT&lt;/a0&gt;.jar /path/to/project \</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>java -jar OmegaT.jar %*</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104425Z">
+        <seg>java -jar OmegaT.jar %*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>java -jar OmegaT.jar --ITokenizer=[source language tokenizer name] --ITokenizerTarget=[target language tokenizer name]</seg>
       </tuv>
       <tuv lang="FR" changeid="laurieetclémentine" changedate="20130412T122156Z">
@@ -40822,6 +41318,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T104136Z">
         <seg>java -jar OmegaT.jar --ITokenizer=org.omegat.plugins.tokenizer.LuceneCJKTokenizer --ITokenizerTarget=org.omegat.plugins.tokenizer.LuceneFrenchTokenizer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>join.html</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104412Z">
+        <seg>join.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -41138,6 +41642,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>learned_words.txt</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104358Z">
+        <seg>learned_words.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>left justification</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130416T180139Z">
@@ -41174,6 +41686,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T100049Z">
         <seg>li</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>license.txt</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104418Z">
+        <seg>license.txt</seg>
       </tuv>
     </tu>
     <tu>
@@ -41238,6 +41758,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>chargé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>logs/OmegaT.log</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104401Z">
+        <seg>logs/OmegaT.log</seg>
       </tuv>
     </tu>
     <tu>
@@ -41922,6 +42450,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>omegat.prefs</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104402Z">
+        <seg>omegat.prefs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>one char left, but not further than the beginning of segment</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130411T080419Z">
@@ -42440,6 +42976,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T100149Z">
         <seg>que</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>readme.txt</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104420Z">
+        <seg>readme.txt</seg>
       </tuv>
     </tu>
     <tu>
@@ -42988,6 +43532,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>stats.txt</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104356Z">
+        <seg>stats.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>su</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T100226Z">
@@ -43088,6 +43640,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T100233Z">
         <seg>tel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>test\.html</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104544Z">
+        <seg>test\.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -43512,6 +44072,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T103556Z">
         <seg>ug</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>uiLayout.xml</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104403Z">
+        <seg>uiLayout.xml</seg>
       </tuv>
     </tu>
     <tu>
