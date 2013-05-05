@@ -1672,6 +1672,14 @@ OmegaT.bat to the desktop or Start menu to link it from there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>, &lt;e0&gt;alt&lt;/e0&gt;, &lt;e1&gt;altGraph&lt;/e1&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T103726Z">
+        <seg>, &lt;e0&gt;alt&lt;/e0&gt;, &lt;e1&gt;altGraph&lt;/e1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>, one can find:</seg>
       </tuv>
       <tuv lang="FR" changeid="laurieetclémentine" changedate="20130411T131857Z">
@@ -3272,6 +3280,14 @@ OmegaT peut être exécuté de différentes façons.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130412T075203Z">
         <seg>&lt;c0&gt;&lt;modificateur&gt;&lt;/c0&gt; peut être : &lt;e1&gt;shift&lt;/e1&gt;(Maj), &lt;e2&gt;control&lt;/e2&gt;, &lt;e3&gt;ctrl&lt;/e3&gt;, &lt;e4&gt;meta&lt;/e4&gt;(méta)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;c0&gt;projectOpenMenuItem=shift ctrl O&lt;/c0&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T103734Z">
+        <seg>&lt;c0&gt;projectOpenMenuItem=shift ctrl O&lt;/c0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6875,6 +6891,14 @@ outil TAO : outil de TAO</note>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20120622T083938Z">
         <seg>&lt;segment 0000&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;shortcut&gt; must be of the following form: 0 or more &lt;c0&gt;&lt;modifier&gt;&lt;/c0&gt; followed by 0 or 1 &lt;c1&gt;&lt;event&gt;&lt;/c1&gt; followed by 1 &lt;c2&gt;&lt;key&gt;&lt;/c2&gt;, where:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T103715Z">
+        <seg>&lt;raccourci&gt; doit être écrit sous la forme suivante : 0 ou plus &lt;c0&gt;&lt;modificateur&gt;&lt;/c0&gt; suivit par 0 ou 1 &lt;c1&gt;&lt;événement&gt;&lt;/c1&gt; suivit par 1 &lt;c2&gt;&lt;touche&gt;&lt;/c2&gt;, sachant que :</seg>
       </tuv>
     </tu>
     <tu>
@@ -10803,6 +10827,46 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+1</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T103826Z">
+        <seg>Ctrl+1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+2</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T103831Z">
+        <seg>Ctrl+2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+3</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T103834Z">
+        <seg>Ctrl+3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+4</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T103847Z">
+        <seg>Ctrl+4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+5</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T103850Z">
+        <seg>Ctrl+5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+A</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130412T015303Z">
@@ -10819,10 +10883,26 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+D</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T103759Z">
+        <seg>Ctrl+D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+Delete</seg>
       </tuv>
       <tuv lang="FR" changeid="etudiant_local" changedate="20130410T122717Z">
         <seg>Ctrl+Supprimer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+E</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T103800Z">
+        <seg>Ctrl+E</seg>
       </tuv>
     </tu>
     <tu>
@@ -10843,6 +10923,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+F</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T103825Z">
+        <seg>Ctrl+F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+Home</seg>
       </tuv>
       <tuv lang="FR" changeid="etudiant_local" changedate="20130410T122426Z">
@@ -10851,10 +10939,42 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+I</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T103808Z">
+        <seg>Ctrl+I</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+L</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T103801Z">
+        <seg>Ctrl+L</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+Left:</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130411T080625Z">
         <seg>Ctrl+Gauche :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+M</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T103809Z">
+        <seg>Ctrl+M</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+O</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T103736Z">
+        <seg>Ctrl+O</seg>
       </tuv>
     </tu>
     <tu>
@@ -10875,10 +10995,34 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+Q</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T103802Z">
+        <seg>Ctrl+Q</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+R</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T103806Z">
+        <seg>Ctrl+R</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+Right:</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130411T080621Z">
         <seg>Ctrl+Droite :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+S</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T103758Z">
+        <seg>Ctrl+S</seg>
       </tuv>
     </tu>
     <tu>
@@ -10911,6 +11055,22 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130412T080640Z">
         <seg>Ctrl+Maj+W</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Y</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T103805Z">
+        <seg>Ctrl+Y</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Z</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T103804Z">
+        <seg>Ctrl+Z</seg>
       </tuv>
     </tu>
     <tu>
@@ -11831,6 +11991,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130412T134654Z">
         <seg>Télécharger une page MediaWiki...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download Team Project</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T103749Z">
+        <seg>Télécharger projet en équipe</seg>
       </tuv>
     </tu>
     <tu>
@@ -13219,6 +13387,14 @@ launch script.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>&amp;Police...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>F5</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T103754Z">
+        <seg>F5</seg>
       </tuv>
     </tu>
     <tu>
@@ -28474,6 +28650,30 @@ address new problems or concerns.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Switch Case to/Lower Case</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T103916Z">
+        <seg>Basculer la casse en/Minuscule</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Switch Case to/Title Case</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T103953Z">
+        <seg>Basculer la casse en/1ère lettre des mots en majuscule</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Switch Case to/Upper Case</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T103925Z">
+        <seg>Basculer la casse en/Majuscule</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Switch case to...</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130421T160050Z">
@@ -38985,6 +39185,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>cycleSwitchCaseMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T103956Z">
+        <seg>cycleSwitchCaseMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>cym</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T103613Z">
@@ -39125,6 +39333,158 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T095914Z">
         <seg>dzo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>editCreateGlossaryEntryMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T103825Z">
+        <seg>editCreateGlossaryEntryMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>editCreateGlossaryEntryMenuItem=ctrl shift G</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T103732Z">
+        <seg>editCreateGlossaryEntryMenuItem=ctrl shift G</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>editExportSelectionMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T103824Z">
+        <seg>editExportSelectionMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>editFindInProjectMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T103826Z">
+        <seg>editFindInProjectMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>editInsertSourceMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T103811Z">
+        <seg>editInsertSourceMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>editInsertTranslationMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T103808Z">
+        <seg>editInsertTranslationMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>editMultipleAlternate</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T103958Z">
+        <seg>editMultipleAlternate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>editMultipleDefault</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T103958Z">
+        <seg>editMultipleDefault</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>editOverwriteMachineTranslationMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T103810Z">
+        <seg>editOverwriteMachineTranslationMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>editOverwriteSourceMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T103810Z">
+        <seg>editOverwriteSourceMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>editOverwriteTranslationMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T103807Z">
+        <seg>editOverwriteTranslationMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>editRedoMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T103806Z">
+        <seg>editRedoMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>editSelectFuzzy1MenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T103827Z">
+        <seg>editSelectFuzzy1MenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>editSelectFuzzy2MenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T103829Z">
+        <seg>editSelectFuzzy2MenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>editSelectFuzzy3MenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T103835Z">
+        <seg>editSelectFuzzy3MenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>editSelectFuzzy4MenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T103848Z">
+        <seg>editSelectFuzzy4MenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>editSelectFuzzy5MenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T103850Z">
+        <seg>editSelectFuzzy5MenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>editTagPainterMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T103823Z">
+        <seg>editTagPainterMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>editUndoMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T103804Z">
+        <seg>editUndoMenuItem</seg>
       </tuv>
     </tu>
     <tu>
@@ -39665,6 +40025,22 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://docs.oracle.com/javase/6/docs/api/java/awt/event/KeyEvent.html</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T103727Z">
+        <seg>http://docs.oracle.com/javase/6/docs/api/java/awt/event/KeyEvent.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://docs.oracle.com/javase/6/docs/api/javax/swing/KeyStroke.html</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T103653Z">
+        <seg>http://docs.oracle.com/javase/6/docs/api/javax/swing/KeyStroke.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://groups.yahoo.com/group/OmegaT/</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20101223T174836Z">
@@ -39701,6 +40077,22 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20101223T174909Z">
         <seg>http://omegat.sourceforge.net/webstart/OmegaT.jnlp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://omegat.svn.sourceforge.net/viewvc/omegat/branches/release-2-6/src/org/omegat/gui/main/MainMenuShortcuts.mac.properties</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T103730Z">
+        <seg>http://omegat.svn.sourceforge.net/viewvc/omegat/branches/release-2-6/src/org/omegat/gui/main/MainMenuShortcuts.mac.properties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://omegat.svn.sourceforge.net/viewvc/omegat/branches/release-2-6/src/org/omegat/gui/main/MainMenuShortcuts.properties</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T103729Z">
+        <seg>http://omegat.svn.sourceforge.net/viewvc/omegat/branches/release-2-6/src/org/omegat/gui/main/MainMenuShortcuts.properties</seg>
       </tuv>
     </tu>
     <tu>
@@ -40565,6 +40957,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>chargé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>lowerCaseMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T103853Z">
+        <seg>lowerCaseMenuItem</seg>
       </tuv>
     </tu>
     <tu>
@@ -41483,6 +41883,102 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>projectCloseMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T103757Z">
+        <seg>projectCloseMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>projectCompileMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T103800Z">
+        <seg>projectCompileMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>projectEditMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T103801Z">
+        <seg>projectEditMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>projectExitMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T103803Z">
+        <seg>projectExitMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>projectImportMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T103753Z">
+        <seg>projectImportMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>projectNewMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T103735Z">
+        <seg>projectNewMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>projectOpenMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T103738Z">
+        <seg>projectOpenMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>projectOpenMenuItem=ctrl O</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T103731Z">
+        <seg>projectOpenMenuItem=ctrl O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>projectReloadMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T103755Z">
+        <seg>projectReloadMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>projectSaveMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T103759Z">
+        <seg>projectSaveMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>projectTeamNewMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T103751Z">
+        <seg>projectTeamNewMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>projectWikiImportMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T103753Z">
+        <seg>projectWikiImportMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>project_stats_match.txt</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130430T121204Z">
@@ -42355,6 +42851,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>titleCaseMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T103955Z">
+        <seg>titleCaseMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>tk</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T100237Z">
@@ -42447,6 +42951,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130421T071239Z">
         <seg>des outils qui permettent de gérer les données linguistiques nécessaires à la construction d'un système de traduction automatique pour un couple de langues donné et  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>toolsShowStatisticsStandardMenuItem=shift meta S</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T103734Z">
+        <seg>toolsShowStatisticsStandardMenuItem=shift meta S</seg>
       </tuv>
     </tu>
     <tu>
@@ -42619,6 +43131,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>upperCaseMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T103926Z">
+        <seg>upperCaseMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ur</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T103558Z">
@@ -42711,6 +43231,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T103604Z">
         <seg>vie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>viewFileListMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T103802Z">
+        <seg>viewFileListMenuItem</seg>
       </tuv>
     </tu>
     <tu>
