@@ -190,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>$&gt; java -jar &lt;a0&gt;OmegaT&lt;/a0&gt;.jar /path/to/project \</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104729Z">
+        <seg>$&gt; java -jar &lt;a0&gt;OmegaT&lt;/a0&gt;.jar /chemin/vers/le/projet \</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;About...</seg>
       </tuv>
       <tuv lang="FR">
@@ -2482,8 +2490,8 @@ OmegaT.bat to the desktop or Start menu to link it from there.</seg>
       <tuv lang="EN">
         <seg>--config-dir=/path/to/config-files/ \</seg>
       </tuv>
-      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104532Z">
-        <seg>--config-dir=/path/to/config-files/ \</seg>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104753Z">
+        <seg>--config-dir=/chemin/vers/le/dossier de configuration/ \</seg>
       </tuv>
     </tu>
     <tu>
@@ -2508,6 +2516,14 @@ OmegaT.bat to the desktop or Start menu to link it from there.</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T104533Z">
         <seg>--mode=console-translate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--mode=console-translate \</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104757Z">
+        <seg>--mode=console-translate \</seg>
       </tuv>
     </tu>
     <tu>
@@ -2540,6 +2556,22 @@ OmegaT.bat to the desktop or Start menu to link it from there.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130502T141658Z">
         <seg>--source-pattern={expression régulière}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--source-pattern={regexp} \</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104759Z">
+        <seg>--source-pattern={expression régulière}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--tag-validation=[block|warn]</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104817Z">
+        <seg>--tag-validation=[block|warn]</seg>
       </tuv>
     </tu>
     <tu>
@@ -4503,6 +4535,110 @@ outil TAO : outil de TAO</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;C&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104637Z">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;C&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;D&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104631Z">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;D&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;E&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104632Z">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;E&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;F&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104647Z">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;F&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;I&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104645Z">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;I&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;J&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104650Z">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;J&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;L&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104633Z">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;L&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;M&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104646Z">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;M&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;O&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104627Z">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;O&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;P&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104657Z">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;P&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Q&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104634Z">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Q&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;R&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104644Z">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;R&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;S&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104629Z">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;S&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift+I&lt;/k1&gt;</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130421T230036Z">
@@ -4563,6 +4699,54 @@ outil TAO : outil de TAO</note>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130421T095344Z">
         <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Maj&lt;/k1&gt; &lt;k2&gt;W&lt;/k2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;T&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104700Z">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;T&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;U&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104648Z">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;U&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;V&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104638Z">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;V&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;X&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104638Z">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;X&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Y&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104643Z">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Y&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Z&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104641Z">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Z&lt;/k1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5563,6 +5747,14 @@ outil TAO : outil de TAO</note>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130421T220106Z">
         <seg>&lt;p0&gt;Menu&lt;/p0&gt; &lt;s1&gt;Aide&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Menu&lt;/p0&gt; &lt;s1&gt;Options&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104653Z">
+        <seg>&lt;p0&gt;Menu&lt;/p0&gt; &lt;s1&gt;Options&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13506,8 +13698,8 @@ launch script.</seg>
       <tuv lang="EN">
         <seg>Explanation:</seg>
       </tuv>
-      <tuv lang="FR" changeid="pingouin" changedate="20130418T153315Z">
-        <seg>Explication :</seg>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104820Z">
+        <seg>Explication :</seg>
       </tuv>
     </tu>
     <tu>
@@ -34845,6 +35037,14 @@ Kaptain.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>TransTips</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104656Z">
+        <seg>TransTips</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>TransTips/Enable Transtips</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130412T081538Z">
@@ -40546,6 +40746,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://belazar.info/</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104620Z">
+        <seg>http://belazar.info/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://code.google.com/p/tortoisegit/</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T104054Z">
@@ -40786,6 +40994,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://www.apertium.org/</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104621Z">
+        <seg>http://www.apertium.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://www.ibm.com/developerworks/java/jdk/linux/download.html</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20120411T090552Z">
@@ -40910,6 +41126,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T104526Z">
         <seg>https://datamarket.azure.com/account</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://developers.google.com/translate/v2/faq</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104622Z">
+        <seg>https://developers.google.com/translate/v2/faq</seg>
       </tuv>
     </tu>
     <tu>
