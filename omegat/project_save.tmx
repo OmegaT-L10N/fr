@@ -3221,6 +3221,14 @@ OmegaT peut être exécuté de différentes façons.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130511T165239Z">
+        <seg>&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/l2&gt;Example:</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130502T135549Z">
@@ -3241,6 +3249,14 @@ OmegaT peut être exécuté de différentes façons.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20111111T124825Z">
         <seg>&lt;VIDE&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;No suggestions&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130511T165106Z">
+        <seg>&lt;Aucune suggestion&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3637,6 +3653,14 @@ OmegaT peut être exécuté de différentes façons.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;b&gt;{0}&lt;/b&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130511T165110Z">
+        <seg>&lt;b&gt;{0}&lt;/b&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="FR">
@@ -3649,6 +3673,22 @@ OmegaT peut être exécuté de différentes façons.</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T104450Z">
         <seg>&lt;br1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;br&gt;Press &lt;u&gt;{0}&lt;/u&gt; to go to &lt;b&gt;{1}&lt;/b&gt; suggestions.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130511T165237Z">
+        <seg>&lt;br&gt;Appuyez sur &lt;u&gt;{0}&lt;/u&gt; pour aller aux suggestions &lt;b&gt;{1}&lt;/b&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;br&gt;Press &lt;u&gt;{0}&lt;/u&gt; to return to &lt;b&gt;{1}&lt;/b&gt; suggestions.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130511T165225Z">
+        <seg>&lt;br&gt;Appuyez sur &lt;u&gt;{0}&lt;/u&gt; pour revenir aux suggestions &lt;b&gt;{1}&lt;/b&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4627,6 +4667,14 @@ outil TAO : outil de TAO</note>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130421T180258Z">
         <seg>&lt;g0&gt;Ctrl+T&lt;/g0&gt; : Vérifie s'il n'y a pas de balises manquantes ou mal placées dans les fichiers formatés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;html&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130511T165238Z">
+        <seg>&lt;html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15510,6 +15558,14 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Glossary entries</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130511T165246Z">
+        <seg>Entrées de glossaire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Glossary file: {0}</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20101207T095219Z">
@@ -21575,6 +21631,14 @@ impose that choice.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Missing tags</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130511T165253Z">
+        <seg>Balises manquantes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mistranslated segments can of course be corrected later manually using &lt;g0&gt;Create Alternative Translation&lt;/g0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130422T142208Z">
@@ -25288,6 +25352,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Possible it is already open in other OmegaT instance.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130511T165056Z">
+        <seg>Il est possible qu'il soit déjà ouvert dans une autre instance d'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Power Point</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20101112T182920Z">
@@ -25694,6 +25766,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Démarrage du chargement du projet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project locked.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130511T165012Z">
+        <seg>Projet verrouillé.</seg>
       </tuv>
     </tu>
     <tu>
