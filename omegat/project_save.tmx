@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.3_2" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.1" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13164,6 +13164,14 @@ these terms and conditions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enable them in &lt;b&gt;Options &gt; Saving and Output...&lt;/b&gt;.&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130511T164351Z">
+        <seg>Activez-les dans &lt;b&gt;Options &gt; Enregistrement et exécution...&lt;/b&gt;.&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enabled</seg>
       </tuv>
       <tuv lang="FR">
@@ -13454,6 +13462,14 @@ launch script.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error load plugin from class '{0}': {1}: {2}</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130511T164437Z">
+        <seg>Erreur de chargement du module d'extension depuis la classe « {0} » : {1} : {2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error monitoring external command!</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130125T163351Z">
@@ -13530,6 +13546,14 @@ launch script.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130125T163223Z">
         <seg>Erreur au démarrage d'une commande externe : {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error unload plugin from class '{0}': {1}</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130511T164451Z">
+        <seg>Erreur de déchargement du module d'extension depuis la classe « {0} » : {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -14591,6 +14615,14 @@ patents.</seg>
       </tuv>
       <tuv lang="FR" changeid="laurieetclémentine" changedate="20130411T140625Z">
         <seg>Police...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fontbox-0.1.0.jar and JempBox-0.2.0.jar (Fontbox license)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130511T164533Z">
+        <seg>Fontbox-0.1.0.jar and JempBox-0.2.0.jar (Fontbox license)</seg>
       </tuv>
     </tu>
     <tu>
@@ -24688,6 +24720,14 @@ of promoting the sharing and reuse of software generally.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130430T141356Z">
         <seg>Les chevauchements résultent d'une mauvaise manipulation d'une paire de balises et entraîneront à coup sûr une altération du formatage. Parfois, le fichier traduit ne pourra même pas s'ouvrir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>PDF Input</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130511T164458Z">
+        <seg>Entrée PDF</seg>
       </tuv>
     </tu>
     <tu>
@@ -41698,6 +41738,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://www.omegat.org/en/howtos/localizing_omegat.php</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130511T164152Z">
+        <seg>http://www.omegat.org/en/howtos/localizing_omegat.php</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://www.omegat.org/en/howtos/text_export.html</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T104318Z">
@@ -41778,6 +41826,30 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>https://lists.sourceforge.net/lists/listinfo/omegat-l10n</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>https://lists.sourceforge.net/lists/listinfo/omegat-l10n</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://sourceforge.net/p/omegat/bugs/</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130511T164230Z">
+        <seg>https://sourceforge.net/p/omegat/bugs/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://sourceforge.net/p/omegat/feature-requests/</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130511T164226Z">
+        <seg>https://sourceforge.net/p/omegat/feature-requests/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>https://sourceforge.net/projects/macsvn/</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T104055Z">
@@ -41846,6 +41918,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T100011Z">
         <seg>ibo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>icu4j-51_1.jar (ICU4J license)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130511T164317Z">
+        <seg>icu4j-51_1.jar (licence ICU4J)</seg>
       </tuv>
     </tu>
     <tu>
@@ -42214,6 +42294,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T100019Z">
         <seg>jv</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>jwordsplitter-3.4.jar (Apache License 2.0)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130511T164510Z">
+        <seg>jwordsplitter-3.4.jar (licence Apache 2.0)</seg>
       </tuv>
     </tu>
     <tu>
@@ -43636,6 +43724,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>pdfbox-app-1.8.1.jar (Apache License 2.0)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130511T164257Z">
+        <seg>pdfbox-app-1.8.1.jar (licence Apache 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>pi</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T100140Z">
@@ -44128,6 +44224,22 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130423T094222Z">
         <seg>segment-1.3.0.jar (licence Segment)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>segment-1.4.1.jar (Segment License)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130511T164525Z">
+        <seg>segment-1.4.1.jar (licence Segment)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>segment-1.4.1.jar (Segment license)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130511T164242Z">
+        <seg>segment-1.4.1.jar (licence Segment)</seg>
       </tuv>
     </tu>
     <tu>
