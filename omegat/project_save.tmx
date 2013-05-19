@@ -3333,6 +3333,14 @@ OmegaT peut être exécuté de différentes façons.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; Files and Folders</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130519T102451Z">
+        <seg>Les fichiers et répertoires d'&lt;a0&gt;OmegaT&lt;/a0&gt; </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; also backups translation memory to &lt;f1&gt;project_save.tmx.YEARMMDDHHNN.bak&lt;/f1&gt; in the same subfolder whenever a project is opened or reloaded.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130424T092226Z">
@@ -3888,6 +3896,14 @@ OmegaT peut être exécuté de différentes façons.</seg>
         <seg>&lt;e0&gt;Add or rewrite encoding declaration in HTML and XHTML files&lt;/e0&gt;: frequently the target files must have the encoding character set different from the one in the source file (wether it is explicitly defined or implied).</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130429T082243Z">
+        <seg>&lt;e0&gt;Ajoute ou réécrit une déclaration d'encodage dans les fichiers HTML et XHTML &lt;/e0&gt; : généralement, les fichiers cibles doivent posséder un ensemble de caractères d'encodage différent de celui présent dans le fichier source (que cela soit défini explicitement ou implicitement).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Add or rewrite encoding declaration in HTML and XHTML files&lt;/e0&gt;: frequently the target files must have the encoding character set different from the one in the source file (whether it is explicitly defined or implied).</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130519T102420Z">
         <seg>&lt;e0&gt;Ajoute ou réécrit une déclaration d'encodage dans les fichiers HTML et XHTML &lt;/e0&gt; : généralement, les fichiers cibles doivent posséder un ensemble de caractères d'encodage différent de celui présent dans le fichier source (que cela soit défini explicitement ou implicitement).</seg>
       </tuv>
     </tu>
@@ -5191,6 +5207,14 @@ outil TAO : outil de TAO</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;l0&gt;${system-user-name}&lt;/l0&gt; - system user name</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130519T102433Z">
+        <seg>&lt;l0&gt;${system-user-name}&lt;/l0&gt; - le nom de l'utilisateur du système</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;l0&gt;${targetCountryCode}&lt;/l0&gt;– the target country - only "YY"</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130415T191230Z">
@@ -5218,6 +5242,14 @@ outil TAO : outil de TAO</note>
         <seg>&lt;l0&gt;${targetLocaleLCID)&lt;/l0&gt; - Microsoft target locale</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130415T192706Z">
+        <seg>&lt;l0&gt;${targetLocaleLCID)&lt;/l0&gt; - paramètres locaux cible Microsoft</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;${targetLocaleLCID}&lt;/l0&gt; - Microsoft target locale</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130519T102445Z">
         <seg>&lt;l0&gt;${targetLocaleLCID)&lt;/l0&gt; - paramètres locaux cible Microsoft</seg>
       </tuv>
     </tu>
@@ -8723,6 +8755,14 @@ OmegaT.exe.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130415T144037Z">
         <seg>Un projet de traduction &lt;a0&gt;OmegaT&lt;/a0&gt; se compose d'un certain nombre de fichiers et de répertoires. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An &lt;a0&gt;OmegaT&lt;/a0&gt; translation project consists of a number of files and folders.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130519T102502Z">
+        <seg>Un projet de traduction &lt;a0&gt;OmegaT&lt;/a0&gt; se compose d'un certain nombre de fichiers et de répertoires.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23912,6 +23952,14 @@ selecting, obtaining and installing it.</seg>
         <seg>OmegaT projects and subdirectories</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130416T090656Z">
+        <seg>Projets OmegaT et sous-répertoires</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT projects and subfolders</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130519T102505Z">
         <seg>Projets OmegaT et sous-répertoires</seg>
       </tuv>
     </tu>
