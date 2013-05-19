@@ -3725,6 +3725,14 @@ OmegaT peut être exécuté de différentes façons.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt; &lt;a1&gt;OmegaT&lt;/a1&gt; &lt;/e0&gt;is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130519T102104Z">
+        <seg>&lt;e0&gt; &lt;a1&gt;OmegaT&lt;/a1&gt; &lt;/e0&gt;est distribué dans l'espoir qu'il sera utile, mais SANS AUCUNE GARANTIE de quelque nature que ce soit ; expresse ou implicite, y compris, mais sans y être limité, les garanties D'APTITUDE À LA VENTE ou À UN BUT PARTICULIER.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;-Dgoogle.api.key=A123456789B123456789C123456789D12345678 &lt;/e0&gt;&lt;e1&gt;&lt;i2/&gt;&lt;/e1&gt; If you have signed up for the Google Translate services, enter your private Google API key here.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130502T133638Z">
@@ -3801,6 +3809,14 @@ OmegaT peut être exécuté de différentes façons.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130412T074122Z">
         <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt; 2.6&lt;/e0&gt; est protégé par le copyright © 2000-2013 Keith Godfrey, Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik, Thomas Cordonnier, Sandra Jean Chua, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Martin Wunderlich and Michael Zakharov.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt; &lt;/e0&gt; is Copyright © 2000-2013 Keith Godfrey, Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik, Thomas Cordonnier, Sandra Jean Chua, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Martin Wunderlich and Michael Zakharov.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130519T102030Z">
+        <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt; &lt;/e0&gt; is Copyright © 2000-2013 Keith Godfrey, Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik, Thomas Cordonnier, Sandra Jean Chua, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Martin Wunderlich and Michael Zakharov.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4178,6 +4194,14 @@ OmegaT peut être exécuté de différentes façons.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130412T074200Z">
         <seg>&lt;e0&gt;OmegaT 2.6&lt;/e0&gt;  est un logiciel libre ; vous pouvez le redistribuer et/ou le modifier selon les termes de la Licence Publique Générale GNU  telle qu'elle est publiée par la Free Software Foundation ; soit selon la version 2 de la Licence, soit (si vous préférez) selon n'importe quelle version ultérieure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;OmegaT &lt;/e0&gt; is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (if you prefer) any later version.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130519T102033Z">
+        <seg>&lt;e0&gt;OmegaT &lt;/e0&gt; is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (if you prefer) any later version.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31727,6 +31751,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The following code snippet in groovy for instance scans through all the segments in all files in the current project and, if the translation exists, prints out the source and the target of the segment:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130519T102045Z">
+        <seg>Le code snippet suivant, dans le langage groovy par exemple, examine tous les segments de tous les fichiers du projet en cours et, si la traduction existe, imprime la source et la cible du segment : </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The following code snippet in groovy for instance scans through all the segments in all files in the current project and, if the translatione xists, prints out the source and the target of the segment:</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130412T094152Z">
@@ -42214,6 +42246,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130511T164230Z">
         <seg>https://sourceforge.net/p/omegat/bugs/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://sourceforge.net/p/omegat/documentation/</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130519T102011Z">
+        <seg>https://sourceforge.net/p/omegat/documentation/</seg>
       </tuv>
     </tu>
     <tu>
