@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.1" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.2" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8203,6 +8203,14 @@ covered by this License; they are outside its scope.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Afar</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130519T100740Z">
+        <seg>Afar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Afrikaans</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130423T094358Z">
@@ -8328,6 +8336,14 @@ it includes the directory where the 'java' application resides.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Ahmet Murati (albanais)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Akan</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130519T100741Z">
+        <seg>Akan</seg>
       </tuv>
     </tu>
     <tu>
@@ -9394,6 +9410,14 @@ provoquer des comportements inattendus, mais corrects.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Aymara</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130519T100743Z">
+        <seg>Aymara</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Azerbaijani</seg>
       </tuv>
       <tuv lang="FR" changeid="etudiant_local" changedate="20130410T124542Z">
@@ -9523,6 +9547,14 @@ FOR THE PROGRAM, TO THE EXTENT PERMITTED BY APPLICABLE LAW.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Bashkir</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130519T100743Z">
+        <seg>Bashkir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Basque</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T095833Z">
@@ -9636,10 +9668,26 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Bengali</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130519T100744Z">
+        <seg>Bengali</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Benjamin Siband</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20101223T174927Z">
         <seg>Benjamin Siband</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bihari</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130519T100744Z">
+        <seg>Bihari</seg>
       </tuv>
     </tu>
     <tu>
@@ -10066,6 +10114,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Chamorro</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130519T100745Z">
+        <seg>Chamorro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Chan&amp;ged after:</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20100608T093236Z">
@@ -10310,6 +10366,14 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20120420T211355Z">
         <seg>Extraction du projet...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chichewa, Chewa, Nyanja</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130519T100745Z">
+        <seg>Chichewa, Chewa, Nyanja</seg>
       </tuv>
     </tu>
     <tu>
@@ -12877,6 +12941,14 @@ several security warnings.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Dzongkha</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130519T100746Z">
+        <seg>Dzongkha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>E&amp;nable Sentence-level Segmenting</seg>
       </tuv>
       <tuv lang="FR">
@@ -13746,6 +13818,14 @@ launch script.</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130418T224212Z">
         <seg>Le droit est donné à chacun de copier et de distribuer des copies conformes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ewe</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130519T100748Z">
+        <seg>Ewe</seg>
       </tuv>
     </tu>
     <tu>
@@ -15798,10 +15878,26 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Guaraní</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130519T100749Z">
+        <seg>Guaraní</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Guido Leenders</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20111213T152807Z">
         <seg>Guido Leenders</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Gujarati</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130519T100750Z">
+        <seg>Gujarati</seg>
       </tuv>
     </tu>
     <tu>
@@ -16538,6 +16634,14 @@ POSSIBILITY OF SUCH DAMAGES.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Pour avoir une idée de l'intégralité des fonctions offertes par &lt;a0&gt;OmegaT&lt;/a0&gt;, consultez le manuel de l'utilisateur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ido</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130519T100753Z">
+        <seg>Ido</seg>
       </tuv>
     </tu>
     <tu>
@@ -18089,6 +18193,14 @@ excuse you from the conditions of this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Igbo</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130519T100751Z">
+        <seg>Igbo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ignore All</seg>
       </tuv>
       <tuv lang="FR">
@@ -19244,6 +19356,14 @@ exécutez simplement le programme d'installation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Interlingua</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130519T100750Z">
+        <seg>Interlingua</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Interlingue</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T095959Z">
@@ -19265,6 +19385,14 @@ exécutez simplement le programme d'installation.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130418T143140Z">
         <seg>Introduction aux modules d'extension de lemmatisation et de scripts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Inuktitut</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130519T100754Z">
+        <seg>Inuktitut</seg>
       </tuv>
     </tu>
     <tu>
@@ -19967,6 +20095,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Kannada</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130519T100754Z">
+        <seg>Kannada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Kanuri</seg>
       </tuv>
       <tuv lang="FR" changeid="etudiant_local" changedate="20130410T130103Z">
@@ -19987,6 +20123,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="FR" changeid="etudiant_local" changedate="20130410T130119Z">
         <seg>Cachemiri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Kazakh</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130519T100755Z">
+        <seg>Kazakh</seg>
       </tuv>
     </tu>
     <tu>
@@ -20127,6 +20271,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Kikuyu, Gikuyu</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130519T100755Z">
+        <seg>Kikuyu, Gikuyu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Kim Bruning</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20101223T174919Z">
@@ -20135,10 +20287,34 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Kinyarwanda</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130519T100756Z">
+        <seg>Kinyarwanda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Kirghiz, Kyrgyz</seg>
       </tuv>
       <tuv lang="FR" changeid="etudiant_local" changedate="20130410T130254Z">
         <seg>Kirghiz, Kirghize</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Kirundi</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130519T100801Z">
+        <seg>Kirundi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Komi</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130519T100757Z">
+        <seg>Komi</seg>
       </tuv>
     </tu>
     <tu>
@@ -20739,10 +20915,26 @@ automatically download and install it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Luba-Katanga</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130519T100758Z">
+        <seg>Luba-Katanga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Lucene (Apache License 2.0)</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130412T135421Z">
         <seg>Lucene (licence Apache 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Luganda</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130519T100757Z">
+        <seg>Luganda</seg>
       </tuv>
     </tu>
     <tu>
@@ -21078,6 +21270,14 @@ Java already installed on their machines.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130411T085123Z">
         <seg>Malais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Malayalam</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130519T100759Z">
+        <seg>Malayalam</seg>
       </tuv>
     </tu>
     <tu>
@@ -22027,6 +22227,14 @@ impose that choice.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>OmegaT vous proposera de choisir un emplacement et un nom pour le projet que vous souhaitez créer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ndonga</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130519T100759Z">
+        <seg>Ndonga</seg>
       </tuv>
     </tu>
     <tu>
@@ -23977,6 +24185,14 @@ with exactly the same structure, including copies of any non-supported files.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT-{0}</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130519T100815Z">
+        <seg>OmegaT-{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT-{0}_{1}</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20120131T094122Z">
@@ -24618,6 +24834,14 @@ happen should you file a bug report.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130411T090131Z">
         <seg>Oriya, Odia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Oromo</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130519T100800Z">
+        <seg>Oromo</seg>
       </tuv>
     </tu>
     <tu>
@@ -25962,6 +26186,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Pāli</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130519T100801Z">
+        <seg>Pāli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>QuarkXPress CopyFlow Gold Files</seg>
       </tuv>
       <tuv lang="FR">
@@ -27138,6 +27370,14 @@ REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Sabine Cretella (allemand)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Samoan</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130519T100802Z">
+        <seg>Samoan</seg>
       </tuv>
     </tu>
     <tu>
@@ -28823,6 +29063,14 @@ REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Somali</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130519T100805Z">
+        <seg>Somali</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Some of the dictionaries have no strings attached - i.e. are "Free to use", and others, like the selection above, are under the GPL license.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130429T130829Z">
@@ -29527,6 +29775,14 @@ address new problems or concerns.</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T100227Z">
         <seg>Swahili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Swati</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130519T100806Z">
+        <seg>Swati</seg>
       </tuv>
     </tu>
     <tu>
@@ -35781,6 +36037,22 @@ Kaptain.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tsonga</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130519T100807Z">
+        <seg>Tsonga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tswana</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130519T100807Z">
+        <seg>Tswana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Turkish</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130412T083905Z">
@@ -37071,6 +37343,14 @@ you can search through without subscription:</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Vito Smolej (responsable documentation)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Volapük</seg>
+      </tuv>
+      <tuv lang="FR" changeid="JC Helary" changedate="20130519T100808Z">
+        <seg>Volapük</seg>
       </tuv>
     </tu>
     <tu>
