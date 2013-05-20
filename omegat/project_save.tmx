@@ -1160,8 +1160,16 @@
       <tuv lang="EN">
         <seg>&amp;Source Language Tokenizer:</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20130412T134755Z">
-        <seg>&amp;Lemmatiseur de la langue source :</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130520T130742Z">
+        <seg>Lemmatiseur de la langue source :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Source Tokenizer Behavior:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130520T130607Z">
+        <seg>Comportement du lemmatiseur source :</seg>
       </tuv>
     </tu>
     <tu>
@@ -1200,8 +1208,16 @@
       <tuv lang="EN">
         <seg>&amp;Target Language Tokenizer:</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20130412T135518Z">
-        <seg>Lemmatiseur de la langue ci&amp;ble :</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130520T130745Z">
+        <seg>Lemmatiseur de la langue cible :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Target Tokenizer Behavior:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130520T130759Z">
+        <seg>Comportement du lemmatiseur cible :</seg>
       </tuv>
     </tu>
     <tu>
@@ -24293,6 +24309,14 @@ with exactly the same structure, including copies of any non-supported files.</s
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130411T094338Z">
         <seg>Les scripts d'OmegaT permettent d'éxécuter dans OmegaT des scripts écrits dans différents langages de script.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT-{0}</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130520T130826Z">
+        <seg>OmegaT-{0}</seg>
       </tuv>
     </tu>
     <tu>
