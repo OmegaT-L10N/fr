@@ -20353,8 +20353,8 @@ mouse-clicks or menu items--whatever suits your program.</seg>
       <tuv lang="EN">
         <seg>OmegaT also backs up the translation memory to project_save.tmx.YEARMMDDHHNN.bak in the same subfolder each time a project is opened or reloaded.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130506T073835Z">
-        <seg>OmegaT fait également une sauvegarde de la mémoire de traduction sous la forme de fichier project_save.tmx.YEARMMDDHHNN.bak dans le même sous-dossier à chaque fois que le projet est ouvert ou rechargé.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T153741Z">
+        <seg>OmegaT fait également une sauvegarde de la mémoire de traduction sous la forme de fichier project_save.tmx.ANNÉEMMJJHHMN.bak dans le même sous-dossier à chaque fois que le projet est ouvert ou rechargé.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33696,8 +33696,8 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       <tuv lang="EN">
         <seg>YEAR is the 4-digit year, MM is the month, DD the day of the month, and HH and NN are the hours and minutes when the previous translation memory was saved.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130506T073943Z">
-        <seg>YEAR correspond aux quatre chiffres de l'année, MM correspond au mois, DD au jour du mois, et HH et NN sont les heures et les minutes de la sauvegarde de la mémoire de traduction précédente.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T153835Z">
+        <seg>ANNÉE correspond aux quatre chiffres de l'année, MM correspond au mois, JJ au jour du mois, et HH et MN sont les heures et les minutes de la sauvegarde de la mémoire de traduction précédente.</seg>
       </tuv>
     </tu>
     <tu>
