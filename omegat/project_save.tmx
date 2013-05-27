@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.2" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.2_2" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2339,8 +2339,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>&lt;/e0&gt;To do this, simply select the same installation folder as the existing installation when installing the new version.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130502T094849Z">
-        <seg>&lt;/e0&gt;Pour faire cela, il suffit de sélectioner le même dossier d'installation que celui de l'installation existante lorsque vous installez la nouvelle version.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T144834Z">
+        <seg>&lt;/e0&gt;Pour faire cela, il suffit de sélectionner le même dossier d'installation que celui de l'installation existante lorsque vous installez la nouvelle version.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2523,8 +2523,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; is available bundled with a Oracle Java JRE for Linux (Intel x86) and Windows platforms.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130417T135905Z">
-        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt;  est fourni avec l'environnement d'exécution Java JRE distribué par Oracle pour Linux (Intel x86) et les plateformes Windows.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T145213Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt;  est fourni avec l'environnement d'exécution Java JRE distribué par Oracle pour Linux (Intel x86) et les plates-formes Windows.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3163,8 +3163,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Install over the existing installation.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130502T094820Z">
-        <seg>&lt;e0&gt;Une installation par dessus l'installation déjà existante.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T144819Z">
+        <seg>&lt;e0&gt;Une installation par-dessus l'installation déjà existante.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10998,8 +10998,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="EN">
         <seg>Do you have a Java implementation compatible with Oracle's Java 1.5 JRE?</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130419T162736Z">
-        <seg>Avez vous une implémentation Java compatible avec l'environnement d'exécution Java (JRE) 1.5 distribué par Oracle ?</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T144933Z">
+        <seg>Avez-vous une implémentation Java compatible avec l'environnement d'exécution Java (JRE) 1.5 distribué par Oracle ?</seg>
       </tuv>
     </tu>
     <tu>
@@ -11214,8 +11214,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="EN">
         <seg>Downloading the right package</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130417T100249Z">
-        <seg>Téléchargement du bon package</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T145202Z">
+        <seg>Téléchargement du bon paquet</seg>
       </tuv>
     </tu>
     <tu>
@@ -12986,8 +12986,8 @@ control compilation and installation of the executable.</seg>
       <tuv lang="EN">
         <seg>For example, &lt;f1&gt;-Xmx1024M -Duser.language=ja&lt;/f1&gt; will launch &lt;a2&gt;OmegaT&lt;/a2&gt; with 1024MB of memory and with the user interface in Japanese.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130419T164045Z">
-        <seg>Par exemple, &lt;f1&gt;-Xmx1024M -Duser.language=ja&lt;/f1&gt; lancera &lt;a2&gt;OmegaT&lt;/a2&gt; avec une mémoire de 1024Mo et une interface utilisateur en japonais.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T145142Z">
+        <seg>Par exemple, &lt;f1&gt;-Xmx1024M -Duser.language=ja&lt;/f1&gt; lancera &lt;a2&gt;OmegaT&lt;/a2&gt; avec une mémoire de 1024 Mo et une interface utilisateur en japonais.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15430,8 +15430,8 @@ folder, see the manual for its location).</seg>
       <tuv lang="EN">
         <seg>If you check the corresponding checkbox, the OmegaT.l4J.ini file is modified to use the language selected (see next section for details).</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130502T091639Z">
-        <seg>Cochez la case correspondante pour que le fichier OmegaT.l4J.ini soit modifié de sorte qu'il n'utilise plus que la langue sélectionnée (voir la section suivante pour plus de détails).</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T144646Z">
+        <seg>Cochez la case correspondante pour que le fichier OmegaT.l4J.ini soit modifié de sorte qu'il utilise la langue sélectionnée (voir la section suivante pour plus de détails).</seg>
       </tuv>
     </tu>
     <tu>
@@ -15566,8 +15566,8 @@ OmegaT is to use Java Web Start.</seg>
       <tuv lang="EN">
         <seg>If you have made changes to your&lt;f0&gt; OmegaT.l4J.ini &lt;/f0&gt;file and/or are using a .bat file, you must copy these over.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130502T095817Z">
-        <seg>Si vous avez apporté des modifications à votre fichier&lt;f0&gt; OmegaT.l4J.ini &lt;/f0&gt; et/ou si vous utilisez un fichier .bat, vous devrez le(s) copier dans le nouveau dossier.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T144911Z">
+        <seg>Si vous avez apporté des modifications à votre fichier&lt;f0&gt; OmegaT.l4J.ini &lt;/f0&gt; ou si vous utilisez un fichier .bat, vous devrez le(s) copier dans le nouveau dossier.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15736,8 +15736,8 @@ OmegaT.</seg>
       <tuv lang="EN">
         <seg>If you wish to add values to&lt;e0&gt; VMOptions&lt;/e0&gt;, put a space between them.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130502T120432Z">
-        <seg>Pour ajouter des valeurs à &lt;e0&gt; VMOptions&lt;/e0&gt;, séparez les par un espace.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T145133Z">
+        <seg>Pour ajouter des valeurs à &lt;e0&gt; VMOptions&lt;/e0&gt;, séparez-les par un espace.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16243,8 +16243,8 @@ the limitation as if written in the body of this License.</seg>
       <tuv lang="EN">
         <seg>In the "Command" field, use the navigation button to find your &lt;a0&gt;OmegaT&lt;/a0&gt; launch script (the file named &lt;a1&gt;OmegaT&lt;/a1&gt; in the unpacked folder), and select it.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130502T115727Z">
-        <seg>Dans le champ « Commande », utilisez le bouton de navigation pour trouver votre script de lancement&lt;a0&gt;OmegaT&lt;/a0&gt; (le fichier nommé &lt;a1&gt;OmegaT&lt;/a1&gt; dans le dossier décompréssé), et sélectionnez le.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T145021Z">
+        <seg>Dans le champ « Commande », utilisez le bouton de navigation pour trouver votre script de lancement&lt;a0&gt;OmegaT&lt;/a0&gt; (le fichier nommé &lt;a1&gt;OmegaT&lt;/a1&gt; dans le dossier décompressé), et sélectionnez-le.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18478,8 +18478,8 @@ le JRE est déjà installé sur Mac OX X antérieur à Mac OS X 10.7 (Lion).</se
       <tuv lang="EN">
         <seg>Make sure that your &lt;e2&gt;PATH &lt;/e2&gt;settings are correct and that .&lt;e3&gt;jar&lt;/e3&gt; files are properly associated with a Java launcher.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130502T115614Z">
-        <seg>Assurez vous que vos paramètres &lt;e2&gt;PATH &lt;/e2&gt;sont corrects et que les fichiers .&lt;e3&gt;jar&lt;/e3&gt; sont correctement associés à un lanceur Java.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T145104Z">
+        <seg>Assurez-vous que vos paramètres &lt;e2&gt;PATH &lt;/e2&gt;sont corrects et que les fichiers .&lt;e3&gt;jar&lt;/e3&gt; sont correctement associés à un lanceur Java.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20978,8 +20978,8 @@ with exactly the same structure, including copies of any non-supported files.</s
       <tuv lang="EN">
         <seg>Once &lt;a0&gt;OmegaT&lt;/a0&gt; is installed, you can click on &lt;e1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt;.jar&lt;/e1&gt; to launch it directly or you can launch it directly from the command line.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130502T093441Z">
-        <seg>Une fois &lt;a0&gt;OmegaT&lt;/a0&gt; installé, cliquez sur&lt;e1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt;.jar&lt;/e1&gt;  pour l'exécuter ou lancez le directement depuis la ligne de commande.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T144715Z">
+        <seg>Une fois &lt;a0&gt;OmegaT&lt;/a0&gt; installé, cliquez sur&lt;e1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt;.jar&lt;/e1&gt; pour l'exécuter ou lancez-le directement depuis la ligne de commande.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27550,8 +27550,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The following example for the INI file reserves 1GB of memory, requests French as the user language and Canada as the country:</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130419T163110Z">
-        <seg>L'exemple suivant du fichier INI utilise 1Go de mémoire, choisit le français comme langue d'utilisateur et le Canada comme pays :</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T144815Z">
+        <seg>L'exemple suivant du fichier INI utilise 1 Go de mémoire, choisit le français comme langue d'utilisateur et le Canada comme pays :</seg>
       </tuv>
     </tu>
     <tu>
@@ -32389,8 +32389,8 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>Users of other platforms (Linux PowerPC, Linux x64, Solaris SPARC/x86/x64, Windows x64 etc) must have a running compatible Java JRE on their system to be able to use &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130502T122232Z">
-        <seg>Les utilisateurs d'autres plateformes (Linux PowerPC, Linux x64, Solaris SPARC/x86/x64, Windows x64 etc) doivent avoir un environnement d'exécution Java JRE compatible opérant sur leur système pour pouvoir utiliser &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T145224Z">
+        <seg>Les utilisateurs d'autres plates-formes (Linux PowerPC, Linux x64, Solaris SPARC/x86/x64, Windows x64 etc) doivent avoir un environnement d'exécution Java JRE compatible opérant sur leur système pour pouvoir utiliser &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33392,8 +33392,8 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       <tuv lang="EN">
         <seg>With this method, you may also download the "Windows without JRE" version, since the new installation will use your existing JRE.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130502T095244Z">
-        <seg>Avec cette méthode, vous pouvez également télécharger la version "Windows sans JRE", puisque la nouvelle installation utilisera le JRE dont vous disposez.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T144841Z">
+        <seg>Avec cette méthode, vous pouvez également télécharger la version « Windows sans JRE », puisque la nouvelle installation utilisera le JRE dont vous disposez.</seg>
       </tuv>
     </tu>
     <tu>
