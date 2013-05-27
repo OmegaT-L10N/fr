@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.2" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.2_2" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3147,8 +3147,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Important: &lt;/e0&gt;Google Translate API v2 requires billing information for all accounts before you can start using the service (see &lt;u1&gt;Pricing and Terms of Service&lt;/u1&gt; for more).</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130503T122719Z">
-        <seg>&lt;e0&gt;Important : &lt;/e0&gt;Google Translate API v2 vous demandera vos coordonées bancaires pour chacun de vos comptes avant que vous puissiez commencer à utiliser le service (voir &lt;u1&gt;Conditions et Tarifs&lt;/u1&gt; pour plus d'informations).</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T151639Z">
+        <seg>&lt;e0&gt;Important : &lt;/e0&gt;Google Translate API v2 vous demandera vos coordonnées bancaires pour chacun de vos comptes avant que vous puissiez commencer à utiliser le service (voir &lt;u1&gt;Conditions et Tarifs&lt;/u1&gt; pour plus d'informations).</seg>
       </tuv>
     </tu>
     <tu>
@@ -6539,8 +6539,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>&lt;u0&gt;Apertium&lt;/u0&gt; is a free/open-source machine translation platform, initially aimed at related-language pairs, like CA, ES, GA, PT, OC and FR but recently expanded to deal with more divergent language pairs (such as English-Catalan).</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130503T125154Z">
-        <seg>&lt;u0&gt;Apertium&lt;/u0&gt; est une plateforme de traduction automatique libre/open-source, au départ destinée aux couples de langues proches comme CA, ES, GA, PT, OC et FR mais qui a récemment été étendue à d'autres couples de langues plus éloignés (comme le couple anglais-catalan).</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T151826Z">
+        <seg>&lt;u0&gt;Apertium&lt;/u0&gt; est une plateforme de traduction automatique libre/à code source ouvert, au départ destinée aux couples de langues proches comme CA, ES, GA, PT, OC et FR mais qui a récemment été étendue à d'autres couples de langues plus éloignés (comme le couple anglais-catalan).</seg>
       </tuv>
     </tu>
     <tu>
@@ -8084,8 +8084,8 @@ void, and will automatically terminate your rights under this License.</seg>
       <tuv lang="EN">
         <seg>Are you online?</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130503T130646Z">
-        <seg>Etes-vous connectés ?</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T151903Z">
+        <seg>Êtes-vous connectés ?</seg>
       </tuv>
     </tu>
     <tu>
@@ -13817,8 +13817,8 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       <tuv lang="EN">
         <seg>Google Translate V2 reports "Bad request" - check the source and target languages for your project.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130503T131240Z">
-        <seg>Google Translate V2 affiche "Bad request" - vérifiez les langues source et cible de votre projet.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T151950Z">
+        <seg>Google Translate V2 affiche « Bad request » - vérifiez les langues source et cible de votre projet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13833,16 +13833,16 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       <tuv lang="EN">
         <seg>Google Translate does not work: have you applied &lt;u0&gt;Translate API service&lt;/u0&gt;?</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130503T130758Z">
-        <seg>Google Translate ne fonctionne pas : vous êtes vous inscrits sur le &lt;u0&gt; service Translate API&lt;/u0&gt; ?</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T151915Z">
+        <seg>Google Translate ne fonctionne pas : vous êtes vous inscrit sur le &lt;u0&gt; service Translate API&lt;/u0&gt; ?</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Google Translate is a payable service offered by Google, for translating sentences, web sites and complete texts between an ever-growing number of languages.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130503T120716Z">
-        <seg>Google Translate est un service payant proposé par Google et qui permet de traduire des phrases, des sites internets et des textes complets dans un nombre toujours plus important de langues.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T151618Z">
+        <seg>Google Translate est un service payant proposé par Google et qui permet de traduire des phrases, des sites Internet et des textes complets dans un nombre toujours plus important de langues.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17036,8 +17036,8 @@ exécutez simplement le programme d'installation.</seg>
       <tuv lang="EN">
         <seg>It is actually quite probable that the Spanish translation is based at least partially on the actual translation of the book.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130503T124219Z">
-        <seg>En fait, il est assez probable que la traduction espagnole soit basée au moins en partie sur la véritable traduction du manuel.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T151737Z">
+        <seg>En fait, il est assez probable que la traduction espagnole soit basée au moins en partie sur la véritable traduction du livre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17115,8 +17115,8 @@ implemented by public license practices.</seg>
       <tuv lang="EN">
         <seg>It is possible to use Apertium to build machine translation systems for a variety of language pairs; to that end, Apertium uses simple XML-based standard formats to encode the linguistic data needed (either by hand or by converting existing data), which are compiled using the provided tools into the high-speed formats used by the engine.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130506T071312Z">
-        <seg>Il est possible d'utiliser Apertium pour construire des systèmes de traduction automatique pour une grande variété de couples de langues ; pour cela, Apertium utilise des formats standards simples basés sur XML pour encoder les données linguistiques nécessaires (soit à la main, soit en convertissant des données préexistantes). Celles-ci sont ensuite compilées par les outils fournis en formats haute vitesse utilisés par le moteur de traduction.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T151900Z">
+        <seg>Il est possible d'utiliser Apertium pour construire des systèmes de traduction automatique pour une grande variété de paires de langues ; pour cela, Apertium utilise des formats standards simples basés sur XML pour encoder les données linguistiques nécessaires (soit à la main, soit en convertissant des données préexistantes). Celles-ci sont ensuite compilées par les outils fournis en formats haute vitesse utilisés par le moteur de traduction.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19748,8 +19748,8 @@ measures.</seg>
       <tuv lang="EN">
         <seg>Note that Google Translate service is not free of charge, see chapter &lt;l1&gt;Installing and Running&lt;/l1&gt; (runtime parameters) for more on that.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130503T130859Z">
-        <seg>Veuillez noter que le service Google Translate n'est pas gratuit (voir chapitre  &lt;l1&gt;Installation et Exécution&lt;/l1&gt; (paramétres d'exécution) pour en savoir plus sur ce sujet).</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T151930Z">
+        <seg>Veuillez noter que le service Google Translate n'est pas gratuit (voir chapitre &lt;l1&gt;Installation et exécution&lt;/l1&gt; (paramètres d'exécution) pour en savoir plus sur ce sujet).</seg>
       </tuv>
     </tu>
     <tu>
@@ -28408,8 +28408,8 @@ modification follow.</seg>
       <tuv lang="EN">
         <seg>The quality of the Google Translate translation depends on one side on the reservoir of target-language texts and the availability of their bilingual versions, on the other hand on the quality of the models built.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130503T123405Z">
-        <seg>La qualité de la traduction de Google Translate dépend d'une part du réservoir de textes de la langue cible et de leur disponibilité en version bilingue, et d'autre part de la qualité des modèles contruits.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T151729Z">
+        <seg>La qualité de la traduction de Google Translate dépend d'une part du réservoir de textes de la langue cible et de leur disponibilité en version bilingue, et d'autre part de la qualité des modèles construits.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30530,8 +30530,8 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="EN">
         <seg>To activate any of the Machine Translation services, go to &lt;g0&gt;Options &gt; Machine Translate ...&lt;/g0&gt; and activate the service desired.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130503T120326Z">
-        <seg>Pour activer un des services de Traduction automatique, allez dans &lt;g0&gt;Options &gt; Traduction automatique...&lt;/g0&gt; et activez le service de votre choix.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T151603Z">
+        <seg>Pour activer l'un des services de Traduction automatique, allez dans &lt;g0&gt;Options &gt; Traduction automatique...&lt;/g0&gt; et activez le service de votre choix.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30773,8 +30773,8 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
       <tuv lang="EN">
         <seg>To identify yourself as a valid user for the Google services, you use your private unique key sent to you by Google, when you have registered for the service.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130420T160539Z">
-        <seg>Pour vous identifer en tant qu'utilisateur valide des services Google, vous devez utiliser la clé privée unique que Google vous a envoyée lorsque vous vous êtes inscrits pour le service.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T151651Z">
+        <seg>Pour vous identifier en tant qu'utilisateur valide des services Google, vous devez utiliser la clé privée unique que Google vous a envoyée lorsque vous vous êtes inscrits pour le service.</seg>
       </tuv>
     </tu>
     <tu>
