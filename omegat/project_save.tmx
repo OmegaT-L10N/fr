@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.2" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.2_2" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -23926,8 +23926,8 @@ REPAIR OR CORRECTION.</seg>
       <tuv lang="EN">
         <seg>Search for the required language combination - for instance on the &lt;u0&gt;&lt;i1/&gt;StarDict Platform&lt;/u0&gt; above.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20130527T133151Z">
-        <seg>Recherchez la combinaison de langues désirée (ex. : sur la &lt;u0&gt;&lt;i1/&gt;plate-forme StarDict&lt;/u0&gt; ci-dessus)</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T150159Z">
+        <seg>Recherchez la combinaison de langues désirée (ex. : sur la &lt;u0&gt;&lt;i1/&gt;plateforme StarDict&lt;/u0&gt; ci-dessus)</seg>
       </tuv>
     </tu>
     <tu>
@@ -27907,8 +27907,8 @@ freedom to share and change it.</seg>
       <tuv lang="EN">
         <seg>The location of user files depends upon the platform you use:</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130430T124529Z">
-        <seg>L'emplacement des fichiers utilisateur dépend de la plate-forme utilisée : </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T150202Z">
+        <seg>L'emplacement des fichiers utilisateur dépend de la plateforme utilisée : </seg>
       </tuv>
     </tu>
     <tu>
@@ -28247,8 +28247,8 @@ an access to the hard drive of the computer.</seg>
       <tuv lang="EN">
         <seg>The platform-independent package can be used on any platform with a working Java 1.5 runtime environment, including the platforms for which a specific package also exists.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20130527T140041Z">
-        <seg>Le paquet mutliplateforme peut être utilisé sur n'importe quelle plate-forme possédant un environnement d'exécution Java 1.5 en fonctionnement, y compris sur les plates-formes pour lesquelles un paquet spécifique existe également.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T150211Z">
+        <seg>Le paquet mutliplateforme peut être utilisé sur n'importe quelle plateforme possédant un environnement d'exécution Java 1.5 en fonctionnement, y compris sur les plates-formes pour lesquelles un paquet spécifique existe également.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30217,8 +30217,8 @@ this version will not interfere with it.</seg>
       <tuv lang="EN">
         <seg>This package can be used on any platform where a Java 1.5 JRE compatible JRE is installed.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130417T140212Z">
-        <seg>Ce package peut être utilisé par toutes les plateformes sur lesquelles un environnement d'exécution Java 1.5 compatible JRE est installé. </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T145357Z">
+        <seg>Ce paquet peut être utilisé par toutes les plates-formes sur lesquelles un environnement d'exécution Java 1.5 compatible JRE est installé. </seg>
       </tuv>
     </tu>
     <tu>
