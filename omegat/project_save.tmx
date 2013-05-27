@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.2" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.2_2" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1974,8 +1974,8 @@ le programme d'installation peut créer des raccourcis pour vous dans le menu d�
       <tuv lang="EN">
         <seg>...but the same characters are displayed properly in the Editing pane: the extension and the file encoding do not match.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130430T095317Z">
-        <seg>...mais les mêmes caractères sont affichés correctement dans le volet Editeur : l'extension et le codage du fichier ne correspondent pas.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T143232Z">
+        <seg>...mais les mêmes caractères sont affichés correctement dans le volet Éditeur : l'extension et le codage du fichier ne correspondent pas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3299,8 +3299,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Note: &lt;/e0&gt;Of course there are other ways and means to create a simple file with tab delimited entries.</seg>
       </tuv>
-      <tuv lang="FR" changeid="samsung" changedate="20130417T154249Z">
-        <seg>&lt;e0&gt;Remarque : &lt;/e0&gt;Il existe bien évidemment d'autres façons de créer un fichier simple contenant des entrées délimitées par tabulation.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T143006Z">
+        <seg>&lt;e0&gt;Remarque :&lt;/e0&gt; il existe bien évidemment d'autres façons de créer un fichier simple contenant des entrées délimitées par tabulation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13681,8 +13681,8 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       <tuv lang="EN">
         <seg>Glossary files are simple plain text files containing three-column, tab-delimited lists with the source and target terms in the first and second columns respectively.</seg>
       </tuv>
-      <tuv lang="FR" changeid="samsung" changedate="20130417T130509Z">
-        <seg>Les fichiers glossaire sont de simples fichiers texte brut contenant trois colones, formant des listes délimitées par tabulation avec les termes source et cible situés respectivement dans la première et la deuxième colone.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T142748Z">
+        <seg>Les fichiers glossaire sont de simples fichiers texte brut contenant trois colonnes, formant des listes délimitées par tabulation avec les termes source et cible situés respectivement dans la première et la deuxième colonne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15517,8 +15517,8 @@ free software which everyone can redistribute and change under these terms.</seg
       <tuv lang="EN">
         <seg>If you export using the system option "Tab-delimited export", you will need to delete the first 5 columns (Seq.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130430T095022Z">
-        <seg>Si vous réalisez l'exportation en utilisant l'option "Exportation délimitée par tabulation", il sera nécessaire que vous supprimiez les 5 premières colones (Seq.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T143150Z">
+        <seg>Si vous réalisez l'exportation en utilisant l'option « Exportation délimitée par tabulation », il sera nécessaire que vous supprimiez les 5 premières colonnes (Seq.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15558,8 +15558,8 @@ OmegaT is to use Java Web Start.</seg>
       <tuv lang="EN">
         <seg>If you have an existing terminology handling system - MultiTerm for example - it is quite possible it offers the export of terminology data via TBX format.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130430T092859Z">
-        <seg>Si vous possèdez déjà un système de gestion de la terminologie  - MultiTerm par exemple - il est possible que celui-ci propose une exportation des données terminologiques via le format TBX.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T142900Z">
+        <seg>Si vous possédez déjà un système de gestion de la terminologie - MultiTerm par exemple - il est possible que celui-ci propose une exportation des données terminologiques via le format TBX.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19508,8 +19508,8 @@ measures.</seg>
       <tuv lang="EN">
         <seg>No glossary file found in the "glossary" folder.</seg>
       </tuv>
-      <tuv lang="FR" changeid="samsung" changedate="20130417T151744Z">
-        <seg>Pas de fichier glossaire trouvé dans le dossier "glossary".</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T143211Z">
+        <seg>Pas de fichier glossaire trouvé dans le dossier « glossary ».</seg>
       </tuv>
     </tu>
     <tu>
@@ -20070,8 +20070,8 @@ otherwise be available to you under applicable patent law.</seg>
       <tuv lang="EN">
         <seg>Nothing speaks against using Notepad++ on Windows, GEdit on Linux for instance or some spreadsheet program for this purpose: any application, that can handle UTF8 and that can show white space (so that you do not miss the required &lt;k1&gt;TAB&lt;/k1&gt; characters) can be used.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130430T094020Z">
-        <seg>Rien n'interdit d'utiliser Notepad++  sur Windows, GEdit sur Linux par exemple ou certains tableurs pour créer un glossaire : n'importe quelle application, capable de prendre en charge UTF8 et de créer des espaces blancs (de sorte que vous ne soyez pas gênés par l'absence de la touche &lt;k1&gt;TAB&lt;/k1&gt;) peut être utilisée.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T143127Z">
+        <seg>Rien n'interdit d'utiliser Notepad++ sous Windows, GEdit sous Linux par exemple ou certains tableurs pour créer un glossaire : n'importe quelle application, capable de prendre en charge UTF8 et d'afficher des caractères d'espacement (afin que vous puissiez distinguer les caractères&lt;k1&gt;TAB&lt;/k1&gt;obligatoires) peut être utilisée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20143,8 +20143,8 @@ combination as such.</seg>
       <tuv lang="EN">
         <seg>Nr, Date created etc).</seg>
       </tuv>
-      <tuv lang="FR" changeid="samsung" changedate="20130417T151524Z">
-        <seg>Nr, Date de création etc).</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T143156Z">
+        <seg>Nr, Date de création, etc).</seg>
       </tuv>
     </tu>
     <tu>
@@ -22236,8 +22236,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Problem: No glossary terms are displayed - possible causes:</seg>
       </tuv>
-      <tuv lang="FR" changeid="samsung" changedate="20130417T153442Z">
-        <seg>Problème : Aucun terme du glossaire n'est affiché - causes possibles :</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T143204Z">
+        <seg>Problème : aucun terme du glossaire n'est affiché - causes possibles :</seg>
       </tuv>
     </tu>
     <tu>
@@ -25030,8 +25030,8 @@ REPAIR OR CORRECTION.</seg>
       <tuv lang="EN">
         <seg>So the inserted "pojavni meni" in the nominative form - has to be changed to "pojavnem meniju" , i.e. to the locative.</seg>
       </tuv>
-      <tuv lang="FR" changeid="samsung" changedate="20130417T125946Z">
-        <seg>Ainsi la forme nominative  "pojavni meni"  - doit être transformée en "pojavnem meniju", soit la forme locative.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T142733Z">
+        <seg>Ainsi la forme nominative « pojavni meni » - doit être transformée en « pojavnem meniju », soit la forme locative.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25767,8 +25767,8 @@ address new problems or concerns.</seg>
       <tuv lang="EN">
         <seg>TBX - Term Base eXchange - is the open, XML-based standard for exchanging structured terminological data, TBX has been approved as an international standard by LISA and ISO.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130430T092831Z">
-        <seg>Le TBX - Term Base eXchange -  est le standard libre à base XML utilisé pour l'échange de données terminologiques structurées. TBX a été approuvé, en tant que standard international, par LISA et ISO.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T142847Z">
+        <seg>Le TBX - Term Base eXchange -  est le standard libre basé sur XML utilisé pour l'échange de données terminologiques structurées. TBX a été approuvé, en tant que standard international, par LISA et ISO.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27702,8 +27702,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The glossary function only finds exact matches with the glossary entry (e.g. does not find inflected forms etc.).</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130430T090350Z">
-        <seg>La fonction glossaire ne trouve que les mots qui correspondent exactement aux entrées du glossaire (ex : il ne reconnait pas les formes accordées).</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T142625Z">
+        <seg>La fonction glossaire ne trouve que les mots qui correspondent exactement aux entrées du glossaire (ex. : il ne reconnaît pas les formes accordées).</seg>
       </tuv>
     </tu>
     <tu>
@@ -28376,8 +28376,8 @@ modification follow.</seg>
       <tuv lang="EN">
         <seg>The project setting allows one can enter a name for a writable glossary file (see beginning of this chapter).</seg>
       </tuv>
-      <tuv lang="FR" changeid="samsung" changedate="20130417T144751Z">
-        <seg>Le paramètrage du projet vous permet d'entrer un nom de fichier glossaire modifiable (voir début de ce chapitre).</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T142931Z">
+        <seg>Le paramétrage du projet vous permet d'entrer un nom de fichier glossaire modifiable (voir début de ce chapitre).</seg>
       </tuv>
     </tu>
     <tu>
@@ -28959,8 +28959,8 @@ making modifications to it.</seg>
       <tuv lang="EN">
         <seg>The third column can be used for additional information.</seg>
       </tuv>
-      <tuv lang="FR" changeid="samsung" changedate="20130417T130544Z">
-        <seg>La troisième colone peut être utilisée pour insérer des informations complémentaires.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T142752Z">
+        <seg>La troisième colonne peut être utilisée pour insérer des informations complémentaires.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29055,8 +29055,8 @@ making modifications to it.</seg>
       <tuv lang="EN">
         <seg>The underlined item "pop-up menu" can be found in the glossary pane as "pojavni menu".</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130430T090653Z">
-        <seg>L'élément souligné "pop-up menu" peut se trouver dans le volet Glossaires face à "pojavni menu".</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T142655Z">
+        <seg>L'élément souligné « pop-up menu » peut se trouver dans le volet Glossaires face à « pojavni menu ».</seg>
       </tuv>
     </tu>
     <tu>
@@ -29120,8 +29120,8 @@ the [Help] menu after starting OmegaT.</seg>
       <tuv lang="EN">
         <seg>The vocabulary entry can have a comment added.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130430T090244Z">
-        <seg>L'entrée vocabulaire peut avoir un ou plusieurs commentaire(s) ajouté(s).</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T142613Z">
+        <seg>L'entrée vocabulaire peut avoir un ou plusieurs commentaires ajoutés.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29152,8 +29152,8 @@ the [Help] menu after starting OmegaT.</seg>
       <tuv lang="EN">
         <seg>The word before the = sign is the source term, and its translation is (or are) the words after =.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130430T090219Z">
-        <seg>Les mots écrits avant le signe "="sont les termes source, et le(s) mot(s)s écrit(s) après "=" correspond(ent) à leur(s) traduction(s).</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T142603Z">
+        <seg>Les mots écrits avant le signe « = » sont les termes source, et le ou les mots écrits après « = » correspondent à leurs traductions.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31988,8 +31988,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>Updating a glossary file is thus rather simple: press &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; and enter the new term, its translation and any comments you may have (ensuring you press tab between the fields) and save the file.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130430T093600Z">
-        <seg>Ainsi, mettre à jour un fichier glossaire est très facile : appuyez sur &lt;k0&gt;Ctrl+Maj+G&lt;/k0&gt; et entrez le nouveau terme, sa traduction et tous les commentaires que vous pourriez avoir ( assurez-vous de bien appuyez sur la touche Tab entre les différents champs) et enregistrez le fichier.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T142956Z">
+        <seg>Ainsi, mettre à jour un fichier glossaire est très facile : appuyez sur &lt;k0&gt;Ctrl+Maj+G&lt;/k0&gt; et entrez le nouveau terme, sa traduction et tous les commentaires que vous pourriez avoir (assurez-vous de bien appuyez sur la touche Tab entre les différents champs) et enregistrez le fichier.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34031,8 +34031,8 @@ to link it from there.</seg>
       <tuv lang="EN">
         <seg>You can have entries with the target column missing, i.e. just containing the source term and the comment.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130430T091248Z">
-        <seg>Il est possible de créer des entrées avec une colone cible vide, c.à.d. contenant seulement le terme source et le commentaire.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T142757Z">
+        <seg>Il est possible de créer des entrées avec une colonne cible vide, c.à.d. contenant seulement le terme source et le commentaire.</seg>
       </tuv>
     </tu>
     <tu>
