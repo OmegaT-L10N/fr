@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.2" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.2_2" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2419,16 +2419,16 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>&lt;User Home&gt;</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130415T164119Z">
-        <seg>&lt;User Home&gt;*</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T135840Z">
+        <seg>&lt;Répertoire utilisateur&gt;*</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;User Home&gt;/Library/Preferences/&lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130503T070530Z">
-        <seg>&lt;Répertoire Utilisateur&gt;/Bibliothèque/Preferences/&lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T135843Z">
+        <seg>&lt;Répertoire utilisateur&gt;/Bibliothèque/Preferences/&lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4219,8 +4219,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>&lt;l0&gt;${system-host-name}&lt;/l0&gt; - system host name</seg>
       </tuv>
-      <tuv lang="FR" changeid="samsung" changedate="20130415T191712Z">
-        <seg>&lt;l0&gt;${system-host-name}&lt;/l0&gt; - le nom de l'hôte du système</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T135212Z">
+        <seg>&lt;l0&gt;${system-host-name}&lt;/l0&gt; - le nom d'hôte du système</seg>
       </tuv>
     </tu>
     <tu>
@@ -4371,16 +4371,16 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>&lt;l0&gt;&lt;Something&gt;\&lt;a1&gt;OmegaT&lt;/a1&gt;&lt;/l0&gt; (&lt;Something&gt; corresponds to the location of the "home" folder as determined by Java)</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130415T163728Z">
-        <seg>&lt;l0&gt;&lt;Something&gt;\&lt;a1&gt;OmegaT&lt;/a1&gt;&lt;/l0&gt; (&lt;Something&gt; correspond à l'emplacement du dossier "personnel" déterminé par Java)</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T135756Z">
+        <seg>&lt;l0&gt;&lt;Quelque chose&gt;\&lt;a1&gt;OmegaT&lt;/a1&gt;&lt;/l0&gt; (&lt;Quelque chose&gt; correspond à l'emplacement du dossier « personnel » déterminé par Java)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;l0&gt;&lt;User Home&gt;/.omegat &lt;/l0&gt;(.omegat is a directory, the dot preceding its name makes it invisible unless you type ls -a or an equivalent command)</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130416T092104Z">
-        <seg>&lt;l0&gt;&lt;User Home&gt;/.omegat &lt;/l0&gt;(.omegat est un répertoire. Le point qui précède son nom le rend invisible, à moins que vous ne tapiez ls-a ou une commande équivalente)</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T135848Z">
+        <seg>&lt;l0&gt;&lt;Répertoire utilisateur&gt;/.omegat &lt;/l0&gt;(.omegat est un répertoire. Le point qui précède son nom le rend invisible, à moins que vous ne tapiez ls-a ou une commande équivalente)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7710,8 +7710,8 @@ OmegaT.exe.</seg>
       <tuv lang="EN">
         <seg>Alternatives include a Linux .tar package, a Windows installer – with or without a Java Runtime Environment –, a Mac OS X installer, and a source code package for developers.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130416T092856Z">
-        <seg>Il existe d'autres possibilités, telles que le package Linux .tar, un programme d'installation Windows (avec ou sans Environnement d'Execution Java), un programme d'installation Mac OS X et un package de code source pour les développeurs.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T140006Z">
+        <seg>Il existe d'autres possibilités, telles que le paquet Linux .tar, un programme d'installation Windows (avec ou sans environnement d'exécution Java), un programme d'installation Mac OS X et un paquet de code source pour les développeurs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7873,8 +7873,8 @@ menu, a prominent item in the list meets this criterion.</seg>
       <tuv lang="EN">
         <seg>An xml file with all the GUI accessible option settings</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130415T162547Z">
-        <seg>Un fichier xml contenant tous les paramètres d'options accessibles depuis l'Interface Graphique</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T135716Z">
+        <seg>Un fichier XML contenant tous les paramètres d'options accessibles depuis l'Interface Graphique</seg>
       </tuv>
     </tu>
     <tu>
@@ -8060,8 +8060,8 @@ void, and will automatically terminate your rights under this License.</seg>
       <tuv lang="EN">
         <seg>Application files: These are included in the package you download.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130430T112334Z">
-        <seg>Fichiers application : Ils sont inclus dans le package que vous téléchargez.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T135318Z">
+        <seg>Fichiers application : ils sont inclus dans le paquet que vous téléchargez.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14065,8 +14065,8 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       <tuv lang="EN">
         <seg>Here a platform-independent package in a standard Java form is considered.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130417T084915Z">
-        <seg>Il s'agit d'un package multiplateforme dans un format standard de Java.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T135937Z">
+        <seg>Il s'agit d'un paquet multiplateforme dans un format standard de Java.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14699,8 +14699,8 @@ compelled to copy the source along with the object code.</seg>
       <tuv lang="EN">
         <seg>If for some reason these files are lost or corrupted, simply download and/or reinstall OmegaT to restore them all.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130430T112548Z">
-        <seg>Si, pour quelque raison que ce soit, ces fichiers étaient perdus ou endommagés, il vous suffit de télécharger et/ou de réinstaller OmegaT pour tout restaurer.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T135331Z">
+        <seg>Si, pour quelque raison que ce soit, ces fichiers étaient perdus ou endommagés, il vous suffit de télécharger ou de réinstaller OmegaT pour tout restaurer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14996,8 +14996,8 @@ countries not thus excluded.</seg>
       <tuv lang="EN">
         <seg>If the files to be translated are parts of a tree structure (as in a website), you need only specify the top-level subfolder and OmegaT will maintain the entire contents, while keeping the tree structure intact.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130430T122530Z">
-        <seg>Si les fichiers à traduire font partie d'une structure arborescente (comme celle d'un site internet), il suffit de spécifier le sous-dossier racine et OmegaT conservera l'ensemble des contenus en gardant cette structure intacte.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T135624Z">
+        <seg>Si les fichiers à traduire font partie d'une structure arborescente (comme celle d'un site web), il suffit de spécifier le sous-dossier racine et OmegaT conservera l'ensemble des contenus en gardant cette structure intacte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18184,8 +18184,8 @@ automatically download and install it.</seg>
       <tuv lang="EN">
         <seg>Losing them usually results in OmegaT reverting to its "factory settings".</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130415T143247Z">
-        <seg>S'ils sont perdus, OmegaT retourne généralement à ses "paramètres d'origine".</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T135302Z">
+        <seg>S'ils sont perdus, OmegaT retourne généralement à ses « paramètres d'origine ».</seg>
       </tuv>
     </tu>
     <tu>
@@ -19796,8 +19796,8 @@ measures.</seg>
       <tuv lang="EN">
         <seg>Note that default segmentation rules and file filters can be overridden by project-specific setup (see above).</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130430T124506Z">
-        <seg>Veuilez noter que la segmentation et les filtres de fichiers par défaut peuvent être ignorés si une configuration spécifique à un projet est effectuée (voir ci-dessus).</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T135722Z">
+        <seg>Veuillez noter que la segmentation et les filtres de fichiers par défaut peuvent être ignorés si une configuration spécifique à un projet est effectuée (voir ci-dessus).</seg>
       </tuv>
     </tu>
     <tu>
@@ -20558,8 +20558,8 @@ contenant votre dossier de base est refusé à OmegaT.</seg>
       <tuv lang="EN">
         <seg>OmegaT is supplied as a package that can be downloaded from SourceForge.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130416T092153Z">
-        <seg>OmegaT est fourni sous forme de package et peut être téléchargé sur SourceForge.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T135902Z">
+        <seg>OmegaT est fourni sous forme de paquet et peut être téléchargé sur SourceForge.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24118,8 +24118,8 @@ REPAIR OR CORRECTION.</seg>
       <tuv lang="EN">
         <seg>See &lt;u0&gt;Oracle documentation&lt;/u0&gt; for examples of the "SimpleDateFormat" patterns</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130429T092711Z">
-        <seg>Voir &lt;u0&gt;Manuel Oracle&lt;/u0&gt;pour des exemple de masques  "SimpleDateFormat"</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T135158Z">
+        <seg>Voir &lt;u0&gt;Manuel Oracle&lt;/u0&gt;pour des exemples de masques « SimpleDateFormat »</seg>
       </tuv>
     </tu>
     <tu>
@@ -26675,8 +26675,8 @@ Source.</seg>
       <tuv lang="EN">
         <seg>The Edit Pattern Dialog offers among others the following options:</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130429T092455Z">
-        <seg>La boite de dialogue "Modifier le masque" propose ces options :</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T135136Z">
+        <seg>La boite de dialogue « Modifier le masque » propose ces options :</seg>
       </tuv>
     </tu>
     <tu>
@@ -27470,8 +27470,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The file can usually be extracted by double-clicking on the downloaded package.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130416T093732Z">
-        <seg>Généralement, le fichier peut être extrait par un double-clic sur le package téléchargé.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T140053Z">
+        <seg>Généralement, le fichier peut être extrait par un double clic sur le paquet téléchargé.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28247,8 +28247,8 @@ an access to the hard drive of the computer.</seg>
       <tuv lang="EN">
         <seg>The platform-independent package can be used on any platform with a working Java 1.5 runtime environment, including the platforms for which a specific package also exists.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130430T125545Z">
-        <seg>Le package mutliplateforme peut être utilisé sur n'importe quelle plateforme possédant un Environnement d'Execution Java 1.5 en fonctionnement, y compris sur les plateformes pour lesquelles un package spécifique existe également.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T140041Z">
+        <seg>Le paquet mutliplateforme peut être utilisé sur n'importe quelle plate-forme possédant un environnement d'exécution Java 1.5 en fonctionnement, y compris sur les plates-formes pour lesquelles un paquet spécifique existe également.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29694,8 +29694,8 @@ under the terms of this General Public License.</seg>
       <tuv lang="EN">
         <seg>This can sometimes cause a little trouble when you are in the middle of a translation.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130430T112307Z">
-        <seg>Cela peut engendrer quelques problèmes si vous êtes au mileu d'une traduction.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T135307Z">
+        <seg>Cela peut engendrer quelques problèmes si vous êtes au milieu d'une traduction.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29846,8 +29846,8 @@ under the terms of this General Public License.</seg>
       <tuv lang="EN">
         <seg>This folder is initially empty.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130430T114451Z">
-        <seg>A l'origine, ce dossier est vide.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T135516Z">
+        <seg>À l'origine, ce dossier est vide.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30308,8 +30308,8 @@ be a consequence of the rest of this License.</seg>
       <tuv lang="EN">
         <seg>This subfolder is initially empty.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130430T122651Z">
-        <seg>A l'origine, ce sous-dossier est vide.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T135639Z">
+        <seg>À l'origine, ce sous-dossier est vide.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31208,8 +31208,8 @@ Kaptain.</seg>
       <tuv lang="EN">
         <seg>Top folder of a project always contains the file&lt;f0&gt; OmegaT.Project&lt;/f0&gt;, containing project parameters as defined in the Project properties window (&lt;g1&gt;Project &gt; Properties&lt;/g1&gt;).</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130415T150600Z">
-        <seg>Le dossier racine d'un projet contient toujours le fichier &lt;f0&gt; OmegaT.Project&lt;/f0&gt;, qui contient lui même les paramètres du projet tels qu'ils sont définis dans la fenêtre de propriétés du Projet (&lt;g1&gt;Projet &gt; Propriétés&lt;/g1&gt;).</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T135446Z">
+        <seg>Le dossier racine d'un projet contient toujours le fichier &lt;f0&gt; OmegaT.Project&lt;/f0&gt;, qui contient lui-même les paramètres du projet tels qu'ils sont définis dans la fenêtre de Propriétés du projet (&lt;g1&gt;Projet &gt; Propriétés&lt;/g1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -32332,8 +32332,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>User settings files: These are created when OmegaT's behavior is modified by user preference settings.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130430T112124Z">
-        <seg>Fichiers paramètres d'utilisateur : Ils sont créés si le comportement d'OmegaT est modifié par les paramètres de préférence de l'utilisateur.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T135255Z">
+        <seg>Fichiers paramètres d'utilisateur : ils sont créés si le comportement d'OmegaT est modifié par les paramètres de préférence de l'utilisateur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33230,8 +33230,8 @@ technological measures.</seg>
       <tuv lang="EN">
         <seg>While the translation is progressing, additional files (&lt;e2&gt;&lt;f3&gt;project_name&lt;/f3&gt;&lt;/e2&gt;&lt;f4&gt;-omegat.tmx, project_name-level1.tmx and project_name-level2.tmx&lt;/f4&gt;) are created (and updated during the process of translation) in this folder.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130430T113826Z">
-        <seg>Au fur et à mesure de la traduction, des fichiers supplémentaires  (&lt;e2&gt;&lt;f3&gt;project_name&lt;/f3&gt;&lt;/e2&gt;&lt;f4&gt;-omegat.tmx, project_name-level1.tmx et project_name-level2.tmx&lt;/f4&gt;) sont créés (et mis à jour) dans ce dossier.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T135458Z">
+        <seg>Au fur et à mesure de la traduction, des fichiers supplémentaires (&lt;e2&gt;&lt;f3&gt;project_name&lt;/f3&gt;&lt;/e2&gt;&lt;f4&gt;-omegat.tmx, project_name-level1.tmx et project_name-level2.tmx&lt;/f4&gt;) sont créés (et mis à jour) dans ce dossier.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35785,8 +35785,8 @@ de créer son dossier de configuration.</seg>
       <tuv lang="EN">
         <seg>contains the latest project match statistics, generated by &lt;g0&gt;Tools &gt; Match Statistics&lt;/g0&gt;</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130430T121303Z">
-        <seg>contient les dernières statistiques des correpondances du projet produites par &lt;g0&gt;Outils &gt; Statistiques des correspondances&lt;/g0&gt;</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T135605Z">
+        <seg>contient les dernières statistiques des correspondances du projet produites par &lt;g0&gt;Outils &gt; Statistiques des correspondances&lt;/g0&gt;</seg>
       </tuv>
     </tu>
     <tu>
