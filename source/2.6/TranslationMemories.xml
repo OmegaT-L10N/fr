@@ -17,7 +17,7 @@
       <title>tmx folders - location and purpose</title>
 
       <para><application>OmegaT</application> projects can have translation
-      memory files - i.e. files with the extension tmx - in four different
+      memory files - i.e. files with the extension tmx - in five different
       places:</para>
 
       <variablelist>
@@ -215,7 +215,7 @@
 
       <para><emphasis role="bold">several projects on the same subject:
       </emphasis>keep the project structure, and change source and target
-      directories (Source = source/order1, target = target/order1 etc). Note
+      folders (Source = source/order1, target = target/order1 etc). Note
       that you segments from order1, that are not present in order2 and other
       subsequent jobs, will be tagged as orphan segments; however, they will
       still be useful for getting fuzzy matches.</para>
@@ -229,7 +229,7 @@
       files are then collected and possible conflicts as regards terminology
       for instance get resolved. A new version of the master TM is then
       created, either to be put in team members'
-      <emphasis>tm/auto</emphasis>subdirectories or to replace their
+      <emphasis>tm/auto</emphasis>subfolders or to replace their
       <filename>project_save.tmx</filename> files. The team can also use the
       same subfolder structure for the target files. This allows them for
       instance to check at any moment, whether the target version for the
@@ -245,7 +245,7 @@
 
       <para>As you translate your files, <application>OmegaT</application>
       stores your work continually in <filename>project_save.tmx</filename> in
-      the project's /<filename>omegat</filename> subdirectory.</para>
+      the project's /<filename>omegat</filename> subfolders.</para>
 
       <para><application>OmegaT</application> also backups translation memory
       to <filename>project_save.tmx.YEARMMDDHHNN.bak</filename> in the same
@@ -503,7 +503,7 @@
       <itemizedlist>
         <listitem>
           <para>When you exit the project. the TMX files in the main project
-          folder (see above) now contain the transltions in the selected
+          folder (see above) now contain the translations in the selected
           language pair, for the files, you have copied into the source
           folder. Copy them to a safe place for future referrals.</para>
         </listitem>
@@ -558,13 +558,13 @@
       memory into the tm subfolder and rename it ZH_CN.tmx to indicate the
       target language of the tmx. The translator will be shown English
       translations for source segments in Dutch and use them to create the
-      Chinese translaiton.</para>
+      Chinese translation.</para>
 
       <para><emphasis role="bold">Important: </emphasis>the supporting TMX
       must be renamed XX_YY.tmx, where XX_YY is the target language of the
       tmx, for instance to ZH_CN.tmx in the example above. The project and TMX
       source languages should of course be identical - NL in our example. Note
-      that only one TMX for a given language pair is possible, so If several
+      that only one TMX for a given language pair is possible, so if several
       translation memories should be involved, you will need to merge them all
       into the XX_YY.tmx.</para>
     </section>
@@ -636,7 +636,7 @@
 
     <para>Replace <literal>&lt;filename&gt;</literal> with the name of the
     file you wish to create, either absolute or relative to the working
-    directory (the directory you start <application>OmegaT</application>
+    folder (the folder you start <application>OmegaT</application>
     from). The second argument <literal>--pseudotranslatetype</literal> is
     optional. Its value is either <literal>equal</literal> (default value, for
     source=target) or <literal>empty</literal> (target segment is empty). You
@@ -656,7 +656,7 @@
     <para>Very early versions of <application>OmegaT</application> were
     capable of segmenting source files into paragraphs only and were
     inconsistent when numbering formatting tags in HTML and Open Document
-    files. <application>OmegaT</application> 2.5 can detect and upgrade such
+    files. <application>OmegaT</application> can detect and upgrade such
     tmx files on the fly to increase fuzzy matching quality and leverage your
     existing translation better, saving you the work of doing this
     manually.</para>
@@ -665,7 +665,7 @@
     upgraded form into the <filename>project-save.tmx</filename>; legacy tmx
     files will be upgraded on the fly each time the project is loaded. Note
     that in some cases changes in file filters in
-    <application>OmegaT</application> 2.5 may lead to totally different
+    <application>OmegaT</application> may lead to totally different
     segmentation; as a result, you will have to upgrade your translation
     manually in such rare cases.</para>
   </section>
