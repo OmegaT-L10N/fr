@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.2" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.2_2" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1156,8 +1156,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>(#N is a digit from 1 to 5) - Selects the Nth fuzzy match displayed in the match viewer to replace or insert it to the segment.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130503T092943Z">
-        <seg>(# N est un chiffre compris entre 1 et 5) - Sélectionne la correspondance n°=N affichée dans la fenêtre des Correspondances pour vous permettre d'effectuer un remplacement ou une insertion dans le segment.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T152527Z">
+        <seg>(n est un chiffre compris entre 1 et 5) - Sélectionne la correspondance n°=n affichée dans la fenêtre des Correspondances pour vous permettre d'effectuer un remplacement ou une insertion dans le segment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3835,8 +3835,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;#N&lt;/k1&gt;</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130503T092817Z">
-        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;# N&lt;/k1&gt;</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T152507Z">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;n&lt;/k1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7531,8 +7531,8 @@ rights of fair use or other equivalent, as provided by copyright law.</seg>
       <tuv lang="EN">
         <seg>All the relevant tags in the source - i.e. OmegaT as well as custom, Java, printf etc tags - will be inserted into the current target, regardless of whether they are already there or not.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130503T091740Z">
-        <seg>Toutes les balises pertinentes présentes dans la source - c.à.d les balises d'OmegaT ainsi que, selon les besoin, celle de Java, printf etc - seront insérées dans le segment en cours (qu'elle y soient, ou non, déjà présentes).</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T152344Z">
+        <seg>Toutes les balises pertinentes présentes dans la source - c.à.d les balises d'OmegaT ainsi que les balises personnalisées, Java, printf, etc. - seront insérées dans le segment en cours (qu'elles y soient, ou non, déjà présentes).</seg>
       </tuv>
     </tu>
     <tu>
@@ -9048,8 +9048,8 @@ software--to make sure the software is free for all its users.</seg>
       <tuv lang="EN">
         <seg>Changes the case of the highlighted text in the target segment to the selected option (Lower case, Upper case or Title case).</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130503T092652Z">
-        <seg>Change la casse du texte sélectionné dans le segment cible en fonction de l'option séléctionnée (Minuscule, Majuscule ou 1ère lettre des mots en majuscule).</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T152418Z">
+        <seg>Change la casse du texte sélectionné dans le segment cible en fonction de l'option sélectionnée (Minuscule, Majuscule ou 1ère lettre des mots en majuscule).</seg>
       </tuv>
     </tu>
     <tu>
@@ -14793,8 +14793,8 @@ tous les paramètres reprendront leur valeur par défaut,
       <tuv lang="EN">
         <seg>If no text is selected, &lt;a1&gt;OmegaT&lt;/a1&gt; selects the word that contains the letter immediately to the right of the cursor.</seg>
       </tuv>
-      <tuv lang="FR" changeid="samsung" changedate="20130421T164230Z">
-        <seg>Si aucun texte n'est séléctionné, &lt;a1&gt;OmegaT&lt;/a1&gt;  sélectionne le mot qui contient la lettre se trouvant immédiatement à la droite du curseur.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T152433Z">
+        <seg>Si aucun texte n'est sélectionné, &lt;a1&gt;OmegaT&lt;/a1&gt; sélectionne le mot qui contient la lettre se trouvant immédiatement à la droite du curseur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15582,8 +15582,8 @@ OmegaT is to use Java Web Start.</seg>
       <tuv lang="EN">
         <seg>If you haven't yet saved the project, this manually confirms whether you really wish to quit.</seg>
       </tuv>
-      <tuv lang="FR" changeid="samsung" changedate="20130421T115711Z">
-        <seg>Si le projet n'a pas encore été enregistré, il vous sera demandé de confimer manuellement si vous voulez quitter.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T152107Z">
+        <seg>Si le projet n'a pas encore été enregistré, il vous sera demandé de confirmer manuellement si vous voulez quitter.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16664,8 +16664,8 @@ patent against the party.</seg>
       <tuv lang="EN">
         <seg>Inserts the currently selected fuzzy match at the cursor position.</seg>
       </tuv>
-      <tuv lang="FR" changeid="samsung" changedate="20130421T133551Z">
-        <seg>Insère la correspondance séléctionnée à l'endroit où se trouve le curseur.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T152230Z">
+        <seg>Insère la correspondance sélectionnée à l'endroit où se trouve le curseur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16680,16 +16680,16 @@ patent against the party.</seg>
       <tuv lang="EN">
         <seg>Inserts the source at the cursor position.</seg>
       </tuv>
-      <tuv lang="FR" changeid="samsung" changedate="20130421T133533Z">
-        <seg>Insère la source à l'endoit où se trouve le curseur.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T152234Z">
+        <seg>Insère la source à l’endroit où se trouve le curseur.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Inserts the source tags at the cursor position.</seg>
       </tuv>
-      <tuv lang="FR" changeid="samsung" changedate="20130421T133749Z">
-        <seg>Insère les balises source à l'endoit où se trouve le curseur.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T152352Z">
+        <seg>Insère les balises source à l'endroit où se trouve le curseur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20012,8 +20012,8 @@ measures.</seg>
       <tuv lang="EN">
         <seg>Note: Items that are found in most applications (copy/cut/paste) are not displayed in this menu, but are available using your system shortcuts.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130503T090435Z">
-        <seg>Remarque : Les éléments que l'on retrouve dans la plupart des applications (copier/couper/coller) ne sont pas affichés dans ce menu. Vous pouvez les utiliser grâce aux raccourcis clavier de votre système.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T152120Z">
+        <seg>Remarque : les éléments que l'on retrouve dans la plupart des applications (copier/couper/coller) ne sont pas affichés dans ce menu. Vous pouvez les utiliser grâce aux raccourcis clavier de votre système.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22980,8 +22980,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Reloads the project to take external changes in source files, legacy translation memories, glossaries and project settings into account.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130503T085704Z">
-        <seg>Recharge le projet pour prendre en compte les changements exterieurs affectant les fichiers sources, les mémoires de traduction existantes, les glossaires et les paramètres du projet.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T152042Z">
+        <seg>Recharge le projet pour prendre en compte les changements extérieurs affectant les fichiers sources, les mémoires de traduction existantes, les glossaires et les paramètres du projet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23284,8 +23284,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Replaces the whole target segment with the currently selected fuzzy match (by default the first match is selected).</seg>
       </tuv>
-      <tuv lang="FR" changeid="samsung" changedate="20130421T133001Z">
-        <seg>Remplace le segment cible complet par la correspondance séléctionnée (par défaut, c'est la première correspondance qui est séléctionnée).</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T152217Z">
+        <seg>Remplace le segment cible complet par la correspondance sélectionnée (par défaut, c'est la première correspondance qui est sélectionnée).</seg>
       </tuv>
     </tu>
     <tu>
@@ -23380,7 +23380,7 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Restores the status before the last editing action was taken.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130503T090945Z">
+      <tuv lang="FR" changeid="Didier" changedate="20130527T152203Z">
         <seg>Restaure le projet pour le rendre tel qu'il était avant la dernière action d'édition effectuée.</seg>
       </tuv>
     </tu>
@@ -24438,8 +24438,8 @@ REPAIR OR CORRECTION.</seg>
       <tuv lang="EN">
         <seg>Select Fuzzy Match #N</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130503T092802Z">
-        <seg>Chosir la correspondance # N</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T152436Z">
+        <seg>Choisir la correspondance # N</seg>
       </tuv>
     </tu>
     <tu>
@@ -26389,8 +26389,8 @@ dossier actuel sera utilisé à la place.</seg>
       <tuv lang="EN">
         <seg>The "Cmd" key either has a "command" label or an apple symbol on Apple keyboards.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130503T085120Z">
-        <seg>Sur les claviers Apple, la touche "Cmd" est soit représentée par le mot  "command", soit par une image de pomme.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T152029Z">
+        <seg>Sur les claviers Apple, la touche « Cmd » est soit représentée par le mot « command », soit par une image de pomme.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32108,8 +32108,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>Use Shift+F3 &lt;i0/&gt;to cycle through the three alternatives.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130503T092724Z">
-        <seg>Utilisez  Maj+F3 &lt;i0/&gt; pour passer d'une option à l'autre.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T152421Z">
+        <seg>Utilisez Maj+F3 &lt;i0/&gt; pour passer d'une option à l'autre.</seg>
       </tuv>
     </tu>
     <tu>
