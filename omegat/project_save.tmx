@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.2" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.2_2" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -132,8 +132,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>#N is a digit from 1 to 5.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130503T114122Z">
-        <seg># N est un chiffre compris entre 1 et 5.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T153326Z">
+        <seg>n est un chiffre compris entre 1 et 5.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4059,8 +4059,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>&lt;k0&gt;F1:&lt;/k0&gt; Opens Help browser displaying this manual in a separate window.</seg>
       </tuv>
-      <tuv lang="FR" changeid="samsung" changedate="20130421T220353Z">
-        <seg>&lt;k0&gt;F1 :&lt;/k0&gt; Ouvre le navigateur Aide qui affiche ce manuel dans une fenêtre séparée.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T153126Z">
+        <seg>&lt;k0&gt;F1 :&lt;/k0&gt; ouvre le navigateur d'aide qui affiche ce manuel dans une fenêtre séparée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10036,8 +10036,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="EN">
         <seg>Creates the translated documents in the project's Target folder and creates translation memory files (level1, level2 and omegat tmx files) in the project's root folder.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130503T113941Z">
-        <seg>Crée les documents traduits dans le dossier cible du projet et crée des fichiers de mémoire de traduction (level1, level2 et fichiers tmx omegat) dans le dossier racine du projet.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T153312Z">
+        <seg>Crée les documents traduits dans le dossier cible du projet et crée des fichiers de mémoire de traduction (fichiers TMX level1, level2 et omegat) dans le dossier racine du projet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10116,8 +10116,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="EN">
         <seg>Ctrl is used on Windows, UNIX and UNIX-like operating systems with keyboards featuring a &lt;k0&gt;Ctrl&lt;/k0&gt; / &lt;k1&gt;Control key&lt;/k1&gt;.</seg>
       </tuv>
-      <tuv lang="FR" changeid="samsung" changedate="20130421T221007Z">
-        <seg>Ctrl est utilisé sur Windows, UNIX et les systèmes opérateurs fonctionnant comme UNIX avec des claviers comportant une touche  &lt;k0&gt;Ctrl&lt;/k0&gt; / &lt;k1&gt;touche Control&lt;/k1&gt;.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T153231Z">
+        <seg>Ctrl est utilisé sur Windows, Unix et les systèmes d'exploitation fonctionnant comme Unix avec des claviers comportant une touche &lt;k0&gt;Ctrl&lt;/k0&gt; / &lt;k1&gt;touche Control&lt;/k1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10838,16 +10838,16 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="EN">
         <seg>Displays the &lt;a0&gt;OmegaT&lt;/a0&gt; help files in a separate window</seg>
       </tuv>
-      <tuv lang="FR" changeid="samsung" changedate="20130421T233955Z">
-        <seg>Affiche le fichier Aide d'&lt;a0&gt;OmegaT&lt;/a0&gt; dans une fenêtre séparée.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T153434Z">
+        <seg>Affiche les fichiers d'aide d'&lt;a0&gt;OmegaT&lt;/a0&gt; dans une fenêtre séparée.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Displays the &lt;l0&gt;File filters&lt;/l0&gt; dialog to configure file handling and parsing.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130503T112245Z">
-        <seg>Affiche la boite de dialoge &lt;l0&gt;Fichiers et filtres...&lt;/l0&gt; qui permet de configurer l'analyse syntaxique et le traitement des fichiers.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T153010Z">
+        <seg>Affiche la boite de dialogue &lt;l0&gt;Fichiers et filtres...&lt;/l0&gt; qui permet de configurer l'analyse syntaxique et le traitement des fichiers.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10870,8 +10870,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="EN">
         <seg>Displays the Match Statistics for the project: the number of repetitions, exact matches, fuzzy matches and no-matches, for segments, words and in characters.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130503T095646Z">
-        <seg>Affiche les Statistiques des Correspondances du projet : le nombre de répétitions, de correspondances exactes, de correspondances partielles et d'absences de correspondances pour les segments, les mots et les caractères.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T152859Z">
+        <seg>Affiche les Statistiques des correspondances du projet : le nombre de répétitions, de correspondances exactes, de correspondances partielles et d'absences de correspondances pour les segments, les mots et les caractères.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13222,8 +13222,8 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       <tuv lang="EN">
         <seg>For programmers: Allows you to configure the Tag Validator options to check also programming (%...) variables.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130503T112630Z">
-        <seg>Pour les programmeurs : Permet de configurer les options de validation des balises afin de vérifier également la programmation des variables (...%).</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T153039Z">
+        <seg>Pour les programmeurs : permet de configurer les options de validation des balises afin de vérifier également les variables de programmation (%...).</seg>
       </tuv>
     </tu>
     <tu>
@@ -14033,8 +14033,8 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       <tuv lang="EN">
         <seg>Help files</seg>
       </tuv>
-      <tuv lang="FR" changeid="samsung" changedate="20130421T233842Z">
-        <seg>Fichiers Aide</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T153439Z">
+        <seg>Fichiers d'aide</seg>
       </tuv>
     </tu>
     <tu>
@@ -16696,16 +16696,16 @@ patent against the party.</seg>
       <tuv lang="EN">
         <seg>Inserts the source tags into the target segment at the cursor position</seg>
       </tuv>
-      <tuv lang="FR" changeid="samsung" changedate="20130421T230257Z">
-        <seg>Insère les balises de la source dans le segment cible à l'endoit où se trouve le curseur.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T153350Z">
+        <seg>Insère les balises de la source dans le segment cible à l'endroit où se trouve le curseur.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Inserts the source text contents into the target segment at the cursor position</seg>
       </tuv>
-      <tuv lang="FR" changeid="samsung" changedate="20130421T230202Z">
-        <seg>Insère le contenu du texte source dans le segment cible à l'endoit où se trouve le curseur.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T153344Z">
+        <seg>Insère le contenu du texte source dans le segment cible à l'endroit où se trouve le curseur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16940,8 +16940,8 @@ exécutez simplement le programme d'installation.</seg>
       <tuv lang="EN">
         <seg>It can also be used when panes do not appear as expected following an OmegaT upgrade.</seg>
       </tuv>
-      <tuv lang="FR" changeid="samsung" changedate="20130421T220038Z">
-        <seg>Il peut également être utilisé lorsque les volets n'apparaissent plus comme prévu après une mise à jour OmegaT.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T153117Z">
+        <seg>Il peut également être utilisé lorsque les volets n'apparaissent plus comme prévu après une mise à jour d'OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18288,8 +18288,8 @@ automatically download and install it.</seg>
       <tuv lang="EN">
         <seg>Mac users should instead use the &lt;g2&gt;cmd+key.&lt;/g2&gt; On Apple keyboards the &lt;g3&gt;cmd&lt;/g3&gt; key either has a command label or an Apple icon on it.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130503T113601Z">
-        <seg>Les utilisateurs de Mac devront à la place appuyer sur &lt;g2&gt;cmd+key.&lt;/g2&gt; Sur le clavier Apple, la touche &lt;g3&gt;cmd&lt;/g3&gt; est représentée soit par le mot "command", soit par une image de pomme.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T153239Z">
+        <seg>Les utilisateurs de Mac devront à la place appuyer sur &lt;g2&gt;cmd+key.&lt;/g2&gt; Sur le clavier Apple, la touche &lt;g3&gt;cmd&lt;/g3&gt; est représentée soit par le mot « command », soit par une image de pomme.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19596,8 +19596,8 @@ measures.</seg>
       <tuv lang="EN">
         <seg>Non-visible formatting (i.e., which doesn't appear as tags in the OmegaT editor) is kept in the target document.</seg>
       </tuv>
-      <tuv lang="FR" changeid="samsung" changedate="20130421T182552Z">
-        <seg>Le formatage non-visible (c.à.d, qui ne figure pas en tant que balise dans l'éditeur OmegaT) est conservé dans le document cible.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T152748Z">
+        <seg>Le formatage non-visible (c.à.d qui ne figure pas en tant que balise dans l'éditeur OmegaT) est conservé dans le document cible.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24694,8 +24694,8 @@ REPAIR OR CORRECTION.</seg>
       <tuv lang="EN">
         <seg>Sets segment validation key to &lt;g0&gt;Tab&lt;/g0&gt; instead of the default &lt;g1&gt;Enter&lt;/g1&gt;.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130503T095721Z">
-        <seg>Définit &lt;g0&gt;Tab&lt;/g0&gt; comme touche de validation de segment à la place d' &lt;g1&gt;Entrée&lt;/g1&gt; (touche par défaut).</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T152912Z">
+        <seg>Définit &lt;g0&gt;Tab&lt;/g0&gt; comme touche de validation de segment à la place d'&lt;g1&gt;Entrée&lt;/g1&gt; (touche par défaut).</seg>
       </tuv>
     </tu>
     <tu>
@@ -26231,8 +26231,8 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       <tuv lang="EN">
         <seg>Team...</seg>
       </tuv>
-      <tuv lang="FR" changeid="laurieetclémentine" changedate="20130411T140758Z">
-        <seg>Equipe...</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T153042Z">
+        <seg>Équipe...</seg>
       </tuv>
     </tu>
     <tu>
@@ -28726,8 +28726,8 @@ protocols for communication across the network.</seg>
       <tuv lang="EN">
         <seg>The shortcut selects the Nth match displayed in the match window (the first match is selected by default)</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130503T114203Z">
-        <seg> Le raccourci sélectionne la correspondance n°=N affichée dans la fenêtre des Correspondances (la première correspondance est sélectionnée par défaut)</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T153333Z">
+        <seg> Le raccourci sélectionne la correspondance n°=n affichée dans la fenêtre des Correspondances (la première correspondance est sélectionnée par défaut)</seg>
       </tuv>
     </tu>
     <tu>
@@ -30097,8 +30097,8 @@ this version will not interfere with it.</seg>
       <tuv lang="EN">
         <seg>This is useful when dealing with texts where inline formatting has no real use (e.g., OCRed PDF, bad converted .odt or .docx, etc.) Only inline tags are removed, so normally there should be no problem with opening the target documents.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130503T095548Z">
-        <seg>Cela est utile lorsqu'il s'agit de textes où le formatage en ligne n'est pas véritablement indispensable (par exemple : OCRed PDF, .odt ou .docx mal convertis, etc). Seules les balises en ligne sont supprimées, de sorte qu'il ne devrait normalement y avoir aucun problème avec l'ouverture des documents cibles.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T152733Z">
+        <seg>Cela est utile lorsqu'il s'agit de textes où le formatage en ligne n'est pas véritablement indispensable (par exemple : PDF traités par une reconnaissance optique de caractères, .odt ou .docx mal convertis, etc.). Seules les balises en ligne sont supprimées, de sorte qu'il ne devrait normalement y avoir aucun problème avec l'ouverture des documents cibles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32893,16 +32893,16 @@ you have just discovered.</seg>
       <tuv lang="EN">
         <seg>When active, &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; will insert the suggestion into the target part of the current segment.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130503T095833Z">
-        <seg>Lorsqu'il est actif, &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; insérera la sugestion dans la partie cible du segment en cours.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T152956Z">
+        <seg>Lorsqu'il est actif, &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; insérera la suggestion dans la partie cible du segment en cours.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>When another window is on the foreground, click on the main window to bring it to the foreground or press &lt;k0&gt;Esc&lt;/k0&gt; to close the other window.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130503T113344Z">
-        <seg>Quand une autre fenêtre est au premier plan, cliquez sur la fenêtre principale pour l'amener au premier plan ou appuyez sur &lt;k0&gt; Echap &lt;/k0&gt; pour fermer l'autre fenêtre.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T153152Z">
+        <seg>Quand une autre fenêtre est au premier plan, cliquez sur la fenêtre principale pour l'amener au premier plan ou appuyez sur &lt;k0&gt;Échap&lt;/k0&gt; pour fermer l'autre fenêtre.</seg>
       </tuv>
     </tu>
     <tu>
