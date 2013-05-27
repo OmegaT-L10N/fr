@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.2" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.2_2" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4915,8 +4915,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Menu Options&lt;/p0&gt; &lt;s1&gt;Editing behaviour&lt;/s1&gt; &lt;t2&gt;Segments with alternative translation&lt;/t2&gt;</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130429T135908Z">
-        <seg>&lt;p0&gt;Menu Options&lt;/p0&gt; &lt;s1&gt;Ligne d'édition...&lt;/s1&gt; &lt;t2&gt;"Atteindre segment non traduit suivant" s'arrête lorsqu'il y a au moins une traduction alternative&lt;/t2&gt;</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T133914Z">
+        <seg>&lt;p0&gt;Menu Options&lt;/p0&gt; &lt;s1&gt;Ligne d'édition...&lt;/s1&gt; &lt;t2&gt;Segments comportant une traduction alternative&lt;/t2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7563,8 +7563,8 @@ rights of fair use or other equivalent, as provided by copyright law.</seg>
       <tuv lang="EN">
         <seg>Allow the translation to be equal to source</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130415T094536Z">
-        <seg>Autorise un traduction identique à la source</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T133638Z">
+        <seg>Autoriser une traduction identique à la source</seg>
       </tuv>
     </tu>
     <tu>
@@ -12261,8 +12261,8 @@ The FSF strongly urges you not to use this translation as the official distribu-
       <tuv lang="EN">
         <seg>Export the segment to text files</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130415T095439Z">
-        <seg>Exporte le segment dans des fichiers texte</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T133726Z">
+        <seg>Exporter le segment dans des fichiers texte</seg>
       </tuv>
     </tu>
     <tu>
@@ -13737,8 +13737,8 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       <tuv lang="EN">
         <seg>Go To Next Untranslated Segment stops where there is at least one alternative translation</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130415T101344Z">
-        <seg>"Atteindre segment non traduit suivant' s'arrête lorsqu'il y a au moins une traduction alternative</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T133924Z">
+        <seg>Atteindre segment non traduit suivant s'arrête lorsqu'il y a au moins une traduction alternative</seg>
       </tuv>
     </tu>
     <tu>
@@ -15249,8 +15249,8 @@ Public License instead of this License.</seg>
       <tuv lang="EN">
         <seg>If we want to avoid any mis-translations in case of segments with several possible target contents, checking this check box will cause &lt;e0&gt; Go To Next Untranslated Segment&lt;/e0&gt;stop on the next such segment, irrespective of whether it has already been translated or not.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130429T140110Z">
-        <seg>Pour éviter toute erreur de traduction dans le cas de segments avec plusieurs contenus cible possibles, cocher cette case obligera  &lt;e0&gt; "Atteindre segment non traduit suivant'&lt;/e0&gt; à s'arrêter au segment suivant de ce type, sans tenir compte du fait qu'il ait été traduit ou non. </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T133953Z">
+        <seg>Pour éviter toute erreur de traduction dans le cas de segments avec plusieurs contenus cible possibles, cocher cette case obligera &lt;e0&gt;Atteindre segment non traduit suivant&lt;/e0&gt; à s'arrêter au segment suivant de ce type, sans tenir compte du fait qu'il ait été traduit ou non.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16656,8 +16656,8 @@ patent against the party.</seg>
       <tuv lang="EN">
         <seg>Insert the best fuzzy match</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130415T092035Z">
-        <seg>Insère la meilleure correpondance partielle</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T133555Z">
+        <seg>Insère la meilleure correspondance partielle</seg>
       </tuv>
     </tu>
     <tu>
@@ -20482,8 +20482,8 @@ vérificateur orthographique intégré basé sur le vérificateur d'orthographe 
       <tuv lang="EN">
         <seg>OmegaT inserts the translation of the string most similar to the current source, if it is above the similarity threshold that you have selected in this dialog.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130429T133037Z">
-        <seg>OmegaT insère la traduction de la chaîne de caractères la plus proche du texte source en cours si celle-ci est au dessus du niveau minimum de correspondance que vous avez sélectionné dans la boîte de dialogue.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T133605Z">
+        <seg>OmegaT insère la traduction de la chaîne de caractères la plus proche du texte source en cours si celle-ci est au-dessus du niveau minimum de correspondance que vous avez sélectionné dans la boîte de dialogue.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20514,8 +20514,8 @@ vérificateur orthographique intégré basé sur le vérificateur d'orthographe 
       <tuv lang="EN">
         <seg>OmegaT is able to recognize that you have done this.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130429T134702Z">
-        <seg>OmegaT arrive à reconnnaître ce que vous avez fait.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T133700Z">
+        <seg>OmegaT arrive à reconnaître ce que vous avez fait.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24134,8 +24134,8 @@ REPAIR OR CORRECTION.</seg>
       <tuv lang="EN">
         <seg>See &lt;u0&gt;Using the OmegaT text export function&lt;/u0&gt; for specifics, examples and suggestions.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130429T135808Z">
-        <seg>Voir le &lt;u0&gt;Guide d'utilisation de la fonction d'exportation de texte d'OmegaT (interface de script) (en anglais)&lt;/u0&gt;  pour des détails, des exemples et des suggestions.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T133836Z">
+        <seg>Voir le &lt;u0&gt;Guide d'utilisation de la fonction d'exportation de texte d'OmegaT (interface de script) (en anglais)&lt;/u0&gt; pour des détails, des exemples et des suggestions.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27318,8 +27318,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The dialog in &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Editing Behavior...&lt;/g2&gt; &lt;/m0&gt; enables the user to select, how the current segment in the editing field is to be initialized and handled:</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130429T131734Z">
-        <seg>La boîte de dialogue du menu &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Ligne d'édition...&lt;/g2&gt; &lt;/m0&gt; permet à l'utilisateur de choisir comment le segment actuellement présent  dans la ligne d'édition sera initialisé et géré : </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T133422Z">
+        <seg>La boîte de dialogue du menu &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Ligne d'édition...&lt;/g2&gt; &lt;/m0&gt; permet à l'utilisateur de choisir comment le segment actuellement présent dans la ligne d'édition sera initialisé et géré : </seg>
       </tuv>
     </tu>
     <tu>
@@ -29472,8 +29472,8 @@ distribute copies of the software, or if you modify it.</seg>
       <tuv lang="EN">
         <seg>They are displayed as &lt;EMPTY&gt; in the Editor.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130415T091452Z">
-        <seg>Elles sont affichées en tant que &lt;VIDE&gt; dans l'Editeur.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T133517Z">
+        <seg>Elles sont affichées en tant que &lt;VIDE&gt; dans l'Éditeur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30642,8 +30642,8 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="EN">
         <seg>To create one, right-click in a segment, and select "&lt;e2&gt;Set empty translation&lt;/e2&gt;".</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130429T132655Z">
-        <seg>Pour créer une traduction vide, cliquez-droit dans un des segments et sélectionnez "&lt;e2&gt;Définir traduction vide&lt;/e2&gt;".</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T133540Z">
+        <seg>Pour créer une traduction vide, cliquez-droit dans un des segments et sélectionnez « &lt;e2&gt;Définir traduction vide&lt;/e2&gt; ».</seg>
       </tuv>
     </tu>
     <tu>
@@ -32949,8 +32949,8 @@ you have just discovered.</seg>
       <tuv lang="EN">
         <seg>When moving between segments, you may wish to populate the editing field with an existing translation in the fuzzy match pane or with the source text.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130429T132105Z">
-        <seg>En vous déplaçant d'un segment à l'autre, vous pouvez remplir la ligne d'édition soit avec une traduction pré-éxistante, située dans le panneau de correspondances, soit avec le texte source.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T133437Z">
+        <seg>En vous déplaçant d'un segment à l'autre, vous pouvez remplir la ligne d'édition soit avec une traduction pré-existante, située dans le panneau des correspondances, soit avec le texte source.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33720,8 +33720,8 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       <tuv lang="EN">
         <seg>You achieve the same by clearing the target segment and pressing &lt;g4&gt;Enter.&lt;/g4&gt;</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130429T132927Z">
-        <seg>Vous obtiendrez le même résultat en effacant le segment cible et en appuyant sur &lt;g4&gt;Entrée.&lt;/g4&gt; </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T133549Z">
+        <seg>Vous obtiendrez le même résultat en effaçant le segment cible et en appuyant sur &lt;g4&gt;Entrée.&lt;/g4&gt; </seg>
       </tuv>
     </tu>
     <tu>
