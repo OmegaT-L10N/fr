@@ -48,8 +48,8 @@ modification has been made.</seg>
       <tuv lang="EN">
         <seg>"Tag groups" in this context are a single tag (such as &lt;i0&gt; and &lt;/i0&gt;).</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130430T133803Z">
-        <seg>Dans ce contexte, les "groupes de balises" représentent une balise unique (telle que &lt;i0&gt; et &lt;/i0&gt;).</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T141820Z">
+        <seg>Dans ce contexte, les « groupes de balises » représentent une balise unique (telle que &lt;i0&gt; et &lt;/i0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2395,8 +2395,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>&lt;&lt;l0&gt;Log file (&lt;b0&gt;log.txt&lt;/b0&gt;) for tracking operations and errors.&lt;segment 3167&gt;&lt;/l0&gt;</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130430T135219Z">
-        <seg>&lt;&lt;l0&gt;Fichier journal(&lt;b0&gt;log.txt&lt;/b0&gt;) : pour le suivi des opérations et des erreurs.&lt;/l0&gt;</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T142014Z">
+        <seg>&lt;&lt;l0&gt;Fichier journal (&lt;b0&gt;log.txt&lt;/b0&gt;) : pour le suivi des opérations et des erreurs.&lt;/l0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2475,8 +2475,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; creates its tags before the process of sentence segmenting.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130430T135313Z">
-        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt;  crée ses balises avant de procéder à la segmentation des phrases.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T142017Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; crée ses balises avant de procéder à la segmentation des phrases.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2667,8 +2667,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>&lt;b0&gt; and &lt;/b0&gt; below are paired and affect the text log.txt.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130430T134703Z">
-        <seg>&lt;b0&gt; et  &lt;/b0&gt; ci-dessus sont doubles et affectent le texte log.txt .</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T142000Z">
+        <seg>&lt;b0&gt; et &lt;/b0&gt; ci-dessus sont doubles et affectent le texte log.txt .</seg>
       </tuv>
     </tu>
     <tu>
@@ -2691,8 +2691,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>&lt;b0&gt;Formatting &lt;b1&gt;one&lt;/b1&gt;&lt;/b0&gt; has been nested inside formatting zero.&lt;segment 0001&gt;</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130416T145116Z">
-        <seg>&lt;b0&gt;Le formatage &lt;b1&gt;un&lt;/b1&gt;&lt;/b0&gt;  a été imbriqué à l'intérieur du formatage zéro.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T142116Z">
+        <seg>&lt;b0&gt;Le formatage &lt;b1&gt;un&lt;/b1&gt;&lt;/b0&gt; a été imbriqué à l'intérieur du formatage zéro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16178,8 +16178,8 @@ the scope of this License.</seg>
       <tuv lang="EN">
         <seg>In other words, when moving paired tags, ensure that both the opening and the closing tag are both either inside or outside other tag pairs, or the translated file may be corrupted and fail to open.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130430T141136Z">
-        <seg>Autrement dit, lorque vous déplacez une paire de balises, assurez vous que la balise ouvrante et la balise fermante soient bien toutes les deux à l'intérieur ou à l'extérieur d'une autre paire de balises. Dans le cas contraire, le fichier traduit risquerait d'être endommagé et de ne pas pouvoir s'ouvrir. </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T142112Z">
+        <seg>Autrement dit, lorque vous déplacez une paire de balises, assurez-vous que la balise ouvrante et la balise fermante sont bien toutes les deux à l'intérieur ou à l'extérieur d'une autre paire de balises. Dans le cas contraire, le fichier traduit risquerait d'être endommagé et de ne pas pouvoir s'ouvrir. </seg>
       </tuv>
     </tu>
     <tu>
@@ -33408,8 +33408,8 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       <tuv lang="EN">
         <seg>Within a segment, the first group (pair or single) receives the number 0, the second the number 1 etc.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130430T133904Z">
-        <seg>A l'intérieur d'un segment, le premier groupe (unique ou double) reçoit le numéro 0, le deuxième le numéro 1, etc. (</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T141826Z">
+        <seg>À l'intérieur d'un segment, le premier groupe (unique ou double) reçoit le numéro 0, le deuxième le numéro 1, etc. (</seg>
       </tuv>
     </tu>
     <tu>
