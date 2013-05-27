@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.2" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.2_2" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1718,8 +1718,8 @@ le programme d'installation peut créer des raccourcis pour vous dans le menu d�
       <tuv lang="EN">
         <seg>- comparative, nominative, masculine, feminine, neutral, resp. Plural form of the adjective</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130429T071130Z">
-        <seg>- comparatif nominatif : masculin, feminin, neutre ; qui sont respectivement les formes plurielles des adjectifs</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T132537Z">
+        <seg>- comparatif nominatif : masculin, féminin, neutre ; qui sont respectivement les formes plurielles des adjectifs</seg>
       </tuv>
     </tu>
     <tu>
@@ -5979,8 +5979,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Stemmer&lt;/p0&gt; &lt;s1&gt;Tokenizer&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="FR" changeid="laurieetclémentine" changedate="20130412T112646Z">
-        <seg>&lt;p0&gt;Tokenizer&lt;/p0&gt; &lt;s1&gt;Stemmer&lt;/s1&gt;</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T132359Z">
+        <seg>&lt;p0&gt;Tokenizer&lt;/p0&gt; &lt;s1&gt;Lemmatiseur&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6941,16 +6941,16 @@ included in conveying the object code work.</seg>
       <tuv lang="EN">
         <seg>A stemmer for English, for example, should identify the string "cats" (and possibly "catlike", "catty" etc.) as based on the root "cat", and "stemmer", "stemming", "stemmed" as based on "stem".</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130502T084250Z">
-        <seg>Un lemmatiseur Anglais, par exemple, doit pouvoir identifier la chaîne de caractères « chats » (et éventuellement  « chattons », « chatière » etc.) comme ayant pour racine la chaîne de caractères « chat », et « lemmatiser », « lemmatisation », « lemmatiseur » comme ayant pour racine la chaîne de caractères « lemmati ».</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T132444Z">
+        <seg>Un lemmatiseur Anglais, par exemple, doit pouvoir identifier la chaîne de caractères « chats » (et éventuellement « chattons », « chatière », etc.) comme ayant pour racine la chaîne de caractères « chat », et « lemmatiser », « lemmatisation », « lemmatiseur » comme ayant pour racine la chaîne de caractères « lemmati ».</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>A stemming algorithm reduces the words "fishing", "fished", "fish", and "fisher" to the root word, "fish".</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130502T084221Z">
-        <seg>Un algorithme de lemmatisation réduit les mots « pêcher », « pêché », « pêche », et  « pêcheur » au mot racine : « pêche ».</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T132453Z">
+        <seg>Un algorithme de lemmatisation réduit les mots « pêcher », « pêché », « pêche », et « pêcheur » au mot racine : « pêche ».</seg>
       </tuv>
     </tu>
     <tu>
@@ -12846,8 +12846,8 @@ patents.</seg>
       <tuv lang="EN">
         <seg>Follow the instructions above to access the &lt;f1&gt;info.plist&lt;/f1&gt; file and edit it so that it looks as follows for the example we just gave:</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130429T072215Z">
-        <seg>Suivez les instructions ci-dessus pour accéder au fichier &lt;f1&gt;info.plist&lt;/f1&gt; et éditez le de sorte qu'il soit similaire à ce qui suit (n'oubliez pas de remplacer le nom des lemmatiseurs de l'exemple par ceux que vous aurez choisis) :</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T132612Z">
+        <seg>Suivez les instructions ci-dessus pour accéder au fichier &lt;f1&gt;info.plist&lt;/f1&gt; et éditez-le de sorte qu'il soit similaire à ce qui suit (n'oubliez pas de remplacer le nom des lemmatiseurs de l'exemple par ceux que vous aurez choisis) :</seg>
       </tuv>
     </tu>
     <tu>
@@ -15778,8 +15778,8 @@ to ask for permission.</seg>
       <tuv lang="EN">
         <seg>If you wish to use the tokenizers with the Mac OS X OmegaT.app package, the tokenizer installation described above applies (right-click on OmegaT.app to find the location of OmegaT.jar), but you'll need to specify the tokenizer names in the &lt;f0&gt;info.plist &lt;/f0&gt;that contains the Java launch options.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130429T071857Z">
-        <seg>Si vous souhaitez utiliser les lemmatiseurs avec le package Mac OS X OmegaT.app , l'installation du lemmatiseur décrite ci-dessus s'applique (clic droit sur OmegaT.app pour trouver l'emplacement du fichier OmegaT.jar), mais vous devrez spécifier les noms des lémmatiseurs dans le fichier&lt;f0&gt;info.plist &lt;/f0&gt; qui contient les options de lancement de Java .</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T132601Z">
+        <seg>Si vous souhaitez utiliser les lemmatiseurs avec le paquet Mac OS X OmegaT.app, l'installation du lemmatiseur décrite ci-dessus s'applique (clic droit sur OmegaT.app pour trouver l'emplacement du fichier OmegaT.jar), mais vous devrez spécifier les noms des lemmatiseurs dans le fichier&lt;f0&gt;info.plist &lt;/f0&gt; qui contient les options de lancement de Java .</seg>
       </tuv>
     </tu>
     <tu>
@@ -17264,8 +17264,8 @@ dans le dossier de configuration.</seg>
       <tuv lang="EN">
         <seg>It will first commit the current contents to the server repository and then update the local copy of the repository - i.e. the contents of .svn subfolder - so that it is up to date with the latest repository version.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130429T124411Z">
-        <seg>Elle validera d'abord les contenus actuels dans le référentiel du serveur puis elle mettra à jour la copie locale du référentieI - soit, le contenu du sous-dossier .svn  - afin qu'elle soit à jour par rapport à la dernière version du référentiel.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T132219Z">
+        <seg>Elle validera d'abord les contenus actuels dans le référentiel du serveur puis elle mettra à jour la copie locale du référentiel - soit, le contenu du sous-dossier .svn  - afin qu'elle soit à jour par rapport à la dernière version du référentiel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18494,8 +18494,8 @@ le JRE est déjà installé sur Mac OX X antérieur à Mac OS X 10.7 (Lion).</se
       <tuv lang="EN">
         <seg>Make sure the field &lt;e1&gt;Checkout directory&lt;/e1&gt; is correct, i.e. specifies the empty folder you have created, and press &lt;e2&gt;OK&lt;/e2&gt;.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20130527T132002Z">
-        <seg>Assurez vous que le champ&lt;e1&gt;Checkout directory&lt;/e1&gt;(Répertoire d'extraction) est correct, c'est-à-dire qu'il définit le dossier vide que vous avez créé, et appuyez sur&lt;e2&gt;OK&lt;/e2&gt;.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T132127Z">
+        <seg>Assurez-vous que le champ&lt;e1&gt;Checkout directory&lt;/e1&gt;(Répertoire d'extraction) est correct, c'est-à-dire qu'il définit le dossier vide que vous avez créé, et appuyez sur&lt;e2&gt;OK&lt;/e2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21042,8 +21042,8 @@ with exactly the same structure, including copies of any non-supported files.</s
       <tuv lang="EN">
         <seg>Once the team project is setup, team members only need &lt;a0&gt;OmegaT&lt;/a0&gt; to access the team project.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130429T125039Z">
-        <seg>Lorsque le projet en équipe est installé, les membres de l'équipe n'ont plus qu'à utiliser &lt;a0&gt;OmegaT&lt;/a0&gt; pour avoir accès au projet en équipe.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T132324Z">
+        <seg>Lorsque le projet en équipe est installé, les membres de l'équipe besoin que d'&lt;a0&gt;OmegaT&lt;/a0&gt; pour avoir accès au projet en équipe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28148,8 +28148,8 @@ sure this has not already been reported.</seg>
       <tuv lang="EN">
         <seg>The numbers on the left are likely to be different on your system so make sure that the source and target tokenizer names,specified in the start-up options, correspond to what the log is showing.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130429T072526Z">
-        <seg>Les nombres situés sur la gauche seront certainement différents sur votre système. Assurez-vous donc que les noms des lemmatisateurs source et cible, spécifiés dans les options de démarrage, correspondent à ce qu'affiche le journal.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T132646Z">
+        <seg>Les nombres situés sur la gauche seront certainement différents sur votre système. Assurez-vous donc que les noms des lemmatiseurs source et cible, spécifiés dans les options de démarrage, correspondent à ce qu'affiche le journal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31736,8 +31736,8 @@ Kaptain.</seg>
       <tuv lang="EN">
         <seg>Under Linux, if &lt;a2&gt;OmegaT&lt;/a2&gt; is still asking for your credentials, you can checking the &lt;g3&gt;Force saving password as plain text&lt;/g3&gt; checkbox.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130502T080140Z">
-        <seg>Sous Linux , si &lt;a2&gt;OmegaT&lt;/a2&gt; vous demande à nouveau vos références,  vous pouvez cocher la case &lt;g3&gt;Forcer l'enregistrement du mot de passe en texte en clair&lt;/g3&gt;.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T132246Z">
+        <seg>Sous Linux, si &lt;a2&gt;OmegaT&lt;/a2&gt; vous demande à nouveau vos références, vous pouvez cocher la case &lt;g3&gt;Forcer l'enregistrement du mot de passe en texte en clair&lt;/g3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33368,8 +33368,8 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       <tuv lang="EN">
         <seg>With the example above it should look like that:</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130429T072355Z">
-        <seg>Pour l'exemple utilisé ci-dessus, vous devriez voir ceci apparaitre :</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T132630Z">
+        <seg>Pour l'exemple utilisé ci-dessus, vous devriez voir ceci apparaître :</seg>
       </tuv>
     </tu>
     <tu>
@@ -38001,8 +38001,8 @@ de créer son dossier de configuration.</seg>
       <tuv lang="EN">
         <seg>lep, lepa, lepo - singular, masculine, feminine, neutral</seg>
       </tuv>
-      <tuv lang="FR" changeid="laurieetclémentine" changedate="20130412T120318Z">
-        <seg>lep, lepa, lepo - singulier : masculin, feminin, neutre</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T132510Z">
+        <seg>lep, lepa, lepo - singulier : masculin, féminin, neutre</seg>
       </tuv>
     </tu>
     <tu>
