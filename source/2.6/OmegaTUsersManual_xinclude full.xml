@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN"
 "../../../docbook-xml-4.5/docbookx.dtd">
+
 <book lang="en">
   <bookinfo>
-    <title>OmegaT - User's Guide</title>
+    <title>OmegaT 2.6 - User's Guide</title>
 
     <authorinitials>vs</authorinitials>
 
@@ -40,7 +41,7 @@
   <xi:include href="FileFilters.xml"
               xmlns:xi="http://www.w3.org/2001/XInclude"/>
 
-  <xi:include href="FilesAndDirectories.xml"
+  <xi:include href="FilesAndFolders.xml"
               xmlns:xi="http://www.w3.org/2001/XInclude"/>
 
   <xi:include href="FilesToTranslate.xml"
