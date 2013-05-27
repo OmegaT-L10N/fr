@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.2" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.2_2" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9144,8 +9144,8 @@ software--to make sure the software is free for all its users.</seg>
       <tuv lang="EN">
         <seg>Check in &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;&lt;i4/&gt;Ctrl&lt;/k3&gt; &lt;k5&gt;E&lt;/k5&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g6&gt;Project&lt;/g6&gt; &lt;g7&gt;Properties&lt;/g7&gt; &lt;/m0&gt;.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130429T131257Z">
-        <seg>Vérifiez dans &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;&lt;i4/&gt;Ctrl&lt;/k3&gt; &lt;k5&gt;E&lt;/k5&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g6&gt;Propriétés&lt;/g6&gt; &lt;g7&gt;du Projet&lt;/g7&gt; &lt;/m0&gt;.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T133404Z">
+        <seg>Vérifiez dans &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;&lt;i4/&gt;Ctrl&lt;/k3&gt; &lt;k5&gt;E&lt;/k5&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g6&gt;Propriétés&lt;/g6&gt; &lt;g7&gt;du projet&lt;/g7&gt; &lt;/m0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9184,8 +9184,8 @@ software--to make sure the software is free for all its users.</seg>
       <tuv lang="EN">
         <seg>Check that your dict files are in the correct folder (or in a subfolder below it).</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130429T131131Z">
-        <seg>Vérifiez que vos fichiers dict sont dans le bon dossier (ou à l'intérieur de ce dossier dans un sous-dossier).</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T133349Z">
+        <seg>Vérifiez que vos fichiers dictionnaire sont dans le bon dossier (ou à l'intérieur de ce dossier dans un sous-dossier).</seg>
       </tuv>
     </tu>
     <tu>
@@ -11070,8 +11070,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="EN">
         <seg>Does the folder contain three files of the same name, with extensions?</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130412T135025Z">
-        <seg>Le dossier contient-il trois fichiers du même nom avec des extensions?</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T133407Z">
+        <seg>Le dossier contient-il trois fichiers du même nom avec des extensions ?</seg>
       </tuv>
     </tu>
     <tu>
@@ -19820,8 +19820,8 @@ measures.</seg>
       <tuv lang="EN">
         <seg>Note that in addition to "source-target" dictionaries you can, using the Dictionary feature, obtain access to information such as:</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130429T130519Z">
-        <seg>Veuillez noter qu'en plus des dictionnaires "source-cible", vous pouvez, en utilisant la fonction Dictionnaire, avoir accès à des informations telles que :</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T133245Z">
+        <seg>Veuillez noter qu'en plus des dictionnaires « source-cible », vous pouvez, en utilisant la fonction Dictionnaire, avoir accès à des informations telles que :</seg>
       </tuv>
     </tu>
     <tu>
@@ -23926,8 +23926,8 @@ REPAIR OR CORRECTION.</seg>
       <tuv lang="EN">
         <seg>Search for the required language combination - for instance on the &lt;u0&gt;&lt;i1/&gt;StarDict Platform&lt;/u0&gt; above.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130429T125913Z">
-        <seg>Recherchez la combinaison de langues désirée (ex : sur la &lt;u0&gt;&lt;i1/&gt;Plate-forme StarDict&lt;/u0&gt; ci-dessus)</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T133151Z">
+        <seg>Recherchez la combinaison de langues désirée (ex. : sur la &lt;u0&gt;&lt;i1/&gt;plate-forme StarDict&lt;/u0&gt; ci-dessus)</seg>
       </tuv>
     </tu>
     <tu>
@@ -25071,8 +25071,8 @@ of the GPL, as needed to protect the freedom of users.</seg>
       <tuv lang="EN">
         <seg>Some of the dictionaries have no strings attached - i.e. are "Free to use", and others, like the selection above, are under the GPL license.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130429T130829Z">
-        <seg>Certains dictionnaires sont accessibles sans conditions (ou "libres d'usage") tandis que d'autres (comme la sélection ci-dessus)  sont soumis à la Licence GNU.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T133313Z">
+        <seg>Certains dictionnaires sont accessibles sans conditions (ou « libres d'usage ») tandis que d'autres (comme la sélection ci-dessus) sont soumis à la Licence GNU.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27558,8 +27558,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The following example shows Merriam Webster 10th dictionary "in action":</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130429T130911Z">
-        <seg>L'exemple suivant montre le dictionnaire Merriam Webster 10th "en action" : </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T133320Z">
+        <seg>L'exemple suivant montre le dictionnaire Merriam Webster 10th « en action » : </seg>
       </tuv>
     </tu>
     <tu>
@@ -30813,8 +30813,8 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
       <tuv lang="EN">
         <seg>To install the necessary files for the StarDict format, proceed as follows:</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130412T132650Z">
-        <seg>Pour installer les fichiers nécessaires au format StarDict, procédez comme suit :  </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T133139Z">
+        <seg>Pour installer les fichiers nécessaires au format StarDict, procédez comme suit : </seg>
       </tuv>
     </tu>
     <tu>
@@ -32180,8 +32180,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>Use untar utility (or its equivalent, for instance&lt;f0&gt; winrar&lt;/f0&gt; in Windows) to extract its contents into the project folder "Dictionary".</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130429T130247Z">
-        <seg>Utilisez l'utilitaire de désarchivage "untar utility" (ou un de ses équivalents, par exemple&lt;f0&gt; winrar&lt;/f0&gt; pour Windows) pour extraire le contenu du ficher dans le dossier "dictionnary" (dictionnaire) du projet.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T133233Z">
+        <seg>Utilisez l'utilitaire de désarchivage « untar » (ou l'un de ses équivalents, par exemple&lt;f0&gt; winrar&lt;/f0&gt; pour Windows) pour extraire le contenu du fichier dans le dossier « dictionnary » (dictionnaire) du projet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36321,8 +36321,8 @@ de créer son dossier de configuration.</seg>
       <tuv lang="EN">
         <seg>etc...</seg>
       </tuv>
-      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104317Z">
-        <seg>etc...</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T133258Z">
+        <seg>etc.</seg>
       </tuv>
     </tu>
     <tu>
