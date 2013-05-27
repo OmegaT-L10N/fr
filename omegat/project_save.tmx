@@ -7413,8 +7413,8 @@ the above requirements apply either way.</seg>
       <tuv lang="EN">
         <seg>Again note that the backslash is escaped as well.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130502T142112Z">
-        <seg>Encore une fois, veuillez noter que l'antislash a été supprimé. </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T151413Z">
+        <seg>Encore une fois, veuillez noter que l'antislash a été neutralisé. </seg>
       </tuv>
     </tu>
     <tu>
@@ -7453,8 +7453,8 @@ the above requirements apply either way.</seg>
       <tuv lang="EN">
         <seg>All HTML files will be translated - note that the period in the usual *.html has to be escaped (\.) as specified by the rules for regular expressions</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130502T141956Z">
-        <seg>Tous les fichiers HTML seront traduits. Veuillez noter que le point généralement présent dans les fichier *.html doit être neutralisé (\.) comme le précisent les règles utilisées pour les expressions régulières</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T151405Z">
+        <seg>Tous les fichiers HTML seront traduits. Veuillez noter que le point généralement présent dans les fichiers *.html doit être neutralisé (\.) comme le précisent les règles utilisées pour les expressions régulières</seg>
       </tuv>
     </tu>
     <tu>
@@ -14482,16 +14482,16 @@ sections when you distribute them as separate works.</seg>
       <tuv lang="EN">
         <seg>If &lt;l0&gt;abort &lt;/l0&gt;is selected, the tag validator will stop on the first invalid segment.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130420T095847Z">
-        <seg>Si &lt;l0&gt;abort &lt;/l0&gt; est sélectionné, le validateur de balises s'arrêtera au premier segment invalide.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T151432Z">
+        <seg>Si &lt;l0&gt;abort&lt;/l0&gt; est sélectionné, le validateur de balises s'arrêtera au premier segment invalide.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>If &lt;l1&gt;warn&lt;/l1&gt; is specified, the tag validator will process all segments and write warnings about any segments with invalid tags into the file specified.</seg>
       </tuv>
-      <tuv lang="FR" changeid="pingouin" changedate="20130418T160504Z">
-        <seg>Si&lt;l1&gt;warn&lt;/l1&gt;  est précisé, le validateur de balises traitera tous les segments et affichera des avertissements dans le fichier concerné pour tout segment contenant des balises invalides.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T151436Z">
+        <seg>Si&lt;l1&gt;warn&lt;/l1&gt; est précisé, le validateur de balises traitera tous les segments et affichera des avertissements dans le fichier concerné pour tout segment contenant des balises invalides.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34551,8 +34551,8 @@ them.</seg>
       <tuv lang="EN">
         <seg>You specify the TMX file to be created with</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130502T141032Z">
-        <seg>A vous de spécifier le fichier TMX qui sera créé avec</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T151312Z">
+        <seg>À vous de spécifier le fichier TMX qui sera créé avec</seg>
       </tuv>
     </tu>
     <tu>
