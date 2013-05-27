@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.2" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.2_2" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1148,8 +1148,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>( &lt;l0&gt;OmegaT&lt;/l0&gt; and &lt;l1&gt;OmegaT SL Localization &lt;/l1&gt;in the example used here)</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130415T074501Z">
-        <seg>( &lt;l0&gt;OmegaT&lt;/l0&gt; et &lt;l1&gt;OmegaT SL Localization &lt;/l1&gt;dans l'exemple)</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T131851Z">
+        <seg>(&lt;l0&gt;OmegaT&lt;/l0&gt; et &lt;l1&gt;OmegaT SL Localization &lt;/l1&gt;dans l'exemple)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3499,16 +3499,16 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;VCS client: &lt;/e0&gt;To interface with the server an SVN or Git client must be installed on computers of "project managers" involved in the OmegaT project.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130502T085331Z">
-        <seg>&lt;e0&gt;Client des logiciels de gestion de versions : &lt;/e0&gt; Pour communiquer avec le serveur, un client du SVN ou du Git doit être installé sur les ordinateurs des  gestionnaires de projet impliqués dans le projet OmegaT.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T131601Z">
+        <seg>&lt;e0&gt;Client des logiciels de gestion de versions : &lt;/e0&gt; pour communiquer avec le serveur, un client SVN ou Git doit être installé sur les ordinateurs des gestionnaires de projet impliqués dans le projet OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;e0&gt;VCS server - &lt;/e0&gt;i.e. SVN or Git server is the environment where the common material is kept and maintained on the net.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130429T111029Z">
-        <seg>Le &lt;e0&gt;serveur des logiciels de gestion des versions - &lt;/e0&gt;c'est à dire le serveur SVN ou Git - correspond à l'environnement dans lequel le travail commun est gardé et conservé sur le net.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T131518Z">
+        <seg>Le &lt;e0&gt;serveur des logiciels de gestion des versions - &lt;/e0&gt;c'est-à-dire le serveur SVN ou Git - correspond à l'environnement dans lequel le travail commun est gardé et conservé sur le net.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3643,8 +3643,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;commit: &lt;/e0&gt;once a new local version of the checked-out material is ready, it can be committed to the repository and thus made available to the rest of the team.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130429T111933Z">
-        <seg>&lt;e0&gt;validation : &lt;/e0&gt; lorsqu'une nouvelle version locale du matériel extrait est prête, elle peut être enregistrée dans le référentiel et ainsi être mise à la dipostition du reste de l'équipe.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T131650Z">
+        <seg>&lt;e0&gt;validation :&lt;/e0&gt; lorsqu'une nouvelle version locale du matériel extrait est prête, elle peut être enregistrée dans le référentiel et ainsi être mise à la disposition du reste de l'équipe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3683,8 +3683,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;repository: &lt;/e0&gt;the place where the shared material is saved and maintained, either on a local access network or in Internet.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130415T073942Z">
-        <seg>&lt;e0&gt;référentiel : &lt;/e0&gt;l'endroit dans lequel le matériel partagé est sauvegardé et maintenu, que ce soit sur un réseau d'accès local ou sur internet.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T131639Z">
+        <seg>&lt;e0&gt;référentiel :&lt;/e0&gt; l'endroit dans lequel le matériel partagé est sauvegardé et maintenu, que ce soit sur un réseau d'accès local ou sur internet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7093,8 +7093,8 @@ included in conveying the object code work.</seg>
       <tuv lang="EN">
         <seg>About...</seg>
       </tuv>
-      <tuv lang="FR" changeid="laurieetclémentine" changedate="20130411T141016Z">
-        <seg>A propos...</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T131343Z">
+        <seg>À propos...</seg>
       </tuv>
     </tu>
     <tu>
@@ -7702,8 +7702,8 @@ OmegaT.exe.</seg>
       <tuv lang="EN">
         <seg>Alternatively, to avoid this issue you can set a private SVN server, for example if you already have an Apache server that includes the software in question (e.g. VisualSVN).</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130429T113449Z">
-        <seg>Une autre solution consiste à définir un serveur SVN privé (ex : si vous possédez déjà un serveur Apache qui inclut le logiciel en question - ex : VisualSVN)</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T131759Z">
+        <seg>Une autre solution consiste à définir un serveur SVN privé (ex. : si vous possédez déjà un serveur Apache qui inclut le logiciel en question - ex. : VisualSVN)</seg>
       </tuv>
     </tu>
     <tu>
@@ -18494,8 +18494,8 @@ le JRE est déjà installé sur Mac OX X antérieur à Mac OS X 10.7 (Lion).</se
       <tuv lang="EN">
         <seg>Make sure the field &lt;e1&gt;Checkout directory&lt;/e1&gt; is correct, i.e. specifies the empty folder you have created, and press &lt;e2&gt;OK&lt;/e2&gt;.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130429T121722Z">
-        <seg>Assurez vous que le champ&lt;e1&gt;Checkout directory&lt;/e1&gt;(Répertoire d'extraction) est correct, c'est à dire qu'il définit le dossier vide que vous avez créé, et appuyez sur&lt;e2&gt;OK&lt;/e2&gt;.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T132002Z">
+        <seg>Assurez vous que le champ&lt;e1&gt;Checkout directory&lt;/e1&gt;(Répertoire d'extraction) est correct, c'est-à-dire qu'il définit le dossier vide que vous avez créé, et appuyez sur&lt;e2&gt;OK&lt;/e2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18843,8 +18843,8 @@ impose that choice.</seg>
       <tuv lang="EN">
         <seg>Menu Item</seg>
       </tuv>
-      <tuv lang="FR" changeid="laurieetclémentine" changedate="20130411T133005Z">
-        <seg>Elément du menu</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T131332Z">
+        <seg>Élément du menu</seg>
       </tuv>
     </tu>
     <tu>
@@ -19924,8 +19924,8 @@ measures.</seg>
       <tuv lang="EN">
         <seg>Note that the team members have to be registered first, before you can add them to the project (Note: in the free version of ProjectLocker you are allowed only two users per project).</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130429T115942Z">
-        <seg>Veuillez noter que les membres de l'équipe doivent être enregistrés pour pouvoir être ajoutés au projet  (Remarque : dans la version gratuite de ProjectLocker, seuls deux utilisateurs par projet sont autorisés).</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T131925Z">
+        <seg>Veuillez noter que les membres de l'équipe doivent être enregistrés pour pouvoir être ajoutés au projet (remarque : dans la version gratuite de ProjectLocker, seuls deux utilisateurs par projet sont autorisés).</seg>
       </tuv>
     </tu>
     <tu>
@@ -20704,8 +20704,8 @@ selecting, obtaining and installing it.</seg>
       <tuv lang="EN">
         <seg>OmegaT supports two of the popular version control systems (VCS for short), &lt;u0&gt;Apache Subversion&lt;/u0&gt; (often abbreviated SVN, after the command name svn) and &lt;u1&gt;Git&lt;/u1&gt;.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130429T094902Z">
-        <seg>OmegaT prend en charge deux logiciels populaires de gestion des versions, &lt;u0&gt;Apache Subversion&lt;/u0&gt; (souvent abrégé SVN, d'après le nom de la commande svn) et  &lt;u1&gt;Git&lt;/u1&gt;.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T131408Z">
+        <seg>OmegaT prend en charge deux logiciels populaires de gestion des versions, &lt;u0&gt;Apache Subversion&lt;/u0&gt; (souvent abrégé SVN, d'après le nom de la commande svn) et &lt;u1&gt;Git&lt;/u1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21106,8 +21106,8 @@ with exactly the same structure, including copies of any non-supported files.</s
       <tuv lang="EN">
         <seg>One member of the team, the project administrator, needs to be acquainted with handling the server side, i.e. the job of setting up the environment, importing the OmegaT project, assigning the access rights for the team members, resolving the conflicts, etc.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130429T111217Z">
-        <seg>Un membre de l'équipe, l'administrateur du projet, doit être en mesure de s'occuper du serveur. C'est à dire qu'il doit mettre en place l'environnement, importer le projet OmegaT, attribuer des droits d'accès aux membres de l'équipe, résoudre les conflits, etc. </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T131545Z">
+        <seg>Un membre de l'équipe, l'administrateur du projet, doit être en mesure de s'occuper du serveur. C'est-à-dire qu'il doit mettre en place l'environnement, importer le projet OmegaT, attribuer des droits d'accès aux membres de l'équipe, résoudre les conflits, etc. </seg>
       </tuv>
     </tu>
     <tu>
@@ -21252,8 +21252,8 @@ happen should you file a bug report.</seg>
       <tuv lang="EN">
         <seg>Open the&lt;e0&gt; Projects&lt;/e0&gt; view for your account.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130412T115650Z">
-        <seg>Ouvrez l'affichage&lt;e0&gt; Projects&lt;/e0&gt; de votre compte.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T131857Z">
+        <seg>Ouvrez l'affichage &lt;e0&gt;Projects&lt;/e0&gt; de votre compte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21500,8 +21500,8 @@ happen should you file a bug report.</seg>
       <tuv lang="EN">
         <seg>Other operating systems (Linux, OS X) offer similar packages.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130415T073916Z">
-        <seg>Les autres systèmes d'exploitation (Linux, OS X) proposent des packages similaires.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T131619Z">
+        <seg>Les autres systèmes d'exploitation (Linux, OS X) proposent des logiciels similaires.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24886,8 +24886,8 @@ REPAIR OR CORRECTION.</seg>
       <tuv lang="EN">
         <seg>Sign in to the site first or - if it is your first time on the site, register for it and note your user name and password for the future projects.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130429T114725Z">
-        <seg>Connectez vous d'abord au site ou (s'il s'agit de votre première visite sur le site) enregistrez-vous et notez votre nom d'utilisateur et votre mot de passe pour vos projets futurs.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T131835Z">
+        <seg>Connectez-vous d'abord au site ou (s'il s'agit de votre première visite sur le site) enregistrez-vous et notez votre nom d'utilisateur et votre mot de passe pour vos projets futurs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26886,8 +26886,8 @@ Essayer de corriger l'erreur et rechargez le projet.</seg>
       <tuv lang="EN">
         <seg>The URL shown under Project Services will be used by SVN to connect clients to the SVN server you have just established.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130412T115923Z">
-        <seg>L'URL affiché en dessous de Project Services sera utilisé par SVN pour connecter les clients au serveur SVN que vous venez de créer.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T131914Z">
+        <seg>L'URL affichée en dessous de Project Services sera utilisée par SVN pour connecter les clients au serveur SVN que vous venez de créer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26937,8 +26937,8 @@ Program (independent of having been made by running the Program).</seg>
       <tuv lang="EN">
         <seg>The advantages of a VC system for a team of translators can be summarized as follows:</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130415T073422Z">
-        <seg>Les avantages que les sytèmes de gestion de versions apportent à une équipe de traducteurs peuvent être résumés comme suit :</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T131424Z">
+        <seg>Les avantages que les systèmes de gestion de versions apportent à une équipe de traducteurs peuvent être résumés comme suit :</seg>
       </tuv>
     </tu>
     <tu>
@@ -27286,16 +27286,16 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The default OmegaT shortcuts are available from Sourceforge: &lt;u0&gt;Default OmegaT Shortcuts&lt;/u0&gt;</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130412T075946Z">
-        <seg>Les raccourcis par défaut d'OmegaT sont disponibles sur Sourceforge à partir de : &lt;u0&gt;Default OmegaT Shortcuts&lt;/u0&gt;</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T131215Z">
+        <seg>Les raccourcis par défaut d'OmegaT sont disponibles sur Sourceforge à partir de : &lt;u0&gt;Raccourcis clavier d'OmegaT par défaut&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>The default OmegaT shortcuts for the Mac are also available from Sourceforge, they all use "meta" instead of "ctrl": &lt;u0&gt;Default OmegaT Shortcuts for the Mac&lt;/u0&gt;</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130502T083947Z">
-        <seg>Les raccourcis par défaut d'OmegaT sur Mac sont également disponibles sur Sourceforge, ils utilisent tous « meta » à la place de « ctrl » : &lt;u0&gt;Default OmegaT Shortcuts for the Mac&lt;/u0&gt;</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T131243Z">
+        <seg>Les raccourcis par défaut d'OmegaT sur Mac sont également disponibles sur Sourceforge, ils utilisent tous « meta » à la place de « ctrl » : &lt;u0&gt;Raccourcis clavier d'OmegaT par défaut sur Mac&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -28662,8 +28662,8 @@ protocols for communication across the network.</seg>
       <tuv lang="EN">
         <seg>The server can exist in the local network but in the majority of cases it will be available on internet, i.e. via URL address.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130429T111059Z">
-        <seg>Le serveur peut exister dans un réseau local mais, dans la majorité des cas, il sera disponible sur le net, c'est à dire par le biais d'une adresse URL.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T131529Z">
+        <seg>Le serveur peut exister dans un réseau local mais, dans la majorité des cas, il sera disponible sur Internet, c'est-à-dire par le biais d'une adresse URL.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28678,8 +28678,8 @@ protocols for communication across the network.</seg>
       <tuv lang="EN">
         <seg>The server makes sure that any conflicting changes, due to two members working on the same checked-out contents, will be resolved.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130429T112144Z">
-        <seg>Le serveur s'assure que tous les problèmes causés par des changements contradictoires (ex : si deux personnes travaillent en même temps sur le même contenu extrait) soient résolus.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T131710Z">
+        <seg>Le serveur s'assure que tous les problèmes causés par des changements contradictoires (ex. : si deux personnes travaillent en même temps sur le même contenu extrait) sont résolus.*</seg>
       </tuv>
     </tu>
     <tu>
@@ -29512,8 +29512,8 @@ distribute copies of the software, or if you modify it.</seg>
       <tuv lang="EN">
         <seg>They can share common material, like project translation memory and its glossary</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130429T095650Z">
-        <seg>Ils peuvent partager leurs outils de traduction, comme, par exemple, la mémoire de traduction du projet et ses glossaires</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T131450Z">
+        <seg>Ils peuvent partager leurs outils de traduction, par exemple, la mémoire de traduction du projet et ses glossaires</seg>
       </tuv>
     </tu>
     <tu>
@@ -33021,8 +33021,8 @@ you have just discovered.</seg>
       <tuv lang="EN">
         <seg>When using an external service you must be aware of the possible implications in terms of confidentiality, since you are loading the original document on a server outside of your direct control.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130429T112900Z">
-        <seg>Lorsque vous utilisez un service externe, soyez conscients des risques possibles en terme de confidentialité, dans la mesure où vous chargez un document sur un serveur qui échappe à votre contrôle direct.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T131743Z">
+        <seg>Lorsque vous utilisez un service externe, soyez conscients des risques possibles en termes de confidentialité, dans la mesure où vous chargez un document sur un serveur qui échappe à votre contrôle direct.</seg>
       </tuv>
     </tu>
     <tu>
