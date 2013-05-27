@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.2" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.2_2" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1408,8 +1408,8 @@ Pour installer OmegaT, créez simplement un dossier approprié pour OmegaT.</seg
       <tuv lang="EN">
         <seg>* These keys behave differently when the cursor is outside the editable segment:</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130411T081546Z">
-        <seg>* Ces touches ont un comportement différent lorsque le curseur est à l'extérieur du segment modifiable:</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T125853Z">
+        <seg>* Ces touches ont un comportement différent lorsque le curseur est à l'extérieur du segment modifiable :</seg>
       </tuv>
     </tu>
     <tu>
@@ -2987,8 +2987,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Any char key,&lt;/e0&gt; if clicked outside editable segment, will be ignored.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130411T081708Z">
-        <seg>Un appui sur &lt;e0&gt;n'importe qu'elle autre touche&lt;/e0&gt;  à l'extérieur du segment modifiable sera ignoré.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T125917Z">
+        <seg>Un appui sur &lt;e0&gt;n'importe qu'elle autre touche&lt;/e0&gt; à l'extérieur du segment modifiable sera ignoré.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21906,8 +21906,8 @@ of promoting the sharing and reuse of software generally.</seg>
       <tuv lang="EN">
         <seg>Please check the&lt;u0&gt; ISO 639 Code Tables&lt;/u0&gt; for further and up-to-date information about language codes.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130412T082018Z">
-        <seg>Merci de regarder le  &lt;u0&gt;Tableau de Codes ISO 639 &lt;/u0&gt; pour toute information complémentaire et actualisée à propos des codes langues.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T130122Z">
+        <seg>Merci de regarder le &lt;u0&gt;Tableau de Codes ISO 639 &lt;/u0&gt; pour des informations complémentaires et actualisées à propos des codes langues.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24078,8 +24078,8 @@ REPAIR OR CORRECTION.</seg>
       <tuv lang="EN">
         <seg>See &lt;l0&gt;Appendix ShortCut Customization&lt;/l0&gt;</seg>
       </tuv>
-      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T123549Z">
-        <seg>Voir &lt;l0&gt;Annexe Peronnalisation des Raccourcis&lt;/l0&gt;</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T130100Z">
+        <seg>Voir &lt;l0&gt;Annexe Personnalisation des raccourcis&lt;/l0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -25759,8 +25759,8 @@ address new problems or concerns.</seg>
       <tuv lang="EN">
         <seg>System-wide commands Select All (&lt;k0&gt;Ctrl+A&lt;/k0&gt;), Paste (&lt;e1&gt;Ctrl+V&lt;/e1&gt;), Cut (&lt;e2&gt;Ctrl+X&lt;/e2&gt;), copy (&lt;e3&gt;Ctrl+C)&lt;/e3&gt;, Insert match &lt;e4&gt;(Ctrl+I&lt;/e4&gt;) and Insert source (&lt;e5&gt;Ctrl+Shift+I&lt;/e5&gt;) act in principle on the text within the currently open segment only.</seg>
       </tuv>
-      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T123545Z">
-        <seg>Les commandes utilisées pour l'ensemble du système, Tout sélectionner (&lt;k0&gt;Ctrl+A&lt;/k0&gt;), Coller (&lt;e1&gt;Ctrl+V&lt;/e1&gt;), Couper (&lt;e2&gt;Ctrl+X&lt;/e2&gt;), Copier (&lt;e3&gt;Ctrl+C)&lt;/e3&gt;, Insérer la correspondance &lt;e4&gt;(Ctrl+I&lt;/e4&gt;) et Insérer le texte source (&lt;e5&gt;Ctrl+Maj+I&lt;/e5&gt;) fonctionnent en principe sur le texte, mais uniquement à l'intérieur du segment ouvert.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T130048Z">
+        <seg>Les commandes utilisées pour l'ensemble du système, Tout sélectionner (&lt;k0&gt;Ctrl+A&lt;/k0&gt;), Coller (&lt;e1&gt;Ctrl+V&lt;/e1&gt;), Couper (&lt;e2&gt;Ctrl+X&lt;/e2&gt;), Copier (&lt;e3&gt;Ctrl+C)&lt;/e3&gt;, Insérer la correspondance &lt;e4&gt;(Ctrl+I&lt;/e4&gt;) et Insérer le texte source (&lt;e5&gt;Ctrl+Maj+I&lt;/e5&gt;) fonctionnent par construction uniquement sur le texte à l'intérieur du segment ouvert.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26437,8 +26437,8 @@ language.</seg>
       <tuv lang="EN">
         <seg>The "Shift" key doesn't exhibit any special behavior per se: when the "Shift" key is pressed, all keys move the cursor in their usual manner, except in the case of the &lt;l0&gt;Shift+Enter&lt;/l0&gt; combination, that inserts a line break into the text.</seg>
       </tuv>
-      <tuv lang="FR" changeid="JC Helary" changedate="20130519T102243Z">
-        <seg>En elle-même, la touche "Maj" ne provoque pas de comportement particulier : lorsque la touche "Maj" est appuyée, toutes les touches déplacent le curseur de manière habituelle, à l'exception de la combinaison  &lt;l0&gt;Maj+Entrée&lt;/l0&gt; qui insère un retour à la ligne dans le texte.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T130022Z">
+        <seg>En elle-même, la touche « Maj » ne provoque pas de comportement particulier : lors d'un appui sur la touche « Maj », toutes les touches déplacent le curseur de manière habituelle, à l'exception de la combinaison &lt;l0&gt;Maj+Entrée&lt;/l0&gt; qui insère un retour à la ligne dans le texte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38393,8 +38393,8 @@ de créer son dossier de configuration.</seg>
       <tuv lang="EN">
         <seg>move to the start of the document (Mac: &lt;e0&gt;Cmd+PgUp&lt;/e0&gt;)</seg>
       </tuv>
-      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T122522Z">
-        <seg>déplacement au début du document (Mac: &lt;e0&gt;Cmd+Pg préc&lt;/e0&gt;)</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T125824Z">
+        <seg>déplacement au début du document (Mac : &lt;e0&gt;Cmd+Pg préc&lt;/e0&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -38817,8 +38817,8 @@ de créer son dossier de configuration.</seg>
       <tuv lang="EN">
         <seg>open previous segment (Mac: &lt;e0&gt;Cmd+Enter&lt;/e0&gt;)</seg>
       </tuv>
-      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T122750Z">
-        <seg>ouvre le segment précédent (Mac: &lt;e0&gt;Cmd+Enter&lt;/e0&gt;)</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T125842Z">
+        <seg>ouvre le segment précédent (Mac : &lt;e0&gt;Cmd+Enter&lt;/e0&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -39323,16 +39323,16 @@ de créer son dossier de configuration.</seg>
       <tuv lang="EN">
         <seg>remove chars up to the start of next word (Mac: &lt;e0&gt;Alt+Delete&lt;/e0&gt;)</seg>
       </tuv>
-      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T122737Z">
-        <seg>supprime tous les caractères du mot placé après le curseur (Mac: &lt;e0&gt;Alt+Supprimer&lt;/e0&gt;)</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T125839Z">
+        <seg>supprime tous les caractères du mot placé après le curseur (Mac : &lt;e0&gt;Alt+Supprimer&lt;/e0&gt;)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>remove chars up to the start of the current word (Mac: &lt;e0&gt;Alt+Backspace&lt;/e0&gt;)</seg>
       </tuv>
-      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T122709Z">
-        <seg>supprime tous les caractères du mot placé avant le curseur (Mac: &lt;e0&gt;Alt+Retour arrière&lt;/e0&gt;)</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T125834Z">
+        <seg>supprime tous les caractères du mot placé avant le curseur (Mac : &lt;e0&gt;Alt+Retour arrière&lt;/e0&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -39571,8 +39571,8 @@ de créer son dossier de configuration.</seg>
       <tuv lang="EN">
         <seg>select complete segment (Mac: &lt;e0&gt;Cmd+A&lt;/e0&gt;)</seg>
       </tuv>
-      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T122818Z">
-        <seg>sélectionne le segment complet (Mac: &lt;e0&gt;Cmd+A&lt;/e0&gt;)</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T125845Z">
+        <seg>sélectionne le segment complet (Mac : &lt;e0&gt;Cmd+A&lt;/e0&gt;)</seg>
       </tuv>
     </tu>
     <tu>
