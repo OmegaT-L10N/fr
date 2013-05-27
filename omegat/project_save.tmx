@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.2" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.2_2" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8184,8 +8184,8 @@ provoquer des comportements inattendus, mais corrects.</seg>
       <tuv lang="EN">
         <seg>As stated above, OmegaT tags are LTR strings.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130430T081514Z">
-        <seg>Comme indiqué ci-desssus, les balises d'OmegaT sont des chaînes LTR.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T141559Z">
+        <seg>Comme indiqué ci-dessus, les balises d'OmegaT sont des chaînes LTR.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9192,8 +9192,8 @@ software--to make sure the software is free for all its users.</seg>
       <tuv lang="EN">
         <seg>Check the &lt;u0&gt;OmegaT home page&lt;/u0&gt; for an up-to-date listing of auxiliary translation tools.</seg>
       </tuv>
-      <tuv lang="FR" changeid="samsung" changedate="20130416T175255Z">
-        <seg>Vérifiez&lt;u0&gt;la page d'accueil d'OmegaT&lt;/u0&gt; pour obtenir une liste à jour des outils de traduction auxiliaires.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T141423Z">
+        <seg>Vérifiez &lt;u0&gt;la page d'accueil d'OmegaT&lt;/u0&gt; pour obtenir une liste à jour des outils de traduction auxiliaires.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10396,8 +10396,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="EN">
         <seg>Currently, &lt;a1&gt;OmegaT&lt;/a1&gt; supports the following plain text formats:</seg>
       </tuv>
-      <tuv lang="FR" changeid="samsung" changedate="20130416T140632Z">
-        <seg>A l'heure actuelle, &lt;a1&gt;OmegaT&lt;/a1&gt; prend en charge les formats de texte brut suivants  :</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T141203Z">
+        <seg>À l'heure actuelle, &lt;a1&gt;OmegaT&lt;/a1&gt; prend en charge les formats de texte brut suivants :</seg>
       </tuv>
     </tu>
     <tu>
@@ -11110,8 +11110,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="EN">
         <seg>Double clicking the item with the OmegaT icon is sufficient to open the project.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130415T145452Z">
-        <seg>Un double-clic sur l'élément possédant une icône OmegaT suffit à ouvrir le projet.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T140912Z">
+        <seg>Un double clic sur l'élément possédant une icône OmegaT suffit à ouvrir le projet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13052,8 +13052,8 @@ know their rights.</seg>
       <tuv lang="EN">
         <seg>For example, if you have an outdated Microsoft Word version, that does not handle the ODT format, here's a round trip for Word files with the DOC extension:</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130430T074756Z">
-        <seg>Par exemple, si vous possèdez une ancienne version de Microsoft Word, qui ne prend pas en charge le format ODT, vous trouverez ici le moyen de permettre aux fichiers Word portant l'extension DOC de faire l'aller-retour :</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T141353Z">
+        <seg>Par exemple, si vous possédez une ancienne version de Microsoft Word, qui ne prend pas en charge le format ODT, vous trouverez ici le moyen de permettre aux fichiers Word portant l'extension DOC de faire l'aller-retour :</seg>
       </tuv>
     </tu>
     <tu>
@@ -16323,8 +16323,8 @@ the limitation as if written in the body of this License.</seg>
       <tuv lang="EN">
         <seg>In the following example the folder &lt;f0&gt;my projects&lt;/f0&gt; contains three OmegaT projects:</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130415T145156Z">
-        <seg>Dans l'exemple suivant, le dossier &lt;f0&gt;my projects&lt;/f0&gt;  contient trois projets OmegaT :</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T140901Z">
+        <seg>Dans l'exemple suivant, le dossier &lt;f0&gt;my projects&lt;/f0&gt; contient trois projets OmegaT :</seg>
       </tuv>
     </tu>
     <tu>
@@ -16932,8 +16932,8 @@ exécutez simplement le programme d'installation.</seg>
       <tuv lang="EN">
         <seg>It can also be used in all the input fields found in &lt;a7&gt;OmegaT&lt;/a7&gt; - in the search window, for segmentation rules etc.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130430T080022Z">
-        <seg>Il peut également être utilisé dans tous les champs de saisie  présents dans &lt;a7&gt;OmegaT&lt;/a7&gt; - dans la fenêtre de recherche, pour les règles de segmentation, etc.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T141543Z">
+        <seg>Il peut également être utilisé dans tous les champs de saisie présents dans &lt;a7&gt;OmegaT&lt;/a7&gt; - dans la fenêtre de recherche, pour les règles de segmentation, etc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16956,8 +16956,8 @@ exécutez simplement le programme d'installation.</seg>
       <tuv lang="EN">
         <seg>It can be used separately for all three panes (Editor, Fuzzy Matches and Glossary) by clicking on the pane and toggling the display mode.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130430T075944Z">
-        <seg>Ce mode peut être utilisé pour chacun des trois volets pris séparément (Editeur, Correspondances et Glossaires) en cliquant sur le volet choisi et en faisant basculer le mode d'affichage.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T141512Z">
+        <seg>Ce mode peut être utilisé pour chacun des trois volets pris séparément (Éditeur, Correspondances et Glossaires) en cliquant sur le volet choisi et en faisant basculer le mode d'affichage.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17214,8 +17214,8 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
       <tuv lang="EN">
         <seg>It should be noted that when &lt;a0&gt;OmegaT&lt;/a0&gt; is in RTL mode, both source and target are displayed in RTL mode.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130430T081231Z">
-        <seg>Il est à noter que lorsqu'&lt;a0&gt;OmegaT&lt;/a0&gt; est en mode RTL , la source et la cible sont toutes les deux affichées en mode RTL.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T141547Z">
+        <seg>Il est à noter que lorsqu'&lt;a0&gt;OmegaT&lt;/a0&gt; est en mode RTL, la source et la cible sont toutes les deux affichées en mode RTL.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18446,8 +18446,8 @@ le JRE est déjà installé sur Mac OX X antérieur à Mac OS X 10.7 (Lion).</se
       <tuv lang="EN">
         <seg>Make it executable (&lt;l0&gt;chmod +x OmegaT&lt;/l0&gt;) from the command line after making sure you are in the OmegaT application folder.</seg>
       </tuv>
-      <tuv lang="FR" changeid="jchelary" changedate="20130526T122330Z">
-        <seg>Rendez le exécutable (&lt;l0&gt;chmod +x OmegaT&lt;/l0&gt;) à partir de la ligne de commande après vous être assuré que vous êtes dans le dossier où se trouve OmegaT.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T141048Z">
+        <seg>Rendez-le exécutable (&lt;l0&gt;chmod +x OmegaT&lt;/l0&gt;) à partir de la ligne de commande après vous être assuré que vous êtes dans le dossier où se trouve OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20656,8 +20656,8 @@ selecting, obtaining and installing it.</seg>
       <tuv lang="EN">
         <seg>OmegaT projects and subfolders</seg>
       </tuv>
-      <tuv lang="FR" changeid="JC Helary" changedate="20130519T102505Z">
-        <seg>Projets OmegaT et sous-répertoires</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T140907Z">
+        <seg>Projets OmegaT et sous-dossiers</seg>
       </tuv>
     </tu>
     <tu>
@@ -21516,8 +21516,8 @@ happen should you file a bug report.</seg>
       <tuv lang="EN">
         <seg>Other plain text or formatted text file formats suitable for processing in OmegaT may also exist.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130430T074407Z">
-        <seg>Il est également possible de trouver d'autres fichiers texte brut ou fichiers texte formaté succeptibles d'être pris en charge par OmegaT.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T141345Z">
+        <seg>Il est également possible de trouver d'autres fichiers texte brut ou fichiers texte formaté susceptibles d'être pris en charge par OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25637,8 +25637,8 @@ and then start OmegaT.</seg>
       <tuv lang="EN">
         <seg>Such files do not contain any formatting information beyond the "white space" used to align text, indicate paragraphs or insert page breaks.</seg>
       </tuv>
-      <tuv lang="FR" changeid="samsung" changedate="20130416T140444Z">
-        <seg>Ces fichiers ne contiennent pas d'information de formatage en dehors de "l'espace blanc" utilisé pour aligner le texte, indiquer la présence d'un paragraphe ou insérer des sauts de page.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T141147Z">
+        <seg>Ces fichiers ne contiennent pas d'information de formatage en dehors des « caractères d'espacement » utilisés pour aligner le texte, indiquer la présence d'un paragraphe ou insérer des sauts de page.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29480,8 +29480,8 @@ distribute copies of the software, or if you modify it.</seg>
       <tuv lang="EN">
         <seg>They are not able to contain or retain information regarding the color, font etc of the text.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130430T071928Z">
-        <seg>Ils sont incapables de contenir ou de retenir les informations qui concerneraient la couleur, la police etc. du texte.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T141156Z">
+        <seg>Ils sont incapables de contenir ou de retenir les informations qui concerneraient la couleur, la police, etc. du texte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30324,8 +30324,8 @@ be a consequence of the rest of this License.</seg>
       <tuv lang="EN">
         <seg>This way an inadvertent data loss is averted - see Preventing Data Loss in chapter &lt;l2&gt;Miscellanea.&lt;/l2&gt;</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130430T115433Z">
-        <seg>Ainsi, on évite de perdre des données par inadvertance - voir Prévention des Pertes de Données dans le chapitre &lt;l2&gt;Divers.&lt;/l2&gt;</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T140955Z">
+        <seg>Ainsi, on évite de perdre des données par inadvertance - voir Prévention des pertes de données dans le chapitre &lt;l2&gt;Divers.&lt;/l2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -31208,8 +31208,8 @@ Kaptain.</seg>
       <tuv lang="EN">
         <seg>Top folder of a project always contains the file&lt;f0&gt; OmegaT.Project&lt;/f0&gt;, containing project parameters as defined in the Project properties window (&lt;g1&gt;Project &gt; Properties&lt;/g1&gt;).</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20130527T135446Z">
-        <seg>Le dossier racine d'un projet contient toujours le fichier &lt;f0&gt; OmegaT.Project&lt;/f0&gt;, qui contient lui-même les paramètres du projet tels qu'ils sont définis dans la fenêtre de Propriétés du projet (&lt;g1&gt;Projet &gt; Propriétés&lt;/g1&gt;).</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T140930Z">
+        <seg>Le dossier racine d'un projet contient toujours le fichier &lt;f0&gt;OmegaT.Project&lt;/f0&gt;, qui contient lui-même les paramètres du projet tels qu'ils sont définis dans la fenêtre de Propriétés du projet (&lt;g1&gt;Projet &gt; Propriétés&lt;/g1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -33214,8 +33214,8 @@ technological measures.</seg>
       <tuv lang="EN">
         <seg>Where possible, unifying the fonts, font sizes, colors, etc. used in the document simplifies the task of translation and reduces the possible number of tag errors.</seg>
       </tuv>
-      <tuv lang="FR" changeid="samsung" changedate="20130416T151340Z">
-        <seg>Lorsque cela est possible, unifier les polices, les tailles de police, les couleurs, etc. utilisées dans le document simplifie le travail de traduction et réduit le nombre d'erreurs de balises .</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T141246Z">
+        <seg>Lorsque cela est possible, unifier les polices, les tailles de police, les couleurs, etc. utilisées dans le document simplifie le travail de traduction et réduit le nombre d'erreurs de balises.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38089,8 +38089,8 @@ de créer son dossier de configuration.</seg>
       <tuv lang="EN">
         <seg>load the target file in ODF writer</seg>
       </tuv>
-      <tuv lang="FR" changeid="samsung" changedate="20130416T170836Z">
-        <seg>Ouvrez le fichier cible dans ODF writer</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T141404Z">
+        <seg>Ouvrez le fichier cible dans ODF Writer</seg>
       </tuv>
     </tu>
     <tu>
@@ -40267,8 +40267,8 @@ de créer son dossier de configuration.</seg>
       <tuv lang="EN">
         <seg>translate it into the target ODT file</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130430T074927Z">
-        <seg>Traduisez le dans un fichier ODT cible</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T141356Z">
+        <seg>Traduisez-le dans un fichier ODT cible</seg>
       </tuv>
     </tu>
     <tu>
