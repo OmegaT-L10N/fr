@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.2" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.2_2" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2683,8 +2683,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>&lt;b0&gt;Formatting &lt;b1&gt;one&lt;/b0&gt; &lt;/b1&gt;is very messed up now.&lt;segment 0001&gt;</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130416T145713Z">
-        <seg>&lt;b0&gt;Le formatage&lt;b1&gt;un&lt;/b0&gt; &lt;/b1&gt; est à présent complètement chamboulé.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T142142Z">
+        <seg>&lt;b0&gt;Le formatage &lt;b1&gt;un&lt;/b0&gt; &lt;/b1&gt; est à présent complètement chamboulé.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6750,8 +6750,8 @@ this License.</seg>
       <tuv lang="EN">
         <seg>A fixed penalty of 5 is added if the removed part does not match some other segment, so the match does not show up as 100%</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130502T071618Z">
-        <seg>Une pénalité fixe de cinq points est ajoutée si la partie supprimée ne correspond à aucun autre segment afin que la correspondance n'atteigne pas les 100%</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T142302Z">
+        <seg>Une pénalité fixe de cinq points est ajoutée si la partie supprimée ne correspond à aucun autre segment afin que la correspondance n'atteigne pas les 100 %</seg>
       </tuv>
     </tu>
     <tu>
@@ -9320,8 +9320,8 @@ software--to make sure the software is free for all its users.</seg>
       <tuv lang="EN">
         <seg>Click on the link to activate the segment in the Editor.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130416T160845Z">
-        <seg>Cliquez sur le lien pour activer le segment dans l'Editeur.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T142322Z">
+        <seg>Cliquez sur le lien pour activer le segment dans l'Éditeur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10404,8 +10404,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="EN">
         <seg>Custom tag(s) regular expression</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130430T142741Z">
-        <seg>Expression régulière pour les balises personalisées</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T142236Z">
+        <seg>Expression régulière pour les balises personnalisées</seg>
       </tuv>
     </tu>
     <tu>
@@ -20401,8 +20401,8 @@ mouse-clicks or menu items--whatever suits your program.</seg>
       <tuv lang="EN">
         <seg>OmegaT can check that programming variables (like %s for instance) in the source exist in the translation.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130416T153443Z">
-        <seg>OmegaT peut vérifier que les variables de programmation du texte source (comme %s par exemple) existent dans la traduction.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T142213Z">
+        <seg>OmegaT peut vérifier que les variables de programmation du texte source (par exemple %s) existent dans la traduction.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23036,8 +23036,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Remember that if you find tags a problem in OmegaT and formatting is not extremely relevant for the current translation, removing tags may be the easiest way out of problems.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130502T074403Z">
-        <seg>Souvenez vous que si les balises vous posent problème dans OmegaT et que le formatage n'est pas très important pour la traduction en cours, supprimer les balises peut être la solution la plus facile.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T142402Z">
+        <seg>Souvenez-vous que si les balises vous posent problème dans OmegaT et que le formatage n'est pas très important pour la traduction en cours, supprimer les balises peut être la solution la plus facile.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25143,8 +25143,8 @@ of the GPL, as needed to protect the freedom of users.</seg>
       <tuv lang="EN">
         <seg>Sometimes, however, your translated file may look strange, and – in the worst case – may even refuse to open.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130502T075643Z">
-        <seg>Cepandant, il peut arriver que votre document traduit ait un aspect étrange et que - dans le pire des cas - il refuse de s'ouvrir.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T142419Z">
+        <seg>Cependant, il peut arriver que votre document traduit ait un aspect étrange et que - dans le pire des cas - il refuse de s'ouvrir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33973,8 +33973,8 @@ to link it from there.</seg>
       <tuv lang="EN">
         <seg>You can decide not to check at all, check for simple printf variables (like %s %d etc) or for print variables of all types.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130430T142052Z">
-        <seg>Vous pouvez décider de ne rien vérifier du tout, de ne vérifier que les variables printf simples (comme %s %d etc) ou de vérifier les variables print de tous types.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T142226Z">
+        <seg>Vous pouvez décider de ne rien vérifier du tout, de ne vérifier que les variables printf simples (comme %s, %d, etc) ou de vérifier les variables print de tous types.</seg>
       </tuv>
     </tu>
     <tu>
