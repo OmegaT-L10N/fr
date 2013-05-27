@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.2" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.2_2" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -82,16 +82,16 @@ License. Each licensee is addressed as "you". "Licensees" and
       <tuv lang="EN">
         <seg>"XX" in the command stands for the two-digit code of the desired language.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130418T132630Z">
-        <seg>Dans la commande, "XX" représente le code à deux chiffres correspondant à la langue désirée.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T150917Z">
+        <seg>Dans la commande, « XX » représente le code à deux chiffres correspondant à la langue désirée.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>"ZZ" stands for the amount of memory assigned, in megabytes.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130420T093924Z">
-        <seg>"ZZ" représente la quantité de mémoire attribuée en méga-octets.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T151017Z">
+        <seg>« ZZ » représente la quantité de mémoire attribuée en méga-octets.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2811,8 +2811,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;-Dgoogle.api.key=A123456789B123456789C123456789D12345678 &lt;/e0&gt;&lt;e1&gt;&lt;i2/&gt;&lt;/e1&gt; If you have signed up for the Google Translate services, enter your private Google API key here.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130502T133638Z">
-        <seg>&lt;e0&gt;-Dgoogle.api.key=A123456789B123456789C123456789D12345678 &lt;/e0&gt;&lt;e1&gt;&lt;i2/&gt;&lt;/e1&gt; : Si vous vous êtes inscrits sur le service Google Traduction, entrez votre clé API Google privée ici : </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T151049Z">
+        <seg>&lt;e0&gt;-Dgoogle.api.key=A123456789B123456789C123456789D12345678 &lt;/e0&gt;&lt;e1&gt;&lt;i2/&gt;&lt;/e1&gt; : si vous vous êtes inscrits sur le service Google Traduction, entrez votre clé API Google privée ici : </seg>
       </tuv>
     </tu>
     <tu>
@@ -2835,8 +2835,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;-Dswing.aatext=true&lt;i1/&gt;&lt;/e0&gt; This argument effects anti-aliasing of the fonts, thereby improving their appearance.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130418T133221Z">
-        <seg>&lt;e0&gt;-Dswing.aatext=true&lt;i1/&gt;&lt;/e0&gt; Cet argument a pour effet de lisser toutes les polices et ainsi d'améliorer leur apparance. </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T150956Z">
+        <seg>&lt;e0&gt;-Dswing.aatext=true&lt;i1/&gt;&lt;/e0&gt; Cet argument a pour effet de lisser toutes les polices et ainsi d'améliorer leur apparence. </seg>
       </tuv>
     </tu>
     <tu>
@@ -2851,8 +2851,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;-Duser.language=XX&lt;/e0&gt;&lt;i1/&gt; Normally, i.e. when &lt;a2&gt;OmegaT&lt;/a2&gt; is launched without any arguments, the program first detects the language of the user's operating system.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130418T132212Z">
-        <seg>&lt;e0&gt;-Duser.language=XX&lt;/e0&gt;&lt;i1/&gt; Normalement, c'est à dire lorsqu'&lt;a2&gt;OmegaT&lt;/a2&gt; est lancé sans arguments, le programme détecte la langue du système d'exploitation de l'utilisateur.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T150843Z">
+        <seg>&lt;e0&gt;-Duser.language=XX&lt;/e0&gt;&lt;i1/&gt; Normalement, c'est-à-dire lorsqu'&lt;a2&gt;OmegaT&lt;/a2&gt; est lancé sans arguments, le programme détecte la langue du système d'exploitation de l'utilisateur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5523,8 +5523,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Running OmegaT&lt;/p0&gt; &lt;s1&gt;Launch script arguments&lt;/s1&gt; &lt;t2&gt;Memory assignment&lt;/t2&gt;</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130502T133101Z">
-        <seg>&lt;p0&gt;Exécution d'OmegaT&lt;/p0&gt; &lt;s1&gt;Arguments de scripts de lancement &lt;/s1&gt; &lt;t2&gt;Affectation de la mémoire&lt;/t2&gt;</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T151005Z">
+        <seg>&lt;p0&gt;Exécution d'OmegaT&lt;/p0&gt; &lt;s1&gt;Arguments de scripts de lancement &lt;/s1&gt; &lt;t2&gt;Allocation de la mémoire&lt;/t2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7461,8 +7461,8 @@ the above requirements apply either way.</seg>
       <tuv lang="EN">
         <seg>All existing Java class libraries can be used unchanged and without special setup; at the same time, a Java programmer can opt to just use the Rexx class from the runtime package for improved string handling in Java syntax source programs.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130412T091239Z">
-        <seg>Toutes les bilbiothèques de classe Java peuvent être utilisées sans modification et sans configuration particulière ; un programmeur Java peut également choisir de n'utiliser que la classe Rexx du package d'éxécution afin d'améliorer le traitement des chaînes de programmes sources utilisant le langage Java.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T150506Z">
+        <seg>Toutes les bilbiothèques de classe Java peuvent être utilisées sans modification et sans configuration particulière ; un programmeur Java peut également choisir de n'utiliser que la classe Rexx du paquet d'exécution afin d'améliorer le traitement des chaînes de programmes sources utilisant le langage Java.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11206,8 +11206,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="EN">
         <seg>Downloading the package</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130417T090743Z">
-        <seg>Téléchargement du package</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T150521Z">
+        <seg>Téléchargement du paquet</seg>
       </tuv>
     </tu>
     <tu>
@@ -12838,8 +12838,8 @@ patents.</seg>
       <tuv lang="EN">
         <seg>Follow the installation instructions of the package you need.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130417T140803Z">
-        <seg>Suivez les instructions d'installation du package dont vous avez besoin.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T150420Z">
+        <seg>Suivez les instructions d'installation du paquet dont vous avez besoin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17353,8 +17353,8 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>Java Web Start ensures that the latest version of the application will be deployed, as well as the correct version of the Java Runtime Environment (JRE) used.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130502T124738Z">
-        <seg>Java Web Start s'assure que la dernière version de l'application soit déployée et que la version correcte de l'environnement d'exécution Java JRE soit utilisée.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T150307Z">
+        <seg>Java Web Start s'assure que la dernière version de l'application est déployée et que la version correcte de l'environnement d'exécution Java JRE est utilisée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18470,8 +18470,8 @@ le JRE est déjà installé sur Mac OX X antérieur à Mac OS X 10.7 (Lion).</se
       <tuv lang="EN">
         <seg>Make sure that you have a free Microsoft account.</seg>
       </tuv>
-      <tuv lang="FR" changeid="pingouin" changedate="20130418T143701Z">
-        <seg>Assurez vous d'avoir un compte Microsoft gratuit.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T151059Z">
+        <seg>Assurez-vous d'avoir un compte Microsoft gratuit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18486,8 +18486,8 @@ le JRE est déjà installé sur Mac OX X antérieur à Mac OS X 10.7 (Lion).</se
       <tuv lang="EN">
         <seg>Make sure that your &lt;e3&gt;PATH&lt;/e3&gt; settings are correct and that &lt;e4&gt;.jar &lt;/e4&gt; files are properly associated with a Java launcher.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130502T124420Z">
-        <seg>Assurez vous que vos paramètres &lt;e3&gt;PATH&lt;/e3&gt; sont corrects et que les fichiers&lt;e4&gt;.jar &lt;/e4&gt; sont correctement associés à un lanceur Java.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T150650Z">
+        <seg>Assurez-vous que vos paramètres &lt;e3&gt;PATH&lt;/e3&gt; sont corrects et que les fichiers&lt;e4&gt;.jar &lt;/e4&gt; sont correctement associés à un lanceur Java.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23492,8 +23492,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Run &lt;a0&gt;OmegaT&lt;/a0&gt; normally (with the GUI) and specify the settings.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130502T135045Z">
-        <seg>Exécutez &lt;a0&gt;OmegaT&lt;/a0&gt; normalement (avec l'Interface Graphique) et précisez les paramètres.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T151228Z">
+        <seg>Exécutez &lt;a0&gt;OmegaT&lt;/a0&gt; normalement (avec l'Interface graphique) et précisez les paramètres.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26207,8 +26207,8 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       <tuv lang="EN">
         <seg>Team project option</seg>
       </tuv>
-      <tuv lang="FR" changeid="pingouin" changedate="20130418T144846Z">
-        <seg>Option projet d'équipe</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T151124Z">
+        <seg>Option projet en équipe</seg>
       </tuv>
     </tu>
     <tu>
@@ -26552,8 +26552,8 @@ form of a work.</seg>
       <tuv lang="EN">
         <seg>The &lt;e0&gt;"-Duser.language=XX"&lt;/e0&gt; argument causes &lt;a1&gt;OmegaT&lt;/a1&gt; to use the language specified rather than the language of the user's operating system.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130418T132547Z">
-        <seg>L'argument&lt;e0&gt;"-Duser.language=XX"&lt;/e0&gt; oblige &lt;a1&gt;OmegaT&lt;/a1&gt; à utiliser la langue spécifiée plutôt que la langue du système d'exploitation de l'utilisateur.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T150909Z">
+        <seg>L'argument&lt;e0&gt;« -Duser.language=XX »&lt;/e0&gt; oblige &lt;a1&gt;OmegaT&lt;/a1&gt; à utiliser la langue spécifiée plutôt que la langue du système d'exploitation de l'utilisateur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27130,8 +27130,8 @@ shown below.</seg>
       <tuv lang="EN">
         <seg>The command to launch &lt;a3&gt;OmegaT&lt;/a3&gt; with assignment of 1024 MB (1 gigabyte) of memory is therefore:</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130502T133323Z">
-        <seg>La commande de lancement d'&lt;a3&gt;OmegaT&lt;/a3&gt; lui attribuant une mémoire de 1024 Mo (1 giga-octet) est donc :  </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T151026Z">
+        <seg>La commande de lancement d'&lt;a3&gt;OmegaT&lt;/a3&gt; lui attribuant une mémoire de 1024 Mo (1 giga-octet) est donc :</seg>
       </tuv>
     </tu>
     <tu>
@@ -28220,8 +28220,8 @@ sure this has not already been reported.</seg>
       <tuv lang="EN">
         <seg>The permissions you give to this version (which may appear as "unrestricted access to the computer") are identical to the permissions you give to the local version, i.e., they allow access to the hard drive of the computer.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130502T125838Z">
-        <seg>Les autorisations que vous donnez à cette version (qui peuvent s'afficher comme  « accès libre à l'ordinateur ») sont identiques aux autorisations que vous donnez aux versions locales. C'est à dire qu'elles donnent accès au disque dur de l'ordinateur.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T150342Z">
+        <seg>Les autorisations que vous donnez à cette version (qui peuvent s'afficher comme  « accès illimité à l'ordinateur ») sont identiques aux autorisations que vous donnez aux versions locales. C'est-à-dire qu'elles donnent accès au disque dur de l'ordinateur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29718,8 +29718,8 @@ under the terms of this General Public License.</seg>
       <tuv lang="EN">
         <seg>This command changes the folder to the folder containing the executable &lt;a0&gt;OmegaT&lt;/a0&gt; file.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130502T131158Z">
-        <seg>Cette commande transforme le dossier en un dossier qui contient le fichier exécutable &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T150757Z">
+        <seg>Cette commande passe au dossier qui contient le fichier exécutable &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29990,8 +29990,8 @@ under the terms of this General Public License.</seg>
       <tuv lang="EN">
         <seg>This is necessary even if there's only one combination available, like pt_BR in case of Portuguese / Brazil.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130502T132935Z">
-        <seg>Ceci est nécessaire, même s'il n'y a qu'une seule combinaison possible (ex : pt_BR dans le cas du portugais / Brésil).</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T150941Z">
+        <seg>Ceci est nécessaire, même s'il n'y a qu'une seule combinaison possible (ex. : pt_BR dans le cas du portugais / Brésil).</seg>
       </tuv>
     </tu>
     <tu>
@@ -30225,16 +30225,16 @@ this version will not interfere with it.</seg>
       <tuv lang="EN">
         <seg>This package can be used on any platform where a Java 1.6 JRE compatible JRE is installed.</seg>
       </tuv>
-      <tuv lang="FR" changeid="jchelary" changedate="20130526T125059Z">
-        <seg>Ce package peut être utilisé par toutes les plateformes sur lesquelles un environnement d'exécution Java 1.6 compatible Oracle est installé. </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T150557Z">
+        <seg>Ce paquet peut être utilisé par toutes les plateformes sur lesquelles un environnement d'exécution Java 1.6 compatible Oracle est installé. </seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>This package is bundled with Oracle's Java Runtime Environment.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130417T091146Z">
-        <seg>Ce package contient l'environnement d'exécution Java distribué par Oracle.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T150531Z">
+        <seg>Ce paquet contient l'environnement d'exécution Java distribué par Oracle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31043,8 +31043,8 @@ you modify it: responsibilities to respect the freedom of others.</seg>
       <tuv lang="EN">
         <seg>To start OmegaT for the first time with Java Web Start, load the following URL in your browser:</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130419T164423Z">
-        <seg>Pour lancer OmegaT pour la première fois avec Java Web Start, insérez l'URL suivant dans votre navigateur : </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T150313Z">
+        <seg>Pour lancer OmegaT pour la première fois avec Java Web Start, insérez l'URL suivante dans votre navigateur : </seg>
       </tuv>
     </tu>
     <tu>
@@ -32132,8 +32132,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>Use it if OmegaT is not to synchronize the project contents.</seg>
       </tuv>
-      <tuv lang="FR" changeid="pingouin" changedate="20130418T144956Z">
-        <seg>Utilisez la si OmegaT ne s'occupe pas de la synchronisation du contenu du projet.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T151209Z">
+        <seg>Utilisez-la si vous voulez qu'OmegaT ne synchronise pas le contenu du projet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32965,8 +32965,8 @@ you have just discovered.</seg>
       <tuv lang="EN">
         <seg>When started in console mode, no GUI is loaded (so it will work on any console) and the given project is automatically processed as requested.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130502T134630Z">
-        <seg>Si OmegaT est démarré en mode console, aucune GUI (interface graphique) n'est chargée (cela marchera donc sur n'importe quelle console) et le projet choisi est automatiquement traité comme vous l'avez demandé.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T150646Z">
+        <seg>Si OmegaT est démarré en mode console, aucune interface graphique n'est chargée (cela marchera donc sur n'importe quelle console) et le projet choisi est automatiquement traité comme vous l'avez demandé.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33360,8 +33360,8 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       <tuv lang="EN">
         <seg>With the Mac OS X OmegaT.app package, double-click on the &lt;l0&gt;JavaApplicationStub&lt;/l0&gt; located in /OmegaT.app/Contents/MacOS/ (see above to access it) to launch OmegaT from the console and get immediate access to the log.</seg>
       </tuv>
-      <tuv lang="FR" changeid="laurieetclémentine" changedate="20130412T125027Z">
-        <seg>Avec le package Mac OS X OmegaT.app, double-cliquez sur &lt;l0&gt;JavaApplicationStub&lt;/l0&gt; situé dans /OmegaT.app/Contents/MacOS/ (voir ci-dessus comment y accéder) pour lancer OmegaT depuis la console et avoir un accès immédiat au journal.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T150515Z">
+        <seg>Avec le paquet Mac OS X OmegaT.app, double-cliquez sur &lt;l0&gt;JavaApplicationStub&lt;/l0&gt; situé dans /OmegaT.app/Contents/MacOS/ (voir ci-dessus comment y accéder) pour lancer OmegaT depuis la console et avoir un accès immédiat au journal.</seg>
       </tuv>
     </tu>
     <tu>
