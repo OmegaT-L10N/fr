@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.2" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.2_2" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2971,8 +2971,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Aggregate tags&lt;/e0&gt;: if checked, tags without translatable text between them will be aggregated into single tags.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130429T085012Z">
-        <seg>&lt;e0&gt;Agréger les balises &lt;/e0&gt;: Si cette case est cochée, les balises qui ne contiennent pas de texte traductible entre elles seront rassemblées en une seule balise.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T134714Z">
+        <seg>&lt;e0&gt;Agréger les balises&lt;/e0&gt; : si cette case est cochée, les balises qui ne contiennent pas de texte traductible entre elles seront rassemblées en une seule balise.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3035,16 +3035,16 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Do not translate the content attribute of meta-tags ... :&lt;/e0&gt; The following meta-tags will not be translated.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130429T085407Z">
-        <seg>&lt;e0&gt;Ne pas traduire l'attribut content des balises méta ... :&lt;/e0&gt; Les balises méta ne seront pas traduites.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T134608Z">
+        <seg>&lt;e0&gt;Ne pas traduire l'attribut content des balises méta ... :&lt;/e0&gt; les balises méta ne seront pas traduites.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Do not translate the content of tags with the following attribute key-value pairs (separate with commas)&lt;/e0&gt;: a match in the list of key-value pairs will cause the content of tags to be ignored</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130429T085552Z">
-        <seg>&lt;e0&gt;Ne pas traduire le contenu des balises comportant les paires de clé-valeur d'attribut suivantes (séparées par des virgules) &lt;/e0&gt;: une correspondance dans la liste des paires de valeur-clé aura pour effet de faire ignorer le contenu de la balise</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T134625Z">
+        <seg>&lt;e0&gt;Ne pas traduire le contenu des balises comportant les paires de clé-valeur d'attribut suivantes (séparées par des virgules)&lt;/e0&gt; : une correspondance dans la liste des paires de valeur-clé aura pour effet de faire ignorer le contenu de la balise</seg>
       </tuv>
     </tu>
     <tu>
@@ -3339,16 +3339,16 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Power Point&lt;/e0&gt;: slide comments, slide masters, slide layouts</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130429T084820Z">
-        <seg>&lt;e0&gt;Power Point&lt;/e0&gt; : commentaires des diapositives, masques des diapositves, mise en page des diapositives</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T134702Z">
+        <seg>&lt;e0&gt;Power Point&lt;/e0&gt; : commentaires des diapositives, masques des diapositives, mise en page des diapositives</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Preserve spaces for all tags&lt;/e0&gt;: if checked, "white space" (i.e., spaces and newlines) will be preserved, even if not set technically in the document</seg>
       </tuv>
-      <tuv lang="FR" changeid="samsung" changedate="20130415T134816Z">
-        <seg>&lt;e0&gt;Préserver les espaces pour toutes les balises &lt;/e0&gt;: Si cette case est cochée , les "espaces blancs" (c.à.d, les espaces et les sauts de ligne) seront préservés, même s'ils ne sont pas définis techniquement dans le document</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T134803Z">
+        <seg>&lt;e0&gt;Préserver les espaces pour toutes les balises&lt;/e0&gt; : si cette case est cochée, les « caractères d'espacement » (c.à.d les espaces et les sauts de ligne) seront préservés, même s'ils ne sont pas définis techniquement dans le document</seg>
       </tuv>
     </tu>
     <tu>
@@ -3435,8 +3435,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Start a new paragraph on: the &lt;br&gt;&lt;/e0&gt; HTML tag will constitute a paragraph for segmentation purposes.</seg>
       </tuv>
-      <tuv lang="FR" changeid="samsung" changedate="20130415T121907Z">
-        <seg>&lt;e0&gt;Commencer un nouveau paragraphe sur : &lt;br&gt; (rupture de ligne)&lt;/e0&gt; Les balises HTML créeront un paragraphe pour aider à la segmentation.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T134547Z">
+        <seg>&lt;e0&gt;Commencer un nouveau paragraphe sur : &lt;br&gt; (rupture de ligne)&lt;/e0&gt;, cette balise HTML constituera un paragraphe de point de vue de la segmentation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3467,8 +3467,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Translate the following attributes&lt;/e0&gt;: the selected attributes will appear as segments in the Editor window.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130429T082559Z">
-        <seg>&lt;e0&gt;Traduire les attributs suivants&lt;/e0&gt; : Les attributs séléctionnés apparaîtront en tant que segments dans la fenêtre Editeur.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T134421Z">
+        <seg>&lt;e0&gt;Traduire les attributs suivants&lt;/e0&gt; : les attributs sélectionnés apparaîtront en tant que segments dans la fenêtre de l'Éditeur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13172,8 +13172,8 @@ know their rights.</seg>
       <tuv lang="EN">
         <seg>For instance, if the file filter specifies UTF8 as the encoding scheme for the target files, selecting Always will assure that this information is included in the translated files.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130429T082456Z">
-        <seg>Par exemple, si le filtre de fichiers désigne UTF8 comme système d'encodage pour les fichiers cibles, séléctionner "Toujours" permettra de s'assurer que cette information soit inscrite dans les fichiers cibles.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T134403Z">
+        <seg>Par exemple, si le filtre de fichiers désigne UTF8 comme système d'encodage pour les fichiers cibles, sélectionner « Toujours » permettra de s'assurer que cette information est inscrite dans les fichiers cibles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28196,8 +28196,8 @@ sure this has not already been reported.</seg>
       <tuv lang="EN">
         <seg>The option allows OmegaT to override the specification in the PO file header and use the default for the selected target language.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130429T082024Z">
-        <seg>Cette option permet à OmegaT de remplacer la spécification dans l'en-tête du fichier PO et d'utiliser la valeur par défaut pour la langue cible séléctionnée.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T134342Z">
+        <seg>Cette option permet à OmegaT de remplacer la spécification dans l'en-tête du fichier PO et d'utiliser la valeur par défaut pour la langue cible sélectionnée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29560,8 +29560,8 @@ distribute copies of the software, or if you modify it.</seg>
       <tuv lang="EN">
         <seg>They will appear as separate segments in the translation.</seg>
       </tuv>
-      <tuv lang="FR" changeid="samsung" changedate="20130415T130626Z">
-        <seg>Ils apparaitront en segments séparés dans la traduction.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T134656Z">
+        <seg>Ils apparaîtront en segments séparés dans la traduction.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34120,8 +34120,8 @@ installation by using the installation script (linux-install.sh).</seg>
       <tuv lang="EN">
         <seg>You can select which elements are to be translated.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130429T084632Z">
-        <seg>Vous pouvez séléctionner les éléments qui doivent être traduits.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T134645Z">
+        <seg>Vous pouvez sélectionner les éléments qui doivent être traduits.</seg>
       </tuv>
     </tu>
     <tu>
