@@ -2539,8 +2539,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; main window (Editor, Match viewer, Glossary viewer)</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130506T072513Z">
-        <seg>Fenêtre principale d'&lt;a0&gt;OmegaT&lt;/a0&gt; (Editeur, volet Correspondances, volet Glossaires)</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T153622Z">
+        <seg>Fenêtre principale d'&lt;a0&gt;OmegaT&lt;/a0&gt; (Éditeur, volet Correspondances, volet Glossaires)</seg>
       </tuv>
     </tu>
     <tu>
@@ -11335,8 +11335,8 @@ several security warnings.</seg>
       <tuv lang="EN">
         <seg>E.g., if the project is EN-&gt;FR, alignDir must contain a bundle ending with _fr.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130506T072330Z">
-        <seg>C'est à dire que, si le projet a pour paire de langues EN-&gt;FR, alignDir doit contenir un paquet finissant par _fr.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T153609Z">
+        <seg>C'est-à-dire que, si le projet a pour paire de langues EN-&gt;FR, alignDir doit contenir un paquet finissant par _fr.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15342,8 +15342,8 @@ that you install an OmegaT version with JRE included.</seg>
       <tuv lang="EN">
         <seg>If you are unable to run &lt;a0&gt;OmegaT&lt;/a0&gt; normally (no graphical environment available): copy the settings files from some other &lt;a1&gt;OmegaT&lt;/a1&gt; installation on another machine to a specific folder.</seg>
       </tuv>
-      <tuv lang="FR" changeid="jchelary" changedate="20130526T130455Z">
-        <seg>Si vous ne pouvez pas exécuter&lt;a0&gt;OmegaT&lt;/a0&gt; normallement (si aucun environnement graphique n'est disponible) : copiez les fichiers de paramétrage provenant d'une autre installation &lt;a1&gt;OmegaT&lt;/a1&gt; effectuée sur une autre machine vers un répertoire spécifique.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T153544Z">
+        <seg>Si vous ne pouvez pas exécuter&lt;a0&gt;OmegaT&lt;/a0&gt; normalement (si aucun environnement graphique n'est disponible) : copiez les fichiers de paramétrage provenant d'une autre installation &lt;a1&gt;OmegaT&lt;/a1&gt; effectuée sur une autre machine vers un répertoire spécifique.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15574,8 +15574,8 @@ OmegaT is to use Java Web Start.</seg>
       <tuv lang="EN">
         <seg>If you have the source and the target Properties files for one and the same contents in your language pair, this procedure will create a corresponding tmx file for these contents.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130506T072231Z">
-        <seg>Si vous avez les fichiers Propriétés source et cible pour un même contenu dans votre paire de langues, cette procédure créera un fichier TMX correspondant à ce contenu.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T153558Z">
+        <seg>Si vous avez les fichiers Properties source et cible pour un même contenu dans votre paire de langues, cette procédure créera un fichier TMX correspondant à ce contenu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16424,8 +16424,8 @@ patent against the party.</seg>
       <tuv lang="EN">
         <seg>In this dialog one can define the font used by &lt;a0&gt;OmegaT&lt;/a0&gt; in the following windows:</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130506T072430Z">
-        <seg>Dans cette boîte de dialogue, il est possible de dénifir la police qui sera utilisée par &lt;a0&gt;OmegaT&lt;/a0&gt; dans les fenêtres suivantes :</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T153617Z">
+        <seg>Dans cette boîte de dialogue, il est possible de définir la police qui sera utilisée par &lt;a0&gt;OmegaT&lt;/a0&gt; dans les fenêtres suivantes :</seg>
       </tuv>
     </tu>
     <tu>
@@ -28384,8 +28384,8 @@ modification follow.</seg>
       <tuv lang="EN">
         <seg>The purpose of the console (i.e. command line) mode is to permit the use &lt;a0&gt;of OmegaT&lt;/a0&gt; as translation tool in a scripting environment.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130503T133958Z">
-        <seg>Le but du mode console (c'est à dire ligne de commande) est de permettre l'utilisation &lt;a0&gt;d'OmegaT&lt;/a0&gt; en tant qu'outil de traduction dans un environnement de script.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T153456Z">
+        <seg>Le but du mode console (c'est-à-dire ligne de commande) est de permettre l'utilisation &lt;a0&gt;d'OmegaT&lt;/a0&gt; en tant qu'outil de traduction dans un environnement de script.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29934,8 +29934,8 @@ under the terms of this General Public License.</seg>
       <tuv lang="EN">
         <seg>This is especially the case when a large file containing many segments is open in the editor, and/or slow hardware is used.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130428T153819Z">
-        <seg>C'est plus particulièrement le cas lorsqu'un fichier contenant de nombreux segments est ouvert dans l'Editeur et/ou que le matériel utilisé est lent.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T153645Z">
+        <seg>C'est plus particulièrement le cas lorsqu'un fichier contenant de nombreux segments est ouvert dans l'Éditeur et/ou que le matériel utilisé est lent.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32925,8 +32925,8 @@ you have just discovered.</seg>
       <tuv lang="EN">
         <seg>When launched in console mode, no GUI is loaded ( it will work therefore on any console) and the given project is automatically translated.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130428T153152Z">
-        <seg>Lorsqu'OmegaT est lancé en mode console, aucune GUI (interface graphique) n'est chargée (cela fonctionnera donc sur toutes les consoles) et le projet est automatiquement traduit.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T153503Z">
+        <seg>Lorsqu'OmegaT est lancé en mode console, aucune interface graphiquen'est chargée (cela fonctionnera donc sur toutes les consoles) et le projet est automatiquement traduit.</seg>
       </tuv>
     </tu>
     <tu>
