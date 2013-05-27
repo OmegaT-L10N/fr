@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.2" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.2_2" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2449,6 +2449,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; Files and Directories</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130415T142138Z">
+        <seg>Les fichiers et répertoires d'&lt;a0&gt;OmegaT&lt;/a0&gt; </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; Files and Folders</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130519T102451Z">
@@ -3187,40 +3195,40 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Keyboard shortcuts in the editor&lt;/e0&gt;: the list of shortcuts used in the editor</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130410T142357Z">
-        <seg>&lt;e0&gt;Raccourcis clavier dans le volet d'édition&lt;/e0&gt;: la liste des raccourcis utilisés pour l'édition</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T125134Z">
+        <seg>&lt;e0&gt;Raccourcis clavier dans le volet d'édition&lt;/e0&gt; : la liste des raccourcis utilisés pour l'édition</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Keyword index:&lt;/e0&gt; an extensive keyword index is provided to help the reader find the relevant information.</seg>
       </tuv>
-      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T130500Z">
-        <seg>&lt;e0&gt;Index par mots-clés :&lt;/e0&gt;  un grand index par mots-clés est fourni pour aider le lecteur à trouver les informations pertinentes.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T125208Z">
+        <seg>&lt;e0&gt;Index par mots-clés&lt;/e0&gt; : un grand index par mots-clés est fourni pour aider le lecteur à trouver les informations pertinentes.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Languages:&lt;/e0&gt; the ISO list of languages and language codes is provided</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130410T142317Z">
-        <seg>&lt;e0&gt;Langues :&lt;/e0&gt; la liste ISO des langues et des codes de langue est fournie</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T125127Z">
+        <seg>&lt;e0&gt;Langues&lt;/e0&gt; : la liste ISO des langues et des codes de langue est fournie</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Learn to use OmegaT in 5 minutes!:&lt;/e0&gt; this chapter is intended as a quick tutorial for beginners as well as people who already know CAT tools, showing the complete procedure from opening a new translation project through to completing the translation.</seg>
       </tuv>
-      <tuv lang="FR" changeid="jchelary" changedate="20130526T100400Z">
-        <seg>&lt;e0&gt; Tutoriel premiers pas :&lt;/e0&gt; Ce chapitre est conçu comme un tutoriel premiers pas pour les débutants et les “impatients”, il offre un aperçu de la procédure complète, allant de la création d'un nouveau projet de traduction à la traduction effective.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T124658Z">
+        <seg>&lt;e0&gt; Tutoriel premiers pas :&lt;/e0&gt; ce chapitre est conçu comme un tutoriel premiers pas pour les débutants et les « impatients », il offre un aperçu de la procédure complète, allant de la création d'un nouveau projet de traduction à la traduction effective.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Miscellanea&lt;/e0&gt;: deals with other issues of interest, such as how to avoid losing data.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130410T142157Z">
-        <seg>&lt;e0&gt;Divers&lt;/e0&gt;: ce chapitre traite d'autres questions importantes, telles que les façons d'éviter des pertes de données.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T125139Z">
+        <seg>&lt;e0&gt;Divers&lt;/e0&gt; : ce chapitre traite d'autres questions importantes, telles que les façons d'éviter des pertes de données.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3315,8 +3323,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;OmegaT on the web:&lt;/e0&gt; information regarding on-line OmegaT resources</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130410T142246Z">
-        <seg>&lt;e0&gt;OmegaT sur le web:&lt;/e0&gt; informations concernant les ressources en ligne d'OmegaT</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T125110Z">
+        <seg>&lt;e0&gt;OmegaT sur le web :&lt;/e0&gt; informations concernant les ressources en ligne d'OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -3355,8 +3363,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Project properties&lt;/e0&gt;, &lt;e1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt; Files and Folders:&lt;/e1&gt; a project in the context of OmegaT is the piece of work that OmegaT as a CAT tool is able to handle.</seg>
       </tuv>
-      <tuv lang="FR" changeid="jchelary" changedate="20130526T100411Z">
-        <seg>&lt;e0&gt;Propriétés du projet&lt;/e0&gt;, &lt;e1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt; Fichiers et Répertoires :&lt;/e1&gt; Pour OmegaT, un projet est un travail qu'il est en mesure de gérer, en tant qu'outil de TAO.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T124753Z">
+        <seg>&lt;e0&gt;Propriétés du projet&lt;/e0&gt;, &lt;e1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt; Fichiers et Répertoires :&lt;/e1&gt; pour OmegaT, un projet est un travail qu'il est en mesure de gérer, en tant qu'outil de TAO.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3379,24 +3387,24 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Searches&lt;/e0&gt; and&lt;e1&gt; &lt;/e1&gt;&lt;e2&gt;Regular expressions&lt;/e2&gt;: Searches in OmegaT can be as simple as "&lt;e3&gt;list segments with &lt;/e3&gt;&lt;e4&gt;the word 'kangaroo' ".</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130502T081949Z">
-        <seg>&lt;e0&gt;Recherches&lt;/e0&gt; et&lt;e1&gt; &lt;/e1&gt;&lt;e2&gt;Expressions régulières&lt;/e2&gt;: Les recherches sur OmegaT peuvent être aussi simples que « &lt;e3&gt;lister les segments contenant&lt;/e3&gt;&lt;e4&gt;le mot 'kangourou' ».</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T125013Z">
+        <seg>&lt;e0&gt;Recherches&lt;/e0&gt; et&lt;e1&gt; &lt;/e1&gt;&lt;e2&gt;Expressions régulières&lt;/e2&gt; : les recherches sur OmegaT peuvent être aussi simples que « &lt;e3&gt;lister les segments contenant&lt;/e3&gt;&lt;e4&gt;le mot "kangourou" ».</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Segmentation&lt;/e0&gt;:translation memory tools work with textual units called segments.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130410T140812Z">
-        <seg>&lt;e0&gt;Segmentation&lt;/e0&gt;: les outils de mémoire de traduction fonctionnent avec des unités de texte appelées segments.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T124932Z">
+        <seg>&lt;e0&gt;Segmentation&lt;/e0&gt; : les outils de mémoire de traduction fonctionnent avec des unités de texte appelées segments.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Shortcuts customization:&lt;/e0&gt; shortcuts can be customized to your personal preferences</seg>
       </tuv>
-      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T130302Z">
-        <seg>&lt;e0&gt;Personnalisation des raccourcis :&lt;/e0&gt; les raccourcis peuvent être personnalisés selon vos préférences personnelles</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T125152Z">
+        <seg>&lt;e0&gt;Personnalisation des raccourcis&lt;/e0&gt; : les raccourcis peuvent être personnalisés selon vos préférences personnelles</seg>
       </tuv>
     </tu>
     <tu>
@@ -3451,8 +3459,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;The user interface&lt;/e0&gt;,&lt;e1&gt;Main Menu and Keyboard Shortcuts&lt;/e1&gt;: these two chapters are likely to be heavily consulted, since they explain the user interface of OmegaT and the functions available via the main menu and the keyboard shortcuts.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130502T081013Z">
-        <seg>&lt;e0&gt;L'interface utilisateur&lt;/e0&gt;,&lt;e1&gt;Menu Princpal et Raccourcis Clavier&lt;/e1&gt;: ces deux chapitres seront certainement très consultés car ils expliquent le fonctionnement de l'interface utilisateur d'OmegaT et les fonctionnalités disponibles via le menu principal et les raccourcis clavier. </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T124736Z">
+        <seg>&lt;e0&gt;L'interface utilisateur&lt;/e0&gt;,&lt;e1&gt;Menu principal et Raccourcis clavier&lt;/e1&gt;: ces deux chapitres seront certainement très consultés car ils expliquent le fonctionnement de l'interface utilisateur d'OmegaT et les fonctionnalités disponibles via le menu principal et les raccourcis clavier. </seg>
       </tuv>
     </tu>
     <tu>
@@ -3467,8 +3475,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Translation memories: &lt;/e0&gt; explains the role of the various subfolders containing translation memories, and provides information on other important aspects relating to translation memories.</seg>
       </tuv>
-      <tuv lang="FR" changeid="jchelary" changedate="20130526T100416Z">
-        <seg>&lt;e0&gt;Mémoires de traduction: &lt;/e0&gt; ce chapitre explique le rôle des différents sous-répertoires contenant les mémoires de traduction, et fournit des informations concernant d'autres éléments importants en lien avec les mémoires de traductions.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T124925Z">
+        <seg>&lt;e0&gt;Mémoires de traduction : &lt;/e0&gt; ce chapitre explique le rôle des différents sous-dossiers contenant les mémoires de traduction, et fournit des informations concernant d'autres éléments importants en lien avec les mémoires de traduction.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3531,8 +3539,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Working with plain text&lt;/e0&gt; and &lt;e1&gt;Working with formatted text&lt;/e1&gt;: these two chapters explain certain important points concerning texts to be translated, such as the encoding set (in the case of plain text files) and tag handling (in the case of formatted text).</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130502T081145Z">
-        <seg>&lt;e0&gt;Travailler avec du texte brut&lt;/e0&gt; et &lt;e1&gt;Travailler avec du texte formaté &lt;/e1&gt;: ces deux chapitres expliquent certains points importants concernant les textes à traduire, tels que les ensembles d'encodage (dans le cas de fichiers textes bruts)  et la gestion de balises (dans le cas de textes formatés).</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T124850Z">
+        <seg>&lt;e0&gt;Travailler avec du texte brut&lt;/e0&gt; et &lt;e1&gt;Travailler avec du texte formaté&lt;/e1&gt; : ces deux chapitres expliquent certains points importants concernant les textes à traduire, tels que les ensembles d'encodage (dans le cas de fichiers textes bruts) et la gestion de balises (dans le cas de textes formatés).</seg>
       </tuv>
     </tu>
     <tu>
@@ -4365,6 +4373,14 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130415T163728Z">
         <seg>&lt;l0&gt;&lt;Something&gt;\&lt;a1&gt;OmegaT&lt;/a1&gt;&lt;/l0&gt; (&lt;Something&gt; correspond à l'emplacement du dossier "personnel" déterminé par Java)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;&lt;User Home&gt;/.omegat &lt;/l0&gt;(.omegat is a directory, the dot preceding its name makes it invisible unless you type ls -a or an equivalent command)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130416T092104Z">
+        <seg>&lt;l0&gt;&lt;User Home&gt;/.omegat &lt;/l0&gt;(.omegat est un répertoire. Le point qui précède son nom le rend invisible, à moins que vous ne tapiez ls-a ou une commande équivalente)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7728,6 +7744,14 @@ the predecessor has it or can get it with reasonable efforts.</seg>
       </tuv>
       <tuv lang="FR" changeid="jchelary" changedate="20130526T140056Z">
         <seg>Une « opération entre entités » est une opération transférant le contrôle d’une organisation, ou de l’essentiel de ses actifs, ou scindant une organisation ou fusionnant des organisations. Si la propagation d’une création régie résulte d’une opération entre entités, chaque partie à cette opération recevant un exemplaire de la création reçoit également toutes licences relatives à la création que le titulaire de droit précédent avait ou pouvait transférer aux termes du paragraphe précédent, ainsi qu’un droit de détention de la Source Correspondante de cette création du titulaire de droit précédent si le prédécesseur en dispose ou peut l’obtenir par des efforts raisonnables.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An &lt;a0&gt;OmegaT&lt;/a0&gt; translation project consists of a number of files and directories.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130415T144037Z">
+        <seg>Un projet de traduction &lt;a0&gt;OmegaT&lt;/a0&gt; se compose d'un certain nombre de fichiers et de répertoires. </seg>
       </tuv>
     </tu>
     <tu>
@@ -11245,6 +11269,14 @@ several security warnings.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>During translation additional files may get created in this subdirectory as follows</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130430T115718Z">
+        <seg>Au cours de la traduction, il est possible que des fichiers supplémentaires soient créés dans ce sous-répertoire comme suit </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>During translation additional files may get created in this subfolder as follows</seg>
       </tuv>
       <tuv lang="FR" changeid="jchelary" changedate="20130526T122024Z">
@@ -12639,6 +12671,14 @@ The FSF strongly urges you not to use this translation as the official distribu-
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130430T071141Z">
         <seg>Fichiers à traduire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Files within the &lt;f7&gt;source&lt;/f7&gt; directory, whether translated or not, are then generated here, with the same hierarchy as present in the source subfolder.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130430T122859Z">
+        <seg>Les fichiers contenus dans le répertoire &lt;f7&gt;source&lt;/f7&gt; (qu'ils soient traduits ou non) sont alors produits dans le sous-dossier target (cible) et présentent la même hiérarchie que celle du sous-dossier source.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14833,8 +14873,8 @@ tous les paramètres reprendront leur valeur par défaut,
       <tuv lang="EN">
         <seg>If spell checking is activated, spelling mistakes and typos are recognized and can be corrected during translation.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130410T142054Z">
-        <seg>Si le correcteur orthographique est activé, les fautes d'orthographe et les fautes de frappe sont reconnues et corrigées pendant la traduction.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T125052Z">
+        <seg>Si le correcteur orthographique est activé, les fautes d'orthographe et les fautes de frappe sont reconnues et peuvent être corrigées pendant la traduction.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18412,6 +18452,14 @@ le JRE est déjà installé sur Mac OX X antérieur à Mac OS X 10.7 (Lion).</se
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Make it executable (chmod +x OmegaT) from the command line after making sure you are in the /OmegaT_2.5/ directory.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130417T085327Z">
+        <seg>Rendez le exécutable (chmod +x OmegaT) à partir de la ligne de commande après vous être assuré que vous êtes dans le répertoire /OmegaT_2.5/.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Make regular copies of the file /omegat/project_save.tmx to backup media, such as CD or DVD.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130422T130947Z">
@@ -20598,6 +20646,14 @@ selecting, obtaining and installing it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT projects and subdirectories</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130416T090656Z">
+        <seg>Projets OmegaT et sous-répertoires</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT projects and subfolders</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130519T102505Z">
@@ -20624,8 +20680,8 @@ selecting, obtaining and installing it.</seg>
       <tuv lang="EN">
         <seg>OmegaT stores your translations and proposes possible translations from similar segments in registered in the translation memory files.</seg>
       </tuv>
-      <tuv lang="FR" changeid="jchelary" changedate="20130526T100336Z">
-        <seg>OmegaT enregistre vos traductions et propose des traductions possibles en fonction des segments similaires présent dans les fichiers mémoires pré-existants.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130527T124628Z">
+        <seg>OmegaT enregistre vos traductions et propose des traductions possibles en fonction des segments similaires présents dans les fichiers mémoires pré-existants.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34513,6 +34569,14 @@ them.</seg>
       </tuv>
       <tuv lang="FR" changeid="jchelary" changedate="20130526T122340Z">
         <seg>Vous pourrez ainsi lancer OmegaT en exécutant ce fichier à partir de la ligne de commande.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You will then be able to launch OmegaT by executing this file from the command line.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130430T131419Z">
+        <seg>Vous pourrez ainsi lancer OmegaT en exécutant ce fichier à partir de la ligne de commande. </seg>
       </tuv>
     </tu>
     <tu>
