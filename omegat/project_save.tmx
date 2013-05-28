@@ -3523,8 +3523,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Warning: &lt;/e0&gt;because the text will segment differently after filter options have been changed, so you may have to start translating from scratch.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130506T091018Z">
-        <seg>&lt;e0&gt;Avertissement : &lt;/e0&gt; Le texte étant segmenté différemment après la modication des options de filtrage, il vous faudra peut-être recommencer la traduction à partir du début.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T084513Z">
+        <seg>&lt;e0&gt;Avertissement :&lt;/e0&gt; le texte étant segmenté différemment après la modification des options de filtrage, il vous faudra peut-être recommencer la traduction à partir du début.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8232,8 +8232,8 @@ provoquer des comportements inattendus, mais corrects.</seg>
       <tuv lang="EN">
         <seg>At each cursor position rules, consisting of a &lt;e0&gt;Before &lt;/e0&gt;and &lt;e1&gt;After &lt;/e1&gt;pattern, are applied in their given order to see if any of the&lt;e2&gt; Before&lt;/e2&gt; patterns are valid for the text on the left and the corresponding &lt;e3&gt;After&lt;/e3&gt; pattern for the text on the right of the cursor.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130506T092322Z">
-        <seg>A chaque position du curseur, des règles (consitant en masques &lt;e0&gt;Avant &lt;/e0&gt;et &lt;e1&gt;Après &lt;/e1&gt;) sont appliquées dans leur ordre donné pour voir si les masques &lt;e2&gt; Avant&lt;/e2&gt; sont valides pour le texte à gauche du curseur et si les masques &lt;e3&gt;Après&lt;/e3&gt; correspondant le sont pour le texte situé à sa droite.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T084531Z">
+        <seg>A chaque position du curseur, des règles (consistant en masques &lt;e0&gt;Avant &lt;/e0&gt;et &lt;e1&gt;Après &lt;/e1&gt;) sont appliquées dans leur ordre donné pour voir si les masques &lt;e2&gt; Avant&lt;/e2&gt; sont valides pour le texte à gauche du curseur et si les masques &lt;e3&gt;Après&lt;/e3&gt; correspondant le sont pour le texte situé à sa droite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13324,8 +13324,8 @@ authors of previous versions.</seg>
       <tuv lang="EN">
         <seg>For this to happen, there should be a break rule for "?", when followed by spaces and a capitalized word.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130506T092724Z">
-        <seg>Pour faire cela, il est nécessaire d'avoir une règle de segmentation s'appliquant à « ? », lorsqu'il est suivi d'un espace et d'un mot dont la première lettre est écrite en majuscule.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T084610Z">
+        <seg>Pour faire cela, il est nécessaire d'avoir une règle de segmentation s'appliquant à « ? », lorsqu'il est suivi d'une espace et d'un mot dont la première lettre est écrite en majuscule.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15077,8 +15077,8 @@ when it starts in an interactive mode:</seg>
       <tuv lang="EN">
         <seg>If the rule matches, either the cursor moves on without inserting a segment break (for an exception rule) or a new segment break is created at the current cursor position (for the break rule).</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130506T092434Z">
-        <seg>Si la règle correspond, soit le curseur continue sans créer de rupture de segment  (règle de l'exception), soit une nouvelle interruption de segment est créée là où se trouve le curseur (règle de segmentation).</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T084547Z">
+        <seg>Si la règle correspond, soit le curseur continue sans créer de rupture de segment (règle d'exception), soit une nouvelle interruption de segment est créée là où se trouve le curseur (règle de segmentation).</seg>
       </tuv>
     </tu>
     <tu>
@@ -30666,8 +30666,8 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="EN">
         <seg>To define a rule as a break rule, tick the Break/Exception check box.</seg>
       </tuv>
-      <tuv lang="FR" changeid="samsung" changedate="20130423T164756Z">
-        <seg>Pour définir une règle comme étant une règle de segmentation, cochez la case Segmentation / Exception.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T084626Z">
+        <seg>Pour définir une règle comme étant une règle de segmentation, cochez la case Segmentation/Exception.</seg>
       </tuv>
     </tu>
     <tu>
