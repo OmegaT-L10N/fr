@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.2" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.2_2" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5643,8 +5643,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Searches&lt;/p0&gt; &lt;s1&gt;Methods and options&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="FR" changeid="samsung" changedate="20130422T164143Z">
-        <seg>&lt;p0&gt;Rechercher&lt;/p0&gt; &lt;s1&gt;Méthodes and options&lt;/s1&gt;</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T083844Z">
+        <seg>&lt;p0&gt;Rechercher&lt;/p0&gt; &lt;s1&gt;Méthodes et options&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6814,16 +6814,16 @@ this License.</seg>
       <tuv lang="EN">
         <seg>A non-whitespace character: [^\s]</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130506T130340Z">
-        <seg>Un caractère non blanc : [^\s]</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T083359Z">
+        <seg>Un caractère n'étant pas un caractère d'espacement : [^\s]</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>A non-word boundary</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130506T131206Z">
-        <seg>Extrémité de non-mot</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T083535Z">
+        <seg>N'est pas une extrémité de mot</seg>
       </tuv>
     </tu>
     <tu>
@@ -6989,8 +6989,8 @@ included in conveying the object code work.</seg>
       <tuv lang="EN">
         <seg>A whitespace character: [ \t\n\x0B\f\r]</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130506T130317Z">
-        <seg>Un caractère blanc : espace, tabulation, retour à la ligne ... équivalent à [ \t\n\r\f\x0B]</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T083345Z">
+        <seg>Un caractère d'espacement : espace, tabulation, retour à la ligne ... équivalent à [ \t\n\r\f\x0B]</seg>
       </tuv>
     </tu>
     <tu>
@@ -21098,8 +21098,8 @@ with exactly the same structure, including copies of any non-supported files.</s
       <tuv lang="EN">
         <seg>One could only wonder, how many the and a prepositions would still be missing without his invaluable help.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20130527T125714Z">
-        <seg>Je ne peux qu'imaginer le nombre de prépositions et d'articles qui manqueraient encore si je n'avais pas bénéficié de son aide précieuse.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T083744Z">
+        <seg>Je ne peux qu'imaginer le nombre de d'articles définis et non définis qui manqueraient encore si je n'avais pas bénéficié de son aide précieuse.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22812,8 +22812,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Regex - Boundary matchers</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130507T111031Z">
-        <seg>Expressions régulières -  Spécificateurs de limite</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T083523Z">
+        <seg>Expressions régulières - Spécificateurs de limite</seg>
       </tuv>
     </tu>
     <tu>
@@ -22828,24 +22828,24 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Regex - Character classes</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130422T172658Z">
-        <seg>Expressions régulières  - Classes de caractères</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T083302Z">
+        <seg>Expressions régulières - Classes de caractères</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Regex - Classes for Unicode blocks and categories</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130506T125021Z">
-        <seg>Expression régulières - Classes pour les catégories et blocs Unicode</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T083259Z">
+        <seg>Expressions régulières - Classes pour les catégories et blocs Unicode</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Regex - Examples of regular expressions in translations</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130424T075838Z">
-        <seg>Expressions régulières : Exemples d'expressions régulières dans les traductions</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T083647Z">
+        <seg>Expressions régulières : exemples d'expressions régulières dans les traductions</seg>
       </tuv>
     </tu>
     <tu>
@@ -24582,8 +24582,8 @@ REPAIR OR CORRECTION.</seg>
       <tuv lang="EN">
         <seg>Select the method using the radio buttons.</seg>
       </tuv>
-      <tuv lang="FR" changeid="samsung" changedate="20130422T164243Z">
-        <seg>Sélectionnez la méthode en utilisant les boutons radio.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T083947Z">
+        <seg>Sélectionnez la méthode en utilisant les boutons d'option.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26910,8 +26910,8 @@ Essayer de corriger l'erreur et rechargez le projet.</seg>
       <tuv lang="EN">
         <seg>The above search finds all target segments that contain characters, rather improbable in the target - i.e. Slovenian - language.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130506T081023Z">
-        <seg>La recherche ci-dessus permet de trouver tous les segments cible qui contiennent des caractères, plutôt improbables, dans la langue cible - c.à.d le Slovène.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T083808Z">
+        <seg>La recherche ci-dessus permet de trouver tous les segments cible qui contiennent des caractères, plutôt improbables, dans la langue cible - c.-à.-d. le Slovène.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26945,8 +26945,8 @@ Program (independent of having been made by running the Program).</seg>
       <tuv lang="EN">
         <seg>The alert (bell) character ('\u0007')</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130506T124309Z">
-        <seg>Le caractère d'alerte (signal) ('\u0007')</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T083150Z">
+        <seg>Le caractère d'alerte (signal) (« \u0007 »)</seg>
       </tuv>
     </tu>
     <tu>
@@ -27050,8 +27050,8 @@ shown below.</seg>
       <tuv lang="EN">
         <seg>The carriage-return character ('\u000D')</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130506T124205Z">
-        <seg>Le caractère retour de chariot ('\u000D')</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T083135Z">
+        <seg>Le caractère retour de chariot (« \u000D »)</seg>
       </tuv>
     </tu>
     <tu>
@@ -27066,16 +27066,16 @@ shown below.</seg>
       <tuv lang="EN">
         <seg>The character with hexadecimal value 0xhh</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130422T160041Z">
-        <seg>Le caractère de valeur héxadécimale 0xhh</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T083216Z">
+        <seg>Le caractère de valeur hexadécimale 0xhh</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>The character with hexadecimal value 0xhhhh</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130428T154733Z">
-        <seg>Le caractère ayant une valeur héxadécimale 0xhhhh</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T083057Z">
+        <seg>Le caractère ayant une valeur hexadécimale 0xhhhh</seg>
       </tuv>
     </tu>
     <tu>
@@ -27236,8 +27236,8 @@ utilisé à la place.</seg>
       <tuv lang="EN">
         <seg>The control character corresponding to x</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130422T155848Z">
-        <seg>Le caractère de contrôle correpondant à x</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T083203Z">
+        <seg>Le caractère de contrôle correspondant à x</seg>
       </tuv>
     </tu>
     <tu>
@@ -27430,8 +27430,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The escape character ('\u001B')</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130428T154749Z">
-        <seg>Le caractère d'échappement  ('\u001B')</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T083156Z">
+        <seg>Le caractère d'échappement  (« \u001B »)</seg>
       </tuv>
     </tu>
     <tu>
@@ -27574,8 +27574,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The following list includes expressions you may find useful when searching through the translation memory:</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130424T075817Z">
-        <seg>Le liste suivante inclut des expressions qui pourront vous être utiles si vous effectuez des recherches dans la mémoire de traduction :  </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T083640Z">
+        <seg>Le liste suivante inclut des expressions qui pourront vous être utiles si vous effectuez des recherches dans la mémoire de traduction :</seg>
       </tuv>
     </tu>
     <tu>
@@ -27638,8 +27638,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The form-feed character ('\u000C')</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130506T124159Z">
-        <seg>Le caractère saut de page ('\u000C')</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T083143Z">
+        <seg>Le caractère saut de page (« \u000C »)</seg>
       </tuv>
     </tu>
     <tu>
@@ -28107,8 +28107,8 @@ freedom to share and change it.</seg>
       <tuv lang="EN">
         <seg>The newline (line feed) character ('\u000A')</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130506T124034Z">
-        <seg>Le caractère passage à la ligne (ajout de ligne)  ('\u000A')</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T083125Z">
+        <seg>Le caractère passage à la ligne (ajout de ligne) (« \u000A »)</seg>
       </tuv>
     </tu>
     <tu>
@@ -28574,8 +28574,8 @@ protocols for communication across the network.</seg>
       <tuv lang="EN">
         <seg>The search window consists of a text field for search strings or keywords, flags and radio buttons for setting up the search and a display area containing the results of the search.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130507T125813Z">
-        <seg>La fenêtre Recherche textuelle est composée d'un champ de saisie destiné aux chaînes de caractères ou aux mots clés à trouver, de cases à cocher et de boutons de radio (qui permettent de sélectionner les paramètres de la recherche) et d'une zone d'affichage, où apparaissent les résultats de la recherche.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T084013Z">
+        <seg>La fenêtre Recherche textuelle est composée d'un champ de saisie destiné aux chaînes de caractères ou aux mots clés à trouver, de cases à cocher et de boutons d'option (qui permettent de sélectionner les paramètres de la recherche) et d'une zone d'affichage, où apparaissent les résultats de la recherche.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28863,8 +28863,8 @@ making modifications to it.</seg>
       <tuv lang="EN">
         <seg>The tab character ('\u0009')</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130422T155610Z">
-        <seg>La tabulation ('\u0009')</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T083117Z">
+        <seg>La tabulation (« \u0009 »)</seg>
       </tuv>
     </tu>
     <tu>
@@ -29544,8 +29544,8 @@ distribute copies of the software, or if you modify it.</seg>
       <tuv lang="EN">
         <seg>They generally follow much the same pattern (for an example from the Regular Expression Tester see below): the regular expression (top entry) analyzes the search text (Text box in the middle) , yielding the hits, shown in the result Text box.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130506T132722Z">
-        <seg>Généralement, ils suivent le même modèle (voir ci-dessous pour un exemple  de Testeur d'Expressions Régulières) : l'expression régulière (l'entrée du haut) analyse le texte de recherche (Zone de texte au milieu), rassemble les correspondances trouvées et les affiche dans la zone de texte de résultat.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T083604Z">
+        <seg>Généralement, ils suivent le même modèle (voir ci-dessous pour un exemple de Testeur d'Expressions Régulières) : l'expression régulière (l'entrée du haut) analyse le texte de recherche (Zone de texte au milieu), rassemble les correspondances trouvées et les affiche dans la zone de texte de résultat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29710,8 +29710,8 @@ under the terms of this General Public License.</seg>
       <tuv lang="EN">
         <seg>This chapter is intended for advanced users, who need to define their own variants of segmentation rules or devise more complex and powerful key search items.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130506T123138Z">
-        <seg>Ce chapitre est destiné aux utilisateurs confirmés qui éprouvent le besoin de définir leur propres règles de segmentation et de concevoir des éléments de recherche clé plus complexes et plus puissants.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T083049Z">
+        <seg>Ce chapitre est destiné aux utilisateurs confirmés qui éprouvent le besoin de définir leurs propres règles de segmentation et de concevoir des éléments de recherche clé plus complexes et plus puissants.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30006,8 +30006,8 @@ under the terms of this General Public License.</seg>
       <tuv lang="EN">
         <seg>This is required if you would like to enter any of the meta characters !$()*+.&lt;&gt;?[\]^{|} to match as themselves.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130506T124740Z">
-        <seg>C'est nécessaire si vous souhaitez entrer un des métacaractères suivants  !$()*+.&lt;&gt;?[\]^{|} de sorte qu'il ne corresponde qu'à lui-même.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T083248Z">
+        <seg>C'est nécessaire si vous souhaitez entrer un des métacaractères suivants !$()*+.&lt;&gt;?[\]^{|} de sorte qu'il ne corresponde qu'à lui-même.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39523,8 +39523,8 @@ de créer son dossier de configuration.</seg>
       <tuv lang="EN">
         <seg>search for “is”, not “this” or “isn't” etc.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130506T133540Z">
-        <seg>recherche  « is », pas  « this » ou  « isn't » etc.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T083720Z">
+        <seg>recherche  « is », pas  « this » ou  « isn't », etc.</seg>
       </tuv>
     </tu>
     <tu>
