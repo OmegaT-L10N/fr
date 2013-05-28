@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.2" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.2_2" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2499,8 +2499,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; has two ways to segment a text: by paragraph or by sentence segmentation (also referred to as “rule-based segmentation”).</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130506T090601Z">
-        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; peut segmenter un texte de deux façons différentes : par paragraphe ou par phrase ( on appelle également cela une « segmentation basée sur des règles »).</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T084402Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; peut segmenter un texte de deux façons différentes : par paragraphe ou par phrase (on appelle également cela une « segmentation basée sur des règles »).</seg>
       </tuv>
     </tu>
     <tu>
@@ -3659,24 +3659,24 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;in notes: &lt;/e0&gt;search in notes to segments</seg>
       </tuv>
-      <tuv lang="FR" changeid="samsung" changedate="20130422T220805Z">
-        <seg>&lt;e0&gt;Notes : &lt;/e0&gt;effectue la recherche dans les notes des segments</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T084231Z">
+        <seg>&lt;e0&gt;Notes :&lt;/e0&gt; effectue la recherche dans les notes des segments</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;e0&gt;in source: &lt;/e0&gt;search in the source segments</seg>
       </tuv>
-      <tuv lang="FR" changeid="samsung" changedate="20130422T220725Z">
-        <seg>&lt;e0&gt;Source : &lt;/e0&gt;effectue la recherche dans les segments source</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T084222Z">
+        <seg>&lt;e0&gt;Source :&lt;/e0&gt; effectue la recherche dans les segments source</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;e0&gt;in translations: &lt;/e0&gt;search in the target segments</seg>
       </tuv>
-      <tuv lang="FR" changeid="samsung" changedate="20130422T220735Z">
-        <seg>&lt;e0&gt;Traduction : &lt;/e0&gt;effectue la recherche dans les segments cible</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T084226Z">
+        <seg>&lt;e0&gt;Traduction :&lt;/e0&gt; effectue la recherche dans les segments cible</seg>
       </tuv>
     </tu>
     <tu>
@@ -3691,8 +3691,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;search TMs&lt;/e0&gt;: translation memories in the &lt;f1&gt;tm&lt;/f1&gt; folder are included in the search.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130506T084524Z">
-        <seg>&lt;e0&gt;Recherche dans les MT &lt;/e0&gt;: les mémoires de traduction du dossier &lt;f1&gt;tm&lt;/f1&gt; sont incluses dans la recherche.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T084240Z">
+        <seg>&lt;e0&gt;Recherche dans les MT&lt;/e0&gt; : les mémoires de traduction du dossier &lt;f1&gt;tm&lt;/f1&gt; sont incluses dans la recherche.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9368,8 +9368,8 @@ software--to make sure the software is free for all its users.</seg>
       <tuv lang="EN">
         <seg>Clicking on a segment opens it in the Editor for modifications.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130506T084751Z">
-        <seg>Cliquer sur un segment permet de l'ouvrir dans l'Editeur afin d'y apporter des modifications.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T084326Z">
+        <seg>Cliquer sur un segment permet de l'ouvrir dans l'Éditeur afin d'y apporter des modifications.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15438,8 +15438,8 @@ folder, see the manual for its location).</seg>
       <tuv lang="EN">
         <seg>If you click on the button &lt;g0&gt;Advanced options&lt;/g0&gt; additional criteria (author of the translation, date translated etc) as shown in the above image can be selected.</seg>
       </tuv>
-      <tuv lang="FR" changeid="samsung" changedate="20130422T222946Z">
-        <seg>Le bouton &lt;g0&gt;Options avancées&lt;/g0&gt; vous donne accès, comme vous pouvez le voir sur l'image ci-dessus, à des critères supplémentaires (auteur de la traduction, date de traduction etc.).</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T084254Z">
+        <seg>Le bouton &lt;g0&gt;Options avancées&lt;/g0&gt; vous donne accès, comme vous pouvez le voir sur l'image ci-dessus, à des critères supplémentaires (auteur de la traduction, date de traduction, etc.).</seg>
       </tuv>
     </tu>
     <tu>
@@ -16170,8 +16170,8 @@ the scope of this License.</seg>
       <tuv lang="EN">
         <seg>In order to select the type of segmentation, select &lt;m1&gt; &lt;g2&gt;&lt;i3/&gt;Project&lt;/g2&gt; &lt;g4&gt;Properties...&lt;/g4&gt; &lt;/m1&gt; from the main menu and tick or untick the check box provided.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130506T090550Z">
-        <seg>Pour choisir le type de segmentation, allez dans &lt;m1&gt; &lt;g2&gt;&lt;i3/&gt;Projet&lt;/g2&gt; &lt;g4&gt;Propriétés...&lt;/g4&gt; &lt;/m1&gt; et cochez ou décochez la case "Activer la segmentation par phrase".</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T084410Z">
+        <seg>Pour choisir le type de segmentation, allez dans &lt;m1&gt; &lt;g2&gt;&lt;i3/&gt;Projet&lt;/g2&gt; &lt;g4&gt;Propriétés...&lt;/g4&gt; &lt;/m1&gt; et cochez ou décochez la case « Activer la segmentation par phrase ».</seg>
       </tuv>
     </tu>
     <tu>
@@ -21674,8 +21674,8 @@ of promoting the sharing and reuse of software generally.</seg>
       <tuv lang="EN">
         <seg>Paragraph segmentation is advantageous in certain cases, such as highly creative or stylistic translations in which the translator may wish to change the order of entire sentences; for the majority of projects, however, sentence segmentation is a choice to be preferred, since it delivers better matches from previous translations.</seg>
       </tuv>
-      <tuv lang="FR" changeid="samsung" changedate="20130423T151350Z">
-        <seg>La segmentation par paragraphe est avantageuse dans certain cas, comme dans le cas de traduction de textes créatifs ou stylistiques pour lesquels le traducteur peut avoir besoin de mofidifier l'ordre de phrases entières ; la segmentation par phrase est néanmoins préférable pour la majorité des projets de traduction, dans la mesure où elle permet de mieux faire la correspondance avec les traductions antérieures. </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T084422Z">
+        <seg>La segmentation par paragraphe est avantageuse dans certain cas, comme dans le cas de traduction de textes créatifs ou stylistiques pour lesquels le traducteur peut avoir besoin de modifier l'ordre de phrases entières ; la segmentation par phrase est néanmoins préférable pour la majorité des projets de traduction, dans la mesure où elle permet de mieux faire la correspondance avec les traductions antérieures. </seg>
       </tuv>
     </tu>
     <tu>
@@ -31496,8 +31496,8 @@ Kaptain.</seg>
       <tuv lang="EN">
         <seg>Translation memory tools work with textual units called segments.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130506T090418Z">
-        <seg>Les outils mémoire de traduction travaillent avec des unités textuelles appellées segments.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T084354Z">
+        <seg>Les outils à mémoire de traduction travaillent avec des unités textuelles appelées segments.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34104,8 +34104,8 @@ installation by using the installation script (linux-install.sh).</seg>
       <tuv lang="EN">
         <seg>You can quickly see their contents by looking at their title: it will contain the search term used.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130506T084932Z">
-        <seg>On peut rapidemment connaître leur contenu en regardant leur titre : il contient les termes de recherche utilisés.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T084340Z">
+        <seg>On peut rapidement connaître leur contenu en regardant leur titre : il contient les termes de recherche utilisés.</seg>
       </tuv>
     </tu>
     <tu>
