@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.2" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.2_2" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2467,8 +2467,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; also backups translation memory to &lt;f1&gt;project_save.tmx.YEARMMDDHHNN.bak&lt;/f1&gt; in the same subfolder whenever a project is opened or reloaded.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130507T073620Z">
-        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; enregistre également la mémoire de traduction dans le fichier &lt;f1&gt;project_save.tmx.YEARMMDDHHNN.bak&lt;/f1&gt; dans le même sous-dossier à chaque fois que le projet est ouvert ou rechargé.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T123047Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; enregistre également la mémoire de traduction dans le fichier &lt;f1&gt;project_save.tmx.ANNÉEMMJJHHMN.bak.bak&lt;/f1&gt; dans le même sous-dossier à chaque fois que le projet est ouvert ou rechargé.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3699,8 +3699,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;several projects on the same subject: &lt;/e0&gt;keep the project structure, and change source and target folders (Source = source/order1, target = target/order1 etc).</seg>
       </tuv>
-      <tuv lang="FR" changeid="jchelary" changedate="20130526T125839Z">
-        <seg>&lt;e0&gt;plusieurs projets concernant le même sujet : &lt;/e0&gt;conservez la structure du projet et modifiez les dossiers sources et cibles (Source = source/commande1, cible = target/commande1 etc).</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T122915Z">
+        <seg>&lt;e0&gt;plusieurs projets concernant le même sujet : &lt;/e0&gt;conservez la structure du projet et modifiez les dossiers sources et cibles (source = source/commande1, cible = target/commande1 etc).</seg>
       </tuv>
     </tu>
     <tu>
@@ -33687,8 +33687,8 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       <tuv lang="EN">
         <seg>YEAR is 4-digit year, MM is a month, DD day of the month, HH and NN are hours and minutes when the previous translation memory was saved.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130507T073746Z">
-        <seg>YEAR correspond aux quatre chiffres de l'année, MM correspond au mois, DD au jour du mois, et HH et NN sont les heures et les minutes de la sauvegarde de la mémoire de traduction précédente.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T123113Z">
+        <seg>ANNÉE correspond aux quatre chiffres de l'année, MM correspond au mois, JJ au jour du mois, et HH et MN sont les heures et les minutes de la sauvegarde de la mémoire de traduction précédente.</seg>
       </tuv>
     </tu>
     <tu>
