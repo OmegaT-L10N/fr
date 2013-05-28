@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.2" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.2_2" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2883,8 +2883,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt; &lt;/e0&gt; is Copyright © 2000-2013 Keith Godfrey, Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik, Thomas Cordonnier, Sandra Jean Chua, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Martin Wunderlich and Michael Zakharov.</seg>
       </tuv>
-      <tuv lang="FR" changeid="jchelary" changedate="20130526T121659Z">
-        <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;&lt;/e0&gt; est protégé par le copyright © 2000-2013 Keith Godfrey, Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik, Thomas Cordonnier, Sandra Jean Chua, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Martin Wunderlich and Michael Zakharov.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T130022Z">
+        <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;&lt;/e0&gt; est protégé par le copyright © 2000-2013 Keith Godfrey, Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik, Thomas Cordonnier, Sandra Jean Chua, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Martin Wunderlich et Michael Zakharov.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17107,8 +17107,8 @@ implemented by public license practices.</seg>
       <tuv lang="EN">
         <seg>It is possible to select another tokenizer or a different version of the tokenizer from the Project Properties window.</seg>
       </tuv>
-      <tuv lang="FR" changeid="jchelary" changedate="20130526T121933Z">
-        <seg>Il est possible de sélectionner un autre tokenizer ou une version différente du tokenizer dans la fenêtre de Propriétés du projet.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T130155Z">
+        <seg>Il est possible de sélectionner un autre lemmatiseur ou une version différente du lemmatiseur dans la fenêtre de Propriétés du projet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20369,8 +20369,8 @@ mouse-clicks or menu items--whatever suits your program.</seg>
       <tuv lang="EN">
         <seg>OmegaT automatically selects a tokenizer for the source and the target language according to the language settings of the project.</seg>
       </tuv>
-      <tuv lang="FR" changeid="jchelary" changedate="20130526T121853Z">
-        <seg>OmegaT sélectionne automatiquement les tokenizers pour les langues sources et cibles en fonction des paramètres du projet.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T130141Z">
+        <seg>OmegaT sélectionne automatiquement les lemmatiseurs pour les langues sources et cibles en fonction des paramètres du projet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20785,8 +20785,8 @@ with exactly the same structure, including copies of any non-supported files.</s
       <tuv lang="EN">
         <seg>OmegaT will not launch if tokenizers are found in the /plugin folder.</seg>
       </tuv>
-      <tuv lang="FR" changeid="jchelary" changedate="20130526T121956Z">
-        <seg>OmegaT ne se lancera pas si des tokenizers sont présents dans le dossier /plugin.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T130201Z">
+        <seg>OmegaT ne se lancera pas si des lemmatiseurs sont présents dans le dossier /plugin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23091,8 +23091,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Remove all the tokenizers from the /plugin folder before starting OmegaT.</seg>
       </tuv>
-      <tuv lang="FR" changeid="jchelary" changedate="20130526T122008Z">
-        <seg>Retirer tous les tokenizers du dossier /plugin avant de lancer OmegaT.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T130209Z">
+        <seg>Retirer tous les lemmatiseurs du dossier /plugin avant de lancer OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26428,8 +26428,8 @@ language.</seg>
       <tuv lang="EN">
         <seg>The "Shift" key doesn't exhibit any special behavior per se: when the "Shift" key is pressed, all keys move the cursor in their usual manner, except in the case of the &lt;l0&gt;Shift+Enter&lt;/l0&gt; combination, that inserts a line brak into the text.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130502T084520Z">
-        <seg>En elle-même, la touche  « Maj »  ne provoque pas de comportement particulier : lorsque la touche  « Maj »  est appuyée, toutes les touches déplacent le curseur de manière habituelle, à l'exception de la combinaison  &lt;l0&gt;Maj+Entrée&lt;/l0&gt; qui insère un retour à la ligne dans le texte.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T125921Z">
+        <seg>En elle-même, la touche « Maj » ne provoque pas de comportement particulier : lors d'un appui sur la touche « Maj », toutes les touches déplacent le curseur de manière habituelle, à l'exception de la combinaison &lt;l0&gt;Maj+Entrée&lt;/l0&gt; qui insère un retour à la ligne dans le texte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28254,8 +28254,8 @@ an access to the hard drive of the computer.</seg>
       <tuv lang="EN">
         <seg>The platform-independent package can be used on any platform with a working Java 1.6 runtime environment, including the platforms for which a specific package also exists.</seg>
       </tuv>
-      <tuv lang="FR" changeid="jchelary" changedate="20130526T122243Z">
-        <seg>Le paquet mutliplateforme peut être utilisé sur n'importe quelle plateforme possédant un environnement d'execution Java 1.6 opérationel, y compris sur les plateformes pour lesquelles un paquet spécifique existe également.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T130259Z">
+        <seg>Le paquet mutliplateforme peut être utilisé sur n'importe quelle plateforme possédant un environnement d'execution Java 1.6 opérationnel, y compris sur les plateformes pour lesquelles un paquet spécifique existe également.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28270,8 +28270,8 @@ an access to the hard drive of the computer.</seg>
       <tuv lang="EN">
         <seg>The possible keyevents (keys) are listed in the following Java 1.6 documentation from Oracle: &lt;u0&gt;Java 1.6 keyEvents description&lt;/u0&gt;</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130412T075600Z">
-        <seg>Les keyevents (touches-clés) possibles sont listés dans ce manuel Java 1.6 édité par Oracle: &lt;u0&gt;Java 1.6 keyEvents description&lt;/u0&gt;</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T130101Z">
+        <seg>Les événements de touche (keyevents) possibles sont listés dans ce manuel Java 1.6 édité par Oracle: &lt;u0&gt;Java 1.6 keyEvents description&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -29789,8 +29789,8 @@ under the terms of this General Public License.</seg>
       <tuv lang="EN">
         <seg>This document is the official user's guide to OmegaT, the free Computer Aided Translation tool.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130430T095516Z">
-        <seg>Ce manuel est le guide de l'utilisateur officiel d'OmegaT, l'outil gratuit de Traduction Assistée par Ordinateur.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T130545Z">
+        <seg>Ce manuel est le guide de l'utilisateur officiel d'OmegaT, l'outil libre de Traduction Assistée par Ordinateur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31151,8 +31151,8 @@ Kaptain.</seg>
       <tuv lang="EN">
         <seg>Tokenizers are included in OmegaT.</seg>
       </tuv>
-      <tuv lang="FR" changeid="jchelary" changedate="20130526T121813Z">
-        <seg>Les tokenizers sont inclus dans OmegaT</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T130134Z">
+        <seg>Les lemmatiseurs sont inclus dans OmegaT</seg>
       </tuv>
     </tu>
     <tu>
