@@ -13332,8 +13332,8 @@ authors of previous versions.</seg>
       <tuv lang="EN">
         <seg>For translation memories in folders with a name "penalty-xxx" (with xxx between 0 and 100), matches will be degraded according to the name of the folder: a 100% match in any of TMs, residing in a folder called Penalty-30 for instance, will be lowered to a 70% match.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130507T071643Z">
-        <seg>Pour les mémoires de traduction qui se trouvent dans les dossiers portant le nom "penalty-xxx" (xxx correspondant à un chiffre entre 0 et 100), les correpondances seront diminuées en fonction du nom de ce dossier : une correspondance à 100% dans n'importe quelle mémoire de traduction qui se trouve, par exemple, dans un dossier appelé Penalty-30 sera abaissée à une correspondance à 70%.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T100733Z">
+        <seg>Pour les mémoires de traduction qui se trouvent dans les dossiers portant le nom "penalty-xxx" (xxx correspondant à un chiffre entre 0 et 100), les correspondances seront diminuées en fonction du nom de ce dossier : une correspondance à 100 % dans n'importe quelle mémoire de traduction qui se trouve, par exemple, dans un dossier appelé Penalty-30 sera abaissée à une correspondance à 70 %.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21339,8 +21339,8 @@ happen should you file a bug report.</seg>
       <tuv lang="EN">
         <seg>Optionally, you can let &lt;a0&gt;OmegaT&lt;/a0&gt; have an additional tmx file (&lt;a1&gt;OmegaT&lt;/a1&gt;-style) anywhere you specify, containing all translatable segments of the project.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130507T071817Z">
-        <seg>Vous pouvez aussi, de manière facultative, laisser &lt;a0&gt;OmegaT&lt;/a0&gt; avoir un fichier TMX supplémentaire (de style &lt;a1&gt;OmegaT&lt;/a1&gt;) à l'emplacement de votre choix er qui contiendra tous les segments traduisibles du projet.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T100809Z">
+        <seg>Vous pouvez aussi, de manière facultative, laisser &lt;a0&gt;OmegaT&lt;/a0&gt; avoir un fichier TMX supplémentaire (de style &lt;a1&gt;OmegaT&lt;/a1&gt;) à l'emplacement de votre choix et qui contiendra tous les segments traduisibles du projet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28211,8 +28211,8 @@ sure this has not already been reported.</seg>
       <tuv lang="EN">
         <seg>The penalty applies to all three match percentages: matches 75, 80, 90 will in this case be lowered to 45, 50, 60.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130424T085759Z">
-        <seg>La pénalité s'applique aux trois pourcentages de correspondance : les correpondances à 75,80,90 seront dans ce cas abaissées à 45,50,60.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T100755Z">
+        <seg>La pénalité s'applique aux trois pourcentages de correspondance : les correspondances à 75, 80 et 90 seront dans ce cas abaissées à 45, 50 et 60.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30363,8 +30363,8 @@ be a consequence of the rest of this License.</seg>
       <tuv lang="EN">
         <seg>This will effectively &lt;e2&gt;pre-translate &lt;/e2&gt;the source text: all the segments in the source text, for which translations can be found in those "auto" TMs, will land in the main TM of the project without any user intervention.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130424T084432Z">
-        <seg>Cela va en effet &lt;e2&gt;prétraduire&lt;/e2&gt; le texte source : tous les segments du texte source pour lesquels il est possible de trouver des traductions dans les mémoires de traduction "auto" seront transférés dans la mémoire de traduction principale du projet sans que l'utilisateur n'ait besoin d'intervenir.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T100712Z">
+        <seg>Cela va en effet &lt;e2&gt;prétraduire&lt;/e2&gt; le texte source : tous les segments du texte source pour lesquels il est possible de trouver des traductions dans les mémoires de traduction « auto » seront transférés dans la mémoire de traduction principale du projet sans que l'utilisateur n'ait besoin d'intervenir.</seg>
       </tuv>
     </tu>
     <tu>
