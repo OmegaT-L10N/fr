@@ -16050,8 +16050,8 @@ the scope of this License.</seg>
       <tuv lang="EN">
         <seg>In case of PO files, a 20% penalty applied to the alternative translation (i.e., a 100% match becomes an 80% match).</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130507T092112Z">
-        <seg>Dans le cas de fichiers PO, une pénalité de 20% est appliquée à la traduction alternative (par exemple une correspondance de 100% devient une correspondance de 80%).</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T124242Z">
+        <seg>Dans le cas de fichiers PO, une pénalité de 20 % est appliquée à la traduction alternative (par exemple une correspondance de 100 % devient une correspondance de 80 %).</seg>
       </tuv>
     </tu>
     <tu>
@@ -19828,8 +19828,8 @@ measures.</seg>
       <tuv lang="EN">
         <seg>Note that in some cases changes in file filters in &lt;a1&gt;OmegaT&lt;/a1&gt; may lead to totally different segmentation; as a result, you will have to upgrade your translation manually in such rare cases.</seg>
       </tuv>
-      <tuv lang="FR" changeid="jchelary" changedate="20130526T130225Z">
-        <seg>Notez que dans certains cas les modifications apportées aux filtres de fichiers dans &lt;a1&gt;OmegaT&lt;/a1&gt; peuvent aboutir à des segmentations complétement différentes. Vous devrez donc mettre à jour votre traduction manuellement pour certains cas isolés.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T124452Z">
+        <seg>Notez que dans certains cas les modifications apportées aux filtres de fichiers dans &lt;a1&gt;OmegaT&lt;/a1&gt; peuvent aboutir à des segmentations complètement différentes. Vous devrez donc mettre à jour votre traduction manuellement pour certains cas isolés.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23179,8 +23179,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Replace &lt;l0&gt;&lt;filename&gt;&lt;/l0&gt; with the name of the file you wish to create, either absolute or relative to the working folder (the folder you start &lt;a1&gt;OmegaT&lt;/a1&gt; from).</seg>
       </tuv>
-      <tuv lang="FR" changeid="jchelary" changedate="20130526T130146Z">
-        <seg>Remplacez &lt;l0&gt;&lt;filename&gt;&lt;/l0&gt; par le nom du fichier que vous voulez créer, absolu ou relatif au dossier de travail en cours (le dossier à partir duquel vous lancez &lt;a1&gt;OmegaT&lt;/a1&gt;).</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T124410Z">
+        <seg>Remplacez &lt;l0&gt;&lt;nom de fichier&gt;&lt;/l0&gt; par le nom du fichier que vous voulez créer, absolu ou relatif au dossier de travail en cours (le dossier à partir duquel vous lancez &lt;a1&gt;OmegaT&lt;/a1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -30970,8 +30970,8 @@ you modify it: responsibilities to respect the freedom of others.</seg>
       <tuv lang="EN">
         <seg>To reuse it in &lt;a5&gt;OmegaT&lt;/a5&gt; rename it to &lt;e6&gt;project_save.tmx &lt;/e6&gt; and place it in the &lt;l7&gt;omegat&lt;/l7&gt;-folder of your project.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130507T093729Z">
-        <seg>Pour le réutiliser dans &lt;a5&gt;OmegaT&lt;/a5&gt;, renommez le &lt;e6&gt;project_save.tmx &lt;/e6&gt; et placez le dans le dossier &lt;l7&gt;omegat&lt;/l7&gt; de votre projet.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T124423Z">
+        <seg>Pour le réutiliser dans &lt;a5&gt;OmegaT&lt;/a5&gt;, renommez le &lt;e6&gt;project_save.tmx &lt;/e6&gt; et placez-le dans le dossier &lt;l7&gt;omegat&lt;/l7&gt; de votre projet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33141,8 +33141,8 @@ technological measures.</seg>
       <tuv lang="EN">
         <seg>When you load a segmented TTX file, segments with source = target will be included, if "Allow translation to be equal to source" in Options → Editing Behavior... has been checked.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130428T161942Z">
-        <seg>Lorsque vous chargez un fichier TTX segmenté, les segments dont la source est identique à la cible seront inclus, si la case "Autoriser une traduction identique à la source" a été cochée dans Options &gt; Ligne d'édition...</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T124317Z">
+        <seg>Lorsque vous chargez un fichier TTX segmenté, les segments dont la source est identique à la cible seront inclus, si la case « Autoriser une traduction identique à la source » a été cochée dans Options &gt; Ligne d'édition...</seg>
       </tuv>
     </tu>
     <tu>
@@ -37648,8 +37648,8 @@ de créer son dossier de configuration.</seg>
       <tuv lang="EN">
         <seg>java -jar omegat.jar --pseudotranslatetmx=&lt;filename&gt; [pseudotranslatetype=[equal|empty]]</seg>
       </tuv>
-      <tuv lang="FR" changeid="JC Helary" changedate="20130505T105214Z">
-        <seg>java -jar omegat.jar --pseudotranslatetmx=&lt;filename&gt; [pseudotranslatetype=[equal|empty]]</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T124403Z">
+        <seg>java -jar omegat.jar --pseudotranslatetmx=&lt;nom de fichier&gt; [pseudotranslatetype=[equal|empty]]</seg>
       </tuv>
     </tu>
     <tu>
