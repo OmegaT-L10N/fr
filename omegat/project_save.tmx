@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.2" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.2_2" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1742,8 +1742,8 @@ le programme d'installation peut créer des raccourcis pour vous dans le menu d�
       <tuv lang="EN">
         <seg>- i.e. files with a &lt;f0&gt;.txt &lt;/f0&gt;extension - : in the &lt;e1&gt;Text files &lt;/e1&gt;section of the file filters dialog, change the &lt;e2&gt;Source File Encoding&lt;/e2&gt; from &lt;auto&gt; to the encoding that corresponds to your source &lt;f3&gt;.txt&lt;/f3&gt; file, for instance to .jp for the above example.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130506T080045Z">
-        <seg>- c.à.d les fichiers portant l'extension &lt;f0&gt;.txt &lt;/f0&gt; -  : dans la section  &lt;e1&gt;Fichiers texte &lt;/e1&gt;de la boite de dialogue Fichiers et filtres..., changez l' &lt;e2&gt;Encodage du Fichier Source&lt;/e2&gt; pour le passer d'&lt;auto&gt; à l'encodage correspondant à votre fichier source &lt;f3&gt;.txt&lt;/f3&gt; (pour l'exemple ci-dessus, vous choisirez l'extension .jp).</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T082422Z">
+        <seg>- c.-à-d. les fichiers portant l'extension &lt;f0&gt;.txt &lt;/f0&gt; - : dans la section &lt;e1&gt;Fichiers texte &lt;/e1&gt;de la boite de dialogue Fichiers et filtres..., changez l'&lt;e2&gt;Encodage du fichier source&lt;/e2&gt; pour le passer d'&lt;auto&gt; à l'encodage correspondant à votre fichier source &lt;f3&gt;.txt&lt;/f3&gt; (pour l'exemple ci-dessus, vous choisirez l'extension .jp).</seg>
       </tuv>
     </tu>
     <tu>
@@ -4611,8 +4611,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;File filters&lt;/p0&gt; &lt;s1&gt;global vs project file filters&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130506T115918Z">
-        <seg>&lt;p0&gt;Filtres de fichiers&lt;/p0&gt; &lt;s1&gt;généraux vs filtres de fichiers spécifiques au projet&lt;/s1&gt;</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T082809Z">
+        <seg>&lt;p0&gt;Filtres de fichiers&lt;/p0&gt; &lt;s1&gt;généraux ou filtres de fichiers spécifiques au projet&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5395,8 +5395,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Project&lt;/p0&gt; &lt;s1&gt;Remove tags option&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130506T121150Z">
-        <seg>&lt;p0&gt;Projet&lt;/p0&gt; &lt;s1&gt;Option Supprimer l*es balises&lt;/s1&gt;</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T082853Z">
+        <seg>&lt;p0&gt;Projet&lt;/p0&gt; &lt;s1&gt;Option Supprimer les balises&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5723,8 +5723,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Segmentation&lt;/p0&gt; &lt;s1&gt;global vs project rules&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130506T115303Z">
-        <seg>&lt;p0&gt;Segmentation&lt;/p0&gt; &lt;s1&gt;générale vs règles de segmentation spécifiques au projet&lt;/s1&gt;</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T082735Z">
+        <seg>&lt;p0&gt;Segmentation&lt;/p0&gt; &lt;s1&gt;générale ou règles de segmentation spécifiques au projet&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7897,8 +7897,8 @@ menu, a prominent item in the list meets this criterion.</seg>
       <tuv lang="EN">
         <seg>And of course, if you wish to be on the safe side, consider converting this kind of file to Unicode, i.e. to the &lt;l6&gt;.utf8 &lt;/l6&gt;file format.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130506T080838Z">
-        <seg>Bien évidemment, pour plus de sécurité, il peut être bon de songer à convertir ce type de fichier en Unicode, c.à.d. de les faire passer à un format de fichier &lt;l6&gt;.utf8 &lt;/l6&gt;.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T082614Z">
+        <seg>Bien évidemment, pour plus de sécurité, il peut être bon de songer à convertir ce type de fichier en Unicode, c.-à-d.. de les faire passer à un format de fichier &lt;l6&gt;.utf8 &lt;/l6&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13140,8 +13140,8 @@ know their rights.</seg>
       <tuv lang="EN">
         <seg>For example, when you have a Czech text file (very probably written in the &lt;e2&gt;ISO-8859-2&lt;/e2&gt; code) you just need to change the extension&lt;l3&gt; .txt&lt;/l3&gt; to &lt;l4&gt;.txt2 &lt;/l4&gt;and &lt;a5&gt;OmegaT&lt;/a5&gt; will interpret its contents correctly.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130506T080747Z">
-        <seg>Par exemple, si vous avez un fichier texte tchèque (très vraisemblablement écrit dans le code &lt;e2&gt;ISO-8859-2&lt;/e2&gt;) il vous suffit de faire passer l'extension de &lt;l3&gt; .txt&lt;/l3&gt; à &lt;l4&gt;.txt2 &lt;/l4&gt;pour qu'&lt;a5&gt;OmegaT&lt;/a5&gt; puisse interpréter le contenu correctement.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T082555Z">
+        <seg>Par exemple, si vous avez un fichier texte tchèque (très vraisemblablement écrit dans le code &lt;e2&gt;ISO-8859-2&lt;/e2&gt;) il vous suffit de faire passer l'extension de &lt;l3&gt;.txt&lt;/l3&gt; à &lt;l4&gt;.txt2 &lt;/l4&gt;pour qu'&lt;a5&gt;OmegaT&lt;/a5&gt; puisse interpréter le contenu correctement.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14097,8 +14097,8 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       <tuv lang="EN">
         <seg>Here you can select different subfolders, for instance the subfolder with source files, subfolder for target files etc.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130506T122104Z">
-        <seg>A cet endroit, vous pouvez sélectionner différents sous-dossiers, par exemple le sous-dossier contenant les fichiers source, le sous-dosssier des fichiers cible, etc.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T083001Z">
+        <seg>À cet endroit, vous pouvez sélectionner différents sous-dossiers, par exemple le sous-dossier contenant les fichiers source, le sous-dossier des fichiers cible, etc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15120,8 +15120,8 @@ authors' reputations.</seg>
       <tuv lang="EN">
         <seg>If the text is encoded in 8 bits, however, one can be faced with the following awkward situation: instead of displaying the text, for Japanese characters...</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130506T075459Z">
-        <seg>Si le texte possède un encodage 8 bits, cependant, il est possible de se retrouver face à des situations délicates comme celle qui suit  : pour des caractères japonais, au lieu d'afficher le texte...</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T082239Z">
+        <seg>Si le texte possède un encodage 8 bits, cependant, il est possible de se retrouver face à des situations délicates comme celle qui suit : pour des caractères japonais, au lieu d'afficher le texte...</seg>
       </tuv>
     </tu>
     <tu>
@@ -16066,8 +16066,8 @@ the scope of this License.</seg>
       <tuv lang="EN">
         <seg>In case there are non-unique segments in source documents, the Auto-propagation check box offers the user the following two possibilities as regards automatic translation: if checked, the first translated segment will be assumed as the default translation and its target text will be automatically used for later hits during the translation process.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130428T154516Z">
-        <seg>Dans le cas où il existerait des segments non uniques dans les document source, la case Propagation automatique des traductions donne à l'utilisateur les deux possibilités suivantes concernant la traduction automatique : si la case est cochée, le premier segment traduit sera considéré comme la traduction par défaut et son texte cible sera automatiquement utilisé pour les segments identiques suivants durant le processus de traduction.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T082843Z">
+        <seg>Dans le cas où il existerait des segments non uniques dans les documents source, la case Propagation automatique des traductions donne à l'utilisateur les deux possibilités suivantes concernant la traduction automatique : si la case est cochée, le premier segment traduit sera considéré comme la traduction par défaut et son texte cible sera automatiquement utilisé pour les segments identiques suivants durant le processus de traduction.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19604,8 +19604,8 @@ measures.</seg>
       <tuv lang="EN">
         <seg>Non-visible formatting (i.e., which doesn't appear as tags in the OmegaT editor) is retained in target documents.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130506T121919Z">
-        <seg>Le formatage non visible (c'est à dire qui n'apparaît pas sous forme de balises dand l'Editeur d'OmegaT) est conservé dans les documents cibles.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T082930Z">
+        <seg>Le formatage non visible (c'est-à-dire qui n'apparaît pas sous forme de balises dans l'Éditeur d'OmegaT) est conservé dans les documents cibles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19844,8 +19844,8 @@ measures.</seg>
       <tuv lang="EN">
         <seg>Note that in the menu &lt;g2&gt;Options-&gt;File Filters&lt;/g2&gt;, the global user filters are changed, not the project filters.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130506T120427Z">
-        <seg>Veuillez noter que dans le menu &lt;g2&gt;Options -&gt; Fichiers et filtres...&lt;/g2&gt;,  ce sont les filtres globaux des utilisateurs qui sont modifiés, et pas seulement les filtres du projet.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T082825Z">
+        <seg>Veuillez noter que dans le menu &lt;g2&gt;Options -&gt; Fichiers et filtres...&lt;/g2&gt;, ce sont les filtres globaux des utilisateurs qui sont modifiés, et pas seulement les filtres du projet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29240,8 +29240,8 @@ the [Help] menu after starting OmegaT.</seg>
       <tuv lang="EN">
         <seg>There are basically three ways to address this problem in &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130506T075623Z">
-        <seg>Il existe 3 façons de palier à ce problème dans &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T082256Z">
+        <seg>Il existe 3 façons de palier ce problème dans &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29440,8 +29440,8 @@ distribute copies of the software, or if you modify it.</seg>
       <tuv lang="EN">
         <seg>They all involve the application of file filters in the&lt;e1&gt; Options &lt;/e1&gt;menu.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130506T075649Z">
-        <seg>Elles impliquent toutes l'application de filtres de fichiers dans le menu&lt;e1&gt; Options &lt;/e1&gt;.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T082306Z">
+        <seg>Elles impliquent toutes l'application de filtres de fichiers dans le menu &lt;e1&gt;Options&lt;/e1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29950,8 +29950,8 @@ under the terms of this General Public License.</seg>
       <tuv lang="EN">
         <seg>This is especially useful when dealing with texts where inline formatting is not really useful (e.g., OCRed PDF, bad converted .odt or .docx, etc.) In a normal case it should always be possible to open the target documents, as only inline tags are removed.</seg>
       </tuv>
-      <tuv lang="FR" changeid="jchelary" changedate="20130526T125637Z">
-        <seg>Cela est particulièrement utile pour des textes dont le formatage intégré n'est pas vraiment utile (par exemple des PDF passés par la reconnaissance optique des caractères, des documents .odt ou .docx mal convertis, etc). Normalement, il doit toujours être possible d'ouvrir les documents cibles puisque seuls les balises intégrées sont supprimées.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T082916Z">
+        <seg>Cela est particulièrement utile pour des textes dont le formatage intégré n'est pas vraiment utile (par exemple des PDF passés par la reconnaissance optique de caractères, des documents .odt ou .docx mal convertis, etc). Normalement, il doit toujours être possible d'ouvrir les documents cibles puisque seuls les balises intégrées sont supprimées.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29998,8 +29998,8 @@ under the terms of this General Public License.</seg>
       <tuv lang="EN">
         <seg>This is no problem for files encoded in Unicode using a 16 bit character encoding set.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130506T075304Z">
-        <seg>Ce qui ne pose aucun problème si le fichier est encodé sous Unicode et utilise un jeu d'encodage de caractères 16 bit.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T082229Z">
+        <seg>Ce qui ne pose aucun problème si le fichier est encodé sous Unicode et utilise un jeu d'encodage de caractères 16 bits.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32156,8 +32156,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>Use these Help texts to get started.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130422T132036Z">
-        <seg>Utilisez ces textes d'Aide pour commencer.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T082132Z">
+        <seg>Utilisez ces textes d'aide pour commencer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36505,8 +36505,8 @@ de créer son dossier de configuration.</seg>
       <tuv lang="EN">
         <seg>for instance from &lt;f0&gt;.txt&lt;/f0&gt; to &lt;f1&gt;.jp&lt;/f1&gt; for Japanese plain texts: in the &lt;e2&gt;Text files&lt;/e2&gt; section of the file filters dialog, add new &lt;e3&gt;Source Filename Pattern&lt;/e3&gt; (&lt;f4&gt;*.jp&lt;/f4&gt; for this example) and select the appropriate parameters for the source and target encoding</seg>
       </tuv>
-      <tuv lang="FR" changeid="samsung" changedate="20130422T150921Z">
-        <seg>par exemple, passez de &lt;f0&gt;.txt&lt;/f0&gt; à &lt;f1&gt;.jp&lt;/f1&gt; pour vos texte brut en japonais : dans la section &lt;e2&gt;Fichiers texte&lt;/e2&gt; de la boite de dialogue Fichiers et filtres..., ajoutez un nouveau &lt;e3&gt;Masque de nom de fichier source&lt;/e3&gt; (&lt;f4&gt;*.jp&lt;/f4&gt; pour cet exemple) et sélectionnez les paramètres appropriés pour l'encodage source et cible.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T082547Z">
+        <seg>par exemple, passez de &lt;f0&gt;.txt&lt;/f0&gt; à &lt;f1&gt;.jp&lt;/f1&gt; pour vos textes bruts en japonais : dans la section &lt;e2&gt;Fichiers texte&lt;/e2&gt; de la boite de dialogue Fichiers et filtres..., ajoutez un nouveau &lt;e3&gt;Masque de nom de fichier source&lt;/e3&gt; (&lt;f4&gt;*.jp&lt;/f4&gt; pour cet exemple) et sélectionnez les paramètres appropriés pour l'encodage source et cible.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38833,8 +38833,8 @@ de créer son dossier de configuration.</seg>
       <tuv lang="EN">
         <seg>open your source file in a text editor that correctly interprets its encoding and save the file in &lt;e0&gt;"UTF-8"&lt;/e0&gt; encoding.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130506T075736Z">
-        <seg>Ouvrez votre fichier source dans un éditeur de texte capable d'interpréter correctement son encodage et enregistrez le fichier sous l'encodage &lt;e0&gt;"UTF-8"&lt;/e0&gt;.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T082320Z">
+        <seg>Ouvrez votre fichier source dans un éditeur de texte capable d'interpréter correctement son encodage et enregistrez le fichier sous l'encodage &lt;e0&gt;« UTF-8 »&lt;/e0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
