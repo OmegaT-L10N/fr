@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.2" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.2_2" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8626,8 +8626,8 @@ documentation.</seg>
       <tuv lang="EN">
         <seg>Before the spell check function can be used, a suitable dictionary or dictionaries (i.e. for your target language) must be installed.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130506T095646Z">
-        <seg>Avant de pouvoir utiliser la fonction vérificateur orthographique, il est nécessaire d'installer un ou plusieurs dictionnaires (c.à.d concernant votre langue cible).</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T095808Z">
+        <seg>Avant de pouvoir utiliser la fonction vérificateur orthographique, il est nécessaire d'installer un ou plusieurs dictionnaires (c.-à.-d. concernant votre langue cible).</seg>
       </tuv>
     </tu>
     <tu>
@@ -9783,8 +9783,8 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       <tuv lang="EN">
         <seg>Copying the files manually makes sense if you already have suitable dictionary files on your system, for instance as part of your Apache OpenOffice, LibreOffice, Firefox or Thunderbird installation.</seg>
       </tuv>
-      <tuv lang="FR" changeid="jchelary" changedate="20130526T130307Z">
-        <seg>Copier manuellement les fichiers est intéressant lorsque vous possèdez déjà les fichiers dictionnaire adéquats sur votre ordinateur, par exemple, s'ils font partie d'une installation OpenOffice, Firefox ou Thunderbird.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T100022Z">
+        <seg>Copier manuellement les fichiers est intéressant lorsque vous possédez déjà les fichiers dictionnaire adéquats sur votre ordinateur, par exemple, s'ils font partie d'une installation OpenOffice, LibreOffice, Firefox ou Thunderbird.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10966,8 +10966,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="EN">
         <seg>Do not segment after M. Mr. Mrs. and Ms.</seg>
       </tuv>
-      <tuv lang="FR" changeid="samsung" changedate="20130423T205453Z">
-        <seg>Ne pas segmenter après M. Mr. Mme. et Mlle.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T095734Z">
+        <seg>Ne pas segmenter après M. Mr. Mrs. et Ms.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13156,8 +13156,8 @@ know their rights.</seg>
       <tuv lang="EN">
         <seg>For instance (if the default is accepted), the translation from the ancillary TM is accepted and prefixed with&lt;e3&gt; [fuzzy]&lt;/e3&gt;, so that the translator can review the translations at a later stage and check whether the segments tagged this way, have been translated correctly (see the &lt;l4&gt;Editing behavior&lt;/l4&gt; chapter) &lt;m5&gt; &lt;g6&gt;.&lt;/g6&gt; &lt;/m5&gt;</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130506T142101Z">
-        <seg>Par exemple (si le paramètre par défaut est installé), la traduction de la mémoire de traduction secondaire est acceptée et porte le préfixe&lt;e3&gt; [correspondance]&lt;/e3&gt;, afin que le traducteur puisse revoir les traductions à un stade ultérieur et vérifier que les segments ainsi marqués ont été traduits correctement (voir chapitre &lt;l4&gt;Ligne d'édition&lt;/l4&gt;) &lt;m5&gt; &lt;g6&gt;.&lt;/g6&gt; &lt;/m5&gt;</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T100618Z">
+        <seg>Par exemple (si le paramètre par défaut est installé), la traduction de la mémoire de traduction secondaire est acceptée et porte le préfixe &lt;e3&gt;[correspondance]&lt;/e3&gt;, afin que le traducteur puisse revoir les traductions à un stade ultérieur et vérifier que les segments ainsi marqués ont été traduits correctement (voir chapitre &lt;l4&gt;Ligne d'édition&lt;/l4&gt;) &lt;m5&gt; &lt;g6&gt;.&lt;/g6&gt; &lt;/m5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14739,8 +14739,8 @@ compelled to copy the source along with the object code.</seg>
       <tuv lang="EN">
         <seg>If it is clear from the very start, that translations in a given TM (or TMs) are all correct, one can put them into the&lt;e0&gt; tm/auto&lt;/e0&gt; folder and avoid confirming a lot of&lt;e1&gt; [fuzzy]&lt;/e1&gt; cases.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130507T071122Z">
-        <seg>S'il est certain dès le début que toutes les traductions d'une ou de plusieurs mémoires de traduction sont correctes, les placer dans le dossier &lt;e0&gt; tm/auto&lt;/e0&gt; permet d'éviter de devoir confirmer de nombreux cas de &lt;e1&gt; [correpondance]&lt;/e1&gt;.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T100658Z">
+        <seg>S'il est certain dès le début que toutes les traductions d'une ou de plusieurs mémoires de traduction sont correctes, les placer dans le dossier &lt;e0&gt; tm/auto&lt;/e0&gt; permet d'éviter de devoir confirmer de nombreux cas de &lt;e1&gt; [correspondance]&lt;/e1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14769,8 +14769,8 @@ tous les paramètres reprendront leur valeur par défaut,
       <tuv lang="EN">
         <seg>If necessary, edit the file names of the dictionary or change your project's language settings.</seg>
       </tuv>
-      <tuv lang="FR" changeid="samsung" changedate="20130424T171858Z">
-        <seg>Si nécessaire, éditez les noms de fichier des dictionnaires ou modifiez les paramètres qui concernent la langue du projet.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T100049Z">
+        <seg>Si nécessaire, modifiez les noms de fichier des dictionnaires ou modifiez les paramètres qui concernent la langue du projet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15112,8 +15112,8 @@ authors' reputations.</seg>
       <tuv lang="EN">
         <seg>If the spell checker is not working, then make sure first that the check box &lt;g0&gt;"Automatically check the spelling of text"&lt;/g0&gt; in the spell checker dialog (&lt;g1&gt;Options &gt; Spell checking...)&lt;/g1&gt; is checked.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130506T112411Z">
-        <seg>Si le vérificateur orthographique ne marche pas, assurez-vous d'abord que la case &lt;g0&gt;"Vérifier automatiquement l'orthographe"&lt;/g0&gt; est cochée (&lt;g1&gt;Options &gt; Orthographe...)&lt;/g1&gt;.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T100114Z">
+        <seg>Si le vérificateur orthographique ne marche pas, assurez-vous d'abord que la case &lt;g0&gt;« Vérifier automatiquement l'orthographe »&lt;/g0&gt; est cochée (&lt;g1&gt;Options &gt; Orthographe...)&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15550,8 +15550,8 @@ OmegaT is to use Java Web Start.</seg>
       <tuv lang="EN">
         <seg>If you have already translated a large body of text, and then realize the target language code of the project does not match the spell checker's language code (you specified pt_BR as the language, but there are no pt_BR vocabularies, for instance) you can simply copy the two corresponding files and rename them (e.g. from &lt;e0&gt;pt_PT.aff&lt;/e0&gt; and &lt;e1&gt;pt_PT.dic&lt;/e1&gt; to &lt;e2&gt;pt_BR.aff&lt;/e2&gt; and &lt;e3&gt;pt_BR.dic&lt;/e3&gt;).</seg>
       </tuv>
-      <tuv lang="FR" changeid="jchelary" changedate="20130526T130420Z">
-        <seg>Si après avoir déjà traduit une grande quantité de texte, vous vous apercevez que le code de langue de la langue cible de votre projet ne correspond pas à celui du vérificateur orthographique (vous avez pt_BR en langue cible, mais il n'existe aucun lexique pt_BR, par exemple), il suffit simplement de copier les deux fichiers correspondant et de les renomer (ex : passez de &lt;e0&gt;pt_PT.aff&lt;/e0&gt; et &lt;e1&gt;pt_PT.dic&lt;/e1&gt; à &lt;e2&gt;pt._BR.aff&lt;/e2&gt; et &lt;e3&gt;pt_BR.dic&lt;/e3&gt;).</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T100149Z">
+        <seg>Si après avoir déjà traduit une grande quantité de texte, vous vous apercevez que le code de langue de la langue cible de votre projet ne correspond pas à celui du vérificateur orthographique (vous avez pt_BR en langue cible, mais il n'existe aucun lexique pt_BR, par exemple), il suffit de copier les deux fichiers correspondant et de les renommer (ex : passez de &lt;e0&gt;pt_PT.aff&lt;/e0&gt; et &lt;e1&gt;pt_PT.dic&lt;/e1&gt; à &lt;e2&gt;pt._BR.aff&lt;/e2&gt; et &lt;e3&gt;pt_BR.dic&lt;/e3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -19876,8 +19876,8 @@ measures.</seg>
       <tuv lang="EN">
         <seg>Note that the "Install" function requires an Internet connection.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130506T110758Z">
-        <seg>Veuillez noter que la fonction "Installer" requiert une connexion internet.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T095859Z">
+        <seg>Veuillez noter que la fonction « Installer » requiert une connexion Internet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19956,8 +19956,8 @@ measures.</seg>
       <tuv lang="EN">
         <seg>Note that this will of course check for the standard (Castillian) rather than for Mexican Spanish.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130506T111758Z">
-        <seg>Veuillez noter que celui-ci fera des corrections correspondant évidemment bien plus à l'espagnol standard (Castillian) qu'à l'espagnol mexicain.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T100045Z">
+        <seg>Veuillez noter que celui-ci fera des corrections correspondant évidemment bien plus à l'espagnol standard (Castillan) qu'à l'espagnol mexicain.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20441,9 +20441,8 @@ mouse-clicks or menu items--whatever suits your program.</seg>
       <tuv lang="EN">
         <seg>OmegaT has a built-in spell checker based on the spelling checker used in Apache OpenOffice, LibreOffice, Firefox and Thunderbird.</seg>
       </tuv>
-      <tuv lang="FR" changeid="jchelary" changedate="20130526T130245Z">
-        <seg>OmegaT possède un 
-vérificateur orthographique intégré basé sur le vérificateur d'orthographe utilisée dans Apache OpenOffice, LibreOffice, Firefox et Thunderbird.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T095800Z">
+        <seg>OmegaT possède un vérificateur orthographique intégré basé sur le vérificateur d'orthographe utilisée dans Apache OpenOffice, LibreOffice, Firefox et Thunderbird.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26520,8 +26519,8 @@ form of a work.</seg>
       <tuv lang="EN">
         <seg>The /tm/ folder can contain any number of ancillary translation memories - i.e. tmx files.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130502T083242Z">
-        <seg>Le dossier /tm/ peut contenir un nombre illimité de mémoires de traduction secondaires - c'est à dire de fichiers TMX.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T100310Z">
+        <seg>Le dossier /tm/ peut contenir un nombre illimité de mémoires de traduction secondaires - c'est-à-dire de fichiers TMX.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29391,8 +29390,8 @@ prohibited by law if you do not accept this License.</seg>
       <tuv lang="EN">
         <seg>These files are copies of the file &lt;f0&gt;project_save.tmx&lt;/f0&gt;, i.e. of the project's main translation memory, excluding the so-called orphan segments.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130506T141028Z">
-        <seg>Ces fichiers sont des copies du fichier &lt;f0&gt;project_save.tmx&lt;/f0&gt;, c'est à dire de la mémoire de traduction principale du projet, et excluent les segments dits orphelins.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T100258Z">
+        <seg>Ces fichiers sont des copies du fichier &lt;f0&gt;project_save.tmx&lt;/f0&gt;, c'est-à-dire de la mémoire de traduction principale du projet, et excluent les segments dits orphelins.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30757,8 +30756,8 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
       <tuv lang="EN">
         <seg>To enable the spell checker, select &lt;g0&gt;Options &gt; Spell Checking&lt;/g0&gt; and tick the &lt;g1&gt;Automatically check the spelling of text&lt;/g1&gt; check box (see above).</seg>
       </tuv>
-      <tuv lang="FR" changeid="samsung" changedate="20130424T172118Z">
-        <seg>Pour mettre en fonction le vérificateur orthographique, sélectionnez &lt;g0&gt;Options &gt; Orthographe...&lt;/g0&gt; et cochez la case &lt;g1&gt;Vérifier automatiquement l'orthographe&lt;/g1&gt;  (voir ci-dessus).</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T100056Z">
+        <seg>Pour mettre en fonction le vérificateur orthographique, sélectionnez &lt;g0&gt;Options &gt; Orthographe...&lt;/g0&gt; et cochez la case &lt;g1&gt;Vérifier automatiquement l'orthographe&lt;/g1&gt; (voir ci-dessus).</seg>
       </tuv>
     </tu>
     <tu>
@@ -33997,8 +33996,8 @@ to link it from there.</seg>
       <tuv lang="EN">
         <seg>You can either copy files manually, i.e. from elsewhere on your system, using your file manager; or you can use OmegaT's &lt;e0&gt;"Install new dictionary"&lt;/e0&gt; function to provide a list of available dictionaries to select from.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130506T110711Z">
-        <seg>Vous pouvez soit copier les fichiers manuellement (depuis n'importe quel endroit de votre système) en utilisant votre gestionnaire de fichier ; soit utiliser la fonction d'OmegaT &lt;e0&gt;"Installer un nouveau dictionnaire..."&lt;/e0&gt; qui vous fournit une liste des dictionnaires disponibles (il vous suffit alors de sélectionner celui qui vous convient).</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T095850Z">
+        <seg>Vous pouvez soit copier les fichiers manuellement (depuis n'importe quel endroit de votre système) en utilisant votre gestionnaire de fichier ; soit utiliser la fonction d'OmegaT &lt;e0&gt;« Installer un nouveau dictionnaire... »&lt;/e0&gt; qui vous fournit une liste des dictionnaires disponibles (il vous suffit alors de sélectionner celui qui vous convient).</seg>
       </tuv>
     </tu>
     <tu>
