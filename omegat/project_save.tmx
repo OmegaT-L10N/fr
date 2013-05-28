@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.2" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.2_2" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13108,8 +13108,8 @@ know their rights.</seg>
       <tuv lang="EN">
         <seg>For example, rules for Canadian French (FR-CA) should be set higher than rules for French (FR.*), and higher than Default (.*) ones.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130506T093541Z">
-        <seg>Par exemple, les règles relatives au français-canadien (FR-CA) passent avant les règles relatives au français (FR.*), et avant les règles par défaut (.*).</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T095547Z">
+        <seg>Par exemple, les règles relatives à l'anglais américain (EN-US) passent avant les règles relatives à l'anglais (EN.*), et avant les règles par défaut (.*).</seg>
       </tuv>
     </tu>
     <tu>
@@ -16218,8 +16218,8 @@ the scope of this License.</seg>
       <tuv lang="EN">
         <seg>In spite of the period, &lt;e0&gt;"Mrs. Dalloway "&lt;/e0&gt; should not be split in two segments, so an exception rule should be established for Mrs (and for Mr, for Dr, for prof etc), followed by a period.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130506T093040Z">
-        <seg>Malgré le point, &lt;e0&gt;« Mme. Dalloway »&lt;/e0&gt; ne doit pas être séparé en deux segments. Il est donc nécessaire d'établir une règle d'exception pour le terme Mme (ainsi que pour M, Dr, prof etc) suivi d'un point.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T095414Z">
+        <seg>Malgré le point, &lt;e0&gt;« Mrs. Dalloway »&lt;/e0&gt; ne doit pas être séparé en deux segments. Il est donc nécessaire d'établir une règle d'exception pour le terme Mrs (ainsi que pour M, Dr, prof etc) suivi d'un point.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30432,8 +30432,8 @@ collective works based on the Program.</seg>
       <tuv lang="EN">
         <seg>Thus, when translating from Canadian French the rules for Canadian French - if any - will be applied first, followed by the rules for French and lastly, by the Default rules.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130506T093651Z">
-        <seg>Ainsi, lors de traduction partant du français canadien, les règles relatives au français canadien (s'il y en a) seront appliquées les premières, suivies par les règles relatives au français suivies, enfin, par les règles par défaut.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T095623Z">
+        <seg>Ainsi, lors de traduction partant de l'anglais américain, les règles relatives à l'anglais américain (s'il y en a) seront appliquées les premières, suivies par les règles relatives à l'anglais suivies, enfin, par les règles par défaut.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30674,8 +30674,8 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="EN">
         <seg>To define a rule as an exception rule, leave the Break/Exception check box unticked.</seg>
       </tuv>
-      <tuv lang="FR" changeid="samsung" changedate="20130423T170500Z">
-        <seg>Pour définir une règle comme étant une règle d'exception, décochez la case Segmentation / Exception.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T095418Z">
+        <seg>Pour définir une règle comme étant une règle d'exception, décochez la case Segmentation/Exception.</seg>
       </tuv>
     </tu>
     <tu>
