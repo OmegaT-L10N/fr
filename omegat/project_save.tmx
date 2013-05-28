@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.2" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.2_2" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3155,8 +3155,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Important: &lt;/e0&gt;the supporting TMX must be renamed XX_YY.tmx, where XX_YY is the target language of the tmx, for instance to ZH_CN.tmx in the example above.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130502T083518Z">
-        <seg>&lt;e0&gt;Important : &lt;/e0&gt;Le fichier TMX de référence doit être renommé XX_YY.tmx, XX_YY correspondant à la langue cible du fichier TMX, par exemple ZH_CN.tmx dans l'exemple ci-dessus.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T123936Z">
+        <seg>&lt;e0&gt;Important :&lt;/e0&gt; le fichier TMX de référence doit être renommé XX_YY.tmx, XX_YY correspondant à la langue cible du fichier TMX, par exemple ZH_CN.tmx dans l'exemple ci-dessus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8856,8 +8856,8 @@ software--to make sure the software is free for all its users.</seg>
       <tuv lang="EN">
         <seg>By default, the /tm folder is below the project's root folder (e.g. ...&lt;e0&gt;/MyProject/tm&lt;/e0&gt;), but you can choose a different folder in the project properties dialog if you wish.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130507T080925Z">
-        <seg>Par défaut, le dossier /tm est localisé dans le dossier racine du projet (par exemple ...&lt;e0&gt;/MyProject/tm&lt;/e0&gt;), mais il est toujours possible de choisir un dossier différent dans la boîte de dialogue de propriétés du projet.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T123359Z">
+        <seg>Par défaut, le dossier /tm est localisé dans le dossier racine du projet (par exemple ...&lt;e0&gt;/MonProjet/tm&lt;/e0&gt;), mais il est toujours possible de choisir un dossier différent dans la boîte de dialogue de propriétés du projet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9767,8 +9767,8 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       <tuv lang="EN">
         <seg>Copy them to a safe place for future referrals.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130507T090047Z">
-        <seg>Copiez les dans un endroit sûr pour les utiliser ultérieurement en tant que références.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T123607Z">
+        <seg>Copiez-les dans un endroit sûr pour les utiliser ultérieurement en tant que références.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9972,8 +9972,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="EN">
         <seg>Create a project, separate for other projects, in the desired language pair, with an appropriate name - note that the TMXs created will include this name.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130507T085302Z">
-        <seg>Créez un projet séparé des autres projets dans la paire de langues désirée et donnez lui un nom approprié. Veuillez noter que les TMX créés inclueront ce nom.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T123545Z">
+        <seg>Créez un projet séparé des autres projets dans la paire de langues désirée et donnez-lui un nom approprié. Veuillez noter que les TMX créés incluront ce nom.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15770,8 +15770,8 @@ to ask for permission.</seg>
       <tuv lang="EN">
         <seg>If you wish to use such files as reference translations in OmegaT, they must be repaired, or OmegaT will report an error and fail to load them.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130507T083756Z">
-        <seg>Pour utiliser ces fichers comme traductions de référence dans OmegaT, il est nécessaire de les réparer. Dans le cas contraire, OmegaT signalera une erreur et n'arrivera pas à les ouvrir.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T123512Z">
+        <seg>Pour utiliser ces fichiers comme traductions de référence dans OmegaT, il est nécessaire de les réparer. Dans le cas contraire, OmegaT signalera une erreur et n'arrivera pas à les ouvrir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16416,8 +16416,8 @@ patent against the party.</seg>
       <tuv lang="EN">
         <seg>In this case, place the translation memories you wish to use in the &lt;e0&gt;/tm&lt;/e0&gt; or &lt;e1&gt;/tm&lt;/e1&gt;/auto folder of your new project: in the former case you will get hits from these translation memories in the fuzzy matches viewer, and in the latter case these TMs will be used to pre-translate your source text.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130507T080802Z">
-        <seg>Dans ce cas, placez la mémoire de traduction que vous voulez utiliser dans le dossier &lt;e0&gt;/tm&lt;/e0&gt; ou &lt;e1&gt;/tm&lt;/e1&gt;/auto de votre nouvau projet  : dans le premier cas, vous obtiendrez des correspondances venant des mémoires de traduction dans le volet Correspondances ; dans le second cas, ces mémoires de traduction seront utilisées pour la prétraduction de votre texte source.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T123337Z">
+        <seg>Dans ce cas, placez la mémoire de traduction que vous voulez utiliser dans le dossier &lt;e0&gt;/tm&lt;/e0&gt; ou &lt;e1&gt;/tm&lt;/e1&gt;/auto de votre nouveau projet : dans le premier cas, vous obtiendrez des correspondances venant des mémoires de traduction dans le volet Correspondances ; dans le second cas, ces mémoires de traduction seront utilisées pour la prétraduction de votre texte source.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19860,8 +19860,8 @@ measures.</seg>
       <tuv lang="EN">
         <seg>Note that only one TMX for a given language pair is possible, so if several translation memories should be involved, you will need to merge them all into the XX_YY.tmx.</seg>
       </tuv>
-      <tuv lang="FR" changeid="jchelary" changedate="20130526T130109Z">
-        <seg>Notez qu'une seule TMX n'est utilisable pour une paire de langues donné. Si plusieurs mémoires de traduction sont impliquées dans le projet, vous devrez donc les fusionner dans le fichier XX_YY.tmx.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T123954Z">
+        <seg>Notez qu'une seule TMX est utilisable pour une paire de langues donné. Si plusieurs mémoires de traduction sont impliquées dans le projet, vous devrez donc les fusionner dans le fichier XX_YY.tmx.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20489,8 +20489,8 @@ mouse-clicks or menu items--whatever suits your program.</seg>
       <tuv lang="EN">
         <seg>OmegaT interfaces to SVN and Git, two common team software versioning and revision control systems (RCS), available under an open source license.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130507T090629Z">
-        <seg>OmegaT communique avec SVN et Git, deux versions répandues de logiciels d'équipes et de gestion des versions (RCS) disponibles sous une licence open source.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T123853Z">
+        <seg>OmegaT communique avec SVN et Git, deux systèmes répandus de contrôle et de gestion de version (RCS) en équipe disponibles sous une licence à code source ouvert.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24869,8 +24869,8 @@ REPAIR OR CORRECTION.</seg>
       <tuv lang="EN">
         <seg>Should you wish to reuse a translation memory from a previous project (for example because the new project is similar to the previous project, or uses terminology which might have been used before), you can use these translation memories as "input translation memories", i.e. for import into your new project.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130507T080605Z">
-        <seg>Si vous désirez réutiliser la mémoire de traduction d'un projet précédent (par ex, parce que le nouveau projet ressemble au projet précédent ou parce qu'il utilise une terminologie qui a déjà été rencontrée), il est possible d'utiliser ces mémoires de traduction en tant « qu'importation des mémoires de traduction », c'est à dire de les importer dans votre nouveau projet.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T123324Z">
+        <seg>Si vous désirez réutiliser la mémoire de traduction d'un projet précédent (par ex, parce que le nouveau projet ressemble au projet précédent ou parce qu'il utilise une terminologie qui a déjà été rencontrée), il est possible d'utiliser ces mémoires de traduction en tant « qu'importation des mémoires de traduction », c'est-à-dire de les importer dans votre nouveau projet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25126,8 +25126,8 @@ of the GPL, as needed to protect the freedom of users.</seg>
       <tuv lang="EN">
         <seg>Some types of source files (for instance PO, TTX, etc.) are bilingual, i.e. they serve both as a source and as a translation memory.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130507T091700Z">
-        <seg>Certains types de fichiers source (par exemple PO, TTX, etc.) sont bilingues, c'est à dire qu'ils servent à la fois de source et de mémoire de traduction.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T124008Z">
+        <seg>Certains types de fichiers source (par exemple PO, TTX, etc.) sont bilingues, c'est-à-dire qu'ils servent à la fois de source et de mémoire de traduction.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27802,8 +27802,8 @@ où xx est un code langue générique et YY un code pays/région, optionnel.</se
       <tuv lang="EN">
         <seg>The level 2 export is not fully compliant with the level 2 standard, but is sufficiently close and will generate correct matches in other translation memory tools supporting TMX Level 2.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130507T084600Z">
-        <seg>L'exportation level 2 n'est pas entièrement conforme au standard level 2 mais en est suffisamment proche et fournira des correspondances correctes dans les autres outils de mémoire de traduction qui prennent en charge les TMX Level 2.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T123517Z">
+        <seg>L'exportation level 2 n'est pas entièrement conforme au standard level 2 mais en est suffisamment proche et fournira des correspondances correctes dans les autres outils de mémoire de traduction qui prennent en charge les TMX level 2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30569,8 +30569,8 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="EN">
         <seg>To avoid reusing the project and thus possibly polluting future cases, delete the project folder or archive it away from your workplace.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130507T090129Z">
-        <seg>Pour éviter de réutiliser le projet et donc ne pas risquer de corrompre les cas futurs, supprimez le dossier du projet ou archivez le à un emplacement séparé de votre poste de travail.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T123614Z">
+        <seg>Pour éviter de réutiliser le projet et donc ne pas risquer de corrompre les cas futurs, supprimez le dossier du projet ou archivez-le à un emplacement séparé de votre poste de travail.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30601,8 +30601,8 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="EN">
         <seg>To check everything is as expected, you may press &lt;k2&gt;Ctrl+D&lt;/k2&gt; to create the target documents and check their contents.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130507T085523Z">
-        <seg>Pour vérifiez que tout est comme vous le souhaitez, appuyez sur &lt;k2&gt;Ctrl+D&lt;/k2&gt; pour créer les documents cibles et vérifier leur contenu.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T123600Z">
+        <seg>Pour vérifier que tout est comme vous le souhaitez, appuyez sur &lt;k2&gt;Ctrl+D&lt;/k2&gt; pour créer les documents cibles et vérifier leur contenu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31471,8 +31471,8 @@ Kaptain.</seg>
       <tuv lang="EN">
         <seg>Translation memories may also contain reference translations: multinational legislation, such as that of the European Community, is a typical example.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130507T075753Z">
-        <seg>Les mémoires de traduction peuvent également contenir des traductions de référence : les législations internationales comme celles de la Communauté Européenne en sont un exemple type.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T123255Z">
+        <seg>Les mémoires de traduction peuvent également contenir des traductions de référence : les législations internationales comme celles de la Communauté européenne en sont un exemple type.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34111,8 +34111,8 @@ installation by using the installation script (linux-install.sh).</seg>
       <tuv lang="EN">
         <seg>You can regard these three tmx files (&lt;f2&gt;-omegat.tmx&lt;/f2&gt;, &lt;f3&gt;-level1.tmx&lt;/f3&gt; and &lt;f4&gt;-level2.tmx&lt;/f4&gt;) as an "export translation memory", i.e. as an export of your current project's content in bilingual form.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130507T080119Z">
-        <seg>Vous pouvez considérer ces trois fichiers TMX (&lt;f2&gt;-omegat.tmx&lt;/f2&gt;, &lt;f3&gt;-level1.tmx&lt;/f3&gt; et &lt;f4&gt;-level2.tmx&lt;/f4&gt;) comme une « exportation de la mémoire de traduction », c'est à dire une exportation du contenu de votre projet actuel sous forme bilingue.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T123311Z">
+        <seg>Vous pouvez considérer ces trois fichiers TMX (&lt;f2&gt;-omegat.tmx&lt;/f2&gt;, &lt;f3&gt;-level1.tmx&lt;/f3&gt; et &lt;f4&gt;-level2.tmx&lt;/f4&gt;) comme une « exportation de la mémoire de traduction », c'est-à-dire une exportation du contenu de votre projet actuel sous forme bilingue.</seg>
       </tuv>
     </tu>
     <tu>
