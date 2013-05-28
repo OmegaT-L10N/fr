@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.2" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.2_2" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3739,8 +3739,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>&lt;f0&gt;alignDir &lt;/f0&gt;must contain a translation in the target language of the project.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130421T135545Z">
-        <seg>&lt;f0&gt;alignDir &lt;/f0&gt; doit contenir une traduction dans la langue cible du projet.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T133502Z">
+        <seg>&lt;f0&gt;alignDir&lt;/f0&gt; doit contenir une traduction dans la langue cible du projet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11287,8 +11287,8 @@ several security warnings.</seg>
       <tuv lang="EN">
         <seg>During translation, use the &lt;g2&gt;Edit&lt;/g2&gt; and &lt;g3&gt;Go To&lt;/g3&gt; menus to perform various useful functions.</seg>
       </tuv>
-      <tuv lang="FR" changeid="briglegrand" changedate="20120502T132912Z">
-        <seg>Les menus &lt;g2&gt;Édition&lt;/g2&gt; et  &lt;g3&gt;Atteindre&lt;/g3&gt; vous donnent accès à diverses fonctions très utiles pendant le travail de traduction.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T133508Z">
+        <seg>Les menus &lt;g2&gt;Édition&lt;/g2&gt; et &lt;g3&gt;Atteindre&lt;/g3&gt; vous donnent accès à diverses fonctions très utiles pendant le travail de traduction.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13156,8 +13156,8 @@ know their rights.</seg>
       <tuv lang="EN">
         <seg>For instance (if the default is accepted), the translation from the ancillary TM is accepted and prefixed with&lt;e3&gt; [fuzzy]&lt;/e3&gt;, so that the translator can review the translations at a later stage and check whether the segments tagged this way, have been translated correctly (see the &lt;l4&gt;Editing behavior&lt;/l4&gt; chapter) &lt;m5&gt; &lt;g6&gt;.&lt;/g6&gt; &lt;/m5&gt;</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20130528T100618Z">
-        <seg>Par exemple (si le paramètre par défaut est installé), la traduction de la mémoire de traduction secondaire est acceptée et porte le préfixe &lt;e3&gt;[correspondance]&lt;/e3&gt;, afin que le traducteur puisse revoir les traductions à un stade ultérieur et vérifier que les segments ainsi marqués ont été traduits correctement (voir chapitre &lt;l4&gt;Ligne d'édition&lt;/l4&gt;) &lt;m5&gt; &lt;g6&gt;.&lt;/g6&gt; &lt;/m5&gt;</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T133937Z">
+        <seg>Par exemple (si le paramètre par défaut est configuré), la traduction de la mémoire de traduction secondaire est acceptée et porte le préfixe &lt;e3&gt;[correspondance]&lt;/e3&gt;, afin que le traducteur puisse revoir les traductions à un stade ultérieur et vérifier que les segments ainsi marqués ont été traduits correctement (voir chapitre &lt;l4&gt;Ligne d'édition&lt;/l4&gt;) &lt;m5&gt; &lt;g6&gt;.&lt;/g6&gt; &lt;/m5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14707,16 +14707,16 @@ compelled to copy the source along with the object code.</seg>
       <tuv lang="EN">
         <seg>If given, &lt;a2&gt;OmegaT&lt;/a2&gt; launches in console mode and translates the given project.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130421T133939Z">
-        <seg>Si ce paramètre est installé, &lt;a2&gt;OmegaT&lt;/a2&gt; démarre en mode console et traduit le projet donné.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T133859Z">
+        <seg>Si ce paramètre est donné, &lt;a2&gt;OmegaT&lt;/a2&gt; démarre en mode console et traduit le projet donné.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>If given, &lt;a2&gt;OmegaT&lt;/a2&gt; starts in console mode and will translate the given project.</seg>
       </tuv>
-      <tuv lang="FR" changeid="pingouin" changedate="20130418T153501Z">
-        <seg>Si ce paramètre est installé, &lt;a2&gt;OmegaT&lt;/a2&gt; démarre en mode console et traduit le projet donné.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T133828Z">
+        <seg>Si ce paramètre est donné, &lt;a2&gt;OmegaT&lt;/a2&gt; démarre en mode console et traduit le projet donné.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14809,8 +14809,8 @@ tous les paramètres reprendront leur valeur par défaut,
       <tuv lang="EN">
         <seg>If not given, &lt;a2&gt;OmegaT&lt;/a2&gt; reverts to default values (&lt;a3&gt;OmegaT&lt;/a3&gt; folder under user home or, if unavailable, the current working folder).</seg>
       </tuv>
-      <tuv lang="FR" changeid="jchelary" changedate="20130526T125519Z">
-        <seg>Si ce paramètre n'est pas installé, &lt;a2&gt;OmegaT&lt;/a2&gt; retourne aux valeurs par défaut (dossier &lt;a3&gt;OmegaT&lt;/a3&gt; dans le dossier personnel de l'utilisateur ou, s'il n'est pas disponible, dans le dossier de travail actuel).</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T133851Z">
+        <seg>Si ce paramètre n'est pas donné, &lt;a2&gt;OmegaT&lt;/a2&gt; retourne aux valeurs par défaut (dossier &lt;a3&gt;OmegaT&lt;/a3&gt; dans le dossier personnel de l'utilisateur ou, s'il n'est pas disponible, dans le dossier de travail actuel).</seg>
       </tuv>
     </tu>
     <tu>
