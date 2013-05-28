@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.2" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.2_2" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2331,8 +2331,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>&lt;/e0&gt;This will enable you to keep both versions side-by-side, which you may wish to do until you feel comfortable with the new version.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130502T095439Z">
-        <seg>&lt;/e0&gt;Cela vous permettra de conserver les deux versions côte à côte, ce qui peut être utile jusqu'à ce que vous soyez à l'aise avec la nouvelle version. </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T131759Z">
+        <seg>&lt;/e0&gt;Cela vous permettra de conserver les deux versions côte à côte, ce qui peut être utile jusqu'à ce que vous soyez à l'aise avec la nouvelle version.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2459,8 +2459,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; Files and Folders</seg>
       </tuv>
-      <tuv lang="FR" changeid="JC Helary" changedate="20130519T102451Z">
-        <seg>Les fichiers et répertoires d'&lt;a0&gt;OmegaT&lt;/a0&gt; </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T131548Z">
+        <seg>Les fichiers et répertoires d'&lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2811,8 +2811,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;-Dgoogle.api.key=A123456789B123456789C123456789D12345678 &lt;/e0&gt;&lt;e1&gt;&lt;i2/&gt;&lt;/e1&gt; If you have signed up for the Google Translate services, enter your private Google API key here.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20130527T151049Z">
-        <seg>&lt;e0&gt;-Dgoogle.api.key=A123456789B123456789C123456789D12345678 &lt;/e0&gt;&lt;e1&gt;&lt;i2/&gt;&lt;/e1&gt; : si vous vous êtes inscrits sur le service Google Traduction, entrez votre clé API Google privée ici : </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T131824Z">
+        <seg>&lt;e0&gt;-Dgoogle.api.key=A123456789B123456789C123456789D12345678 &lt;/e0&gt;&lt;e1&gt;&lt;i2/&gt;&lt;/e1&gt; : si vous vous êtes inscrits sur le service Google Traduction, entrez votre clé API Google privée ici :</seg>
       </tuv>
     </tu>
     <tu>
@@ -2835,8 +2835,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;-Dswing.aatext=true&lt;i1/&gt;&lt;/e0&gt; This argument effects anti-aliasing of the fonts, thereby improving their appearance.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20130527T150956Z">
-        <seg>&lt;e0&gt;-Dswing.aatext=true&lt;i1/&gt;&lt;/e0&gt; Cet argument a pour effet de lisser toutes les polices et ainsi d'améliorer leur apparence. </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T131822Z">
+        <seg>&lt;e0&gt;-Dswing.aatext=true&lt;i1/&gt;&lt;/e0&gt; Cet argument a pour effet de lisser toutes les polices et ainsi d'améliorer leur apparence.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3347,8 +3347,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Preserve spaces for all tags&lt;/e0&gt;: if checked, "white space" (i.e., spaces and newlines) will be preserved, even if not set technically in the document</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20130527T134803Z">
-        <seg>&lt;e0&gt;Préserver les espaces pour toutes les balises&lt;/e0&gt; : si cette case est cochée, les « caractères d'espacement » (c.à.d les espaces et les sauts de ligne) seront préservés, même s'ils ne sont pas définis techniquement dans le document</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T131226Z">
+        <seg>&lt;e0&gt;Préserver les espaces pour toutes les balises&lt;/e0&gt; : si cette case est cochée, les « caractères d'espacement » (c.-à-d. les espaces et les sauts de ligne) seront préservés, même s'ils ne sont pas définis techniquement dans le document</seg>
       </tuv>
     </tu>
     <tu>
@@ -3451,16 +3451,16 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Terminology management&lt;/e0&gt;: Terminology management is important for translation consistency.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130502T080446Z">
-        <seg>&lt;e0&gt;Gestion de la terminologie&lt;/e0&gt;: la gestion de la terminologie est importante pour la cohérence de la traduction. </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T131049Z">
+        <seg>&lt;e0&gt;Gestion de la terminologie&lt;/e0&gt;: la gestion de la terminologie est importante pour la cohérence de la traduction.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;e0&gt;The user interface&lt;/e0&gt;,&lt;e1&gt;Main Menu and Keyboard Shortcuts&lt;/e1&gt;: these two chapters are likely to be heavily consulted, since they explain the user interface of OmegaT and the functions available via the main menu and the keyboard shortcuts.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20130527T124736Z">
-        <seg>&lt;e0&gt;L'interface utilisateur&lt;/e0&gt;,&lt;e1&gt;Menu principal et Raccourcis clavier&lt;/e1&gt;: ces deux chapitres seront certainement très consultés car ils expliquent le fonctionnement de l'interface utilisateur d'OmegaT et les fonctionnalités disponibles via le menu principal et les raccourcis clavier. </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T131105Z">
+        <seg>&lt;e0&gt;L'interface utilisateur&lt;/e0&gt;,&lt;e1&gt;Menu principal et Raccourcis clavier&lt;/e1&gt;: ces deux chapitres seront certainement très consultés car ils expliquent le fonctionnement de l'interface utilisateur d'OmegaT et les fonctionnalités disponibles via le menu principal et les raccourcis clavier.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3491,8 +3491,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Translation process:&lt;/e0&gt; Imagine having to translate something; from a single file to a folder containing subfolders each with a number of files in a variety of formats.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130502T080626Z">
-        <seg>&lt;e0&gt;Travail de traduction :&lt;/e0&gt; imaginez que vous ayez à traduire quelque chose ; d'un fichier unique à un dossier contenant des sous-dossiers, chacun rempli d'un certain nombre de fichiers sous différents formats. </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T131134Z">
+        <seg>&lt;e0&gt;Travail de traduction :&lt;/e0&gt; imaginez que vous ayez à traduire quelque chose ; d'un fichier unique à un dossier contenant des sous-dossiers, chacun rempli d'un certain nombre de fichiers sous différents formats.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3611,8 +3611,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;administrator: &lt;/e0&gt;the person responsible for the creation and maintaining of the repository, i.e. taking care of the server side of the task.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130429T112251Z">
-        <seg>&lt;e0&gt;administrateur : &lt;/e0&gt;la personne responsable de la création et de l'entretien du référentiel, c.à.d qui s'occupe de la partie serveur. </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T131502Z">
+        <seg>&lt;e0&gt;administrateur : &lt;/e0&gt;la personne responsable de la création et de l'entretien du référentiel, c.-à-d. qui s'occupe de la partie serveur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4563,8 +4563,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;File filters&lt;/p0&gt; &lt;s1&gt;Dialog&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="FR" changeid="jchelary" changedate="20130526T095856Z">
-        <seg>&lt;s1&gt;Fichiers et filtres...&lt;/s1&gt; &lt;p0&gt;Boite de dialogue&lt;/p0&gt; </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T131542Z">
+        <seg>&lt;s1&gt;Fichiers et filtres...&lt;/s1&gt; &lt;p0&gt;Boite de dialogue&lt;/p0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6957,8 +6957,8 @@ included in conveying the object code work.</seg>
       <tuv lang="EN">
         <seg>A text file containing two lines:</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130416T102035Z">
-        <seg>Un fichier texte contenant deux lignes : </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T131617Z">
+        <seg>Un fichier texte contenant deux lignes :</seg>
       </tuv>
     </tu>
     <tu>
@@ -6973,8 +6973,8 @@ included in conveying the object code work.</seg>
       <tuv lang="EN">
         <seg>A translation project &lt;e0&gt;Example_Project&lt;/e0&gt; created with the default settings will be created as a new subfolder with the following structure:</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130430T113549Z">
-        <seg>Un projet de traduction&lt;e0&gt;Example_Project&lt;/e0&gt; utilisant les paramètres par défaut sera créé sous la forme d'un nouveau sous-dossier ayant la structure suivante : </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T131554Z">
+        <seg>Un projet de traduction&lt;e0&gt;Example_Project&lt;/e0&gt; utilisant les paramètres par défaut sera créé sous la forme d'un nouveau sous-dossier ayant la structure suivante :</seg>
       </tuv>
     </tu>
     <tu>
@@ -7309,8 +7309,8 @@ the above requirements apply either way.</seg>
       <tuv lang="EN">
         <seg>After a bad manipulation:</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130416T145636Z">
-        <seg>Après une mauvaise manipulation : </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T131642Z">
+        <seg>Après une mauvaise manipulation :</seg>
       </tuv>
     </tu>
     <tu>
@@ -7325,8 +7325,8 @@ the above requirements apply either way.</seg>
       <tuv lang="EN">
         <seg>After deletion:</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130416T144435Z">
-        <seg>Après la suppression : </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T131631Z">
+        <seg>Après la suppression :</seg>
       </tuv>
     </tu>
     <tu>
@@ -7413,8 +7413,8 @@ the above requirements apply either way.</seg>
       <tuv lang="EN">
         <seg>Again note that the backslash is escaped as well.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20130527T151413Z">
-        <seg>Encore une fois, veuillez noter que l'antislash a été neutralisé. </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T131829Z">
+        <seg>Encore une fois, veuillez noter que l'antislash a été neutralisé.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7531,8 +7531,8 @@ rights of fair use or other equivalent, as provided by copyright law.</seg>
       <tuv lang="EN">
         <seg>All the relevant tags in the source - i.e. OmegaT as well as custom, Java, printf etc tags - will be inserted into the current target, regardless of whether they are already there or not.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20130527T152344Z">
-        <seg>Toutes les balises pertinentes présentes dans la source - c.à.d les balises d'OmegaT ainsi que les balises personnalisées, Java, printf, etc. - seront insérées dans le segment en cours (qu'elles y soient, ou non, déjà présentes).</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T131306Z">
+        <seg>Toutes les balises pertinentes présentes dans la source - c.-à-d. les balises d'OmegaT ainsi que les balises personnalisées, Java, printf, etc. - seront insérées dans le segment en cours (qu'elles y soient, ou non, déjà présentes).</seg>
       </tuv>
     </tu>
     <tu>
@@ -7587,8 +7587,8 @@ rights of fair use or other equivalent, as provided by copyright law.</seg>
       <tuv lang="EN">
         <seg>Allows the user decide, how tags in foreign TMX files (i.e. not generated by OmegaT) are to be treated.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130503T112858Z">
-        <seg>Permet à l'utilisateur de décider de quelle façon les balises des fichiers TMX étrangers (c.à.d non-générés par OmegaT) doivent être traitées.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T131335Z">
+        <seg>Permet à l'utilisateur de décider de quelle façon les balises des fichiers TMX étrangers (c.-à-d. non-générés par OmegaT) doivent être traitées.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7627,8 +7627,8 @@ rights of fair use or other equivalent, as provided by copyright law.</seg>
       <tuv lang="EN">
         <seg>Also &lt;f3&gt;ignored_words.txt&lt;/f3&gt; and &lt;f4&gt;learned_words.txt&lt;/f4&gt; in the &lt;f5&gt;omegat&lt;/f5&gt; folder may be worth sharing and maintaining on the team level.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130429T122447Z">
-        <seg>Il peut être intéressant de partager les fichiers &lt;f3&gt;ignored_words.txt&lt;/f3&gt; et &lt;f4&gt;learned_words.txt&lt;/f4&gt; situés dans le dossier &lt;f5&gt;omegat&lt;/f5&gt; pour qu'ils soient mis à jour par l'ensemble de l'équipe. </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T131506Z">
+        <seg>Il peut être intéressant de partager les fichiers &lt;f3&gt;ignored_words.txt&lt;/f3&gt; et &lt;f4&gt;learned_words.txt&lt;/f4&gt; situés dans le dossier &lt;f5&gt;omegat&lt;/f5&gt; pour qu'ils soient mis à jour par l'ensemble de l'équipe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9200,16 +9200,16 @@ software--to make sure the software is free for all its users.</seg>
       <tuv lang="EN">
         <seg>Check the changes to be made - i.e. the folders and files added in this case.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130429T124157Z">
-        <seg>Vérifiez les changements à effectuer (dans le cas présent, les dossiers et les fichiers ajoutés). </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T131510Z">
+        <seg>Vérifiez les changements à effectuer (dans le cas présent, les dossiers et les fichiers ajoutés).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Check the contents of the folder to confirm that the local copy of the repository and the corresponding files and folders correspond to the latest server version:</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130415T084314Z">
-        <seg>Vérifiez le contenu du dossier pour confirmer que la copie locale du référentiel et les fichiers et dossiers correspondants sont conformes à la dernière version du serveur : </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T131513Z">
+        <seg>Vérifiez le contenu du dossier pour confirmer que la copie locale du référentiel et les fichiers et dossiers correspondants sont conformes à la dernière version du serveur :</seg>
       </tuv>
     </tu>
     <tu>
@@ -9636,8 +9636,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (responsable du développement), Kim 
       <tuv lang="EN">
         <seg>Contributing to &lt;a0&gt;OmegaT&lt;/a0&gt; project</seg>
       </tuv>
-      <tuv lang="FR" changeid="laurieetclémentine" changedate="20130412T133827Z">
-        <seg>Apporter sa contribution au projet &lt;a0&gt;OmegaT&lt;/a0&gt; </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T131520Z">
+        <seg>Apporter sa contribution au projet &lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9848,8 +9848,8 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       <tuv lang="EN">
         <seg>Correct the error if necessary (in the case above it is the missing &lt;i2&gt;&lt;/i2&gt; pair) and press &lt;g0&gt;Ctrl+T&lt;/g0&gt; to return to the tag validation window to correct other errors.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130513T084803Z">
-        <seg>Corrigez les erreurs si nécessaire (dans le cas ci-dessus, il manque la paire &lt;t2&gt;&lt;/t2&gt;) et appuyez sur &lt;g0&gt;Ctrl+T&lt;/g0&gt; pour retourner dans la fenêtre de validation des balises afin de corriger d'autres erreurs. </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T131730Z">
+        <seg>Corrigez les erreurs si nécessaire (dans le cas ci-dessus, il manque la paire &lt;i2&gt;&lt;/i2&gt;) et appuyez sur &lt;g0&gt;Ctrl+T&lt;/g0&gt; pour retourner dans la fenêtre de validation des balises afin de corriger d'autres erreurs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10572,8 +10572,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="EN">
         <seg>Depending upon the segmenting rules, the pair of tags may get separated into two consecutive segments and the tag validation will err on the side of caution and mark the two segments.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130430T135440Z">
-        <seg>En fonction des règles de segmentation, les paires de balises peuvent être séparées dans deux segments consécutifs, auquel cas la validation des balises marquera les deux segments par règle de précaution. </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T131623Z">
+        <seg>En fonction des règles de segmentation, les paires de balises peuvent être séparées dans deux segments consécutifs, auquel cas la validation des balises marquera les deux segments par règle de précaution.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13100,8 +13100,8 @@ know their rights.</seg>
       <tuv lang="EN">
         <seg>For example, in the default OmegaT shortcuts</seg>
       </tuv>
-      <tuv lang="FR" changeid="laurieetclémentine" changedate="20130411T131229Z">
-        <seg>Par exemple, pour les raccourcis par défaut d'OmegaT </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T131451Z">
+        <seg>Par exemple, pour les raccourcis par défaut d'OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -14121,8 +14121,8 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       <tuv lang="EN">
         <seg>Here's few typical examples to limit your choice:</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130502T141835Z">
-        <seg>Voici quelques exemples typiques qui permettent de limiter le choix : </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T131826Z">
+        <seg>Voici quelques exemples typiques qui permettent de limiter le choix :</seg>
       </tuv>
     </tu>
     <tu>
@@ -14406,8 +14406,8 @@ SUCH DAMAGES.</seg>
       <tuv lang="EN">
         <seg>ISO 639-1/639-2 Language code list</seg>
       </tuv>
-      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T123845Z">
-        <seg>Liste des codes langues ISO 639-1/639-2 </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T131447Z">
+        <seg>Liste des codes langues ISO 639-1/639-2</seg>
       </tuv>
     </tu>
     <tu>
@@ -14563,8 +14563,8 @@ path need not be entered.)</seg>
       <tuv lang="EN">
         <seg>If an &lt;a0&gt;OmegaT&lt;/a0&gt; project contains one or more glossaries, any terms in the glossary which are also found in the current segment will be automatically displayed in the Glossary viewer.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130430T085001Z">
-        <seg>Si un projet &lt;a0&gt;OmegaT&lt;/a0&gt; contient un ou plusieurs glossaires, tous les termes du glossaire qui se trouvent dans le segment en cours seront affichés automatiquement dans le volet Glossaires. </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T131742Z">
+        <seg>Si un projet &lt;a0&gt;OmegaT&lt;/a0&gt; contient un ou plusieurs glossaires, tous les termes du glossaire qui se trouvent dans le segment en cours seront affichés automatiquement dans le volet Glossaires.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14723,8 +14723,8 @@ compelled to copy the source along with the object code.</seg>
       <tuv lang="EN">
         <seg>If in doubt, don't hesitate to ask project members directly either by sending them an e-mail from the SourceForge page or by sending a public mail to the user group.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20130527T140240Z">
-        <seg>En cas de doute, n'hésitez pas à vous adresser directement aux membres du projet, soit en leur envoyant un courriel depuis la page SourceForge, soit en envoyant un message public au groupe d'utilisateurs. </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T131615Z">
+        <seg>En cas de doute, n'hésitez pas à vous adresser directement aux membres du projet, soit en leur envoyant un courriel depuis la page SourceForge, soit en envoyant un message public au groupe d'utilisateurs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15192,8 +15192,8 @@ authors' reputations.</seg>
       <tuv lang="EN">
         <seg>If they are accidentally changed, the formatting of the final file may be corrupted.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130416T144245Z">
-        <seg>Si elles sont accidentellement modifiées, le formatage du fichier final peut être endommagé. </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T131624Z">
+        <seg>Si elles sont accidentellement modifiées, le formatage du fichier final peut être endommagé.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15233,8 +15233,8 @@ Public License instead of this License.</seg>
       <tuv lang="EN">
         <seg>If this option is checked, when a fuzzy match is inserted, either manually or automatically, OmegaT attempts to convert the numbers in the fuzzy matches according to the source contents.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130429T133645Z">
-        <seg>Si une correspondance est insérée alors que cette case est cochée, OmegaT essaie, manuellement ou automatiquement, de convertir les nombres de la correspondance en fonction du contenu du texte source. </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T131535Z">
+        <seg>Si une correspondance est insérée alors que cette case est cochée, OmegaT essaie, manuellement ou automatiquement, de convertir les nombres de la correspondance en fonction du contenu du texte source.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15276,8 +15276,8 @@ where to find the applicable terms.</seg>
       <tuv lang="EN">
         <seg>If you already have a version of OmegaT installed on your PC and wish to upgrade to a more recent version, you have two options:</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130502T094733Z">
-        <seg>Si vous possédez déjà une version d'OmegaT sur votre PC et que vous souhaitez obtenir une version plus récente, il existe deux options :  </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T131756Z">
+        <seg>Si vous possédez déjà une version d'OmegaT sur votre PC et que vous souhaitez obtenir une version plus récente, il existe deux options :</seg>
       </tuv>
     </tu>
     <tu>
@@ -15959,8 +15959,8 @@ work and works based on it.</seg>
       <tuv lang="EN">
         <seg>In &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Editing Behavior...&lt;/g2&gt; &lt;/m0&gt; &lt;a3&gt;OmegaT&lt;/a3&gt; offers you the following alternatives:</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130415T090445Z">
-        <seg>Dans le menu &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Ligne d'édition...&lt;/g2&gt; &lt;/m0&gt; &lt;a3&gt;OmegaT&lt;/a3&gt; vous propose les possibilités suivantes : </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T131530Z">
+        <seg>Dans le menu &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Ligne d'édition...&lt;/g2&gt; &lt;/m0&gt; &lt;a3&gt;OmegaT&lt;/a3&gt; vous propose les possibilités suivantes :</seg>
       </tuv>
     </tu>
     <tu>
@@ -16114,8 +16114,8 @@ the scope of this License.</seg>
       <tuv lang="EN">
         <seg>In its most basic form, this command is:</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130418T130502Z">
-        <seg>Dans sa forme la forme la plus simple, la commande est : </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T131814Z">
+        <seg>Dans sa forme la forme la plus simple, la commande est :</seg>
       </tuv>
     </tu>
     <tu>
@@ -16178,8 +16178,8 @@ the scope of this License.</seg>
       <tuv lang="EN">
         <seg>In other words, when moving paired tags, ensure that both the opening and the closing tag are both either inside or outside other tag pairs, or the translated file may be corrupted and fail to open.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20130527T142112Z">
-        <seg>Autrement dit, lorque vous déplacez une paire de balises, assurez-vous que la balise ouvrante et la balise fermante sont bien toutes les deux à l'intérieur ou à l'extérieur d'une autre paire de balises. Dans le cas contraire, le fichier traduit risquerait d'être endommagé et de ne pas pouvoir s'ouvrir. </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T131641Z">
+        <seg>Autrement dit, lorsque vous déplacez une paire de balises, assurez-vous que la balise ouvrante et la balise fermante sont bien toutes les deux à l'intérieur ou à l'extérieur d'une autre paire de balises. Dans le cas contraire, le fichier traduit risquerait d'être endommagé et de ne pas pouvoir s'ouvrir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16194,8 +16194,8 @@ the scope of this License.</seg>
       <tuv lang="EN">
         <seg>In practice, this command will therefore be something like this:</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130419T164625Z">
-        <seg>Dans la pratique, cette commande ressemblera donc plus ou moins à ceci : </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T131813Z">
+        <seg>Dans la pratique, cette commande ressemblera donc plus ou moins à ceci :</seg>
       </tuv>
     </tu>
     <tu>
@@ -16408,8 +16408,8 @@ patent against the party.</seg>
       <tuv lang="EN">
         <seg>In this case, however:</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130417T095811Z">
-        <seg>Dans ce cas, cependant : </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T131800Z">
+        <seg>Dans ce cas, cependant :</seg>
       </tuv>
     </tu>
     <tu>
@@ -16972,8 +16972,8 @@ exécutez simplement le programme d'installation.</seg>
       <tuv lang="EN">
         <seg>It contains just the following line:</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130416T102808Z">
-        <seg>Il ne contient que la ligne suivante : </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T131618Z">
+        <seg>Il ne contient que la ligne suivante :</seg>
       </tuv>
     </tu>
     <tu>
@@ -16996,8 +16996,8 @@ exécutez simplement le programme d'installation.</seg>
       <tuv lang="EN">
         <seg>It does not apply to the Web Start versions, which are upgraded automatically, nor to cross-platform versions installed on Windows.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130502T094522Z">
-        <seg>Elles ne s'appliquent ni aux versions Web Start, qui se mettent automatiquement à niveau, ni aux versions mutliplateformes installées sur Windows. </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T131747Z">
+        <seg>Elles ne s'appliquent ni aux versions Web Start, qui se mettent automatiquement à niveau, ni aux versions mutliplateformes installées sur Windows.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17182,8 +17182,8 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
       <tuv lang="EN">
         <seg>It is therefore possible to select existing folders or create folders in locations that reflect your work flow and project management habits.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130430T113116Z">
-        <seg>Il est donc possible de sélectionner des dossiers existants ou de créer des dossiers à des emplacements qui s'accordent avec vos habitudes de travail et de gestion de projets. </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T131552Z">
+        <seg>Il est donc possible de sélectionner des dossiers existants ou de créer des dossiers à des emplacements qui s'accordent avec vos habitudes de travail et de gestion de projets.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17513,8 +17513,8 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>Keep in mind that a pair group must have both its opening and its closing tag deleted to ensure that all traces of the formatting are properly erased, otherwise the translated file may become corrupted.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130430T140629Z">
-        <seg>Gardez bien à l'esprit que pour une paire de balises, la balise ouvrante et la balise fermante doivent être toutes les deux supprimées afin de s'assurer que toute trace du formatage a été correctement effacée. Dans le cas contraire, le fichier risquerait d'être endommagé. </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T131630Z">
+        <seg>Gardez bien à l'esprit que pour une paire de balises, la balise ouvrante et la balise fermante doivent être toutes les deux supprimées afin de s'assurer que toute trace du formatage a été correctement effacée. Dans le cas contraire, le fichier risquerait d'être endommagé.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18264,8 +18264,8 @@ automatically download and install it.</seg>
       <tuv lang="EN">
         <seg>Mac OS X specifics</seg>
       </tuv>
-      <tuv lang="FR" changeid="laurieetclémentine" changedate="20130412T122733Z">
-        <seg>Spécificités Mac OS X </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T131519Z">
+        <seg>Spécificités Mac OS X</seg>
       </tuv>
     </tu>
     <tu>
@@ -19596,8 +19596,8 @@ measures.</seg>
       <tuv lang="EN">
         <seg>Non-visible formatting (i.e., which doesn't appear as tags in the OmegaT editor) is kept in the target document.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20130527T152748Z">
-        <seg>Le formatage non-visible (c.à.d qui ne figure pas en tant que balise dans l'éditeur OmegaT) est conservé dans le document cible.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T131313Z">
+        <seg>Le formatage non-visible (c.-à-d. qui ne figure pas en tant que balise dans l'éditeur OmegaT) est conservé dans le document cible.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19620,8 +19620,8 @@ measures.</seg>
       <tuv lang="EN">
         <seg>Normally, it is not necessary to start &lt;a0&gt;OmegaT&lt;/a0&gt; from the command line.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130417T143026Z">
-        <seg>Normalement, il n'est pas nécessaire de démarrer&lt;a0&gt;OmegaT&lt;/a0&gt;à partir de la ligne de commande. </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T131808Z">
+        <seg>Normalement, il n'est pas nécessaire de démarrer&lt;a0&gt;OmegaT&lt;/a0&gt;à partir de la ligne de commande.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20537,8 +20537,8 @@ mouse-clicks or menu items--whatever suits your program.</seg>
       <tuv lang="EN">
         <seg>OmegaT is not yet able to detect mistakes in formatting fully automatically, so it will not prompt you if you make an error or change formatting to fit your target language better.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130502T075606Z">
-        <seg>OmegaT n'arrive pas encore à détecter automatiquement les erreurs de formatage et ne vous préviendra donc pas en cas d'erreur ou de modification du formatage (réalisée en vue d'une meilleure adaptation à la langue cible). </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T131738Z">
+        <seg>OmegaT n'arrive pas encore à détecter automatiquement les erreurs de formatage et ne vous préviendra donc pas en cas d'erreur ou de modification du formatage (réalisée en vue d'une meilleure adaptation à la langue cible).</seg>
       </tuv>
     </tu>
     <tu>
@@ -20809,8 +20809,8 @@ with exactly the same structure, including copies of any non-supported files.</s
       <tuv lang="EN">
         <seg>OmegaT will recognize it is a team project, and will synchronize everything automatically, every three minutes by default.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130429T125557Z">
-        <seg>OmegaT le reconnaîtra comme étant un projet en équipe et le synchronisera automatiquement toutes les trois minutes (synchronisation par défaut). </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T131515Z">
+        <seg>OmegaT le reconnaîtra comme étant un projet en équipe et le synchronisera automatiquement toutes les trois minutes (synchronisation par défaut).</seg>
       </tuv>
     </tu>
     <tu>
@@ -21025,8 +21025,8 @@ with exactly the same structure, including copies of any non-supported files.</s
       <tuv lang="EN">
         <seg>Once the archive has been extracted, a folder containing the following contents is created:</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20130527T140135Z">
-        <seg>Une fois l'archive extraite, un dossier contenant les éléments suivants est créé : </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T131600Z">
+        <seg>Une fois l'archive extraite, un dossier contenant les éléments suivants est créé :</seg>
       </tuv>
     </tu>
     <tu>
@@ -21105,8 +21105,8 @@ with exactly the same structure, including copies of any non-supported files.</s
       <tuv lang="EN">
         <seg>One member of the team, the project administrator, needs to be acquainted with handling the server side, i.e. the job of setting up the environment, importing the OmegaT project, assigning the access rights for the team members, resolving the conflicts, etc.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20130527T131545Z">
-        <seg>Un membre de l'équipe, l'administrateur du projet, doit être en mesure de s'occuper du serveur. C'est-à-dire qu'il doit mettre en place l'environnement, importer le projet OmegaT, attribuer des droits d'accès aux membres de l'équipe, résoudre les conflits, etc. </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T131459Z">
+        <seg>Un membre de l'équipe, l'administrateur du projet, doit être en mesure de s'occuper du serveur. C'est-à-dire qu'il doit mettre en place l'environnement, importer le projet OmegaT, attribuer des droits d'accès aux membres de l'équipe, résoudre les conflits, etc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21307,8 +21307,8 @@ happen should you file a bug report.</seg>
       <tuv lang="EN">
         <seg>Opens a new window and displays the project statistics, i.e. the project totals and totals for every file in the project.</seg>
       </tuv>
-      <tuv lang="FR" changeid="samsung" changedate="20130421T182544Z">
-        <seg>Ouvre une nouvelle fenêtre et affiche les statistiques du projet, c.à.d les totaux du projet et les totaux de chaque fichier du projet.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T131323Z">
+        <seg>Ouvre une nouvelle fenêtre et affiche les statistiques du projet, c.-à-d. les totaux du projet et les totaux de chaque fichier du projet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25894,8 +25894,8 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       <tuv lang="EN">
         <seg>Tag duplication:</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130416T143738Z">
-        <seg>Duplication des balises : </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T131626Z">
+        <seg>Duplication des balises :</seg>
       </tuv>
     </tu>
     <tu>
@@ -25918,8 +25918,8 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       <tuv lang="EN">
         <seg>Tag group deletion:</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130430T140411Z">
-        <seg>Suppression des groupes de balises : </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T131627Z">
+        <seg>Suppression des groupes de balises :</seg>
       </tuv>
     </tu>
     <tu>
@@ -27113,16 +27113,16 @@ shown below.</seg>
       <tuv lang="EN">
         <seg>The check boxes in the lower half of the dialog window serve the following purpose:</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130415T093456Z">
-        <seg>Les cases à cocher situées dans la partie inférieure de la boîte de dialogue ont les fonctionnalités suivantes : </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T131533Z">
+        <seg>Les cases à cocher situées dans la partie inférieure de la boîte de dialogue ont les fonctionnalités suivantes :</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>The collaborative translation offered by OmegaT is based on the functionality of version or revision control, widely used by the software community to maintain control of changes to the code of a program and allow unimpeded collaboration within the development team.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130429T094127Z">
-        <seg>La traduction collaborative proposée par OmegaT fonctionne sur la base de contrôle des versions et des révisions. Cette fonction est très utilisée au sein de la communauté des créateurs de logiciels pour contrôler les changements apportés aux codes d'un programme et permettre à l'équipe de développement de collaborer sans entrave. </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T131455Z">
+        <seg>La traduction collaborative proposée par OmegaT fonctionne sur la base de contrôle des versions et des révisions. Cette fonction est très utilisée au sein de la communauté des créateurs de logiciels pour contrôler les changements apportés aux codes d'un programme et permettre à l'équipe de développement de collaborer sans entrave.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27203,8 +27203,8 @@ utilisé à la place.</seg>
       <tuv lang="EN">
         <seg>The contents of the checkout folder will be marked accordingly:</seg>
       </tuv>
-      <tuv lang="FR" changeid="JC Helary" changedate="20130519T102351Z">
-        <seg>Le contenu du répertoire d'extraction sera annoté en conséquence : </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T131509Z">
+        <seg>Le contenu du répertoire d'extraction sera annoté en conséquence :</seg>
       </tuv>
     </tu>
     <tu>
@@ -27317,8 +27317,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The dialog in &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Editing Behavior...&lt;/g2&gt; &lt;/m0&gt; enables the user to select, how the current segment in the editing field is to be initialized and handled:</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20130527T133422Z">
-        <seg>La boîte de dialogue du menu &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Ligne d'édition...&lt;/g2&gt; &lt;/m0&gt; permet à l'utilisateur de choisir comment le segment actuellement présent dans la ligne d'édition sera initialisé et géré : </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T131526Z">
+        <seg>La boîte de dialogue du menu &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Ligne d'édition...&lt;/g2&gt; &lt;/m0&gt; permet à l'utilisateur de choisir comment le segment actuellement présent dans la ligne d'édition sera initialisé et géré :</seg>
       </tuv>
     </tu>
     <tu>
@@ -27485,8 +27485,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The files appear in the /script subfolder in the OmegaT user files folder, and include:</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130429T135207Z">
-        <seg>Les fichiers apparaissent dans le sous-dossier /script situé dans le dossier de fichiers utilisateur d'OmegaT et comprennent : </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T131540Z">
+        <seg>Les fichiers apparaissent dans le sous-dossier /script situé dans le dossier de fichiers utilisateur d'OmegaT et comprennent :</seg>
       </tuv>
     </tu>
     <tu>
@@ -27517,8 +27517,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The first of these is:</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130418T125956Z">
-        <seg>La première est : </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T131810Z">
+        <seg>La première est :</seg>
       </tuv>
     </tu>
     <tu>
@@ -27541,8 +27541,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The following code snippet in groovy for instance scans through all the segments in all files in the current project and, if the translation exists, prints out the source and the target of the segment:</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20130527T130921Z">
-        <seg>L'exemple de code suivant, dans le langage groovy par exemple, examine tous les segments de tous les fichiers du projet en cours et, si la traduction existe, imprime la source et la cible du segment : </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T131449Z">
+        <seg>L'exemple de code suivant, dans le langage groovy par exemple, examine tous les segments de tous les fichiers du projet en cours et, si la traduction existe, imprime la source et la cible du segment :</seg>
       </tuv>
     </tu>
     <tu>
@@ -27557,16 +27557,16 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The following example shows Merriam Webster 10th dictionary "in action":</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20130527T133320Z">
-        <seg>L'exemple suivant montre le dictionnaire Merriam Webster 10th « en action » : </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T131523Z">
+        <seg>L'exemple suivant montre le dictionnaire Merriam Webster 10th « en action » :</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>The following files are to be shared among the members of the team and thus have to be included in any case:</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130429T122234Z">
-        <seg>Les fichiers suivants doivent être partagés par les membres de l'équipe et donc être inclus dans tous les cas : </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T131504Z">
+        <seg>Les fichiers suivants doivent être partagés par les membres de l'équipe et donc être inclus dans tous les cas :</seg>
       </tuv>
     </tu>
     <tu>
@@ -27621,8 +27621,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The following two steps will bring the server version up to date:</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130415T075022Z">
-        <seg>Les deux étapes suivantes mettront à jour la version du serveur : </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T131507Z">
+        <seg>Les deux étapes suivantes mettront à jour la version du serveur :</seg>
       </tuv>
     </tu>
     <tu>
@@ -27709,8 +27709,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The group archives are public and can be viewed without subscription to the group.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130430T130311Z">
-        <seg>Les archives du groupe sont publiques et peuvent être consultées sans inscription préalable auprès du groupe. </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T131611Z">
+        <seg>Les archives du groupe sont publiques et peuvent être consultées sans inscription préalable auprès du groupe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27786,8 +27786,8 @@ où xx est un code langue générique et YY un code pays/région, optionnel.</se
       <tuv lang="EN">
         <seg>The last frame offers you to have a look at the readme and changes files for the version you have installed.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130502T093021Z">
-        <seg>Le dernier cadre vous propose de lire les fichiers lisez-moi (readme) et modifications (changes) correspondant à la version que vous avez installée. </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T131745Z">
+        <seg>Le dernier cadre vous propose de lire les fichiers lisez-moi (readme) et modifications (changes) correspondant à la version que vous avez installée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27906,8 +27906,8 @@ freedom to share and change it.</seg>
       <tuv lang="EN">
         <seg>The location of user files depends upon the platform you use:</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20130527T150202Z">
-        <seg>L'emplacement des fichiers utilisateur dépend de la plateforme utilisée : </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T131559Z">
+        <seg>L'emplacement des fichiers utilisateur dépend de la plateforme utilisée :</seg>
       </tuv>
     </tu>
     <tu>
@@ -28934,8 +28934,8 @@ making modifications to it.</seg>
       <tuv lang="EN">
         <seg>The text export function exports data from within the current &lt;a0&gt;OmegaT&lt;/a0&gt; project to plain text files.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130429T135038Z">
-        <seg>Cette fonction d'exportation dans des fichiers texte exporte des données depuis le projet &lt;a0&gt;OmegaT&lt;/a0&gt; en cours dans des fichiers de texte brut. </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T131538Z">
+        <seg>Cette fonction d'exportation dans des fichiers texte exporte des données depuis le projet &lt;a0&gt;OmegaT&lt;/a0&gt; en cours dans des fichiers de texte brut.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29535,8 +29535,8 @@ distribute copies of the software, or if you modify it.</seg>
       <tuv lang="EN">
         <seg>They contain the one and the same translation memory contents in different forms, to be used in future projects.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130430T114130Z">
-        <seg>Ils contiennent l'intégralité de la mémoire de traduction (sous différentes formes) qui pourra ainsi être utilisée lors de projets futurs. </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T131556Z">
+        <seg>Ils contiennent l'intégralité de la mémoire de traduction (sous différentes formes) qui pourra ainsi être utilisée lors de projets futurs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29925,8 +29925,8 @@ under the terms of this General Public License.</seg>
       <tuv lang="EN">
         <seg>This is an ordinary html file that, when opened in your Internet browser, directs you to the OmegaT user group hosted on Yahoo!</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20130527T140142Z">
-        <seg>Il s'agit d'un fichier HTML ordinaire qui, lorsqu'il est ouvert dans votre navigateur Internet, vous dirige vers le groupe d'utilisateur OmegaT hébergé sur Yahoo! </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T131605Z">
+        <seg>Il s'agit d'un fichier HTML ordinaire qui, lorsqu'il est ouvert dans votre navigateur Internet, vous dirige vers le groupe d'utilisateur OmegaT hébergé sur Yahoo!</seg>
       </tuv>
     </tu>
     <tu>
@@ -30216,8 +30216,8 @@ this version will not interfere with it.</seg>
       <tuv lang="EN">
         <seg>This package can be used on any platform where a Java 1.5 JRE compatible JRE is installed.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20130527T145357Z">
-        <seg>Ce paquet peut être utilisé par toutes les plates-formes sur lesquelles un environnement d'exécution Java 1.5 compatible JRE est installé. </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T131804Z">
+        <seg>Ce paquet peut être utilisé par toutes les plates-formes sur lesquelles un environnement d'exécution Java 1.5 compatible JRE est installé.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30657,8 +30657,8 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="EN">
         <seg>To customize the work with tags, one can set down some of the rules in the &lt;g0&gt;Options &gt; Tag validation...&lt;/g0&gt; window:</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130430T141630Z">
-        <seg>Pour personnaliser le travail avec des balises, il est possible d'établir quelques règles dans la fenêtre &lt;g0&gt;Options &gt; Validation des balises...&lt;/g0&gt; : </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T131654Z">
+        <seg>Pour personnaliser le travail avec des balises, il est possible d'établir quelques règles dans la fenêtre &lt;g0&gt;Options &gt; Validation des balises...&lt;/g0&gt; :</seg>
       </tuv>
     </tu>
     <tu>
@@ -30812,8 +30812,8 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
       <tuv lang="EN">
         <seg>To install the necessary files for the StarDict format, proceed as follows:</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20130527T133139Z">
-        <seg>Pour installer les fichiers nécessaires au format StarDict, procédez comme suit : </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T131522Z">
+        <seg>Pour installer les fichiers nécessaires au format StarDict, procédez comme suit :</seg>
       </tuv>
     </tu>
     <tu>
@@ -30845,8 +30845,8 @@ as a Source Forge user.</seg>
       <tuv lang="EN">
         <seg>To launch &lt;a2&gt;OmegaT&lt;/a2&gt; with a French interface (for example on a Russian operating system), the command would therefore be:</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130418T132719Z">
-        <seg>Pour lancer &lt;a2&gt;OmegaT&lt;/a2&gt; avec une interface en français (pour un système d'exploitation russe par exemple), la commande serait donc : </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T131819Z">
+        <seg>Pour lancer &lt;a2&gt;OmegaT&lt;/a2&gt; avec une interface en français (pour un système d'exploitation russe par exemple), la commande serait donc :</seg>
       </tuv>
     </tu>
     <tu>
@@ -30861,8 +30861,8 @@ as a Source Forge user.</seg>
       <tuv lang="EN">
         <seg>To launch OmegaT, you must launch this file either from the command line or from your file manager, usually by double-clicking it.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130430T131719Z">
-        <seg>Pour lancer OmegaT, vous devez lancer ce fichier, soit à partir de la ligne de commande, soit à partir de votre gestionnaire de fichiers, généralement en double-cliquant dessus. </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T131620Z">
+        <seg>Pour lancer OmegaT, vous devez lancer ce fichier, soit à partir de la ligne de commande, soit à partir de votre gestionnaire de fichiers, généralement en double-cliquant dessus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31042,8 +31042,8 @@ you modify it: responsibilities to respect the freedom of others.</seg>
       <tuv lang="EN">
         <seg>To start OmegaT for the first time with Java Web Start, load the following URL in your browser:</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20130527T150313Z">
-        <seg>Pour lancer OmegaT pour la première fois avec Java Web Start, insérez l'URL suivante dans votre navigateur : </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T131806Z">
+        <seg>Pour lancer OmegaT pour la première fois avec Java Web Start, insérez l'URL suivante dans votre navigateur :</seg>
       </tuv>
     </tu>
     <tu>
@@ -32299,8 +32299,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>User files contain the information, applicable to all the projects for a given user;</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130430T123333Z">
-        <seg>Les fichiers utilisateur contiennent les informations qui s'appliquent à l'ensemble des projets pour un utilisateur donné ; </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T131558Z">
+        <seg>Les fichiers utilisateur contiennent les informations qui s'appliquent à l'ensemble des projets pour un utilisateur donné ;</seg>
       </tuv>
     </tu>
     <tu>
@@ -33719,8 +33719,8 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       <tuv lang="EN">
         <seg>You achieve the same by clearing the target segment and pressing &lt;g4&gt;Enter.&lt;/g4&gt;</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20130527T133549Z">
-        <seg>Vous obtiendrez le même résultat en effaçant le segment cible et en appuyant sur &lt;g4&gt;Entrée.&lt;/g4&gt; </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T131532Z">
+        <seg>Vous obtiendrez le même résultat en effaçant le segment cible et en appuyant sur &lt;g4&gt;Entrée.&lt;/g4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -33768,8 +33768,8 @@ this License.</seg>
       <tuv lang="EN">
         <seg>You can add &lt;a0&gt;OmegaT&lt;/a0&gt; to your menus as follows:</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130417T100835Z">
-        <seg>Vous pouvez ajouter &lt;a0&gt;OmegaT&lt;/a0&gt; à vos menus comme suit : </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T131802Z">
+        <seg>Vous pouvez ajouter &lt;a0&gt;OmegaT&lt;/a0&gt; à vos menus comme suit :</seg>
       </tuv>
     </tu>
     <tu>
@@ -34030,8 +34030,8 @@ to link it from there.</seg>
       <tuv lang="EN">
         <seg>You can have entries with the target column missing, i.e. just containing the source term and the comment.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20130527T142757Z">
-        <seg>Il est possible de créer des entrées avec une colonne cible vide, c.à.d. contenant seulement le terme source et le commentaire.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T131253Z">
+        <seg>Il est possible de créer des entrées avec une colonne cible vide, c.-à-d. contenant seulement le terme source et le commentaire.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35088,8 +35088,8 @@ de créer son dossier de configuration.</seg>
       <tuv lang="EN">
         <seg>a) You must cause the modified files to carry prominent notices</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130503T080232Z">
-        <seg>a) Vous devez munir les fichiers modifiés d'avis bien visibles </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T131832Z">
+        <seg>a) Vous devez munir les fichiers modifiés d'avis bien visibles</seg>
       </tuv>
     </tu>
     <tu>
@@ -38008,8 +38008,8 @@ de créer son dossier de configuration.</seg>
       <tuv lang="EN">
         <seg>lepši, lepša, lepše .</seg>
       </tuv>
-      <tuv lang="FR" changeid="laurieetclémentine" changedate="20130412T120328Z">
-        <seg>lepši, lepša, lepše </seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130528T131517Z">
+        <seg>lepši, lepša, lepše</seg>
       </tuv>
     </tu>
     <tu>
