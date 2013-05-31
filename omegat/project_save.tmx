@@ -1012,8 +1012,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Source Language Tokenizer:</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20130412T134755Z">
-        <seg>&amp;Lemmatiseur de la langue source :</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130531T095056Z">
+        <seg>Lemmatiseur de la langue source :</seg>
       </tuv>
     </tu>
     <tu>
@@ -1036,8 +1036,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Target Language Tokenizer:</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20130412T135518Z">
-        <seg>Lemmatiseur de la langue ci&amp;ble :</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130531T095103Z">
+        <seg>Lemmatiseur de la langue cible :</seg>
       </tuv>
     </tu>
     <tu>
