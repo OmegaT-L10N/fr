@@ -41103,5 +41103,15 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">trunk/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">SW_SEARCH_IN_GLOSSARIES</prop>
+      <tuv lang="EN">
+        <seg>Glossaries</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130531T094922Z">
+        <seg>les glossaires</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>
