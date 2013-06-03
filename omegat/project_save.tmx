@@ -1,27 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.2_2" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.3" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
-    <tu>
-      <tuv lang="EN">
-        <seg>"Additional permissions" are terms that supplement the terms of this
-License by making exceptions from one or more of its conditions.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="jchelary" changedate="20130526T135704Z">
-        <seg>Les « Permissions additionnelles » désignent des termes qui complètent les ter- mes de cette Licence en stipulant des exceptions à l’une ou plusieurs de ses conditions.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>"Copyright" also means copyright-like laws that apply to other kinds of
-works, such as semiconductor masks.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="jchelary" changedate="20130526T133957Z">
-        <seg>« Droit d’Auteur » signifie aussi toute législation similaire à celle du droit d’auteur qui s’applique à d’autres types de créations, tels que ceux sur les to- pographies de semi-conducteurs.</seg>
-      </tuv>
-    </tu>
     <tu>
       <tuv lang="EN">
         <seg>"Google Translate returned HTTP response code: 403 ...": check that the 38-characters key, entered in the pinfo.list file, is correct.</seg>
@@ -60,14 +42,6 @@ License. Each licensee is addressed as "you". "Licensees" and
       </tuv>
       <tuv lang="FR" changeid="jchelary" changedate="20130526T134110Z">
         <seg>« Le Programme » se réfère à toute création protégeable par le droit d’auteur licenciée aux termes de cette Licence. Chaque licencié est désigné par « vous ». Les « Licenciés » et les « destinataires » peuvent être des personnes physiques ou morales.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>"This License" refers to version 3 of the GNU General Public License.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="jchelary" changedate="20130526T133945Z">
-        <seg>« Cette Licence » se réfère à la version 3 de la Licence Publique Générale GNU.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1283,14 +1257,6 @@ your programs, too.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>(at your option) any later version.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="samsung" changedate="20130419T194234Z">
-        <seg>ou (à votre discrétion) une version ultérieure quelconque.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>(close tag)</seg>
       </tuv>
       <tuv lang="FR">
@@ -2020,14 +1986,6 @@ le programme d'installation peut créer des raccourcis pour vous dans le menu d�
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>0.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="jchelary" changedate="20130526T131733Z">
-        <seg>Article 0.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>1 and 2 above on a medium customarily used for software interchange; or,</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130503T080816Z">
@@ -2044,42 +2002,10 @@ le programme d'installation peut créer des raccourcis pour vous dans le menu d�
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>1.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20101223T174829Z">
-        <seg>1.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>10.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="briglegrand" changedate="20110112T083627Z">
-        <seg>10.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>103/114</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T105223Z">
         <seg>103/114</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>11.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104609Z">
-        <seg>11.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>12.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104609Z">
-        <seg>12.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2089,46 +2015,6 @@ le programme d'installation peut créer des raccourcis pour vous dans le menu d�
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T104241Z">
         <seg>12719: Info: Source tokenizer: org.omegat.core.matching.Tokenizer
 12719: Info: Target tokenizer: org.omegat.core.matching.Tokenizer</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>13.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="jchelary" changedate="20130526T140233Z">
-        <seg>13.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>14.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="jchelary" changedate="20130526T140247Z">
-        <seg>14.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>15.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="jchelary" changedate="20130526T140319Z">
-        <seg>15.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>16.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="jchelary" changedate="20130526T140351Z">
-        <seg>16.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>17.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="jchelary" changedate="20130526T140439Z">
-        <seg>17.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2161,26 +2047,10 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>2.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20101223T174830Z">
-        <seg>2.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>27/27</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T105221Z">
         <seg>27/27</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>3.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20101223T174830Z">
-        <seg>3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2217,22 +2087,6 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>4.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20101223T174831Z">
-        <seg>4.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>5.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20101223T174832Z">
-        <seg>5.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>50%-74%:</seg>
       </tuv>
       <tuv lang="FR">
@@ -2249,34 +2103,10 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>6.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20101223T174832Z">
-        <seg>6.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>7.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="briglegrand" changedate="20110111T202813Z">
-        <seg>7.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>75%-84%:</seg>
       </tuv>
       <tuv lang="FR">
         <seg>75 % à 84 % :</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>8.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="briglegrand" changedate="20110111T210401Z">
-        <seg>8.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2293,14 +2123,6 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>85 % à 94 % :</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>9.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="briglegrand" changedate="20110111T215201Z">
-        <seg>9.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4437,14 +4259,6 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20111111T125229Z">
         <seg>&lt;aucun&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;one line to give the program's name and a brief idea of what it does.&gt;</seg>
-      </tuv>
-      <tuv lang="FR" changeid="samsung" changedate="20130419T193926Z">
-        <seg>[Une ligne donnant le nom du programme et une courte idée de ce qu'il fait.]</seg>
       </tuv>
     </tu>
     <tu>
@@ -6595,17 +6409,6 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>A "Standard Interface" means an interface that either is an official
-standard defined by a recognized standards body, or, in the case of
-interfaces specified for a particular programming language, one that
-is widely used among developers working in that language.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="jchelary" changedate="20130526T134259Z">
-        <seg>Une « Interface Standard » désigne une interface qui est soit une norme officielle définie par un organisme de normalisation reconnu soit, dans le cas d’interfaces spécifiées pour un langage de programmation particulier, une interface large- ment utilisée parmi les développeurs travaillant dans ce langage.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>A "User Product" is either (1) a "consumer product", which means any
 tangible personal property which is normally used for personal, family,
 or household purposes, or (2) anything designed or sold for incorporation
@@ -6631,15 +6434,6 @@ work thus licensed is called the contributor's "contributor version".</seg>
       </tuv>
       <tuv lang="FR" changeid="jchelary" changedate="20130526T140115Z">
         <seg>Un « contributeur » est un titulaire de droits qui autorise par cette Licence l’utilisation du Programme ou d’une création sur laquelle le Programme est basé. La création ainsi licenciée est appelée la « version contributive » du contributeur.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>A "covered work" means either the unmodified Program or a work based
-on the Program.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="jchelary" changedate="20130526T134141Z">
-        <seg>Une « création régie » désigne soit le Programme non modifié, soit une création basée sur le Programme.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6913,16 +6707,6 @@ or that patent license was granted, prior to 28 March 2007.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>A separable portion of the object code, whose source code is excluded
-from the Corresponding Source as a System Library, need not be
-included in conveying the object code work.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="jchelary" changedate="20130526T135543Z">
-        <seg>Une portion séparable du code objet, dont le code source est exclu de la Source Correspondante en tant que Bibliothèque Système, n’a pas besoin d’être inclus dans la transmission de la création sous forme de code objet.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>A source sentence might look like</seg>
       </tuv>
       <tuv lang="FR" changeid="jchelary" changedate="20130526T142344Z">
@@ -7099,14 +6883,6 @@ included in conveying the object code work.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Acceptance Not Required for Having Copies.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="jchelary" changedate="20130526T140017Z">
-        <seg>Acceptation non requise pour obtenir des exemplaires.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Acknowledgements</seg>
       </tuv>
       <tuv lang="FR" changeid="etudiant_local" changedate="20130410T121150Z">
@@ -7204,14 +6980,6 @@ covered by this License; they are outside its scope.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Additional Terms.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="jchelary" changedate="20130526T135641Z">
-        <seg>Termes additionnels.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Additional parameter is required in this case, specifying the location of the target data:</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130502T141437Z">
@@ -7229,16 +6997,6 @@ this License without regard to the additional permissions.</seg>
       </tuv>
       <tuv lang="FR" changeid="jchelary" changedate="20130526T135722Z">
         <seg>Les permissions additionnelles qui sont applicables à l’entier Pro- gramme doivent être traitées comme si elles étaient incluses dans cette Licence, dans la mesure où elles sont valides au terme de la loi applicable. Si des permis- sions additionnelles s’appliquent uniquement à une partie du Programme, cette partie peut être utilisée séparément selon les termes de ces permissions, mais l’entier Programme demeure soumis à cette Licence sans prise en compte des Permissions additionnelles.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Additional terms, permissive or non-permissive, may be stated in the
-form of a separately written license, or stated as exceptions;
-the above requirements apply either way.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="jchelary" changedate="20130526T135934Z">
-        <seg>Les termes additionnels, permissifs ou non permissifs, peuvent être spécifiés sous la forme d’une licence écrite séparément, ou spécifiés comme des exceptions ; les exigences ci-dessus s’appliquent dans chacun de ces cas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8390,14 +8148,6 @@ provoquer des comportements inattendus, mais corrects.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Automatic Licensing of Downstream Recipients.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="jchelary" changedate="20130526T140031Z">
-        <seg>Concession automatique de Licence aux Destinataires Subséquents.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Automating modifications of the translated document file names by replacing translatable contents with its translation.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130527T134022Z">
@@ -8571,14 +8321,6 @@ FOR THE PROGRAM, TO THE EXTENT PERMITTED BY APPLICABLE LAW.</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130519T100743Z">
         <seg>Bashkir</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Basic Permissions.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="jchelary" changedate="20130526T134442Z">
-        <seg>Permissions de Base.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9666,30 +9408,6 @@ Zoltan Bartko, Volker Berlin, Didier Briel (responsable du développement), Kim 
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Conveying Modified Source Versions.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="jchelary" changedate="20130526T134806Z">
-        <seg>Transmission des versions sources modifiées.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Conveying Non-Source Forms.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="jchelary" changedate="20130526T135418Z">
-        <seg>Transmission des Formes Non Sources.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Conveying Verbatim Copies.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="jchelary" changedate="20130526T134727Z">
-        <seg>Transmission des Exemplaires Conformes.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Conveying under any other circumstances is permitted solely under
 the conditions stated below. Sublicensing is not allowed; section 10
 makes it unnecessary.</seg>
@@ -9830,14 +9548,6 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Copyright (C) &lt;year&gt;  &lt;name of author&gt;</seg>
-      </tuv>
-      <tuv lang="FR" changeid="samsung" changedate="20130419T193941Z">
-        <seg>Copyright (C) [année] [nom de l'auteur] </seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Copyright (C) year name of author</seg>
       </tuv>
       <tuv lang="FR" changeid="jchelary" changedate="20130526T140536Z">
@@ -9874,18 +9584,6 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130426T155015Z">
         <seg>Corrigez l'erreur si nécessaire et appuyez sur &lt;g0&gt;Ctrl+T&lt;/g0&gt; pour retourner à la fenêtre de validation des balises et corriger d'autres erreurs.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Corresponding Source conveyed, and Installation Information provided,
-in accord with this section must be in a format that is publicly
-documented (and with an implementation available to the public in
-source code form), and must require no special password or key for
-unpacking, reading or copying.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="jchelary" changedate="20130526T135634Z">
-        <seg>La Source Correspondante transmise, et les Informations d’Installation fournies, conformément à cet article, doivent être dans un format publiquement docu- menté (et dont une implémentation est disponible auprès du public sous forme de code source) et ne doivent nécessiter aucune clé ou mot de passe spécial pour la décompression , la lecture ou la copie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10538,14 +10236,6 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Definitions.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="jchelary" changedate="20130526T131738Z">
-        <seg>Définitions.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Delete*</seg>
       </tuv>
       <tuv lang="FR" changeid="etudiant_local" changedate="20130410T122604Z">
@@ -10590,16 +10280,6 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130528T131623Z">
         <seg>En fonction des règles de segmentation, les paires de balises peuvent être séparées dans deux segments consécutifs, auquel cas la validation des balises marquera les deux segments par règle de précaution.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Developers that use the GNU GPL protect your rights with two steps:
-(1) assert copyright on the software, and (2) offer you this License
-giving you legal permission to copy, distribute and/or modify it.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="jchelary" changedate="20130526T131628Z">
-        <seg>Les développeurs qui utilisent la GNU GPL protègent vos droits en deux étapes : (1) ils revendiquent leurs droits d’auteur sur le logiciel, et (2) vous offrent cette Licence qui vous donne la permission légale de le copier, le distribuer et/ou le modifier.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10736,14 +10416,6 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Afficher &amp;tous les résultats</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Disclaimer of Warranty.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="jchelary" changedate="20130526T140326Z">
-        <seg>Déclaration d’absence de garantie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11373,14 +11045,6 @@ several security warnings.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>END OF TERMS AND CONDITIONS</seg>
-      </tuv>
-      <tuv lang="FR" changeid="jchelary" changedate="20130526T140502Z">
-        <seg>FIN DES STIPULATIONS.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>ERROR: (declaring bean)</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20110717T180044Z">
@@ -11405,17 +11069,6 @@ MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130419T192501Z">
         <seg>SAUF MENTION CONTRAIRE ECRITE, LES TITULAIRES DU DROIT D'AUTEUR ET/OU LES AUTRES PARTIES FOURNISSENT LE PROGRAMME 'EN L'ETAT', SANS AUCUNE GARANTIE DE QUELQUE NATURE QUE CE SOIT, EXPRESSE OU IMPLICITE, Y COMPRIS, MAIS SANS Y ETRE LIMITE, LES GARANTIES IMPLICITES DE COMMERCIABILITE ET DE LA CONFORMITE A UNE UTILISATION PARTICULIERE.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Each contributor grants you a non-exclusive, worldwide, royalty-free
-patent license under the contributor's essential patent claims, to
-make, use, sell, offer for sale, import and otherwise run, modify and
-propagate the contents of its contributor version.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="jchelary" changedate="20130526T140134Z">
-        <seg>Chaque contributeur vous accorde une licence de brevet non exclusive, mondiale et gratuite, sur les revendications essentielles de brevet du contributeur pour réaliser, utiliser, vendre, commercialiser, importer et par ailleurs pour exécuter, modifier et propager les contenus de sa version contributive.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11454,14 +11107,6 @@ these terms and conditions.</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130419T190930Z">
         <seg>Chaque fois que vous redistribuez le Programme (ou n'importe quel ouvrage fondé sur le Programme), une licence est automatiquement concédée au destinataire par le concédant originel de la licence, l'autorisant à copier, distribuer ou modifier le Programme, sous réserve des présentes conditions.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Each version is given a distinguishing version number.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="samsung" changedate="20130419T192132Z">
-        <seg>Chaque version possède un numéro de version la distinguant.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12113,14 +11758,6 @@ by the Free Software Foundation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Everyone is permitted to copy and distribute verbatim copies</seg>
-      </tuv>
-      <tuv lang="FR" changeid="jchelary" changedate="20130526T150817Z">
-        <seg>Le droit est donné à chacun de copier et de distribuer des copies conformes</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.</seg>
       </tuv>
       <tuv lang="FR" changeid="jchelary" changedate="20130526T131504Z">
@@ -12752,14 +12389,6 @@ patents.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130503T075930Z">
         <seg>En définitive, un programme libre restera à la merci des brevets de logiciels.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Finally, every program is threatened constantly by software patents.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="jchelary" changedate="20130526T131657Z">
-        <seg>Enfin, chaque programme est constamment menacé par les brevets logiciels.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14255,14 +13884,6 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>How to Apply These Terms to Your New Programs</seg>
-      </tuv>
-      <tuv lang="FR" changeid="jchelary" changedate="20130526T140509Z">
-        <seg>Comment appliquer ces stipulations à vos nouveaux programmes</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>How to create glossaries</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130417T143539Z">
@@ -14296,19 +13917,6 @@ itself accompanies the executable.</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130419T185947Z">
         <seg>Cependant, par exception spéciale, le code source distribué n'est pas censé inclure quoi que ce soit de normalement distribué (que ce soit sous forme source ou binaire) avec les composants principaux (compilateur, noyau, et autre) du système d'exploitation sur lequel l'exécutable tourne, à moins que ce composant lui-même n'accompagne l'exécutable.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>However, if you cease all violation of this License, then your
-license from a particular copyright holder is reinstated (a)
-provisionally, unless and until the copyright holder explicitly and
-finally terminates your license, and (b) permanently, if the copyright
-holder fails to notify you of the violation by some reasonable means
-prior to 60 days after the cessation.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="jchelary" changedate="20130526T135956Z">
-        <seg>Cependant, si vous cessez toute violation de cette Licence, alors votre licence concédée par un titulaire de droit d’auteur en particulier est réinstaurée (a) à titre provisoire à moins que et jusqu’à ce que le titulaire de droit d’auteur mette fin définitivement et explicitement à votre licence, et (b) de façon permanente si le titulaire de droit d’auteur ne vous notifie pas par un moyen raisonnable la violation dans les soixante (60) jours après la cessation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14424,22 +14032,6 @@ POSSIBILITY OF SUCH DAMAGES.</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130419T193620Z">
         <seg>EN AUCUN CAS, SAUF LORSQUE LA LOI APPLICABLE OU UNE CONVENTION ECRITE L'EXIGE, UN TITULAIRE DE DROIT D'AUTEUR QUEL QU'IL SOIT, OU TOUTE PARTIE QUI POURRAIT MODIFIER ET/OU REDISTRIBUER LE PROGRAMME COMME PERMIS CI-DESSUS, NE POURRAIT ETRE TENU POUR RESPONSABLE A VOTRE EGARD DES DOMMAGES, INCLUANT LES DOMMAGES GENERIQUES, SPECIFIQUES, SECONDAIRES OU CONSECUTIFS, RESULTANT DE L'UTILISATION OU DE L'INCAPACITE D'UTILISER LE PROGRAMME (Y COMPRIS, MAIS SANS Y ETRE LIMITE, LA PERTE DE DONNEES, OU LE FAIT QUE DES DONNEES SOIENT RENDUES IMPRECISES, OU LES PERTES EPROUVEES PAR VOUS OU PAR DES TIERS, OU LE FAIT QUE LE PROGRAMME ECHOUE A INTEROPERER AVEC UN AUTRE PROGRAMME QUEL QU'IL SOIT) MEME SI LE DIT TITULAIRE DU DROIT D'AUTEUR OU LA PARTIE CONCERNEE A ETE AVERTI DE L'EVENTUALITE DE TELS DOMMAGES.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING
-WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MODIFIES AND/OR CONVEYS
-THE PROGRAM AS PERMITTED ABOVE, BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY
-GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE
-USE OR INABILITY TO USE THE PROGRAM (INCLUDING BUT NOT LIMITED TO LOSS OF
-DATA OR DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD
-PARTIES OR A FAILURE OF THE PROGRAM TO OPERATE WITH ANY OTHER PROGRAMS),
-EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF
-SUCH DAMAGES.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="jchelary" changedate="20130526T140437Z">
-        <seg>DANS AUCUNE CIRCONSTANCE AUTRE QUE CELLES REQUISES PAR LA LOI APPLICABLE OU CONSENTIES PAR UN ACCORD ÉCRIT, LES TITULAIRES DE DROITS, OU TOUT AUTRE PARTIE QUI MODIFIE ET/OU TRANSFÈRE LE PROGRAMME AINSI QU’AUTORISÉ PRÉCÉDEMMENT, NE PEUVENT ÊTRE TENU POUR RESPONSABLE ENVERS VOUS POUR LES DOMMAGES, INCLUANT TOUT DOMMAGE GÉNÉRAL, SPÉCIAL, ACCIDENTEL OU INDIRECTS CONSECUTIFS A L’UTILISATION OU A L’INCAPACITÉ D’UTILISER LE PROGRAMME (NOTAMMENT LA PERTE DE DONNÉES OU L’INEXACTITUDE DES DONNÉES RETOURNÉES OU LES PERTES SUBIES PAR VOUS OU DES PARTIES TIERCES OU L’INCAPACITÉ DU PROGRAMME À FONCTIONNER AVEC TOUT AUTRE PROGRAMME), MÊME SI UN TEL TITULAIRE OU TOUTE AUTRE PARTIE A ÉTÉ INFORMÉE DE LA POSSIBILITÉ DE TELS DOMMAGES.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14973,17 +14565,6 @@ Foundation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>If the Program specifies that a proxy can decide which future
-versions of the GNU General Public License can be used, that proxy's
-public statement of acceptance of a version permanently authorizes you
-to choose that version for the Program.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="jchelary" changedate="20130526T140311Z">
-        <seg>Si le Programme précise qu’un intermédiaire peut décider des versions futures de la GNU General Public License qui pourront être utilisées, la déclaration publique d’acceptation d’une version par cet intermédiaire vous autorise de manière permanente à choisir cette version pour le Programme.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>If the appropriate filter is found, the file is assigned to it for processing.</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130415T153923Z">
@@ -15012,19 +14593,6 @@ to choose that version for the Program.</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130426T133044Z">
         <seg>Si la traduction actuelle du segment ne convient pas, l'utilisateur peut sélectionner &lt;g0&gt;Edition → Créer une traduction alternative&lt;/g0&gt;.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>If the disclaimer of warranty and limitation of liability provided
-above cannot be given local legal effect according to their terms,
-reviewing courts shall apply local law that most closely approximates
-an absolute waiver of all civil liability in connection with the
-Program, unless a warranty or assumption of liability accompanies a
-copy of the Program in return for a fee.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="jchelary" changedate="20130526T140451Z">
-        <seg>Si la déclaration d’absence de garantie et la limitation de responsabilité fournies ci-dessus ne peuvent prendre effet dans certaines juridictions en raison de leurs termes, les cours de justice qui les examinent doivent appliquer la législation locale qui s’approche le plus d’une exclusion absolue de toute responsabilité civile liée au Programme, à moins qu’une garantie ou hypothèse de responsabilité accompagne un exemplaire du Programme en contrepartie d’un paiement.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15327,17 +14895,6 @@ Public License instead of this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>If you add terms to a covered work in accord with this section, you
-must place, in the relevant source files, a statement of the
-additional terms that apply to those files, or a notice indicating
-where to find the applicable terms.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="jchelary" changedate="20130526T135925Z">
-        <seg>Si vous ajoutez des termes à une création régie en accord avec cet article, vous devez inclure, dans les fichiers sources appropriés, une déclaration des termes additionnels qui s’appliquent à ces fichiers, ou une mention indiquant où trouver les termes applicables.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>If you already have a version of OmegaT installed on your PC and wish to upgrade to a more recent version, you have two options:</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130528T131756Z">
@@ -15549,16 +15106,6 @@ been installed in ROM).</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130506T114848Z">
         <seg>Si, en plein milieu de la traduction, vous décidez de passer d'une traduction par phrase à une traduction par paragraphe, la mémoire de traduction interne du projet ne sera pas modifiée (OmegaT peut mettre à jour des vieilles mémoires de traduction qui n'étaient pas segmentées par phrase, mais pas l'inverse).</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>If you develop a new program, and you want it to be of the greatest
-possible use to the public, the best way to achieve this is to make it
-free software which everyone can redistribute and change under these terms.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="jchelary" changedate="20130526T140514Z">
-        <seg>Si vous développez un nouveau programme et que vous souhaitez que le public puisse en avoir l’utilisation optimale, la meilleure façon d’y parvenir est d’en faire un logiciel libre que chacun peut redistribuer et modifier conformément à ces stipulations.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15923,20 +15470,6 @@ excuse you from the conditions of this License.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130506T113125Z">
         <seg>Si, pour quelle que raison que ce soit, vous deviez le faire à un moment ou un autre, il pourrait être utile de copier les fichiers concernés dans un dossier différent, spécialement réservé à OmegaT.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>If, pursuant to or in connection with a single transaction or
-arrangement, you convey, or propagate by procuring conveyance of, a
-covered work, and grant a patent license to some of the parties
-receiving the covered work authorizing them to use, propagate, modify
-or convey a specific copy of the covered work, then the patent license
-you grant is automatically extended to all recipients of the covered
-work and works based on it.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="jchelary" changedate="20130526T140149Z">
-        <seg>Si, conformément à ou en relation avec une transaction ou un accord individuel, vous transmettez, ou propagez en procurant une transmission, une création régie et accordez une licence de brevet à quelques-unes des parties recevant la création régie les autorisant d’utiliser, propager, modifier ou transmettre un exemplaire donné de la création régie, alors la licence de brevet que vous accordée est automatiquement étendue à tous les destinataires de la création régie et des créations basées sur celle-ci.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16902,14 +16435,6 @@ exécutez simplement le programme d'installation.</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T095959Z">
         <seg>Interlingue</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Interpretation of Sections 15 and 16.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="jchelary" changedate="20130526T140445Z">
-        <seg>Interprétation des sections 15 et 16.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18076,14 +17601,6 @@ Exécutez OmegaT de la façon suivante.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Limitation of Liability.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="jchelary" changedate="20130526T140359Z">
-        <seg>Limitation de responsabilité.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Lingala</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T100050Z">
@@ -18314,14 +17831,6 @@ automatically download and install it.</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T104408Z">
         <seg>Mac OS X</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="samsung" changedate="20130419T194322Z">
-        <seg>de COMMERCIABILITE ou DE CONFORMITE A UNE UTILISATION PARTICULIERE.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19185,19 +18694,6 @@ impose that choice.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Moreover, your license from a particular copyright holder is
-reinstated permanently if the copyright holder notifies you of the
-violation by some reasonable means, this is the first time you have
-received notice of violation of this License (for any work) from that
-copyright holder, and you cure the violation prior to 30 days after
-your receipt of the notice.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="jchelary" changedate="20130526T140002Z">
-        <seg>De plus, votre licence obtenue d’un titulaire de droit d’auteur en particulier est réinstaurée de façon permanente si le titulaire vous notifie par un moyen raisonnable la violation, si c’est la première fois que vous avez reçu une notifi- cation de violation de cette Licence (pour n’importe quelle création) de la part de ce titulaire de droit d’auteur, et si vous remédiez à cette violation dans les trente (30) jours qui suivent votre réception de la notification.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Most functions are also available via keyboard shortcuts.</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130420T215108Z">
@@ -19574,14 +19070,6 @@ your receipt of the notice.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>No Surrender of Others' Freedom.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="jchelary" changedate="20130526T140221Z">
-        <seg>Non abandon de la liberté des autres.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>No action is taken, if no Machine Translation service has been activated (see Menu &gt; Options below).</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130421T133419Z">
@@ -19602,18 +19090,6 @@ your receipt of the notice.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20121113T090204Z">
         <seg>Aucune connexion disponible, le projet est en mode déconnecté.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>No covered work shall be deemed part of an effective technological
-measure under any applicable law fulfilling obligations under article
-11 of the WIPO copyright treaty adopted on 20 December 1996, or
-similar laws prohibiting or restricting circumvention of such
-measures.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="jchelary" changedate="20130526T134700Z">
-        <seg>Aucune création régie ne sera considérée comme faisant partie d’une mesure technique efficace aux termes de toute loi applicable mettant en oeuvre les obligations prévues à l’article 11 du traité international sur le droit d’auteur adopté à l’OMPI le 20 décembre 1996, ou toutes lois similaires interdisant ou restreignant le contournement de telles mesures.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20170,16 +19646,6 @@ measures.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Nothing in this License shall be construed as excluding or limiting
-any implied license or other defenses to infringement that may
-otherwise be available to you under applicable patent law.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="jchelary" changedate="20130526T140213Z">
-        <seg>Aucun terme de cette Licence ne pourra être interprété comme excluant ou limitant toute licence implicite ou d’autres moyens de défense en matière de contrefaçon qui vous seraient autrement disponibles selon la loi applicable rela- tive aux brevets.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Nothing speaks against using Notepad++ on Windows, GEdit on Linux for instance or some spreadsheet program for this purpose: any application, that can handle UTF8 and that can show white space (so that you do not miss the required &lt;k1&gt;TAB&lt;/k1&gt; characters) can be used.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130527T143127Z">
@@ -20208,16 +19674,6 @@ otherwise be available to you under applicable patent law.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130506T124531Z">
         <seg>Rien, mais cite le caractère suivant.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Notwithstanding any other provision of this License, for material you
-add to a covered work, you may (if authorized by the copyright holders of
-that material) supplement the terms of this License with terms:</seg>
-      </tuv>
-      <tuv lang="FR" changeid="jchelary" changedate="20130526T135732Z">
-        <seg>Nonobstant toute autre clause de cette Licence, pour une contribution que vous ajoutez à une création régie, vous pouvez (si vous y êtes autorisé par les titulaires des droits d’auteur sur cette contribution) compléter les termes de cette Licence avec des termes :</seg>
       </tuv>
     </tu>
     <tu>
@@ -21871,14 +21327,6 @@ of promoting the sharing and reuse of software generally.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Patents.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="jchelary" changedate="20130526T140109Z">
-        <seg>Brevets.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Path of the TMX starting from the root of /tm</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130507T120937Z">
@@ -22219,14 +21667,6 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20101112T182920Z">
         <seg>Power Point</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Preamble</seg>
-      </tuv>
-      <tuv lang="FR" changeid="jchelary" changedate="20130526T150821Z">
-        <seg>Préambule</seg>
       </tuv>
     </tu>
     <tu>
@@ -22661,14 +22101,6 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="FR" changeid="laurieetclémentine" changedate="20130411T133747Z">
         <seg>Propriétés...</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Protecting Users' Legal Rights From Anti-Circumvention Law.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="jchelary" changedate="20130526T134621Z">
-        <seg>Protéger les Droits des Utilisateurs Contre les Lois Anti-Contournement.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23545,14 +22977,6 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Revised Versions of this License.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="jchelary" changedate="20130526T140253Z">
-        <seg>Versions révisées de cette Licence.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Right to left languages</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130416T175323Z">
@@ -24383,14 +23807,6 @@ REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130507T071840Z">
         <seg>Voir la mémoire pseudo-traduite du projet ci-dessous.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>See the</seg>
-      </tuv>
-      <tuv lang="FR" changeid="samsung" changedate="20130419T194332Z">
-        <seg> Voir la </seg>
       </tuv>
     </tu>
     <tu>
@@ -25308,14 +24724,6 @@ of the GPL, as needed to protect the freedom of users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Source Code.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="jchelary" changedate="20130526T134233Z">
-        <seg>Code source.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Source File Encoding</seg>
       </tuv>
       <tuv lang="FR">
@@ -25818,16 +25226,6 @@ and then start OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Such new versions will
-be similar in spirit to the present version, but may differ in detail to
-address new problems or concerns.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="samsung" changedate="20130419T192120Z">
-        <seg>De telles nouvelles versions seront similaires à la présente version dans l'esprit mais pourront différer dans le détail pour prendre en compte de nouvelles problématiques ou inquiétudes.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Summary of chapters</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130410T134459Z">
@@ -25928,14 +25326,6 @@ address new problems or concerns.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130527T142847Z">
         <seg>Le TBX - Term Base eXchange -  est le standard libre basé sur XML utilisé pour l'échange de données terminologiques structurées. TBX a été approuvé, en tant que standard international, par LISA et ISO.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>TERMS AND CONDITIONS</seg>
-      </tuv>
-      <tuv lang="FR" changeid="jchelary" changedate="20130526T131725Z">
-        <seg>STIPULATIONS</seg>
       </tuv>
     </tu>
     <tu>
@@ -26432,14 +25822,6 @@ material under section 10.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Termination.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="jchelary" changedate="20130526T135940Z">
-        <seg>Résiliation</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Terms in the current segment which &lt;a3&gt;OmegaT&lt;/a3&gt; finds in the glossary file(s) are displayed in the Glossary pane:</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130430T090036Z">
@@ -26817,25 +26199,6 @@ form of a work.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130415T083956Z">
         <seg>La fenêtre de validation s'ouvre et montre le progrès de la commande de validation.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>The Corresponding Source for a work in source code form is that
-same work.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="jchelary" changedate="20130526T134431Z">
-        <seg>La Source Correspondante pour une création sous forme de code source est cette même création.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>The Corresponding Source need not include anything that users
-can regenerate automatically from other parts of the Corresponding
-Source.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="jchelary" changedate="20130526T134422Z">
-        <seg>La Source Correspondante n’a pas besoin d’inclure tout ce que les utilisateurs peuvent régénérer automatiquement à partir d’autres parties de la Source Correspondante.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28440,15 +27803,6 @@ an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130528T130101Z">
         <seg>Les événements de touche (keyevents) possibles sont listés dans ce manuel Java 1.6 édité par Oracle: &lt;u0&gt;Java 1.6 keyEvents description&lt;/u0&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>The precise terms and conditions for copying, distribution and
-modification follow.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="jchelary" changedate="20130526T131713Z">
-        <seg>Les stipulations précises relatives à la copie, la distribution et la modification suivent.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30414,14 +29768,6 @@ this version will not interfere with it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>This program is distributed in the hope that it will be useful,</seg>
-      </tuv>
-      <tuv lang="FR" changeid="samsung" changedate="20130419T194253Z">
-        <seg>Ce programme est distribué dans l'espoir qu'il sera utile, </seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130531T100422Z">
@@ -30885,14 +30231,6 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130418T132926Z">
         <seg>Pour afficher le guide de prise en main dans la langue désirée, vous devez spécifier à la fois la langue et le pays.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>To do so, attach the following notices to the program.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="samsung" changedate="20130419T193711Z">
-        <seg>Pour ce faire, munissez le programme des avis qui suivent.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32379,14 +31717,6 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Use with the GNU Affero General Public License.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="jchelary" changedate="20130526T140238Z">
-        <seg>Utilisation avec la Licence Générale Publique Affero GNU.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Used to adjust the handling of supported file formats (access via &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;File Filters...&lt;/g2&gt; &lt;/m0&gt;, close via &lt;k3&gt;Esc&lt;/k3&gt;)</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130528T124531Z">
@@ -33229,15 +32559,6 @@ you have just discovered.</seg>
     <tu>
       <tuv lang="EN">
         <seg>When we speak of free software, we are referring to freedom, not
-price.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="samsung" changedate="20130418T224524Z">
-        <seg>Quand nous parlons de logiciels libres, nous parlons de liberté, non de prix.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>When we speak of free software, we are referring to freedom, not
 price. Our General Public Licenses are designed to make sure that you
 have the freedom to distribute copies of free software (and charge for
 them if you wish), that you receive source code or can get it if you
@@ -33283,20 +32604,6 @@ for which you have or can give appropriate copyright permission.</seg>
       </tuv>
       <tuv lang="FR" changeid="jchelary" changedate="20130526T135724Z">
         <seg>Quand vous transmettez un exemplaire d’une création régie, vous pouvez à votre convenance supprimer toute permission additionnelle sur cet exemplaire, ou sur n’importe quelle partie de celui-ci. (Des permissions additionnelles peuvent être rédigées afin de requérir leur propre suppression dans certains cas lorsque vous modifiez la création). Vous pouvez stipuler des permissions additionnelles sur une contribution, ajoutée par vos soins à une création régie, sur laquelle vous disposez des droits d’auteur ou des permissions adéquates pour ce faire.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>When you convey a covered work, you waive any legal power to forbid
-circumvention of technological measures to the extent such circumvention
-is effected by exercising rights under this License with respect to
-the covered work, and you disclaim any intention to limit operation or
-modification of the work as a means of enforcing, against the work's
-users, your or third parties' legal rights to forbid circumvention of
-technological measures.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="jchelary" changedate="20130526T134715Z">
-        <seg>Si vous transmettez une création régie, vous renoncez à tout droit d’interdire le contournement des mesures techniques dès lors qu’un tel contournement serait effectué en exerçant des droits issus de cette Licence concernant la création régie, et vous déclarez n’avoir aucune intention de limiter le fonctionnement ou la modification de la création en opposant, à l’encontre des utilisateurs de la création, vos droits ou ceux de tiers d’interdire le contournement de mesures techniques.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34505,50 +33812,6 @@ you may at your option offer warranty protection in exchange for a fee.</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130418T230249Z">
         <seg>Vous pouvez faire payer l'acte physique de transmission d'une copie, et vous pouvez, à votre discrétion, proposer une garantie contre rémunération.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>You may charge any price or no price for each copy that you convey,
-and you may offer support or warranty protection for a fee.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="jchelary" changedate="20130526T134756Z">
-        <seg>Vous pouvez percevoir un prix quelconque ou aucun prix pour chacun des ex- emplaires que vous transmettez, et vous pouvez proposer une assistance ou la protection d’une garantie à titre onéreux.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>You may convey a covered work in object code form under the terms
-of sections 4 and 5, provided that you also convey the
-machine-readable Corresponding Source under the terms of this License,
-in one of these ways:</seg>
-      </tuv>
-      <tuv lang="FR" changeid="jchelary" changedate="20130526T135428Z">
-        <seg>Vous pouvez transmettre une création régie sous forme de code objet suivant les termes des articles 4 et 5, à condition que vous transmettiez également la Source Correspondante lisible par une machine selon les termes de cette Licence, d’une de ces façons :</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>You may convey a work based on the Program, or the modifications to
-produce it from the Program, in the form of source code under the
-terms of section 4, provided that you also meet all of these conditions:</seg>
-      </tuv>
-      <tuv lang="FR" changeid="jchelary" changedate="20130526T135223Z">
-        <seg>Vous pouvez transmettre une création basée sur le Programme, ou les modifi- cations pour la produire à partir du Programme, sous la forme de code source selon les termes de l’article 4, dès lors que vous remplissez également toutes ces conditions :</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>You may convey verbatim copies of the Program's source code as you
-receive it, in any medium, provided that you conspicuously and
-appropriately publish on each copy an appropriate copyright notice;
-keep intact all notices stating that this License and any
-non-permissive terms added in accord with section 7 apply to the code;
-keep intact all notices of the absence of any warranty; and give all
-recipients a copy of this License along with the Program.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="jchelary" changedate="20130526T134746Z">
-        <seg>Vous pouvez transmettre des exemplaires conformes du code source du Pro- gramme tel que vous le recevez, sur tout support, pourvu que vous apposiez scrupuleusement et de façon appropriée sur chaque exemplaire une notice de Droit d’Auteur appropriée ; conserviez intactes toutes les mentions établis- sant que cette Licence et tous les termes non permissifs ajoutés conformément à l’article 7 s’appliquent à ce code ; conserviez intactes toutes les mentions d’absence de toute garantie ; et donniez à tous les destinataires un exemplaire de cette Licence avec le Programme.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35804,14 +35067,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T095849Z">
         <seg>bul</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>but WITHOUT ANY WARRANTY; without even the implied warranty of</seg>
-      </tuv>
-      <tuv lang="FR" changeid="samsung" changedate="20130419T194311Z">
-        <seg>mais SANS AUCUNE GARANTIE ; sans même une garantie implicite </seg>
       </tuv>
     </tu>
     <tu>
@@ -37768,14 +37023,6 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>it under the terms of the GNU General Public License as published by</seg>
-      </tuv>
-      <tuv lang="FR" changeid="samsung" changedate="20130419T194205Z">
-        <seg>au titre des clauses de la Licence Publique Générale GNU, telle que publiée </seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>ita</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T100016Z">
@@ -38964,14 +38211,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T100129Z">
         <seg>oci</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>of this license document, but changing it is not allowed.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="jchelary" changedate="20130526T150819Z">
-        <seg>de cette licence mais aucune modification n'est autorisée.</seg>
       </tuv>
     </tu>
     <tu>
