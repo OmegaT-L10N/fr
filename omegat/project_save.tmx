@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.3" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.2_2" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1257,6 +1257,14 @@ your programs, too.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(at your option) any later version.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="samsung" changedate="20130419T194234Z">
+        <seg>ou (à votre discrétion) une version ultérieure quelconque.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(close tag)</seg>
       </tuv>
       <tuv lang="FR">
@@ -2010,6 +2018,14 @@ le programme d'installation peut créer des raccourcis pour vous dans le menu d�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>10.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briglegrand" changedate="20110112T083627Z">
+        <seg>10.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>103/114</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T105223Z">
@@ -2143,10 +2159,26 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>7.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briglegrand" changedate="20110111T202813Z">
+        <seg>7.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>75%-84%:</seg>
       </tuv>
       <tuv lang="FR">
         <seg>75 % à 84 % :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>8.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briglegrand" changedate="20110111T210401Z">
+        <seg>8.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2163,6 +2195,14 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>85 % à 94 % :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>9.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briglegrand" changedate="20110111T215201Z">
+        <seg>9.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4299,6 +4339,14 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20111111T125229Z">
         <seg>&lt;aucun&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;one line to give the program's name and a brief idea of what it does.&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="samsung" changedate="20130419T193926Z">
+        <seg>[Une ligne donnant le nom du programme et une courte idée de ce qu'il fait.]</seg>
       </tuv>
     </tu>
     <tu>
@@ -7423,6 +7471,14 @@ rights of fair use or other equivalent, as provided by copyright law.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Also add information on how to contact you by electronic and paper mail.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="samsung" changedate="20130419T194629Z">
+        <seg>Ajoutez aussi des informations sur la manière de vous contacter par courrier électronique et courrier postal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Also allow per-project external commands</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130125T165029Z">
@@ -9555,10 +9611,27 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copyright (C) 1989, 1991 Free Software Foundation, Inc.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130503T075449Z">
+        <seg>Cette traduction de la GNU est informelle, et n'est pas approuvée officiellement comme étant valide par la Free Software Foundation. Elle n'est donnée qu'à titre indicatif et seule la version anglaise de la licence a une valeur juridique.
+La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, Inc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Copyright (C) 2007 Free Software Foundation, Inc. &lt;http://fsf.org/&gt;</seg>
       </tuv>
       <tuv lang="FR" changeid="jchelary" changedate="20130526T131235Z">
         <seg>Copyright (C) 2007 Free Software Foundation, Inc. &lt;http://fsf.org/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copyright (C) &lt;year&gt;  &lt;name of author&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="samsung" changedate="20130419T193941Z">
+        <seg>Copyright (C) [année] [nom de l'auteur] </seg>
       </tuv>
     </tu>
     <tu>
@@ -11060,6 +11133,14 @@ several security warnings.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>END OF TERMS AND CONDITIONS</seg>
+      </tuv>
+      <tuv lang="FR" changeid="samsung" changedate="20130419T193629Z">
+        <seg>FIN DES CONDITIONS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ERROR: (declaring bean)</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20110717T180044Z">
@@ -11122,6 +11203,14 @@ these terms and conditions.</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130419T190930Z">
         <seg>Chaque fois que vous redistribuez le Programme (ou n'importe quel ouvrage fondé sur le Programme), une licence est automatiquement concédée au destinataire par le concédant originel de la licence, l'autorisant à copier, distribuer ou modifier le Programme, sous réserve des présentes conditions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Each version is given a distinguishing version number.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="samsung" changedate="20130419T192132Z">
+        <seg>Chaque version possède un numéro de version la distinguant.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11769,6 +11858,14 @@ by the Free Software Foundation.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130429T100111Z">
         <seg>Par défaut, une version à jour des données partagées est mise à la disposition du reste de l'équipe toutes les trois minutes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Everyone is permitted to copy and distribute verbatim copies</seg>
+      </tuv>
+      <tuv lang="FR" changeid="samsung" changedate="20130418T224212Z">
+        <seg>Le droit est donné à chacun de copier et de distribuer des copies conformes</seg>
       </tuv>
     </tu>
     <tu>
@@ -13181,6 +13278,24 @@ authors of previous versions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>GNU GENERAL PUBLIC LICENSE
+		       Version 2, June 1991</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130503T075359Z">
+        <seg>Licence Publique Générale GNU
+		       Version 2, Juin 1991</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>GNU General Public License for more details.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="samsung" changedate="20130419T194349Z">
+        <seg>Licence Publique Générale GNU pour plus de détails.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Galician</seg>
       </tuv>
       <tuv lang="FR" changeid="etudiant_local" changedate="20130410T125519Z">
@@ -13868,6 +13983,14 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       </tuv>
       <tuv lang="FR" changeid="etudiant_local" changedate="20130410T122323Z">
         <seg>Début*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>How to Apply These Terms to Your New Programs</seg>
+      </tuv>
+      <tuv lang="FR" changeid="samsung" changedate="20130419T193640Z">
+        <seg>Comment appliquer ces conditions à vos nouveaux programmes</seg>
       </tuv>
     </tu>
     <tu>
@@ -15094,6 +15217,16 @@ been installed in ROM).</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130506T114848Z">
         <seg>Si, en plein milieu de la traduction, vous décidez de passer d'une traduction par phrase à une traduction par paragraphe, la mémoire de traduction interne du projet ne sera pas modifiée (OmegaT peut mettre à jour des vieilles mémoires de traduction qui n'étaient pas segmentées par phrase, mais pas l'inverse).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you develop a new program, and you want it to be of the greatest
+possible use to the public, the best way to achieve this is to make it
+free software which everyone can redistribute and change under these terms.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="samsung" changedate="20130419T193657Z">
+        <seg>Si vous développez un nouveau programme, et si vous voulez qu'il soit de la plus grande utilité possible pour le public, le meilleur moyen d'y parvenir est d'en faire un logiciel libre que chacun peut redistribuer et modifier au titre des présentes conditions.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17819,6 +17952,14 @@ automatically download and install it.</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T104408Z">
         <seg>Mac OS X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="samsung" changedate="20130419T194322Z">
+        <seg>de COMMERCIABILITE ou DE CONFORMITE A UNE UTILISATION PARTICULIERE.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21659,6 +21800,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Preamble</seg>
+      </tuv>
+      <tuv lang="FR" changeid="samsung" changedate="20130418T224324Z">
+        <seg>Préambule</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Preferences system save operation failed!</seg>
       </tuv>
       <tuv lang="FR">
@@ -23799,6 +23948,14 @@ REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See the</seg>
+      </tuv>
+      <tuv lang="FR" changeid="samsung" changedate="20130419T194332Z">
+        <seg> Voir la </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See the GNU General Public License for more detail.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130412T074247Z">
@@ -25210,6 +25367,16 @@ and then start OmegaT.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130430T082843Z">
         <seg>De telles modification sont possibles, par exemple, dans les fichiers ODF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Such new versions will
+be similar in spirit to the present version, but may differ in detail to
+address new problems or concerns.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="samsung" changedate="20130419T192120Z">
+        <seg>De telles nouvelles versions seront similaires à la présente version dans l'esprit mais pourront différer dans le détail pour prendre en compte de nouvelles problématiques ou inquiétudes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27251,6 +27418,15 @@ instead.</seg>
     <tu>
       <tuv lang="EN">
         <seg>The hypothetical commands `show w' and `show c' should show the appropriate
+parts of the General Public License.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="samsung" changedate="20130419T194804Z">
+        <seg>Les instructions hypothétiques 'show w' et 'show c' sont supposées montrer les parties ad hoc de la Licence Publique Générale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The hypothetical commands `show w' and `show c' should show the appropriate
 parts of the General Public License. Of course, your program's commands
 might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
@@ -27782,6 +27958,15 @@ an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130528T130101Z">
         <seg>Les événements de touche (keyevents) possibles sont listés dans ce manuel Java 1.6 édité par Oracle: &lt;u0&gt;Java 1.6 keyEvents description&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The precise terms and conditions for copying, distribution and
+modification follow.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Clementine" changedate="20130503T080005Z">
+        <seg>Les termes exacts et les conditions de copie, distribution et modification sont les suivants :</seg>
       </tuv>
     </tu>
     <tu>
@@ -29456,6 +29641,14 @@ under the terms of this General Public License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This is free software, and you are welcome to redistribute it</seg>
+      </tuv>
+      <tuv lang="FR" changeid="samsung" changedate="20130419T194727Z">
+        <seg>Ceci est un logiciel libre et vous êtes invité à le redistribuer </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is free software, and you are welcome to redistribute it under certain conditions; type `show c' for details.</seg>
       </tuv>
       <tuv lang="FR" changeid="jchelary" changedate="20130526T141842Z">
@@ -29727,6 +29920,14 @@ this version will not interfere with it.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130527T150531Z">
         <seg>Ce paquet contient l'environnement d'exécution Java distribué par Oracle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This program is distributed in the hope that it will be useful,</seg>
+      </tuv>
+      <tuv lang="FR" changeid="samsung" changedate="20130419T194253Z">
+        <seg>Ce programme est distribué dans l'espoir qu'il sera utile, </seg>
       </tuv>
     </tu>
     <tu>
@@ -30194,6 +30395,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130418T132926Z">
         <seg>Pour afficher le guide de prise en main dans la langue désirée, vous devez spécifier à la fois la langue et le pays.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To do so, attach the following notices to the program.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="samsung" changedate="20130419T193711Z">
+        <seg>Pour ce faire, munissez le programme des avis qui suivent.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32522,6 +32731,15 @@ you have just discovered.</seg>
     <tu>
       <tuv lang="EN">
         <seg>When we speak of free software, we are referring to freedom, not
+price.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="samsung" changedate="20130418T224524Z">
+        <seg>Quand nous parlons de logiciels libres, nous parlons de liberté, non de prix.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When we speak of free software, we are referring to freedom, not
 price. Our General Public Licenses are designed to make sure that you
 have the freedom to distribute copies of free software (and charge for
 them if you wish), that you receive source code or can get it if you
@@ -33982,6 +34200,14 @@ necessary.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You should have received a copy of the GNU General Public License</seg>
+      </tuv>
+      <tuv lang="FR" changeid="samsung" changedate="20130419T194406Z">
+        <seg>Vous devriez avoir reçu un exemplaire de la Licence Publique Générale GNU </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You should have received a copy of the GNU General Public License along with this program.</seg>
       </tuv>
       <tuv lang="FR" changeid="jchelary" changedate="20130526T141728Z">
@@ -35013,6 +35239,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T095849Z">
         <seg>bul</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>but WITHOUT ANY WARRANTY; without even the implied warranty of</seg>
+      </tuv>
+      <tuv lang="FR" changeid="samsung" changedate="20130419T194311Z">
+        <seg>mais SANS AUCUNE GARANTIE ; sans même une garantie implicite </seg>
       </tuv>
     </tu>
     <tu>
@@ -36969,6 +37203,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>it under the terms of the GNU General Public License as published by</seg>
+      </tuv>
+      <tuv lang="FR" changeid="samsung" changedate="20130419T194205Z">
+        <seg>au titre des clauses de la Licence Publique Générale GNU, telle que publiée </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ita</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T100016Z">
@@ -38157,6 +38399,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T100129Z">
         <seg>oci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>of this license document, but changing it is not allowed.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="samsung" changedate="20130418T224255Z">
+        <seg>de cette licence mais aucune modification n'est autorisée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39823,6 +40073,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T103558Z">
         <seg>ukr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>under certain conditions; type `show c' for details.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="samsung" changedate="20130419T194741Z">
+        <seg>en respectant certaines obligations ; pour plus de détails tapez 'show c'.</seg>
       </tuv>
     </tu>
     <tu>
