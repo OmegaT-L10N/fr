@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.3" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.3_1" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3353,8 +3353,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Terminology management&lt;/e0&gt;: Terminology management is important for translation consistency.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20130528T131049Z">
-        <seg>&lt;e0&gt;Gestion de la terminologie&lt;/e0&gt;: la gestion de la terminologie est importante pour la cohérence de la traduction.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130607T093640Z">
+        <seg>&lt;e0&gt;Gestion de la terminologie&lt;/e0&gt; : la gestion de la terminologie est importante pour la cohérence de la traduction.</seg>
       </tuv>
     </tu>
     <tu>
