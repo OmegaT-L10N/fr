@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.3_1" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.4" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1132,6 +1132,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130527T152527Z">
         <seg>(n est un chiffre compris entre 1 et 5) - Sélectionne la correspondance n°=n affichée dans la fenêtre des Correspondances pour vous permettre d'effectuer un remplacement ou une insertion dans le segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(+{0} more)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130624T092330Z" creationid="Didier" creationdate="20130624T092330Z">
+        <seg>({0} de plus)</seg>
       </tuv>
     </tu>
     <tu>
@@ -13170,6 +13178,14 @@ authors of previous versions.</seg>
       </tuv>
       <tuv lang="FR" changeid="laurieetclémentine" changedate="20130411T135145Z">
         <seg>Segment suivant dans l'historique...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Found in:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130624T092251Z" creationid="Didier" creationdate="20130624T092251Z">
+        <seg>Trouvée dans :</seg>
       </tuv>
     </tu>
     <tu>
@@ -30000,6 +30016,14 @@ Seule la licence en langue anglaise est légalement valable. Vous pouvez trouver
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This project</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130624T092312Z" creationid="Didier" creationdate="20130624T092312Z">
+        <seg>ce projet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This section is intended to make thoroughly clear what is believed to
 be a consequence of the rest of this License.</seg>
       </tuv>
@@ -37855,6 +37879,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130423T093902Z">
         <seg>lucene-*.jar (licence Apache 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>lucene-gosen-2.0.2-ipadic.jar (LGPL License)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130624T092235Z" creationid="Didier" creationdate="20130624T092235Z">
+        <seg>lucene-gosen-2.0.2-ipadic.jar (licence LGPL)</seg>
       </tuv>
     </tu>
     <tu>
