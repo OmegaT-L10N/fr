@@ -224,14 +224,6 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>${score}</seg>
-      </tuv>
-      <tuv lang="FR" changeid="JC Helary" changedate="20130505T105228Z">
-        <seg>${score}</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>${sourceText}</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T105225Z">
@@ -25281,6 +25273,14 @@ patents cannot be used to render the program non-free.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>String showing the differences between the source and the match.&lt;e0&gt; Hint:&lt;/e0&gt; use this if the text, you are translating has been updated.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130625T135530Z" creationid="Didier" creationdate="20130625T135530Z">
+        <seg>Chaîne de caractères montrant les différences entre la source et la correspondance.&lt;e0&gt; Astuce :&lt;/e0&gt; utilisez ceci si le texte que vous avez traduit a été mis à jour.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Strings can be enclosed by quotes ", which allows having a comma inside a string:</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130430T092600Z">
@@ -40369,14 +40369,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T103611Z">
         <seg>vol</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>vs</seg>
-      </tuv>
-      <tuv lang="FR" changeid="JC Helary" changedate="20130505T105038Z">
-        <seg>vs</seg>
       </tuv>
     </tu>
     <tu>
