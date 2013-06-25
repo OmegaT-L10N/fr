@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.4" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.3" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1130,7 +1130,7 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>(+{0} more)</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20130624T092330Z" creationid="Didier" creationdate="20130624T092330Z">
+      <tuv lang="FR" changeid="Didier" changedate="20130624T092330Z">
         <seg>({0} de plus)</seg>
       </tuv>
     </tu>
@@ -13176,7 +13176,7 @@ authors of previous versions.</seg>
       <tuv lang="EN">
         <seg>Found in:</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20130624T092251Z" creationid="Didier" creationdate="20130624T092251Z">
+      <tuv lang="FR" changeid="Didier" changedate="20130624T092251Z">
         <seg>Trouvée dans :</seg>
       </tuv>
     </tu>
@@ -18337,7 +18337,7 @@ impose that choice.</seg>
       <tuv lang="EN">
         <seg>Marc Prior: correcting my first draft was an act of love for OmegaT and the English language.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20130625T135124Z" creationid="Didier" creationdate="20130625T135124Z">
+      <tuv lang="FR" changeid="Didier" changedate="20130625T135124Z">
         <seg>Marc Prior : corriger ma première ébauche a été un acte d'amour pour OmegaT et la langue anglaise.</seg>
       </tuv>
     </tu>
@@ -25275,7 +25275,7 @@ patents cannot be used to render the program non-free.</seg>
       <tuv lang="EN">
         <seg>String showing the differences between the source and the match.&lt;e0&gt; Hint:&lt;/e0&gt; use this if the text, you are translating has been updated.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20130625T135530Z" creationid="Didier" creationdate="20130625T135530Z">
+      <tuv lang="FR" changeid="Didier" changedate="20130625T135530Z">
         <seg>Chaîne de caractères montrant les différences entre la source et la correspondance.&lt;e0&gt; Astuce :&lt;/e0&gt; utilisez ceci si le texte que vous avez traduit a été mis à jour.</seg>
       </tuv>
     </tu>
@@ -30026,7 +30026,7 @@ Seule la licence en langue anglaise est légalement valable. Vous pouvez trouver
       <tuv lang="EN">
         <seg>This project</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20130624T093440Z" creationid="Didier" creationdate="20130624T092312Z">
+      <tuv lang="FR" changeid="Didier" changedate="20130624T093440Z">
         <seg>Ce projet</seg>
       </tuv>
     </tu>
@@ -37893,7 +37893,7 @@ de créer son dossier de configuration.</seg>
       <tuv lang="EN">
         <seg>lucene-gosen-2.0.2-ipadic.jar (LGPL License)</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20130624T092235Z" creationid="Didier" creationdate="20130624T092235Z">
+      <tuv lang="FR" changeid="Didier" changedate="20130624T092235Z">
         <seg>lucene-gosen-2.0.2-ipadic.jar (licence LGPL)</seg>
       </tuv>
     </tu>
