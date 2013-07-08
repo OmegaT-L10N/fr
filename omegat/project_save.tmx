@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.4" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.4_1" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11576,8 +11576,8 @@ by the Free Software Foundation.</seg>
       <tuv lang="EN">
         <seg>Entries with modified tags</seg>
       </tuv>
-      <tuv lang="FR">
-        <seg>Des balises ont été modifiés</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20130708T094333Z">
+        <seg>Des balises ont été modifiées</seg>
       </tuv>
     </tu>
     <tu>
@@ -17085,6 +17085,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Jar used for plugins: {0}</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130708T094427Z" creationid="Didier" creationdate="20130708T094427Z">
+        <seg>Jar utilisé pour les modules d'extension : {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Java Web Start ensures that the latest version of the application will be deployed, as well as the correct version of the Java Runtime Environment (JRE) used.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130527T150307Z">
@@ -20618,7 +20626,7 @@ with exactly the same structure, including copies of any non-supported files.</s
       <tuv lang="EN">
         <seg>OmegaT-{0}_{1}</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20120131T094122Z">
+      <tuv lang="FR" changeid="Didier" changedate="20130708T094518Z" creationid="Didier" creationdate="20130708T094518Z">
         <seg>OmegaT-{0}_{1}</seg>
       </tuv>
     </tu>
@@ -21804,6 +21812,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Veuillez saisir ou copier l'URL de la page MediaWiki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Plugin successfully loaded from class '{0}'</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130708T094456Z" creationid="Didier" creationdate="20130708T094456Z">
+        <seg>Le module d'extension a été chargé avec succès à partir de la classe « {0} »</seg>
       </tuv>
     </tu>
     <tu>
