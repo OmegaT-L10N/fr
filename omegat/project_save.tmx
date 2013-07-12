@@ -22412,8 +22412,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>RTL-LTR switch</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130411T081512Z">
-        <seg>Passage du mode de lecture droite-à-gauche au mode de lecture gauche-à-droite (et inversement)</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130712T180138Z">
+        <seg>Passer du mode de lecture droite-à-gauche au mode de lecture gauche-à-droite (et inversement.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -38117,48 +38117,48 @@ de créer son dossier de configuration.</seg>
       <tuv lang="EN">
         <seg>move to the beginning of the line in the segment</seg>
       </tuv>
-      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T122358Z">
-        <seg>déplacement au début de la ligne à l'intérieur du segment</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130712T175619Z">
+        <seg>Aller au début de la ligne à l'intérieur du segment.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>move to the end of the document (Mac: &lt;e0&gt;Cmd+PgDn&lt;/e0&gt;)</seg>
       </tuv>
-      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T122540Z">
-        <seg>déplacement à la fin du document (Mac: &lt;e0&gt;Cmd+Pg suiv&lt;/e0&gt;)</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130712T180007Z">
+        <seg>Aller à la fin du document (Mac : &lt;e0&gt;Cmd+Pg suiv&lt;/e0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>move to the end of the line in the segment</seg>
       </tuv>
-      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T122420Z">
-        <seg>déplacement à la fin de la ligne à l'intérieur du segment</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130712T175643Z">
+        <seg>Aller à la fin de la ligne à l'intérieur du segment.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>move to the end of the segment</seg>
       </tuv>
-      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T122458Z">
-        <seg>déplacement à la fin du segment</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130712T175715Z">
+        <seg>Aller à la fin du segment.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>move to the start of the document (Mac: &lt;e0&gt;Cmd+PgUp&lt;/e0&gt;)</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20130527T125824Z">
-        <seg>déplacement au début du document (Mac : &lt;e0&gt;Cmd+Pg préc&lt;/e0&gt;)</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130712T175959Z">
+        <seg>Aller au début du document (Mac : &lt;e0&gt;Cmd+Pg préc&lt;/e0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>move to the start of the segment</seg>
       </tuv>
-      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T122447Z">
-        <seg>déplacement au début du segment</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130712T175703Z">
+        <seg>Aller au début du segment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38573,8 +38573,8 @@ de créer son dossier de configuration.</seg>
       <tuv lang="EN">
         <seg>open previous segment (Mac: &lt;e0&gt;Cmd+Enter&lt;/e0&gt;)</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20130527T125842Z">
-        <seg>ouvre le segment précédent (Mac : &lt;e0&gt;Cmd+Enter&lt;/e0&gt;)</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130712T180101Z">
+        <seg>Ouvrir le segment précédent (Mac : &lt;e0&gt;Cmd+Enter&lt;/e0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -39063,32 +39063,32 @@ de créer son dossier de configuration.</seg>
       <tuv lang="EN">
         <seg>remove char after cursor</seg>
       </tuv>
-      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T122617Z">
-        <seg>supprime le caractère placé après le curseur</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130712T175849Z">
+        <seg>Supprimer le caractère placé après le curseur.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>remove char before cursor</seg>
       </tuv>
-      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T122600Z">
-        <seg>supprime le caractère placé avant le curseur</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130712T175835Z">
+        <seg>Supprimer le caractère placé avant le curseur.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>remove chars up to the start of next word (Mac: &lt;e0&gt;Alt+Delete&lt;/e0&gt;)</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20130527T125839Z">
-        <seg>supprime tous les caractères du mot placé après le curseur (Mac : &lt;e0&gt;Alt+Supprimer&lt;/e0&gt;)</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130712T180042Z">
+        <seg>Supprimer tous les caractères du mot placé après le curseur (Mac : &lt;e0&gt;Alt+Supprimer&lt;/e0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>remove chars up to the start of the current word (Mac: &lt;e0&gt;Alt+Backspace&lt;/e0&gt;)</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20130527T125834Z">
-        <seg>supprime tous les caractères du mot placé avant le curseur (Mac : &lt;e0&gt;Alt+Retour arrière&lt;/e0&gt;)</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130712T175948Z">
+        <seg>Supprimer tous les caractères du mot placé avant le curseur (Mac : &lt;e0&gt;Alt+Retour arrière&lt;/e0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -39327,8 +39327,8 @@ de créer son dossier de configuration.</seg>
       <tuv lang="EN">
         <seg>select complete segment (Mac: &lt;e0&gt;Cmd+A&lt;/e0&gt;)</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20130527T125845Z">
-        <seg>sélectionne le segment complet (Mac : &lt;e0&gt;Cmd+A&lt;/e0&gt;)</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130712T180121Z">
+        <seg>Sélectionner le segment complet (Mac : &lt;e0&gt;Cmd+A&lt;/e0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
