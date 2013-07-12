@@ -10062,8 +10062,8 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       <tuv lang="EN">
         <seg>Ctrl+Left:</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130411T080625Z">
-        <seg>Ctrl+Gauche :</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130712T175019Z">
+        <seg>Ctrl+Gauche</seg>
       </tuv>
     </tu>
     <tu>
@@ -10118,8 +10118,8 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       <tuv lang="EN">
         <seg>Ctrl+Right:</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130411T080621Z">
-        <seg>Ctrl+Droite :</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130712T175300Z">
+        <seg>Ctrl+Droite</seg>
       </tuv>
     </tu>
     <tu>
@@ -17700,8 +17700,8 @@ Exécutez OmegaT de la façon suivante.</seg>
       <tuv lang="EN">
         <seg>Left:</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130411T080633Z">
-        <seg>Gauche :</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130712T174917Z">
+        <seg>Gauche</seg>
       </tuv>
     </tu>
     <tu>
@@ -21594,16 +21594,16 @@ of promoting the sharing and reuse of software generally.</seg>
       <tuv lang="EN">
         <seg>PgDn:</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130411T080652Z">
-        <seg>Pg suiv :</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130712T175441Z">
+        <seg>Pg suiv</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>PgUp:</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130411T080616Z">
-        <seg>Pg préc :</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130712T175329Z">
+        <seg>Pg préc</seg>
       </tuv>
     </tu>
     <tu>
@@ -23204,8 +23204,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Right:</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130411T080628Z">
-        <seg>Droite :</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130712T174921Z">
+        <seg>Droite</seg>
       </tuv>
     </tu>
     <tu>
@@ -28676,8 +28676,8 @@ making modifications to it.</seg>
       <tuv lang="EN">
         <seg>The term "Move to inside segment" means, that the cursor moves to the beginning of the segment if it was previously before the segment, and to the end of the segment if it was previously after it.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130502T084445Z">
-        <seg>Le terme « Déplacement dans le segment »  signifie que le curseur ira se placer au début du segment actif s'il est positionné avant celui-ci, et qu'il ira se placer à la fin du segment actif s'il est positionné après.</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130712T174744Z">
+        <seg>Le terme « Déplacement dans le segment » signifie que le curseur ira se placer au début du segment actif s'il est positionné avant celui-ci, et qu'il ira se placer à la fin du segment actif s'il est positionné après.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38533,16 +38533,16 @@ de créer son dossier de configuration.</seg>
       <tuv lang="EN">
         <seg>one char left, but not further than the beginning of segment</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130411T080419Z">
-        <seg>déplacement d'un caractère sur la gauche mais qui ne va pas plus loin que le début du segment</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130712T175211Z">
+        <seg>Reculer d'un caractère vers la gauche sans aller plus loin que le début du segment.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>one char right, but not further than the end of segment</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130411T080453Z">
-        <seg>déplacement d'un caractère sur la droite mais qui ne va pas plus loin que la fin du segment</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130712T175219Z">
+        <seg>Avancer d'un caractère vers la droite sans aller plus loin que la fin du segment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38557,16 +38557,16 @@ de créer son dossier de configuration.</seg>
       <tuv lang="EN">
         <seg>one word left, but not further than the beginning of segment</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130411T080517Z">
-        <seg>déplacement d'un mot sur la gauche mais qui ne va pas plus loin que le début du segment</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130712T175254Z">
+        <seg>Reculer d'un mot vers la gauche sans aller plus loin que le début du segment.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>one word right, but not further than the end of segment</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130411T080534Z">
-        <seg>déplacement d'un mot sur la droite mais qui ne va pas plus loin que la fin du segment</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130712T175324Z">
+        <seg>Avancer d'un mot sur la droite aller plus loin que la fin du segment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38791,16 +38791,16 @@ de créer son dossier de configuration.</seg>
       <tuv lang="EN">
         <seg>page down through the document</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130411T080717Z">
-        <seg>le document défile vers le bas</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130712T175456Z">
+        <seg>Faire défiler le document vers le bas.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>page up through the document</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130411T080734Z">
-        <seg>le document défile vers le haut</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130712T175437Z">
+        <seg>Faire défiler le document vers le haut.</seg>
       </tuv>
     </tu>
     <tu>
