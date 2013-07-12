@@ -2409,8 +2409,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; is a free multi platform Computer Aided Translation tool, with the following highlights:</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130410T131958Z">
-        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; est un outil de Traduction Assistée par Ordinateur libre et multiplateforme, qui présente les caractéristiques suivantes :</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130712T164118Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; est un outil de traduction assistée par ordinateur (TAO) libre et multiplateforme, qui présente les caractéristiques suivantes :</seg>
       </tuv>
     </tu>
     <tu>
@@ -3121,8 +3121,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Learn to use OmegaT in 5 minutes!:&lt;/e0&gt; this chapter is intended as a quick tutorial for beginners as well as people who already know CAT tools, showing the complete procedure from opening a new translation project through to completing the translation.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20130527T124658Z">
-        <seg>&lt;e0&gt; Tutoriel premiers pas :&lt;/e0&gt; ce chapitre est conçu comme un tutoriel premiers pas pour les débutants et les « impatients », il offre un aperçu de la procédure complète, allant de la création d'un nouveau projet de traduction à la traduction effective.</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130712T165642Z">
+        <seg>&lt;e0&gt;Apprendre à utiliser OmegaT en cinq minutes ! :&lt;/e0&gt; ce chapitre est conçu comme un tutoriel premiers pas pour les débutants et les « impatients », il offre un aperçu de la procédure complète, allant de la création d'un nouveau projet de traduction à la traduction effective.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3265,8 +3265,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Project properties&lt;/e0&gt;, &lt;e1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt; Files and Folders:&lt;/e1&gt; a project in the context of OmegaT is the piece of work that OmegaT as a CAT tool is able to handle.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20130527T124753Z">
-        <seg>&lt;e0&gt;Propriétés du projet&lt;/e0&gt;, &lt;e1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt; Fichiers et Répertoires :&lt;/e1&gt; pour OmegaT, un projet est un travail qu'il est en mesure de gérer, en tant qu'outil de TAO.</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130712T170124Z">
+        <seg>&lt;e0&gt;Propriétés du projet&lt;/e0&gt;, Fichiers et dossiers d'&lt;e1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt; :&lt;/e1&gt; pour OmegaT, un projet est un travail qu'il est en mesure de gérer, en tant qu'outil de TAO.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3361,8 +3361,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;The user interface&lt;/e0&gt;,&lt;e1&gt;Main Menu and Keyboard Shortcuts&lt;/e1&gt;: these two chapters are likely to be heavily consulted, since they explain the user interface of OmegaT and the functions available via the main menu and the keyboard shortcuts.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20130528T131105Z">
-        <seg>&lt;e0&gt;L'interface utilisateur&lt;/e0&gt;,&lt;e1&gt;Menu principal et Raccourcis clavier&lt;/e1&gt;: ces deux chapitres seront certainement très consultés car ils expliquent le fonctionnement de l'interface utilisateur d'OmegaT et les fonctionnalités disponibles via le menu principal et les raccourcis clavier.</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130712T165831Z">
+        <seg>&lt;e0&gt;L'interface utilisateur&lt;/e0&gt;, &lt;e1&gt;Menus et raccourcis clavier&lt;/e1&gt; : ces deux chapitres seront certainement très consultés car ils expliquent le fonctionnement de l'interface utilisateur d'OmegaT et les fonctionnalités disponibles via le menu principal et les raccourcis clavier.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3393,8 +3393,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Translation process:&lt;/e0&gt; Imagine having to translate something; from a single file to a folder containing subfolders each with a number of files in a variety of formats.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20130528T131134Z">
-        <seg>&lt;e0&gt;Travail de traduction :&lt;/e0&gt; imaginez que vous ayez à traduire quelque chose ; d'un fichier unique à un dossier contenant des sous-dossiers, chacun rempli d'un certain nombre de fichiers sous différents formats.</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130712T164332Z">
+        <seg>&lt;e0&gt;Travail de traduction :&lt;/e0&gt; imaginez que vous ayez à traduire quelque chose, d'un fichier unique à un dossier contenant des sous-dossiers, chacun rempli d'un certain nombre de fichiers de différents formats.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6941,8 +6941,8 @@ or that patent license was granted, prior to 28 March 2007.</seg>
       <tuv lang="EN">
         <seg>About &lt;a0&gt;OmegaT&lt;/a0&gt; - introduction</seg>
       </tuv>
-      <tuv lang="FR" changeid="etudiant_local" changedate="20130410T120755Z">
-        <seg>À propos d'&lt;a0&gt;OmegaT&lt;/a0&gt; - introduction</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130712T163916Z">
+        <seg>À propos d'&lt;a0&gt;OmegaT&lt;/a0&gt; – introduction</seg>
       </tuv>
     </tu>
     <tu>
@@ -20416,8 +20416,8 @@ selecting, obtaining and installing it.</seg>
       <tuv lang="EN">
         <seg>OmegaT stores your translations and proposes possible translations from similar segments in registered in the translation memory files.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20130527T124628Z">
-        <seg>OmegaT enregistre vos traductions et propose des traductions possibles en fonction des segments similaires présents dans les fichiers mémoires pré-existants.</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130712T164512Z">
+        <seg>OmegaT enregistre vos traductions et propose des traductions possibles en fonction des segments similaires présents dans les fichiers mémoires préexistants.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21980,8 +21980,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Problem: In the glossary pane, some characters are not displayed properly</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130430T095301Z">
-        <seg>Problème : Dans le volet Glossaires, certains caractères ne sont pas affichés correctement</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130712T163703Z">
+        <seg>Problème : dans le volet Glossaires, certains caractères ne sont pas affichés correctement</seg>
       </tuv>
     </tu>
     <tu>
@@ -29547,8 +29547,8 @@ under the terms of this General Public License.</seg>
       <tuv lang="EN">
         <seg>This documentation is intended both as a tutorial and as a reference guide.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130410T134617Z">
-        <seg>Ce manuel est conçu pour servir à la fois de tutoriel et de guide de référence.</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130712T164930Z">
+        <seg>Cette documentation est conçue pour servir à la fois de tutoriel et de guide de référence.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32834,8 +32834,8 @@ free programs, and that you know you can do these things.</seg>
       <tuv lang="EN">
         <seg>When you are ready to view the final product, you can export the translated files, open them in the appropriate application and view the translation in the final format...</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130410T134445Z">
-        <seg>Lorsque vous êtes prêt à voir le produit final, vous pouvez exporter les fichiers traduits, les ouvrir avec le programme approprié et regarder la traduction dans son format final...</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130712T164609Z">
+        <seg>Lorsque vous êtes prêt à voir le produit final, vous pouvez exporter les fichiers traduits, les ouvrir avec le programme approprié et visualiser la traduction dans son format final.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32895,8 +32895,8 @@ for which you have or can give appropriate copyright permission.</seg>
       <tuv lang="EN">
         <seg>When you let OmegaT know the files that you need to translate, it looks for the files it understands based on file filtering rules, recognizes the textual parts within them, splits up the text groups according to the segmentation rules, and displays the segments one by one so that you can proceed with the translation.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130502T080722Z">
-        <seg>Lorsqu'OmegaT prend connaissance des fichiers que vous voulez traduire, il recherche les fichiers qu'il reconnaît sur la base de règles de filtrage de fichiers, reconnaît les parties textuelles, sépare les groupes de texte en suivant les règles de segmentation, et affiche les segments un par un de sorte que vous puissiez procéder à la traduction.</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130712T164436Z">
+        <seg>Lorsqu'OmegaT prend connaissance des fichiers que vous voulez traduire, il recherche les fichiers qu'il reconnaît sur la base de règles de filtrage de fichier, reconnaît les parties textuelles, sépare les groupes de texte en suivant les règles de segmentation, et affiche les segments un par un pour vous permettre de procéder à la traduction.</seg>
       </tuv>
     </tu>
     <tu>
