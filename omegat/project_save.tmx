@@ -2889,8 +2889,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Any char key,&lt;/e0&gt; if clicked outside editable segment, will be ignored.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20130527T125917Z">
-        <seg>Un appui sur &lt;e0&gt;n'importe qu'elle autre touche&lt;/e0&gt; à l'extérieur du segment modifiable sera ignoré.</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130712T181444Z">
+        <seg>Appuyer sur &lt;e0&gt;une touche quelconque&lt;/e0&gt; à l'extérieur du segment modifiable sera ignoré.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2913,16 +2913,16 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Backspace: &lt;/e0&gt;nothing</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130411T081613Z">
-        <seg>&lt;e0&gt;Retour arrière : &lt;/e0&gt;rien ne se passe</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130712T181146Z">
+        <seg>&lt;e0&gt;Retour arrière : &lt;/e0&gt;rien</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Delete: &lt;/e0&gt;nothing</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130411T081623Z">
-        <seg>&lt;e0&gt;Supprimer : &lt;/e0&gt;rien ne se passe</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130712T181217Z">
+        <seg>&lt;e0&gt;Supprimer : &lt;/e0&gt;rien</seg>
       </tuv>
     </tu>
     <tu>
@@ -2961,8 +2961,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;End: &lt;/e0&gt; cursor to the end of the active segment</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130411T081607Z">
-        <seg>&lt;e0&gt;Fin : &lt;/e0&gt; déplacement du curseur à la fin du segment actif</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130712T181151Z">
+        <seg>&lt;e0&gt;Fin : &lt;/e0&gt; déplacer le curseur à la fin du segment actif</seg>
       </tuv>
     </tu>
     <tu>
@@ -3033,8 +3033,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Home: &lt;/e0&gt; cursor to the beginning of the active segment</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130411T081601Z">
-        <seg>&lt;e0&gt;Début : &lt;/e0&gt; déplacement du curseur au début du segment actif</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130712T181156Z">
+        <seg>&lt;e0&gt;Début : &lt;/e0&gt; déplacer le curseur au début du segment actif</seg>
       </tuv>
     </tu>
     <tu>
@@ -26205,8 +26205,8 @@ language.</seg>
       <tuv lang="EN">
         <seg>The "Shift" key doesn't exhibit any special behavior per se: when the "Shift" key is pressed, all keys move the cursor in their usual manner, except in the case of the &lt;l0&gt;Shift+Enter&lt;/l0&gt; combination, that inserts a line break into the text.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20130527T130022Z">
-        <seg>En elle-même, la touche « Maj » ne provoque pas de comportement particulier : lors d'un appui sur la touche « Maj », toutes les touches déplacent le curseur de manière habituelle, à l'exception de la combinaison &lt;l0&gt;Maj+Entrée&lt;/l0&gt; qui insère un retour à la ligne dans le texte.</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130712T181511Z">
+        <seg>En elle-même, la touche « Maj » ne provoque pas de comportement particulier : lorsque vous appuyez sur la touche « Maj », toutes les touches déplacent le curseur de manière habituelle, à l'exception de la combinaison &lt;l0&gt;Maj+Entrée&lt;/l0&gt; qui insère un retour à la ligne dans le texte.</seg>
       </tuv>
     </tu>
     <tu>
