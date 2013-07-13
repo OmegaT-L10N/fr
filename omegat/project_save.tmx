@@ -2233,16 +2233,16 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>&lt;/e0&gt;This will enable you to keep both versions side-by-side, which you may wish to do until you feel comfortable with the new version.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20130528T131759Z">
-        <seg>&lt;/e0&gt;Cela vous permettra de conserver les deux versions côte à côte, ce qui peut être utile jusqu'à ce que vous soyez à l'aise avec la nouvelle version.</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130713T084855Z">
+        <seg>&lt;/e0&gt;Cela vous permet de conserver les deux versions côte à côte, ce qui peut être utile jusqu'à ce que vous soyez à l'aise avec la nouvelle version.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;/e0&gt;To do this, simply select the same installation folder as the existing installation when installing the new version.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20130527T144834Z">
-        <seg>&lt;/e0&gt;Pour faire cela, il suffit de sélectionner le même dossier d'installation que celui de l'installation existante lorsque vous installez la nouvelle version.</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130713T084705Z">
+        <seg>&lt;/e0&gt;Pour ce faire, il suffit de sélectionner le même dossier d'installation que celui de l'installation existante lorsque vous installez la nouvelle version.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3681,8 +3681,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>&lt;i2/&gt;The options for the program start-up in this case will be read from the &lt;e3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt;.l4J.ini &lt;/e3&gt;file, which resides in the same folder as the exe file and which you can edit to reflect your setup.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130502T093726Z">
-        <seg>&lt;i2/&gt;Dans ce cas, les options de démarrage du programme seront lues depuis le fichier &lt;e3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt;.l4J.ini &lt;/e3&gt; qui se trouve dans le même dossier que le fichier exe. Ce fichier peut être modifié afin d'être adapté à votre installation.</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130713T084150Z">
+        <seg>&lt;i2/&gt;Dans ce cas, les options de démarrage du programme sont lues depuis le fichier &lt;e3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt;.l4J.ini &lt;/e3&gt; qui se trouve dans le même dossier que le fichier exe. Ce fichier peut être modifié afin d'être adapté à votre installation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26238,8 +26238,8 @@ produce the work, or an object code interpreter used to run it.</seg>
       <tuv lang="EN">
         <seg>The "old" version of OmegaT will be overwritten, but any settings from it will be retained.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130502T095008Z">
-        <seg>La « vieille » version d'OmegaT sera écrasée mais tous ses paramètres seront conservés.</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130713T084745Z">
+        <seg>L'ancienne version d'OmegaT sera écrasée mais tous ses paramètres seront conservés.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27299,8 +27299,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The following example for the INI file reserves 1GB of memory, requests French as the user language and Canada as the country:</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20130527T144815Z">
-        <seg>L'exemple suivant du fichier INI utilise 1 Go de mémoire, choisit le français comme langue d'utilisateur et le Canada comme pays :</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130713T084206Z">
+        <seg>L'exemple suivant du fichier INI utilise 1 Go de mémoire, choisit le français comme langue utilisateur et le Canada comme pays :</seg>
       </tuv>
     </tu>
     <tu>
@@ -29627,8 +29627,8 @@ under the terms of this General Public License.</seg>
       <tuv lang="EN">
         <seg>This information applies only to the "Traditional" Windows versions of OmegaT.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130502T094337Z">
-        <seg>Ces informations ne s'appliquent qu'aux « traditionnelles » versions Windows d'OmegaT.</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130713T084539Z">
+        <seg>Ces informations ne s'appliquent qu'aux versions Windows « classiques » d'OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
