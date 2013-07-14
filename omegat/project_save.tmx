@@ -7962,8 +7962,8 @@ void, and will automatically terminate your rights under this License.</seg>
       <tuv lang="EN">
         <seg>Arguments can be combined: to launch &lt;a0&gt;OmegaT&lt;/a0&gt; with all the examples described above, the command would be:</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130502T134249Z">
-        <seg>Les arguments peuvent être combinés : pour lancer &lt;a0&gt;OmegaT&lt;/a0&gt; avec tous les exemples décrits plus haut, la commande serait :</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130714T132835Z">
+        <seg>Les arguments peuvent être combinés. Pour lancer &lt;a0&gt;OmegaT&lt;/a0&gt; avec tous les exemples décrits plus haut, la commande serait :</seg>
       </tuv>
     </tu>
     <tu>
@@ -19561,16 +19561,16 @@ impose that choice.</seg>
       <tuv lang="EN">
         <seg>Note that if you need or wish to use any of the launch command arguments (see above), you must use the normal installation.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130502T130135Z">
-        <seg>Veuillez noter que pour pouvoir utiliser un argument de commande de lancement quelconque (voir ci-dessus), vous devez choisir l'installation normale.</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130714T132530Z">
+        <seg>Notez que pour pouvoir utiliser l'un des arguments de commande de lancement (voir ci-dessus), vous devez choisir l'installation normale.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Note that in Windows you can change the &lt;e3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt;.l4J.ini&lt;/e3&gt; file to reflect your preferences.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130502T131948Z">
-        <seg>Veuillez noter que dans Windows, vous pouvez modifier le fichier &lt;e3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt;.l4J.ini&lt;/e3&gt; selon vos préférences.</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130714T132442Z">
+        <seg>Notez que dans Windows, vous pouvez modifier le fichier &lt;e3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt;.l4J.ini&lt;/e3&gt; selon vos préférences.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19593,8 +19593,8 @@ impose that choice.</seg>
       <tuv lang="EN">
         <seg>Note that in the above case, this is just half (or even less) of the story, as the target language (Slovenian) uses declension.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130430T090857Z">
-        <seg>Veuillez noter que dans l'exemple ci-dessus, il ne s'agit que de la moitié (ou moins) de l'action, dans la mesure ou la langue cible (le slovène) utilise des déclinaisons.</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130714T132421Z">
+        <seg>Notez que dans l'exemple ci-dessus, il ne s'agit que de la moitié (ou moins) de l'action, dans la mesure ou la langue cible (le slovène) utilise des déclinaisons.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19721,8 +19721,8 @@ impose that choice.</seg>
       <tuv lang="EN">
         <seg>Note that up to 2M characters per month are free of charge.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130502T133818Z">
-        <seg>Veuillez noter que 2 milliards de caractères par mois sont gratuits.</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130714T132647Z">
+        <seg>Notez que 2 milliards de caractères par mois sont gratuits.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23244,8 +23244,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Run &lt;a0&gt;OmegaT&lt;/a0&gt; normally (with the GUI) and specify the settings.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20130527T151228Z">
-        <seg>Exécutez &lt;a0&gt;OmegaT&lt;/a0&gt; normalement (avec l'Interface graphique) et précisez les paramètres.</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130714T133030Z">
+        <seg>Exécutez &lt;a0&gt;OmegaT&lt;/a0&gt; normalement (avec l'interface graphique) et précisez les paramètres.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25215,8 +25215,8 @@ of the GPL, as needed to protect the freedom of users.</seg>
       <tuv lang="EN">
         <seg>Starting in console mode</seg>
       </tuv>
-      <tuv lang="FR" changeid="pingouin" changedate="20130418T151348Z">
-        <seg>Démarrer en mode console</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130714T133241Z">
+        <seg>Démarrage en mode console</seg>
       </tuv>
     </tu>
     <tu>
@@ -28189,8 +28189,8 @@ modification follow.</seg>
       <tuv lang="EN">
         <seg>The relevant files are &lt;l2&gt;filters.conf&lt;/l2&gt; and &lt;l3&gt;segmentation.conf&lt;/l3&gt; and can be found in the user home folder (e.g. &lt;l4&gt;C:\Documents and Settings\%User%\&lt;a5&gt;OmegaT&lt;/a5&gt;&lt;/l4&gt; under Windows, &lt;l6&gt;%user%/.omegat/&lt;/l6&gt; under Linux)</seg>
       </tuv>
-      <tuv lang="FR" changeid="jchelary" changedate="20130526T125422Z">
-        <seg>Les fichiers importants sont &lt;l2&gt;filters.conf&lt;/l2&gt; et &lt;l3&gt;segmentation.conf&lt;/l3&gt; et sont situés dans le dossier personnel de l'utilisateur (soit dans &lt;l4&gt;C:\Documents and Settings\%User%\&lt;a5&gt;OmegaT&lt;/a5&gt;&lt;/l4&gt; sous Windows, &lt;l6&gt;%user%/.omegat/&lt;/l6&gt; sous Linux)</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130714T133218Z">
+        <seg>Les fichiers importants sont &lt;l2&gt;filters.conf&lt;/l2&gt; et &lt;l3&gt;segmentation.conf&lt;/l3&gt; et sont situés dans le dossier personnel de l'utilisateur (soit dans &lt;l4&gt;C:\Documents and Settings\%User%\&lt;a5&gt;OmegaT&lt;/a5&gt;&lt;/l4&gt; sous Windows, &lt;l6&gt;%user%/.omegat/&lt;/l6&gt; sous Linux).</seg>
       </tuv>
     </tu>
     <tu>
