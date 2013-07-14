@@ -40654,6 +40654,16 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <prop type="file">trunk/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">OFC_NEW_DIR_ERROR</prop>
+      <tuv lang="EN">
+        <seg>An error occurred while trying to create a new folder</seg>
+      </tuv>
+      <tuv lang="FR" changeid="brigitte" changedate="20130714T150542Z" creationid="brigitte" creationdate="20130714T150542Z">
+        <seg>Erreur en essayant de créer un nouveau répertoire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">trunk/src/org/omegat/Bundle.properties</prop>
       <prop type="id">SW_SEARCH_IN_GLOSSARIES</prop>
       <tuv lang="EN">
         <seg>Glossaries</seg>
