@@ -64,8 +64,8 @@ License. Each licensee is addressed as "you". "Licensees" and
       <tuv lang="EN">
         <seg>"ZZ" stands for the amount of memory assigned, in megabytes.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20130527T151017Z">
-        <seg>« ZZ » représente la quantité de mémoire attribuée en méga-octets.</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130714T131632Z">
+        <seg>« ZZ » représente la quantité de mémoire attribuée en mégaoctets.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2713,8 +2713,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;-Dgoogle.api.key=A123456789B123456789C123456789D12345678 &lt;/e0&gt;&lt;e1&gt;&lt;i2/&gt;&lt;/e1&gt; If you have signed up for the Google Translate services, enter your private Google API key here.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20130528T131824Z">
-        <seg>&lt;e0&gt;-Dgoogle.api.key=A123456789B123456789C123456789D12345678 &lt;/e0&gt;&lt;e1&gt;&lt;i2/&gt;&lt;/e1&gt; : si vous vous êtes inscrits sur le service Google Traduction, entrez votre clé API Google privée ici :</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130714T131901Z">
+        <seg>&lt;e0&gt;-Dgoogle.api.key=A123456789B123456789C123456789D12345678 &lt;/e0&gt;&lt;e1&gt;&lt;i2/&gt;&lt;/e1&gt; : si vous vous êtes inscrit sur le service Google Traduction, saisissez votre clé API Google privée ici.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2737,16 +2737,16 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;-Dswing.aatext=true&lt;i1/&gt;&lt;/e0&gt; This argument effects anti-aliasing of the fonts, thereby improving their appearance.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20130528T131822Z">
-        <seg>&lt;e0&gt;-Dswing.aatext=true&lt;i1/&gt;&lt;/e0&gt; Cet argument a pour effet de lisser toutes les polices et ainsi d'améliorer leur apparence.</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130714T131508Z">
+        <seg>&lt;e0&gt;-Dswing.aatext=true&lt;i1/&gt;&lt;/e0&gt; : cet argument a pour effet de lisser toutes les polices et ainsi d'améliorer leur apparence.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;e0&gt;-Duser.country=XX&lt;/e0&gt;&lt;i1/&gt; Besides the language, you can also specify the country, for example CN or TW in case of the Chinese language.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130502T132630Z">
-        <seg>&lt;e0&gt;-Duser.country=XX&lt;/e0&gt;&lt;i1/&gt; En plus de la langue, vous pouvez choisir le pays, par exemple : CN ou TW pour la langue chinoise.</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130714T131332Z">
+        <seg>&lt;e0&gt;-Duser.country=XX&lt;/e0&gt;&lt;i1/&gt; : en plus de la langue, vous pouvez choisir le pays, par exemple CN ou TW pour la langue chinoise.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2761,8 +2761,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;-XmxZZM &lt;/e0&gt;&lt;i1/&gt;This command assigns more memory to &lt;a2&gt;OmegaT&lt;/a2&gt;.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130418T133458Z">
-        <seg>&lt;e0&gt;-XmxZZM &lt;/e0&gt;&lt;i1/&gt;Cette commande attribue plus de mémoire à &lt;a2&gt;OmegaT&lt;/a2&gt;.</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130714T131550Z">
+        <seg>&lt;e0&gt;-XmxZZM&lt;/e0&gt;&lt;i1/&gt; : cette commande attribue plus de mémoire à &lt;a2&gt;OmegaT&lt;/a2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19657,8 +19657,8 @@ impose that choice.</seg>
       <tuv lang="EN">
         <seg>Note that the key is 38 characters long.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130502T133653Z">
-        <seg>Veuillez noter que cette clé se compose de 38 caractères.</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130714T132006Z">
+        <seg>Notez que cette clé se compose de 38 caractères.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26879,8 +26879,8 @@ shown below.</seg>
       <tuv lang="EN">
         <seg>The command to launch &lt;a3&gt;OmegaT&lt;/a3&gt; with assignment of 1024 MB (1 gigabyte) of memory is therefore:</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20130527T151026Z">
-        <seg>La commande de lancement d'&lt;a3&gt;OmegaT&lt;/a3&gt; lui attribuant une mémoire de 1024 Mo (1 giga-octet) est donc :</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130714T131657Z">
+        <seg>La commande de lancement d'&lt;a3&gt;OmegaT&lt;/a3&gt; lui attribuant une mémoire de 1024 Mo (1 gigaoctet) est donc :</seg>
       </tuv>
     </tu>
     <tu>
@@ -30465,8 +30465,8 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="EN">
         <seg>To display the instant start guide in the desired language, you need to specify both the language and the country.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130418T132926Z">
-        <seg>Pour afficher le guide de prise en main dans la langue désirée, vous devez spécifier à la fois la langue et le pays.</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130714T131417Z">
+        <seg>Pour afficher le tutoriel de prise en main dans la langue désirée, vous devez spécifier à la fois la langue et le pays.</seg>
       </tuv>
     </tu>
     <tu>
