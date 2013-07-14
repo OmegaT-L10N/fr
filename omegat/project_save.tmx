@@ -3177,8 +3177,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;No:&lt;/e0&gt; obtain a Java JRE for your system (see below) and download &lt;e1&gt;OmegaT_2.n.n_Without_JRE.zip&lt;/e1&gt;.</seg>
       </tuv>
-      <tuv lang="FR" changeid="jchelary" changedate="20130526T142318Z">
-        <seg>&lt;e0&gt;Non :&lt;/e0&gt; obtenez un environnement d'exécution Java pour votre système (voir ci-dessous) et téléchargez &lt;e1&gt;OmegaT_2.n.n_Without_JRE.zip&lt;/e1&gt; (Cross-platform sans JRE).</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130714T125157Z">
+        <seg>&lt;e0&gt;Non :&lt;/e0&gt; obtenez un environnement d'exécution Java pour votre système (voir ci-dessous) et téléchargez &lt;e1&gt;OmegaT_2.n.n_Without_JRE.zip&lt;/e1&gt; (multiplateforme sans JRE).</seg>
       </tuv>
     </tu>
     <tu>
@@ -14141,8 +14141,8 @@ parties remain in full compliance.</seg>
       <tuv lang="EN">
         <seg>IBM provides JREs for Linux PowerPC at &lt;u0&gt;http://www.ibm.com/developerworks/java/jdk/linux/download.htm&lt;/u0&gt;</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130417T140746Z">
-        <seg>IBM fournit des environnements d'exécution Java JRE pour Linux PowerPC à l'adresse &lt;u0&gt;http://www.ibm.com/developerworks/java/jdk/linux/download.htm&lt;/u0&gt;</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130714T125221Z">
+        <seg>IBM fournit des environnements d'exécution Java JRE pour Linux PowerPC à l'adresse &lt;u0&gt;http://www.ibm.com/developerworks/java/jdk/linux/download.htm&lt;/u0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14298,8 +14298,8 @@ path need not be entered.)</seg>
       <tuv lang="EN">
         <seg>If a "command not found" or similar message is returned, it is likely that Java is not installed on your system</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130502T123509Z">
-        <seg>Si « aucune commande trouvée » ou un message similaire apparaît, il est probable que Java ne soit pas installé sur votre système.</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130714T125108Z">
+        <seg>Si un message du type « aucune commande trouvée » apparaît, Java n'est probablement pas installé sur votre système.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21116,8 +21116,8 @@ happen should you file a bug report.</seg>
       <tuv lang="EN">
         <seg>Oracle provides JREs for Solaris SPARC/x86 (Java 1.5) and for Linux x64, Solaris x64, Windows x64 (Java 1.5) at &lt;u0&gt;http://www.oracle.com/technetwork/java/archive-139210.html&lt;/u0&gt;</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130502T123658Z">
-        <seg>Oracle fournit des environnements d'exécution Java JRE pour Solaris SPARC/x86 (Java 1.5) et pour Linux x64, Solaris x64, Windows x64 (Java 1.5) à l'adresse &lt;u0&gt;http://www.oracle.com/technetwork/java/archive-139210.html&lt;/u0&gt;</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130714T125205Z">
+        <seg>Oracle fournit des environnements d'exécution Java JRE pour Solaris SPARC/x86 (Java 1.5) et pour Linux x64, Solaris x64, Windows x64 (Java 1.5) à l'adresse &lt;u0&gt;http://www.oracle.com/technetwork/java/archive-139210.html&lt;/u0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
