@@ -2841,8 +2841,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;&lt;l1&gt;--mode&lt;/l1&gt;=...-&lt;/e0&gt; &lt;a2&gt;OmegaT&lt;/a2&gt; starts in console mode to perform one of the following services automatically</seg>
       </tuv>
-      <tuv lang="FR" changeid="pingouin" changedate="20130418T154045Z">
-        <seg>&lt;e0&gt;&lt;l1&gt;--mode&lt;/l1&gt;=...-&lt;/e0&gt; &lt;a2&gt;OmegaT&lt;/a2&gt; démarre en mode console pour effectuer automatiquement un des services suivants</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130714T133421Z">
+        <seg>&lt;e0&gt;&lt;l1&gt;--mode&lt;/l1&gt;=...-&lt;/e0&gt; &lt;a2&gt;OmegaT&lt;/a2&gt; démarre en mode console pour effectuer automatiquement un des services suivants :</seg>
       </tuv>
     </tu>
     <tu>
@@ -7062,8 +7062,8 @@ covered by this License; they are outside its scope.</seg>
       <tuv lang="EN">
         <seg>Additional parameter is required in this case, specifying the location of the target data:</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130502T141437Z">
-        <seg>Dans ce cas, un paramètre supplémentaire qui précise l'emplacement des données cibles est nécessaire :</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130714T133833Z">
+        <seg>Dans ce cas, un paramètre supplémentaire spécifiant l'emplacement des données cibles est nécessaire :</seg>
       </tuv>
     </tu>
     <tu>
@@ -7291,8 +7291,8 @@ this License without regard to the additional permissions.</seg>
       <tuv lang="EN">
         <seg>All HTML files will be translated - note that the period in the usual *.html has to be escaped (\.) as specified by the rules for regular expressions</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20130527T151405Z">
-        <seg>Tous les fichiers HTML seront traduits. Veuillez noter que le point généralement présent dans les fichiers *.html doit être neutralisé (\.) comme le précisent les règles utilisées pour les expressions régulières</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130714T134015Z">
+        <seg>Tous les fichiers HTML seront traduits. Notez que le point généralement présent dans les fichiers *.html doit être neutralisé (\.) comme le précisent les règles utilisées pour les expressions régulières</seg>
       </tuv>
     </tu>
     <tu>
@@ -16166,24 +16166,24 @@ patent against the party.</seg>
       <tuv lang="EN">
         <seg>In this mode OmegaT will create a TMX for the whole project, based on the source files only.</seg>
       </tuv>
-      <tuv lang="FR" changeid="pingouin" changedate="20130418T154405Z">
-        <seg>Dans ce mode, OmegaT créera un fichier TMX pour l'ensemble du projet, basé uniquement sur les fichiers sources.</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130714T133455Z">
+        <seg>Dans ce mode, OmegaT crée un fichier TMX pour l'ensemble du projet, basé uniquement sur les fichiers sources.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>In this mode, OmegaT will align the Java properties files found in the&lt;l0&gt; /source/ &lt;/l0&gt;folder of the project to the contents found at the specified location.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130502T141322Z">
-        <seg>Dans ce mode, OmegaT alignera les fichiers de propriétés Java trouvés dans le dossier&lt;l0&gt; /source/ &lt;/l0&gt; du projet sur le contenu que l'on peut trouver à un emplacement spécifié.</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130714T133756Z">
+        <seg>Dans ce mode, OmegaT aligne les fichiers de propriétés Java trouvés dans le dossier&lt;l0&gt; /source/ &lt;/l0&gt; du projet sur le contenu présent à un emplacement spécifié.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>In this mode, OmegaT will attempt to translate the files in /source/ with the available translation memories.</seg>
       </tuv>
-      <tuv lang="FR" changeid="pingouin" changedate="20130418T154146Z">
-        <seg>Dans ce mode, OmegaT tentera de traduire les fichiers du dossier /source/ avec les mémoires de traduction disponibles.</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130714T133439Z">
+        <seg>Dans ce mode, OmegaT tente de traduire les fichiers du dossier /source/ avec les mémoires de traduction disponibles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19465,8 +19465,8 @@ impose that choice.</seg>
       <tuv lang="EN">
         <seg>Note double - character</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130502T140018Z">
-        <seg>Veuillez noter les doubles caractères</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130714T133336Z">
+        <seg>Notez bien les doubles caractères</seg>
       </tuv>
     </tu>
     <tu>
@@ -19513,8 +19513,8 @@ impose that choice.</seg>
       <tuv lang="EN">
         <seg>Note that all parameters start with a double - character.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130502T135653Z">
-        <seg>Veuillez noter que tous les paramètres commencent par un caractère double.</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130714T133300Z">
+        <seg>Notez que tous les paramètres commencent par un caractère double.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26735,8 +26735,8 @@ shown below.</seg>
       <tuv lang="EN">
         <seg>The argument &lt;e0&gt;pseudotranslatetype&lt;/e0&gt; specifies, whether the target segments are to be equal to the source, or left empty.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130502T141128Z">
-        <seg>L'argument &lt;e0&gt;pseudotranslatetype&lt;/e0&gt; précise si les segments cibles seront identiques à la source ou laissés vides.</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130714T133542Z">
+        <seg>L'argument &lt;e0&gt;pseudotranslatetype&lt;/e0&gt; précise si les segments cibles sont identiques à la source ou laissés vides.</seg>
       </tuv>
     </tu>
     <tu>
