@@ -15170,8 +15170,8 @@ may not distribute the Program at all.</seg>
 discovered a genuine problem (the log.txt is located in the user preferences
 folder, see the manual for its location).</seg>
       </tuv>
-      <tuv lang="FR" changeid="brigitte" changedate="20130714T145757Z">
-        <seg>Si les mots suivants se trouvent dans le journal : « Erreur », « Avertissement », ou bien « s'est arrêté de manière imprévue », vous avez probablement trouvé un problème. Le journal est le fichier log.txt situé dans le dossier des préférences utilisateur (consulter le manuel pour déterminer son l'emplacement).</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130715T202653Z">
+        <seg>Si les mots suivants se trouvent dans le journal : « Erreur », « Avertissement », ou bien « s'est arrêté de manière imprévue », vous avez probablement trouvé un problème. Le journal est le fichier log.txt situé dans le dossier des préférences utilisateur (consulter le guide pour déterminer son l'emplacement).</seg>
       </tuv>
     </tu>
     <tu>
@@ -40663,6 +40663,16 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <prop type="file">trunk/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">GOOGLE_API_KEY_NOTFOUND</prop>
+      <tuv lang="EN">
+        <seg>See OmegaT manual for instructions.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="brigitte" changedate="20130715T202733Z" creationid="brigitte" creationdate="20130715T202733Z">
+        <seg>Consultez le guide d'OmegaT pour obtenir des instructions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">trunk/src/org/omegat/Bundle.properties</prop>
       <prop type="id">HF_ERROR_EXTLINK_MSG</prop>
       <tuv lang="EN">
         <seg>To access this link, either copy and paste the URL to your Web browser, or open the User's Manual in your Web browser ({0} file).</seg>
@@ -40683,12 +40693,32 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <prop type="file">trunk/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">MT_ENGINE_MICROSOFT_KEY_NOTFOUND</prop>
+      <tuv lang="EN">
+        <seg>See OmegaT manual for instructions.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="brigitte" changedate="20130715T202751Z" creationid="brigitte" creationdate="20130715T202751Z">
+        <seg>Consultez le guide d'OmegaT pour obtenir des instructions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">trunk/src/org/omegat/Bundle.properties</prop>
       <prop type="id">OFC_NEW_DIR_ERROR</prop>
       <tuv lang="EN">
         <seg>An error occurred while trying to create a new folder</seg>
       </tuv>
       <tuv lang="FR" changeid="brigitte" changedate="20130715T192345Z" creationid="brigitte" creationdate="20130715T192345Z">
         <seg>Erreur lors de la tentative de création d'un nouveau dossier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">trunk/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">OUT_OF_MEMORY</prop>
+      <tuv lang="EN">
+        <seg>Installing and running OmegaT" in the User Manual.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="brigitte" changedate="20130715T202711Z" creationid="brigitte" creationdate="20130715T202711Z">
+        <seg>Installation et démarrage d'OmegaT » dans le guide de l'utilisateur.</seg>
       </tuv>
     </tu>
     <tu>
