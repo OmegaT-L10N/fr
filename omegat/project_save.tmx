@@ -28673,11 +28673,11 @@ making modifications to it.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>(Le terme « Déplacement dans le segment » signifie que le curseur ira se placer au début du segment actif s'il est positionné avant celui-ci, et qu'il ira se placer à la fin du segment actif s'il est positionné après.)
+L'expression était censé être utilisée dans le tableau suivant, d'où  l'intérêt de la définir auparavant. Mais comme il ne l'a finalement pas utilisée dans le tableau, ça ne veut pas dire grand-chose. 
+L'idée était que l'utilisation de certaines touches en dehors du segment courant provoque le retour dans le segment en question, soit au début soit à la fin.</note>
       <tuv lang="EN">
         <seg>The term "Move to inside segment" means, that the cursor moves to the beginning of the segment if it was previously before the segment, and to the end of the segment if it was previously after it.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="brigitte" changedate="20130712T174744Z">
-        <seg>Le terme « Déplacement dans le segment » signifie que le curseur ira se placer au début du segment actif s'il est positionné avant celui-ci, et qu'il ira se placer à la fin du segment actif s'il est positionné après.</seg>
       </tuv>
     </tu>
     <tu>
