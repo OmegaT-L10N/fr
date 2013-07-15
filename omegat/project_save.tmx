@@ -40733,6 +40733,16 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <prop type="file">trunk/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">ST_PROJECT_AUTOSAVED</prop>
+      <tuv lang="EN">
+        <seg>Project autosaved on {0}</seg>
+      </tuv>
+      <tuv lang="FR" changeid="brigitte" changedate="20130715T202922Z" creationid="brigitte" creationdate="20130715T202922Z">
+        <seg>Projet sauvegardé automatiquement à {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">trunk/src/org/omegat/Bundle.properties</prop>
       <prop type="id">SW_SEARCH_IN_GLOSSARIES</prop>
       <tuv lang="EN">
         <seg>Glossaries</seg>
