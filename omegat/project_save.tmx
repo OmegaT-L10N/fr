@@ -13957,8 +13957,8 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       <tuv lang="EN">
         <seg>Highlighting it in the Glossary pane and then rightclicking insets at the cursor position in the target segment.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130430T090801Z">
-        <seg>Surlignez ce mot dans le volet Glossaires et cliquez-droit dessus après avoir placé votre curseur à la bonne position dans le segment cible.</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130715T183307Z">
+        <seg>Surlignez ce mot dans le volet Glossaires et faites un clic droit dessus après avoir placé le curseur à la bonne position dans le segment cible.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19590,11 +19590,13 @@ impose that choice.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>(Notez que dans l'exemple ci-dessus, il ne s'agit que de la moitié (ou moins) de l'action, dans la mesure ou la langue cible (le slovène) utilise des déclinaisons.)
+Traduction supprimée car ne concerne pas le français.</note>
       <tuv lang="EN">
         <seg>Note that in the above case, this is just half (or even less) of the story, as the target language (Slovenian) uses declension.</seg>
       </tuv>
-      <tuv lang="FR" changeid="brigitte" changedate="20130714T132421Z">
-        <seg>Notez que dans l'exemple ci-dessus, il ne s'agit que de la moitié (ou moins) de l'action, dans la mesure ou la langue cible (le slovène) utilise des déclinaisons.</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130715T183343Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
@@ -24787,11 +24789,13 @@ REPAIR OR CORRECTION.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>(Ainsi la forme nominative « pojavni meni » doit être transformée en « pojavnem meniju », soit la forme locative.)
+Traduction supprimée car ne concerne pas le français.</note>
       <tuv lang="EN">
         <seg>So the inserted "pojavni meni" in the nominative form - has to be changed to "pojavnem meniju" , i.e. to the locative.</seg>
       </tuv>
-      <tuv lang="FR" changeid="brigitte" changedate="20130712T152647Z">
-        <seg>Ainsi la forme nominative « pojavni meni » doit être transformée en « pojavnem meniju », soit la forme locative.</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130715T183533Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
@@ -28807,8 +28811,8 @@ L'idée était que l'utilisation de certaines touches en dehors du segment coura
       <tuv lang="EN">
         <seg>The underlined item "pop-up menu" can be found in the glossary pane as "pojavni menu".</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20130527T142655Z">
-        <seg>L'élément souligné « pop-up menu » peut se trouver dans le volet Glossaires face à « pojavni menu ».</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130715T183132Z">
+        <seg>L'élément souligné « free software » figure dans le volet Glossaires face à « logiciel libre ».</seg>
       </tuv>
     </tu>
     <tu>
