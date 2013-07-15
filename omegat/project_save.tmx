@@ -8440,8 +8440,8 @@ FOR THE PROGRAM, TO THE EXTENT PERMITTED BY APPLICABLE LAW.</seg>
         <seg>Before reporting a bug, make sure that you have thoroughly checked the
 documentation.</seg>
       </tuv>
-      <tuv lang="FR">
-        <seg>Avant de faire un rapport de bogue, prenez la précaution de bien lire le manuel utilisateur.</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130715T202351Z">
+        <seg>Avant de faire un rapport de bogue, prenez la précaution de bien lire le guide de l'utilisateur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28846,8 +28846,8 @@ L'idée était que l'utilisation de certaines touches en dehors du segment coura
         <seg>The user manual is in the package you just downloaded, you can access it from
 the [Help] menu after starting OmegaT.</seg>
       </tuv>
-      <tuv lang="FR">
-        <seg>Le manuel utilisateur se trouve dans le paquet que vous avez téléchargé, vous y avez accès à partir du menu [Aide] après avoir lancé OmegaT.</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130715T202316Z">
+        <seg>Le guide de l'utilisateur se trouve dans le paquet que vous avez téléchargé, vous y avez accès à partir du menu [Aide] après avoir lancé OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30844,8 +30844,8 @@ you modify it: responsibilities to respect the freedom of others.</seg>
         <seg>To translate OmegaT's user interface, user manual or other related documents,
 read:</seg>
       </tuv>
-      <tuv lang="FR">
-        <seg>Pour traduire l'interface utilisateur, le manuel ou d'autres documents, lisez :</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130715T202337Z">
+        <seg>Pour traduire l'interface utilisateur, le guide ou d'autres documents, lisez :</seg>
       </tuv>
     </tu>
     <tu>
@@ -40663,6 +40663,26 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <prop type="file">trunk/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">HF_ERROR_EXTLINK_MSG</prop>
+      <tuv lang="EN">
+        <seg>To access this link, either copy and paste the URL to your Web browser, or open the User's Manual in your Web browser ({0} file).</seg>
+      </tuv>
+      <tuv lang="FR" changeid="brigitte" changedate="20130715T202606Z" creationid="brigitte" creationdate="20130715T202606Z">
+        <seg>Pour avoir accès à ce lien, copiez le dans votre navigateur Web ou bien consultez le guide de l'utilisateur dans votre navigateur (fichier {0}).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">trunk/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">HF_WINDOW_TITLE</prop>
+      <tuv lang="EN">
+        <seg>User's Manual</seg>
+      </tuv>
+      <tuv lang="FR" changeid="brigitte" changedate="20130715T202526Z" creationid="brigitte" creationdate="20130715T202526Z">
+        <seg>Guide de l'utilisateur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">trunk/src/org/omegat/Bundle.properties</prop>
       <prop type="id">OFC_NEW_DIR_ERROR</prop>
       <tuv lang="EN">
         <seg>An error occurred while trying to create a new folder</seg>
@@ -40689,6 +40709,28 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130531T094922Z">
         <seg>les glossaires</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">trunk/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">TF_INTRO_EMPTYPROJECT</prop>
+      <tuv lang="EN">
+        <seg>(In the user's manual, see 'Files to translate' &gt; 'File formats' for a list of supported file formats.)
+To add files to the project, click on the Copy Files to Source Folder... button in the Project Files window or call this action from the Project menu and select the source files you want to copy.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="brigitte" changedate="20130715T202441Z" creationid="brigitte" creationdate="20130715T202441Z">
+        <seg>(Voir le guide de l'utilisateur pour une liste des formats de fichier pris en charge.)
+Pour ajouter des fichiers au projet, cliquez sur le bouton « Copier des fichiers dans le dossier source... » de la fenêtre Fichiers du Projet, ou bien choisissez cette option à partir du menu Projet et ajoutez les fichiers que vous souhaitez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">trunk/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">TF_MENU_HELP_CONTENTS</prop>
+      <tuv lang="EN">
+        <seg>&amp;User's Manual...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="brigitte" changedate="20130715T202506Z" creationid="brigitte" creationdate="20130715T202506Z">
+        <seg>&amp;Guide de l'utilisateur...</seg>
       </tuv>
     </tu>
     <tu>
