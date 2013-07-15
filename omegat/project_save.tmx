@@ -3505,8 +3505,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;add the copied files to the local version of the repository:&lt;/e0&gt; right-click on the local checkout folder and select &lt;g1&gt;TortoiseSVN &gt; Add.&lt;/g1&gt; In the dialog that opens, leave all options as per default and click&lt;g2&gt; OK&lt;/g2&gt;.</seg>
       </tuv>
-      <tuv lang="FR" changeid="brigitte" changedate="20130715T190456Z">
-        <seg>&lt;e0&gt;Ajouter les fichiers copiés dans la version locale du référentiel :&lt;/e0&gt; faites un clic droit sur le dossier d'extraction local et sélectionnez &lt;g1&gt;TortoiseSVN &gt; Add&lt;/g1&gt;(Ajouter). Une boîte de dialogue s'ouvre, laissez toutes les options telles qu'elles sont réglées par défaut et cliquez sur&lt;g2&gt; OK&lt;/g2&gt;.</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130715T190717Z">
+        <seg>&lt;e0&gt;Ajout des fichiers copiés dans la version locale du référentiel :&lt;/e0&gt; faites un clic droit sur le dossier d'extraction local et sélectionnez &lt;g1&gt;TortoiseSVN &gt; Add&lt;/g1&gt;(Ajouter). Une boîte de dialogue s'ouvre, laissez toutes les options telles qu'elles sont réglées par défaut et cliquez sur&lt;g2&gt; OK&lt;/g2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3537,8 +3537,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;commit local changes to the server: &lt;/e0&gt;right-click on the local checkout folder and select &lt;g1&gt;SVN Commit....&lt;/g1&gt; The Commit window - see below opens.</seg>
       </tuv>
-      <tuv lang="FR" changeid="brigitte" changedate="20130715T190530Z">
-        <seg>&lt;e0&gt;Valider les modifications locales sur le serveur : &lt;/e0&gt;faites un clic droit sur le dossier d'extraction local et sélectionnez &lt;g1&gt;SVN Commit...&lt;/g1&gt;. La fenêtre de validation s'ouvre (voir ci-dessous).</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130715T190737Z">
+        <seg>&lt;e0&gt;Validation des modifications locales sur le serveur : &lt;/e0&gt;faites un clic droit sur le dossier d'extraction local et sélectionnez &lt;g1&gt;SVN Commit...&lt;/g1&gt;. La fenêtre de validation s'ouvre (voir ci-dessous).</seg>
       </tuv>
     </tu>
     <tu>
@@ -3617,8 +3617,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;update local files from the local repository copy&lt;/e0&gt; - the changes received from the server repository reside within the .svn subfolder but not yet in the files and folders themselves.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130415T084236Z">
-        <seg>&lt;e0&gt;mettez à jour les fichiers locaux à partir de la copie locale du référentiel&lt;/e0&gt; - les modifications reçues depuis le référentiel du serveur sont dans le sous-dossier .svn mais pas encore dans les fichiers et dans les dossiers.</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130715T190827Z">
+        <seg>&lt;e0&gt;Mise à jour les fichiers locaux à partir de la copie locale du référentiel&lt;/e0&gt; : les modifications reçues depuis le référentiel du serveur sont dans le sous-dossier .svn mais pas encore dans les fichiers et dans les dossiers.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19595,8 +19595,8 @@ Traduction supprimée car ne concerne pas le français.</note>
       <tuv lang="EN">
         <seg>Note that in the above case, this is just half (or even less) of the story, as the target language (Slovenian) uses declension.</seg>
       </tuv>
-      <tuv lang="FR" changeid="brigitte" changedate="20130715T183343Z">
-        <seg> </seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130715T191123Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -23174,8 +23174,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Right-click in the glossary pane or press &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; to add a new entry.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130430T093350Z">
-        <seg>Cliquez-droit sur le volet Glossaires ou appuyez sur &lt;k0&gt;Ctrl+Maj+G&lt;/k0&gt; pour ajouter une nouvelle entrée.</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130715T191325Z">
+        <seg>Faites un clic droit dans le volet Glossaires ou appuyez sur &lt;k0&gt;Ctrl+Maj+G&lt;/k0&gt; pour ajouter une nouvelle entrée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23190,8 +23190,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Right-click on the panel - &lt;e0&gt;Add New Launcher.&lt;/e0&gt;</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130502T114512Z">
-        <seg>Cliquez-droit sur le panneau - &lt;e0&gt;Ajouter un nouveau Lanceur.&lt;/e0&gt;</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130715T191349Z">
+        <seg>faites un clic droit sur le panneau - &lt;e0&gt;Ajouter un nouveau Lanceur.&lt;/e0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -24786,8 +24786,8 @@ Traduction supprimée car ne concerne pas le français.</note>
       <tuv lang="EN">
         <seg>So it is probably faster to type the term correctly right away without bothering with the glossary and its shortcuts.</seg>
       </tuv>
-      <tuv lang="FR" changeid="brigitte" changedate="20130715T183548Z">
-        <seg> </seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130715T191148Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -24796,8 +24796,8 @@ Traduction supprimée car ne concerne pas le français.</note>
       <tuv lang="EN">
         <seg>So the inserted "pojavni meni" in the nominative form - has to be changed to "pojavnem meniju" , i.e. to the locative.</seg>
       </tuv>
-      <tuv lang="FR" changeid="brigitte" changedate="20130715T183533Z">
-        <seg> </seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130715T191132Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -28685,8 +28685,8 @@ L'idée était que l'utilisation de certaines touches en dehors du segment coura
       <tuv lang="EN">
         <seg>The term "Move to inside segment" means, that the cursor moves to the beginning of the segment if it was previously before the segment, and to the end of the segment if it was previously after it.</seg>
       </tuv>
-      <tuv lang="FR" changeid="brigitte" changedate="20130715T180256Z">
-        <seg> </seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130715T191018Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -30282,8 +30282,8 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="EN">
         <seg>To access &lt;a0&gt;&lt;e1&gt;Info.plist&lt;/e1&gt;&lt;/a0&gt;, right-click on &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.app&lt;/e2&gt; and select "Show Package Contents", then open the file by right-clicking on it and selecting your text editor of choice.</seg>
       </tuv>
-      <tuv lang="FR" changeid="brigitte" changedate="20130714T095927Z">
-        <seg>Pour accéder à &lt;a0&gt;&lt;e1&gt;Info.plist&lt;/e1&gt;&lt;/a0&gt;, cliquez-droit sur &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.app&lt;/e2&gt; et sélectionnez « Afficher le contenu du paquet », puis ouvrez le fichier en cliquant-droit dessus et en sélectionnant l'éditeur de texte de votre choix.</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130715T191448Z">
+        <seg>Pour accéder à &lt;a0&gt;&lt;e1&gt;Info.plist&lt;/e1&gt;&lt;/a0&gt;, faites un clic droit sur &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.app&lt;/e2&gt; et sélectionnez « Afficher le contenu du paquet », puis ouvrez le fichier avec un clic droit et en sélectionnant l'éditeur de texte de votre choix.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30410,8 +30410,8 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="EN">
         <seg>To create one, right-click in a segment, and select "&lt;e2&gt;Set empty translation&lt;/e2&gt;".</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20130527T133540Z">
-        <seg>Pour créer une traduction vide, cliquez-droit dans un des segments et sélectionnez « &lt;e2&gt;Définir traduction vide&lt;/e2&gt; ».</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130715T191300Z">
+        <seg>Pour créer une traduction vide, faites un clic droit dans un des segments et sélectionnez « &lt;e2&gt;Définir traduction vide&lt;/e2&gt; ».</seg>
       </tuv>
     </tu>
     <tu>
@@ -30860,8 +30860,8 @@ read:</seg>
       <tuv lang="EN">
         <seg>To update the local files, right-click on the checkout folder and select &lt;g1&gt;SVN Update&lt;/g1&gt;.</seg>
       </tuv>
-      <tuv lang="FR" changeid="brigitte" changedate="20130714T144140Z">
-        <seg>Pour mettre à jour les fichiers locaux, cliquez-droit sur le dossier d'extraction et sélectionnez &lt;g1&gt;SVN Update&lt;/g1&gt;.</seg>
+      <tuv lang="FR" changeid="brigitte" changedate="20130715T190908Z">
+        <seg>Pour mettre à jour les fichiers locaux, faites un clic droit sur le dossier d'extraction et sélectionnez &lt;g1&gt;SVN Update&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
