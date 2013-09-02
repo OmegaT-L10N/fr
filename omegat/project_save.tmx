@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.4_1" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.4_3" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -19067,6 +19067,22 @@ impose that choice.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130404T142536Z">
         <seg>MyMemory</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>MyMemory (human)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130902T091135Z" creationid="Didier" creationdate="20130902T091135Z">
+        <seg>MyMemory (traduction humaine)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>MyMemory (machine)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130902T091145Z" creationid="Didier" creationdate="20130902T091145Z">
+        <seg>MyMemory (traduction automatique)</seg>
       </tuv>
     </tu>
     <tu>
