@@ -312,6 +312,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Auto-text...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130913T161928Z" creationid="Didier" creationdate="20130913T161928Z">
+        <seg>&amp;Texte automatique...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Automatically check the spelling of text</seg>
       </tuv>
       <tuv lang="FR">
@@ -356,6 +364,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="FR">
         <seg>&amp;Annuler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Character table...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130913T161940Z" creationid="Didier" creationdate="20130913T161940Z">
+        <seg>&amp;Table de caractères...</seg>
       </tuv>
     </tu>
     <tu>
@@ -548,6 +564,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20111111T124800Z">
         <seg>&amp;Glossaires</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Glossary...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130913T161918Z" creationid="Didier" creationdate="20130913T161918Z">
+        <seg>&amp;Glossaire...</seg>
       </tuv>
     </tu>
     <tu>
