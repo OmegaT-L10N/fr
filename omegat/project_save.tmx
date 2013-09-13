@@ -8252,6 +8252,22 @@ provoquer des comportements inattendus, mais corrects.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Auto-completer Glossary View configuration</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130913T165426Z" creationid="Didier" creationdate="20130913T165426Z">
+        <seg>Configuration de la vue Glossaire de la saisie automatique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Auto-text entries:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130913T165632Z" creationid="Didier" creationdate="20130913T165632Z">
+        <seg>Entrées de texte automatique :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Automatic Java Properties Aligner</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130421T135242Z">
@@ -10724,6 +10740,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Displays the entries as "&lt;target&gt; → &lt;source&gt;"</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130913T165538Z" creationid="Didier" creationdate="20130913T165538Z">
+        <seg>Affiche les entrées sous la forme « &lt;cible&gt; → &lt;source&gt; »</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Displays the glossary entries found in the glossary files located in the /glossary/ folder if they are present in the source segment.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20120307T083817Z">
@@ -12673,6 +12697,14 @@ patents.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Follow capitalization of the typed text</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130913T165619Z" creationid="Didier" creationdate="20130913T165619Z">
+        <seg>Suivre la capitalisation du texte tapé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Follow the indications given in Hints for tags management.</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130416T232109Z">
@@ -14472,6 +14504,14 @@ circumstances.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130503T094426Z">
         <seg>S'il est coché, les segments source seront affichés et surlignés en vert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If checked, the entries are sorted alphabetically.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130913T165408Z" creationid="Didier" creationdate="20130913T165408Z">
+        <seg>Si cochée, les entrées sont triées par ordre alphabétique.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24737,10 +24777,26 @@ REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Show definition first</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130913T165518Z" creationid="Didier" creationdate="20130913T165518Z">
+        <seg>Afficher la traduction en premier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Show longer definitions first</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130913T162419Z" creationid="Didier" creationdate="20130913T162419Z">
         <seg>Afficher les définitions les plus longues en premier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show source term first</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130913T165550Z" creationid="Didier" creationdate="20130913T165550Z">
+        <seg>Afficher le terme source en premier</seg>
       </tuv>
     </tu>
     <tu>
@@ -25026,6 +25082,22 @@ of the GPL, as needed to protect the freedom of users.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130507T071432Z">
         <seg>Il peut s'avérer intéressant de distinguer les mémoires de traduction de très bonne qualité de celles qui sont moins fiables en raison du sujet, du client, du statut de la révision, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sort by source term alphabetically</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130913T165341Z" creationid="Didier" creationdate="20130913T165341Z">
+        <seg>Trier par ordre alphabétique des termes source</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sort definitions alphabetically</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130913T165353Z" creationid="Didier" creationdate="20130913T165353Z">
+        <seg>Trier les traductions par ordre alphabétique</seg>
       </tuv>
     </tu>
     <tu>
@@ -26158,6 +26230,14 @@ material under section 10.</seg>
       </tuv>
       <tuv lang="FR" changeid="brigitte" changedate="20130712T150737Z">
         <seg>Les termes du segment en cours qu'&lt;a3&gt;OmegaT&lt;/a3&gt; trouve dans le(s) fichier(s) glossaire sont affichés dans le volet Glossaires :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Terms with multiple definitions</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130913T165603Z" creationid="Didier" creationdate="20130913T165603Z">
+        <seg>Termes comportant plusieurs traductions</seg>
       </tuv>
     </tu>
     <tu>
