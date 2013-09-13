@@ -680,6 +680,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Load...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130913T165736Z" creationid="Didier" creationdate="20130913T165736Z">
+        <seg>&amp;Charger...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Lower Case</seg>
       </tuv>
       <tuv lang="FR">
@@ -924,6 +932,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="FR">
         <seg>&amp;Enregistrer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Save...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130913T165741Z" creationid="Didier" creationdate="20130913T165741Z">
+        <seg>&amp;Enregistrer...</seg>
       </tuv>
     </tu>
     <tu>
@@ -8260,10 +8276,26 @@ provoquer des comportements inattendus, mais corrects.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Auto-text configuration</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130913T165723Z" creationid="Didier" creationdate="20130913T165723Z">
+        <seg>Configuration du texte automatique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Auto-text entries:</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130913T165632Z" creationid="Didier" creationdate="20130913T165632Z">
         <seg>Entrées de texte automatique :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Auto-text file</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130913T165806Z" creationid="Didier" creationdate="20130913T165806Z">
+        <seg>Fichier de texte automatique</seg>
       </tuv>
     </tu>
     <tu>
@@ -8980,6 +9012,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Character table auto-completer options</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130913T165851Z" creationid="Didier" creationdate="20130913T165851Z">
+        <seg>Options de la table de caractères de la saisie automatique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Characters (including spaces)</seg>
       </tuv>
       <tuv lang="FR">
@@ -9372,6 +9412,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (responsable du développement), Kim 
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20101112T171425Z">
         <seg>&amp;Commentaires</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Comment</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130913T165831Z" creationid="Didier" creationdate="20130913T165831Z">
+        <seg>Commentaire</seg>
       </tuv>
     </tu>
     <tu>
@@ -10276,6 +10324,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Customize character table</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130913T165900Z" creationid="Didier" creationdate="20130913T165900Z">
+        <seg>Personnaliser la table de caractères</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Customizing the Fuzzy matches pane</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130507T115944Z">
@@ -10568,6 +10624,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
       <tuv lang="FR">
         <seg>Afficher &amp;tous les résultats</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Display</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130913T165728Z" creationid="Didier" creationdate="20130913T165728Z">
+        <seg>Affichage</seg>
       </tuv>
     </tu>
     <tu>
@@ -11650,6 +11714,14 @@ by the Free Software Foundation.</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130421T213848Z">
         <seg>Entrez votre nom d'utilisateur et votre mot de passe si vous utilisez un proxy pour accéder à vos projets.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Entries</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130913T165732Z" creationid="Didier" creationdate="20130913T165732Z">
+        <seg>Entrées</seg>
       </tuv>
     </tu>
     <tu>
@@ -13338,6 +13410,14 @@ authors of previous versions.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130507T120836Z">
         <seg>Chemin d'accès complet à la TMX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Full text</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130913T165829Z" creationid="Didier" creationdate="20130913T165829Z">
+        <seg>Texte complet</seg>
       </tuv>
     </tu>
     <tu>
@@ -24713,6 +24793,14 @@ REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Shortcut</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130913T165825Z" creationid="Didier" creationdate="20130913T165825Z">
+        <seg>Raccourci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Shortcuts are activated by pressing &lt;k0&gt;Ctrl&lt;/k0&gt; and a letter.</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130420T215308Z">
@@ -25082,6 +25170,30 @@ of the GPL, as needed to protect the freedom of users.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130507T071432Z">
         <seg>Il peut s'avérer intéressant de distinguer les mémoires de traduction de très bonne qualité de celles qui sont moins fiables en raison du sujet, du client, du statut de la révision, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sort alphabetically</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130913T165703Z" creationid="Didier" creationdate="20130913T165703Z">
+        <seg>Trier par ordre alphabétique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sort by full text, not shortcut</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130913T165715Z" creationid="Didier" creationdate="20130913T165715Z">
+        <seg>Trier par texte étendu, pas par raccourci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sort by length</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130913T165638Z" creationid="Didier" creationdate="20130913T165638Z">
+        <seg>Trier par longueur</seg>
       </tuv>
     </tu>
     <tu>
@@ -31677,6 +31789,14 @@ Kaptain.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Impossible de lire le fichier projet !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unable to save data.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130913T165818Z" creationid="Didier" creationdate="20130913T165818Z">
+        <seg>Impossible d'enregistrer les données.</seg>
       </tuv>
     </tu>
     <tu>
