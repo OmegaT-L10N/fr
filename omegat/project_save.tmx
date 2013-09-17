@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.5" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.4_3" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -24913,10 +24913,26 @@ REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Show longer target terms first</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130917T085345Z" creationid="Didier" creationdate="20130917T085345Z">
+        <seg>Afficher les termes cible les plus longs en premier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Show source term first</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130913T165550Z" creationid="Didier" creationdate="20130913T165550Z">
         <seg>Afficher le terme source en premier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show target term first</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130917T085440Z" creationid="Didier" creationdate="20130917T085440Z">
+        <seg>Afficher le terme cible en premier</seg>
       </tuv>
     </tu>
     <tu>
@@ -25242,6 +25258,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130913T165353Z" creationid="Didier" creationdate="20130913T165353Z">
         <seg>Trier les traductions par ordre alphabétique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sort target terms alphabetically</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130917T085417Z" creationid="Didier" creationdate="20130917T085417Z">
+        <seg>Trier les termes cible par ordre alphabétique</seg>
       </tuv>
     </tu>
     <tu>
