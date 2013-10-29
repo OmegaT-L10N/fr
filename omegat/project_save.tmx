@@ -9860,6 +9860,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create Current Translated &amp;Document</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20131029T133731Z" creationid="Didier" creationdate="20131029T133731Z">
+        <seg>Créer le document &amp;actuel traduit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create Glossary Entry</seg>
       </tuv>
       <tuv lang="FR" changeid="laurieetclémentine" changedate="20130411T134136Z">
@@ -12945,6 +12953,14 @@ control compilation and installation of the executable.</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130419T184659Z">
         <seg>Pour un ouvrage exécutable, le code source intégral désigne la totalité du code source de la totalité des modules qu'il contient, ainsi que les éventuels fichiers de définition des interfaces qui y sont associés, ainsi que les scripts utilisés pour contrôler la compilation et l'installation de l'exécutable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For best results, please install the appropriate dictionaries via Options &gt; Spell Checking.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20131029T133441Z" creationid="Didier" creationdate="20131029T133441Z">
+        <seg>Pour obtenir les meilleurs résultats, veuillez installer les dictionnaires appropriés avec Options &gt; Orthographe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20873,6 +20889,14 @@ with exactly the same structure, including copies of any non-supported files.</s
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130527T130713Z">
         <seg>Les scripts d'OmegaT permettent d'exécuter dans OmegaT des scripts écrits dans différents langages de script.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT-{0}</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20131029T133503Z" creationid="Didier" creationdate="20131029T133503Z">
+        <seg>OmegaT-{0}</seg>
       </tuv>
     </tu>
     <tu>
