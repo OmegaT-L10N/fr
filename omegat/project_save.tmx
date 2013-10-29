@@ -32934,6 +32934,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Warning!</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20131029T133204Z" creationid="Didier" creationdate="20131029T133204Z">
+        <seg>Avertissement !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Warning: Changing tag order may break the translated document!</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130125T164715Z">
@@ -33968,6 +33976,14 @@ this License.</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130419T191002Z">
         <seg>Vous n'avez pas la responsabilité d'imposer le respect de la présente Licence à des tiers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You are trying to use the HunspellTokenizer with the language {0}, but no spelling dictionaries are installed for this language.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20131029T133351Z" creationid="Didier" creationdate="20131029T133351Z">
+        <seg>Vous essayez d'utiliser le lemmatiseur Hunspell avec la langue {0}, mais aucun dictionnaire orthographique n'est installé pour cette langue.</seg>
       </tuv>
     </tu>
     <tu>
