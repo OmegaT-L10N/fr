@@ -8316,6 +8316,14 @@ provoquer des comportements inattendus, mais corrects.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Auto-text file (*.autotext)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20131109T115117Z" creationid="Didier" creationdate="20131109T115117Z">
+        <seg>Fichier de texte automatique (*.autotext)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Automatic Java Properties Aligner</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130421T135242Z">
@@ -12632,6 +12640,14 @@ The FSF strongly urges you not to use this translation as the official distribu-
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>File: {0}</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20131109T115057Z" creationid="Didier" creationdate="20131109T115057Z">
+        <seg>Fichier : {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Filename</seg>
       </tuv>
       <tuv lang="FR">
@@ -12942,6 +12958,14 @@ Tutorial.</seg>
       </tuv>
       <tuv lang="FR" changeid="etudiant_local" changedate="20130410T123850Z">
         <seg>Pour les utilisateurs confirmés, ce chapitre décrit le mode ligne de commande et ses possibilités.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For all files:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20131109T115104Z" creationid="Didier" creationdate="20131109T115104Z">
+        <seg>Pour tous les fichiers :</seg>
       </tuv>
     </tu>
     <tu>
@@ -18751,6 +18775,22 @@ impose that choice.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Match Statistics per &amp;File</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20131109T115000Z" creationid="Didier" creationdate="20131109T115000Z">
+        <seg>Statistiques des correspondances par &amp;fichier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Match Statistics per File</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20131109T115014Z" creationid="Didier" creationdate="20131109T115014Z">
+        <seg>Statistiques des correspondances par fichier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Match display template</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20120515T073714Z">
@@ -20889,14 +20929,6 @@ with exactly the same structure, including copies of any non-supported files.</s
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130527T130713Z">
         <seg>Les scripts d'OmegaT permettent d'exécuter dans OmegaT des scripts écrits dans différents langages de script.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>OmegaT-{0}</seg>
-      </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20131029T133503Z" creationid="Didier" creationdate="20131029T133503Z">
-        <seg>OmegaT-{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -23207,10 +23239,26 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Repetitions from other files:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20131109T115052Z" creationid="Didier" creationdate="20131109T115052Z">
+        <seg>Répétitions depuis d'autres fichiers :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Repetitions stand for identical segments present several times in the text.</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130426T181826Z">
         <seg>Les répétitions sont des segments identiques qui apparaissent plusieurs fois dans le texte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repetitions within this file:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20131109T115023Z" creationid="Didier" creationdate="20131109T115023Z">
+        <seg>Répétitions dans ce fichier :</seg>
       </tuv>
     </tu>
     <tu>
