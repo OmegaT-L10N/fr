@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.6" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.7" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -32762,6 +32762,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="FR" changeid="laurieetclémentine" changedate="20130411T140304Z">
         <seg>Valider les balises</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Validate Tags for &amp;Current Document</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20131109T165937Z" creationid="Didier" creationdate="20131109T165937Z">
+        <seg>Valider les balises pour le document &amp;actuel</seg>
       </tuv>
     </tu>
     <tu>
