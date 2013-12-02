@@ -552,6 +552,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Force shortcut to "f" for &lt;it pos="end"&gt; tags (applies to 3.x filter only)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20131202T120201Z" creationid="Didier" creationdate="20131202T120201Z">
+        <seg>&amp;Forcer le raccourci à « f » pour les balises &lt;it pos="end"&gt; (ne s'applique qu'au filtre 3.x)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Forward in History</seg>
       </tuv>
       <tuv lang="FR">
@@ -2187,6 +2195,14 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>50 % à 74 % :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20131202T120100Z" creationid="Didier" creationdate="20131202T120100Z">
+        <seg>51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA</seg>
       </tuv>
     </tu>
     <tu>
