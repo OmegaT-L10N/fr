@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.7_1" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.8_1" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -552,6 +552,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Force shortcut to "f" for &lt;it pos="end"&gt; tags</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20131230T125342Z" creationid="Didier" creationdate="20131230T125342Z">
+        <seg>&amp;Forcer le raccourci à « f » pour les balises &lt;it pos="end"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Force shortcut to "f" for &lt;it pos="end"&gt; tags (applies to 3.x filter only)</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20131202T120201Z" creationid="Didier" creationdate="20131202T120201Z">
@@ -604,6 +612,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Ai&amp;de</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Ignore type and ctype attributes when building &lt;ph&gt; tag shortcuts</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20131230T125440Z" creationid="Didier" creationdate="20131230T125440Z">
+        <seg>&amp;Ignorer les attributs type et ctype en construisant les raccourcis des balises &lt;ph&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20983,14 +20999,6 @@ with exactly the same structure, including copies of any non-supported files.</s
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>OmegaT-{0}</seg>
-      </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20131125T151543Z" creationid="Didier" creationdate="20131125T151543Z">
-        <seg>OmegaT-{0}</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>OmegaT-{0}_{1}</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130708T094518Z" creationid="Didier" creationdate="20130708T094518Z">
@@ -27856,6 +27864,14 @@ instead.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130528T083640Z">
         <seg>Le liste suivante inclut des expressions qui pourront vous être utiles si vous effectuez des recherches dans la mémoire de traduction :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The following options apply to the 3.x filter only</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20131230T125332Z" creationid="Didier" creationdate="20131230T125332Z">
+        <seg>Les options suivantes ne s'appliquent qu'au filtre 3.x</seg>
       </tuv>
     </tu>
     <tu>
