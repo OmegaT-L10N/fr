@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.8_1" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.8_3" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -32956,6 +32956,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T103601Z">
         <seg>Venda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Version 3, 29 June 2007</seg>
+      </tuv>
+      <tuv lang="FR" changeid="brigitte" changedate="20140129T224448Z" creationid="brigitte" creationdate="20140129T224448Z">
+        <seg>Version 3, 29 June 2007</seg>
       </tuv>
     </tu>
     <tu>
