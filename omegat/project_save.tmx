@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.8_3" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.0" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8912,6 +8912,14 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20111213T152725Z">
         <seg>Fichiers Camtasia pour Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cancel</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140203T140206Z" creationid="Didier" creationdate="20140203T140206Z">
+        <seg>Annuler</seg>
       </tuv>
     </tu>
     <tu>
@@ -23241,6 +23249,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove Filter</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140203T140222Z" creationid="Didier" creationdate="20140203T140222Z">
+        <seg>Supprimer le filtre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove HTML comments in translated document</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20120914T162208Z">
@@ -23385,10 +23401,34 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Replace</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140203T140117Z" creationid="Didier" creationdate="20140203T140117Z">
+        <seg>Remplacer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Replace &lt;l0&gt;&lt;filename&gt;&lt;/l0&gt; with the name of the file you wish to create, either absolute or relative to the working folder (the folder you start &lt;a1&gt;OmegaT&lt;/a1&gt; from).</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130528T124410Z">
         <seg>Remplacez &lt;l0&gt;&lt;nom de fichier&gt;&lt;/l0&gt; par le nom du fichier que vous voulez créer, absolu ou relatif au dossier de travail en cours (le dossier à partir duquel vous lancez &lt;a1&gt;OmegaT&lt;/a1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replace All</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140203T140123Z" creationid="Didier" creationdate="20140203T140123Z">
+        <seg>Remplacer tout</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replace Next</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140203T140202Z" creationid="Didier" creationdate="20140203T140202Z">
+        <seg>Remplacer suivant</seg>
       </tuv>
     </tu>
     <tu>
@@ -23453,6 +23493,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130421T225912Z">
         <seg>Remplacer par la source</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replace with:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140203T140349Z" creationid="Didier" creationdate="20140203T140349Z">
+        <seg>Remplacer par :</seg>
       </tuv>
     </tu>
     <tu>
@@ -24119,6 +24167,14 @@ REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Recherche dans les &amp;MT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search and Replace...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140203T140340Z" creationid="Didier" creationdate="20140203T140340Z">
+        <seg>Rechercher et rem&amp;placer...</seg>
       </tuv>
     </tu>
     <tu>
@@ -25239,6 +25295,14 @@ REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130411T091242Z">
         <seg>Gingalais, Singhalais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Skip</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140203T140128Z" creationid="Didier" creationdate="20140203T140128Z">
+        <seg>Ignorer</seg>
       </tuv>
     </tu>
     <tu>
