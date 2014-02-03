@@ -2082,6 +2082,22 @@ le programme d'installation peut créer des raccourcis pour vous dans le menu d�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>1 conflict</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140203T140837Z" creationid="Didier" creationdate="20140203T140837Z">
+        <seg>1 conflit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>1 segment</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140203T140821Z" creationid="Didier" creationdate="20140203T140821Z">
+        <seg>1 segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>1) Reduce the number of source files and translate in batches;</seg>
       </tuv>
       <tuv lang="FR" changeid="jchelary" changedate="20130526T101125Z">
@@ -10622,6 +10638,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Details unavailable</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140203T140843Z" creationid="Didier" creationdate="20140203T140843Z">
+        <seg>Détails non disponibles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dictionaries</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130412T132454Z">
@@ -11074,6 +11098,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
       <tuv lang="FR">
         <seg>Souhaitez-vous vraiment quitter ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do you want to continue?</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140203T140739Z" creationid="Didier" creationdate="20140203T140739Z">
+        <seg>Voulez-vous continuer ?</seg>
       </tuv>
     </tu>
     <tu>
@@ -19041,6 +19073,14 @@ impose that choice.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Merge</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140203T140745Z" creationid="Didier" creationdate="20140203T140745Z">
+        <seg>Fusionner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Merriam Webster dictionary - use</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130412T134548Z">
@@ -22153,6 +22193,14 @@ pour déterminer la source de l'erreur et faites une nouvelle tentative.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130412T135924Z">
         <seg>Veuillez effectuer à nouveau la validation des balises.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please resolve the conflicts by choosing a translation for each segment below.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140203T140804Z" creationid="Didier" creationdate="20140203T140804Z">
+        <seg>Veuillez résoudre les conflits en choisissant une traduction pour tous les segments ci-dessous.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26768,6 +26816,14 @@ material under section 10.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130531T094133Z">
         <seg>Options du filtre Texte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Text Replace</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140203T140716Z" creationid="Didier" creationdate="20140203T140716Z">
+        <seg>Remplacement de texte</seg>
       </tuv>
     </tu>
     <tu>
@@ -34309,6 +34365,14 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You are going to modify {0} segments.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140203T140726Z" creationid="Didier" creationdate="20140203T140726Z">
+        <seg>Vous allez modifier {0} segments.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You are not required to accept this License in order to receive or
 run a copy of the Program. Ancillary propagation of a covered work
 occurring solely as a consequence of using peer-to-peer transmission
@@ -41395,10 +41459,26 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>{0} conflicts</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140203T140834Z" creationid="Didier" creationdate="20140203T140834Z">
+        <seg>{0} conflits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>{0} loaded.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20110717T180048Z">
         <seg>{0} chargé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0} segments</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140203T140819Z" creationid="Didier" creationdate="20140203T140819Z">
+        <seg>{0} segments</seg>
       </tuv>
     </tu>
     <tu>
