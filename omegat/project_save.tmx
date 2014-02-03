@@ -2130,6 +2130,14 @@ le programme d'installation peut créer des raccourcis pour vous dans le menu d�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>11.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140203T141253Z" creationid="Didier" creationdate="20140203T141253Z">
+        <seg>11.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>12719: Info: Source tokenizer: org.omegat.core.matching.Tokenizer 12719: Info: Target tokenizer: org.omegat.core.matching.Tokenizer</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T104241Z">
@@ -9642,6 +9650,22 @@ Zoltan Bartko, Volker Berlin, Didier Briel (responsable du développement), Kim 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Conflict resolution</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140203T141237Z" creationid="Didier" creationdate="20140203T141237Z">
+        <seg>Résolution de conflit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Conflict {0} of {1}</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140203T141251Z" creationid="Didier" creationdate="20140203T141251Z">
+        <seg>Conflit {0} sur {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Conflicts - for instance alternative translations of the same segment or glossary entry - can be monitored, resolved and merged</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130415T073642Z">
@@ -11186,6 +11210,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130416T141021Z">
         <seg>Fichiers DokuWiki (*.txt)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Done</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140203T141218Z" creationid="Didier" creationdate="20140203T141218Z">
+        <seg>Terminer</seg>
       </tuv>
     </tu>
     <tu>
@@ -22505,6 +22537,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Processing...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140203T141244Z" creationid="Didier" creationdate="20140203T141244Z">
+        <seg>Traitemetn en cours...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130421T001839Z">
@@ -32699,6 +32739,30 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="FR" changeid="laurieetclémentine" changedate="20130411T140434Z">
         <seg>Utiliser TAB pour valider</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use all mine</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140203T141148Z" creationid="Didier" creationdate="20140203T141148Z">
+        <seg>Utiliser toutes mes traductions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use all original</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140203T141204Z" creationid="Didier" creationdate="20140203T141204Z">
+        <seg>Utiliser toutes les originales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use all updated</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140203T141215Z" creationid="Didier" creationdate="20140203T141215Z">
+        <seg>Utiliser toutes les mises à jour</seg>
       </tuv>
     </tu>
     <tu>
