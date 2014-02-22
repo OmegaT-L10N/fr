@@ -368,6 +368,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Character Table...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140222T151004Z" creationid="Didier" creationdate="20140222T151004Z">
+        <seg>&amp;Table de caractères...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Character table...</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130913T161940Z" creationid="Didier" creationdate="20130913T161940Z">
@@ -19425,6 +19433,14 @@ impose that choice.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Move First</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140222T151013Z" creationid="Didier" creationdate="20140222T151013Z">
+        <seg>Glisser vers le haut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Move U&amp;p</seg>
       </tuv>
       <tuv lang="FR">
@@ -21147,14 +21163,6 @@ with exactly the same structure, including copies of any non-supported files.</s
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130527T130713Z">
         <seg>Les scripts d'OmegaT permettent d'exécuter dans OmegaT des scripts écrits dans différents langages de script.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>OmegaT-{0}</seg>
-      </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20140206T101848Z" creationid="Didier" creationdate="20140206T101848Z">
-        <seg>OmegaT-{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -23237,6 +23245,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130424T074520Z">
         <seg>Outils d'expressions régulières et exemples d'utilisation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Register Identical Translation</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140222T150947Z" creationid="Didier" creationdate="20140222T150947Z">
+        <seg>Enregistrer une traduction identique à la source</seg>
       </tuv>
     </tu>
     <tu>
