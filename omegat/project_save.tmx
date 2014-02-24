@@ -17593,6 +17593,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Java Resource Bundles Filter Options</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140224T151325Z" creationid="Didier" creationdate="20140224T151325Z">
+        <seg>Options du filtre Paquets de ressources Java</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Java Web Start ensures that the latest version of the application will be deployed, as well as the correct version of the Java Runtime Environment (JRE) used.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130527T150307Z">
@@ -18887,6 +18895,14 @@ impose that choice.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Marquer les segments &amp;non traduits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark Auto-Populated Segments</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140224T151527Z" creationid="Didier" creationdate="20140224T151527Z">
+        <seg>Marquer les segments traduits à partir du dossier auto</seg>
       </tuv>
     </tu>
     <tu>
@@ -24189,6 +24205,14 @@ REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Save auto-populated status</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140224T151506Z" creationid="Didier" creationdate="20140224T151506Z">
+        <seg>Enregistrer l'état des traductions issues du dossier auto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Save then the file and relaunch &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="laurieetclémentine" changedate="20130411T132500Z">
@@ -27408,6 +27432,14 @@ Public License instead of this License. But first, please read
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130528T125157Z">
         <seg>Le volet Glossaires vous permet d'accéder à votre propre collection d'expressions et de terminologies spécialisées (que vous avez créées et enregistrées dans vos fichiers glossaires).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Java Resource Bundles filter threw an exception:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140224T151345Z" creationid="Didier" creationdate="20140224T151345Z">
+        <seg>Le filtre Paquets de ressources Java a généré une exception :</seg>
       </tuv>
     </tu>
     <tu>
