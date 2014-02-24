@@ -7818,6 +7818,14 @@ the predecessor has it or can get it with reasonable efforts.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An error occurred while trying to run console process: {0}</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140224T152158Z" creationid="Didier" creationdate="20140224T152158Z">
+        <seg>Une erreur s'est produite en essayant d'exécuter un processus console : {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An exact search looks for a phrase, i.e. if several words are entered, they are found only if they occur in exactly that sequence.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130528T084034Z">
@@ -21237,6 +21245,14 @@ with exactly the same structure, including copies of any non-supported files.</s
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130527T130713Z">
         <seg>Les scripts d'OmegaT permettent d'exécuter dans OmegaT des scripts écrits dans différents langages de script.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT-{0}</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140224T152135Z" creationid="Didier" creationdate="20140224T152135Z">
+        <seg>OmegaT-{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -41465,6 +41481,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T103611Z">
         <seg>vol</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>vs</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140224T152201Z" creationid="Didier" creationdate="20140224T152201Z">
+        <seg>vs</seg>
       </tuv>
     </tu>
     <tu>
