@@ -2975,6 +2975,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt; &lt;/e0&gt; is Copyright © 2000-2013 Keith Godfrey, Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik, Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Martin Wunderlich and Michael Zakharov.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140414T133932Z" creationid="Didier" creationdate="20140414T133932Z">
+        <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;&lt;/e0&gt; est protégé par le copyright © 2000-2013 Keith Godfrey, Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik, Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Martin Wunderlich et Michael Zakharov.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt; &lt;/e0&gt; is Copyright © 2000-2013 Keith Godfrey, Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik, Thomas Cordonnier, Sandra Jean Chua, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Martin Wunderlich and Michael Zakharov.</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130519T102128Z">
@@ -10128,6 +10136,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create Current Translated Documents</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140414T134042Z" creationid="Didier" creationdate="20140414T134042Z">
+        <seg>Créer le document actuel traduit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create Glossary Entry</seg>
       </tuv>
       <tuv lang="FR" changeid="laurieetclémentine" changedate="20130411T134136Z">
@@ -10472,6 +10488,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+K</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140414T134053Z" creationid="Didier" creationdate="20140414T134053Z">
+        <seg>Ctrl+K</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+L</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T103801Z">
@@ -10584,6 +10608,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+T</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140414T134049Z" creationid="Didier" creationdate="20140414T134049Z">
+        <seg>Ctrl+T</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+U</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T103959Z">
@@ -10604,6 +10636,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T103804Z">
         <seg>Ctrl+Z</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+↑</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140414T134112Z" creationid="Didier" creationdate="20140414T134112Z">
+        <seg>Ctrl+↑</seg>
       </tuv>
     </tu>
     <tu>
@@ -21255,6 +21295,14 @@ selecting, obtaining and installing it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT stores your translations and proposes possible translations from similar segments registered in the translation memory files.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140414T133855Z" creationid="Didier" creationdate="20140414T133855Z">
+        <seg>OmegaT enregistre vos traductions et propose des traductions possibles en fonction des segments similaires présents dans les fichiers mémoires préexistants.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT supports imported tmx versions 1.1-1.4b (both level 1 and level 2).</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130507T082824Z">
@@ -24139,6 +24187,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Right-click on a button from "&lt;1&gt;" to "&lt;12&gt;" in the bottom panel and select "Add".</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140414T133953Z" creationid="Didier" creationdate="20140414T133953Z">
+        <seg>Faites un clic droit sur un des boutons allant de « &lt;1&gt; » à « &lt;12&gt; » dans le panneau inférieur et sélectionnez « Ajouter ».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Right-click on a button from "&lt;1&gt;" to "&lt;5&gt;" in the bottom panel and select "Add".</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130527T130733Z">
@@ -25285,6 +25341,14 @@ REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select Previous Match</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140414T134110Z" creationid="Didier" creationdate="20140414T134110Z">
+        <seg>Choisir la correspondance précédente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select it and confirm with OK.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130502T114804Z">
@@ -25533,6 +25597,14 @@ REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Shift+Ctrl+D</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140414T134043Z" creationid="Didier" creationdate="20140414T134043Z">
+        <seg>Shift+Ctrl+D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Shift+Ctrl+G</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130412T080939Z">
@@ -25545,6 +25617,14 @@ REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130412T080824Z">
         <seg>Maj+Ctrl+I</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shift+Ctrl+N</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140414T134010Z" creationid="Didier" creationdate="20140414T134010Z">
+        <seg>Shift+Ctrl+N</seg>
       </tuv>
     </tu>
     <tu>
@@ -30609,6 +30689,14 @@ under the terms of this General Public License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This adds a new submenu&lt;g0&gt; Tools &gt; &lt;/g0&gt;&lt;g1&gt;Scripting.&lt;/g1&gt; Below the &lt;g2&gt;Scripting&lt;/g2&gt; submenu , there's 12 place holders available for scripts.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140414T133943Z" creationid="Didier" creationdate="20140414T133943Z">
+        <seg>Un nouveau sous-menu est ajouté : &lt;g0&gt; Outils &gt; &lt;/g0&gt;&lt;g1&gt;Scripts.&lt;/g1&gt; En dessous du sous-menu &lt;g2&gt;Scripts&lt;/g2&gt;, il y a 12 marques de réservation disponibles pour des scripts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This adds a new submenu&lt;g0&gt; Tools &gt; &lt;/g0&gt;&lt;g1&gt;Scripting.&lt;/g1&gt; Below the &lt;g2&gt;Scripting&lt;/g2&gt; submenu , there's five place holders available for scripts.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130411T100139Z">
@@ -35303,6 +35391,14 @@ installation by using the installation script (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can start the selected macros from the main menu as well by using their entries in the &lt;g0&gt;Tools &lt;/g0&gt;menu or by pressing&lt;k1&gt; Ctrl+Alt+F#&lt;/k1&gt; (# 1 to 12).</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140414T134005Z" creationid="Didier" creationdate="20140414T134005Z">
+        <seg>Vous pouvez lancer les macros sélectionnées soit à partir du menu principal, soit en passant par leurs entrées dans le menu &lt;g0&gt;Outils &lt;/g0&gt;, soit en appuyant sur &lt;k1&gt; Ctrl+Alt+F#&lt;/k1&gt; (# de 1 à 12).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can start the selected macros from the main menu as well by using their entries in the &lt;g0&gt;Tools &lt;/g0&gt;menu or by pressing&lt;k1&gt; Ctrl+Alt+F#&lt;/k1&gt; (# 1 to 5).</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130527T130810Z">
@@ -37307,6 +37403,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>editReplaceInProjectMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140414T134056Z" creationid="Didier" creationdate="20140414T134056Z">
+        <seg>editReplaceInProjectMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>editSelectFuzzy1MenuItem</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T103827Z">
@@ -37343,6 +37447,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T103850Z">
         <seg>editSelectFuzzy5MenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>editTagNextMissedMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140414T134051Z" creationid="Didier" creationdate="20140414T134051Z">
+        <seg>editTagNextMissedMenuItem</seg>
       </tuv>
     </tu>
     <tu>
@@ -40353,6 +40465,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T103759Z">
         <seg>projectSaveMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>projectSingleCompileMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140414T134046Z" creationid="Didier" creationdate="20140414T134046Z">
+        <seg>projectSingleCompileMenuItem</seg>
       </tuv>
     </tu>
     <tu>
