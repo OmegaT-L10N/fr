@@ -16183,6 +16183,14 @@ excuse you from the conditions of this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ignore type and ctype attributes when building &lt;&amp;bpt&gt; and &lt;ept&gt; tag shortcuts</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140414T092315Z" creationid="Didier" creationdate="20140414T092315Z">
+        <seg>&amp;Ignorer les attributs type et ctype en construisant les raccourcis des balises &lt;ph&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Import From Media&amp;Wiki...</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20110906T131006Z">
@@ -18350,6 +18358,14 @@ Exécutez OmegaT de la façon suivante.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Line length:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140414T092246Z" creationid="Didier" creationdate="20140414T092246Z">
+        <seg>Longueur de ligne :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Lingala</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T100050Z">
@@ -19199,6 +19215,14 @@ impose that choice.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Agrandir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Maximum line length:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140414T092257Z" creationid="Didier" creationdate="20140414T092257Z">
+        <seg>Longueur de ligne maximale :</seg>
       </tuv>
     </tu>
     <tu>
@@ -21847,6 +21871,14 @@ happen should you file a bug report.</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130421T182847Z">
         <seg> Menu Options</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Options to set the line length in target documents (0 = no limit)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140414T092240Z" creationid="Didier" creationdate="20140414T092240Z">
+        <seg>Options pour définir la longueur de ligne dans les documents cible (0 = aucune limite)</seg>
       </tuv>
     </tu>
     <tu>
@@ -24649,6 +24681,14 @@ REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130506T081948Z">
         <seg>Les recherches sont effectuées par défaut à la fois dans les sections source et cible du projet, mais il est possible de les limiter au seul texte cible ou source.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Searches can be performed in the source and/or in the translation and/or in notes and/or in comments.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140414T092220Z" creationid="Didier" creationdate="20140414T092220Z">
+        <seg>Une recherche peut être effectuée dans la langue source et/ou dans la langue cible et/ou dans les notes et/ou dans les commentaires.</seg>
       </tuv>
     </tu>
     <tu>
