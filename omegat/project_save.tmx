@@ -960,10 +960,34 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Remove Filter</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140414T130003Z" creationid="Didier" creationdate="20140414T130003Z">
+        <seg>&amp;Supprimer le filtre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Remove untranslated strings in the target files</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140222T151351Z" creationid="Didier" creationdate="20140222T151351Z">
         <seg>&amp;Supprimer les chaînes non traduites dans les fichiers cibles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Replace</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140414T125907Z" creationid="Didier" creationdate="20140414T125907Z">
+        <seg>&amp;Remplacer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Replace Next</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140414T125945Z" creationid="Didier" creationdate="20140414T125945Z">
+        <seg>&amp;Remplacer suivant</seg>
       </tuv>
     </tu>
     <tu>
@@ -1044,6 +1068,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="FR">
         <seg>&amp;Taille</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Skip</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140414T125940Z" creationid="Didier" creationdate="20140414T125940Z">
+        <seg>&amp;Ignorer</seg>
       </tuv>
     </tu>
     <tu>
@@ -16466,6 +16498,14 @@ the scope of this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In notes</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140414T130111Z" creationid="Didier" creationdate="20140414T130111Z">
+        <seg>&amp;Notes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In order for the changes to take effect OmegaT needs to close and then open the project.</seg>
       </tuv>
       <tuv lang="FR">
@@ -23255,6 +23295,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20100415T181737Z">
         <seg>Su&amp;pprimer le filtre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Re&amp;place All</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140414T125925Z" creationid="Didier" creationdate="20140414T125925Z">
+        <seg>Rem&amp;placer tout</seg>
       </tuv>
     </tu>
     <tu>
