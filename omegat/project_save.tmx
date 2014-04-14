@@ -6846,6 +6846,14 @@ this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A file might have no matching entries, so it will show empty.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140414T135341Z" creationid="Didier" creationdate="20140414T135341Z">
+        <seg>Si un fichier ne contient aucune entrée correspondante, il sera affiché vide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A fixed penalty of 5 is added if the removed part does not match some other segment, so the match does not show up as 100%</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130527T142302Z">
@@ -7007,6 +7015,14 @@ or that patent license was granted, prior to 28 March 2007.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130416T095348Z">
         <seg>Une liste relativement détaillée des modifications effectuées entre la version actuelle et les versions précédentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A search may be limited to 1000 items, so if you search on a common phrase, the editor then shows only those 1000 matching entries, and not all entries that match the search criteria.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140414T135259Z" creationid="Didier" creationdate="20140414T135259Z">
+        <seg>Il est possible qu'une recherche soit limitée à 1000 éléments. Dans ce cas, si vous rechercher une expression courante, l'Éditeur ne vous montre que les 1000 entrées correspondantes, et non pas toutes les entrées correspondant aux critères de recherche.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20027,6 +20043,14 @@ impose that choice.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>NB:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140414T135136Z" creationid="Didier" creationdate="20140414T135136Z">
+        <seg>N.B. :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>NO WARRANTY</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130419T192400Z">
@@ -22917,6 +22941,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130913T162215Z" creationid="Didier" creationdate="20130913T162215Z">
         <seg>Appuyez sur &lt;u&gt;{0}&lt;/u&gt; pour revenir aux suggestions &lt;b&gt;{1}&lt;/b&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Press the &lt;e0&gt;Filter&lt;/e0&gt; button on the bottom to limit the shown entries in the editor window to those that match the current search.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140414T135055Z" creationid="Didier" creationdate="20140414T135055Z">
+        <seg>Appuyez sur le bouton &lt;e0&gt;Filtrer&lt;/e0&gt; en bas de la fenêtre pour limiter les entrées affichées dans la fenêtre de l'Éditeur à celles correspondant à la recherche actuelle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35663,6 +35695,14 @@ omegat.kaptn</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130426T171940Z">
         <seg>Utilisez &lt;g3&gt;Ctrl+A &lt;i4/&gt;&lt;/g3&gt;&lt;g5&gt;, Ctrl+C &lt;i6/&gt;&lt;/g5&gt;, &lt;g7&gt;Ctrl+V &lt;i8/&gt;&lt;/g7&gt; pour copier/coller le contenu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can use normal navigation to go to e.g. the next (untranslated) segment that matches the search criteria.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140414T135128Z" creationid="Didier" creationdate="20140414T135128Z">
+        <seg>Vous pouvez utiliser la navigation habituelle pour, par exemple, atteindre le segment (non traduit) suivant correspondant aux critères de recherche.</seg>
       </tuv>
     </tu>
     <tu>
