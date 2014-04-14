@@ -8476,6 +8476,22 @@ provoquer des comportements inattendus, mais corrects.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Auto-completion/Auto-text...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140414T134406Z" creationid="Didier" creationdate="20140414T134406Z">
+        <seg>Saisie automatique/Texte automatique...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Auto-completion/Glossary...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140414T134350Z" creationid="Didier" creationdate="20140414T134350Z">
+        <seg>Saisie automatique/Glossaire...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Auto-text configuration</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130913T165723Z" creationid="Didier" creationdate="20130913T165723Z">
@@ -10648,6 +10664,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+↓</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140414T134141Z" creationid="Didier" creationdate="20140414T134141Z">
+        <seg>Ctrl+↓</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Current memory usage by the VM: {0}MB; of which free memory: {1}MB; maximum available: {2}MB;</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20091224T133319Z">
@@ -10708,6 +10732,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130421T124324Z">
         <seg>Couper</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cycle Case To...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140414T134238Z" creationid="Didier" creationdate="20140414T134238Z">
+        <seg>Basculer la casse en &gt; Parcourir</seg>
       </tuv>
     </tu>
     <tu>
@@ -20059,6 +20091,14 @@ impose that choice.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Next Translated Segment</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140414T134249Z" creationid="Didier" creationdate="20140414T134249Z">
+        <seg>Segment traduit suivant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Next Untranslated Segment</seg>
       </tuv>
       <tuv lang="FR" changeid="laurieetclémentine" changedate="20130411T134929Z">
@@ -25341,6 +25381,14 @@ REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select Next Match</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140414T134140Z" creationid="Didier" creationdate="20140414T134124Z">
+        <seg>Choisir la correspondance suivante</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select Previous Match</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140414T134110Z" creationid="Didier" creationdate="20140414T134110Z">
@@ -25641,6 +25689,22 @@ REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130412T080917Z">
         <seg>Maj+Ctrl+T</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shift+Ctrl+U</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140414T134250Z" creationid="Didier" creationdate="20140414T134250Z">
+        <seg>Shift+Ctrl+U</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shift+Ctrl+V</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140414T134259Z" creationid="Didier" creationdate="20140414T134259Z">
+        <seg>Shift+Ctrl+V</seg>
       </tuv>
     </tu>
     <tu>
@@ -26734,6 +26798,30 @@ address new problems or concerns.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140131T095348Z" creationid="Didier" creationdate="20140131T095348Z">
         <seg>Swing-Layout 1.0.4 (licence LGPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Switch Case To/Lower Case</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140414T134205Z" creationid="Didier" creationdate="20140414T134205Z">
+        <seg>Basculer la casse en/Minuscule</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Switch Case To/Title Case</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140414T134219Z" creationid="Didier" creationdate="20140414T134219Z">
+        <seg>Basculer la casse en/1ère lettre des mots en majuscule</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Switch Case To/Upper Case</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140414T134211Z" creationid="Didier" creationdate="20140414T134211Z">
+        <seg>Basculer la casse en/Majuscule</seg>
       </tuv>
     </tu>
     <tu>
@@ -33698,6 +33786,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Validate Tags for Current Document</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140414T134305Z" creationid="Didier" creationdate="20140414T134305Z">
+        <seg>Valider les balises pour le document actuel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Validate tags when leaving a segment</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130326T082518Z">
@@ -37403,6 +37499,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>editRegisterIdenticalMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140414T134241Z" creationid="Didier" creationdate="20140414T134241Z">
+        <seg>editRegisterIdenticalMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>editReplaceInProjectMenuItem</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140414T134056Z" creationid="Didier" creationdate="20140414T134056Z">
@@ -37447,6 +37551,22 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T103850Z">
         <seg>editSelectFuzzy5MenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>editSelectFuzzyNextMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140414T134145Z" creationid="Didier" creationdate="20140414T134145Z">
+        <seg>editSelectFuzzyNextMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>editSelectFuzzyPrevMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140414T134114Z" creationid="Didier" creationdate="20140414T134114Z">
+        <seg>editSelectFuzzyPrevMenuItem</seg>
       </tuv>
     </tu>
     <tu>
@@ -37887,6 +38007,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T104001Z">
         <seg>gotoNextSegmentMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>gotoNextTranslatedMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140414T134255Z" creationid="Didier" creationdate="20140414T134255Z">
+        <seg>gotoNextTranslatedMenuItem</seg>
       </tuv>
     </tu>
     <tu>
@@ -40107,6 +40235,22 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>optionsAutoCompleteAutoTextMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140414T134407Z" creationid="Didier" creationdate="20140414T134407Z">
+        <seg>optionsAutoCompleteAutoTextMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>optionsAutoCompleteGlossaryMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140414T134351Z" creationid="Didier" creationdate="20140414T134351Z">
+        <seg>optionsAutoCompleteGlossaryMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>optionsExtTMXMenuItem</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T104035Z">
@@ -41493,6 +41637,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>toolsShowStatisticsMatchesPerFileMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140414T134309Z" creationid="Didier" creationdate="20140414T134309Z">
+        <seg>toolsShowStatisticsMatchesPerFileMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>toolsShowStatisticsStandardMenuItem</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T104017Z">
@@ -41505,6 +41657,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T103734Z">
         <seg>toolsShowStatisticsStandardMenuItem=shift meta S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>toolsSingleValidateTagsMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140414T134307Z" creationid="Didier" creationdate="20140414T134307Z">
+        <seg>toolsSingleValidateTagsMenuItem</seg>
       </tuv>
     </tu>
     <tu>
