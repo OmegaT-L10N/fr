@@ -349,6 +349,9 @@
       <application>OmegaT</application>.app</emphasis> or click on its
       location in the Dock.</para>
 
+      <para>You can modify OmegaT's behaviour by editing the <emphasis>Properties</emphasis> as well as the
+      <emphasis>VMOptions</emphasis> part of the package <application><emphasis>Info.plist</emphasis></application> file.</para>
+      
       <para>To access
       <application><emphasis>Info.plist</emphasis></application>, right-click
       on <emphasis><application>OmegaT</application>.app</emphasis> and select
@@ -356,18 +359,15 @@
       selecting your text editor of choice. You can also "cd" there directly
       from the command line and open
       <application><emphasis>Info.plist</emphasis> in a command line editor
-      like emacs or vi</application>.<emphasis> <indexterm class="singular">
+      like emacs or vi</application>.<indexterm class="singular">
           <primary>Customizing OmegaT</primary>
 
           <secondary>OS X</secondary>
 
           <tertiary>Launch parameters</tertiary>
-        </indexterm></emphasis></para>
+        </indexterm></para>
 
-      <para>You can modify the <emphasis>Properties</emphasis> as well as the
-      <emphasis>VMOptions</emphasis> part.</para>
-
-      <para>If you wish to add values to<emphasis> VMOptions</emphasis>, put a
+      <para>If you wish to add values to <emphasis>VMOptions</emphasis>, put a
       space between them. For example, <filename>-Xmx1024M
       -Duser.language=ja</filename> will launch
       <application>OmegaT</application> with 1024MB of memory and with the
@@ -379,7 +379,7 @@
       <emphasis><application>OmegaT</application>.app/
       Contents/MacOS/</emphasis>.</para>
 
-      <para><emphasis><application> </application></emphasis>Use
+      <para>Use
       <emphasis><application>OmegaT</application>.jar</emphasis> file located
       in
       <emphasis><application>OmegaT</application>.app/Contents/Resources/Java/</emphasis>
@@ -801,20 +801,6 @@
           role="bold">Dmicrosoft.api.client_secret=XXXX9xXxX9xXXxxXXX9xxX99xXXXX9xx9XXxXxXXXXX=</emphasis></para>
         </listitem>
 
-        <listitem>
-          <para><emphasis role="bold">Team project option<parameter><indexterm
-              class="singular">
-              <primary>Running OmegaT</primary>
-
-              <secondary>Launch script arguments</secondary>
-
-              <tertiary>no-team option</tertiary>
-            </indexterm></parameter></emphasis></para>
-
-          <para><emphasis role="bold">-no-team</emphasis> addresses projects
-          set up for team work. Use it if OmegaT is not to synchronize the
-          project contents.</para>
-        </listitem>
       </itemizedlist>
 
       <para>Arguments can be combined: to launch
@@ -822,7 +808,7 @@
       the command would be:</para>
 
       <para><literal>java -Dswing.aatext=true -Duser.language=pt
-      -Duser.country=BR -Xmx1024M <application>-DDhttp.proxyHost=192.168.1.1
+      -Duser.country=BR -Xmx1024M <application>-Dhttp.proxyHost=192.168.1.1
       -Dhttp.proxyport<emphasis role="bold">=</emphasis>3128 -jar
       -OmegaT</application>.jar</literal></para>
     </section>
@@ -1055,6 +1041,24 @@
             specified.</para>
           </listitem>
         </itemizedlist>
+        
+        <itemizedlist>
+          <listitem>
+            <para><literal>--no-team</literal> addresses projects
+          set up for team work. Use it if OmegaT is not to synchronize the
+          project contents.</para>
+          </listitem>
+        </itemizedlist>
+
+        <itemizedlist>
+          <listitem>
+            <para><literal>--disable-project-locking</literal> allows, under Windows, to open the same project 
+            with several instances of OmegaT. By default, under Windows, <literal>omegat.project</literal>
+            is locked, and an error message is received when trying to open a project already opened in
+            another instance of OmegaT. With that option, no locking occurs.</para>
+          </listitem>
+        </itemizedlist>
+
       </section>
 
       <section id="console.mode.option.quiet">
