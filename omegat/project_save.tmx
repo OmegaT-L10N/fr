@@ -4415,10 +4415,26 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;l0&gt;--disable-project-locking&lt;/l0&gt; allows, under Windows, to open the same project with several instances of OmegaT.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140414T134729Z" creationid="Didier" creationdate="20140414T134729Z">
+        <seg>&lt;l0&gt;--disable-project-locking&lt;/l0&gt; permet, sous Windows, d'ouvrir le même projet avec plusieurs instances d'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;l0&gt;--mode=console-translate &lt;/l0&gt; &lt;a1&gt;OmegaT&lt;/a1&gt; launches in console mode and translates the given project</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130421T134230Z">
         <seg>&lt;l0&gt;--mode=console-translate &lt;/l0&gt; &lt;a1&gt;OmegaT&lt;/a1&gt; démarre en mode console et traduit le projet donné.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;--no-team&lt;/l0&gt; addresses projects set up for team work.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140414T134702Z" creationid="Didier" creationdate="20140414T134702Z">
+        <seg>&lt;l0&gt;--no-team&lt;/l0&gt; est destinée aux projets prévus pour un travail en équipe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8480,6 +8496,14 @@ provoquer des comportements inattendus, mais corrects.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140414T134406Z" creationid="Didier" creationdate="20140414T134406Z">
         <seg>Saisie automatique/Texte automatique...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Auto-completion/Character Table...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140414T134430Z" creationid="Didier" creationdate="20140414T134430Z">
+        <seg>Saisie automatique/Table de caractères...</seg>
       </tuv>
     </tu>
     <tu>
@@ -16166,6 +16190,14 @@ OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you wish to add values to &lt;e0&gt;VMOptions&lt;/e0&gt;, put a space between them.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140414T134618Z" creationid="Didier" creationdate="20140414T134618Z">
+        <seg>Pour ajouter des valeurs à &lt;e0&gt;VMOptions&lt;/e0&gt;, séparez-les par une espace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you wish to add values to&lt;e0&gt; VMOptions&lt;/e0&gt;, put a space between them.</seg>
       </tuv>
       <tuv lang="FR" changeid="brigitte" changedate="20130714T100121Z">
@@ -18329,6 +18361,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Last Changes...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140414T134447Z" creationid="Didier" creationdate="20140414T134447Z">
+        <seg>Dernières modifications...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Last but not least: my thanks to all the contributors to&lt;u0&gt; OmegaT documentation tracker&lt;/u0&gt; for all the inconsistencies found in the previous versions of the documentation.</seg>
       </tuv>
       <tuv lang="FR" changeid="brigitte" changedate="20130712T142727Z">
@@ -18668,6 +18708,14 @@ automatically download and install it.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Emplacement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Log...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140414T134454Z" creationid="Didier" creationdate="20140414T134454Z">
+        <seg>Journal...</seg>
       </tuv>
     </tu>
     <tu>
@@ -23263,6 +23311,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="FR" changeid="laurieetclémentine" changedate="20130411T133747Z">
         <seg>Propriétés...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Proxy Login...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140414T134440Z" creationid="Didier" creationdate="20140414T134440Z">
+        <seg>Connexion par proxy...</seg>
       </tuv>
     </tu>
     <tu>
@@ -35423,6 +35479,14 @@ installation by using the installation script (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can modify OmegaT's behaviour by editing the &lt;e0&gt;Properties&lt;/e0&gt; as well as the &lt;e1&gt;VMOptions&lt;/e1&gt; part of the package &lt;a2&gt;&lt;e3&gt;Info.plist&lt;/e3&gt;&lt;/a2&gt; file.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140414T134600Z" creationid="Didier" creationdate="20140414T134600Z">
+        <seg>Vous pouvez modifier le comportement d'OmegaT en modifiant les &lt;e0&gt;Propriétés&lt;/e0&gt; ainsi que la partie &lt;e1&gt;VMOptions&lt;/e1&gt; du paquet &lt;a2&gt;&lt;e3&gt;Info.plist&lt;/e3&gt;&lt;/a2&gt; file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can modify the &lt;e0&gt;Properties&lt;/e0&gt; as well as the &lt;e1&gt;VMOptions&lt;/e1&gt; part.</seg>
       </tuv>
       <tuv lang="FR" changeid="brigitte" changedate="20130714T100043Z">
@@ -38163,6 +38227,22 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>helpLastChangesMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140414T134448Z" creationid="Didier" creationdate="20140414T134448Z">
+        <seg>helpLastChangesMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>helpLogMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140414T134455Z" creationid="Didier" creationdate="20140414T134455Z">
+        <seg>helpLogMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>her</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T095946Z">
@@ -38959,6 +39039,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T104530Z">
         <seg>java -Dswing.aatext=true -Duser.language=pt -Duser.country=BR -Xmx1024M &lt;a0&gt;-DDhttp.proxyHost=192.168.1.1 -Dhttp.proxyport&lt;e1&gt;=&lt;/e1&gt;3128 -jar -OmegaT&lt;/a0&gt;.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>java -Dswing.aatext=true -Duser.language=pt -Duser.country=BR -Xmx1024M &lt;a0&gt;-Dhttp.proxyHost=192.168.1.1 -Dhttp.proxyport&lt;e1&gt;=&lt;/e1&gt;3128 -jar -OmegaT&lt;/a0&gt;.jar</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140414T134630Z" creationid="Didier" creationdate="20140414T134630Z">
+        <seg>java -Dswing.aatext=true -Duser.language=pt -Duser.country=BR -Xmx1024M &lt;a0&gt;-Dhttp.proxyHost=192.168.1.1 -Dhttp.proxyport&lt;e1&gt;=&lt;/e1&gt;3128 -jar -OmegaT&lt;/a0&gt;.jar</seg>
       </tuv>
     </tu>
     <tu>
@@ -40239,6 +40327,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140414T134407Z" creationid="Didier" creationdate="20140414T134407Z">
         <seg>optionsAutoCompleteAutoTextMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>optionsAutoCompleteCharTableMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140414T134432Z" creationid="Didier" creationdate="20140414T134432Z">
+        <seg>optionsAutoCompleteCharTableMenuItem</seg>
       </tuv>
     </tu>
     <tu>
