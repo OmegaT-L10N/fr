@@ -15068,6 +15068,14 @@ path need not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If a search removes duplicates, those duplicates will not be in the Editor.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140414T135404Z" creationid="Didier" creationdate="20140414T135404Z">
+        <seg>Si une recherche supprime les doublons, ceux-ci ne seront pas présentes dans l'Éditeur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If a user interface in this language is available, &lt;a3&gt;OmegaT&lt;/a3&gt; uses it.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130420T093749Z">
@@ -32244,6 +32252,14 @@ you modify it: responsibilities to respect the freedom of others.</seg>
       </tuv>
       <tuv lang="FR" changeid="jchelary" changedate="20130526T124040Z">
         <seg>Vous pouvez revoir les réglages du projet dans la fenêtre Modifier le projet (raccourci clavier &lt;k0&gt;Ctrl+E&lt;/k0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To remove a filter, press the &lt;e0&gt;Remove filter&lt;/e0&gt; button, or reload a project.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140414T135442Z" creationid="Didier" creationdate="20140414T135442Z">
+        <seg>Pour supprimer un filtre, appuyez sur le bouton &lt;e0&gt;Supprimer le filtre&lt;/e0&gt; ou rechargez le projet.</seg>
       </tuv>
     </tu>
     <tu>
