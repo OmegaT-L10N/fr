@@ -9036,6 +9036,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By default, under Windows, &lt;l1&gt;omegat.project&lt;/l1&gt; is locked, and an error message is received when trying to open a project already opened in another instance of OmegaT.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140414T134813Z" creationid="Didier" creationdate="20140414T134813Z">
+        <seg>Par défaut, sous Windows, &lt;l1&gt;omegat.project&lt;/l1&gt; est verrouillé et un message d'erreur est reçu lors d'une tentative d'ouverture d'un projet déjà ouvert dans une autre instance d'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By deleting a tag group you will remove the related formatting from the translated file.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130430T140713Z">
@@ -13140,6 +13148,14 @@ The FSF strongly urges you not to use this translation as the official distribu-
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Filter entries in editor according to search</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140414T134921Z" creationid="Didier" creationdate="20140414T134921Z">
+        <seg>Filtrer le contenu de l'éditeur en fonction de la recherche</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Filter options</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130429T081000Z">
@@ -13413,6 +13429,14 @@ control compilation and installation of the executable.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20131029T133441Z" creationid="Didier" creationdate="20131029T133441Z">
         <seg>Pour obtenir les meilleurs résultats, veuillez installer les dictionnaires appropriés avec Options &gt; Orthographe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For easier navigation in the search result set, you can apply the search to the editor.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140414T134957Z" creationid="Didier" creationdate="20140414T134957Z">
+        <seg>Pour une navigation plus facile dans les résultats de recherche, vous pouvez appliquer la recherche à l'Éditeur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34719,6 +34743,14 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>With that option, no locking occurs.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140414T134826Z" creationid="Didier" creationdate="20140414T134826Z">
+        <seg>Avec cette option, aucun verrouillage ne survient.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>With the Mac OS X OmegaT.app package, double-click on the &lt;l0&gt;JavaApplicationStub&lt;/l0&gt; located in /OmegaT.app/Contents/MacOS/ (see above to access it) to launch OmegaT from the console and get immediate access to the log.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130527T150515Z">
@@ -35343,6 +35375,14 @@ to link it from there.</seg>
         <seg>You can create a new project for each new job, and you can add new source files to a project at anytime time.</seg>
       </tuv>
       <tuv lang="FR" changeid="jchelary" changedate="20130526T124027Z">
+        <seg>Vous pouvez créer de nouveaux projets pour chaque nouveau travail et vous pouvez ajouter de nouveaux fichiers source à un même projet à n'importe quel moment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can create a new project for each new job, and you can add new source files to a project at anytime.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140414T134835Z" creationid="Didier" creationdate="20140414T134835Z">
         <seg>Vous pouvez créer de nouveaux projets pour chaque nouveau travail et vous pouvez ajouter de nouveaux fichiers source à un même projet à n'importe quel moment.</seg>
       </tuv>
     </tu>
