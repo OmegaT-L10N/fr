@@ -6663,6 +6663,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;trans-unit&gt; I&amp;D</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140421T135913Z" creationid="Didier" creationdate="20140421T135913Z">
+        <seg>I&amp;D &lt;trans-unit&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;u0&gt;Apertium&lt;/u0&gt; is a free/open-source machine translation platform, initially aimed at related-language pairs, like CA, ES, GA, PT, OC and FR but recently expanded to deal with more divergent language pairs (such as English-Catalan).</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130607T095401Z">
@@ -14983,6 +14991,14 @@ POSSIBILITY OF SUCH DAMAGES.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Identifier used for alternative translations</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140421T135743Z" creationid="Didier" creationdate="20140421T135743Z">
+        <seg>Identifiant utilisé pour les traductions alternatives</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ido</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130519T100753Z">
@@ -16401,8 +16417,8 @@ excuse you from the conditions of this License.</seg>
       <tuv lang="EN">
         <seg>Ignore type and ctype attributes when building &lt;&amp;bpt&gt; and &lt;ept&gt; tag shortcuts</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20140414T092315Z" creationid="Didier" creationdate="20140414T092315Z">
-        <seg>&amp;Ignorer les attributs type et ctype en construisant les raccourcis des balises &lt;ph&gt;</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20140421T135849Z" creationid="Didier" creationdate="20140414T092315Z">
+        <seg>Ignorer les attributs type et ctype en construisant les raccourcis des balises &lt;&amp;bpt&gt; et &lt;ept&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23021,6 +23037,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="FR" changeid="laurieetclémentine" changedate="20130411T135006Z">
         <seg>Segment précédent</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Previous and &amp;next paragraphs</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140421T135925Z" creationid="Didier" creationdate="20140421T135817Z">
+        <seg>Paragraphes sui&amp;vants et précédents</seg>
       </tuv>
     </tu>
     <tu>
