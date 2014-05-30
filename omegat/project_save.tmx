@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.1" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.1_2" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1958,6 +1958,14 @@ le programme d'installation peut créer des raccourcis pour vous dans le menu d�
       </tuv>
       <tuv lang="FR">
         <seg>- utilisation de n'importe quel type de fichier TMX conforme comme mémoire de traduction de référence</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--% (-- left) / --% (-- left), --</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140530T132201Z" creationid="Didier" creationdate="20140530T132040Z">
+        <seg>--% (-- restants) / --% (-- restants), --</seg>
       </tuv>
     </tu>
     <tu>
@@ -13138,6 +13146,14 @@ The FSF strongly urges you not to use this translation as the official distribu-
       </tuv>
       <tuv lang="FR">
         <seg>Fichier : traduits / nombre de segments (projet : traduits uniques / uniques, nombre total de segments)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File: unique translated % (unique left) / project: unique translated % (unique left), total number of segments</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140530T132122Z" creationid="Didier" creationdate="20140530T132122Z">
+        <seg>Fichier : unique traduit % (unique left) / project: unique translated % (unique left), total number of segments</seg>
       </tuv>
     </tu>
     <tu>
