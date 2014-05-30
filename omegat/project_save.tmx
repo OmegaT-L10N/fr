@@ -13152,8 +13152,8 @@ The FSF strongly urges you not to use this translation as the official distribu-
       <tuv lang="EN">
         <seg>File: unique translated % (unique left) / project: unique translated % (unique left), total number of segments</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20140530T132122Z" creationid="Didier" creationdate="20140530T132122Z">
-        <seg>Fichier : unique traduit % (unique left) / project: unique translated % (unique left), total number of segments</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20140530T132250Z" creationid="Didier" creationdate="20140530T132122Z">
+        <seg>Fichier : % unique traduit (unique restant) / projet : % unique traduit % (unique restant), nombre total de segments</seg>
       </tuv>
     </tu>
     <tu>
@@ -39657,6 +39657,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T104358Z">
         <seg>learned_words.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>left</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140530T132547Z" creationid="Didier" creationdate="20140530T132547Z">
+        <seg>restant</seg>
       </tuv>
     </tu>
     <tu>
