@@ -7067,6 +7067,14 @@ or that patent license was granted, prior to 28 March 2007.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A simple set of QA checks for current OmegaT project</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140604T063822Z" creationid="Didier" creationdate="20140604T063822Z">
+        <seg>Un ensemble simple de règles d'AQ pour le projet OmegaT actuel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A source sentence might look like</seg>
       </tuv>
       <tuv lang="FR" changeid="jchelary" changedate="20130526T142344Z">
@@ -9412,6 +9420,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check Rules</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140604T063832Z" creationid="Didier" creationdate="20140604T063832Z">
+        <seg>Règles de vérification</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check for possible Tag errors with &lt;k0&gt;Ctrl+T &lt;/k0&gt;and untranslated segments with &lt;k1&gt;Ctrl+U&lt;/k1&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130507T085448Z">
@@ -11602,6 +11618,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Doubled blanks</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140604T063950Z" creationid="Didier" creationdate="20140604T063950Z">
+        <seg>Espaces dupliquées</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Download &amp;Team Project...</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20120516T145709Z">
@@ -12464,6 +12488,14 @@ by the Free Software Foundation.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20110924T124628Z">
         <seg>Erreur {0} : {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Errors found:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140604T063854Z" creationid="Didier" creationdate="20140604T063854Z">
+        <seg>Erreurs trouvées :</seg>
       </tuv>
     </tu>
     <tu>
@@ -22939,6 +22971,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please try again after you open a project.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140604T063847Z" creationid="Didier" creationdate="20140604T063847Z">
+        <seg>Veuillez essayer à nouveau après avoir ouvert un projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please type or paste the URL of the mediawiki page</seg>
       </tuv>
       <tuv lang="FR">
@@ -23537,6 +23577,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130519T100801Z">
         <seg>Pāli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>QA - Check rules</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140604T063757Z" creationid="Didier" creationdate="20140604T063757Z">
+        <seg>AQ - Règles de vérification</seg>
       </tuv>
     </tu>
     <tu>
@@ -24501,6 +24549,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Rule</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140604T063901Z" creationid="Didier" creationdate="20140604T063901Z">
+        <seg>Règle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Rule priority</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130423T171339Z">
@@ -25379,6 +25435,14 @@ REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130430T072839Z">
         <seg>De ce point vue, Ils sont à la fois des fichiers de texte brut &lt;e1&gt; et&lt;/e1&gt; des mémoires de traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Segment</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140604T063856Z" creationid="Didier" creationdate="20140604T063856Z">
+        <seg>Segment</seg>
       </tuv>
     </tu>
     <tu>
@@ -27472,6 +27536,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130411T091537Z">
         <seg>Tamoul, Tamil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Target</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140604T063905Z" creationid="Didier" creationdate="20140604T063905Z">
+        <seg>Cible</seg>
       </tuv>
     </tu>
     <tu>
@@ -34771,6 +34843,22 @@ for which you have or can give appropriate copyright permission.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130412T135710Z">
         <seg>Espaces</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Whitespace - leading</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140604T063925Z" creationid="Didier" creationdate="20140604T063925Z">
+        <seg>Caractère d'espacement - avant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Whitespace - trailing</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140604T063930Z" creationid="Didier" creationdate="20140604T063930Z">
+        <seg>Caractère d'espacement - après</seg>
       </tuv>
     </tu>
     <tu>
