@@ -9428,10 +9428,50 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check for doubled blanks</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140604T064615Z" creationid="Didier" creationdate="20140604T064615Z">
+        <seg>Espaces dupliquées</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check for doubled words</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140604T064622Z" creationid="Didier" creationdate="20140604T064622Z">
+        <seg>Mots dupliqués</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check for leading whitespace</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140604T064607Z" creationid="Didier" creationdate="20140604T064554Z">
+        <seg>Caractère d'espacement avant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check for possible Tag errors with &lt;k0&gt;Ctrl+T &lt;/k0&gt;and untranslated segments with &lt;k1&gt;Ctrl+U&lt;/k1&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130507T085448Z">
         <seg>Vérifiez les éventuelles erreurs de balise avec &lt;k0&gt;Ctrl+T &lt;/k0&gt;et les segments non traduits avec &lt;k1&gt;Ctrl+U&lt;/k1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check for shorter target</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140604T064645Z" creationid="Didier" creationdate="20140604T064645Z">
+        <seg>Cible plus courte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check for trailing whitespace</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140604T064612Z" creationid="Didier" creationdate="20140604T064612Z">
+        <seg>Caractère d'espacement après</seg>
       </tuv>
     </tu>
     <tu>
@@ -9528,6 +9568,14 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130607T095408Z">
         <seg>Vérifiez le site internet pour avoir la liste la plus récente des paires de langues présents sur cette plateforme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check whole project</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140604T064600Z" creationid="Didier" creationdate="20140604T064537Z">
+        <seg>Ensemble du projet</seg>
       </tuv>
     </tu>
     <tu>
@@ -17174,6 +17222,14 @@ patent against the party.</seg>
       </tuv>
       <tuv lang="FR" changeid="jchelary" changedate="20130526T100840Z">
         <seg>Incompatibilités</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Inconsistent numbers</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140604T064527Z" creationid="Didier" creationdate="20140604T064527Z">
+        <seg>Nombres divergents</seg>
       </tuv>
     </tu>
     <tu>
