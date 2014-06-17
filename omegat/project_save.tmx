@@ -9926,6 +9926,16 @@ Zoltan Bartko, Volker Berlin, Didier Briel (responsable du développement), Kim 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Code has been contributed by: 
+Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead developer), Thomas Cordonnier, Sandra Jean Chua, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Martin Wunderlich and Michael Zakharov</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140617T175748Z" creationid="Didier" creationdate="20140617T175748Z">
+        <seg>Contributions au code :
+Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (développeur principal), Thomas Cordonnier, Sandra Jean Chua, Martin Fleurke, Wildrich Fourie, Philippe Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Martin Wunderlich et Michael Zakharov</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Column Index must be equal to 1</seg>
       </tuv>
       <tuv lang="FR">
@@ -11257,11 +11267,36 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Didier Briel</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Didier Briel</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Didier Briel (development manager)</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20101018T144946Z">
         <seg>Didier Briel (responsable du développement)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Didier Briel is the OmegaT project manager.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140617T175815Z" creationid="Didier" creationdate="20140617T175815Z">
+        <seg>Didier Briel est le responsable du projet OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Didier Briel is the the OmegaT project manager.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140617T175712Z" creationid="Didier" creationdate="20140617T175712Z">
+        <seg>Didier Briel est le responsable du projet OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19469,6 +19504,14 @@ impose that choice.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Marc Prior (webmaster)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140617T175852Z" creationid="Didier" creationdate="20140617T175852Z">
+        <seg>Marc Prior (webmestre)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Marc Prior is the coordinator of the OmegaT project.</seg>
       </tuv>
       <tuv lang="FR">
@@ -21601,8 +21644,8 @@ contenant votre dossier de base est refusé à OmegaT.</seg>
       <tuv lang="EN">
         <seg>OmegaT is the original work of Keith Godfrey.</seg>
       </tuv>
-      <tuv lang="FR">
-        <seg>OmegaT est l'œuvre de Keith Godfrey.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20140617T175725Z">
+        <seg>OmegaT est l'œuvre initiale de Keith Godfrey.</seg>
       </tuv>
     </tu>
     <tu>
