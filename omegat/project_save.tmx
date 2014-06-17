@@ -23126,6 +23126,14 @@ pour déterminer la source de l'erreur et faites une nouvelle tentative.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please double-check it.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140617T181940Z" creationid="Didier" creationdate="20140617T181940Z">
+        <seg>Veuillez la vérifier soigneusement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please enter username/password</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20120420T210807Z">
@@ -31424,6 +31432,14 @@ under the terms of this General Public License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This URL appears to be invalid.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140617T181929Z" creationid="Didier" creationdate="20140617T181918Z">
+        <seg>Cette URL ne semble pas être valide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This adds a new submenu&lt;g0&gt; Tools &gt; &lt;/g0&gt;&lt;g1&gt;Scripting.&lt;/g1&gt; Below the &lt;g2&gt;Scripting&lt;/g2&gt; submenu , there's 12 place holders available for scripts.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140414T133943Z" creationid="Didier" creationdate="20140414T133943Z">
@@ -31706,8 +31722,16 @@ under the terms of this General Public License.</seg>
       <tuv lang="EN">
         <seg>This is a Git repository.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20140617T181838Z" creationid="Didier" creationdate="20140617T181838Z">
-        <seg>Il s'agit d'un référentiel Git</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20140617T181912Z" creationid="Didier" creationdate="20140617T181838Z">
+        <seg>Il s'agit d'un référentiel Git.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is a Subversion repository.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140617T181858Z" creationid="Didier" creationdate="20140617T181858Z">
+        <seg>Il s'agit d'un référentiel Subversion.</seg>
       </tuv>
     </tu>
     <tu>
