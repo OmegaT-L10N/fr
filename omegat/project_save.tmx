@@ -6747,8 +6747,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>@@TRANSLATION_NOTICE@@</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20130125T165230Z">
-        <seg>Ce document a été traduit par Didier Briel et Jean-Christophe Helary, copyright© 2007-2013.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20140617T180308Z">
+        <seg>Ce document a été traduit par Didier Briel et Jean-Christophe Helary, copyright© 2007-2014.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42993,6 +42993,17 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">2.6/readme.utf8</prop>
+      <prop type="prev">3.</prop>
+      <prop type="next">4.</prop>
+      <tuv lang="EN">
+        <seg>Installing OmegaT</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140617T180218Z" creationid="Didier" creationdate="20140617T180218Z">
+        <seg>Installer OmegaT</seg>
+      </tuv>
+    </tu>
     <tu>
       <prop type="file">trunk/readme.utf8</prop>
       <prop type="prev">3.</prop>
