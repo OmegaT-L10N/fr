@@ -376,6 +376,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Browse TaaS Collections...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140625T073450Z" creationid="Didier" creationdate="20140625T073450Z">
+        <seg>&amp;Parcourir les collections TaaS...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Cancel</seg>
       </tuv>
       <tuv lang="FR">
@@ -1080,6 +1088,22 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Select</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140625T073654Z" creationid="Didier" creationdate="20140625T073654Z">
+        <seg>&amp;Sélectionner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Select TaaS Terminology Lookup Domain...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140625T073513Z" creationid="Didier" creationdate="20140625T073513Z">
+        <seg>&amp;Sélectionner le domaine de recherche terminologique TaaS...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Sheet Names</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20101112T182919Z">
@@ -1148,6 +1172,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="FR">
         <seg>&amp;Statistiques</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;TaaS Terminology Lookup</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140625T073526Z" creationid="Didier" creationdate="20140625T073526Z">
+        <seg>&amp;Recherche terminologique TaaS</seg>
       </tuv>
     </tu>
     <tu>
@@ -7609,6 +7641,14 @@ this License without regard to the additional permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All domains</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140625T073644Z" creationid="Didier" creationdate="20140625T073644Z">
+        <seg>Tous les domaines</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All existing Java class libraries can be used unchanged and without special setup; at the same time, a Java programmer can opt to just use the Rexx class from the runtime package for improved string handling in Java syntax source programs.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130527T150506Z">
@@ -11166,6 +11206,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Description</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140625T073600Z" creationid="Didier" creationdate="20140625T073600Z">
+        <seg>Description</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Detail View</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140310T125833Z" creationid="Didier" creationdate="20140310T125833Z">
@@ -11395,6 +11443,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
       <tuv lang="FR">
         <seg>Afficher les segments &amp;source</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Display Context Description for TaaS</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140625T073549Z" creationid="Didier" creationdate="20140625T073549Z">
+        <seg>Afficher la description du contexte pour TaaS</seg>
       </tuv>
     </tu>
     <tu>
@@ -11783,6 +11839,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Domains</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140625T073623Z" creationid="Didier" creationdate="20140625T073623Z">
+        <seg>Domaines</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Done</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140203T141218Z" creationid="Didier" creationdate="20140203T141218Z">
@@ -11839,6 +11903,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Download</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140625T073637Z" creationid="Didier" creationdate="20140625T073637Z">
+        <seg>Télécharger</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Download &amp;Team Project...</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20120516T145709Z">
@@ -11883,6 +11955,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T103749Z">
         <seg>Télécharger projet en équipe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download collection {0}</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140625T073738Z" creationid="Didier" creationdate="20140625T073738Z">
+        <seg>Téléchargement de la collection {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -12693,6 +12773,14 @@ by the Free Software Foundation.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130511T164451Z">
         <seg>Erreur de déchargement du module d'extension depuis la classe « {0} » : {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error updating glossary file</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140625T073839Z" creationid="Didier" creationdate="20140625T073839Z">
+        <seg>Erreur en actualisation du fichier glossaire</seg>
       </tuv>
     </tu>
     <tu>
@@ -14626,6 +14714,14 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130421T001859Z">
         <seg>Atteindre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go to https://demo.taas-project.eu/account/keys/create?system=omegaT to create your own key then give it to OmegaT with -Dtaas.user.key=xxxxx</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140625T073922Z" creationid="Didier" creationdate="20140625T073922Z">
+        <seg>Allez à https://demo.taas-project.eu/account/keys/create?system=omegaT pour créer votre propre clé et passez-la à OmegaT avec -Dtaas.user.key=xxxxx</seg>
       </tuv>
     </tu>
     <tu>
@@ -20442,6 +20538,14 @@ impose that choice.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Name</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140625T073559Z" creationid="Didier" creationdate="20140625T073559Z">
+        <seg>Nom</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Name of the TMX</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130425T200754Z">
@@ -24674,6 +24778,22 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Request error: {0}</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140625T073747Z" creationid="Didier" creationdate="20140625T073747Z">
+        <seg>Erreur de requête : {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Request to TaaS: {0}</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140625T073412Z" creationid="Didier" creationdate="20140625T073412Z">
+        <seg>Requête vers TaaS : {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Requests for Enhancements (in English), at the SourceForge site:</seg>
       </tuv>
       <tuv lang="FR">
@@ -24758,6 +24878,22 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20110717T153518Z">
         <seg>Résultat :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Retrieve collection list...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140625T073713Z" creationid="Didier" creationdate="20140625T073713Z">
+        <seg>Récupération de la liste des collections...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Retrieve domain list...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140625T073728Z" creationid="Didier" creationdate="20140625T073728Z">
+        <seg>Récupération de la liste des domaines...</seg>
       </tuv>
     </tu>
     <tu>
@@ -25980,6 +26116,14 @@ REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select TaaS domain</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140625T073722Z" creationid="Didier" creationdate="20140625T073722Z">
+        <seg>Sélectionner le domaine TaaS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select it and confirm with OK.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130502T114804Z">
@@ -26841,6 +26985,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source count</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140625T073614Z" creationid="Didier" creationdate="20140625T073614Z">
+        <seg>Mots source</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source file loading complete</seg>
       </tuv>
       <tuv lang="FR">
@@ -27553,6 +27705,22 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>TaaS API key not found.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140625T073852Z" creationid="Didier" creationdate="20140625T073852Z">
+        <seg>Clé API TaaS introuvable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TaaS Collections</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140625T073556Z" creationid="Didier" creationdate="20140625T073556Z">
+        <seg>Collections TaaS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tab</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130104T150002Z">
@@ -27869,6 +28037,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140604T063905Z" creationid="Didier" creationdate="20140604T063905Z">
         <seg>Cible</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Target count</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140625T073619Z" creationid="Didier" creationdate="20140625T073619Z">
+        <seg>Mots cible</seg>
       </tuv>
     </tu>
     <tu>
@@ -33644,6 +33820,14 @@ Kaptain.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unauthorized request to TaaS service</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140625T073800Z" creationid="Didier" creationdate="20140625T073800Z">
+        <seg>Requête non autorisée au service TaaS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unchanged sentences are automatically translated, while updated sentences are shown with the translation of the most similar, older sentence.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130410T132717Z">
@@ -33916,6 +34100,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130527T130403Z">
         <seg>Décompressez les fichiers et mettez-les tous dans le dossier « plugins »  situé dans le dossier d'installation d'OmegaT, c'est-à-dire dans le dossier contenant OmegaT.jar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Updated</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140625T073632Z" creationid="Didier" creationdate="20140625T073632Z">
+        <seg>Actualisé</seg>
       </tuv>
     </tu>
     <tu>
@@ -35538,6 +35730,14 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20120420T211022Z">
         <seg>Authentification incorrecte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wrong response format from TaaS service</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140625T073820Z" creationid="Didier" creationdate="20140625T073820Z">
+        <seg>Format de réponse erroné du service TaaS</seg>
       </tuv>
     </tu>
     <tu>
