@@ -464,6 +464,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Display Context Description for TBX Glossaries</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140626T132740Z" creationid="Didier" creationdate="20140626T132740Z">
+        <seg>&amp;Afficher la description du contexte pour les glossaires TBX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Display tags</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20101001T213108Z">
@@ -476,6 +484,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Ne &amp;pas vérifier les variables printf</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Download</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140626T132744Z" creationid="Didier" creationdate="20140626T132744Z">
+        <seg>&amp;Télécharger</seg>
       </tuv>
     </tu>
     <tu>
