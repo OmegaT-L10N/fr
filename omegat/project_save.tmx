@@ -6735,6 +6735,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;trans-unit&gt; &amp;resname attribute when available</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140706T175735Z" creationid="Didier" creationdate="20140706T175735Z">
+        <seg>L'attribut &amp;resname de &lt;trans-unit&gt; lorsqu'il est disponible</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;trans-unit&gt; I&amp;D</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140421T135913Z" creationid="Didier" creationdate="20140421T135913Z">
@@ -9236,6 +9244,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Canceled</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140706T175608Z" creationid="Didier" creationdate="20140706T175608Z">
+        <seg>Annulé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cancelled creating new team project</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20120504T064805Z">
@@ -9748,6 +9764,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose SVN repository to perform cleanup</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140706T175604Z" creationid="Didier" creationdate="20140706T175604Z">
+        <seg>Choisir le référentiel SVN sur lequel effectuer le nettoyage</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose&lt;g0&gt; SVN.&lt;/g0&gt;</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130412T114956Z">
@@ -9760,6 +9784,14 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
       <tuv lang="FR" changeid="etudiant_local" changedate="20130410T124952Z">
         <seg>Tchouvache</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cleanup done!!</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140706T175618Z" creationid="Didier" creationdate="20140706T175618Z">
+        <seg>Nettoayge effectué !!</seg>
       </tuv>
     </tu>
     <tu>
@@ -15350,6 +15382,14 @@ parties remain in full compliance.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>IGNORED:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140706T175215Z" creationid="Didier" creationdate="20140706T175215Z">
+        <seg>IGNORÉS :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING
 WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MAY MODIFY AND/OR
 REDISTRIBUTE THE PROGRAM AS PERMITTED ABOVE, BE LIABLE TO YOU FOR DAMAGES,
@@ -16862,10 +16902,34 @@ excuse you from the conditions of this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ignore</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140706T175234Z" creationid="Didier" creationdate="20140706T175234Z">
+        <seg>Ignorer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ignore All</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Ignorer toujours</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ignore file context when identifying segments with alternate translations</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140706T175921Z" creationid="Didier" creationdate="20140706T175921Z">
+        <seg>Ignorer le nom du fichier pour identifier les segments comportant des traductions alternatives</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ignore glossary case</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140706T175253Z" creationid="Didier" creationdate="20140706T175253Z">
+        <seg>Ignorer la casse du glossaire</seg>
       </tuv>
     </tu>
     <tu>
@@ -18768,6 +18832,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LEARNED:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140706T175219Z" creationid="Didier" creationdate="20140706T175219Z">
+        <seg>APPRIS :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LaTeX</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130531T093949Z">
@@ -19001,6 +19073,14 @@ Exécutez OmegaT de la façon suivante.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130502T072219Z">
         <seg>Lancer cette option – &lt;g0&gt;Ctrl+T&lt;i1/&gt;&lt;/g0&gt; - ouvre une fenêtre qui liste tous les segments du fichier contenant des balises qui pourraient être altérées ou fausses dans les segments traduits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Learn</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140706T175238Z" creationid="Didier" creationdate="20140706T175238Z">
+        <seg>Apprendre</seg>
       </tuv>
     </tu>
     <tu>
@@ -20950,6 +21030,14 @@ impose that choice.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130411T085518Z">
         <seg>Nynorsk norvégien</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Not a local repository</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140706T175629Z" creationid="Didier" creationdate="20140706T175629Z">
+        <seg>Il ne s'agit pas d'un référentiel local</seg>
       </tuv>
     </tu>
     <tu>
@@ -23144,6 +23232,14 @@ of promoting the sharing and reuse of software generally.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Perform SVN cleanup on current project or any local SVN repository</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140706T175547Z" creationid="Didier" creationdate="20140706T175547Z">
+        <seg>Effectue un nettoyage SVN sur le projet actuel ou sur n'importe quel référentiel local</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Perhaps it is already opened in another OmegaT instance</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130517T161802Z">
@@ -24538,6 +24634,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove OmegaT tags which have &lt;br&gt;lower case letter before and after it</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140706T175438Z" creationid="Didier" creationdate="20140706T175438Z">
+        <seg>Supprimer les balises OmegaT comportant&lt;br&gt;une lettre minuscule avant et après</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove Script</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20111111T125128Z">
@@ -24570,6 +24674,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove defined fragments</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140706T175506Z" creationid="Didier" creationdate="20140706T175506Z">
+        <seg>Supprimer les fragments définis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove leading and trailing tags</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130316T132620Z">
@@ -24582,6 +24694,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130316T132638Z">
         <seg>Supprimer les espaces en début et fin de segment dans les projets non segmentés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove mnemonics</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140706T175457Z" creationid="Didier" creationdate="20140706T175457Z">
+        <seg>Supprimer les mnémoniques</seg>
       </tuv>
     </tu>
     <tu>
@@ -24726,6 +24846,22 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="FR" changeid="laurieetclémentine" changedate="20130411T134030Z">
         <seg>Remplacer par la source</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replace custom tags with space</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140706T175328Z" creationid="Didier" creationdate="20140706T175328Z">
+        <seg>Remplacer les balises personnalisées par une espace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replace escaped sequences with space</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140706T175312Z" creationid="Didier" creationdate="20140706T175312Z">
+        <seg>Remplacer les séquences d'échappement par une espace</seg>
       </tuv>
     </tu>
     <tu>
@@ -25200,6 +25336,14 @@ REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20120420T210331Z">
         <seg>Début de l'exécution de SVN « {0} »</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SVN - Cleanup</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140706T175518Z" creationid="Didier" creationdate="20140706T175518Z">
+        <seg>Nettoyage SVN</seg>
       </tuv>
     </tu>
     <tu>
@@ -27285,6 +27429,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140706T175143Z" creationid="Didier" creationdate="20140706T175143Z">
         <seg>Vérification orthographique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spellcheck - errors found:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140706T175232Z" creationid="Didier" creationdate="20140706T175232Z">
+        <seg>Vérification orthographique - erreurs trouvées :</seg>
       </tuv>
     </tu>
     <tu>
@@ -32442,8 +32594,8 @@ be a consequence of the rest of this License.</seg>
       <tuv lang="EN">
         <seg>This translation is the work of [insert your name], copyright© [insert year].</seg>
       </tuv>
-      <tuv lang="FR" changeid="jchelary" changedate="20130526T150647Z">
-        <seg>Ce document a été traduit par Didier Briel et Jean-Christophe Helary, copyright© 2007-2013.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20140706T180120Z">
+        <seg>Ce document a été traduit par Didier Briel et Jean-Christophe Helary, copyright© 2007-2014.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34384,6 +34536,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use glossary</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140706T175244Z" creationid="Didier" creationdate="20140706T175244Z">
+        <seg>Utiliser le glossaire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use it if OmegaT is not to synchronize the project contents.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130527T151209Z">
@@ -34757,6 +34917,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="FR">
         <seg>VLDocking Framework 2.1.4 par VLSolutions (licence CeCILL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>VLDocking Framework 3.0.4 (LGPL License)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140706T175830Z" creationid="Didier" creationdate="20140706T175830Z">
+        <seg>VLDocking Framework 3.0.4 (licence LGPL)</seg>
       </tuv>
     </tu>
     <tu>
@@ -35309,6 +35477,14 @@ you have just discovered.</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130416T204705Z">
         <seg>Pour les traductions entre langues RTL et LTR, il peut être nécessaire, pour lire correctement les balises de la source et les entrer correctement dans la cible, que le traducteur bascule un grand nombre de fois entre les modes LTR et RTL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When unavailable, the ID will be used as a fallback</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140706T175800Z" creationid="Didier" creationdate="20140706T175800Z">
+        <seg>S'il ne l'est pas, ID sera utilisé à la place</seg>
       </tuv>
     </tu>
     <tu>
@@ -42120,6 +42296,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T100219Z">
         <seg>sl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>slf4j-*.jar (MIT License)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140706T175839Z" creationid="Didier" creationdate="20140706T175839Z">
+        <seg>slf4j-*.jar (licence MIT)</seg>
       </tuv>
     </tu>
     <tu>
