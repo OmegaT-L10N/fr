@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2_1" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9548,6 +9548,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check for segments with spelling errors</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140706T175026Z" creationid="Didier" creationdate="20140706T175026Z">
+        <seg>Vérifier les segments comportant des erreurs d'orthographe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check for shorter target</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140604T064645Z" creationid="Didier" creationdate="20140604T064645Z">
@@ -12995,6 +13003,14 @@ The FSF strongly urges you not to use this translation as the official distribu-
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Example - Search and Replace</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140706T175057Z" creationid="Didier" creationdate="20140706T175057Z">
+        <seg>Exemple : recherche et remplacement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Example:</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130428T153334Z">
@@ -14570,6 +14586,14 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20101112T170314Z">
         <seg>Globales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Global spell checking</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140706T175158Z" creationid="Didier" creationdate="20140706T175158Z">
+        <seg>Vérification orthographique globale</seg>
       </tuv>
     </tu>
     <tu>
@@ -20202,6 +20226,14 @@ impose that choice.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Modified Segments:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140706T175127Z" creationid="Didier" creationdate="20140706T175127Z">
+        <seg>Segments modifiés :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Modifying tag group order may result in the nesting of a tag group within another tag group.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130417T085922Z">
@@ -23986,6 +24018,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>QA - Check Rules</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140706T174932Z" creationid="Didier" creationdate="20140706T174932Z">
+        <seg>AQ - Règles de vérification</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>QA - Check rules</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140604T063757Z" creationid="Didier" creationdate="20140604T063757Z">
@@ -25436,6 +25476,14 @@ REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Search</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140706T175111Z" creationid="Didier" creationdate="20140706T175111Z">
+        <seg>Rechercher</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Search &amp;files</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20100415T182543Z">
@@ -25464,6 +25512,14 @@ REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Recherche dans les &amp;MT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search and Replace</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140706T175121Z" creationid="Didier" creationdate="20140706T175121Z">
+        <seg>Rechercher et remplacer</seg>
       </tuv>
     </tu>
     <tu>
@@ -26604,6 +26660,14 @@ REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Simple search and replace script</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140706T175107Z" creationid="Didier" creationdate="20140706T175107Z">
+        <seg>Script simple de recherche et remplacement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Simplify the original text</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130417T090417Z">
@@ -27217,6 +27281,22 @@ of the GPL, as needed to protect the freedom of users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Spellcheck</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140706T175143Z" creationid="Didier" creationdate="20140706T175143Z">
+        <seg>Vérification orthographique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spellchecker</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140706T175205Z" creationid="Didier" creationdate="20140706T175205Z">
+        <seg>Vérificateur orthographique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Spellchecker Setup</seg>
       </tuv>
       <tuv lang="FR">
@@ -27229,6 +27309,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130424T170230Z">
         <seg>Configuration du vérificateur orthographique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spelling errors(s)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140706T174949Z" creationid="Didier" creationdate="20140706T174949Z">
+        <seg>Erreur(s) d'orthographe</seg>
       </tuv>
     </tu>
     <tu>
