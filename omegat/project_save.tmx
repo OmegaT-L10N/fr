@@ -1634,6 +1634,14 @@ le programme d'installation peut créer des raccourcis pour vous dans le menu d�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>+{0} more</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140709T133514Z" creationid="Didier" creationdate="20140709T133514Z">
+        <seg>et {0} de plus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>, &lt;e0&gt;alt&lt;/e0&gt;, &lt;e1&gt;altGraph&lt;/e1&gt;</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T103726Z">
@@ -11563,6 +11571,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130913T162334Z" creationid="Didier" creationdate="20130913T162334Z">
         <seg>Afficher les termes source</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Display:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140709T133244Z" creationid="Didier" creationdate="20140709T133244Z">
+        <seg>Afficher :</seg>
       </tuv>
     </tu>
     <tu>
@@ -37722,6 +37738,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>all matching segments</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140709T133307Z" creationid="Didier" creationdate="20140709T133307Z">
+        <seg>&amp;tous les résultats correspondants</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>allowed only for noncommercial distribution and only if you</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130419T184531Z">
@@ -39022,6 +39046,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T095923Z">
         <seg>fij</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>file names</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140709T133353Z" creationid="Didier" creationdate="20140709T133353Z">
+        <seg>les noms de fichier</seg>
       </tuv>
     </tu>
     <tu>
