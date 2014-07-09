@@ -1344,6 +1344,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(+{0} more)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140709T081712Z" creationid="Didier" creationdate="20140709T081712Z">
+        <seg>({0} de plus)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(?i)</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T105041Z">
@@ -27261,6 +27269,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Langue source : {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source of Selected &amp;Match</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140709T081639Z" creationid="Didier" creationdate="20140709T081639Z">
+        <seg>Source de la &amp;correspondance sélectionnée</seg>
       </tuv>
     </tu>
     <tu>
