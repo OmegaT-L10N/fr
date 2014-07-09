@@ -1636,8 +1636,8 @@ le programme d'installation peut créer des raccourcis pour vous dans le menu d�
       <tuv lang="EN">
         <seg>+{0} more</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20140709T134417Z" creationid="Didier" creationdate="20140709T133514Z">
-        <seg>plus {0} autre(s)</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20140709T162610Z" creationid="Didier" creationdate="20140709T133514Z">
+        <seg> {0} de plus</seg>
       </tuv>
     </tu>
     <tu>
@@ -43584,6 +43584,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T103641Z">
         <seg>{</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0} +{1} more</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140709T162641Z" creationid="Didier" creationdate="20140709T162641Z">
+        <seg>{0} et {1} more</seg>
       </tuv>
     </tu>
     <tu>
