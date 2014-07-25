@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.3_1" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.4" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13139,6 +13139,14 @@ The FSF strongly urges you not to use this translation as the official distribu-
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Exclusions...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140725T163356Z" creationid="Didier" creationdate="20140725T163356Z">
+        <seg>Exclusions...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Executing external command...</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130125T163307Z">
@@ -25292,6 +25300,22 @@ REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SQLJet 1.1.10 (GPL License)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140725T163411Z" creationid="Didier" creationdate="20140725T163411Z">
+        <seg>SQLJet 1.1.10 (licence GPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SQLJet 1.1.10 (GPL v2)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140725T163244Z" creationid="Didier" creationdate="20140725T163244Z">
+        <seg>SQLJet 1.1.10 (GPL v2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SQLJet 1.1.3 (GPL License)</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130423T094251Z">
@@ -25376,6 +25400,14 @@ REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20120708T144745Z">
         <seg>SVNKit 1.7.5 (licence TMate)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SVNKit 1.8.5 (TMate License)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140725T163327Z" creationid="Didier" creationdate="20140725T163239Z">
+        <seg>SVNKit 1.8.5 (licence TMate)</seg>
       </tuv>
     </tu>
     <tu>
@@ -27149,6 +27181,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130913T165353Z" creationid="Didier" creationdate="20130913T165353Z">
         <seg>Trier les traductions par ordre alphabétique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sort fuzzy matches by:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140725T163435Z" creationid="Didier" creationdate="20140725T163435Z">
+        <seg>Trier les correspondances partielles par :</seg>
       </tuv>
     </tu>
     <tu>
@@ -42348,6 +42388,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>slf4j (MIT License)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140725T163342Z" creationid="Didier" creationdate="20140725T163342Z">
+        <seg>slf4j (licence MIT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>slf4j-*.jar (MIT License)</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140706T175839Z" creationid="Didier" creationdate="20140706T175839Z">
@@ -43032,6 +43080,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130424T193922Z">
         <seg>Une traduction laissant le segment vide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>trilead-ssh2-1.0.0-build217 (Trilead SSH license)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140725T163321Z" creationid="Didier" creationdate="20140725T163321Z">
+        <seg>trilead-ssh2-1.0.0-build217 (licence Trilead SSH)</seg>
       </tuv>
     </tu>
     <tu>
