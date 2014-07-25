@@ -14497,6 +14497,14 @@ authors of previous versions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Full text, including tags and numbers</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140725T163551Z" creationid="Didier" creationdate="20140725T163551Z">
+        <seg>Texte complet, y compris balises et nombres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Fuzzy Matches</seg>
       </tuv>
       <tuv lang="FR">
@@ -20974,6 +20982,14 @@ impose that choice.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Aucune erreur de balise n'a été détectée</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No tags and no numbers</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140725T163532Z" creationid="Didier" creationdate="20140725T163532Z">
+        <seg>Aucune balise et aucun nombre</seg>
       </tuv>
     </tu>
     <tu>
@@ -27629,6 +27645,14 @@ patents cannot be used to render the program non-free.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Stemming, no tags and no numbers</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140725T163523Z" creationid="Didier" creationdate="20140725T163523Z">
+        <seg>Lemmatisation, aucune balise et aucun nombre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Steps to reproduce</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130429T073433Z">
@@ -28485,6 +28509,22 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20120420T211452Z">
         <seg>Synchronisation d'équipe...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Team synchronization: Saving translation in {0} s</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140725T163719Z" creationid="Didier" creationdate="20140725T163719Z">
+        <seg>Synchronisation d'équipe : enregistrement de la traduction dans {0} s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Team synchronization: Waiting for you to finish this segment...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140725T163755Z" creationid="Didier" creationdate="20140725T163658Z">
+        <seg>Synchronisation d'équipe : attente de la fin de votre modification de ce segment...</seg>
       </tuv>
     </tu>
     <tu>
