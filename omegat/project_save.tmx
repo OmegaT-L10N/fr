@@ -3983,6 +3983,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;html&gt;You can add patterns using wildcards (ant style): '*', '?' and '**', like '**/.svn/**'&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140725T164008Z" creationid="Didier" creationdate="20140725T164008Z">
+        <seg>&lt;html&gt;Vous pouvez ajouter des masques en utilisant des caractères joker (de type ant) : « * », « ? » et « ** », comme « **/.svn/** »&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;i2/&gt;The options for the program start-up in this case will be read from the &lt;e3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt;.l4J.ini &lt;/e3&gt;file, which resides in the same folder as the exe file and which you can edit to reflect your setup.</seg>
       </tuv>
       <tuv lang="FR" changeid="brigitte" changedate="20130713T084150Z">
@@ -13139,6 +13147,14 @@ The FSF strongly urges you not to use this translation as the official distribu-
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Exclusion patterns</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140725T163821Z" creationid="Didier" creationdate="20140725T163821Z">
+        <seg>Masques d'exclusion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Exclusions...</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140725T163356Z" creationid="Didier" creationdate="20140725T163356Z">
@@ -19974,6 +19990,14 @@ impose that choice.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20101223T174930Z">
         <seg>Martin Wunderlich</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mask</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140725T163826Z" creationid="Didier" creationdate="20140725T163826Z">
+        <seg>Masque</seg>
       </tuv>
     </tu>
     <tu>
