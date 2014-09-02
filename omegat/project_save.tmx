@@ -20386,6 +20386,22 @@ impose that choice.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Modification info template</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140902T141026Z" creationid="Didier" creationdate="20140902T140609Z">
+        <seg>Modèle des informations de modification</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Modification info template for segments without date</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140902T140715Z" creationid="Didier" creationdate="20140902T140715Z">
+        <seg>Modèle des informations de modification pour les segments non datés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Modifications to the original document are thus handled with greater ease.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130410T132744Z">
@@ -34708,6 +34724,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130421T164604Z">
         <seg>Utiliser comme traduction par défaut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use custom templates for modification info</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140902T140804Z" creationid="Didier" creationdate="20140902T140804Z">
+        <seg>Utiliser des modèles personnalisés pour les informations de modification</seg>
       </tuv>
     </tu>
     <tu>
