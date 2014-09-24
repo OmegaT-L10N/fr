@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.6" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.6_1" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8837,6 +8837,14 @@ FOR THE PROGRAM, TO THE EXTENT PERMITTED BY APPLICABLE LAW.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Background</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140924T085300Z" creationid="Didier" creationdate="20140924T085300Z">
+        <seg>Arrière-plan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Backspace*</seg>
       </tuv>
       <tuv lang="FR" changeid="etudiant_local" changedate="20130410T122546Z">
@@ -11100,6 +11108,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130527T141203Z">
         <seg>À l'heure actuelle, &lt;a1&gt;OmegaT&lt;/a1&gt; prend en charge les formats de texte brut suivants :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Custom Colors...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140924T085224Z" creationid="Didier" creationdate="20140924T085224Z">
+        <seg>Couleurs personnalisées...</seg>
       </tuv>
     </tu>
     <tu>
@@ -21084,6 +21100,14 @@ impose that choice.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Non-unique segments</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140924T085413Z" creationid="Didier" creationdate="20140924T085413Z">
+        <seg>Segments non uniques</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Non-visible Instruction Te&amp;xt</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20110603T161720Z">
@@ -26358,6 +26382,14 @@ REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Segments with notes</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140924T085334Z" creationid="Didier" creationdate="20140924T085334Z">
+        <seg>Segments avec notes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select</seg>
       </tuv>
       <tuv lang="FR">
@@ -27479,6 +27511,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130423T120451Z">
         <seg>Segmentation de la source</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source segments</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140924T085315Z" creationid="Didier" creationdate="20140924T085315Z">
+        <seg>Segments source</seg>
       </tuv>
     </tu>
     <tu>
@@ -33910,6 +33950,14 @@ Kaptain.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translated segments</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140924T085359Z" creationid="Didier" creationdate="20140924T085353Z">
+        <seg>Segments traduits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translated segments are displayed with the original text at the top and the translated text at the bottom, untranslated segments are displayed as the source only.</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130422T224540Z">
@@ -34550,6 +34598,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140604T064126Z" creationid="Didier" creationdate="20140604T064126Z">
         <seg>Segment non traduit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Untranslated segments</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140924T085356Z" creationid="Didier" creationdate="20140924T085345Z">
+        <seg>Segments non traduits</seg>
       </tuv>
     </tu>
     <tu>
