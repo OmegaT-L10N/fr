@@ -10124,6 +10124,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (dévelo
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Colour</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140925T133106Z" creationid="Didier" creationdate="20140925T133106Z">
+        <seg>Couleur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Column Index must be equal to 1</seg>
       </tuv>
       <tuv lang="FR">
@@ -11268,6 +11276,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
       <tuv lang="FR">
         <seg>Valeurs par défaut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Default Colour</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140925T133116Z" creationid="Didier" creationdate="20140925T133116Z">
+        <seg>Couleur par défaut</seg>
       </tuv>
     </tu>
     <tu>
@@ -14547,10 +14563,42 @@ authors of previous versions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>From 100% memory</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140925T132948Z" creationid="Didier" creationdate="20140925T132948Z">
+        <seg>De la mémoire 100 %</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>From ICE memory</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140925T132932Z" creationid="Didier" creationdate="20140925T132932Z">
+        <seg>De la mémoire ICE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>From a practical point of view, the most important pair of numbers is the second pair: it tells, how much you have done so far, in relation to the total or second number.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130507T113252Z">
         <seg>D'un point de vue pratique, le couple de nombres le plus important est le second : il vous dit quelle quantité de travail a déjà été effectuée par rapport au total ou au nombre de segments uniques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>From auto memory</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140925T133033Z" creationid="Didier" creationdate="20140925T133033Z">
+        <seg>De la mémoire auto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>From memory</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140925T132903Z" creationid="Didier" creationdate="20140925T132903Z">
+        <seg>De la mémoire</seg>
       </tuv>
     </tu>
     <tu>
@@ -26722,6 +26770,14 @@ REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140131T095459Z" creationid="Didier" creationdate="20140131T095445Z">
         <seg>Serveur (mises à jour)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set Colour</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140925T133110Z" creationid="Didier" creationdate="20140925T133110Z">
+        <seg>Définir la couleur</seg>
       </tuv>
     </tu>
     <tu>
@@ -44015,6 +44071,16 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130604T131843Z">
         <seg>Installer OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">trunk/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">COLOR_REPLACE</prop>
+      <tuv lang="EN">
+        <seg>Replace</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140925T133101Z" creationid="Didier" creationdate="20140925T133101Z">
+        <seg>Remplacement</seg>
       </tuv>
     </tu>
     <tu>
