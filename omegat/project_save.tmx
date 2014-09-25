@@ -1184,6 +1184,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Source Tokenizer Behaviour:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140925T130104Z" creationid="Didier" creationdate="20140925T130104Z">
+        <seg>Comportement du lemmatiseur source :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Statistics</seg>
       </tuv>
       <tuv lang="FR">
@@ -1211,6 +1219,14 @@ java -jar OmegaT.jar $*</seg>
         <seg>&amp;Target Tokenizer Behavior:</seg>
       </tuv>
       <tuv lang="FR" changeid="jchelary" changedate="20130526T100236Z">
+        <seg>Comportement du lemmatiseur cible :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Target Tokenizer Behaviour:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140925T130127Z" creationid="Didier" creationdate="20140925T130127Z">
         <seg>Comportement du lemmatiseur cible :</seg>
       </tuv>
     </tu>
@@ -9022,6 +9038,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Bidirectional control characters</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140925T130257Z" creationid="Didier" creationdate="20140925T130257Z">
+        <seg>Caractères de contrôle de bidirectionnalité</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bihari</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130519T100744Z">
@@ -11115,6 +11139,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
         <seg>Custom Colors...</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140924T085224Z" creationid="Didier" creationdate="20140924T085224Z">
+        <seg>Couleurs personnalisées...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Custom Colours...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140925T130051Z" creationid="Didier" creationdate="20140925T130051Z">
         <seg>Couleurs personnalisées...</seg>
       </tuv>
     </tu>
@@ -21100,6 +21132,14 @@ impose that choice.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Non-breakable spaces</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140925T130224Z" creationid="Didier" creationdate="20140925T130224Z">
+        <seg>Espace insécable</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Non-unique segments</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140924T085413Z" creationid="Didier" creationdate="20140924T085413Z">
@@ -24880,6 +24920,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Supprimer le masque ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove text target</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140925T130219Z" creationid="Didier" creationdate="20140925T130203Z">
+        <seg>Texte à supprimer de la cible</seg>
       </tuv>
     </tu>
     <tu>
@@ -35986,6 +36034,14 @@ for which you have or can give appropriate copyright permission.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140604T063930Z" creationid="Didier" creationdate="20140604T063930Z">
         <seg>Caractère d'espacement - après</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Whitespaces</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20140925T130246Z" creationid="Didier" creationdate="20140925T130246Z">
+        <seg>Caractères d'espacement</seg>
       </tuv>
     </tu>
     <tu>
