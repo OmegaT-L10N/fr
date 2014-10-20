@@ -312,6 +312,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Apply</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141020T134808Z" creationid="Didier" creationdate="20141020T134808Z">
+        <seg>Ap&amp;opliquer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Apply this font to the Project Files window</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20110407T150353Z">
@@ -1040,6 +1048,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Reset to Default</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141020T134754Z" creationid="Didier" creationdate="20141020T134754Z">
+        <seg>&amp;Réinitialiser à la valeur par défaut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Restore Main Window</seg>
       </tuv>
       <tuv lang="FR">
@@ -1116,6 +1132,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140625T073513Z" creationid="Didier" creationdate="20140625T073513Z">
         <seg>&amp;Sélectionner le domaine de recherche terminologique TaaS...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Set Colour</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141020T134736Z" creationid="Didier" creationdate="20141020T134736Z">
+        <seg>&amp;Définir la couleur</seg>
       </tuv>
     </tu>
     <tu>
@@ -23712,6 +23736,14 @@ pour déterminer la source de l'erreur et faites une nouvelle tentative.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please restart the application to correctly display the new colors.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141020T134846Z" creationid="Didier" creationdate="20141020T134846Z">
+        <seg>Veuillez redémarrer l'application pour afficher correctement les nouvelles couleurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please see the file 'changes.txt' for detailed information about changes in
 this and all previous releases.</seg>
       </tuv>
@@ -30708,6 +30740,14 @@ freedom to share and change it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The new colours have been saved.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141020T134820Z" creationid="Didier" creationdate="20141020T134820Z">
+        <seg>Les nouvelles couleurs ont été enregistrées</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The new document may be serialized (output) by the processor in standard XML syntax or in another format, such as HTML or plain text.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130412T091928Z">
@@ -34066,6 +34106,14 @@ Kaptain.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Dossier des fichiers traduits :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translated document created</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141020T134726Z" creationid="Didier" creationdate="20141020T134726Z">
+        <seg>Document traduit créé</seg>
       </tuv>
     </tu>
     <tu>
