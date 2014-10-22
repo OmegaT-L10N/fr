@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.6_1" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7_1" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -22010,6 +22010,14 @@ mouse-clicks or menu items--whatever suits your program.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT Custom Colours</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141022T161130Z" creationid="Didier" creationdate="20141022T161130Z">
+        <seg>Couleurs personnalisées d'OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT Project Files</seg>
       </tuv>
       <tuv lang="FR">
@@ -23747,6 +23755,14 @@ pour déterminer la source de l'erreur et faites une nouvelle tentative.</seg>
         <seg>Please restart the application to correctly display the new colors.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20141020T134846Z" creationid="Didier" creationdate="20141020T134846Z">
+        <seg>Veuillez redémarrer l'application pour afficher correctement les nouvelles couleurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please restart the application to correctly display the new colours.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141022T161138Z" creationid="Didier" creationdate="20141022T161138Z">
         <seg>Veuillez redémarrer l'application pour afficher correctement les nouvelles couleurs.</seg>
       </tuv>
     </tu>
