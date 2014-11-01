@@ -20294,32 +20294,32 @@ impose that choice.</seg>
       <tuv lang="EN">
         <seg>Matches Deleted Active</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20141101T134437Z" creationid="Didier" creationdate="20141101T134437Z">
-        <seg>Correspondance supprimée active</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20141101T141455Z" creationid="Didier" creationdate="20141101T134437Z">
+        <seg>Correspondances supprimées actives</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Matches Deleted Inactive</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20141101T134451Z" creationid="Didier" creationdate="20141101T134451Z">
-        <seg>Correspondance supprimée inactive</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20141101T141507Z" creationid="Didier" creationdate="20141101T134451Z">
+        <seg>Correspondances supprimées inactives</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Matches Inserted Active</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20141101T134424Z" creationid="Didier" creationdate="20141101T134424Z">
-        <seg>Correspondance insérée active</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20141101T141457Z" creationid="Didier" creationdate="20141101T134424Z">
+        <seg>Correspondances insérées actives</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Matches Inserted Inactive</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20141101T134429Z" creationid="Didier" creationdate="20141101T134429Z">
-        <seg>Correspondance insérée inactive</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20141101T141459Z" creationid="Didier" creationdate="20141101T134429Z">
+        <seg>Correspondances insérées inactives</seg>
       </tuv>
     </tu>
     <tu>
@@ -44273,36 +44273,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140617T180218Z" creationid="Didier" creationdate="20140617T180218Z">
         <seg>Installer OmegaT</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <prop type="file">src/org/omegat/Bundle.properties</prop>
-      <prop type="id">COLOR_REPLACE</prop>
-      <tuv lang="EN">
-        <seg>Replace</seg>
-      </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20141101T140428Z" creationid="Didier" creationdate="20141101T140428Z">
-        <seg>Remplacement</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <prop type="file">src/org/omegat/Bundle.properties</prop>
-      <prop type="id">FILTERSCUSTOMIZER_TITLE</prop>
-      <tuv lang="EN">
-        <seg>File Filters</seg>
-      </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20141101T135958Z" creationid="Didier" creationdate="20141101T135958Z">
-        <seg>Filtres de fichiers</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <prop type="file">src/org/omegat/Bundle.properties</prop>
-      <prop type="id">WF_OPTION_EXPORT__CURRENT_SEGMENT</prop>
-      <tuv lang="EN">
-        <seg>Export the segment to text files</seg>
-      </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20141101T140141Z" creationid="Didier" creationdate="20141101T140141Z">
-        <seg>E&amp;xporter le segment dans des fichiers texte</seg>
       </tuv>
     </tu>
     <tu>
