@@ -3119,6 +3119,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt; &lt;/e0&gt; is Copyright © 2000-2013 Keith Godfrey, Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik, Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, Adiel Mittmann, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Martin Wunderlich and Michael Zakharov.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141101T134232Z" creationid="Didier" creationdate="20141101T134232Z">
+        <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;&lt;/e0&gt; est protégé par le copyright © 2000-2013 Keith Godfrey, Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik, Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, Adiel Mittmann, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Martin Wunderlich et Michael Zakharov.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt; &lt;/e0&gt; is Copyright © 2000-2013 Keith Godfrey, Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik, Thomas Cordonnier, Sandra Jean Chua, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Martin Wunderlich and Michael Zakharov.</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130519T102128Z">
@@ -20276,6 +20284,46 @@ impose that choice.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Matches Changed</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141101T134350Z" creationid="Didier" creationdate="20141101T134350Z">
+        <seg>Correspondances modifiées</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Matches Deleted Active</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141101T134437Z" creationid="Didier" creationdate="20141101T134437Z">
+        <seg>Correspondance supprimée active</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Matches Inserted Active</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141101T134424Z" creationid="Didier" creationdate="20141101T134424Z">
+        <seg>Correspondance insérée active</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Matches Inserted Inactive</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141101T134429Z" creationid="Didier" creationdate="20141101T134429Z">
+        <seg>Correspondance insérée inactive</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Matches Unchanged</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141101T134358Z" creationid="Didier" creationdate="20141101T134358Z">
+        <seg>Correspondances non modifiées</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Matches can be found in your current translation or in the TMX files that you have put in the /tm/ folder.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20120307T083730Z">
@@ -21272,6 +21320,14 @@ impose that choice.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140924T085413Z" creationid="Didier" creationdate="20140924T085413Z">
         <seg>Segments non uniques</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Non-unique segments background</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141101T134335Z" creationid="Didier" creationdate="20141101T134335Z">
+        <seg>Arrière-plan des segments non uniques</seg>
       </tuv>
     </tu>
     <tu>
@@ -26590,6 +26646,14 @@ REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Segments with notes text</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141101T134301Z" creationid="Didier" creationdate="20141101T134301Z">
+        <seg>Texte des segments avec notes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select</seg>
       </tuv>
       <tuv lang="FR">
@@ -27727,6 +27791,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140924T085315Z" creationid="Didier" creationdate="20140924T085315Z">
         <seg>Segments source</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source segments text</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141101T134252Z" creationid="Didier" creationdate="20141101T134252Z">
+        <seg>Texte des segments source</seg>
       </tuv>
     </tu>
     <tu>
@@ -34198,6 +34270,14 @@ Kaptain.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translated segments text</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141101T134317Z" creationid="Didier" creationdate="20141101T134317Z">
+        <seg>Texte des segments traduits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translated unique segments</seg>
       </tuv>
       <tuv lang="FR">
@@ -34838,6 +34918,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140924T085356Z" creationid="Didier" creationdate="20140924T085345Z">
         <seg>Segments non traduits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Untranslated segments text</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141101T134311Z" creationid="Didier" creationdate="20141101T134311Z">
+        <seg>Texte des segments non traduits</seg>
       </tuv>
     </tu>
     <tu>
