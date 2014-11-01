@@ -1306,8 +1306,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;User's Manual...</seg>
       </tuv>
-      <tuv lang="FR">
-        <seg>&amp;Manuel de l'utilisateur...</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20141101T135607Z">
+        <seg>&amp;Guide de l'utilisateur...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1430,8 +1430,8 @@ but you don't see your name on the lists, feel free to contact us.)</seg>
         <seg>(In the user's manual, see 'Files to translate' &gt; 'File formats' for a list of supported file formats.)
 To add files to the project, click on the Copy Files to Source Folder... button in the Project Files window or call this action from the Project menu and select the source files you want to copy.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20130412T134548Z">
-        <seg>(Voir le manuel utilisateur pour une liste des formats de fichier pris en charge.)
+      <tuv lang="FR" changeid="Didier" changedate="20141101T135540Z">
+        <seg>(Voir le guide de l'utilisateur pour une liste des formats de fichier pris en charge.)
 Pour ajouter des fichiers au projet, cliquez sur le bouton « Copier des fichiers dans le dossier source... » de la fenêtre Fichiers du Projet, ou bien choisissez cette option à partir du menu Projet et ajoutez les fichiers que vous souhaitez.</seg>
       </tuv>
     </tu>
@@ -8116,8 +8116,8 @@ the predecessor has it or can get it with reasonable efforts.</seg>
       <tuv lang="EN">
         <seg>An error occurred while trying to create a new folder</seg>
       </tuv>
-      <tuv lang="FR" changeid="brigitte" changedate="20130715T192246Z">
-        <seg>Erreur en essayant de créer un nouveau répertoire</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20141101T135804Z">
+        <seg>Erreur lors de la tentative de création d'un nouveau dossier</seg>
       </tuv>
     </tu>
     <tu>
@@ -18127,8 +18127,8 @@ exécutez simplement le programme d'installation.</seg>
       <tuv lang="EN">
         <seg>Installing and running OmegaT" in the User Manual.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20130531T094649Z">
-        <seg>Installation et démarrage d'OmegaT » dans le manuel utilisateur.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20141101T135506Z">
+        <seg>Installation et démarrage d'OmegaT » dans le guide de l'utilisateur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24254,8 +24254,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Project autosaved on {0}</seg>
       </tuv>
-      <tuv lang="FR">
-        <seg>Projet sauvé automatiquement à {0}</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20141101T140054Z">
+        <seg>Projet sauvegardé automatiquement à {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -33354,8 +33354,8 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="EN">
         <seg>To access this link, either copy and paste the URL to your Web browser, or open the User's Manual in your Web browser ({0} file).</seg>
       </tuv>
-      <tuv lang="FR">
-        <seg>Pour avoir accès à ce lien, copiez le dans votre navigateur Web ou bien consultez le manuel utilisateur dans votre navigateur (fichier {0}).</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20141101T135623Z">
+        <seg>Pour avoir accès à ce lien, copiez le dans votre navigateur Web ou bien consultez le guide de l'utilisateur dans votre navigateur (fichier {0}).</seg>
       </tuv>
     </tu>
     <tu>
@@ -35365,8 +35365,8 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>User's Manual</seg>
       </tuv>
-      <tuv lang="FR">
-        <seg>Manuel de l'utilisateur</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20141101T135612Z">
+        <seg>Guide de l'utilisateur</seg>
       </tuv>
     </tu>
     <tu>
@@ -44273,6 +44273,16 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140617T180218Z" creationid="Didier" creationdate="20140617T180218Z">
         <seg>Installer OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">src/org/omegat/Bundle.properties</prop>
+      <prop type="id">FILTERSCUSTOMIZER_TITLE</prop>
+      <tuv lang="EN">
+        <seg>File Filters</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141101T135958Z" creationid="Didier" creationdate="20141101T135958Z">
+        <seg>Filtres de fichiers</seg>
       </tuv>
     </tu>
     <tu>
