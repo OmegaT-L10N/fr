@@ -26384,8 +26384,8 @@ REPAIR OR CORRECTION.</seg>
       <tuv lang="EN">
         <seg>See OmegaT manual for instructions.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20120131T094548Z">
-        <seg>Consultez le manuel d'OmegaT pour obtenir des instructions.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20141101T140222Z">
+        <seg>Consultez le guide d'OmegaT pour obtenir des instructions.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44283,6 +44283,16 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20141101T135958Z" creationid="Didier" creationdate="20141101T135958Z">
         <seg>Filtres de fichiers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">src/org/omegat/Bundle.properties</prop>
+      <prop type="id">WF_OPTION_EXPORT__CURRENT_SEGMENT</prop>
+      <tuv lang="EN">
+        <seg>Export the segment to text files</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141101T140141Z" creationid="Didier" creationdate="20141101T140141Z">
+        <seg>E&amp;xporter le segment dans des fichiers texte</seg>
       </tuv>
     </tu>
     <tu>
