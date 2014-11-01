@@ -44277,6 +44277,16 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <prop type="file">src/org/omegat/Bundle.properties</prop>
+      <prop type="id">COLOR_REPLACE</prop>
+      <tuv lang="EN">
+        <seg>Replace</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141101T140428Z" creationid="Didier" creationdate="20141101T140428Z">
+        <seg>Remplacement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">src/org/omegat/Bundle.properties</prop>
       <prop type="id">FILTERSCUSTOMIZER_TITLE</prop>
       <tuv lang="EN">
         <seg>File Filters</seg>
