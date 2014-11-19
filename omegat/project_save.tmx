@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7_1" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.8" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10312,6 +10312,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (dévelo
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130415T073642Z">
         <seg>Les conflits (des traductions alternatives d'un même segment ou d'une entrée du glossaire par exemple) peuvent être surveillés, résolus et fusionnés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Conflicts: {0}, Added: {1}, Deleted: {2}, Modified: {3}</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141119T095239Z" creationid="Didier" creationdate="20141119T095239Z">
+        <seg>Conflits : {0}, Ajoutés : {1}, Supprimés : {2}, Modifiés : {3}</seg>
       </tuv>
     </tu>
     <tu>
