@@ -10044,6 +10044,16 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Close the current OmegaT instance
+3.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141125T102647Z" creationid="Didier" creationdate="20141125T102647Z">
+        <seg>Fermer l'instance actuelle d'OmegaT
+3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Close the project</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130424T092500Z">
@@ -10442,6 +10452,16 @@ makes it unnecessary.</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130421T120540Z">
         <seg>Copier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copy &lt;project&gt;/omegat/project_save.tmx file into a safe location
+2.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141125T102615Z" creationid="Didier" creationdate="20141125T102615Z">
+        <seg>Copier &lt;projet&gt;/omegat/project_save.tmx dans un emplacement sûr
+2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12285,6 +12305,16 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20141011T075348Z" creationid="Didier" creationdate="20141011T074258Z">
         <seg>Texte de compatibilité dup&amp;liqué</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>During SVN error({0}),
+project_save.tmx was not really uploaded and SVN switched to unstable status.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141125T102536Z" creationid="Didier" creationdate="20141125T102536Z">
+        <seg>Durant l'erreur SVN ({0}),
+project_save.tmx n'a pas réellement été envoyé sur le serveur et l'état de SVN est devenu instable.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25156,6 +25186,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove the project folder manually.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141125T102700Z" creationid="Didier" creationdate="20141125T102700Z">
+        <seg>Supprimer le dossier du projet manuellement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove translation</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20111111T124821Z">
@@ -33416,6 +33454,16 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To be sure that no translation will be lost, you need to:
+1.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141125T102556Z" creationid="Didier" creationdate="20141125T102556Z">
+        <seg>Pour être certain de ne perdre aucune traduction, vous devez :
+1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To browse the archives of the user group, go to:</seg>
       </tuv>
       <tuv lang="FR">
@@ -34870,6 +34918,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130412T135738Z">
         <seg>Non spécifié</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unsupported SVN error</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141125T102449Z" creationid="Didier" creationdate="20141125T102449Z">
+        <seg>Erreur SVN non prise en charge</seg>
       </tuv>
     </tu>
     <tu>
