@@ -139,7 +139,7 @@
         <primary>Glossaries</primary>
 
         <secondary>TBX format</secondary>
-      </indexterm> is also supported as read-only glossaries format. The
+      </indexterm> is also supported as a read-only glossary format. The
     location of the <filename>.tbx</filename> file must be within the
     <filename>/glossary</filename> folder, but it can be in a deeper folder
     (e.g., <filename>glossary/sub/MyGlossary.tbx</filename>).</para>
