@@ -3655,6 +3655,22 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Replace All:&lt;/e0&gt; operates replacement of all occurrences (after displaying a confirmation window where the number of occurrences is shown).</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T215058Z" creationid="Didier" creationdate="20141202T215058Z">
+        <seg>&lt;e0&gt;Remplacer tout :&lt;/e0&gt; effectue le remplacement de toutes les occurrences (après l'affichage d'une fenêtre de confirmation où le nombre d'occurrences est affiché).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Replace:&lt;/e0&gt; operates a "one by one" replacement, by the mean of buttons in the &lt;e1&gt;header of the Editor pane&lt;/e1&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T215256Z" creationid="Didier" creationdate="20141202T215256Z">
+        <seg>&lt;e0&gt;Remplacer :&lt;/e0&gt; effectue les remplacements les uns après les autres, à l'aide de boutons dans l'&lt;e1&gt;en-tête de l'Éditeur&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Sample text:&lt;/e0&gt; field for immediate preview of the selected font</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130506T072810Z">
@@ -10184,6 +10200,14 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130429T080338Z">
         <seg>Cliquez sur &lt;e0&gt;Valeurs par défaut&lt;/e0&gt; pour que les filtres de fichiers retrouvent leurs valeurs par défaut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click &lt;e2&gt;Replace Next&lt;/e2&gt; or &lt;e3&gt;Skip&lt;/e3&gt;, then end the replacement session with &lt;e4&gt;Finish&lt;/e4&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T215305Z" creationid="Didier" creationdate="20141202T215305Z">
+        <seg>Cliquez sur &lt;e2&gt;Replace Next&lt;/e2&gt; or &lt;e3&gt;Skip&lt;/e3&gt;, then end the replacement session with &lt;e4&gt;Finish&lt;/e4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
