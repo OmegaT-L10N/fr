@@ -4175,6 +4175,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;K&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T180026Z" creationid="Didier" creationdate="20141202T180026Z">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;K&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;L&lt;/k1&gt;</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T104633Z">
@@ -4271,6 +4279,30 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;C&lt;/k2&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T180017Z" creationid="Didier" creationdate="20141202T180017Z">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Maj&lt;/k1&gt; &lt;k2&gt;C&lt;/k2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;G&lt;/k2&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T180023Z" creationid="Didier" creationdate="20141202T180023Z">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Maj&lt;/k1&gt; &lt;k2&gt;G&lt;/k2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;I&lt;/k2&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T175836Z" creationid="Didier" creationdate="20141202T175836Z">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Maj&lt;/k1&gt; &lt;k2&gt;I&lt;/k2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;N&lt;/k2&gt;</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130421T171835Z">
@@ -4283,6 +4315,22 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130421T173209Z">
         <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Maj&lt;/k1&gt; &lt;k2&gt;P&lt;/k2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;R&lt;/k2&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T175827Z" creationid="Didier" creationdate="20141202T175817Z">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Maj&lt;/k1&gt; &lt;k2&gt;R&lt;/k2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;T&lt;/k2&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T175848Z" creationid="Didier" creationdate="20141202T175848Z">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Maj&lt;/k1&gt; &lt;k2&gt;T&lt;/k2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6371,6 +6419,22 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130502T073503Z">
         <seg>&lt;p0&gt;Balises&lt;/p0&gt; &lt;s1&gt;Astuces&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Tags&lt;/p0&gt; &lt;s1&gt;Inserting missing source tags&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T175910Z" creationid="Didier" creationdate="20141202T175910Z">
+        <seg>&lt;p0&gt;Balises&lt;/p0&gt; &lt;s1&gt;Insérer les balises sources manquantes&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Tags&lt;/p0&gt; &lt;s1&gt;Inserting next missing tag&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T175945Z" creationid="Didier" creationdate="20141202T175945Z">
+        <seg>&lt;p0&gt;Balises&lt;/p0&gt; &lt;s1&gt;Insérer la prochaine balise manquante&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10804,6 +10868,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create Current Translated Document</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T175750Z" creationid="Didier" creationdate="20141202T175750Z">
+        <seg>Créer le document actuel traduit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create Current Translated Documents</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140414T134042Z" creationid="Didier" creationdate="20140414T134042Z">
@@ -10920,6 +10992,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130503T085259Z">
         <seg>Crée et ouvre un nouveau projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creates the target document corresponding to the current document in translation.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T175815Z" creationid="Didier" creationdate="20141202T175815Z">
+        <seg>Crée le document cible correspondant au document actuel traduit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18239,6 +18319,14 @@ patent against the party.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Insert Missing Source Tags</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T175843Z" creationid="Didier" creationdate="20141202T175843Z">
+        <seg>Insérer les balises source manquantes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Insert Next Missing Tag</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130326T082158Z">
@@ -18311,6 +18399,14 @@ patent against the party.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Inserts only one tag (among the missing ones) at the cursor position.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T180012Z" creationid="Didier" creationdate="20141202T180012Z">
+        <seg>N'insère qu'une balise (parmi les manquantes) à l'endroit où se trouve le curseur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Inserts the currently selected fuzzy match at the cursor position.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130527T152230Z">
@@ -18331,6 +18427,14 @@ patent against the party.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130527T152234Z">
         <seg>Insère la source à l’endroit où se trouve le curseur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Inserts the source tags (if they where missing) at the cursor position.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T175930Z" creationid="Didier" creationdate="20141202T175930Z">
+        <seg>Insère les balises source (si elles étaient manquantes) à l'endroit où se trouve le curseur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23462,6 +23566,14 @@ happen should you file a bug report.</seg>
       </tuv>
       <tuv lang="FR" changeid="brigitte" changedate="20130715T200809Z">
         <seg>Ouvrir le guide de l'utilisateur par ce biais permet également de suivre des liens externes, dans la mesure où le navigateur d'aide intégré n'accepte pas les liens Internet externes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Opens a new &lt;l0&gt;Search and replace window&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T180047Z" creationid="Didier" creationdate="20141202T180047Z">
+        <seg>Ouvre une nouvelle &lt;l0&gt;fenêtre de Recherche et remplacement&lt;/l0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
