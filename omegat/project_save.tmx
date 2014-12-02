@@ -15078,6 +15078,14 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Glossary files can be either in system default encoding (and indicated by the extension .tab) or in UTF-8 (the extension .utf8 or .txt) or in UTF-16 LE (the extension .txt).</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T173805Z" creationid="Didier" creationdate="20141202T173805Z">
+        <seg>Les fichiers glossaire peuvent être du type d'encodage par défaut du système (et indiqués par l'extension .tab) ou en UTF-8 (extension .utf8 ou .txt) ou en UTF-16 LE (extension .txt).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Glossary files can be either in system default encoding (and indicated by the extension .tab) or in UTF-8 (the extension .utf8).</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130430T091352Z">
@@ -17450,6 +17458,14 @@ excuse you from the conditions of this License.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130506T120039Z">
         <seg>De manière similaire, l'utilisateur peut créer des filtres de fichiers spécifiques au projet qui seront sauvegardés avec le projet et ne seront donc valables que pour le projet en cours.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In addition to the plain text format, TBX format &lt;i0/&gt; is also supported as read-only glossaries format.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T173917Z" creationid="Didier" creationdate="20141202T173917Z">
+        <seg>En plus du format texte brut, le format TBX &lt;i0/&gt; est également pris en charge.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30978,6 +30994,14 @@ freedom to share and change it.</seg>
       </tuv>
       <tuv lang="FR" changeid="jchelary" changedate="20130526T122452Z">
         <seg>Le fichier doit se trouver à l'intérieur du dossier &lt;f1&gt;/glossary (glossaire)&lt;/f1&gt;, mais il peut être inséré dans un sous-dossier (ex : &lt;f2&gt;glossary/sub/glossary.txt&lt;/f2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The location of the file must be within the &lt;f2&gt;/glossary&lt;/f2&gt; folder, but it can be in a deeper folder (e.g., &lt;f3&gt;glossary/sub/glossary.txt&lt;/f3&gt;).</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T173730Z" creationid="Didier" creationdate="20141202T173730Z">
+        <seg>Le fichier doit se trouver à l'intérieur du dossier &lt;f2&gt;/glossary &lt;/f2&gt;, (glossaire)mais il peut être inséré dans un sous-dossier (ex : &lt;f3&gt;glossary/sub/glossary.txt&lt;/f3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
