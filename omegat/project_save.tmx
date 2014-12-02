@@ -19099,6 +19099,14 @@ exécutez simplement le programme d'installation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It allows accessing both public and private data, where private glossaries (called "collections") can be extracted from existing documents, and the target terms partly populated automatically from various sources.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T221140Z" creationid="Didier" creationdate="20141202T221140Z">
+        <seg>Il permet l'accès à des données publiques et privées, où des glossaires privés (appelés des « collections ») peuvent être extraits à partir de documents existants et les termes cible peuvent être en partie remplis automatiquement à partir de différentes sources.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It also contains installation instructions.</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130422T134107Z">
@@ -23048,6 +23056,14 @@ mouse-clicks or menu items--whatever suits your program.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT allows accessing the public part of TaaS without any registration.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T221238Z" creationid="Didier" creationdate="20141202T221238Z">
+        <seg>OmegaT permet d'accéder à la partie public de TaaS sans inscription.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT allows to run scripts written in different scripting languages.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20141202T171227Z" creationid="Didier" creationdate="20141202T171227Z">
@@ -23116,6 +23132,14 @@ mouse-clicks or menu items--whatever suits your program.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130527T142213Z">
         <seg>OmegaT peut vérifier que les variables de programmation du texte source (par exemple %s) existent dans la traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT configuration launchers (OmegaT.l4J.ini, omegat.kaptn and OmegaT.sh) contain a template entry.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T221353Z" creationid="Didier" creationdate="20141202T221353Z">
+        <seg>Les lanceurs de configuration d'OmegaT (OmegaT.l4J.ini, omegat.kaptn et OmegaT.sh) contiennent un modèle d'entrée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25542,6 +25566,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130424T193201Z">
         <seg>Mémoire pseudotraduite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Public and private collections</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T221149Z" creationid="Didier" creationdate="20141202T221149Z">
+        <seg>Collections publics et privées</seg>
       </tuv>
     </tu>
     <tu>
@@ -31876,6 +31908,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The key must then be given to OmegaT using -Dtaas.user.key=xxxxx.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T221312Z" creationid="Didier" creationdate="20141202T221312Z">
+        <seg>La clé doit être transmise à OmegaT avec -Dtaas.user.key=xxxxx.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The language code should be in the form xx-YY, xxx-YY, xx_YY or xxx_YY, where 
 xx or xxx is the language code and YY is the region or country code (optional).</seg>
       </tuv>
@@ -34782,6 +34822,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20141202T174936Z" creationid="Didier" creationdate="20141202T174936Z">
         <seg>Pour accéder à &lt;a0&gt;&lt;e1&gt;OmegaT.sh&lt;/e1&gt;&lt;/a0&gt;, faites un clic droit sur &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.app&lt;/e2&gt; et sélectionnez « Afficher le contenu du paquet », puis ouvrez le fichier dans Contents/MacOS avec un clic droit et en sélectionnant l'éditeur de texte de votre choix.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To access the private part, a user must create a key using https://demo.taas-project.eu/account/keys/create?system=omegaT.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T221300Z" creationid="Didier" creationdate="20141202T221300Z">
+        <seg>Pour accéder à la partie privée, un utilisateur doit créer une clé en utilisant https://demo.taas-project.eu/account/keys/create?system=omegaT.</seg>
       </tuv>
     </tu>
     <tu>
