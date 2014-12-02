@@ -22375,6 +22375,14 @@ Rajout d'une partie approriée, afin que la note de bas de page ne se retrouve p
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note: colors are customizable through the &lt;g0&gt;Options / Custom colours...&lt;/g0&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T181353Z" creationid="Didier" creationdate="20141202T181353Z">
+        <seg>Note : les couleurs peuvent être modifiées avec le dialogue &lt;g0&gt;Options / Couleurs personnalisées...&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note: not all filters allow you to select an encoding.</seg>
       </tuv>
       <tuv lang="FR">
@@ -27722,6 +27730,14 @@ REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130527T152912Z">
         <seg>Définit &lt;g0&gt;Tab&lt;/g0&gt; comme touche de validation de segment à la place d'&lt;g1&gt;Entrée&lt;/g1&gt; (touche par défaut).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Setting it to &lt;e1&gt;All segments&lt;/e1&gt; shows this information for all segments and &lt;e2&gt;None&lt;/e2&gt; turns this option off.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T181320Z" creationid="Didier" creationdate="20141202T181320Z">
+        <seg>Choisir l'option &lt;e1&gt;Afficher pour tous les segments&lt;/e1&gt; permettra d'afficher ces informations pour tous les segments simultanément. Choisir &lt;e2&gt;Ne rien afficher&lt;/e2&gt; désactive cette option.</seg>
       </tuv>
     </tu>
     <tu>
