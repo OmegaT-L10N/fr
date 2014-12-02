@@ -100,7 +100,9 @@
             <entry><para>Used to validate tags (open with <keycombo>
                 <keycap>Ctrl</keycap>
 
-                <keycap>T</keycap>
+                <keycap>Shift</keycap>
+
+                <keycap>V</keycap>
               </keycombo>, close with <keycap>Esc</keycap>)</para></entry>
           </row>
 
@@ -185,30 +187,21 @@
 
           <row>
             <entry><guimenuitem>Font<indexterm class="singular">
-                <primary>Project Settings</primary>
-
-                <secondary>Font</secondary>
+                <primary>Font</primary>
               </indexterm></guimenuitem></entry>
 
             <entry><para>Used to modify the font used by
-            <application>OmegaT</application> to display source, translation, matches and
-            glossary terms, (access via <menuchoice>
+            <application>OmegaT</application> to display source, translation,
+            matches and glossary terms, (access via <menuchoice>
                 <guimenu>Options</guimenu>
 
                 <guimenuitem>Font...</guimenuitem>
-              </menuchoice>, close via
-            <keycap>Esc</keycap>)</para></entry>
+              </menuchoice>, close via <keycap>Esc</keycap>)</para></entry>
           </row>
 
           <row>
             <entry><guimenuitem>File filters<indexterm class="singular">
-                <primary>Project Settings</primary>
-
-                <secondary>File filters</secondary>
-              </indexterm><indexterm class="singular">
-                <primary>Menu Options</primary>
-
-                <secondary>File filters</secondary>
+                <primary>File filters</primary>
               </indexterm></guimenuitem></entry>
 
             <entry>Used to adjust the handling of supported file formats
@@ -221,13 +214,7 @@
 
           <row>
             <entry><guimenuitem>Segmentation<indexterm class="singular">
-                <primary>Project Settings</primary>
-
-                <secondary>Segmentation</secondary>
-              </indexterm><indexterm class="singular">
-                <primary>Menu Options</primary>
-
-                <secondary>Segmentation</secondary>
+                <primary>Segmentation</primary>
               </indexterm></guimenuitem></entry>
 
             <entry>Used to change the way your text is segmented into
@@ -240,13 +227,7 @@
 
           <row>
             <entry><guimenuitem>Editing Behavior<indexterm class="singular">
-                <primary>Menu Options</primary>
-
-                <secondary>Editing Behavior</secondary>
-              </indexterm><indexterm class="singular">
-                <primary>Project Settings</primary>
-
-                <secondary>Editing Behavior</secondary>
+                <primary>Editing Behavior</primary>
               </indexterm></guimenuitem></entry>
 
             <entry>Used to change how <application>OmegaT</application>
@@ -589,7 +570,7 @@
 
       <itemizedlist>
         <listitem>
-          <para>match percentage when the tokenizer plugin is used</para>
+          <para>match percentage (taking into account tokenizers)</para>
         </listitem>
       </itemizedlist>
 
@@ -864,7 +845,7 @@
 
       <para>The machine translation pane, when opened, contains the
       suggestions by machine translation tools for the current segment. Press
-      <keysym>Ctrl+M </keysym>to replace the translation of the current
+      <keysym>Ctrl+M</keysym>to replace the translation of the current
       segment with the suggested translation. More in the chapter <link
       linkend="chapter.machine.translate">Machine translation</link></para>
     </section>
@@ -873,7 +854,7 @@
       <title id="main.menu">Main menu</title>
 
       <para>The main menu provides access to all
-      <application>OmegaT</application> functions. See the<emphasis> Main
+      <application>OmegaT</application> functions. See the <emphasis>Main
       Menu</emphasis> appendix for a full description of all menus and menu
       items. The most frequently used functions are accessible with keyboard
       shortcuts, so once you become accustomed to them, you will no longer
@@ -913,10 +894,18 @@
 
       <itemizedlist>
         <listitem>
-          <para>the list of all translatable files in the project. These are
-          the files present in the Source files folder in a format that OmegaT
-          is able to recognize. Clicking on any file will open it for
-          translation</para>
+          <para>the total number of translatable files in the project. These
+          are the files present in the /source folder in a format that OmegaT
+          is able to recognize. This number is displayed in brackets, next to
+          the "Project file" title</para>
+        </listitem>
+
+        <listitem>
+          <para>the list of all translatable files in the project. Clicking on
+          any file will open it for translation. Note: filenames (in first
+          column) can be sorted alphabetically by clicking in the header. It
+          also possible to change the position of a filename, by clicking on
+          it and pressing <emphasis>Move ...</emphasis> buttons.</para>
         </listitem>
       </itemizedlist>
 
@@ -1110,12 +1099,12 @@
       Statistics.</guimenuitem> The evaluation is rather CPU intensive and can
       be time-consuming, so a progress bar is shown during the calculation. As
       far as categories are concerned, the de facto industry standard of
-      classifying matches into the following groups is used: Repetitions, Exact match,
-      95%-100%, 85%-94%, 75%-84%, 50%-74% and No match. This information is
-      computed for segments as well as for words and for characters (without
-      and including spaces). Note that there could be minor differences
-      between the OmegaT counts and the numbers, provided by other CAT
-      tools.<figure>
+      classifying matches into the following groups is used: Repetitions,
+      Exact match, 95%-100%, 85%-94%, 75%-84%, 50%-74% and No match. This
+      information is computed for segments as well as for words and for
+      characters (without and including spaces). Note that there could be
+      minor differences between the OmegaT counts and the numbers, provided by
+      other CAT tools.<figure>
           <title>Match statistics</title>
 
           <mediaobject>
