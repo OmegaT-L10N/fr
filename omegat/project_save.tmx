@@ -3295,6 +3295,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Browse TaaS Collections&lt;/e0&gt; will allow browsing existing collections for the source and target languages of the project, and downloading them.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T221604Z" creationid="Didier" creationdate="20141202T221604Z">
+        <seg>&lt;e0&gt;Parcourir les collections TaaS&lt;/e0&gt; permettra de parcourir et de télécharger les collections existantes pour les langues source et cible du projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Close:&lt;/e0&gt; close the window without any change.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20141202T215424Z" creationid="Didier" creationdate="20141202T215424Z">
@@ -3787,6 +3795,14 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130527T134908Z">
         <seg>&lt;e0&gt;Commencer un nouveau paragraphe sur&lt;/e0&gt; : &lt;br&gt; (rupture de ligne), cette balise HTML créera un paragraphe du point de vue de la segmentation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;TaaS Terminology Lookup&lt;/e0&gt;: when checked, will allow querying TaaS data on a segment by segment basis.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T221726Z" creationid="Didier" creationdate="20141202T221726Z">
+        <seg>&lt;e0&gt;Recherche terminologique TaaS&lt;/e0&gt;: si cochée, permettra d'interroger les données de TaaS segment par segment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7659,6 +7675,14 @@ or that patent license was granted, prior to 28 March 2007.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Accessing the TaaS service</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T221453Z" creationid="Didier" creationdate="20141202T221453Z">
+        <seg>Accès au service TaaS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Acknowledgements</seg>
       </tuv>
       <tuv lang="FR" changeid="etudiant_local" changedate="20130410T121150Z">
@@ -10328,6 +10352,14 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Clic sur l'entrée de menu « {0} »</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click on &lt;e0&gt;Options, Glossary&lt;/e0&gt; to display the following options:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T221512Z" creationid="Didier" creationdate="20141202T221512Z">
+        <seg>Cliquez sur &lt;e0&gt;Options, Glossaire&lt;/e0&gt; pour afficher les options suivantes :</seg>
       </tuv>
     </tu>
     <tu>
@@ -15746,6 +15778,14 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140625T073922Z" creationid="Didier" creationdate="20140625T073922Z">
         <seg>Allez à https://demo.taas-project.eu/account/keys/create?system=omegaT pour créer votre propre clé et passez-la à OmegaT avec -Dtaas.user.key=xxxxx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go to https://demo.taas-project.eu/account/keys/create?system=omegaT to create your own key then give it to OmegaT with -Dtaas.user.key=xxxxx (TAAS_API_KEY_NOT_FOUND)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T221442Z" creationid="Didier" creationdate="20141202T221442Z">
+        <seg>Allez à https://demo.taas-project.eu/account/keys/create?system=omegaT pour créer votre propre clé et passez-la à OmegaT avec -Dtaas.user.key=xxxxx (TAAS_API_KEY_NOT_FOUND)</seg>
       </tuv>
     </tu>
     <tu>
@@ -25178,6 +25218,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Private collections are displayed in bold.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T221614Z" creationid="Didier" creationdate="20141202T221614Z">
+        <seg>Les collections privées sont affichées en gras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Pro&amp;ject</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130328T172036Z">
@@ -31193,6 +31241,14 @@ shown below.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130528T131455Z">
         <seg>La traduction collaborative proposée par OmegaT fonctionne sur la base de contrôle des versions et des révisions. Cette fonction est très utilisée au sein de la communauté des créateurs de logiciels pour contrôler les changements apportés aux codes d'un programme et permettre à l'équipe de développement de collaborer sans entrave.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The collections are downloaded as TBX glossaries in the current glossary folder.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T221645Z" creationid="Didier" creationdate="20141202T221645Z">
+        <seg>Les collections sont téléchargées sous la forme de glossaires TBX dans le dossier de glossaires actuel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37589,6 +37645,14 @@ you have just discovered.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130527T130431Z">
         <seg>Lorsqu'une règle activée n'est pas respectée, la phrase correspondante est soulignée en bleue dans l'Éditeur (voir &lt;e1&gt;also&lt;/e1&gt;et &lt;e2&gt;I didn't do nothing&lt;/e2&gt; dans l'image ci-dessus).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When accessing the service without a private key, the following message will be put in the log: TaaS API key not found.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T221425Z" creationid="Didier" creationdate="20141202T221425Z">
+        <seg>Lors de l'accès au service sans clé privée, le message suivant sera inscrit dans le journal : Clé API TaaS introuvable.</seg>
       </tuv>
     </tu>
     <tu>
