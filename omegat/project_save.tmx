@@ -25144,6 +25144,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Press &lt;k0&gt;Ctrl+M&lt;/k0&gt;to replace the translation of the current segment with the suggested translation.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T222541Z" creationid="Didier" creationdate="20141202T222541Z">
+        <seg>Appuyer sur &lt;k0&gt;Ctrl+M &lt;/k0&gt;permet de remplacer la traduction du segment en cours par la traduction suggérée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Press &lt;u&gt;{0}&lt;/u&gt; to go to &lt;b&gt;{1}&lt;/b&gt; suggestions.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130913T162227Z" creationid="Didier" creationdate="20130913T162227Z">
@@ -36998,6 +37006,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Used to validate tags (open with &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;V&lt;/k3&gt; &lt;/k0&gt;, close with &lt;k4&gt;Esc&lt;/k4&gt;)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T222342Z" creationid="Didier" creationdate="20141202T222342Z">
+        <seg>Utiliser pour valider les balises (s'ouvre avec &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Maj&lt;/k2&gt; &lt;k3&gt;V&lt;/k3&gt; &lt;/k0&gt;, se ferme avec &lt;k4&gt;Échap&lt;/k4&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Used to validate tags (open with &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;T&lt;/k2&gt; &lt;/k0&gt;, close with &lt;k3&gt;Esc&lt;/k3&gt;)</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130507T100137Z">
@@ -43374,6 +43390,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T100110Z">
         <seg>mar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>match percentage (taking into account tokenizers)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T222409Z" creationid="Didier" creationdate="20141202T222409Z">
+        <seg>pourcentage de correspondance (prenant en compte les lemmatiseurs)</seg>
       </tuv>
     </tu>
     <tu>
