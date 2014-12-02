@@ -9868,6 +9868,22 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check this option to be warned about differences between source and target segments tags each time you leave a segment.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T172352Z" creationid="Didier" creationdate="20141202T172352Z">
+        <seg>Cochez cette option pour être prévenu des différences entre les balises des segments source et cible à chaque fois que vous quittez un segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check this option to record in the &lt;f0&gt;project_save.tmx&lt;/f0&gt; file the information that a segment has been auto-populated, so it can be displayed with a specific color in the Editor pane (if "Mark Auto-Populated Segments" option, in View tab, is checked).</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T172607Z" creationid="Didier" creationdate="20141202T172607Z">
+        <seg>Cochez cette option pour enregistrer dans le fichier &lt;f0&gt;project_save.tmx&lt;/f0&gt; les informations indiquant qu'un segment à été traduit automatiquement, afin qu'il puisse être affiché dans une couleur spécifique dans l'Éditeur (si l'option « Marquer les segments traduits à partir du dossier auto » du menu Affichage est cochée).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check whole project</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140604T064600Z" creationid="Didier" creationdate="20140604T064537Z">
