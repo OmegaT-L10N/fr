@@ -4071,6 +4071,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;N&lt;/k2&gt; &lt;/k0&gt; or &lt;k3&gt;Enter&lt;/k3&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T180414Z" creationid="Didier" creationdate="20141202T180414Z">
+        <seg>&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;N&lt;/k2&gt; &lt;/k0&gt; ou &lt;k3&gt;Entrée&lt;/k3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;N&lt;/k2&gt; &lt;/k0&gt; or &lt;k3&gt;Enter&lt;/k3&gt; or &lt;k4&gt;Tab&lt;/k4&gt;</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130421T170226Z">
@@ -4083,6 +4091,14 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130421T231916Z">
         <seg>&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;N&lt;/k2&gt; &lt;/k0&gt;, &lt;k3&gt;Entrée&lt;/k3&gt; ou &lt;k4&gt;Retour&lt;/k4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;P&lt;/k2&gt; &lt;/k0&gt; or &lt;k3&gt; &lt;k4&gt;Ctrl&lt;/k4&gt; &lt;k5&gt;Enter&lt;/k5&gt; &lt;/k3&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T180427Z" creationid="Didier" creationdate="20141202T180427Z">
+        <seg>&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;P&lt;/k2&gt; &lt;/k0&gt; ou &lt;k3&gt; &lt;k4&gt;Ctrl&lt;/k4&gt; &lt;k5&gt;Entrée&lt;/k5&gt; &lt;/k3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4299,6 +4315,14 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20141202T175836Z" creationid="Didier" creationdate="20141202T175836Z">
         <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Maj&lt;/k1&gt; &lt;k2&gt;I&lt;/k2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T180438Z" creationid="Didier" creationdate="20141202T180438Z">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Maj&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16263,6 +16287,14 @@ circumstances.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If checked, non-breakable spaces will be displayed with a grey background.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T180546Z" creationid="Didier" creationdate="20141202T180546Z">
+        <seg>S'il est coché, les espaces insécables seront signalés par un fond gris.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If checked, non-unique segments will be marked in pale grey.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130503T094514Z">
@@ -16315,6 +16347,14 @@ circumstances.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130503T094351Z">
         <seg>S'il est coché, les segments non traduits seront surlignés en violet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If checked, white spaces will be displayed with a small dot.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T180627Z" creationid="Didier" creationdate="20141202T180627Z">
+        <seg>S'il est coché, les caractères d'espacement seront affichés avec un petit point.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21338,6 +21378,14 @@ impose that choice.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Moves to the next already translated segment, ignoring untranslated segments.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T180402Z" creationid="Didier" creationdate="20141202T180402Z">
+        <seg>Se déplace au prochain segment déjà traduit, ignorant les segments non traduits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Moves to the next segment that has no equivalent in the translation memory.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130503T093516Z">
@@ -21366,6 +21414,14 @@ impose that choice.</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130421T232110Z">
         <seg>Se rend au segment qui porte le numéro choisi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moves to the segment that does correspond to the current selected match in the &lt;g0&gt;Fuzzy matches&lt;/g0&gt; pane.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T180519Z" creationid="Didier" creationdate="20141202T180519Z">
+        <seg>Se déplace au segment qui correspond à la correspondance sélectionnée actuellement dans l'onglet des &lt;g0&gt;Correspondances&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28403,6 +28459,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source of Selected Match</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T180433Z" creationid="Didier" creationdate="20141202T180433Z">
+        <seg>Source de la correspondance sélectionnée</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source only</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140203T140527Z" creationid="Didier" creationdate="20140203T140527Z">
@@ -33779,6 +33843,14 @@ this version will not interfere with it.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130429T132351Z">
         <seg>Cette option vous permet de saisir la traduction sans avoir besoin de supprimer le texte source, ce qui vous évite ainsi de devoir faire deux frappes de touches supplémentaires (&lt;e0&gt;Ctrl+A &lt;/e0&gt;et &lt;e1&gt;Suppr).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This option displays &lt;u0&gt;bidirectional control characters"&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T180649Z" creationid="Didier" creationdate="20141202T180649Z">
+        <seg>Cette option affiche les &lt;u0&gt;caractères de contrôle de bidirectionnalité&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -41326,6 +41398,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130412T135933Z">
         <seg>http://www.sil.org/ISO639-3/codes.asp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.w3.org/International/questions/qa-bidi-controls</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T180629Z" creationid="Didier" creationdate="20141202T180629Z">
+        <seg>http://www.w3.org/International/questions/qa-bidi-controls</seg>
       </tuv>
     </tu>
     <tu>
