@@ -3143,6 +3143,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt; &lt;/e0&gt; is Copyright © 2000-2014 Keith Godfrey, Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik, Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, Adiel Mittmann, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Martin Wunderlich and Michael Zakharov.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T171201Z" creationid="Didier" creationdate="20141202T171201Z">
+        <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;&lt;/e0&gt; est protégé par le copyright © 2000-2014 Keith Godfrey, Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik, Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, Adiel Mittmann, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Martin Wunderlich et Michael Zakharov.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.app&lt;/e0&gt; can be accessed from the Mac OS X Services.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130502T121253Z">
@@ -10000,6 +10008,14 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20120710T125233Z">
         <seg>Cliquez sur Importer des fichiers source... pour sélectionner le fichier source.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Clicking &lt;g0&gt;Tools &gt; &lt;/g0&gt;&lt;g1&gt;Scripting&lt;/g1&gt; opens the Scripting window:&lt;s2&gt; &lt;s3&gt;Scripting window&lt;/s3&gt; &lt;m4&gt; &lt;i5&gt; &lt;i6/&gt; &lt;/i5&gt; &lt;/m4&gt; &lt;/s2&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T171342Z" creationid="Didier" creationdate="20141202T171342Z">
+        <seg>En cliquant sur &lt;g0&gt;Outils &gt; &lt;/g0&gt;&lt;g1&gt;Scripts&lt;/g1&gt;, la fenêtre de Scripts s'ouvre :&lt;s2&gt; &lt;s3&gt;fenêtre de Scripts&lt;/s3&gt; &lt;m4&gt; &lt;i5&gt; &lt;i6/&gt; &lt;/i5&gt; &lt;/m4&gt; &lt;/s2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22200,6 +22216,14 @@ mouse-clicks or menu items--whatever suits your program.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT allows to run scripts written in different scripting languages.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T171227Z" creationid="Didier" creationdate="20141202T171227Z">
+        <seg>OmegaT permet d'exécuter des scripts écrits dans différents langages de script.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT allows you to do this by marking the characters/words that have a special formatting with easy-to-handle tags.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130430T073807Z">
@@ -23804,6 +23828,14 @@ of promoting the sharing and reuse of software generally.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130430T071704Z">
         <seg>Les fichiers texte brut contiennent uniquement du texte, de sorte que pour effectuer leur traduction il suffit de taper celle-ci dans le logiciel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please check the &lt;u0&gt;ISO 639 Code Tables&lt;/u0&gt; for further and up-to-date information about language codes.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T171112Z" creationid="Didier" creationdate="20141202T171112Z">
+        <seg>Merci de regarder le &lt;u0&gt;Tableau de Codes ISO 639&lt;/u0&gt; pour des informations complémentaires et actualisées à propos des codes langues.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26154,6 +26186,14 @@ REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130527T130630Z">
         <seg>Extension Scripts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Scripts</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T171205Z" creationid="Didier" creationdate="20141202T171205Z">
+        <seg>Scripts</seg>
       </tuv>
     </tu>
     <tu>
@@ -30245,6 +30285,14 @@ instead.</seg>
       </tuv>
       <tuv lang="FR" changeid="brigitte" changedate="20130715T193030Z">
         <seg>Le documentation fournie avec&lt;a0&gt;OmegaT&lt;/a0&gt; comprend le guide de l'utilisateur et un document readme.txt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The documentation is Copyright ©2013 Vito Smolej, ©2014 Vincent Bidaux.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T171138Z" creationid="Didier" creationdate="20141202T171138Z">
+        <seg>Cette documentation est protégée par le copyright ©2013 Vito Smolej, ©2014 Vincent Bidaux.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35178,6 +35226,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="FR" changeid="pingouin" changedate="20130418T161122Z">
         <seg>Utilisation : &lt;l0&gt;java -jar &lt;a1&gt;OmegaT&lt;/a1&gt;.jar /path/to/project --mode=console-translate --tag-validation=abort&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T171231Z" creationid="Didier" creationdate="20141202T171231Z">
+        <seg>Utilisation</seg>
       </tuv>
     </tu>
     <tu>
