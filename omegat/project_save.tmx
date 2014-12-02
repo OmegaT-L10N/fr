@@ -17449,6 +17449,14 @@ the scope of this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In case no tokenizer exists for the current languages, OmegaT uses Hunspell instead (in that case, make sure that relevant Hunspell dictionaries are installed).</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T171737Z" creationid="Didier" creationdate="20141202T171737Z">
+        <seg>S'il n'existe aucun lemmatiseur pour les langues actuelles, OmegaT utilise Hunspell à la place (dans ce cas, vérifiez que les dictionnaires Hunspell appropriés sont installés).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In case of OmegaT complete project folders - in other words the translation memories involved as well as source folders, project settings etc - are managed by the selected RCS.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130507T091000Z">
@@ -25294,6 +25302,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20111111T124821Z">
         <seg>Supprimer la traduction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Removing an entire tag remains possible in that case, by using Ctrl+Backspace/Delete or by selecting it completely (Ctrl+Shift+Left/Right) then deleting it (Delete or Ctrl+X).</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T171956Z" creationid="Didier" creationdate="20141202T171956Z">
+        <seg>Supprimmer une balises entière reste possible dans ce cas, en utilisant Ctrl+Retour arrière/Suppr ou en la sélectionnant entièrement (Ctrl+Maj+Gauche/Droite) puis en la supprimant (Suppr ou Ctrl+X).</seg>
       </tuv>
     </tu>
     <tu>
@@ -34902,6 +34918,14 @@ Kaptain.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130410T132717Z">
         <seg>Les phrases inchangées sont traduites automatiquement alors que pour les phrases mises à jour, la traduction des anciennes phrases qui leur ressemblent le plus est affichée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Uncheck this option to prevent any damage on the tags (i.e., partial deletion) during editing.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T171826Z" creationid="Didier" creationdate="20141202T171826Z">
+        <seg>Décochez cette option pour empêcher les balises d'être endommagées (par exemple par une suppression partielle) durant les modifications.</seg>
       </tuv>
     </tu>
     <tu>
