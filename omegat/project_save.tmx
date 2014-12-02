@@ -14360,6 +14360,14 @@ control compilation and installation of the executable.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, &lt;f1&gt;LANGUAGE="-Duser.language=ja"&lt;/f1&gt; (without the #) will launch &lt;a2&gt;OmegaT&lt;/a2&gt; with the user interface in Japanese.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T175115Z" creationid="Didier" creationdate="20141202T175115Z">
+        <seg>Par exemple, &lt;f1&gt;LANGUAGE="-Duser.language=ja"&lt;/f1&gt; (sans le #) lancera &lt;a2&gt;OmegaT&lt;/a2&gt; avec l'interface utilisateur en japonais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, &lt;l0&gt;&lt;div class="hide"&gt; &lt;span translate="no"&gt;&lt;/l0&gt; You can define key-value pairs for tags to be left untranslated.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130429T083134Z">
@@ -14575,6 +14583,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20120411T092923Z">
         <seg>Pour plus d'informations sur le script Kaptain et sur l'ajout d'entrées de menu et d'icônes d'exécution sous Linux, veuillez vous référer au guide pratique OmegaT sous Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For pre-defined options, remove the # before a parameter to enable it.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T175036Z" creationid="Didier" creationdate="20141202T175036Z">
+        <seg>Pour les options prédéfinies, supprimer le # devant un paramètre pour l'activer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23446,6 +23462,14 @@ happen should you file a bug report.</seg>
       </tuv>
       <tuv lang="FR" changeid="laurieetclémentine" changedate="20130411T140410Z">
         <seg> Menu Options</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Options are changed by modifying &lt;e0&gt;OmegaT.sh&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T175013Z" creationid="Didier" creationdate="20141202T175013Z">
+        <seg>Les options se modifient en éditant &lt;e0&gt;OmegaT.sh&lt;/e0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33826,6 +33850,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To access &lt;a0&gt;&lt;e1&gt;OmegaT.sh&lt;/e1&gt;&lt;/a0&gt;, right-click on &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.app&lt;/e2&gt; and select "Show Package Contents", then open the file in Contents/MacOS by right-clicking on it and selecting your text editor of choice.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T174936Z" creationid="Didier" creationdate="20141202T174936Z">
+        <seg>Pour accéder à &lt;a0&gt;&lt;e1&gt;OmegaT.sh&lt;/e1&gt;&lt;/a0&gt;, faites un clic droit sur &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.app&lt;/e2&gt; et sélectionnez « Afficher le contenu du paquet », puis ouvrez le fichier dans Contents/MacOS avec un clic droit et en sélectionnant l'éditeur de texte de votre choix.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To access this link, either copy and paste the URL to your Web browser, or open the User's Manual in your Web browser ({0} file).</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20141101T135623Z">
@@ -37520,6 +37552,14 @@ you think will help the developers with finding and fixing your bug.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can also "cd" there directly from the command line and open &lt;a4&gt;&lt;e5&gt;OmegaT.sh&lt;/e5&gt; in a command line editor like emacs or vi&lt;/a4&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T174955Z" creationid="Didier" creationdate="20141202T174955Z">
+        <seg>Vous pouvez également utiliser la commande Unix « cd » directement à partir de la ligne de commande et ouvrir &lt;a4&gt;&lt;e5&gt;OmegaT.sh&lt;/e5&gt; dans un éditeur de ligne de commande comme emacs ou vi&lt;/a4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can also add source files from Internet pages, written in MediaWiki, by clicking on&lt;g4&gt; "Import from MediaWiki"&lt;/g4&gt; button and providing the corresponding URL.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130507T125514Z">
@@ -37794,6 +37834,14 @@ installation by using the installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130502T115404Z">
         <seg>Vous pouvez lancer OmegaT à partir de la ligne de commande avec un script qui comprend des options de démarrage ou cliquer sur &lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.jar&lt;/e0&gt; pour le lancer directement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can modify OmegaT's behaviour by editing the &lt;e0&gt;Properties&lt;/e0&gt; as well as the &lt;e1&gt;OmegaT.sh&lt;/e1&gt; file in the package.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T174901Z" creationid="Didier" creationdate="20141202T174901Z">
+        <seg>Vous pouvez modifier le comportement d'OmegaT en modifiant les &lt;e0&gt;Propriétés&lt;/e0&gt; ainsi que le fichier &lt;e1&gt;OmegaT.sh&lt;/e1&gt; dans le paquet.</seg>
       </tuv>
     </tu>
     <tu>
