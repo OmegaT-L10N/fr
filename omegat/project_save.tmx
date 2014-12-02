@@ -17294,6 +17294,14 @@ excuse you from the conditions of this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ignore file context when identifying segments with alternate translations: by default, OmegaT uses the source file name as part of the identification of an alternate translation.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T173332Z" creationid="Didier" creationdate="20141202T173332Z">
+        <seg>Ignorer le nom du fichier pour identifier les segments comportant des traductions alternatives : par défaut, OmegaT utiliser le nom du fichier source comme partie de l'identification d'une traduction alternative.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ignore glossary case</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140706T175253Z" creationid="Didier" creationdate="20140706T175253Z">
@@ -24172,6 +24180,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130316T132648Z">
         <seg>Préserver les espaces pour toutes les balises</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Preserve spaces for all tags: check this option if the source documents contain significant spaces (for layout matters) that must not be ignored.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T173247Z" creationid="Didier" creationdate="20141202T173247Z">
+        <seg>Préserver les espaces pour toutes les balises : cochez cette option si les documents source contiennent des espaces significatifs (pour des raisons de mise en page) qui ne doivent pas être ignorés.</seg>
       </tuv>
     </tu>
     <tu>
