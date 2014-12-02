@@ -17593,6 +17593,14 @@ the scope of this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In non-segmented projects, it is possible to keep it by unchecking this option.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T173052Z" creationid="Didier" creationdate="20141202T173052Z">
+        <seg>Dans les projets non segmentés, il est possible de les conserver en décochant cette option.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In notes</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140414T131206Z" creationid="Didier" creationdate="20140414T130111Z">
@@ -25286,6 +25294,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130316T132638Z">
         <seg>Supprimer les espaces en début et fin de segment dans les projets non segmentés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove leading and trailing whitespace in non-segmented projects: by default, OmegaT removes leading and trailing whitespace.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T173031Z" creationid="Didier" creationdate="20141202T173031Z">
+        <seg>Supprimer les espaces en début et fin de segment dans les projets non segmentés : par défaut, OmegaT supprime les caractères d'espacement de début et de fin de segment.</seg>
       </tuv>
     </tu>
     <tu>
