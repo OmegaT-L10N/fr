@@ -8908,6 +8908,14 @@ provoquer des comportements inattendus, mais corrects.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Auto-completion</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T212618Z" creationid="Didier" creationdate="20141202T212618Z">
+        <seg>Saisie automatique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Auto-completion/Auto-text...</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140414T134406Z" creationid="Didier" creationdate="20140414T134406Z">
@@ -10144,6 +10152,22 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Clic sur l'entrée de menu « {0} »</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click on &lt;g0&gt;Auto-text...&lt;/g0&gt; to configure Auto-text options and to add or remove entries.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T212753Z" creationid="Didier" creationdate="20141202T212753Z">
+        <seg>Cliquez sur &lt;g0&gt;Texte automatique...&lt;/g0&gt; pour configurer les options de texte automatique et pour ajouter ou supprimer des entrées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click on &lt;g0&gt;Glossary...&lt;/g0&gt; to configure the Auto-completer Glossary View.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T212712Z" creationid="Didier" creationdate="20141202T212712Z">
+        <seg>Cliquez sur &lt;g0&gt;Glossaire...&lt;/g0&gt; pour configurer la vue Glossaire de la saisie automatique.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30134,6 +30158,14 @@ form of a work.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The 3 other options are described in the specific page concerning &lt;l0&gt;TaaS&lt;/l0&gt; (Terminology as a Service).</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T212608Z" creationid="Didier" creationdate="20141202T212608Z">
+        <seg>Les 3 autres options sont décrites dans la page spécifique concernant &lt;l0&gt;TaaS&lt;/l0&gt; (Terminology as a Service).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;a0&gt;OmegaT&lt;/a0&gt; file includes &lt;a1&gt;OmegaT&lt;/a1&gt; specific formatting tags so that the file can be used in other &lt;a2&gt;OmegaT&lt;/a2&gt; projects</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130528T131956Z">
@@ -30210,6 +30242,14 @@ form of a work.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20141202T212457Z" creationid="Didier" creationdate="20141202T212457Z">
         <seg>L'option &lt;g0&gt;Afficher la description du contexte pour les glossaires TBX&lt;/g0&gt; permet d'afficher ou de masquer les informations contextuelles des termes (provenant des glossaires TBX situés dans le &lt;f1&gt;glossary&lt;/f1&gt; directory) in the Glossary pane.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;g0&gt;Display Context Description for TBX Glossaries&lt;/g0&gt; option allows to show or hide contextual information with the terms (that come from TBX glossaries located in &lt;f1&gt;glossary&lt;/f1&gt; folder) in the Glossary pane.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T212535Z" creationid="Didier" creationdate="20141202T212535Z">
+        <seg>L'option &lt;g0&gt;Afficher la description du contexte pour les glossaires TBX&lt;/g0&gt; permet d'afficher ou de masquer les informations contextuelles des termes (provenant des glossaires TBX situés dans le dossier &lt;f1&gt;glossary&lt;/f1&gt;) dans le volet Glossaires.</seg>
       </tuv>
     </tu>
     <tu>
