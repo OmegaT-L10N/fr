@@ -10654,6 +10654,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (dévelo
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Contains options for displaying texts and modification information in different ways.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T213510Z" creationid="Didier" creationdate="20141202T213510Z">
+        <seg>Contient les options pour afficher les textes et les informations de modification de différentes façons.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Contains options for displaying texts and modification informations in different ways.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20141202T213450Z" creationid="Didier" creationdate="20141202T213450Z">
@@ -12221,6 +12229,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Displays the current log file.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T213738Z" creationid="Didier" creationdate="20141202T213738Z">
+        <seg>Affiche le fichier journal actuel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Displays the dictionary entries found in the dictionary files located in the /dictionary/ folder if they are present in the source segment.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20120307T083918Z">
@@ -12241,6 +12257,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20120307T083817Z">
         <seg>Affiche les entrées de glossaires trouvées dans les fichiers glossaire situés dans le dossier /glossary/ si ces entrées sont présentes dans le segment source.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Displays the list of new functionalities, enhancements and bug fixes for each new release.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T213724Z" creationid="Didier" creationdate="20141202T213724Z">
+        <seg>Affiche la liste des nouvelles fonctionnalités, des améliorations et des corrections de bogue pour chaque version.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31041,6 +31065,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The dialog box allows also to set external Post-processing commands (that are executed after &lt;g0&gt;Create Translated Documents&lt;/g0&gt; command</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T213620Z" creationid="Didier" creationdate="20141202T213620Z">
+        <seg>La boîte de dialogue permet également de définir des Commandes de post-traitement externe (exécutées après la commande &lt;g0&gt;Créer les documents traduits&lt;/g0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The dialog can be accessed via the &lt;i0/&gt;&lt;m1&gt; &lt;g2&gt;Options&lt;/g2&gt; &lt;g3&gt;Font...&lt;/g3&gt; &lt;/m1&gt; item in the Main menu.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130506T072626Z">
@@ -37221,6 +37253,14 @@ you have just discovered.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130506T082311Z">
         <seg>Pour les recherches dans les fichiers (qui s'opposent à celles dans les mémoires de traduction), &lt;a0&gt;OmegaT&lt;/a0&gt; restreint son champ de recherche aux fichiers qui possèdent les formats des fichiers source.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When selected, LanguageTool checks the translations, and underline potential issues in blue.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T213657Z" creationid="Didier" creationdate="20141202T213657Z">
+        <seg>Lorsque sélectionnée, LanguageTool vérifie les traductions et souligne les problèmes potentiels en bleu.</seg>
       </tuv>
     </tu>
     <tu>
