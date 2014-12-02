@@ -8057,6 +8057,14 @@ this License without regard to the additional permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All collections (public and private) will be queried for the source and target language.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T221748Z" creationid="Didier" creationdate="20141202T221748Z">
+        <seg>Toutes les collections (publiques et privées) seront interrogées pour les langues source et cible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All domains</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140625T073644Z" creationid="Didier" creationdate="20140625T073644Z">
@@ -17635,6 +17643,14 @@ OmegaT is to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you have no doubt that a TMX is more accurate than the &lt;f0&gt;project_save.tmx&lt;/f0&gt; of OmegaT, put this TMX in /tm/enforce to overwrite existing default translations unconditionally.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T222027Z" creationid="Didier" creationdate="20141202T222027Z">
+        <seg>Si vous êtes certains qu'une TMX est plus à jour que &lt;f0&gt;project_save.tmx&lt;/f0&gt; d'OmegaT, placez cette TMX dans /tm/enforce pour remplacer les traductions existantes par défaut inconditionnellement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you have the source and the target Properties files for one and the same contents in your language pair, this procedure will create a corresponding tmx file for these contents.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130527T153558Z">
@@ -18398,6 +18414,14 @@ the limitation as if written in the body of this License.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130424T192240Z">
         <seg>Dans ce cas, la traduction préexistante qui se trouve dans le fichier est incluse dans le fichier &lt;f0&gt;project_save.tmx&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In that dialog, it's possible to select All domains or a specific one.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T221855Z" creationid="Didier" creationdate="20141202T221855Z">
+        <seg>Dans ce dialogue, il est possible de sélectionner Tous les domaines ou un domaine en particulier.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35280,6 +35304,14 @@ as a Source Forge user.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To limit the amount of data, it is possible to select a specific domain by selecting &lt;e0&gt;Select TaaS Terminology Lookup Domain&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T221827Z" creationid="Didier" creationdate="20141202T221827Z">
+        <seg>Pour limiter le volume des données, il est possible de sélectionner un domaine spécifique en sélectionnant &lt;e0&gt;Sélectionner le domaine de recherche terminologique TaaS...&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To make it possible (although Search and replace operates only on memory), OmegaT will copy the source segment to the target segment before the replace operation occurs.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20141202T215647Z" creationid="Didier" creationdate="20141202T215647Z">
@@ -45270,8 +45302,16 @@ de créer son dossier de configuration.</seg>
       <tuv lang="EN">
         <seg>tm/auto folder</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20130528T131958Z">
-        <seg>dossier tm/auto</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T221915Z">
+        <seg>Dossier tm/auto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tm/enforce folder</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T221920Z" creationid="Didier" creationdate="20141202T221909Z">
+        <seg>Dossier tm/enforce</seg>
       </tuv>
     </tu>
     <tu>
