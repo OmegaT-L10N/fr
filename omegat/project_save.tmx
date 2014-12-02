@@ -13113,6 +13113,14 @@ by the Free Software Foundation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enable Sentence-level segmentation</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T213955Z" creationid="Didier" creationdate="20141202T213955Z">
+        <seg>Activer la segmentation par phrase</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enable them in &lt;b&gt;Options &gt; Save...&lt;/b&gt;.&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130125T163541Z">
@@ -15282,6 +15290,14 @@ In order to run, OmegaT requires the Java Runtime Environment (JRE) version
       <tuv lang="FR" changeid="Didier" changedate="20100304T181242Z">
         <seg>Informations générales
 Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de version 1.5 ou supérieure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Generalities</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T213818Z" creationid="Didier" creationdate="20141202T213818Z">
+        <seg>Généralités</seg>
       </tuv>
     </tu>
     <tu>
@@ -27182,6 +27198,14 @@ REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See &lt;l0&gt;Tokenizers Appendix&lt;/l0&gt; for details.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T213936Z" creationid="Didier" creationdate="20141202T213936Z">
+        <seg>Voir l'&lt;l0&gt;annexe sur les lemmatiseurs&lt;/l0&gt; pour plus de détails.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See &lt;l0&gt;chapter Dictionaries&lt;/l0&gt; for more on this subject.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130430T114428Z">
@@ -32467,8 +32491,8 @@ protocols for communication across the network.</seg>
       <tuv lang="EN">
         <seg>The segmentation settings only address the way the source files are handled by &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130506T114442Z">
-        <seg>Les paramètres de segmentation n'affectent que la façon dont les fichiers sources sont traités par &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T214001Z">
+        <seg>Les paramètres de segmentation n'affectent que la façon dont les fichiers source sont traités par &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32817,6 +32841,14 @@ L'idée était que l'utilisation de certaines touches en dehors du segment coura
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130527T142752Z">
         <seg>La troisième colonne peut être utilisée pour insérer des informations complémentaires.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The title of the dialog reflects the file actually used (which depends on how many instances of OmegaT are running concurrently).</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T213812Z" creationid="Didier" creationdate="20141202T213812Z">
+        <seg>Le titre du dialogue reflète le fichier réellement utilisé (qui dépend du nombre d'instances d'OmegaT actuellement en cours d'exécution).</seg>
       </tuv>
     </tu>
     <tu>
@@ -35150,6 +35182,14 @@ Kaptain.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130528T130134Z">
         <seg>Les lemmatiseurs sont inclus dans OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tokenizers corresponding to the selected languages are displayed.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T213904Z" creationid="Didier" creationdate="20141202T213904Z">
+        <seg>Les lemmatiseurs correspondant aux langues sélectionnées sont affichés.</seg>
       </tuv>
     </tu>
     <tu>
