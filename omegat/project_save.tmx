@@ -4031,6 +4031,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;g0&gt;Ctrl+Shift+V&lt;/g0&gt;: Checks for missing or displaced tags in formatted files.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T211900Z" creationid="Didier" creationdate="20141202T211900Z">
+        <seg>&lt;g0&gt;Ctrl+Maj+V&lt;/g0&gt; : vérifie s'il n'y a pas de balises manquantes ou mal placées dans les fichiers formatés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;g0&gt;Ctrl+T&lt;/g0&gt;: Checks for missing or displaced tags in formatted files.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130527T152649Z">
@@ -12121,6 +12129,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130503T112407Z">
         <seg>Affiche la boite de dialogue &lt;l0&gt;Options de la ligne d'édition&lt;/l0&gt; qui permet de configurer la ligne d'édition.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Displays the Match Statistics for each file of the project: the number of repetitions, exact matches, fuzzy matches and no-matches, for segments, words and in characters.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T211936Z" creationid="Didier" creationdate="20141202T211936Z">
+        <seg>Affiche les Statistiques des correspondances pour chaque fichier du projet : le nombre de répétitions, de correspondances exactes, de correspondances partielles et d'absences de correspondances pour les segments, les mots et les caractères.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26534,6 +26550,14 @@ REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Same as above, but only for the current document in translation.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T211916Z" creationid="Didier" creationdate="20141202T211916Z">
+        <seg>Comme ci-dessus, mais uniquement pour le document actuel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Samoan</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130519T100802Z">
@@ -26770,6 +26794,14 @@ REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130527T130630Z">
         <seg>Extension Scripts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Scripting...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T211940Z" creationid="Didier" creationdate="20141202T211940Z">
+        <seg>Scripts...</seg>
       </tuv>
     </tu>
     <tu>
