@@ -30487,6 +30487,14 @@ Public License instead of this License. But first, please read
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Match Display Template area also allows changing how fuzzy matches are displayed, through the use of pre-configured variables.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T213337Z" creationid="Didier" creationdate="20141202T213337Z">
+        <seg>La zone Modèle d'affichage d'une correspondance permet de changer la façon dont les correspondances sont affichées en utilisant des variables prédéfinies.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Match Statistics are tab-separated and you can use &lt;g0&gt;Ctrl+A &lt;i1/&gt;&lt;/g0&gt;&lt;g2&gt;, Ctrl+C &lt;i3/&gt;&lt;/g2&gt;, &lt;g4&gt;Ctrl+V &lt;i5/&gt;&lt;/g4&gt; to copy/paste them, for instance into a spreadsheet or into your cost-accounting application.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130507T132322Z">
@@ -31421,6 +31429,14 @@ instead.</seg>
       </tuv>
       <tuv lang="FR" changeid="brigitte" changedate="20130715T201114Z">
         <seg>La syntaxe complète des touches (raccourcis) est définie dans la documentation Java 1.6 éditée par Oracle (bas de la page) : &lt;u0&gt;Java 1.6 keystrokes shortcuts&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The fuzzy matches can be also sorted in different ways (for displaying only; no influence on statistics).</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T213218Z" creationid="Didier" creationdate="20141202T213218Z">
+        <seg>Les correspondances peuvent également être triées de différentes façons (uniquement pour l'affichage, sans incidence sur les statistiques).</seg>
       </tuv>
     </tu>
     <tu>
