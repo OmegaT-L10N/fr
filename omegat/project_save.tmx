@@ -3319,6 +3319,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Display: all matching segments: &lt;/e0&gt;if checked, all the segments are displayed one by one, even if they are present several times in the same document or in different documents.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T220448Z" creationid="Didier" creationdate="20141202T220448Z">
+        <seg>&lt;e0&gt;Afficher : tous les résultats correspondants  : &lt;/e0&gt;if checked, all the segments are displayed one by one, even if they are present several times in the same document or in different documents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Do not translate the content attribute of meta-tags ... :&lt;/e0&gt; The following meta-tags will not be translated.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130527T134608Z">
@@ -3783,6 +3791,22 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Translated or untranslated: &lt;/e0&gt;search in both translated and untranslated segments.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T220319Z" creationid="Didier" creationdate="20141202T220319Z">
+        <seg>&lt;e0&gt;Traduits ou non traduits : &lt;/e0&gt;rechercher à la fois dans les segments traduits et non traduits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Translated: &lt;/e0&gt;search only in translated segments.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T220334Z" creationid="Didier" creationdate="20141202T220334Z">
+        <seg>&lt;e0&gt;Traduits : &lt;/e0&gt;rechercher uniquement dans les segments traduits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Translation memories: &lt;/e0&gt; explains the role of the various subfolders containing translation memories, and provides information on other important aspects relating to translation memories.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130527T124925Z">
@@ -3803,6 +3827,14 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
       <tuv lang="FR" changeid="brigitte" changedate="20130712T164332Z">
         <seg>&lt;e0&gt;Travail de traduction :&lt;/e0&gt; imaginez que vous ayez à traduire quelque chose, d'un fichier unique à un dossier contenant des sous-dossiers, chacun rempli d'un certain nombre de fichiers de différents formats.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Untranslated: &lt;/e0&gt;search only in untranslated segments.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T220353Z" creationid="Didier" creationdate="20141202T220353Z">
+        <seg>&lt;e0&gt;Non traduits : &lt;/e0&gt;rechercher uniquement dans les segments non traduits.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3969,8 +4001,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;in comments: &lt;/e0&gt;search in comments to segments</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20141202T220159Z" creationid="Didier" creationdate="20141202T220159Z">
-        <seg>&lt;e0&gt;Dans les commentaires : &lt;/e0&gt;search in comments to segments</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T220255Z" creationid="Didier" creationdate="20141202T220159Z">
+        <seg>&lt;e0&gt;Commentaires : &lt;/e0&gt;rechercher dans les commentaires des segments</seg>
       </tuv>
     </tu>
     <tu>
@@ -39860,8 +39892,8 @@ de créer son dossier de configuration.</seg>
       <tuv lang="EN">
         <seg>all matching segments</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20140709T133307Z" creationid="Didier" creationdate="20140709T133307Z">
-        <seg>&amp;tous les résultats correspondants</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T220458Z" creationid="Didier" creationdate="20140709T133307Z">
+        <seg>&amp;tous les segments correspondants</seg>
       </tuv>
     </tu>
     <tu>
