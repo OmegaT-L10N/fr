@@ -2210,6 +2210,14 @@ le programme d'installation peut créer des raccourcis pour vous dans le menu d�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>-Dsun.java2d.noddraw=false</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T174740Z" creationid="Didier" creationdate="20141202T174740Z">
+        <seg>-Dsun.java2d.noddraw=false</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20120710T123934Z">
@@ -2707,6 +2715,14 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130528T123047Z">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; enregistre également la mémoire de traduction dans le fichier &lt;f1&gt;project_save.tmx.ANNÉEMMJJHHMN.bak.bak&lt;/f1&gt; dans le même sous-dossier à chaque fois que le projet est ouvert ou rechargé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; contains the Java JRE 1.7</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T174805Z" creationid="Didier" creationdate="20141202T174805Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; contient Java 1.7</seg>
       </tuv>
     </tu>
     <tu>
@@ -7609,6 +7625,14 @@ this License without regard to the additional permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Advice: if OmegaT works slowly in Remote Desktop sessions under Windows, you may use this option:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T174738Z" creationid="Didier" creationdate="20141202T174738Z">
+        <seg>Conseil : si OmegaT fonctionne plus lentement dans des sessions de Bureaux à distance, vous pouvez utiliser cette option :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Afar</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130519T100740Z">
@@ -8544,6 +8568,14 @@ may experience unexpected, but correct behaviour.</seg>
         <seg>Par conséquent, tous
 les paramètres auront leur valeur par défaut, ce qui pourra 
 provoquer des comportements inattendus, mais corrects.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As entries can mix words from priority and non priority glossaries, the words from the priority glossary are displayed in bold.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T174617Z" creationid="Didier" creationdate="20141202T174617Z">
+        <seg>Les entrées pouvant mélanger des mots de glossaires prioritaires et non prioritaires, les mots du glossaire prioritaires sont affichés en gras.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30857,6 +30889,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The glossary file does not have the correct extension (.tab, .utf8 or .txt).</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T174644Z" creationid="Didier" creationdate="20141202T174644Z">
+        <seg>Le fichier glossaire ne possède pas la bonne extension (.tab, .utf8 ou .txt).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The glossary file is empty.</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130417T151755Z">
@@ -31693,6 +31733,14 @@ protocols for communication across the network.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130502T141623Z">
         <seg>Le TMX produit est conservé dans le dossier &lt;l1&gt;omegat&lt;/l1&gt; sous le nom &lt;f2&gt;align.tmx&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The results from the priority glossary (by default, glossary/glossary.txt) appear in first places in the Glossary pane and in TransTips.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T174537Z" creationid="Didier" creationdate="20141202T174537Z">
+        <seg>Les résultats du glossaire prioritaire (par défaut, glossary/glossary.txt) apparaissent en premier dans l'onglet Glossaires et dans les TransTips.</seg>
       </tuv>
     </tu>
     <tu>
