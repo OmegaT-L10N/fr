@@ -9292,6 +9292,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By default, scripts are stored in the "scripts" folder located in OmegaT installation folder (the folder that contains the OmegaT.jar).</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T171449Z" creationid="Didier" creationdate="20141202T171449Z">
+        <seg>Par défaut, les scripts sont stockés dans le dossier « scripts » situé dans le dossier d'installation d'OmegaT (le dossier contenant OmegaT.jar).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By default, the /tm folder is below the project's root folder (e.g. ...&lt;e0&gt;/MyProject/tm&lt;/e0&gt;), but you can choose a different folder in the project properties dialog if you wish.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130528T123359Z">
@@ -18554,6 +18562,14 @@ implemented by public license practices.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is possible to select another tokenizer (Language Tokenizer) or a different version of the tokenizer (Tokenizer Behavior) from the Project Properties window.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T171643Z" creationid="Didier" creationdate="20141202T171615Z">
+        <seg>Il est possible de sélectionner un autre lemmatiseur (Lemmatiseur de la langue) ou une version différente du lemmatiseur (Comportement du lemmatiseur) dans la fenêtre de Propriétés du projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is possible to select another tokenizer or a different version of the tokenizer from the Project Properties window.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130528T130155Z">
@@ -19324,6 +19340,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="FR" changeid="etudiant_local" changedate="20130410T123709Z">
         <seg>Langues - Liste de codes ISO 639</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Languages selection</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T171547Z" creationid="Didier" creationdate="20141202T171547Z">
+        <seg>Sélection des langues</seg>
       </tuv>
     </tu>
     <tu>
@@ -26182,6 +26206,14 @@ REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Scripting languages</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T171526Z" creationid="Didier" creationdate="20141202T171526Z">
+        <seg>Langages de script</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Scripting plugin</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130527T130630Z">
@@ -29755,6 +29787,14 @@ Public License instead of this License. But first, please read
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130412T084332Z">
         <seg>Le module d'extension concernant les scripts d'OmegaT peut être téléchargé sur le &lt;u0&gt;site de téléchargement de modules d'extensions d'OmegaT&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Scripting window allows you to load an existing script into the text area and run it against the current opened project.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T171413Z" creationid="Didier" creationdate="20141202T171413Z">
+        <seg>La fenêtre de Scripts vous permet de charger un script préexistant dans la zone de texte et de l'exécuter dans le projet en cours.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34162,10 +34202,26 @@ Kaptain.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tokenizers</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T171538Z" creationid="Didier" creationdate="20141202T171538Z">
+        <seg>Lemmatiseurs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tokenizers (or stemmers) improve the quality of matches by recognizing inflected words in source and translation memory data.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130429T070501Z">
         <seg>Les Tokenizers (ou lemmatiseurs) améliorent la qualité des correspondances en reconnaissant les mots accordés dans les données source et dans la mémoire de traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tokenizers are included in OmegaT and active by default.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T171557Z" creationid="Didier" creationdate="20141202T171557Z">
+        <seg>Les lemmatiseurs sont inclus dans OmegaT et actifs par défaut.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37156,6 +37212,14 @@ you think will help the developers with finding and fixing your bug.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Il est possible d'ajouter des copies de fichiers, des portions du journal, des copies d'écran à votre rapport, tout ce qui vous semble qui aidera les développeurs à résoudre votre problème.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can add new scripts there, so they will appear in the list of available scripts in the Scripting window.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T171519Z" creationid="Didier" creationdate="20141202T171519Z">
+        <seg>Vous pouvez y ajouter de nouveaux scripts afin qu'ils apparaissent dans le liste des scripts disponibles dans la fenêtre de Scripts.</seg>
       </tuv>
     </tu>
     <tu>
