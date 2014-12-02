@@ -8956,6 +8956,14 @@ provoquer des comportements inattendus, mais corrects.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Auto-propagation of Translations</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T214205Z" creationid="Didier" creationdate="20141202T214205Z">
+        <seg>Propagation automatique des traductions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Auto-text configuration</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130913T165723Z" creationid="Didier" creationdate="20130913T165723Z">
@@ -17292,6 +17300,14 @@ been installed in ROM).</seg>
       </tuv>
       <tuv lang="FR" changeid="jchelary" changedate="20130526T135621Z">
         <seg>Si vous transmettez une création sous forme de code objet conformément à cet article dans, ou avec, ou spécifiquement pour une utilisation dans, un Produit Utilisateur et si la transmission intervient comme élément d’une opération dans laquelle le droit de possession et d’utilisation du Produit Utilisateur est transféré au destinataire définitivement ou pour une durée déterminée (indépendamment de la façon dont l’opération est qualifiée), la Source Correspondante transmise en application de cet article doit être accompagnée des Informations d’Installation. Toutefois, cette obligation ne s’applique pas si ni vous ni aucun tiers ne conservez la possibilité d’installer un code objet modifié sur le Produit Utilisateur (par exemple, la création a été installée en mémoire morte).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you decide mid-translation to switch from sentence to paragraph translation, the internal translation memory of the project will not be changed (OmegaT may upgrade old translation memories that did not use sentence segmentation, but not vice versa), but OmegaT will attemps to create paragraph fuzzy matches by glueing together existing sentence translations.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T214105Z" creationid="Didier" creationdate="20141202T214105Z">
+        <seg>Si, en plein milieu de la traduction, vous décidez de passer d'une traduction par phrase à une traduction par paragraphe, la mémoire de traduction interne du projet ne sera pas modifiée (OmegaT peut mettre à jour des vieilles mémoires de traduction qui n'étaient pas segmentées par phrase, mais pas l'inverse), mais OmegaT essayera de créer des correspondances pour les paragraphes en ajoutant bout à bout des traductions de phrases existantes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27318,6 +27334,14 @@ REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See chapter &lt;l3&gt;File filters&lt;/l3&gt;for more on the subject.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T214158Z" creationid="Didier" creationdate="20141202T214158Z">
+        <seg>Voir chapitre &lt;l3&gt;Filtres de fichiers...&lt;/l3&gt; pour plus d'informations à ce sujet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See chapter&lt;l3&gt; File filters &lt;/l3&gt;for more on the subject.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130506T120453Z">
@@ -33580,6 +33604,14 @@ under the terms of this General Public License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This area allows entering an external post-processing command (for instance, a script to rename files) that will be applied each time Create Translated Documents is used.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T214257Z" creationid="Didier" creationdate="20141202T214257Z">
+        <seg>Cette zone permet d'entrer une commande de post-traitement externe (par exemple, un script pour renommer des fichiers) qui sera appliquée à chaque utilisation de Créer les documents traduits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This bar gives the user feedback on specific operations that are in progress.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130507T123623Z">
@@ -33728,6 +33760,14 @@ under the terms of this General Public License.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130424T103138Z">
         <seg>Cela permet aux mémoires de traduction produites par d'autres outils d'être lues par OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This external command cannot include "pipes", etc., which is why calling a script is recommanded.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T214403Z" creationid="Didier" creationdate="20141202T214403Z">
+        <seg>Cette commande externe ne pouvant pas comporter de « pipe », etc., l'appel d'un script est recommandé.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34616,6 +34656,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="FR" changeid="laurieetclémentine" changedate="20130412T133845Z">
         <seg>Pour apporter votre contribution à &lt;a0&gt;OmegaT&lt;/a0&gt; :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To create a project-specific set of file filters, click on the &lt;g0&gt;File filter ... &lt;/g0&gt;button, then activate &lt;g1&gt;Enable project specific filters&lt;/g1&gt; check box in the window that opens.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T214141Z" creationid="Didier" creationdate="20141202T214141Z">
+        <seg>Pour créer un ensemble de filtres de fichiers spécifiques au projet, cliquez sur le bouton &lt;g0&gt;Fichiers et filtres...&lt;/g0&gt; puis cochez la case &lt;g1&gt;Appliquer des paramètres de filtres de fichiers spécifiques au projet&lt;/g1&gt; dans la fenêtre qui s'ouvre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36410,6 +36458,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130528T082132Z">
         <seg>Utilisez ces textes d'aide pour commencer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use this button to open a dialog, activate the check box &lt;g0&gt;Project specific segmentation rules&lt;/g0&gt;, then proceed to adjust the segmentation rules as desired.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T214122Z" creationid="Didier" creationdate="20141202T214122Z">
+        <seg>Appuyez sur ce bouton pour ouvrir la boîte de dialogue, cochez la case &lt;g0&gt;Appliquer les règles de segmentation spécifiques au projet&lt;/g0&gt; puis ajustez les règles de segmentation comme vous le souhaitez.</seg>
       </tuv>
     </tu>
     <tu>
