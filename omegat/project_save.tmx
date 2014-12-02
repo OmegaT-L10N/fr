@@ -3735,6 +3735,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Space matches nbsp&lt;/e0&gt;: when this option is checked, a space character put in search entry can match either a normal space character or a non-breacking space (\u00A) character.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T220149Z" creationid="Didier" creationdate="20141202T220149Z">
+        <seg>&lt;e0&gt;L'espace comprend l'espace insécable&lt;/e0&gt; : lorsque cette option est coché, un caractère d'espacement entré dans le texte à rechercher peut correspondre à un caractère d'espacement normal ou au caractère d'espace insécable (\u00A).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Start a new paragraph on: the &lt;br&gt;&lt;/e0&gt; HTML tag will constitute a paragraph for segmentation purposes.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130528T133252Z">
@@ -3955,6 +3963,14 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130422T222752Z">
         <seg>&lt;e0&gt;Afficher tous les résultats : &lt;/e0&gt;décocher cette case conduira OmegaT à n'afficher que la première occurrence trouvée parmi tous les résultats de recherche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;in comments: &lt;/e0&gt;search in comments to segments</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T220159Z" creationid="Didier" creationdate="20141202T220159Z">
+        <seg>&lt;e0&gt;Dans les commentaires : &lt;/e0&gt;search in comments to segments</seg>
       </tuv>
     </tu>
     <tu>
@@ -10320,6 +10336,14 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20120710T125233Z">
         <seg>Cliquez sur Importer des fichiers source... pour sélectionner le fichier source.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click the dropdown arrow of the &lt;e0&gt;Search for&lt;/e0&gt; box to access the last 10 searches.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T220010Z" creationid="Didier" creationdate="20141202T220010Z">
+        <seg>Cliquez sur la flèche déroulante de la case &lt;e0&gt;Rechercher&lt;/e0&gt; pour accéder aux 10 dernières recherches.</seg>
       </tuv>
     </tu>
     <tu>
