@@ -4967,6 +4967,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Glossaries&lt;/p0&gt; &lt;s1&gt;Priorities&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T174447Z" creationid="Didier" creationdate="20141202T174447Z">
+        <seg>&lt;p0&gt;Glossaires&lt;/p0&gt; &lt;s1&gt;Priorités&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Glossaries&lt;/p0&gt; &lt;s1&gt;Problems with glossaries&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130430T095041Z">
@@ -6859,6 +6867,14 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130527T130250Z">
         <seg>&lt;u0&gt;LanguageTool&lt;/u0&gt;est un logiciel à code source ouvert de correction grammaticale et stylistique pour l'anglais, le français, l'allemand, le polonais, le néérlandais, le roumain, et bien d'autres langues - voir la &lt;u1&gt;liste des langues disponibles&lt;/u1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;u0&gt;Microsoft Terminology Collection&lt;/u0&gt; &lt;i1/&gt; can be downloaded in nearly 100 languages and can serve as a cornerstone IT glossary.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T174308Z" creationid="Didier" creationdate="20141202T174308Z">
+        <seg>La &lt;u0&gt;Banque terminologique Microsoft&lt;/u0&gt; &lt;i1/&gt; peut être téléchargée dans plus de 100 langues différentes et servir d'élément fondateur pour un glossaire informatique.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16971,6 +16987,14 @@ OmegaT is to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you have an existing terminology handling system it is quite possible it offers the export of terminology data via TBX format.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T174245Z" creationid="Didier" creationdate="20141202T174245Z">
+        <seg>Si vous possédez déjà un système de gestion de la terminologie, il est possible que celui-ci propose une exportation des données terminologiques via le format TBX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you have made changes to your&lt;f0&gt; OmegaT.l4J.ini &lt;/f0&gt;file and/or are using a .bat file, you must copy these over.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130527T144911Z">
@@ -22023,6 +22047,14 @@ Rajout d'une partie approriée, afin que la note de bas de page ne se retrouve p
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note: the &lt;f0&gt;.tbx&lt;/f0&gt; output of MultiTerm seems to not be reliable (November 2013), it is better to use the &lt;f1&gt;.tab&lt;/f1&gt; output of MultiTerm instead.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T174410Z" creationid="Didier" creationdate="20141202T174410Z">
+        <seg>Note : l'export &lt;f0&gt;.tbx&lt;/f0&gt; de MultiTerm ne semblant pas être fiable (novembre 2013), il semble plus efficace d'utiliser à la place l'export &lt;f1&gt;.tab&lt;/f1&gt; de MultiTerm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Notes</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20110906T131255Z">
@@ -22035,6 +22067,14 @@ Rajout d'une partie approriée, afin que la note de bas de page ne se retrouve p
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130426T133323Z">
         <seg>Volet Notes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Nothing speaks against using Notepad++ on Windows, GEdit on Linux for instance or some spreadsheet program for this purpose: any application, that can handle UTF-8 (or UTF-16 LE) and that can show white space (so that you do not miss the required &lt;k1&gt;TAB&lt;/k1&gt; characters) can be used.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T174435Z" creationid="Didier" creationdate="20141202T174435Z">
+        <seg>Rien n'interdit d'utiliser Notepad++ sous Windows, GEdit sous Linux par exemple ou certains tableurs pour créer un glossaire : n'importe quelle application, capable de prendre en charge UTF-8 (ou UTF-16 LE) et d'afficher des caractères d'espacement (afin de pouvoir distinguer les caractères &lt;k1&gt;TAB&lt;/k1&gt; obligatoires) peut être utilisée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24350,6 +24390,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130417T090028Z">
         <seg>Variables Printf - pas de vérification, vérification simple, vérification complète</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Priority glossary</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T174500Z" creationid="Didier" creationdate="20141202T174500Z">
+        <seg>Glossaire prioritaire</seg>
       </tuv>
     </tu>
     <tu>
