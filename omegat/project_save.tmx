@@ -10140,6 +10140,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Clicking on one will save the current project, close it and open the other project.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T175706Z" creationid="Didier" creationdate="20141202T175706Z">
+        <seg>Cliquer sur l'un d'entre eux enregistrera le projet actuel, le fermera ou ouvrira l'autre projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Close</seg>
       </tuv>
       <tuv lang="FR" changeid="laurieetclémentine" changedate="20130411T133637Z">
@@ -10538,8 +10546,8 @@ makes it unnecessary.</seg>
       <tuv lang="EN">
         <seg>Copies the selected files to the &lt;f0&gt;source&lt;/f0&gt; folder and reloads the project to load the new files.</seg>
       </tuv>
-      <tuv lang="FR" changeid="samsung" changedate="20130421T093833Z">
-        <seg>Copie les fichiers séléctionnés dans le dossier &lt;f0&gt;source&lt;/f0&gt; et recharge le projet pour charger les nouveaux fichiers.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T175712Z">
+        <seg>Copie les fichiers sélectionnés dans le dossier &lt;f0&gt;source&lt;/f0&gt; et recharge le projet pour charger les nouveaux fichiers.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10896,6 +10904,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
       <tuv lang="FR">
         <seg>Créé par : {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creates a local copy of a remote OmegaT project.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T175618Z" creationid="Didier" creationdate="20141202T175618Z">
+        <seg>Crée une copie locale d'un projet distant OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12341,10 +12357,26 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Download MediaWiki Page...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T175720Z" creationid="Didier" creationdate="20141202T175720Z">
+        <seg>Télécharger une page MediaWiki...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Download Team Project</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T103749Z">
         <seg>Télécharger projet en équipe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download Team Project...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T175603Z" creationid="Didier" creationdate="20141202T175603Z">
+        <seg>Télécharger projet en équipe...</seg>
       </tuv>
     </tu>
     <tu>
@@ -12401,6 +12433,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
       <tuv lang="FR" changeid="brigitte" changedate="20130713T114705Z">
         <seg>Téléchargement du paquet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Downloads units from MediaWiki pages, based on the URL entered.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T175736Z" creationid="Didier" creationdate="20141202T175736Z">
+        <seg>Télécharge des éléments depuis les pages MediaWiki, en fonction de l'URL choisie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14538,6 +14578,14 @@ know their rights.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For instance, &lt;f0&gt;${JAVA} -Xmx2048m ${MACOS} ${LANGUAGE} ${COUNTRY} ${PROXY_HOST} ${PROXY_PORT} ${GOOGLE_API_KEY} ${MS_CLIENT_ID} ${MS_CLIENT_SECRET} ${MY_MEMORY_EMAIL} ${TAAS_USER_KEY} -jar OmegaT.jar&lt;/f0&gt; will launch OmegaT with 2 gigas of memory.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T175443Z" creationid="Didier" creationdate="20141202T175443Z">
+        <seg>Par exemple, &lt;f0&gt;${JAVA} -Xmx2048m ${MACOS} ${LANGUAGE} ${COUNTRY} ${PROXY_HOST} ${PROXY_PORT} ${GOOGLE_API_KEY} ${MS_CLIENT_ID} ${MS_CLIENT_SECRET} ${MY_MEMORY_EMAIL} ${TAAS_USER_KEY} -jar OmegaT.jar&lt;/f0&gt; lancera OmegaT avec 2 gigas de mémoire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For instance, &lt;l0&gt;'run?'&lt;/l0&gt; would match the word &lt;l1&gt;'runs'&lt;/l1&gt; and &lt;l2&gt;'runn'&lt;/l2&gt; in the word &lt;l3&gt;'running'&lt;/l3&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130506T083029Z">
@@ -15050,6 +15098,14 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20120421T052419Z">
         <seg>Début de l'exécution de Git « {0} »</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Give access to the five last edited projects.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T175643Z" creationid="Didier" creationdate="20141202T175643Z">
+        <seg>Donner accès au cinq derniers projets modifiés.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21370,6 +21426,14 @@ impose that choice.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>New...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T175551Z" creationid="Didier" creationdate="20141202T175551Z">
+        <seg>Nouveau...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Newly added terms will not be recognized once the changes in the text file have been saved.</seg>
       </tuv>
       <tuv lang="FR" changeid="brigitte" changedate="20130712T152350Z">
@@ -23350,6 +23414,14 @@ happen should you file a bug report.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130527T131857Z">
         <seg>Ouvrez l'affichage &lt;e0&gt;Projects&lt;/e0&gt; de votre compte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T175622Z" creationid="Didier" creationdate="20141202T175622Z">
+        <seg>Ouvrir...</seg>
       </tuv>
     </tu>
     <tu>
@@ -33940,6 +34012,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To change the amount of memory available, edit directly the lauching line.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T175136Z" creationid="Didier" creationdate="20141202T175136Z">
+        <seg>Pour modifier la quantité de mémoire disponible, modifiez directement la ligne de lancement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To change the location of folders after a project has been created, open &lt;g0&gt;Project &gt; Properties...&lt;/g0&gt; in the menu or with &lt;g1&gt;Ctrl+E&lt;/g1&gt; and make the necessary changes.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130430T113251Z">
@@ -34224,6 +34304,14 @@ as a Source Forge user.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To launch multiple instances of &lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.app&lt;/e0&gt;, double-click the file &lt;e2&gt;OmegaT.sh&lt;/e2&gt; located in &lt;e3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt;.app/ Contents/MacOS/&lt;/e3&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T175458Z" creationid="Didier" creationdate="20141202T175458Z">
+        <seg>Pour lancer plusieurs instances d'&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.app&lt;/e0&gt;, double-cliquez sur le fichier &lt;e2&gt;OmegaT.sh&lt;/e2&gt; situé dans &lt;e3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt;.app/ Contents/MacOS/&lt;/e3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To make sure that the tokenizers are being used, open a project and check the log information from the console.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130429T072252Z">
@@ -34304,6 +34392,14 @@ you modify it: responsibilities to respect the freedom of others.</seg>
         <seg>To remind yourself of the project's initial settings, open the Project Settings dialog by pressing &lt;k0&gt;Ctrl+E&lt;/k0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="briglegrand" changedate="20120502T113752Z">
+        <seg>Vous pouvez revoir les réglages du projet dans la fenêtre Modifier le projet (raccourci clavier &lt;k0&gt;Ctrl+E&lt;/k0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To remind yourself of the project's initial settings, open the project properties dialog by pressing &lt;k0&gt;Ctrl+E&lt;/k0&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T175533Z" creationid="Didier" creationdate="20141202T175533Z">
         <seg>Vous pouvez revoir les réglages du projet dans la fenêtre Modifier le projet (raccourci clavier &lt;k0&gt;Ctrl+E&lt;/k0&gt;).</seg>
       </tuv>
     </tu>
@@ -35714,6 +35810,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130527T151209Z">
         <seg>Utilisez-la si vous voulez qu'OmegaT ne synchronise pas le contenu du projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use the &lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.jar&lt;/e0&gt; file located in &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.app/Contents/MacOS/Java/&lt;/e2&gt; to launch &lt;a4&gt;OmegaT&lt;/a4&gt; from the command line.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T175513Z" creationid="Didier" creationdate="20141202T175513Z">
+        <seg>Utilisez le fichier &lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.jar&lt;/e0&gt; situé dans &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.app/Contents/MacOS/Java/&lt;/e2&gt; pour lancer &lt;a4&gt;OmegaT&lt;/a4&gt; à partir de la ligne de commande.</seg>
       </tuv>
     </tu>
     <tu>
