@@ -16319,6 +16319,14 @@ circumstances.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If checked, the background of all segments where the target segment has been auto-populated (from TMXs placed in /tm/auto for example) are displayed in colour.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T180902Z" creationid="Didier" creationdate="20141202T180902Z">
+        <seg>Si cochée, l'arrière-plan de tous les segments où le segment cible a été rempli automatiquement (à partir des TMX placées dans /tm/auto, par exemple) sont affichés en couleur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If checked, the entries are sorted alphabetically.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130913T165408Z" creationid="Didier" creationdate="20130913T165408Z">
@@ -23930,6 +23938,14 @@ happen should you file a bug report.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Other translations, identified specifically in the TMX, can be displayed using different colours.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T181035Z" creationid="Didier" creationdate="20141202T181035Z">
+        <seg>D'autres traductions, identifiées spécifiquement dans la TMX, peuvent être affichées avec différentes couleurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Other windows</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130426T143520Z">
@@ -30637,6 +30653,14 @@ shown below.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The colours are displayed as long as the "Save auto-populated status" (in Options/Editing behaviour..) option is checked.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T180941Z" creationid="Didier" creationdate="20141202T180941Z">
+        <seg>Les couleurs sont affichées si l'option « Enregistrer l'état des traductions issues du dossier auto » (dans Options/Ligne d'édition...) est cochée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The command to launch &lt;a3&gt;OmegaT&lt;/a3&gt; with assignment of 1024 MB (1 gigabyte) of memory is therefore:</seg>
       </tuv>
       <tuv lang="FR" changeid="brigitte" changedate="20130714T131657Z">
@@ -33855,6 +33879,14 @@ this version will not interfere with it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This option displays &lt;u0&gt;bidirectional control characters&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T180753Z" creationid="Didier" creationdate="20141202T180753Z">
+        <seg>Cette option affiche les &lt;u0&gt;caractères de contrôle de bidirectionnalité&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This option is useful for some Chinese, Japanese or Korean character input systems.</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130421T192650Z">
@@ -36435,6 +36467,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130422T163131Z">
         <seg>Utilisation de caractères génériques</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Usual translations inserted from the auto folder are displayed in orange.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T181009Z" creationid="Didier" creationdate="20141202T181009Z">
+        <seg>Les traductions habituelles insérées depuis le dossier auto sont affichées en orange.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41222,6 +41262,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T104057Z">
         <seg>http://projectlocker.com/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://sourceforge.net/p/omegat/feature-requests/963/</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T180756Z" creationid="Didier" creationdate="20141202T180756Z">
+        <seg>http://sourceforge.net/p/omegat/feature-requests/963/</seg>
       </tuv>
     </tu>
     <tu>
