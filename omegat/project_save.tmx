@@ -18506,6 +18506,14 @@ the limitation as if written in the body of this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the editor pane, when a match is inserted from a TMX contained in a folder named &lt;e0&gt;mt&lt;/e0&gt;, the background of the active segment is changed to red.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T222121Z" creationid="Didier" creationdate="20141202T222121Z">
+        <seg>Dans l'Éditeur, lorsqu'une correspondance est insérée depuis une TMX contenu dans un dossier nommé &lt;e0&gt;mt&lt;/e0&gt;, l'arrière-plan du segment actuel passe en rouge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the example below, the author of the PO file included a warning for the translator to check the length of the translation:</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130507T123108Z">
@@ -18579,6 +18587,14 @@ patent against the party.</seg>
       </tuv>
       <tuv lang="FR" changeid="brigitte" changedate="20130715T200550Z">
         <seg>Dans la fenêtre, le guide ainsi que deux boutons (Retour et Table des matières) apparaissent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this case NL-EN translation memory can serve as a go-between to help generate NL to ZH translation.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T222227Z" creationid="Didier" creationdate="20141202T222227Z">
+        <seg>Dans ce cas, la mémoire de traduction NL-EN peut être utilisée comme intermédiaire pour aider à générer la traduction NL vers ZH.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31141,6 +31157,14 @@ shown below.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The background is restored to normal when the segment is left.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T222139Z" creationid="Didier" creationdate="20141202T222139Z">
+        <seg>L'arrière-plan revient à la normale lorsque l'utilisateur quitte le segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The basic command has already been mentioned above.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130419T164757Z">
@@ -33005,6 +33029,14 @@ protocols for communication across the network.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130507T091414Z">
         <seg>Dans cet exemple, la solution consiste à copier la mémoire de traduction déjà existante dans le sous-dossier tm et de la renommer ZH_CN.tmx pour indiquer la langue cible du TMX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The solution in our example is to copy the existing translation memory into the tm/tmx2source/ subfolder and rename it ZH_CN.tmx to indicate the target language of the tmx.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T222304Z" creationid="Didier" creationdate="20141202T222304Z">
+        <seg>Dans cet exemple, la solution consiste à copier la mémoire de traduction déjà existante dans le sous-dossier tm/tmx2source/ et de la renommer ZH_CN.tmx pour indiquer la langue cible de la TMX.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45312,6 +45344,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20141202T221920Z" creationid="Didier" creationdate="20141202T221909Z">
         <seg>Dossier tm/enforce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tm/mt folder</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T222033Z" creationid="Didier" creationdate="20141202T222033Z">
+        <seg>Dossier tm/mt</seg>
       </tuv>
     </tu>
     <tu>
