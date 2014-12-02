@@ -3321,8 +3321,16 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Display: all matching segments: &lt;/e0&gt;if checked, all the segments are displayed one by one, even if they are present several times in the same document or in different documents.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20141202T220448Z" creationid="Didier" creationdate="20141202T220448Z">
-        <seg>&lt;e0&gt;Afficher : tous les résultats correspondants  : &lt;/e0&gt;if checked, all the segments are displayed one by one, even if they are present several times in the same document or in different documents.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T220551Z" creationid="Didier" creationdate="20141202T220448Z">
+        <seg>&lt;e0&gt;Afficher : tous les segments correspondants : &lt;/e0&gt;si cochée, tous les segments sont affichés, même s'ils sont présents à plusieurs reprises dans le même document ou dans des documents différents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Display: file names: &lt;/e0&gt;if checked, the name of the file where each segment is founded is displayed above each result.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T220630Z" creationid="Didier" creationdate="20141202T220630Z">
+        <seg>&lt;e0&gt;Afficher : les noms des fichiers : &lt;/e0&gt;si cochée, le nom du fichier dans lequel chaque segment est trouvé est affiché au-dessus de chaque résultat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3691,6 +3699,14 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130506T072810Z">
         <seg>&lt;e0&gt;Exemple :&lt;/e0&gt; champ permettant d'avoir un aperçu immédiat de la police choisie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Search in Project&lt;/e0&gt;: check &lt;e1&gt;Memory&lt;/e1&gt; to include the project memory (project_save.tmx file) in the search.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T220728Z" creationid="Didier" creationdate="20141202T220728Z">
+        <seg>&lt;e0&gt;Rechercher dans le projet&lt;/e0&gt; : cochez &lt;e1&gt;la mémoire&lt;/e1&gt; pour inclure la mémoire du projet (fichier project_save.tmx) dans la recherche.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9920,6 +9936,14 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Vérifier &amp;toutes les variables printf (ex.: %s, %-s)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check &lt;e2&gt;TMs&lt;/e2&gt; to include the translation memories located in the &lt;f3&gt;tm&lt;/f3&gt; folder in the search.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T220759Z" creationid="Didier" creationdate="20141202T220759Z">
+        <seg>Cochez &lt;e2&gt;les MT&lt;/e2&gt; pour inclure les mémoires de traductions situées dans le dossier &lt;f3&gt;tm&lt;/f3&gt; dans la recherche.</seg>
       </tuv>
     </tu>
     <tu>
