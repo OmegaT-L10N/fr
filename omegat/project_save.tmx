@@ -10668,6 +10668,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Correct the error if necessary (in the case above it is the missing &lt;i2&gt;&lt;/i2&gt; pair) and press &lt;g0&gt;Ctrl+Shift+V&lt;/g0&gt; to return to the tag validation window to correct other errors.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T173614Z" creationid="Didier" creationdate="20141202T173614Z">
+        <seg>Corrigez les erreurs si nécessaire (dans le cas ci-dessus, il manque la paire &lt;i2&gt;&lt;/i2&gt;) et appuyez sur &lt;g0&gt;Ctrl+Maj+V&lt;/g0&gt; pour retourner dans la fenêtre de validation des balises afin de corriger d'autres erreurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Correct the error if necessary (in the case above it is the missing &lt;i2&gt;&lt;/i2&gt; pair) and press &lt;g0&gt;Ctrl+T&lt;/g0&gt; to return to the tag validation window to correct other errors.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130528T131730Z">
@@ -19505,6 +19513,14 @@ Exécutez OmegaT de la façon suivante.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130421T133732Z">
         <seg>Lancement d'OmegaT en mode console</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Launching this function – &lt;g0&gt;Ctrl+Shift+V&lt;i1/&gt;&lt;/g0&gt; - opens a window containing all segments in the file containing suspected broken or bad tags in the translation.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T173537Z" creationid="Didier" creationdate="20141202T173537Z">
+        <seg>Lancer cette option – &lt;g0&gt;Ctrl+Maj+V&lt;i1/&gt;&lt;/g0&gt; - ouvre une fenêtre qui liste tous les segments du fichier contenant des balises qui pourraient être altérées ou fausses dans les segments traduits.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30497,6 +30513,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The extension must be &lt;f0&gt;.txt&lt;/f0&gt; or &lt;f1&gt;.utf8&lt;/f1&gt; (if not, it will be added).</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T173653Z" creationid="Didier" creationdate="20141202T173653Z">
+        <seg>Son extension doit être &lt;f0&gt;.txt&lt;/f0&gt; ou &lt;f1&gt;.utf8&lt;/f1&gt; (sinon, elle sera ajoutée).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The extension must be &lt;f0&gt;.txt&lt;/f0&gt;(if not, it will be added).</seg>
       </tuv>
       <tuv lang="FR" changeid="brigitte" changedate="20130712T143529Z">
@@ -32210,6 +32234,14 @@ the [Help] menu after starting OmegaT.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130415T100519Z">
         <seg>Ce processus peut être dirigé et contrôlé via le langage de script Tck/Tcl (Tool Command Language).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The window that opens when &lt;g2&gt;Ctrl+Shift+V&lt;/g2&gt; is pressed features a 3-column table with a link to the segment, the original segment and the target segment</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T173600Z" creationid="Didier" creationdate="20141202T173600Z">
+        <seg>La fenêtre qui s'ouvre lors d'un appui sur &lt;g2&gt;Ctrl+Maj+V&lt;/g2&gt; se présente sous la forme d'un tableau à 3 colonnes avec un lien vers le segment, sa partie originale et sa partie cible</seg>
       </tuv>
     </tu>
     <tu>
@@ -40998,6 +41030,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130527T134308Z">
         <seg>Si les règles de segmentation par phrases sont actives, le texte sera segmenté en fonction des options sélectionnées ici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>if the option is checked, the source file name will not be used, and alternative translations will take effect in any file as long as the other context (previous/next segments, or some sort of ID depending on the file format) matches.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T173501Z" creationid="Didier" creationdate="20141202T173501Z">
+        <seg>Si cette option n'est pas cochée, le nom du fichier source ne sera pas utilisé et les traductions alternatives prendront effet dans n'importe quel fichier dès lors que le reste du contexte (segments précédents/suivants, ou un identifiant quelconque en fonction du format du fichier) correspond.</seg>
       </tuv>
     </tu>
     <tu>
