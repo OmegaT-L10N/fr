@@ -8226,6 +8226,14 @@ OmegaT.exe.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Alternatively, in the Editor window, select a word or phrase in the editing field (target text of the current segment) and hit &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T215853Z" creationid="Didier" creationdate="20141202T215853Z">
+        <seg>Vous pouvez également sélectionner un mot ou une expression dans l'Éditeur et appuyer sur &lt;&lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Alternatively, in the Editor window, select a word or phrase in the editing field (target text of the current segment) and hit &lt;k4&gt; &lt;k5&gt;Ctrl&lt;/k5&gt; &lt;k6&gt;F&lt;/k6&gt; &lt;/k4&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130506T081600Z">
@@ -16713,6 +16721,14 @@ tous les paramètres reprendront leur valeur par défaut,
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If no replacement is done to a given segment, the target segment will be “emptied”, i.e., it will remain untranslated.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T215721Z" creationid="Didier" creationdate="20141202T215721Z">
+        <seg>Si aucun remplacement n'est effectué dans un segment donné, le segment cible sera « vidé », c'est-à-dire qu'il restera non traduit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If no text has been selected, the current source segment is written to this file.</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130421T153701Z">
@@ -23846,6 +23862,14 @@ happen should you file a bug report.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20141202T214834Z" creationid="Didier" creationdate="20141202T214834Z">
         <seg>Ouvrez la fenêtre de Recherche et remplacement avec &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;K&lt;/k2&gt; &lt;/k0&gt; et entrez le mot ou l'expression que vous voulez remplacer dans la case &lt;e3&gt;Rechercher&lt;/e3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open the Search window with &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt; and enter the word or phrase you wish to search for in the &lt;e3&gt;Search for&lt;/e3&gt; box.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T215810Z" creationid="Didier" creationdate="20141202T215810Z">
+        <seg>Ouvrez la fenêtre de Recherche textuelle en utilisant  &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt; &gt; et saisissez dans le champ de recherche le mot ou l'expression que vous souhaitez trouver.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33190,6 +33214,14 @@ the [Help] menu after starting OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The word or phrase is entered in the &lt;e3&gt;Search for&lt;/e3&gt; box automatically.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T215923Z" creationid="Didier" creationdate="20141202T215923Z">
+        <seg>Le mot ou l'expression est alors saisi(e) automatiquement dans le champ &lt;e3&gt;Rechercher&lt;/e3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The word or phrase is entered in the Search for box automatically.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130506T081757Z">
@@ -35036,6 +35068,14 @@ as a Source Forge user.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20141202T175458Z" creationid="Didier" creationdate="20141202T175458Z">
         <seg>Pour lancer plusieurs instances d'&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.app&lt;/e0&gt;, double-cliquez sur le fichier &lt;e2&gt;OmegaT.sh&lt;/e2&gt; situé dans &lt;e3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt;.app/ Contents/MacOS/&lt;/e3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To make it possible (although Search and replace operates only on memory), OmegaT will copy the source segment to the target segment before the replace operation occurs.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T215647Z" creationid="Didier" creationdate="20141202T215647Z">
+        <seg>Pour rendre cela possible (bien que la recherche et remplacement ne fonctionne qu'en mémoire), OmegaT copiera le segment source dans le segment cible avant que l'opération de remplacement ne survienne.</seg>
       </tuv>
     </tu>
     <tu>
