@@ -10508,6 +10508,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Clicking on any file will open it for translation.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T222801Z" creationid="Didier" creationdate="20141202T222801Z">
+        <seg>Cliquer sur n'importe lequel de ces fichiers provoquera l'ouverture de celui-ci (dans l'Éditeur, ce qui permet d'effectuer sa traduction).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Clicking on one will save the current project, close it and open the other project.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20141202T175706Z" creationid="Didier" creationdate="20141202T175706Z">
@@ -22807,6 +22815,14 @@ Rajout d'une partie approriée, afin que la note de bas de page ne se retrouve p
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note: filenames (in first column) can be sorted alphabetically by clicking in the header.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T222845Z" creationid="Didier" creationdate="20141202T222845Z">
+        <seg>Note : les noms des fichiers (dans la première colonne) peuvent être triés par ordre alphabétique en cliquant sur l'en-tête.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note: not all filters allow you to select an encoding.</seg>
       </tuv>
       <tuv lang="FR">
@@ -25140,6 +25156,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130507T123255Z">
         <seg>Appuyer sur &lt;k0&gt;Ctrl+M &lt;/k0&gt;permet de remplacer la traduction du segment en cours par la traduction suggérée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Press &lt;k0&gt;Ctrl+M&lt;/k0&gt; to replace the translation of the current segment with the suggested translation.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T222601Z" creationid="Didier" creationdate="20141202T222601Z">
+        <seg>Appuyer sur &lt;k0&gt;Ctrl+M&lt;/k0&gt; permet de remplacer la traduction du segment en cours par la traduction suggérée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27746,6 +27770,14 @@ REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130419T194332Z">
         <seg> Voir la </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See the &lt;e1&gt;Main Menu&lt;/e1&gt; appendix for a full description of all menus and menu items.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T222612Z" creationid="Didier" creationdate="20141202T222612Z">
+        <seg>Voir l'annexe &lt;e1&gt; Menu principal&lt;/e1&gt; pour une description complète de tous les menus et des éléments de menu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33725,6 +33757,14 @@ prohibited by law if you do not accept this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>These are the files present in the /source folder in a format that OmegaT is able to recognize.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T222659Z" creationid="Didier" creationdate="20141202T222659Z">
+        <seg>Il s'agit de tous les fichiers présents dans le dossier /source qui sont écrit dans un format qu'OmegaT est en mesure de traiter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>These are the files present in the Source files folder in a format that OmegaT is able to recognize.</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130426T144538Z">
@@ -34571,6 +34611,14 @@ this version will not interfere with it.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130502T095613Z">
         <seg>Cette méthode tiendra également compte des préférences et des paramètres que vous avez définis dans OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This number is displayed in brackets, next to the "Project file" title</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T222728Z" creationid="Didier" creationdate="20141202T222728Z">
+        <seg>Ce nombre est affiché entre parenthèses, à côté du titre « Fichiers du projet »</seg>
       </tuv>
     </tu>
     <tu>
@@ -45288,6 +45336,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130507T124520Z">
         <seg>le nombre total de segments, le nombre de segments uniques (présents dans l'ensemble du projet), et le nombre de segments uniques déjà traduits sont affichés dans le bas de la fenêtre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>the total number of translatable files in the project.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T222631Z" creationid="Didier" creationdate="20141202T222631Z">
+        <seg>le nombre total de fichiers traduisibles du projet.</seg>
       </tuv>
     </tu>
     <tu>
