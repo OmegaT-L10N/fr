@@ -17462,6 +17462,14 @@ excuse you from the conditions of this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In addition to the plain text format, TBX format &lt;i0/&gt; is also supported as a read-only glossary format.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T173943Z" creationid="Didier" creationdate="20141202T173943Z">
+        <seg>En plus du format texte brut, le format TBX &lt;i0/&gt; est également pris en charge en tant que format de glossaire en lecture seule.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In addition to the plain text format, TBX format &lt;i0/&gt; is also supported as read-only glossaries format.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20141202T173917Z" creationid="Didier" creationdate="20141202T173917Z">
@@ -28725,6 +28733,14 @@ address new problems or concerns.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>TBX files TBX - Term Base eXchange - is the open, XML-based standard for exchanging structured terminological data, TBX has been approved as an international standard by LISA and ISO.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T174218Z" creationid="Didier" creationdate="20141202T174218Z">
+        <seg>Le TBX (Term Base eXchange), est le standard libre basé sur XML utilisé pour l'échange de données terminologiques structurées. TBX a été approuvé, en tant que standard international, par LISA et ISO.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130418T225104Z">
@@ -30986,6 +31002,14 @@ freedom to share and change it.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130503T134501Z">
         <seg>Son emplacement n'est pas important, dans la mesure où il doit être précisé de manière explicite (sur la ligne de commande) au démarrage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The location of the &lt;f1&gt;.tbx&lt;/f1&gt; file must be within the &lt;f2&gt;/glossary&lt;/f2&gt; folder, but it can be in a deeper folder (e.g., &lt;f3&gt;glossary/sub/MyGlossary.tbx&lt;/f3&gt;).</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T174037Z" creationid="Didier" creationdate="20141202T174037Z">
+        <seg>L'emplacement du fichier &lt;f1&gt;.tbx&lt;/f1&gt; doit se trouver à l'intérieur du dossier &lt;f2&gt;/glossary&lt;/f2&gt;, mais il peut être inséré dans un sous-dossier (ex. : &lt;f3&gt;glossary/sub/MyGlossary.tbx&lt;/f3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
