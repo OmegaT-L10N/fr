@@ -8366,6 +8366,14 @@ Le fichier ne sera pas chargé.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An ignored file or folder:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T214434Z" creationid="Didier" creationdate="20141202T214434Z">
+        <seg>Un fichier ou un dossier ignoré :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An interactive user interface displays "Appropriate Legal Notices"
 to the extent that it includes a convenient and prominently visible
 feature that (1) displays an appropriate copyright notice, and (2)
@@ -10152,6 +10160,14 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130917T085535Z" creationid="Didier" creationdate="20130917T085535Z">
         <seg>Effacer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Clic on &lt;g0&gt;Exclusions...&lt;/g0&gt; to define the files or folders that will be ignored by &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T214424Z" creationid="Didier" creationdate="20141202T214424Z">
+        <seg>Cliquez sur &lt;g0&gt;Exclusions...&lt;/g0&gt; pour définir les fichiers ou les filtres qui seront ignorés par &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18206,6 +18222,14 @@ the limitation as if written in the body of this License.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20141202T180228Z" creationid="Didier" creationdate="20141202T180228Z">
         <seg>Dans l'Éditeur, la traduction est affichée sous la forme &lt;VIDE&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the Exclusion patterns dialog, it is possible to Add or Remove a pattern, or edit one by selecting a line and pressing F2.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T214615Z" creationid="Didier" creationdate="20141202T214615Z">
+        <seg>Dans le dialogue des masques d'exclusion, il est possible d'Ajouter ou de Supprimer un masque, ou d'en modifier un en sélectionnant une ligne et en appuyant sur F2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41802,6 +41826,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>https://ant.apache.org/manual/dirtasks.html#patterns</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T214524Z" creationid="Didier" creationdate="20141202T214524Z">
+        <seg>https://ant.apache.org/manual/dirtasks.html#patterns</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>https://datamarket.azure.com/account</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T104526Z">
@@ -42134,6 +42166,30 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130430T134438Z">
         <seg>est une balise unique et n'affecte pas le texte avoisinant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>is not copied in /target folder during the translated files creation process.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T214523Z" creationid="Didier" creationdate="20141202T214523Z">
+        <seg>n'est pas copié dans le dossier /target durant le processus de création des fichiers traduits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>is not displayed in the Editor pane,</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T214445Z" creationid="Didier" creationdate="20141202T214445Z">
+        <seg>n'est pas affiché dans l'Éditeur,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>is not taken into account in statistics,</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20141202T214456Z" creationid="Didier" creationdate="20141202T214456Z">
+        <seg>n'est pas pris en compte dans les statistiques,</seg>
       </tuv>
     </tu>
     <tu>
