@@ -1,36 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN"
 "../../../docbook-xml-4.5/docbookx.dtd">
-<appendix id="appendix.ScriptingPlugin.inOmegaT">
-  <title>Scripting plugin<indexterm class="singular">
-      <primary>Plugins</primary>
-
-      <secondary>Scripting</secondary>
+<appendix id="appendix.Scripts.inOmegaT">
+  <title>Scripts<indexterm class="singular">
+      <primary>Scripts</primary>
     </indexterm></title>
 
   <section>
     <title>Introduction</title>
 
-    <para>OmegaT-Scripting allows to run scripts written in different
-    scripting languages in OmegaT.</para>
+    <para>OmegaT allows to run scripts written in different scripting
+    languages.</para>
   </section>
 
   <section>
-    <title>Installation and Use</title>
+    <title>Use</title>
 
-    <para>The Scripting plugin for OmegaT can be downloaded from the <ulink
-    url="http://sourceforge.net/projects/omegat-plugins/files">OmegaT plugins
-    download site</ulink>. Unzip the files, and put them all in the "plugins"
-    folder located in OmegaT installation folder, that is the folder that
-    contains the OmegaT.jar. Create the "plugins" folder first, if it does not
-    exist.</para>
-
-    <para>This adds a new submenu<guisubmenu> Tools &gt;
-    </guisubmenu><guisubmenu>Scripting.</guisubmenu> Below the
-    <guisubmenu>Scripting</guisubmenu> submenu , there's 12 place holders
-    available for scripts. Clicking <guisubmenu>Scripting</guisubmenu> opens
-    the Scripting dialog:<screenshot>
-        <screeninfo>Scripting dialog</screeninfo>
+    <para>Clicking <guisubmenu>Tools &gt;
+    </guisubmenu><guisubmenu>Scripting</guisubmenu> opens the Scripting
+    window:<screenshot>
+        <screeninfo>Scripting window</screeninfo>
 
         <mediaobject>
           <imageobject>
@@ -39,7 +28,7 @@
         </mediaobject>
       </screenshot></para>
 
-    <para>The Scripting dialog allows you to load an existing script into the
+    <para>The Scripting window allows you to load an existing script into the
     text area and run it against the current opened project. To customize the
     script feature, do the following:</para>
 
@@ -67,33 +56,20 @@
       </listitem>
     </itemizedlist>
 
+    <para>By default, scripts are stored in the "scripts" folder located in
+    OmegaT installation folder (the folder that contains the OmegaT.jar).
+    </para>
+
+    <para>You can add new scripts there, so they will appear in the list of
+    available scripts in the Scripting window.</para>
+  </section>
+
+  <section>
+    <title>Scripting languages</title>
+
     <para>The following scripting languages have been implemented:</para>
 
     <para><itemizedlist>
-        <listitem>
-          <para><emphasis role="bold">NetRexx</emphasis>
-          (http://www.netrexx.org/): it supports a classic REXX syntax, with
-          no reserved keywords, along with considerable additions to support
-          object-oriented programming in a manner compatible with Java's
-          object model. All existing Java class libraries can be used
-          unchanged and without special setup; at the same time, a Java
-          programmer can opt to just use the Rexx class from the runtime
-          package for improved string handling in Java syntax source
-          programs.</para>
-        </listitem>
-      </itemizedlist><itemizedlist>
-        <listitem>
-          <para><emphasis role="bold">XSLT</emphasis> (Extensible Stylesheet
-          Language Transformations): is a declarative, XML-based language used
-          for the transformation of XML documents. The original document is
-          not changed; rather, a new document is created based on the content
-          of an existing one. The new document may be serialized (output) by
-          the processor in standard XML syntax or in another format, such as
-          HTML or plain text. XSLT is most often used to convert data between
-          different XML schemas or to convert XML data into web pages or PDF
-          documents.</para>
-        </listitem>
-      </itemizedlist><itemizedlist>
         <listitem>
           <para><emphasis role="bold">Groovy</emphasis>
           (http://groovy.codehaus.org): is a dynamic language for the Java
