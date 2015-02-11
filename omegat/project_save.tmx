@@ -4183,6 +4183,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;html&gt;&lt;i&gt;Options&lt;/i&gt; &amp;gt; &lt;i&gt;Use TAB to Advance&lt;/i&gt; is checked&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20150211T165228Z" creationid="Didier" creationdate="20150211T165228Z">
+        <seg>&lt;html&gt;&lt;i&gt;Options&lt;/i&gt; &amp;gt; &lt;i&gt;Utiliser TAB pour valider&lt;/i&gt; est cochée&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;html&gt;Per-project external commands are disabled and will not be executed.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130125T163526Z">
@@ -33220,6 +33228,14 @@ making modifications to it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The specified translation direction is not supported</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20150211T165150Z" creationid="Didier" creationdate="20150211T165150Z">
+        <seg>La direction de traduction spécifiée n'est pas prise en charge</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The spell checker uses the target language code to determine the language to be used : if the target language is Brazilian Portuguese (PT_BR), the subfolder with vocabularies must contain the two vocabulary files, called &lt;e0&gt;pt_br.aff&lt;/e0&gt; and &lt;e1&gt;pt_br.dic&lt;/e1&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130506T112708Z">
@@ -33347,6 +33363,14 @@ L'idée était que l'utilisation de certaines touches en dehors du segment coura
       </tuv>
       <tuv lang="FR" changeid="brigitte" changedate="20130715T191018Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The text could not be translated</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20150211T165136Z" creationid="Didier" creationdate="20150211T165136Z">
+        <seg>Le texte n'a pas pu être traduit</seg>
       </tuv>
     </tu>
     <tu>
