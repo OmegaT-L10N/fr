@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.8" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -736,6 +736,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Insert Match or Selection</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20150211T164554Z" creationid="Didier" creationdate="20150211T164554Z">
+        <seg>&amp;Insérer la correspondance ou la sélection</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Install new dictionary...</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20120309T091024Z">
@@ -1316,6 +1324,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="FR">
         <seg>&amp;Valider les balises</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Validate Tags...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20150211T164620Z" creationid="Didier" creationdate="20150211T164620Z">
+        <seg>&amp;Valider les balises...</seg>
       </tuv>
     </tu>
     <tu>
@@ -10641,6 +10657,16 @@ Zoltan Bartko, Volker Berlin, Didier Briel (responsable du développement), Kim 
     <tu>
       <tuv lang="EN">
         <seg>Code has been contributed by: 
+Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead developer), Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, Adiel Mittmann, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Ilia Vinogradov, Martin Wunderlich and Michael Zakharov</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20150211T164745Z" creationid="Didier" creationdate="20150211T164745Z">
+        <seg>Contributions au code :
+Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (développeur principal), Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Philippe Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, Adiel Mittmann, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Ilia Vinogradov, Martin Wunderlich et Michael Zakharov</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Code has been contributed by: 
 Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead developer), Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, Adiel Mittmann, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Martin Wunderlich and Michael Zakharov</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140909T082558Z" creationid="Didier" creationdate="20140909T082558Z">
@@ -11168,6 +11194,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20101206T155212Z">
         <seg>Créer une entrée de &amp;glossaire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create &amp;Glossary Entry...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20150211T164610Z" creationid="Didier" creationdate="20150211T164610Z">
+        <seg>Créer une entrée de &amp;glossaire...</seg>
       </tuv>
     </tu>
     <tu>
@@ -16398,6 +16432,14 @@ parties remain in full compliance.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ILIAS Language File</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20150211T164646Z" creationid="Didier" creationdate="20150211T164646Z">
+        <seg>Fichier de langue ILIAS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING
 WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MAY MODIFY AND/OR
 REDISTRIBUTE THE PROGRAM AS PERMITTED ABOVE, BE LIABLE TO YOU FOR DAMAGES,
@@ -18827,6 +18869,14 @@ patent against the party.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Insérer la correspondance dans la traduction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert Match or Selection Into Translation</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20150211T164827Z" creationid="Didier" creationdate="20150211T164827Z">
+        <seg>&amp;Insérer la correspondance ou la sélection dans la traduction</seg>
       </tuv>
     </tu>
     <tu>
@@ -25798,6 +25848,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>R&amp;emplacer par la correspondance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>R&amp;eplace with Match or Selection</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20150211T164602Z" creationid="Didier" creationdate="20150211T164602Z">
+        <seg>R&amp;emplacer par la correspondance ou la sélection</seg>
       </tuv>
     </tu>
     <tu>
@@ -37363,6 +37421,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20131109T165937Z" creationid="Didier" creationdate="20131109T165937Z">
         <seg>Valider les balises pour le document &amp;actuel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Validate Tags for &amp;Current Document...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20150211T164624Z" creationid="Didier" creationdate="20150211T164624Z">
+        <seg>Valider les balises pour le document &amp;actuel...</seg>
       </tuv>
     </tu>
     <tu>
