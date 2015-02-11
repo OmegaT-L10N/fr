@@ -19197,6 +19197,14 @@ exécutez simplement le programme d'installation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Invalid API key</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20150211T164940Z" creationid="Didier" creationdate="20150211T164940Z">
+        <seg>Clé d'API non valide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Invalid HTML file</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20101229T183222Z">
@@ -26558,6 +26566,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Replace Translation with Match or Selection</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20150211T164844Z" creationid="Didier" creationdate="20150211T164844Z">
+        <seg>Remplacer la traduction par la correspondance ou la sélection</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Replace Translation with Text</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20110411T134726Z">
@@ -33359,6 +33375,14 @@ L'idée était que l'utilisation de certaines touches en dehors du segment coura
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The text size exceeds the maximum</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20150211T165126Z" creationid="Didier" creationdate="20150211T165126Z">
+        <seg>La taille du texte dépasse le maximum</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The third column can be used for additional information.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130527T142752Z">
@@ -34023,6 +34047,14 @@ using it.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130503T075636Z">
         <seg>La présente Licence Publique Générale s'applique à la plupart des logiciels de la Free Software Foundation, ainsi qu'à tout autre programme pour lequel ses auteurs s'engagent à l'utiliser.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This API key has been blocked</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20150211T164954Z" creationid="Didier" creationdate="20150211T164954Z">
+        <seg>Cette clé d'API a été bloquée</seg>
       </tuv>
     </tu>
     <tu>
@@ -38776,6 +38808,22 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Yandex Translate</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20150211T164848Z" creationid="Didier" creationdate="20150211T164848Z">
+        <seg>Yandex Translate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Yandex Translate - No API Key Specified</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20150211T164930Z" creationid="Didier" creationdate="20150211T164930Z">
+        <seg>Yandex Translate - Clé d'API non spécifiée</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Yiddish</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T103618Z">
@@ -39393,6 +39441,22 @@ SourceForge too.</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130417T113428Z">
         <seg>Vous pouvez définir son emplacement et son nom dans la boite de dialogue des propriétés du projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You have reached the daily limit for requests (including calls of the detect method)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20150211T165102Z" creationid="Didier" creationdate="20150211T165102Z">
+        <seg>Vous avez atteint la limite quotidienne pour les demandes (y compris les appels de la méthode « detect »)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You have reached the daily limit for the volume of translated text (including calls of the detect method)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20150211T165115Z" creationid="Didier" creationdate="20150211T165115Z">
+        <seg>Vous avez atteint la limite quotidienne pour le volume de texte traduit (y compris les appels de la méthode « detect »)</seg>
       </tuv>
     </tu>
     <tu>
