@@ -1056,6 +1056,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Reset This Colour</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20150225T095618Z" creationid="Didier" creationdate="20150225T095618Z">
+        <seg>&amp;Réinitialiser cette couleur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Reset to Default</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20141020T134754Z" creationid="Didier" creationdate="20141020T134754Z">
@@ -18883,8 +18891,8 @@ patent against the party.</seg>
       <tuv lang="EN">
         <seg>Insert Match or Selection Into Translation</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20150211T164827Z" creationid="Didier" creationdate="20150211T164827Z">
-        <seg>&amp;Insérer la correspondance ou la sélection dans la traduction</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20150225T095510Z" creationid="Didier" creationdate="20150211T164827Z">
+        <seg>Insérer la correspondance ou la sélection dans la traduction</seg>
       </tuv>
     </tu>
     <tu>
@@ -21676,6 +21684,14 @@ impose that choice.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Modification info</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20150225T095529Z" creationid="Didier" creationdate="20150225T095529Z">
+        <seg>Informations de modification</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Modification info template</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140902T141026Z" creationid="Didier" creationdate="20140902T140609Z">
@@ -21688,6 +21704,14 @@ impose that choice.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140902T140715Z" creationid="Didier" creationdate="20140902T140715Z">
         <seg>Modèle des informations de modification pour les segments non datés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Modification info text</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20150225T095541Z" creationid="Didier" creationdate="20150225T095541Z">
+        <seg>Texte des informations de modification</seg>
       </tuv>
     </tu>
     <tu>
@@ -26770,6 +26794,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130416T155941Z">
         <seg>Fichiers ResX (*.resx)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reset &amp;All Colours</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20150225T095654Z" creationid="Didier" creationdate="20150225T095654Z">
+        <seg>Réinitialiser to&amp;utes les couleurs</seg>
       </tuv>
     </tu>
     <tu>
