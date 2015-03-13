@@ -5391,6 +5391,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Machine Translation&lt;/p0&gt; &lt;s1&gt;Microsoft Translator&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20150313T151424Z" creationid="Didier" creationdate="20150313T151424Z">
+        <seg>&lt;p0&gt;Traduction Automatique&lt;/p0&gt; &lt;s1&gt;Microsoft Translator&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Machine Translation&lt;/p0&gt; &lt;s1&gt;Troubleshooting&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130503T130555Z">
@@ -10504,6 +10512,14 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130415T095332Z">
         <seg>Cliquez sur le bouton &lt;g1&gt;Fichiers et filtres...&lt;/g1&gt; et cochez la case &lt;g2&gt;Appliquez des paramètres de filtres de fichiers spécifiques au projet&lt;/g2&gt;&lt;i3/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click on the My Account option at the top of the page.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20150313T151611Z" creationid="Didier" creationdate="20150313T151611Z">
+        <seg>Cliquez sur l'option My Account en haut de la page.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17716,6 +17732,14 @@ free software which everyone can redistribute and change under these terms.</seg
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you do not already have an Azure Marketplace account you will need to register one first.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20150313T151531Z" creationid="Didier" creationdate="20150313T151531Z">
+        <seg>Si vous ne disposez pas déjà d'un compte Azure Marketplace vous devrez d'abord en créer un.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you do not wish &lt;a0&gt;OmegaT&lt;/a0&gt; to send your source segments to Google to get translated, untick the Google Translate menu entry in Options.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130503T124437Z">
@@ -18503,6 +18527,14 @@ the scope of this License.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130506T094015Z">
         <seg>Pour modifier ou élargir un ensemble de règles existant, cliquez simplement sur le nom de l'ensemble dans le tableau du haut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In order to get credentials for MS Translator, follow these steps:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20150313T151444Z" creationid="Didier" creationdate="20150313T151444Z">
+        <seg>Pour obtenir des informations d'identification pour MS Translator, suivez ces étapes :</seg>
       </tuv>
     </tu>
     <tu>
@@ -20761,6 +20793,14 @@ automatically download and install it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Log into Microsoft Azure Marketplace: &lt;u0&gt;http://datamarket.azure.com/&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20150313T151459Z" creationid="Didier" creationdate="20150313T151459Z">
+        <seg>Connectez-vous dans Microsoft Azure Marketplace : &lt;u0&gt;http://datamarket.azure.com/&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Log...</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140414T134454Z" creationid="Didier" creationdate="20140414T134454Z">
@@ -22280,6 +22320,14 @@ impose that choice.</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130519T100759Z">
         <seg>Ndonga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Near the bottom you will see entries and values for:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20150313T151626Z" creationid="Didier" creationdate="20150313T151626Z">
+        <seg>Vers le bas, vous verrez des entrées et des valeurs pour :</seg>
       </tuv>
     </tu>
     <tu>
@@ -25512,6 +25560,14 @@ language you would like to translate to.</seg>
       <tuv lang="FR">
         <seg>Les personnes qui ont contribué incluent :
 (ordre alphabétique)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Primary Account Key (corresponds to &lt;c0&gt;microsoft.api.client_secret&lt;/c0&gt; command-line parameter)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20150313T151657Z" creationid="Didier" creationdate="20150313T151657Z">
+        <seg>Primary Account Key (correspond au paramètre de ligne de commande &lt;c0&gt;microsoft.api.client_secret&lt;/c0&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -42396,6 +42452,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://datamarket.azure.com/</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20150313T151445Z" creationid="Didier" creationdate="20150313T151445Z">
+        <seg>http://datamarket.azure.com/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://datamarket.azure.com/dataset/bing/microsofttranslator#schema</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T104525Z">
@@ -45898,6 +45962,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T100244Z">
         <seg>ton</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tools to manage the linguistic data necessary to build a machine translation system for a given language pair</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20150313T151411Z" creationid="Didier" creationdate="20150313T151411Z">
+        <seg>des outils qui permettent de gérer les données linguistiques nécessaires à la construction d'un système de traduction automatique pour une paire de langues donnée</seg>
       </tuv>
     </tu>
     <tu>
