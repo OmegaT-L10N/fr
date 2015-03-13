@@ -5407,6 +5407,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Machine Translation&lt;/p0&gt; &lt;s1&gt;Yandex Translate&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20150313T151826Z" creationid="Didier" creationdate="20150313T151826Z">
+        <seg>&lt;p0&gt;Traduction Automatique&lt;/p0&gt; &lt;s1&gt;Yandex Translate&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Match Statistics&lt;/p0&gt; &lt;s1&gt;Menu Tools&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130426T172033Z">
@@ -11954,6 +11962,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130527T142236Z">
         <seg>Expression régulière pour les balises personnalisées</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Customer ID (corresponds to &lt;c0&gt;&lt;c1&gt;microsoft.api.client_id&lt;/c1&gt;&lt;/c0&gt; command-line parameter)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20150313T151712Z" creationid="Didier" creationdate="20150313T151712Z">
+        <seg>Customer ID (correspond au paramètre de ligne de commande &lt;c0&gt;&lt;c1&gt;microsoft.api.client_id&lt;/c1&gt;&lt;/c0&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -18511,6 +18527,14 @@ the scope of this License.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Pour mettre en application vos modifications, vous devez fermer puis recharger le projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In order to be able to use Yandex Translate in OmegaT, you need to &lt;u0&gt;obtain an API key from Yandex&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20150313T151904Z" creationid="Didier" creationdate="20150313T151904Z">
+        <seg>Pour pouvoir utiliser Yandex Translate dans OmegaT, vous devez obtenir une &lt;u0&gt;clé d'API de Yandex&lt;/u0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32801,6 +32825,14 @@ sure this has not already been reported.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The obtained API key needs to be passed to OmegaT at startup through &lt;c0&gt;yandex.api.key&lt;/c0&gt; command-line parameter.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20150313T151945Z" creationid="Didier" creationdate="20150313T151937Z">
+        <seg>La clé d'API obtenue doit être transmise à OmegaT au démarrage au travers du paramètre de ligne de commande &lt;c0&gt;yandex.api.key&lt;/c0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The omegat folder contains the &lt;f0&gt;project_save.tmx&lt;/f0&gt; and possibly a number of backup TMX files.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130506T135917Z">
@@ -35629,6 +35661,14 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130527T134228Z">
         <seg>Pour modifier le type et l'encodage des fichiers à traiter par un filtre, sélectionnez le filtre dans la liste et cliquez sur &lt;e1&gt;Modifier...&lt;/e1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To enable MS Translator in OmegaT edit its launcher or see chapter &lt;l0&gt;Installing and Running&lt;/l0&gt; to learn how to start OmegaT from the command line.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20150313T151817Z" creationid="Didier" creationdate="20150313T151817Z">
+        <seg>Pour activer MS Translator dans OmegaT, modifiez son lanceur ou consultez le chapitre&lt;l0&gt;Installation et exécution&lt;/l0&gt; pour apprendre la façon de démarrer OmegaT depuis la ligne de commande.</seg>
       </tuv>
     </tu>
     <tu>
