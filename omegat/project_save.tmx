@@ -3375,6 +3375,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Display: file names: &lt;/e0&gt;if checked, the name of the file where each segment is found is displayed above each result.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20150313T152214Z" creationid="Didier" creationdate="20150313T152214Z">
+        <seg>&lt;e0&gt;Afficher : les noms des fichiers : &lt;/e0&gt;si cochée, le nom du fichier dans lequel chaque segment est trouvé est affiché au-dessus de chaque résultat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Display: file names: &lt;/e0&gt;if checked, the name of the file where each segment is founded is displayed above each result.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20141202T220630Z" creationid="Didier" creationdate="20141202T220630Z">
@@ -7338,6 +7346,14 @@ this License.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130422T172329Z">
         <seg>Un symbole de devise</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A default script called Switch Colour Themes provides a default "Dark".</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20150313T152123Z" creationid="Didier" creationdate="20150313T152123Z">
+        <seg>Un script par défaut nommé Switch Colour Theme fournit un thème « Dark ».</seg>
       </tuv>
     </tu>
     <tu>
@@ -23426,6 +23442,14 @@ mouse-clicks or menu items--whatever suits your program.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT 3.1 - User's Guide</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20150313T152152Z" creationid="Didier" creationdate="20150313T152152Z">
+        <seg>OmegaT 3.1 - Guide de l'utilisateur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT Custom Colours</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20141022T161130Z" creationid="Didier" creationdate="20141022T161130Z">
@@ -34630,6 +34654,14 @@ under the terms of this General Public License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This external command cannot include "pipes", etc., which is why calling a script is recommended.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20150313T152201Z" creationid="Didier" creationdate="20150313T152201Z">
+        <seg>Cette commande externe ne pouvant pas comporter de « pipe », etc., l'appel d'un script est recommandé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This feature, however, is not implemented in OmegaT.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130528T131904Z">
@@ -35641,6 +35673,14 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To do that edit OmegaT launcher or see chapter &lt;l1&gt;Installing and Running&lt;/l1&gt; to learn how to start OmegaT from the command line.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20150313T152113Z" creationid="Didier" creationdate="20150313T152021Z">
+        <seg>Pour ce faire, modifier le lanceur d'OmegaT ou consultez le chapitre &lt;l1&gt;Installation et exécution&lt;/l1&gt; pour apprendre comment démarrer OmegaT depuis la ligne de commande.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To duplicate tag groups, just copy them in the position of your choice.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130430T140109Z">
@@ -35667,8 +35707,8 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
       <tuv lang="EN">
         <seg>To enable MS Translator in OmegaT edit its launcher or see chapter &lt;l0&gt;Installing and Running&lt;/l0&gt; to learn how to start OmegaT from the command line.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20150313T151817Z" creationid="Didier" creationdate="20150313T151817Z">
-        <seg>Pour activer MS Translator dans OmegaT, modifiez son lanceur ou consultez le chapitre&lt;l0&gt;Installation et exécution&lt;/l0&gt; pour apprendre la façon de démarrer OmegaT depuis la ligne de commande.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20150313T152101Z" creationid="Didier" creationdate="20150313T151817Z">
+        <seg>Pour activer MS Translator dans OmegaT, modifiez son lanceur ou consultez le chapitre &lt;l0&gt;Installation et exécution&lt;/l0&gt; pour apprendre comment démarrer OmegaT depuis la ligne de commande.</seg>
       </tuv>
     </tu>
     <tu>
