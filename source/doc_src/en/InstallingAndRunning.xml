@@ -636,11 +636,10 @@
       added after the initial <emphasis>"java"</emphasis>, and before the
       <emphasis>"-jar <application>OmegaT</application>.jar"</emphasis>. Note
       that in Windows you can change the
-      <emphasis><application>OmegaT</application>.l4J.ini</emphasis> file to
-      reflect your preferences. On Mac OS X, you can change the
-      <emphasis>Info.plist</emphasis> located in
-      <emphasis><application>OmegaT</application>.app/Contents/</emphasis> to
-      do the same.</para>
+      <filename>OmegaT.l4J.ini</filename> file to
+      reflect your preferences. In other platforms, you can modify your 
+      launcher (e.g., <filename>OmegaT.sh</filename> on the Mac, 
+      <filename>OmegaT</filename> under Linux) to do the same.</para>
 
       <para>A list of possible arguments is given below. Advanced users can
       obtain more information on the arguments by typing <emphasis>man
@@ -795,6 +794,27 @@
           <para>-<emphasis
           role="bold">Dmicrosoft.api.client_secret=XXXX9xXxX9xXXxxXXX9xxX99xXXXX9xx9XXxXxXXXXX=</emphasis></para>
         </listitem>
+
+        <listitem>
+          <para><emphasis role="bold">Yandex Translate</emphasis><indexterm class="singular">
+              <primary>Running OmegaT</primary>
+
+              <secondary>Launch script arguments</secondary>
+
+              <tertiary>Yandex Translate</tertiary>
+            </indexterm></para>
+
+          <para>Make sure that you have a free Yandex account. You’ll need
+          this to be able to obtain and use Yandex Translate API key. API keys
+          can be requested using <ulink url="http://api.yandex.com/key/form.xml?service=trnsl">API key request form</ulink>,
+          and viewed on <ulink url="http://api.yandex.com/key/keyslist.xml">My Keys</ulink> page.
+          </para>
+
+          <para><emphasis
+          role="bold">-Dyandex.api.key=</emphasis><emphasis
+          role="bold">trnsl.1.1.XXXXXXXXXXXXXXXX.XXXXXXXXXXXXXXXX.XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</emphasis></para>
+        </listitem>
+
       </itemizedlist>
 
       <para>Arguments can be combined: to launch
