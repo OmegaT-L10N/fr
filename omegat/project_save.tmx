@@ -11878,6 +11878,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+Shift+O toggles orientation between LTR, RTL and language dependent</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20150504T150941Z" creationid="Didier" creationdate="20150504T150941Z">
+        <seg>Ctrl+Maj+O bascule l'orientation entre les modes gauche à droite, droite à gauche et dépendants des langues</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+Shift+P</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130412T081307Z">
@@ -46802,6 +46810,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T103641Z">
         <seg>{</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0} ({1} left) / {2} ({3} left), {4}</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20150504T150840Z" creationid="Didier" creationdate="20150504T150840Z">
+        <seg>{0} ({1} restant) / {2} ({3} restant), {4}</seg>
       </tuv>
     </tu>
     <tu>
