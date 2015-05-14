@@ -28,6 +28,14 @@ modification has been made.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>"Main class name is required.";</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20150514T141344Z" creationid="Didier" creationdate="20150514T141344Z">
+        <seg>"Le nom de la classe principale est obligatoire.";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>"Tag groups" in this context are a single tag (such as &lt;i0&gt; and &lt;/i0&gt;).</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130527T141820Z">
@@ -50,6 +58,30 @@ License. Each licensee is addressed as "you". "Licensees" and
       </tuv>
       <tuv lang="FR" changeid="brigitte" changedate="20130712T153201Z">
         <seg>"This is a source term, which contains a comma","Ceci est un terme, qui contient une virgule"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>"Unable to enumerate Java directory contents.";</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20150514T141412Z" creationid="Didier" creationdate="20150514T141412Z">
+        <seg>"Impossible d'énumérer le contenu du répertoire Java.";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>"Unable to load Java Runtime Environment.";</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20150514T141249Z" creationid="Didier" creationdate="20150514T141249Z">
+        <seg>"Impossible de charger l'environnement d'exécution Java.";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>"Unable to load a Java %d Runtime Environment.";</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20150514T141302Z" creationid="Didier" creationdate="20150514T141302Z">
+        <seg>"Impossible de charger l'environnement d'exécution Java %d.";</seg>
       </tuv>
     </tu>
     <tu>
