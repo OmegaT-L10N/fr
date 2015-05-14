@@ -60,6 +60,7 @@
         <files sourceFilenameMask="*.rdkf" targetFilenamePattern="${filename}" sourceEncoding="UTF-16LE" targetEncoding="UTF-16LE"/>
         <files sourceFilenameMask="*.pnstag" targetFilenamePattern="${filename}"/>
         <files sourceFilenameMask="*.isl" targetFilenamePattern="${filename}"/>
+        <files sourceFilenameMask="*.strings" targetFilenamePattern="${filename}" sourceEncoding="UTF-8" targetEncoding="UTF-8"/>
     </filter>
     <filter className="org.omegat.filters3.xml.docbook.DocBookFilter" enabled="true">
         <files sourceFilenameMask="*.xml" targetFilenamePattern="${filename}"/>
@@ -186,6 +187,17 @@
         <files sourceFilenameMask="*.lang.local" targetFilenamePattern="ilias_${targetLanguageCode}.${extension}" targetEncoding="UTF-8"/>
     </filter>
     <filter className="org.omegat.filters3.xml.xmlspreadsheet.XMLSpreadsheetFilter" enabled="true">
+        <files sourceFilenameMask="*.xml" targetFilenamePattern="${filename}"/>
+    </filter>
+    <filter className="net.sf.okapi.lib.omegat.DoxygenFilter" enabled="true">
+        <files sourceFilenameMask="*.h" targetFilenamePattern="${filename}"/>
+        <files sourceFilenameMask="*.c" targetFilenamePattern="${filename}"/>
+        <files sourceFilenameMask="*.cpp" targetFilenamePattern="${filename}"/>
+        <files sourceFilenameMask="*.java" targetFilenamePattern="${filename}"/>
+        <files sourceFilenameMask="*.py" targetFilenamePattern="${filename}"/>
+        <files sourceFilenameMask="*.m" targetFilenamePattern="${filename}"/>
+    </filter>
+    <filter className="net.sf.okapi.lib.omegat.XMLFilter" enabled="true">
         <files sourceFilenameMask="*.xml" targetFilenamePattern="${filename}"/>
     </filter>
 </filters>
