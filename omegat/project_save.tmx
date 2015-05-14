@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>"Cannot launch from folder that contains a \"/\" in its name.";</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20150514T141516Z" creationid="Didier" creationdate="20150514T141516Z">
+        <seg>"Impossible de lancer à partir d'un dossier dont le nom comporte un « / ».";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>"Google Translate returned HTTP response code: 403 ...": check that the 38-characters key, entered in the pinfo.list file, is correct.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130503T131025Z">
