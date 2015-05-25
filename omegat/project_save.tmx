@@ -62,6 +62,22 @@ License. Each licensee is addressed as "you". "Licensees" and
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>"This application requires that Java %d or later be installed on your computer.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20150525T145253Z" creationid="Didier" creationdate="20150525T145253Z">
+        <seg>"Cette application nécessite la présence de Java %d ou supérieur sur votre ordinateur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>"This application requires that a Java %d JDK or later be installed on your computer.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20150525T145344Z" creationid="Didier" creationdate="20150525T145344Z">
+        <seg>"Cette application nécessite la présence d'un JDK Java %d ou supérieur sur votre ordinateur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>"This is a source term, which contains a comma","c'est un terme, qui contient une virgule"</seg>
       </tuv>
       <tuv lang="FR" changeid="brigitte" changedate="20130712T153201Z">
@@ -372,6 +388,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20110407T150353Z">
         <seg>A&amp;ppliquer cette police à la fenêtre Fichiers du projet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Apply to All</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20150525T145210Z" creationid="Didier" creationdate="20150525T145210Z">
+        <seg>&amp;Appliquer à tous</seg>
       </tuv>
     </tu>
     <tu>
@@ -8733,6 +8757,14 @@ menu, a prominent item in the list meets this criterion.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An item named "{0}" already exists in this location.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20150525T145143Z" creationid="Didier" creationdate="20150525T145143Z">
+        <seg>Un élément nommé « {0} » existe déjà a cet emplacement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An uppercase letter (simple &lt;u0&gt; category&lt;/u0&gt;)</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130422T172316Z">
@@ -12939,6 +12971,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140203T140739Z" creationid="Didier" creationdate="20140203T140739Z">
         <seg>Voulez-vous continuer ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do you want to replace it with the one you're moving?</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20150525T145157Z" creationid="Didier" creationdate="20150525T145157Z">
+        <seg>Voulez-vous le remplacer par celui que vous déplacez ?</seg>
       </tuv>
     </tu>
     <tu>
@@ -25444,6 +25484,22 @@ pour déterminer la source de l'erreur et faites une nouvelle tentative.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140617T181940Z" creationid="Didier" creationdate="20140617T181940Z">
         <seg>Veuillez la vérifier soigneusement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please download and install the latest Java JDK from Oracle.com and try again.";</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20150525T145404Z" creationid="Didier" creationdate="20150525T145404Z">
+        <seg>Veuillez télécharger et installer le dernier JDK Java depuis www.java.com et essayez à nouveau.";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please download and install the latest version of Java from www.java.com and try again.";</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20150525T145323Z" creationid="Didier" creationdate="20150525T145323Z">
+        <seg>Veuillez télécharger et installer la dernière version de Java depuis www.java.com et essayez à nouveau.";</seg>
       </tuv>
     </tu>
     <tu>
