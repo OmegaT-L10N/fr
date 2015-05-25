@@ -1144,6 +1144,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Save As...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20150525T144624Z" creationid="Didier" creationdate="20150525T144624Z">
+        <seg>&amp;Enregistrer sous...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Save...</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130913T165741Z" creationid="Didier" creationdate="20130913T165741Z">
@@ -1364,6 +1372,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Ma&amp;juscule</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Use terms appearing separately in the source text</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20150525T144647Z" creationid="Didier" creationdate="20150525T144647Z">
+        <seg>&amp;Utiliser les termes apparaissant séparément dans le texte source</seg>
       </tuv>
     </tu>
     <tu>
@@ -10196,6 +10212,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check LanguageTools rules</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20150525T144611Z" creationid="Didier" creationdate="20150525T144611Z">
+        <seg>Règles de LanguageTools</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check Rules</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140604T063832Z" creationid="Didier" creationdate="20140604T063832Z">
@@ -12074,6 +12098,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20150313T151712Z" creationid="Didier" creationdate="20150313T151712Z">
         <seg>Customer ID (correspond au paramètre de ligne de commande &lt;c0&gt;&lt;c1&gt;microsoft.api.client_id&lt;/c1&gt;&lt;/c0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Customer ID (corresponds to &lt;c0&gt;microsoft.api.client_id&lt;/c0&gt; command-line parameter)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20150525T144544Z" creationid="Didier" creationdate="20150525T144544Z">
+        <seg>Customer ID (correspond au paramètre de ligne de commande &lt;c0&gt;microsoft.api.client_id&lt;/c0&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -20526,6 +20558,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130423T094205Z">
         <seg>LanguageTool.jar (licence LGPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTools Rules</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20150525T144557Z" creationid="Didier" creationdate="20150525T144557Z">
+        <seg>Règles de LanguageTools</seg>
       </tuv>
     </tu>
     <tu>
@@ -37492,6 +37532,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130527T151209Z">
         <seg>Utilisez-la si vous voulez qu'OmegaT ne synchronise pas le contenu du projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use stemming for &amp;glossary entries</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20150525T144806Z" creationid="Didier" creationdate="20150525T144713Z">
+        <seg>Utiliser la lemmatisation pour les entrées de &amp;glossaire</seg>
       </tuv>
     </tu>
     <tu>
