@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.4_1" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5_1" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1244,6 +1244,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20101112T182919Z">
         <seg>Nom des fe&amp;uilles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Show relevant suggestions automatically</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20150610T145221Z" creationid="Didier" creationdate="20150610T145221Z">
+        <seg>&amp;Afficher automatiquement les suggestions pertinentes</seg>
       </tuv>
     </tu>
     <tu>
@@ -16076,6 +16084,14 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20120306T143036Z">
         <seg>Dossier des glossaires :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Glossary auto-completer options</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20150610T145301Z" creationid="Didier" creationdate="20150610T145301Z">
+        <seg>Options de glossaires de la saisie automatique</seg>
       </tuv>
     </tu>
     <tu>
