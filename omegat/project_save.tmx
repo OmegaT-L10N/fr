@@ -320,6 +320,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Access Project Contents</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20150713T083726Z" creationid="Didier" creationdate="20150713T083726Z">
+        <seg>Accéder au conten&amp;u du projet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Add</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140725T171046Z">
@@ -540,6 +548,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Valeurs par &amp;défaut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Dictionaries</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20150713T083746Z" creationid="Didier" creationdate="20150713T083746Z">
+        <seg>&amp;Dictionnaires</seg>
       </tuv>
     </tu>
     <tu>
@@ -1152,6 +1168,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Root</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20150713T083735Z" creationid="Didier" creationdate="20150713T083735Z">
+        <seg>&amp;Racine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Run</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20110717T180016Z">
@@ -1288,6 +1312,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Source Files</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20150713T083907Z" creationid="Didier" creationdate="20150713T083854Z">
+        <seg>&amp;Fichiers source</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Source Files Language:</seg>
       </tuv>
       <tuv lang="FR">
@@ -1332,6 +1364,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140625T073526Z" creationid="Didier" creationdate="20140625T073526Z">
         <seg>&amp;Recherche terminologique TaaS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Target Files</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20150713T083906Z" creationid="Didier" creationdate="20150713T083906Z">
+        <seg>Fichiers &amp;cible</seg>
       </tuv>
     </tu>
     <tu>
@@ -47281,6 +47321,26 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="FR" changeid="brigitte" changedate="20130715T202441Z" creationid="brigitte" creationdate="20130715T202441Z">
         <seg>(Voir le guide de l'utilisateur pour une liste des formats de fichier pris en charge.)
 Pour ajouter des fichiers au projet, cliquez sur le bouton « Copier des fichiers dans le dossier source... » de la fenêtre Fichiers du Projet, ou bien choisissez cette option à partir du menu Projet et ajoutez les fichiers que vous souhaitez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">src/org/omegat/Bundle.properties</prop>
+      <prop type="id">TF_MENU_FILE_ACCESS_GLOSSARY</prop>
+      <tuv lang="EN">
+        <seg>&amp;Glossaries</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20150713T083822Z" creationid="Didier" creationdate="20150713T083822Z">
+        <seg>&amp;Glossaires</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">src/org/omegat/Bundle.properties</prop>
+      <prop type="id">TF_MENU_FILE_ACCESS_TM</prop>
+      <tuv lang="EN">
+        <seg>T&amp;Ms</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20150713T083839Z" creationid="Didier" creationdate="20150713T083839Z">
+        <seg>&amp;Mémoires de traduction</seg>
       </tuv>
     </tu>
     <tu>
