@@ -536,6 +536,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Current Source Document</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20150713T083931Z" creationid="Didier" creationdate="20150713T083931Z">
+        <seg>Document &amp;source actuel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Cycle</seg>
       </tuv>
       <tuv lang="FR">
@@ -1272,6 +1280,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Show Relevant Suggestions Automatically</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20150713T084034Z" creationid="Didier" creationdate="20150713T084034Z">
+        <seg>&amp;Afficher automatiquement les suggestions pertinentes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Show relevant suggestions automatically</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20150610T145221Z" creationid="Didier" creationdate="20150610T145221Z">
@@ -1448,6 +1464,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Use Terms Appearing Separately in the Source Text</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20150713T084022Z" creationid="Didier" creationdate="20150713T084022Z">
+        <seg>&amp;Utiliser les termes apparaissant séparément dans le texte source</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Use terms appearing separately in the source text</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20150525T144647Z" creationid="Didier" creationdate="20150525T144647Z">
@@ -1484,6 +1508,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="FR">
         <seg>&amp;Affichage</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Writeable Glossary</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20150713T084014Z" creationid="Didier" creationdate="20150713T084014Z">
+        <seg>G&amp;lossaire en écriture</seg>
       </tuv>
     </tu>
     <tu>
@@ -7907,6 +7939,14 @@ or that patent license was granted, prior to 28 March 2007.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Access Configuration Folder</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20150713T084056Z" creationid="Didier" creationdate="20150713T084056Z">
+        <seg>Accéder au dossier de configuration</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Accessing the TaaS service</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20141202T221453Z" creationid="Didier" creationdate="20141202T221453Z">
@@ -10004,6 +10044,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>C&amp;urrent Target Document</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20150713T083957Z" creationid="Didier" creationdate="20150713T083957Z">
+        <seg>Document cible &amp;actuel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Camtasia for Windows</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130531T094149Z">
@@ -10064,6 +10112,14 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Impossible de créer le dossier pour les fichiers traduits :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cannot install</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20150713T084107Z" creationid="Didier" creationdate="20150713T084107Z">
+        <seg>Impossible d'installer</seg>
       </tuv>
     </tu>
     <tu>
@@ -11498,6 +11554,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
       <tuv lang="FR" changeid="etudiant_local" changedate="20130410T125041Z">
         <seg>Corse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Could not create the specified folder.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20150713T084221Z" creationid="Didier" creationdate="20150713T084221Z">
+        <seg>Impossible de créer le dossier spécifié.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13019,6 +13083,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140203T140739Z" creationid="Didier" creationdate="20140203T140739Z">
         <seg>Voulez-vous continuer ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do you want to create it?</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20150713T084203Z" creationid="Didier" creationdate="20150713T084203Z">
+        <seg>Voulez-vous le créer ?</seg>
       </tuv>
     </tu>
     <tu>
@@ -15138,6 +15210,14 @@ patents.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20121113T085947Z">
         <seg>Le dossier existe déjà et n'est pas vide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Folder does not exist</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20150713T084133Z" creationid="Didier" creationdate="20150713T084133Z">
+        <seg>Le dossier n'existe pas</seg>
       </tuv>
     </tu>
     <tu>
@@ -33868,6 +33948,22 @@ making modifications to it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The specified dictionary folder cannot be used.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20150713T084124Z" creationid="Didier" creationdate="20150713T084124Z">
+        <seg>Le dossier de dictionnaires spécifié ne peut pas être utilisé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The specified dictionary folder does not exist.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20150713T084155Z" creationid="Didier" creationdate="20150713T084155Z">
+        <seg>Le dossier de dictionnaires spécifié n'existe pas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The specified translation direction is not supported</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20150211T165150Z" creationid="Didier" creationdate="20150211T165150Z">
@@ -37644,6 +37740,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130527T152421Z">
         <seg>Utilisez Maj+F3 &lt;i0/&gt; pour passer d'une option à l'autre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use Stemming for &amp;Glossary Entries</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20150713T084026Z" creationid="Didier" creationdate="20150713T084026Z">
+        <seg>Utiliser la lemmatisation pour les entrées de &amp;glossaire</seg>
       </tuv>
     </tu>
     <tu>
