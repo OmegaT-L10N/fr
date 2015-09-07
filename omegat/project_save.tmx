@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.1" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.2" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12210,6 +12210,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140414T134141Z" creationid="Didier" creationdate="20140414T134141Z">
         <seg>Ctrl+↓</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Current memory usage by the VM: {0}MB; of which free memory: {1}MB; maximum available: {2}MB</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20150907T140826Z" creationid="Didier" creationdate="20150907T140826Z">
+        <seg>Utilisation actuelle de la mémoire par la VM : {0} Mo, dont mémoire libre : {1} Mo, maximum disponible : {2} Mo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27674,6 +27682,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="FR" changeid="brigitte" changedate="20130713T084054Z">
         <seg>Exécution d'&lt;a0&gt;OmegaT&lt;i1/&gt;&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Running on Java {0}</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20150907T140800Z" creationid="Didier" creationdate="20150907T140800Z">
+        <seg>Fonctionne avec Java {0}</seg>
       </tuv>
     </tu>
     <tu>
