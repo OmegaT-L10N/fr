@@ -1464,6 +1464,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Use Fuzzy Matching for Dictionary Entries</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20150910T092525Z" creationid="Didier" creationdate="20150910T092525Z">
+        <seg>&amp;Utiliser des correspondances partielles pour les entrées de dictionnaire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Use Terms Appearing Separately in the Source Text</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20150713T084022Z" creationid="Didier" creationdate="20150713T084022Z">
@@ -12554,6 +12562,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140617T181745Z" creationid="Didier" creationdate="20140617T181745Z">
         <seg>Détection...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dictionar&amp;y</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20150910T092506Z" creationid="Didier" creationdate="20150910T092506Z">
+        <seg>Dictionn&amp;aire</seg>
       </tuv>
     </tu>
     <tu>
