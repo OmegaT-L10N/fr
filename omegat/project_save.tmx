@@ -29616,6 +29616,14 @@ REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Skip segments where source=target</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20151005T092818Z" creationid="Didier" creationdate="20151005T092818Z">
+        <seg>Ignorer les segments où source=cible</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Skip text matching regular expression:</seg>
       </tuv>
       <tuv lang="FR">
