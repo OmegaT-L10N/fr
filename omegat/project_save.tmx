@@ -12288,8 +12288,8 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       <tuv lang="EN">
         <seg>Current memory usage by the VM: {0}MB; of which free memory: {1}MB; maximum available: {2}MB</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20150907T140826Z" creationid="Didier" creationdate="20150907T140826Z">
-        <seg>Utilisation actuelle de la mémoire par la VM : {0} Mo, dont mémoire libre : {1} Mo, maximum disponible : {2} Mo.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20151111T093418Z" creationid="Didier" creationdate="20150907T140826Z">
+        <seg>Utilisation actuelle de la mémoire par la MV : {0} Mo, dont mémoire libre : {1} Mo, maximum disponible : {2} Mo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12618,6 +12618,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140617T181745Z" creationid="Didier" creationdate="20140617T181745Z">
         <seg>Détection...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>DictZip from JDictd (GPL v2)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20151111T093302Z" creationid="Didier" creationdate="20151111T093302Z">
+        <seg>DictZip de JDictd (GPL v2)</seg>
       </tuv>
     </tu>
     <tu>
@@ -27838,6 +27846,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Running on Java {0} ({1}-bit JVM)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20151111T093357Z" creationid="Didier" creationdate="20151111T093357Z">
+        <seg>Fonctionne avec Java {0} ({1} bits)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Runs (text elements) are set to RTL</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130430T082645Z">
@@ -31876,6 +31892,18 @@ form of a work.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130423T093940Z">
         <seg>Les lemmatiseurs anglais (org.omegat.tokenizer.SnowballEnglishTokenizer et</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The English tokenizers (org.omegat.tokenizer.SnowballEnglishTokenizer and
+org.omegat.tokenizer.LuceneEnglishTokenizer) use stop words originally from
+Okapi (http://okapi.sourceforge.net) (LGPL license)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20151111T093250Z" creationid="Didier" creationdate="20151111T093250Z">
+        <seg>Les lemmatiseurs anglais (org.omegat.tokenizer.SnowballEnglishTokenizer et
+org.omegat.tokenizer.LuceneEnglishTokenizer) utilisent des mots non significatifs 
+provenant initialement d'Okapi (http://okapi.sourceforge.net) (licence LGPL)</seg>
       </tuv>
     </tu>
     <tu>
