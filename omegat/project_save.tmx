@@ -9703,6 +9703,14 @@ FOR THE PROGRAM, TO THE EXTENT PERMITTED BY APPLICABLE LAW.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Backed up preferences to {0}</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20151111T100037Z" creationid="Didier" creationdate="20151111T100037Z">
+        <seg>Préférences sauvegardées dans {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Background</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140924T085300Z" creationid="Didier" creationdate="20140924T085300Z">
@@ -14875,6 +14883,14 @@ The FSF strongly urges you not to use this translation as the official distribu-
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20101223T174923Z">
         <seg>Fabián Mandelbaum</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to back up preferences file.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20151111T100103Z" creationid="Didier" creationdate="20151111T100103Z">
+        <seg>Le fichier de préférences n'a pas pu être sauvegardé.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20728,6 +20744,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130411T074521Z">
         <seg>Raccourcis clavier dans le volet d'édition</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Keyword searches are not available in the search string.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20151111T095933Z" creationid="Didier" creationdate="20151111T095933Z">
+        <seg>Les recherches par mot clé ne sont pas disponibles dans la chaîne de recherche.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31535,6 +31559,16 @@ material under section 10.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Text Replace:
+The scope of a text replacement is the target segments of the project, whether they already have contents or not.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20151111T095903Z" creationid="Didier" creationdate="20151111T095903Z">
+        <seg>Remplacement :
+Les remplacements portent sur les segments cible du projet, qu'ils soient déjà traduits ou non.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Text Search</seg>
       </tuv>
       <tuv lang="FR">
@@ -39233,6 +39267,14 @@ you have just discovered.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130527T131743Z">
         <seg>Lorsque vous utilisez un service externe, soyez conscients des risques possibles en termes de confidentialité, dans la mesure où vous chargez un document sur un serveur qui échappe à votre contrôle direct.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When using regular expressions, the replacement string does not support references to groups defined in the search string.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20151111T100013Z" creationid="Didier" creationdate="20151111T100013Z">
+        <seg>Lorsque des expressions régulières sont utilisées, la chaîne de remplacement ne prend pas en charge les références aux groupes définis dans la chaîne de recherche.</seg>
       </tuv>
     </tu>
     <tu>
