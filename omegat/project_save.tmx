@@ -20730,6 +20730,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Keyword searches match all the space-separated keywords regardless of their order.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20151111T095411Z" creationid="Didier" creationdate="20151111T095411Z">
+        <seg>Les recherches par mot clé correspondent à tous les mots clés séparés par des espaces, indépendamment de leur ordre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Keyword searches regard the specified query string as a set of search keywords (separated by space) and return all segments which contain all of the query words, in any order.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20100119T180023Z">
@@ -27040,6 +27048,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130104T145655Z">
         <seg>Expression régulière pour les fragments à supprimer de la traduction :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Regular expression searches match Java regular expressions as documented in the user manual.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20151111T095452Z" creationid="Didier" creationdate="20151111T095452Z">
+        <seg>Les recherches par expressions régulières correspondent aux expressions régulières Java telles que documentées dans le manuel de l'utilisateur.</seg>
       </tuv>
     </tu>
     <tu>
