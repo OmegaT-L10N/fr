@@ -3543,6 +3543,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Compress whitespace in translated document&lt;/e0&gt;: multiple continuous whitespaces will be converted into one single whitespace in translated document.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20151111T092249Z" creationid="Didier" creationdate="20151111T092249Z">
+        <seg>&lt;e0&gt;Compresser les espaces dans le document traduit&lt;/e0&gt; : les caractères d'espacement contigus seront convertis en un seul caractère d'espacement dans le document traduit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Delete: &lt;/e0&gt;nothing</seg>
       </tuv>
       <tuv lang="FR" changeid="brigitte" changedate="20130712T181217Z">
@@ -3915,6 +3923,14 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
       <tuv lang="FR" changeid="brigitte" changedate="20130712T170124Z">
         <seg>&lt;e0&gt;Propriétés du projet&lt;/e0&gt;, Fichiers et dossiers d'&lt;e1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt; :&lt;/e1&gt; pour OmegaT, un projet est un travail qu'il est en mesure de gérer, en tant qu'outil de TAO.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Remove HTML comments in translated document&lt;/e0&gt;: all commented parts (between &lt;!-- and --&gt;) won't be copied in the translated document.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20151111T092429Z" creationid="Didier" creationdate="20151111T092429Z">
+        <seg>&lt;e0&gt;Supprimer les commentaires HTML dans le document traduit&lt;/e0&gt; : les parties commentées (entre &lt;!-- et --&gt;) ne seront pas copiées dans le document traduit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7594,6 +7610,14 @@ this License.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130527T142302Z">
         <seg>Une pénalité fixe de cinq points est ajoutée si la partie supprimée ne correspond à aucun autre segment afin que la correspondance n'atteigne pas les 100 %</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A fixed penalty of 5 is added if the removed part does not match some other segment, so the match does not show up as 100%.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20151111T092518Z" creationid="Didier" creationdate="20151111T092518Z">
+        <seg>Une pénalité fixe de cinq points est ajoutée si la partie supprimée ne correspond à aucun autre segment afin que la correspondance n'atteigne pas les 100 %.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38918,6 +38942,14 @@ you have just discovered.</seg>
         <seg>When looking for fuzzy matches the remove pattern is ignored.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130503T070646Z">
+        <seg>Lors de la recherche de correspondances, le masque de suppression est ignoré.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When looking for fuzzy matches, the remove pattern is ignored.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20151111T092457Z" creationid="Didier" creationdate="20151111T092457Z">
         <seg>Lors de la recherche de correspondances, le masque de suppression est ignoré.</seg>
       </tuv>
     </tu>
