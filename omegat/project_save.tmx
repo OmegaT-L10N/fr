@@ -26540,6 +26540,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project searches are by default performed on the source and target, reference TMs, glossaries, notes and comments of the project.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20151111T093725Z" creationid="Didier" creationdate="20151111T093725Z">
+        <seg>Les recherches dans le projet sont effectuées par défaut sur la source et la cible, les MT de références, les glossaires, les notes et les commentaires du projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project will not be updated.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20120420T211440Z">
@@ -28204,6 +28212,16 @@ REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Sauvegarde du projet...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Scope:
+The scope of a search is by default the project and can be set to be any files located in a specified folder hierarchy.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20151111T093617Z" creationid="Didier" creationdate="20151111T093617Z">
+        <seg>Objet :
+La recherche port par défaut sur le projet, et peut porter sur tout fichier situé dans une arborescence de dossiers définie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37404,6 +37422,16 @@ Kaptain.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130412T114932Z">
         <seg>Saisissez le nom et la description du référentiel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Types:
+Exact searches match the whole search string.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20151111T093802Z" creationid="Didier" creationdate="20151111T093802Z">
+        <seg>Types :
+Les recherches exactes correspondent à l'ensemble de la chaîne recherchée.</seg>
       </tuv>
     </tu>
     <tu>
