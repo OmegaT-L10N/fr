@@ -7947,6 +7947,14 @@ or that patent license was granted, prior to 28 March 2007.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Aaron Madlon-Kay (integration manager)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20151111T093124Z" creationid="Didier" creationdate="20151111T093124Z">
+        <seg>Aaron Madlon-Kay (responsable de l'intégration)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Abkhaz</seg>
       </tuv>
       <tuv lang="FR" changeid="etudiant_local" changedate="20130410T123922Z">
@@ -10736,6 +10744,14 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130519T100745Z">
         <seg>Chichewa, Chewa, Nyanja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chihiro Hio</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20151111T093100Z" creationid="Didier" creationdate="20151111T093100Z">
+        <seg>Chihiro Hio</seg>
       </tuv>
     </tu>
     <tu>
@@ -16880,6 +16896,14 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Hiroshi Miura</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20151111T093126Z" creationid="Didier" creationdate="20151111T093126Z">
+        <seg>Hiroshi Miura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Home*</seg>
       </tuv>
       <tuv lang="FR" changeid="etudiant_local" changedate="20130410T122323Z">
@@ -18165,6 +18189,14 @@ folder, see the manual for its location).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you click on the button &lt;g0&gt;Advanced options&lt;/g0&gt; additional criteria (author of the translation, date translated etc) can be selected.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20151111T093012Z" creationid="Didier" creationdate="20151111T093012Z">
+        <seg>Le bouton &lt;g0&gt;Options avancées&lt;/g0&gt; vous donne accès à des critères supplémentaires (auteur de la traduction, date de traduction, etc.).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you convey a covered work, knowingly relying on a patent license,
 and the Corresponding Source of the work is not available for anyone
 to copy, free of charge and under the terms of this License, through a
@@ -18198,6 +18230,14 @@ been installed in ROM).</seg>
       </tuv>
       <tuv lang="FR" changeid="jchelary" changedate="20130526T135621Z">
         <seg>Si vous transmettez une création sous forme de code objet conformément à cet article dans, ou avec, ou spécifiquement pour une utilisation dans, un Produit Utilisateur et si la transmission intervient comme élément d’une opération dans laquelle le droit de possession et d’utilisation du Produit Utilisateur est transféré au destinataire définitivement ou pour une durée déterminée (indépendamment de la façon dont l’opération est qualifiée), la Source Correspondante transmise en application de cet article doit être accompagnée des Informations d’Installation. Toutefois, cette obligation ne s’applique pas si ni vous ni aucun tiers ne conservez la possibilité d’installer un code objet modifié sur le Produit Utilisateur (par exemple, la création a été installée en mémoire morte).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you decide mid-translation to switch from sentence to paragraph translation, the internal translation memory of the project will not be changed (OmegaT may upgrade old translation memories that did not use sentence segmentation, but not vice versa), but OmegaT will attemp to create paragraph fuzzy matches by glueing together existing sentence translations.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20151111T092947Z" creationid="Didier" creationdate="20151111T092947Z">
+        <seg>Si, en plein milieu de la traduction, vous décidez de passer d'une traduction par phrase à une traduction par paragraphe, la mémoire de traduction interne du projet ne sera pas modifiée (OmegaT peut mettre à jour des vieilles mémoires de traduction qui n'étaient pas segmentées par phrase, mais pas l'inverse), mais OmegaT essayera de créer des correspondances pour les paragraphes en ajoutant bout à bout des traductions de phrases existantes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18915,6 +18955,14 @@ the scope of this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In case translators need to share their TMX bases while excluding some of their parts or including just translations of certain files, sharing the complete &lt;f0&gt;ProjectName-omegat.tmx&lt;/f0&gt; is out of question.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20151111T093025Z" creationid="Didier" creationdate="20151111T093025Z">
+        <seg>Pour les traducteurs qui ont besoin de partager leurs bases TMX tout en excluant certaines parties ou en n'incluant que la traduction de certains fichiers, il n'est pas question de partager le fichier &lt;f0&gt;ProjectName-omegat.tmx&lt;/f0&gt; complet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In case you decide to modify project folders, keep in mind that this will not move existing files from old folders to the new location.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130506T122239Z">
@@ -19349,6 +19397,14 @@ patent against the party.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130528T123337Z">
         <seg>Dans ce cas, placez la mémoire de traduction que vous voulez utiliser dans le dossier &lt;e0&gt;/tm&lt;/e0&gt; ou &lt;e1&gt;/tm&lt;/e1&gt;/auto de votre nouveau projet : dans le premier cas, vous obtiendrez des correspondances venant des mémoires de traduction dans le volet Correspondances ; dans le second cas, ces mémoires de traduction seront utilisées pour la prétraduction de votre texte source.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this case, the NL-EN translation memory can serve as a go-between to help generate NL to ZH translation.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20151111T093035Z" creationid="Didier" creationdate="20151111T093035Z">
+        <seg>Dans ce cas, la mémoire de traduction NL-EN peut être utilisée comme intermédiaire pour aider à générer la traduction NL vers ZH.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34067,6 +34123,14 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The solution in our example is to copy the existing translation memory into the tm/tmx2source/ subfolder and rename it to ZH_CN.tmx to indicate the target language of the tmx.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20151111T093049Z" creationid="Didier" creationdate="20151111T093049Z">
+        <seg>Dans cet exemple, la solution consiste à copier la mémoire de traduction déjà existante dans le sous-dossier tm/tmx2source/ et de la renommer ZH_CN.tmx pour indiquer la langue cible de la TMX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The source code for a work means the preferred form of the work for
 making modifications to it.</seg>
       </tuv>
@@ -38108,6 +38172,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130528T124543Z">
         <seg>Utilisée pour modifier la façon dont votre texte est segmenté en phrases (accès par &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Segmentation...&lt;/g2&gt; &lt;/m0&gt;, se ferme en appuyant sur &lt;k3&gt;Échap&lt;/k3&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Used to display the match statistics of the project, select &lt;m0&gt; &lt;g1&gt;&lt;i2/&gt;Tools&lt;/g1&gt; &lt;g3&gt;Match statistics&lt;/g3&gt; &lt;/m0&gt; to open it.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20151111T093058Z" creationid="Didier" creationdate="20151111T093058Z">
+        <seg>Utilisée pour afficher les statistiques des correspondances du projet. Pour l'ouvrir, sélectionnez &lt;m0&gt; &lt;g1&gt;&lt;i2/&gt;Outils&lt;/g1&gt; &lt;g3&gt;Statistiques des correspondances&lt;/g3&gt; &lt;/m0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
