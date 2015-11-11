@@ -1544,6 +1544,16 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>'*' matches zero or more characters ('run*' matches 'run', 'runs', and'running', etc.)
+'?' matches exactly one character ('run?' matches 'runs' and 'rung', but not 'run' or 'running').</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20151111T095802Z" creationid="Didier" creationdate="20151111T095802Z">
+        <seg>Le caractère « * » correspond à zéro ou plusieurs caractères. La recherche sur « mon* » donnera par exemple les résultats « mon », « monde », « monter ».
+Le caractère « ? » correspond à un seul caractère. La recherche sur « mon? » donnera par exemple le résultat « mont ».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>'*' matches zero or more characters, from the current position in a given word to its end.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130506T082924Z">
@@ -39474,6 +39484,16 @@ for which you have or can give appropriate copyright permission.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20100222T114423Z">
         <seg>Fichiers de localisation WiX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wildcards:
+Both exact and keyword searches support the wildcard characters * and ?.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20151111T095619Z" creationid="Didier" creationdate="20151111T095619Z">
+        <seg>Jokers :
+Les caractères joker « * » et « ? » peuvent être utilisés dans les recherches exactes et par mots clés.</seg>
       </tuv>
     </tu>
     <tu>
