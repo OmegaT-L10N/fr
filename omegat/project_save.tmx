@@ -424,6 +424,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Automatically Fetch Translations</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20151111T100527Z" creationid="Didier" creationdate="20151111T100527Z">
+        <seg>&amp;Récupérer automatiquement les traductions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Automatically check the spelling of text</seg>
       </tuv>
       <tuv lang="FR">
@@ -1468,6 +1476,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="FR">
         <seg>&amp;Annuler la dernière action</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Untranslated Segments Only</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20151111T100541Z" creationid="Didier" creationdate="20151111T100541Z">
+        <seg>&amp;Uniquement les segments non traduits</seg>
       </tuv>
     </tu>
     <tu>
@@ -17088,6 +17104,14 @@ parties remain in full compliance.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20120508T174015Z">
         <seg>Hunspell par László Németh et d'autres personnes (licence LGPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hyperlinks</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20151111T100557Z" creationid="Didier" creationdate="20151111T100557Z">
+        <seg>Liens hypertexte</seg>
       </tuv>
     </tu>
     <tu>
