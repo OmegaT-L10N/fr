@@ -1160,6 +1160,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Replace Glossary Hits when Inserting Source Text</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20151112T142738Z" creationid="Didier" creationdate="20151112T142738Z">
+        <seg>Remplacer les &amp;entrées de glossaire lors de l'insertion du texte source</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Replace Next</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140414T125945Z" creationid="Didier" creationdate="20140414T125945Z">
@@ -27962,6 +27970,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Running on Java {0} ({1}-bit)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20151112T142518Z" creationid="Didier" creationdate="20151112T142518Z">
+        <seg>Fonctionne avec Java {0} ({1} bits)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Runs (text elements) are set to RTL</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130430T082645Z">
@@ -38825,8 +38841,8 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>Vie&amp;w...</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20101126T222251Z">
-        <seg>Afficha&amp;ge...</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20151112T142717Z">
+        <seg>Affic&amp;hage...</seg>
       </tuv>
     </tu>
     <tu>
