@@ -27352,6 +27352,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove bidirectionality control characters in the current target</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20151117T152837Z" creationid="Didier" creationdate="20151117T152837Z">
+        <seg>Retirer les caractères de contrôle de bidirectionnalité dans le segment actuel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove defined fragments</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140706T175506Z" creationid="Didier" creationdate="20140706T175506Z">
@@ -27412,6 +27420,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Supprimer le masque ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove tags in the current target</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20151117T152713Z" creationid="Didier" creationdate="20151117T152713Z">
+        <seg>Supprimer les balises dans la cible actuelle</seg>
       </tuv>
     </tu>
     <tu>
@@ -28144,6 +28160,14 @@ REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140706T175518Z" creationid="Didier" creationdate="20140706T175518Z">
         <seg>Nettoyage SVN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SVN - Clear authentication data</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20151117T152913Z" creationid="Didier" creationdate="20151117T152913Z">
+        <seg>SVN - Effacer les données d'authentification</seg>
       </tuv>
     </tu>
     <tu>
@@ -30677,6 +30701,38 @@ patents cannot be used to render the program non-free.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130430T092600Z">
         <seg>Les chaînes de caractères peuvent être encadrées par des guillemets, ce qui permet d'inclure des virgules à l'intérieur des chaînes de caractères :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Strip BiDi Marks</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20151117T152813Z" creationid="Didier" creationdate="20151117T152813Z">
+        <seg>Retirer les marques bidirectionnelles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Strip BiDi marks in current segment</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20151117T152855Z" creationid="Didier" creationdate="20151117T152855Z">
+        <seg>Retirer les marques bidirectionnelles du segment actuel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Strip Tags</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20151117T152746Z" creationid="Didier" creationdate="20151117T152658Z">
+        <seg>Retirer les balises</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Strip tags in current segment</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20151117T152755Z" creationid="Didier" creationdate="20151117T152755Z">
+        <seg>Retirer les balises du segment actuel</seg>
       </tuv>
     </tu>
     <tu>
