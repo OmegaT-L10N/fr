@@ -23392,6 +23392,14 @@ impose that choice.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Non-breaking space</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20151117T162625Z" creationid="Didier" creationdate="20151117T162625Z">
+        <seg>Espace insécable</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Non-unique segments</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140924T085413Z" creationid="Didier" creationdate="20140924T085413Z">
@@ -27710,6 +27718,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140706T175312Z" creationid="Didier" creationdate="20140706T175312Z">
         <seg>Remplacer les séquences d'échappement par une espace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replace spaces with non-breakable spaces where appropriate in French</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20151117T162654Z" creationid="Didier" creationdate="20151117T162654Z">
+        <seg>Remplacer les espaces par des espaces insécables lorsque nécessaire en français</seg>
       </tuv>
     </tu>
     <tu>
