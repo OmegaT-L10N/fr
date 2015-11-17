@@ -568,6 +568,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Delete</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20151117T153126Z" creationid="Didier" creationdate="20151117T153126Z">
+        <seg>&amp;Supprimer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Dictionaries</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20150713T083746Z" creationid="Didier" creationdate="20150713T083746Z">
@@ -4481,10 +4489,26 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;html&gt;The SVN team project is currently opened.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20151117T153048Z" creationid="Didier" creationdate="20151117T153048Z">
+        <seg>&lt;html&gt;Le projet en équipe SVN est actuellement ouvert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;html&gt;You can add patterns using wildcards (ant style): '*', '?' and '**', like '**/.svn/**'&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140725T164008Z" creationid="Didier" creationdate="20140725T164008Z">
         <seg>&lt;html&gt;Vous pouvez ajouter des masques en utilisant des caractères joker (de type ant) : « * », « ? » et « ** », comme « **/.svn/** »&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;html&gt;{0}&lt;br&gt;&amp;nbsp;&amp;nbsp;User: {1}&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20151117T153122Z" creationid="Didier" creationdate="20151117T153122Z">
+        <seg>&lt;html&gt;{0}&lt;br&gt;&amp;nbsp;&amp;nbsp;Utilisateur : {1}&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9502,6 +9526,22 @@ provoquer des comportements inattendus, mais corrects.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Authentication file is not found in '{0}'.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20151117T153221Z" creationid="Didier" creationdate="20151117T153221Z">
+        <seg>Impossible de trouver le fichier d'authentification dans « {0} ».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Authentication folder is not found in '{0}'.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20151117T153207Z" creationid="Didier" creationdate="20151117T153207Z">
+        <seg>Impossible de trouver le dossier d'authentification dans « {0} ».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Author of the match</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130425T201837Z">
@@ -10726,6 +10766,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check the authentication items you want to delete below</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20151117T153032Z" creationid="Didier" creationdate="20151117T153032Z">
+        <seg>Cocher ci-dessous les éléments d'authentification que vous voulez supprimer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check the changes to be made - i.e. the folders and files added in this case.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130528T131510Z">
@@ -10850,6 +10898,22 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130917T085535Z" creationid="Didier" creationdate="20130917T085535Z">
         <seg>Effacer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Clear Saved Authentication Data</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20151117T152953Z" creationid="Didier" creationdate="20151117T152953Z">
+        <seg>Effacer les données d'authentification enregistrées</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Clear authentication data for SVN repository</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20151117T152936Z" creationid="Didier" creationdate="20151117T152936Z">
+        <seg>Effacer les données d'authentification pour le référentiel SVN</seg>
       </tuv>
     </tu>
     <tu>
@@ -25882,6 +25946,14 @@ of promoting the sharing and reuse of software generally.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Veuillez fermer la fenêtre de recherche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please close the project&lt;br&gt; before you delete the corresponding authentication.&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20151117T153114Z" creationid="Didier" creationdate="20151117T153114Z">
+        <seg>Veuillez fermer le projet&lt;br&gt; avant de supprimer l'authentification correspondante.&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
