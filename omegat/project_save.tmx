@@ -9250,6 +9250,14 @@ void, and will automatically terminate your rights under this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Are you sure you want to delete selected data?</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20151117T153428Z" creationid="Didier" creationdate="20151117T153428Z">
+        <seg>Êtes-vous sûr de vouloir supprimer les données sélectionnées ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Are you sure you want to fix all tags automatically?</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130412T135821Z">
@@ -21931,6 +21939,14 @@ le JRE est déjà installé sur Mac OX X antérieur à Mac OS X 10.7 (Lion).</se
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Make sure the file exists and the user has permissions to delete it.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20151117T153406Z" creationid="Didier" creationdate="20151117T153406Z">
+        <seg>Vérifiez que le fichier existe et que l'utilisateur dispose des autorisations nécessaire pour le supprimer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Malagasy</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130411T085054Z">
@@ -34227,6 +34243,14 @@ protocols for communication across the network.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20111028T124838Z">
         <seg>Le script « {0} » est en cours d'exécution...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The script could not delete the authentication file '{0}'.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20151117T153340Z" creationid="Didier" creationdate="20151117T153340Z">
+        <seg>Le script n'a pas réussi à supprimer le fichier d'authentification « {0} ».</seg>
       </tuv>
     </tu>
     <tu>
@@ -47866,6 +47890,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140604T065222Z">
         <seg>{1}, exécuté à partir de « {2} »</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{1}.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20151117T153407Z" creationid="Didier" creationdate="20151117T153407Z">
+        <seg>{1}.</seg>
       </tuv>
     </tu>
     <tu>
