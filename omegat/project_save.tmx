@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.3" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.5.3_0_r7921" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8887,6 +8887,14 @@ the predecessor has it or can get it with reasonable efforts.</seg>
         <seg>An error occured</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20110717T153548Z">
+        <seg>Une erreur s'est produite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An error occurred</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20151120T153815Z" creationid="Didier" creationdate="20151120T153815Z">
         <seg>Une erreur s'est produite</seg>
       </tuv>
     </tu>
@@ -18430,6 +18438,14 @@ been installed in ROM).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you decide mid-translation to switch from sentence to paragraph translation, the internal translation memory of the project will not be changed (OmegaT may upgrade old translation memories that did not use sentence segmentation, but not vice versa), but OmegaT will attempt to create paragraph fuzzy matches by glueing together existing sentence translations.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20151120T153616Z" creationid="Didier" creationdate="20151120T153616Z">
+        <seg>Si, en plein milieu de la traduction, vous décidez de passer d'une traduction par phrase à une traduction par paragraphe, la mémoire de traduction interne du projet ne sera pas modifiée (OmegaT peut mettre à jour des vieilles mémoires de traduction qui n'étaient pas segmentées par phrase, mais pas l'inverse), mais OmegaT essayera de créer des correspondances pour les paragraphes en ajoutant bout à bout des traductions de phrases existantes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you decide mid-translation to switch from sentence to paragraph translation, the internal translation memory of the project will not be changed (OmegaT may upgrade old translation memories that did not use sentence segmentation, but not vice versa).</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130506T114848Z">
@@ -24700,10 +24716,26 @@ selecting, obtaining and installing it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT version {0} ({1})</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20151120T153750Z" creationid="Didier" creationdate="20151120T153750Z">
+        <seg>OmegaT version {0} ({1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT version {0}, update {1}</seg>
       </tuv>
       <tuv lang="FR">
         <seg>OmegaT version {0}, mise à jour {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT version {0}, update {1} ({2})</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20151120T153807Z" creationid="Didier" creationdate="20151120T153807Z">
+        <seg>OmegaT version {0}, mise à jour {1} ({2})</seg>
       </tuv>
     </tu>
     <tu>
@@ -47890,6 +47922,30 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140203T140819Z" creationid="Didier" creationdate="20140203T140819Z">
         <seg>{0} segments</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0} {1}</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20151120T153627Z" creationid="Didier" creationdate="20151120T153627Z">
+        <seg>{0} {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0} {1}_{2}</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20151120T153630Z" creationid="Didier" creationdate="20151120T153630Z">
+        <seg>{0} {1}_{2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0}-{1}_{2}_{3}</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20151120T153620Z" creationid="Didier" creationdate="20151120T153620Z">
+        <seg>{0}-{1}_{2}_{3}</seg>
       </tuv>
     </tu>
     <tu>
