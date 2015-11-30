@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.5.3_0_r7921" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.5.3_0_r7939" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -40976,10 +40976,26 @@ SourceForge too.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You have reached the daily limit for requests</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20151130T162020Z" creationid="Didier" creationdate="20151130T162020Z">
+        <seg>Vous avez atteint la limite quotidienne pour les demandes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You have reached the daily limit for requests (including calls of the detect method)</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20150211T165102Z" creationid="Didier" creationdate="20150211T165102Z">
         <seg>Vous avez atteint la limite quotidienne pour les demandes (y compris les appels de la méthode « detect »)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You have reached the daily limit for the volume of translated text</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20151130T162027Z" creationid="Didier" creationdate="20151130T162027Z">
+        <seg>Vous avez atteint la limite quotidienne pour le volume de texte traduit</seg>
       </tuv>
     </tu>
     <tu>
@@ -47965,6 +47981,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140310T125837Z" creationid="Didier" creationdate="20140310T125837Z">
         <seg>{0}/{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0}_{1}_{2}</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20151130T161954Z" creationid="Didier" creationdate="20151130T161954Z">
+        <seg>{0}_{1}_{2}</seg>
       </tuv>
     </tu>
     <tu>
