@@ -2538,6 +2538,20 @@ Le contenu à inclure dans la TMX pseudo-traduite.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>--resource-bundle=&lt;path&gt;
+A Java .properties file to use for interface text
+--config-dir=&lt;path&gt;
+The directory to read/write OmegaT configuration files from/to.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160115T141159Z" creationid="Didier" creationdate="20160115T141159Z">
+        <seg>--resource-bundle=&lt;chemin&gt;
+Un fichier .properties Java à utiliser pour les textes de l'interface utilisateur
+--config-dir=&lt;chemin&gt;
+Le répertoire à partir duquel lire et écrire les fichiers de configuration OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>--resource-bundle=[path]
 A Java .properties file to use for interface text
 --config-dir=&lt;path&gt;
@@ -26501,6 +26515,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Veuillez saisir ou copier l'URL de la page MediaWiki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please, press OK for remember your changes("{2}"), or Cancel to keep remote/automatic changes("{1}").</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160115T141247Z" creationid="Didier" creationdate="20160115T141247Z">
+        <seg>Veuillez appuyer sur OK pour conserver vos modifications ("{2}"), ou sur annuler pour conserver les modifications distantes/automatiques ("{1}").</seg>
       </tuv>
     </tu>
     <tu>
