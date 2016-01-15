@@ -10292,6 +10292,14 @@ entire whole, and thus to each and every part regardless of who wrote it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>But you also changed this data to "{2}".</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160115T140921Z" creationid="Didier" creationdate="20160115T140921Z">
+        <seg>Dans le même temps, vous les avez modifiées en « {2} ».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By contrast, the GNU General Public
 License is intended to guarantee your freedom to share and change free
 software--to make sure the software is free for all its users.</seg>
@@ -13933,6 +13941,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       <tuv lang="FR" changeid="Didier" changedate="20141125T102536Z" creationid="Didier" creationdate="20141125T102536Z">
         <seg>Durant l'erreur SVN ({0}),
 project_save.tmx n'a pas réellement été envoyé sur le serveur et l'état de SVN est devenu instable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>During remote updates or other automatic processing, data (previously known as "{0}") was changed to "{1}".</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160115T140858Z" creationid="Didier" creationdate="20160115T140858Z">
+        <seg>Durant les mises à jour distantes ou d'autres traitements automatiques, les données (« {0} ») ont été modifiées en « {1} ».</seg>
       </tuv>
     </tu>
     <tu>
