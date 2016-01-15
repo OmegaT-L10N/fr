@@ -2512,6 +2512,16 @@ Désactiver la fonctionnalité de projets en équipe.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>--pseudotranslatetype=[equal|empty]
+What to fill the pseudotranslated TMX with.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160115T135902Z" creationid="Didier" creationdate="20160115T135847Z">
+        <seg>--pseudotranslatetype=[equal|empty]
+Le contenu à inclure dans la TMX pseudo-traduite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>--resource-bundle=[path]
 A Java .properties file to use for interface text
 --config-dir=&lt;path&gt;
@@ -11630,10 +11640,10 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (dévelo
 --pseudotranslatetmx=&lt;path&gt;
 The output pseudotranslated TMX file.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20160115T135414Z" creationid="Didier" creationdate="20160115T135414Z">
+      <tuv lang="FR" changeid="Didier" changedate="20160115T135853Z" creationid="Didier" creationdate="20160115T135414Z">
         <seg>Mode console-pseudotranslatetmx :
 --pseudotranslatetmx=&lt;chemin&gt;
-Le fichier TMX résultant contenant une pseudo traduction.</seg>
+Le fichier TMX résultant contenant une pseudo-traduction.</seg>
       </tuv>
     </tu>
     <tu>
