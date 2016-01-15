@@ -2383,9 +2383,9 @@ le programme d'installation peut créer des raccourcis pour vous dans le menu d�
         <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]
 Specify a mode other than default (GUI).</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20160115T133354Z" creationid="Didier" creationdate="20160115T133354Z">
+      <tuv lang="FR" changeid="Didier" changedate="20160115T133447Z" creationid="Didier" creationdate="20160115T133354Z">
         <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]
-Spécifier (GUI).</seg>
+Spécifier un mode différent du mode par défaut (interface utilisateur).</seg>
       </tuv>
     </tu>
     <tu>
@@ -29023,6 +29023,14 @@ La recherche port par défaut sur le projet, et peut porter sur tout fichier sit
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130528T131932Z">
         <seg>Voir les références supplémentaires et les exemples ci-dessous :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See below for details.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160115T133458Z" creationid="Didier" creationdate="20160115T133458Z">
+        <seg>Voir ci-dessous pour plus d'informations.</seg>
       </tuv>
     </tu>
     <tu>
