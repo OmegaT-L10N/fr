@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.5.3_0_r7939" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_0_r8116" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2376,6 +2376,16 @@ le programme d'installation peut créer des raccourcis pour vous dans le menu d�
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T104753Z">
         <seg>--config-dir=/chemin/vers/le/dossier de configuration/ \</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]
+Specify a mode other than default (GUI).</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160115T133354Z" creationid="Didier" creationdate="20160115T133354Z">
+        <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]
+Spécifier (GUI).</seg>
       </tuv>
     </tu>
     <tu>
@@ -16647,6 +16657,14 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Go to https://term.tilde.com/account/keys/create?system=omegaT to create your own key then give it to OmegaT with -Dtaas.user.key=xxxxx</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160115T132543Z" creationid="Didier" creationdate="20160115T132543Z">
+        <seg>Allez à https://term.tilde.com/account/keys/create?system=omegaT pour créer votre propre clé et passez-la à OmegaT avec -Dtaas.user.key=xxxxx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>GoTo Menu</seg>
       </tuv>
       <tuv lang="FR" changeid="laurieetclémentine" changedate="20130411T134851Z">
@@ -25435,6 +25453,22 @@ happen should you file a bug report.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Options:
+None: Launch GUI
+Project path only: Launch GUI and load specified project
+-h, --help
+Show usage information.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160115T133425Z" creationid="Didier" creationdate="20160115T133251Z">
+        <seg>Options :
+Aucune : lancer l'interface utilisateur
+Chemin du projet uniquement : lancer l'interface utilisateur et charger le projet spécifié
+-h, --help
+Afficher des informations sur l'utilisation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Oracle provides JREs for Solaris SPARC/x86 (Java 1.5) and for Linux x64, Solaris x64, Windows x64 (Java 1.5) at &lt;u0&gt;http://www.oracle.com/technetwork/java/archive-139210.html&lt;/u0&gt;</seg>
       </tuv>
       <tuv lang="FR" changeid="brigitte" changedate="20130714T125205Z">
@@ -30234,6 +30268,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130528T124008Z">
         <seg>Certains types de fichiers source (par exemple PO, TTX, etc.) sont bilingues, c'est-à-dire qu'ils servent à la fois de source et de mémoire de traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Something went wrong, please visit Tilde Terminology for details.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160115T132524Z" creationid="Didier" creationdate="20160115T132524Z">
+        <seg>Un problème est survenu. Veuillez visiter le site de Tilde Terminology pour davantage d'informations.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37941,6 +37983,14 @@ Les recherches exactes correspondent à l'ensemble de la chaîne recherchée.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unauthorized request to TaaS service.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160115T132429Z" creationid="Didier" creationdate="20160115T132429Z">
+        <seg>Requête non autorisée au service TaaS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unchanged sentences are automatically translated, while updated sentences are shown with the translation of the most similar, older sentence.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130410T132717Z">
@@ -38341,6 +38391,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="FR" changeid="pingouin" changedate="20130418T161122Z">
         <seg>Utilisation : &lt;l0&gt;java -jar &lt;a1&gt;OmegaT&lt;/a1&gt;.jar /path/to/project --mode=console-translate --tag-validation=abort&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Usage: java -jar OmegaT.jar [&lt;options&gt;] [&lt;project path&gt;]</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160115T133220Z" creationid="Didier" creationdate="20160115T133220Z">
+        <seg>Syntaxe : java -jar OmegaT.jar [&lt;options&gt;] [&lt;chemin du projet&gt;]</seg>
       </tuv>
     </tu>
     <tu>
