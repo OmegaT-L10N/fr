@@ -648,6 +648,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Editor...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160115T140146Z" creationid="Didier" creationdate="20160115T140146Z">
+        <seg>&amp;Éditeur...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Empty lines</seg>
       </tuv>
       <tuv lang="FR">
@@ -1260,6 +1268,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Re&amp;chercher dans le projet...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Search for Selection</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160115T140232Z" creationid="Didier" creationdate="20160115T140232Z">
+        <seg>&amp;Rechercher la sélection</seg>
       </tuv>
     </tu>
     <tu>
@@ -11636,6 +11652,18 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (dévelo
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Console-align mode:
+--alignDir=&lt;path&gt;
+A directory containing the translated files.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160115T140109Z" creationid="Didier" creationdate="20160115T140109Z">
+        <seg>Mode console-align :
+--alignDir=&lt;chemin&gt;
+Un répertoire contenant les fichiers traduits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Console-pseudotranslatetmx mode:
 --pseudotranslatetmx=&lt;path&gt;
 The output pseudotranslated TMX file.</seg>
@@ -12598,6 +12626,22 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130527T141203Z">
         <seg>À l'heure actuelle, &lt;a1&gt;OmegaT&lt;/a1&gt; prend en charge les formats de texte brut suivants :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cursor lock off</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160115T140215Z" creationid="Didier" creationdate="20160115T140215Z">
+        <seg>Curseur déverrouillé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cursor lock on</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160115T140205Z" creationid="Didier" creationdate="20160115T140205Z">
+        <seg>Curseur verrouillé</seg>
       </tuv>
     </tu>
     <tu>
@@ -29153,6 +29197,14 @@ La recherche port par défaut sur le projet, et peut porter sur tout fichier sit
       </tuv>
       <tuv lang="FR" changeid="briglegrand" changedate="20120502T070615Z">
         <seg>Reportez-vous au chapitre 7 (Filtre de fichiers) du guide de l'utilisateur pour obtenir la liste des formats de fichier gérés par OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See Help &gt; User's Manual for more information.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160115T140139Z" creationid="Didier" creationdate="20160115T140139Z">
+        <seg>Consulter Aide &gt; Guide de l'utilisateur pour des informations supplémentaires.</seg>
       </tuv>
     </tu>
     <tu>
