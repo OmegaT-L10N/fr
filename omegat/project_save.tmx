@@ -2380,6 +2380,16 @@ le programme d'installation peut créer des raccourcis pour vous dans le menu d�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>--config-file=&lt;path&gt;
+A Java .properties file from which to load default settings.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160115T134242Z" creationid="Didier" creationdate="20160115T134200Z">
+        <seg>--config-file=&lt;chemin&gt;
+Un fichier .properties Java à partir duquel charger les paramètres par défaut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]
 Specify a mode other than default (GUI).</seg>
       </tuv>
@@ -2442,6 +2452,20 @@ Spécifier un mode différent du mode par défaut (interface utilisateur).</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T104541Z">
         <seg>--pseudotranslatetmx=allsegments.tmx --pseudotranslatetype=[equal|empty]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--resource-bundle=[path]
+A Java .properties file to use for interface text
+--config-dir=&lt;path&gt;
+The directory to read/write OmegaT configuration files from/to.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160115T134400Z" creationid="Didier" creationdate="20160115T134233Z">
+        <seg>--resource-bundle=[chemin]
+Un fichier .properties Java à utiliser pour les textes de l'interface utilisateur
+--config-dir=&lt;chemin&gt;
+Le répertoire à partir duquel lire et écrire les fichiers de configuration OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
