@@ -11626,6 +11626,18 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (dévelo
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Console-pseudotranslatetmx mode:
+--pseudotranslatetmx=&lt;path&gt;
+The output pseudotranslated TMX file.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160115T135414Z" creationid="Didier" creationdate="20160115T135414Z">
+        <seg>Mode console-pseudotranslatetmx :
+--pseudotranslatetmx=&lt;chemin&gt;
+Le fichier TMX résultant contenant une pseudo traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Console-translate mode:
 --source-pattern=&lt;pattern&gt;
 A regex whitelist of source files to process.</seg>
