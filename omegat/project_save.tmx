@@ -2364,6 +2364,19 @@ le programme d'installation peut créer des raccourcis pour vous dans le menu d�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>--ITokenizer=&lt;classname&gt;
+--ITokenizerTarget=&lt;classname&gt;
+Source- or target-language tokenizer to use (overrides project
+settings).</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160115T134706Z" creationid="Didier" creationdate="20160115T134706Z">
+        <seg>--ITokenizer=&lt;classname&gt;
+--ITokenizerTarget=&lt;classname&gt;
+Lemmatiseur source or cible à utiliser (remplace les paramètres du projets).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>--alignDir={location of translated files}</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130502T141458Z">
@@ -2386,6 +2399,26 @@ A Java .properties file from which to load default settings.</seg>
       <tuv lang="FR" changeid="Didier" changedate="20160115T134242Z" creationid="Didier" creationdate="20160115T134200Z">
         <seg>--config-file=&lt;chemin&gt;
 Un fichier .properties Java à partir duquel charger les paramètres par défaut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--disable-location-save
+Do not remember the last directory opened in the file picker.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160115T134612Z" creationid="Didier" creationdate="20160115T134612Z">
+        <seg>--disable-location-save
+Ne pas se souvenir le dernier répertoire ouvert dans le sélecteur de fichiers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--disable-project-locking
+Do not attempt to lock the project's omegat.project file.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160115T134425Z" creationid="Didier" creationdate="20160115T134425Z">
+        <seg>--disable-project-locking
+Ne pas essayer de verrouiller le fichier omegat.project du projet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2436,6 +2469,16 @@ Spécifier un mode différent du mode par défaut (interface utilisateur).</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T104533Z">
         <seg>--mode=console-translate|console-createpseudotranslatetmx|console-align</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--no-team
+Disable team project functionality.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160115T134633Z" creationid="Didier" creationdate="20160115T134633Z">
+        <seg>--no-team
+Désactiver la fonctionnalité de projets en équipe.</seg>
       </tuv>
     </tu>
     <tu>
