@@ -11612,6 +11612,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (dévelo
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Conflicts resolving</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160115T140421Z" creationid="Didier" creationdate="20160115T140421Z">
+        <seg>Résolution de conflits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Conflicts: {0}, Added: {1}, Deleted: {2}, Modified: {3}</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20141119T095239Z" creationid="Didier" creationdate="20141119T095239Z">
@@ -19968,6 +19976,14 @@ patent against the party.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130430T114320Z">
         <seg>Vide à l'origine, ce dossier contiendra les dictionnaires que vous aurez ajoutés au projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Initially load this many segments:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160115T140322Z" creationid="Didier" creationdate="20160115T140322Z">
+        <seg>Nom de segment à charger initialement :</seg>
       </tuv>
     </tu>
     <tu>
@@ -37781,6 +37797,16 @@ Kaptain.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translated file path cannot be identical to the source file path:
+{0}</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160115T140306Z" creationid="Didier" creationdate="20160115T140306Z">
+        <seg>Le chemin du fichier traduit ne peut pas être identique au chemin du fichier source :
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translated files folder entered does not exist!</seg>
       </tuv>
       <tuv lang="FR">
@@ -39682,6 +39708,14 @@ you have just discovered.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130527T130431Z">
         <seg>Lorsqu'une règle activée n'est pas respectée, la phrase correspondante est soulignée en bleue dans l'Éditeur (voir &lt;e1&gt;also&lt;/e1&gt;et &lt;e2&gt;I didn't do nothing&lt;/e2&gt; dans l'image ci-dessus).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When a single file has more segments than this, additional segments will be loaded on-demand as you scroll.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160115T140410Z" creationid="Didier" creationdate="20160115T140410Z">
+        <seg>Lorsqu'un fichier unique comporte davantage de segments, les segments supplémentaires seront chargés à la demande lors du défilement.</seg>
       </tuv>
     </tu>
     <tu>
