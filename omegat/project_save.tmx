@@ -2682,6 +2682,30 @@ Valider les balises.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>-b BASE: path to the kolekti base (project) to use</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160119T094036Z" creationid="Didier" creationdate="20160119T094036Z">
+        <seg>-b BASE : chemin d'accès à la base (projet) kolekti à utiliser</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-j JOB (optional) : path to the publication parameter file to use, replaces the value available in frame (toc)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160119T094051Z" creationid="Didier" creationdate="20160119T094051Z">
+        <seg>-j JOB (optional) : chemin du fichier de paramètres de publication à utiliser, remplace la valeur présente dans la trame (toc)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-l LANGUAGES: list of language codes to publish, separated by commas</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160119T094102Z" creationid="Didier" creationdate="20160119T094102Z">
+        <seg>-l LANGUES : liste des codes langue à publier, séparés par des virgules</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20120710T123934Z">
@@ -11585,6 +11609,16 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (dévelo
       </tuv>
       <tuv lang="FR">
         <seg>L'index de colonne doit être égal à 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Command line example:
+kolekti -b C:\[...]\trunk\doc_src2 publish [-j JOB] -l fr,en C:\[...]\trunk\doc_src2\sources\{LANG}\tocs\UserGuide.html</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160119T094129Z" creationid="Didier" creationdate="20160119T094129Z">
+        <seg>Exemple de ligne de commande :
+kolekti -b C:\[...]\trunk\doc_src2 publish [-j JOB] -l fr,en C:\[...]\trunk\doc_src2\sources\{LANG}\tocs\UserGuide.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -20817,6 +20851,14 @@ implemented by public license practices.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is possible to get a verbose output by adding -v after kolekti.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160119T094139Z" creationid="Didier" creationdate="20160119T094139Z">
+        <seg>Il est possible d'avoir le détail des opérations en écrivant -v après kolekti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is possible to modify the project properties during a translation session.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130506T113352Z">
@@ -25374,8 +25416,8 @@ with exactly the same structure, including copies of any non-supported files.</s
         <seg>On OS X this is
 available in MacPorts as `py27-pysvn`.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20160119T093230Z" creationid="Didier" creationdate="20160119T093230Z">
-        <seg>Sur OS X, il est
+      <tuv lang="FR" changeid="Didier" changedate="20160119T094229Z" creationid="Didier" creationdate="20160119T093230Z">
+        <seg>Sous OS X, il est
 disponible dans MacPorts sous le nom « py27-pysvn ».</seg>
       </tuv>
     </tu>
@@ -47891,6 +47933,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130419T184459Z">
         <seg>du code source correspondant. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>toc: frame to publish</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160119T094109Z" creationid="Didier" creationdate="20160119T094109Z">
+        <seg>toc : trame à publier</seg>
       </tuv>
     </tu>
     <tu>
