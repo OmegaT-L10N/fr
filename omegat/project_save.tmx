@@ -1819,6 +1819,14 @@ your programs, too.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>* FOP (optional?)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160119T093334Z" creationid="Didier" creationdate="20160119T093334Z">
+        <seg>* FOP (optionnel ?)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>* From the command line (all systems): 
 The command to launch OmegaT is:</seg>
       </tuv>
@@ -1910,6 +1918,14 @@ Pour installer OmegaT, créez simplement un dossier approprié pour OmegaT.</seg
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>* PrinceXML (optional?)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160119T093402Z" creationid="Didier" creationdate="20160119T093402Z">
+        <seg>* PrinceXML (optionnel ?)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>* Python</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160119T092919Z" creationid="Didier" creationdate="20160119T092919Z">
@@ -1952,6 +1968,14 @@ le programme d'installation peut créer des raccourcis pour vous dans le menu d�
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160119T092923Z" creationid="Didier" creationdate="20160119T092923Z">
         <seg>* git</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* pysvn</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160119T093129Z" creationid="Didier" creationdate="20160119T093129Z">
+        <seg>* pysvn</seg>
       </tuv>
     </tu>
     <tu>
@@ -11055,6 +11079,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check your package manager, as this is not available in PyPI.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160119T093200Z" creationid="Didier" creationdate="20160119T093200Z">
+        <seg>Vérifier votre gestionnaire de package, cet élément n'étant pas disponible dans PyPI.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Checking out the project...</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20120420T211355Z">
@@ -13852,6 +13884,22 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20141202T175603Z" creationid="Didier" creationdate="20141202T175603Z">
         <seg>Télécharger projet en équipe...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download and install a binary kit from
+http://pysvn.tigris.org/project_downloads.html
+- Extension Version: 1.7.10 or higher
+- Python Version: Python 2.7
+- Subversion Version: Your choice</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160119T093326Z" creationid="Didier" creationdate="20160119T093326Z">
+        <seg>Télécharger et installer un kit binaire depuis 
+http://pysvn.tigris.org/project_downloads.html
+- Version de l'extension : 1.7.10 ou supérieure
+- Version de Python : Python 2.7
+- Version de Subversion : libre</seg>
       </tuv>
     </tu>
     <tu>
@@ -18896,6 +18944,18 @@ OmegaT.</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130415T095831Z">
         <seg>Si vous changez les filtres par la suite, seul les filtres du projet seront mis à jour, tandis que les filtres utilisateur resteront inchangés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you missed it, add these directories manually:
+- C:\Python27
+- C:\Python27\Scripts</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160119T093127Z" creationid="Didier" creationdate="20160119T093127Z">
+        <seg>Si cela n'a pas été effectué, ajouter ces répertoires manuellement :
+- C:\Python27
+- C:\Python27\Scripts</seg>
       </tuv>
     </tu>
     <tu>
@@ -25243,6 +25303,16 @@ with exactly the same structure, including copies of any non-supported files.</s
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130502T132048Z">
         <seg>Sur Mac OS X, changez &lt;e5&gt;Info.plist&lt;/e5&gt; situé dans &lt;e6&gt;&lt;a7&gt;OmegaT&lt;/a7&gt;.app/Contents/&lt;/e6&gt; pour faire la même chose.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On OS X this is
+available in MacPorts as `py27-pysvn`.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160119T093230Z" creationid="Didier" creationdate="20160119T093230Z">
+        <seg>Sur OS X, il est
+disponible dans MacPorts sous le nom « py27-pysvn ».</seg>
       </tuv>
     </tu>
     <tu>
@@ -31668,6 +31738,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130316T132512Z">
         <seg>les MT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TODO</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160119T093355Z" creationid="Didier" creationdate="20160119T093341Z">
+        <seg>À documenter</seg>
       </tuv>
     </tu>
     <tu>
