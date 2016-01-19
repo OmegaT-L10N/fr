@@ -1972,10 +1972,26 @@ le programme d'installation peut créer des raccourcis pour vous dans le menu d�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>* lxml</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160119T093435Z" creationid="Didier" creationdate="20160119T093435Z">
+        <seg>* lxml</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>* pysvn</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160119T093129Z" creationid="Didier" creationdate="20160119T093129Z">
         <seg>* pysvn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* virtualenv (optional)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160119T093634Z" creationid="Didier" creationdate="20160119T093634Z">
+        <seg>* virtualenv (optionnel)</seg>
       </tuv>
     </tu>
     <tu>
@@ -13888,6 +13904,16 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Download an installer for the latest version of lxml + Python 2.7 from
+https://pypi.python.org/pypi/lxml</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160119T093629Z" creationid="Didier" creationdate="20160119T093629Z">
+        <seg>Télécharger un programme d'installation pour la dernière version de lxml + Python 2.7 depuis
+https://pypi.python.org/pypi/lxml</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Download and install a binary kit from
 http://pysvn.tigris.org/project_downloads.html
 - Extension Version: 1.7.10 or higher
@@ -13940,6 +13966,16 @@ http://pysvn.tigris.org/project_downloads.html
       </tuv>
       <tuv lang="FR" changeid="brigitte" changedate="20130715T193600Z">
         <seg>Téléchargez les fichiers les plus récents (OmegaT-tokenizers_0.4_2-2.1.zip au moment de la rédaction de ce guide).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download the setup program from http://www.princexml.com/download/
+Add C:\Program Files (x86)\Prince\Engine\bin to your Path.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160119T093433Z" creationid="Didier" creationdate="20160119T093433Z">
+        <seg>Télécharger le programme d'installation depuis http://www.princexml.com/download/
+Ajouter C:\Program Files (x86)\Prince\Engine\bin dans le Path.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25333,6 +25369,15 @@ disponible dans MacPorts sous le nom « py27-pysvn ».</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On systems other than Windows you can let pip install this as a dependency of
+kolteki later.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160119T093557Z" creationid="Didier" creationdate="20160119T093500Z">
+        <seg>Dans les autres systèmes que Windows, vous pouvez laisser pip l'installer ultérieurement comme une dépendance de kolekti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On the Mac, the modifier &lt;e0&gt;meta&lt;/e0&gt; must be used to specify the &lt;e1&gt;command&lt;/e1&gt; key.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130412T075231Z">
@@ -25425,6 +25470,16 @@ disponible dans MacPorts sous le nom « py27-pysvn ».</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130527T132324Z">
         <seg>Lorsque le projet en équipe est installé, les membres de l'équipe besoin que d'&lt;a0&gt;OmegaT&lt;/a0&gt; pour avoir accès au projet en équipe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Once you have a working Python installation, install via pip:
+pip install virtualenv</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160119T093708Z" creationid="Didier" creationdate="20160119T093708Z">
+        <seg>Une fois Python opérationnel, installer avec pip :
+install virtualenv</seg>
       </tuv>
     </tu>
     <tu>
