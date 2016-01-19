@@ -14600,6 +14600,14 @@ by the Free Software Foundation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ensure that the `kolekti` command is available on your Path.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160119T093953Z" creationid="Didier" creationdate="20160119T093856Z">
+        <seg>Vérifier que la commande « kolekti » est disponible dans le Path.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enter "&lt;a0&gt;OmegaT&lt;/a0&gt;" in the "Name" field; in the "Command" field, use the navigation button to find your &lt;a1&gt;OmegaT&lt;/a1&gt; launch script (the file named &lt;a2&gt;OmegaT&lt;/a2&gt; in the unpacked folder).</seg>
       </tuv>
       <tuv lang="FR" changeid="brigitte" changedate="20130714T094701Z">
@@ -18621,6 +18629,16 @@ JRE.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you are installing to a virtualenv, make sure system packages are available:
+virtualenv --system-site-packages &lt;envname&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160119T093921Z" creationid="Didier" creationdate="20160119T093808Z">
+        <seg>Si vous installez sur un virtualenv, faire en sorte que les paquets système soient disponibles :
+virtualenv --system-site-packages &lt;nom de l'environnement&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are interested in modifying or distributing &lt;a1&gt;OmegaT&lt;/a1&gt;, read this document carefully and ensure you understand its implications before doing anything.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130527T140221Z">
@@ -20374,6 +20392,16 @@ https://git-for-windows.github.io/</seg>
       <tuv lang="FR" changeid="Didier" changedate="20160119T092917Z" creationid="Didier" creationdate="20160119T092917Z">
         <seg>Installer la dernière version de git pour Windows à partir de
 https://git-for-windows.github.io/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Install via pip:
+pip install git+https://github.com/kolekti/kolekti.git@dev</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160119T093836Z" creationid="Didier" creationdate="20160119T093836Z">
+        <seg>Installer avec pip :
+pip install git+https://github.com/kolekti/kolekti.git@dev</seg>
       </tuv>
     </tu>
     <tu>
@@ -45397,6 +45425,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T100040Z">
         <seg>ko</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>kolekti [-v] [-b BASE] publish [-j JOB] [-l LANGUAGES] toc</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160119T094018Z" creationid="Didier" creationdate="20160119T094018Z">
+        <seg>kolekti [-v] [-b BASE] publish [-j JOB] [-l LANGUES] toc</seg>
       </tuv>
     </tu>
     <tu>
