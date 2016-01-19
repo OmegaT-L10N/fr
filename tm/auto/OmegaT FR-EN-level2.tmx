@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_0_r8116" segtype="sentence" srclang="FR"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>- (à écrire)</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="Didier" changedate="20160114T162553Z" creationid="Didier" creationdate="20160114T162553Z">
+        <seg>- (to be written)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>- télécharger l'nstalleur depuis http://www.princexml.com/download/
+- ajouter C:\Program Files (x86)\Prince\Engine\bin dans la variable d'environnement Path</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="Didier" changedate="20160114T162633Z" creationid="Didier" creationdate="20160114T162615Z">
+        <seg>- Download the setup program from http://www.princexml.com/download/
+- add C:\Program Files (x86)\Prince\Engine\bin in the Path environment variable</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>-b BASE :</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="Didier" changedate="20160114T162753Z" creationid="Didier" creationdate="20160114T162753Z">
+        <seg>-b BASE:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>-j JOB (optionnel) :</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="Didier" changedate="20160114T162901Z" creationid="Didier" creationdate="20160114T162901Z">
+        <seg>-j JOB (optional) :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>-l LANGS :</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="Didier" changedate="20160114T163018Z" creationid="Didier" creationdate="20160114T163018Z">
+        <seg>-l LANGUAGES:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>/// Installation de Kolekti ///</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="Didier" changedate="20160114T162640Z" creationid="Didier" creationdate="20160114T162640Z">
+        <seg>/// Installation of Kolekti ///</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>/// Installation de l'environnement ///</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="Didier" changedate="20160114T162349Z" creationid="Didier" creationdate="20160114T162349Z">
+        <seg>/// Installation of the environment ///</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>/// Publication du UserGuide (en ligne de commande) ///</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="Didier" changedate="20160114T162722Z" creationid="Didier" creationdate="20160114T162722Z">
+        <seg>/// Publication of the UserGuide (from the command line) ///</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>Ajouter dans la variable d'environnement Path :</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="Didier" changedate="20160114T162438Z" creationid="Didier" creationdate="20160114T162438Z">
+        <seg>In the Path environment variable, add:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>Avec :</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="Didier" changedate="20160114T162749Z" creationid="Didier" creationdate="20160114T162749Z">
+        <seg>With:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>Comment installer Kolekti</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="Didier" changedate="20160114T162323Z" creationid="Didier" creationdate="20160114T162323Z">
+        <seg>How to install Kolekti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>Dézipper dans C:</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="Didier" changedate="20160114T162706Z" creationid="Didier" creationdate="20160114T162706Z">
+        <seg>Unzip in C:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>Exemple de commande :</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="Didier" changedate="20160114T163104Z" creationid="Didier" creationdate="20160114T163104Z">
+        <seg>Command line example:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>Il est possible d'avoir le détail des opérations en écrivant -v après kolekti.py</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="Didier" changedate="20160114T163137Z" creationid="Didier" creationdate="20160114T163137Z">
+        <seg>It is possible to get a verbose output by adding -v after kolekti.py</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>Installer Fop (si besoin) :</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="Didier" changedate="20160114T162545Z" creationid="Didier" creationdate="20160114T162545Z">
+        <seg>Install Fop (if needed):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>Installer PrinceXML (si besoin) :</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="Didier" changedate="20160114T162604Z" creationid="Didier" creationdate="20160114T162604Z">
+        <seg>Install PrinceXML (if needed):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>Installer lxml avec la commande :</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="Didier" changedate="20160114T162503Z" creationid="Didier" creationdate="20160114T162503Z">
+        <seg>Install lxml with the command:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>Installer pysvn avec :</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="Didier" changedate="20160114T162449Z" creationid="Didier" creationdate="20160114T162449Z">
+        <seg>Install pysvn with:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>Installer python (2.7.9) pour windows 32bit (même sur les pc 64bit) :</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="Didier" changedate="20160114T163218Z" creationid="Didier" creationdate="20160114T162418Z">
+        <seg>Install python (2.7.9) for Windows 32-bit (even on 64-bit PCs):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>Installer whoosh (indexation) avec la commande :</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="Didier" changedate="20160114T162531Z" creationid="Didier" creationdate="20160114T162531Z">
+        <seg>Install whoosh (indexation) with the command:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>La structure de la ligne de commande est :</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="Didier" changedate="20160114T162739Z" creationid="Didier" creationdate="20160114T162739Z">
+        <seg>Usage of the command line is:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>Récupérer Kolekti sur github :</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="Didier" changedate="20160114T162649Z" creationid="Didier" creationdate="20160114T162649Z">
+        <seg>Download Kolekti from github:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>Se positionner dans :</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="Didier" changedate="20160114T162727Z" creationid="Didier" creationdate="20160114T162727Z">
+        <seg>Go to:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>chemin d'accès à la base (projet) kolekti à utiliser</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="Didier" changedate="20160114T162853Z" creationid="Didier" creationdate="20160114T162853Z">
+        <seg>path to the kolekti base (project) to use</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>chemin du fichier de paramètres de publication à utiliser, remplace la valeur présente dans la trame (toc)</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="Didier" changedate="20160114T163001Z" creationid="Didier" creationdate="20160114T163001Z">
+        <seg>path to the publication parameter file to use, replaces the value available in frame (toc)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>liste des codes langue à publier, séparés par des virgules</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="Didier" changedate="20160114T163038Z" creationid="Didier" creationdate="20160114T163038Z">
+        <seg>list of language codes to publish, separated by commas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>toc :</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="Didier" changedate="20160114T163041Z" creationid="Didier" creationdate="20160114T163041Z">
+        <seg>toc:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>trame à publier</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="Didier" changedate="20160114T163049Z" creationid="Didier" creationdate="20160114T163049Z">
+        <seg>frame to publish</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>télécharger https://github.com/kolekti/kolekti/archive/dev.zip</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="Didier" changedate="20160114T162655Z" creationid="Didier" creationdate="20160114T162655Z">
+        <seg>download https://github.com/kolekti/kolekti/archive/dev.zip</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
