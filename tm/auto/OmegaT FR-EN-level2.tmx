@@ -202,8 +202,8 @@
       <tuv xml:lang="FR">
         <seg>chemin du fichier de paramètres de publication à utiliser, remplace la valeur présente dans la trame (toc)</seg>
       </tuv>
-      <tuv xml:lang="EN-GB" changeid="Didier" changedate="20160114T163001Z" creationid="Didier" creationdate="20160114T163001Z">
-        <seg>path to the publication parameter file to use, replaces the value available in frame (toc)</seg>
+      <tuv xml:lang="EN-GB" changeid="Didier" changedate="20160122T091932Z" creationid="Didier" creationdate="20160114T163001Z">
+        <seg>path to the publication parameter file to use, replaces the value available in the table of contents (toc)</seg>
       </tuv>
     </tu>
     <tu>
@@ -226,8 +226,8 @@
       <tuv xml:lang="FR">
         <seg>trame à publier</seg>
       </tuv>
-      <tuv xml:lang="EN-GB" changeid="Didier" changedate="20160114T163049Z" creationid="Didier" creationdate="20160114T163049Z">
-        <seg>frame to publish</seg>
+      <tuv xml:lang="EN-GB" changeid="Didier" changedate="20160122T091939Z" creationid="Didier" creationdate="20160114T163049Z">
+        <seg>table of contents to publish</seg>
       </tuv>
     </tu>
     <tu>
