@@ -2661,6 +2661,16 @@ Désactiver la fonctionnalité de projets en équipe.</seg>
     <tu>
       <tuv lang="EN">
         <seg>--pseudotranslatetype=[equal|empty]
+		What to fill the pseudotranslated TMX with.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160212T145638Z" creationid="Didier" creationdate="20160212T145638Z">
+        <seg>--pseudotranslatetype=[equal|empty]
+		Le contenu à inclure dans la TMX pseudo-traduite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--pseudotranslatetype=[equal|empty]
 What to fill the pseudotranslated TMX with.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160115T135902Z" creationid="Didier" creationdate="20160115T135847Z">
@@ -2713,6 +2723,16 @@ Le répertoire à partir duquel lire et écrire les fichiers de configuration Om
     <tu>
       <tuv lang="EN">
         <seg>--script=&lt;path&gt;
+		A script file to be executed on project events.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160212T145517Z" creationid="Didier" creationdate="20160212T145517Z">
+        <seg>--script=&lt;chemin&gt;
+		Un fichier script à exécuter lors d'événements survenant dans le projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--script=&lt;path&gt;
 A script file to be executed on project events.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160115T135057Z" creationid="Didier" creationdate="20160115T135057Z">
@@ -2734,6 +2754,16 @@ Un fichier script à exécuter lors d'événements survenant dans le projet.</se
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130503T135040Z">
         <seg>--source-pattern={expression régulière}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--tag-validation=[abort|warn]
+		Validate tags.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160212T145528Z" creationid="Didier" creationdate="20160212T145528Z">
+        <seg>--tag-validation=[abort|warn]
+		Valider les balises.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11908,6 +11938,18 @@ kolekti -b C:\[...]\trunk\doc_src2 publish [-j JOB] -l fr,en C:\[...]\trunk\doc_
     <tu>
       <tuv lang="EN">
         <seg>Console-align mode:
+	--alignDir=&lt;path&gt;
+		A directory containing the translated files.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160212T145703Z" creationid="Didier" creationdate="20160212T145703Z">
+        <seg>Console-align mode :
+	--alignDir=&lt;chemin&gt;
+		Un répertoire contenant les fichiers traduits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Console-align mode:
 --alignDir=&lt;path&gt;
 A directory containing the translated files.</seg>
       </tuv>
@@ -11920,6 +11962,18 @@ Un répertoire contenant les fichiers traduits.</seg>
     <tu>
       <tuv lang="EN">
         <seg>Console-pseudotranslatetmx mode:
+	--pseudotranslatetmx=&lt;path&gt;
+		The output pseudotranslated TMX file.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160212T145624Z" creationid="Didier" creationdate="20160212T145624Z">
+        <seg>Mode console-pseudotranslatetmx :
+	--pseudotranslatetmx=&lt;chemin&gt;
+		Le fichier TMX résultant contenant une pseudo-traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Console-pseudotranslatetmx mode:
 --pseudotranslatetmx=&lt;path&gt;
 The output pseudotranslated TMX file.</seg>
       </tuv>
@@ -11927,6 +11981,18 @@ The output pseudotranslated TMX file.</seg>
         <seg>Mode console-pseudotranslatetmx :
 --pseudotranslatetmx=&lt;chemin&gt;
 Le fichier TMX résultant contenant une pseudo-traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Console-translate mode:
+	--source-pattern=&lt;pattern&gt;
+		A regex whitelist of source files to process.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160212T145556Z" creationid="Didier" creationdate="20160212T145556Z">
+        <seg>Mode console-translate :
+	--source-pattern=&lt;modèle&gt;
+		Une liste blanche en expression régulière des fichiers source à traiter.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24011,6 +24077,18 @@ impose that choice.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140725T163532Z" creationid="Didier" creationdate="20140725T163532Z">
         <seg>Aucune balise et aucun nombre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Non-GUI mode options:
+	--quiet
+		Reduce output to command line stdout.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160212T145457Z" creationid="Didier" creationdate="20160212T145457Z">
+        <seg>Options non liées à l'interface utilisateur :
+	--quiet
+		Diminue les sorties sur stdout de la ligne de commande.</seg>
       </tuv>
     </tu>
     <tu>
