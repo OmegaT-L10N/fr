@@ -11588,6 +11588,16 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (dévelo
     <tu>
       <tuv lang="EN">
         <seg>Code has been contributed by: 
+Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead developer), Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Tony Graham, Phillip Hall, Jean-Christophe Helary, Chihiro Hio, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, Adiel Mittmann, Hiroshi Miura, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Ilia Vinogradov, Martin Wunderlich and Michael Zakharov</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160212T143700Z" creationid="Didier" creationdate="20160212T143700Z">
+        <seg>Contributions au code :
+Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (développeur principal), Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Tony Graham, Philippe Hall, Jean-Christophe Helary, Chihiro Hio, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, Adiel Mittmann, Hiroshi Miura, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Ilia Vinogradov, Martin Wunderlich et Michael Zakharov</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Code has been contributed by: 
 Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead developer), Thomas Cordonnier, Sandra Jean Chua, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Martin Wunderlich and Michael Zakharov</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140617T175748Z" creationid="Didier" creationdate="20140617T175748Z">
@@ -12085,6 +12095,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20150525T145459Z" creationid="Didier" creationdate="20140119T175201Z">
         <seg>Copyright © 2000-2015 Keith Godfrey, Maxym Mykhalchuk et d'autres personnes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copyright © 2000-2016 Keith Godfrey, Maxym Mykhalchuk and others</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160212T143639Z" creationid="Didier" creationdate="20160212T143639Z">
+        <seg>Copyright © 2000-2016 Keith Godfrey, Maxym Mykhalchuk et d'autres personnes</seg>
       </tuv>
     </tu>
     <tu>
@@ -16668,8 +16686,8 @@ authors of previous versions.</seg>
       <tuv lang="EN">
         <seg>Full/Half &amp;width char insensitive</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20160212T143506Z" creationid="Didier" creationdate="20160212T143506Z">
-        <seg>In</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20160212T143545Z" creationid="Didier" creationdate="20160212T143506Z">
+        <seg>Ignorer la différence en pleine et demi-largeur de caractère</seg>
       </tuv>
     </tu>
     <tu>
@@ -21157,6 +21175,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130708T094427Z" creationid="Didier" creationdate="20130708T094427Z">
         <seg>Jar utilisé pour les modules d'extension : {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Java Properties XML</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160212T143624Z" creationid="Didier" creationdate="20160212T143624Z">
+        <seg>XML Properties Java</seg>
       </tuv>
     </tu>
     <tu>
@@ -26834,6 +26860,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please, press OK to remember your changes ("{2}"), or Cancel to keep remote/automatic changes ("{1}").</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160212T143748Z" creationid="Didier" creationdate="20160212T143748Z">
+        <seg>Veuillez appuyer sur OK pour conserver vos modifications (« {2} ») ou sur Annuler pour conserver les modifications distantes/automatiques (« {1} »).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Plugin successfully loaded from class '{0}'</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130708T094456Z" creationid="Didier" creationdate="20130708T094456Z">
@@ -29108,6 +29142,14 @@ REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Sauvegarde du projet...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Schematron</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160212T143625Z" creationid="Didier" creationdate="20160212T143625Z">
+        <seg>Schematron</seg>
       </tuv>
     </tu>
     <tu>
@@ -40783,6 +40825,14 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20110719T080128Z">
         <seg>Fichiers TXML Wordfast</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wordpress</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160212T143629Z" creationid="Didier" creationdate="20160212T143629Z">
+        <seg>Wordpress</seg>
       </tuv>
     </tu>
     <tu>
