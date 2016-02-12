@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_0_r8225:8226M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_0_r8225:8227M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -29850,8 +29850,9 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       <tuv lang="EN">
         <seg>See below for details.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20160115T133458Z" creationid="Didier" creationdate="20160115T133458Z">
-        <seg>Voir ci-dessous pour plus d'informations.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20160212T150358Z" creationid="Didier" creationdate="20160115T133458Z">
+        <seg>
+	Voir ci-dessous pour plus d'informations.</seg>
       </tuv>
     </tu>
     <tu>
