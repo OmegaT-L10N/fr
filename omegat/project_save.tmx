@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_0_r8221" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_0_r8225:8226M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2479,6 +2479,16 @@ Comportement du lemmatiseur source ou cible à utiliser (remplace les paramètre
     <tu>
       <tuv lang="EN">
         <seg>--config-file=&lt;path&gt;
+		A Java .properties file from which to load default settings.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160212T145057Z" creationid="Didier" creationdate="20160212T145057Z">
+        <seg>--config-file=&lt;chemin&gt;
+		Un fichier .properties Java à partir duquel charger les paramètres par défaut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--config-file=&lt;path&gt;
 A Java .properties file from which to load default settings.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160115T134242Z" creationid="Didier" creationdate="20160115T134200Z">
@@ -2504,6 +2514,16 @@ Do not attempt to lock the project's omegat.project file.</seg>
       <tuv lang="FR" changeid="Didier" changedate="20160115T134425Z" creationid="Didier" creationdate="20160115T134425Z">
         <seg>--disable-project-locking
 Ne pas essayer de verrouiller le fichier omegat.project du projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]
+		Specify a mode other than default (GUI).</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160212T145033Z" creationid="Didier" creationdate="20160212T145033Z">
+        <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]
+		Spécifier un mode différent du mode par défaut (interface utilisateur).</seg>
       </tuv>
     </tu>
     <tu>
@@ -16686,8 +16706,8 @@ authors of previous versions.</seg>
       <tuv lang="EN">
         <seg>Full/Half &amp;width char insensitive</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20160212T143545Z" creationid="Didier" creationdate="20160212T143506Z">
-        <seg>Ignorer la différence en pleine et demi-largeur de caractère</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20160212T144259Z" creationid="Didier" creationdate="20160212T143506Z">
+        <seg>Ignorer la différence entre pleine et demi-largeur de caractère</seg>
       </tuv>
     </tu>
     <tu>
@@ -26026,6 +26046,22 @@ happen should you file a bug report.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140414T092240Z" creationid="Didier" creationdate="20140414T092240Z">
         <seg>Options pour définir la longueur de ligne dans les documents cible (0 = aucune limite)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Options:
+	None: Launch GUI
+	Project path only: Launch GUI and load specified project
+	-h, --help
+		Show usage information.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160212T145006Z" creationid="Didier" creationdate="20160212T145006Z">
+        <seg>Options :
+	Aucune : lancer l'interface utilisateur
+	Chemin du projet uniquement : lancer l'interface utilisateur et charger le projet spécifié
+	-h, --help
+		Afficher des informations sur l'utilisation.</seg>
       </tuv>
     </tu>
     <tu>
