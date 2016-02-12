@@ -2437,6 +2437,19 @@ le programme d'installation peut créer des raccourcis pour vous dans le menu d�
     <tu>
       <tuv lang="EN">
         <seg>--ITokenizer=&lt;classname&gt;
+	--ITokenizerTarget=&lt;classname&gt;
+		Source- or target-language tokenizer to use (overrides project
+		settings).</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160212T145328Z" creationid="Didier" creationdate="20160212T145328Z">
+        <seg>--ITokenizer=&lt;nom de classe&gt;
+	--ITokenizerTarget=&lt;nom de classe&gt;
+		Lemmatiseur source ou cible à utiliser (remplace les paramètres du projet).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--ITokenizer=&lt;classname&gt;
 --ITokenizerTarget=&lt;classname&gt;
 Source- or target-language tokenizer to use (overrides project
 settings).</seg>
@@ -2445,6 +2458,19 @@ settings).</seg>
         <seg>--ITokenizer=&lt;nom de classe&gt;
 --ITokenizerTarget=&lt;nom de classe&gt;
 Lemmatiseur source or cible à utiliser (remplace les paramètres du projet).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--ITokenizerBehavior=&lt;version&gt;
+	--ITokenizerBehaviorTarget=&lt;version&gt;
+		Source- or target-language tokenizer behavior to use (overrides
+		project settings).</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160212T145349Z" creationid="Didier" creationdate="20160212T145349Z">
+        <seg>--ITokenizerBehavior=&lt;version&gt;
+	--ITokenizerBehaviorTarget=&lt;version&gt;
+		Comportement du lemmatiseur source ou cible à utiliser (remplace les paramètres du projet).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2499,11 +2525,31 @@ Un fichier .properties Java à partir duquel charger les paramètres par défaut
     <tu>
       <tuv lang="EN">
         <seg>--disable-location-save
+		Do not remember the last directory opened in the file picker.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160212T145221Z" creationid="Didier" creationdate="20160212T145221Z">
+        <seg>--disable-location-save
+		Ne pas se souvenir du dernier répertoire ouvert dans le sélecteur de fichiers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--disable-location-save
 Do not remember the last directory opened in the file picker.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160115T134612Z" creationid="Didier" creationdate="20160115T134612Z">
         <seg>--disable-location-save
 Ne pas se souvenir le dernier répertoire ouvert dans le sélecteur de fichiers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--disable-project-locking
+		Do not attempt to lock the project's omegat.project file.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160212T145205Z" creationid="Didier" creationdate="20160212T145205Z">
+        <seg>--disable-project-locking
+		Ne pas essayer de verrouiller le fichier omegat.project du projet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2579,6 +2625,16 @@ Spécifier un mode différent du mode par défaut (interface utilisateur).</seg>
     <tu>
       <tuv lang="EN">
         <seg>--no-team
+		Disable team project functionality.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160212T145234Z" creationid="Didier" creationdate="20160212T145234Z">
+        <seg>--no-team
+		Désactiver la fonctionnalité de projets en équipe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--no-team
 Disable team project functionality.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160115T134633Z" creationid="Didier" creationdate="20160115T134633Z">
@@ -2610,6 +2666,20 @@ What to fill the pseudotranslated TMX with.</seg>
       <tuv lang="FR" changeid="Didier" changedate="20160115T135902Z" creationid="Didier" creationdate="20160115T135847Z">
         <seg>--pseudotranslatetype=[equal|empty]
 Le contenu à inclure dans la TMX pseudo-traduite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--resource-bundle=&lt;path&gt;
+		A Java .properties file to use for interface text
+	--config-dir=&lt;path&gt;
+		The directory to read/write OmegaT configuration files from/to.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160212T145150Z" creationid="Didier" creationdate="20160212T145150Z">
+        <seg>--resource-bundle=&lt;chemin&gt;
+		Un fichier .properties Java à utiliser pour les textes de l'interface utilisateur
+	--config-dir=&lt;chemin&gt;
+		Le répertoire à partir duquel lire et écrire les fichiers de configuration d'OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29644,6 +29714,16 @@ La recherche port par défaut sur le projet, et peut porter sur tout fichier sit
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160115T140139Z" creationid="Didier" creationdate="20160115T140139Z">
         <seg>Consulter Aide &gt; Guide de l'utilisateur pour des informations supplémentaires.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See Lucene Version docs for valid values:
+		https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.html</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160212T145419Z" creationid="Didier" creationdate="20160212T145419Z">
+        <seg>Consulter la documentation de la version de Lucene pour les valeurs possibles :
+		https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.html</seg>
       </tuv>
     </tu>
     <tu>
