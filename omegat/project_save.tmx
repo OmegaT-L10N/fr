@@ -2504,6 +2504,14 @@ Comportement du lemmatiseur source ou cible à utiliser (remplace les paramètre
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>--config-file=/path/to/config-file/ \</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160322T170221Z" creationid="Didier" creationdate="20160322T170221Z">
+        <seg>--config-file=/path/to/config-file/ \</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>--config-file=&lt;path&gt;
 		A Java .properties file from which to load default settings.</seg>
       </tuv>
@@ -5530,6 +5538,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;l0&gt;--config-file=&lt;config-file&gt;&lt;/l0&gt; tells &lt;a1&gt;OmegaT&lt;/a1&gt; what configuration file to use.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160322T170245Z" creationid="Didier" creationdate="20160322T170245Z">
+        <seg>&lt;l0&gt;--config-file=&lt;config-file&gt;&lt;/l0&gt; spécifie à &lt;a1&gt;OmegaT&lt;/a1&gt; le fichier de configuration à utiliser.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;l0&gt;--disable-project-locking&lt;/l0&gt; allows, under Windows, to open the same project with several instances of OmegaT.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140414T134729Z" creationid="Didier" creationdate="20140414T134729Z">
@@ -6758,6 +6774,14 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130502T134306Z">
         <seg>&lt;p0&gt;Exécution d'OmegaT&lt;/p0&gt; &lt;s1&gt;Mode ligne de commande&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Running OmegaT&lt;/p0&gt; &lt;s1&gt;Drag and grop&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160322T170109Z" creationid="Didier" creationdate="20160322T170045Z">
+        <seg>&lt;p0&gt;Exécution d'OmegaT&lt;/p0&gt; &lt;s1&gt;Glisser/déplacer&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8474,6 +8498,14 @@ or that patent license was granted, prior to 28 March 2007.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20150713T084056Z" creationid="Didier" creationdate="20150713T084056Z">
         <seg>Accéder au dossier de configuration</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Access Project Contents</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160322T170301Z" creationid="Didier" creationdate="20160322T170301Z">
+        <seg>Accéder au contenu du projet</seg>
       </tuv>
     </tu>
     <tu>
@@ -14236,6 +14268,14 @@ Ajouter C:\Program Files (x86)\Prince\Engine\bin dans le Path.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Drag and drop</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160322T170057Z" creationid="Didier" creationdate="20160322T170057Z">
+        <seg>Glisser-déplacer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Drag and drop &lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.app&lt;/e0&gt; onto the Dock.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130502T120038Z">
@@ -17036,6 +17076,14 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20141202T175643Z" creationid="Didier" creationdate="20141202T175643Z">
         <seg>Donner accès au cinq derniers projets modifiés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Gives access to the project folders.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160322T170314Z" creationid="Didier" creationdate="20160322T170314Z">
+        <seg>Donne accès aux dossiers du projet</seg>
       </tuv>
     </tu>
     <tu>
@@ -19866,6 +19914,14 @@ the scope of this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In most systems, it is possible to open a project by dropping an &lt;f0&gt;omegat.project&lt;/f0&gt; file onto the OmegaT icon on the desktop.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160322T170147Z" creationid="Didier" creationdate="20160322T170147Z">
+        <seg>Dans la plupart des systèmes, il est possible d'ouvrir un projet en déposant un fichier &lt;f0&gt;omegat.project&lt;/f0&gt; sur l'icône d'OmegaT du bureau.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In most translation jobs, it is considered important for the formatting of the original text to be retained in the translation.</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130416T150034Z">
@@ -21192,6 +21248,14 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130506T142149Z">
         <seg>Il est possible que les mémoires de traduction contenues dans le sous-dossier &lt;f0&gt;tm&lt;/f0&gt; comportent des segments ayant un texte source identique mais des textes cible différents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It might also be possible to open an OmegaT project by double-clicking on an &lt;f1&gt;omegat.project&lt;/f1&gt; file.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160322T170217Z" creationid="Didier" creationdate="20160322T170217Z">
+        <seg>Il est parfois également possible d'ouvrir un projet OmegaT en double-cliquant sur un fichier &lt;f1&gt;omegat.project&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
