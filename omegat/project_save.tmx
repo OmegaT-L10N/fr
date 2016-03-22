@@ -18508,6 +18508,22 @@ tous les paramètres reprendront leur valeur par défaut,
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If some texts are selected within the fuzzy match, only this selection will be inserted at the cursor position.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160322T170549Z" creationid="Didier" creationdate="20160322T170549Z">
+        <seg>Si une partie du texte est sélectionnée dans la correspondance partielle, seule cette sélection sera insérée à la position du curseur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If some texts are selected within the fuzzy match, only this selection will replace the whole target segment.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160322T170514Z" creationid="Didier" creationdate="20160322T170514Z">
+        <seg>Si une partie du texte est sélectionnée dans la correspondance partielle, seule cette sélection remplacera l'ensemble du segment cible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If spell checking is activated, spelling mistakes and typos are recognized and can be corrected during translation.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130527T125052Z">
@@ -18595,6 +18611,14 @@ countries not thus excluded.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130430T081705Z">
         <seg>Si le document le permet, le traducteur est vivement encouragé à retirer un maximum d'informations de style du document original de sorte que le moins de balises possible apparaissent dans l'interface d'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the documents are not available, the entry is greyed out.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160322T170425Z" creationid="Didier" creationdate="20160322T170425Z">
+        <seg>Si les documents ne sont pas disponibles, l'entrée est grisée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19786,6 +19810,14 @@ the scope of this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In addition, two menu entries allow opening directly the current source and target documents and the writable glossary.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160322T170352Z" creationid="Didier" creationdate="20160322T170352Z">
+        <seg>De plus, deux entrées de menu permettent d'ouvrir directement les documents source et cible actuels ainsi que le glossaire en écriture.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In all other cases no tag validation is done.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130421T134509Z">
@@ -20492,6 +20524,14 @@ patent against the party.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Insérer la correspondance dans la traduction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert Match or Selection</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160322T170519Z" creationid="Didier" creationdate="20160322T170519Z">
+        <seg>Insérer la correspondance ou la sélection</seg>
       </tuv>
     </tu>
     <tu>
@@ -28648,6 +28688,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Replace With Match or Selection</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160322T170441Z" creationid="Didier" creationdate="20160322T170441Z">
+        <seg>Remplacer par la correspondance ou la sélection</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Replace With Source</seg>
       </tuv>
       <tuv lang="FR" changeid="laurieetclémentine" changedate="20130411T134030Z">
@@ -34088,6 +34136,14 @@ instead.</seg>
       </tuv>
       <tuv lang="FR" changeid="brigitte" changedate="20130715T193408Z">
         <seg>La documentation est distribuée dans l'espoir qu'elle sera utile, mais SANS AUCUNE GARANTIE de quelque nature que ce soit ; expresse ou implicite, y compris, mais sans y être limité, les garanties D'APTITUDE À LA VENTE ou À UN BUT PARTICULIER.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The documents are opened by the application chosen by the operating system.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160322T170407Z" creationid="Didier" creationdate="20160322T170407Z">
+        <seg>Les documents sont ouverts par l'application choisie par le système d'exploitation.</seg>
       </tuv>
     </tu>
     <tu>
