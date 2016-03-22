@@ -3826,6 +3826,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt; &lt;/e0&gt; is Copyright © 2000-2016 Keith Godfrey, Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik, Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Chihiro Hio, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, Adiel Mittmann, Hiroshi Miura, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Ilia Vinogradov, Martin Wunderlich and Michael Zakharov.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160322T165259Z" creationid="Didier" creationdate="20160322T165259Z">
+        <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;&lt;/e0&gt; est protégé par le copyright © 2000-2016 Keith Godfrey, Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik, Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Chihiro Hio, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, Adiel Mittmann, Hiroshi Miura, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Ilia Vinogradov, Martin Wunderlich et Michael Zakharov.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.app&lt;/e0&gt; can be accessed from the Mac OS X Services.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130502T121253Z">
@@ -25692,8 +25700,8 @@ kolteki later.</seg>
       <tuv lang="EN">
         <seg>Once Auto-completer is open, use &lt;e1&gt;Ctrl+Space&lt;/e1&gt; again to switch successively from &lt;e2&gt;Glossaries entries&lt;/e2&gt;, &lt;e3&gt;Auto-text entries,&lt;/e3&gt; &lt;e4&gt;Missing tags&lt;/e4&gt; and &lt;e5&gt;Character table&lt;/e5&gt; options.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20160322T165027Z" creationid="Didier" creationdate="20160322T165027Z">
-        <seg>Une fois la saisie automatique ouverte, utilisez &lt;e1&gt;Ctrl+E&lt;/e1&gt; again to switch successively from &lt;e2&gt;Glossaries entries&lt;/e2&gt;, &lt;e3&gt;Auto-text entries,&lt;/e3&gt; &lt;e4&gt;Missing tags&lt;/e4&gt; and &lt;e5&gt;Character table&lt;/e5&gt; options.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20160322T165150Z" creationid="Didier" creationdate="20160322T165027Z">
+        <seg>Une fois la saisie automatique ouverte, utilisez &lt;e1&gt;Ctrl+Espace&lt;/e1&gt; à nouveau pour passer successivement aux options &lt;e2&gt;Entrées de glossaire&lt;/e2&gt;, &lt;e3&gt;Texte automatique,&lt;/e3&gt; &lt;e4&gt;Balises manquantes&lt;/e4&gt; &lt;e5&gt;Table de caractère&lt;/e5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31031,6 +31039,14 @@ Traduction supprimée car ne concerne pas le français.</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Some additional scripts can be found here: &lt;u0&gt;OmegaT Scripts&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160322T165351Z" creationid="Didier" creationdate="20160322T165351Z">
+        <seg>Des scripts supplémentaires sont disponibles sur le site web suivant : &lt;u0&gt;OmegaT Scripts&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Some devices are designed to deny users access to install or run
 modified versions of the software inside them, although the manufacturer
 can do so. This is fundamentally incompatible with the aim of
@@ -32046,6 +32062,14 @@ address new problems or concerns.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20120420T211458Z">
         <seg>Erreur de synchronisation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>System-wide commands Select All (&lt;k0&gt;Ctrl+A&lt;/k0&gt;), Paste (&lt;e1&gt;Ctrl+V&lt;/e1&gt;), Cut (&lt;e2&gt;Ctrl+X&lt;/e2&gt;), copy (&lt;e3&gt;Ctrl+C)&lt;/e3&gt;, Insert Match or Selection &lt;e4&gt;(Ctrl+I&lt;/e4&gt;) and Insert source (&lt;e5&gt;Ctrl+Shift+I&lt;/e5&gt;) act in principle on the text within the currently open segment only.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160322T165223Z" creationid="Didier" creationdate="20160322T165223Z">
+        <seg>Les commandes utilisées pour l'ensemble du système, Tout sélectionner (&lt;k0&gt;Ctrl+A&lt;/k0&gt;), Coller (&lt;e1&gt;Ctrl+V&lt;/e1&gt;), Couper (&lt;e2&gt;Ctrl+X&lt;/e2&gt;), Copier (&lt;e3&gt;Ctrl+C)&lt;/e3&gt;, Insérer la correspondance ou la sélection &lt;e4&gt;(Ctrl+I&lt;/e4&gt;) et Insérer le texte source (&lt;e5&gt;Ctrl+Maj+I&lt;/e5&gt;) fonctionnent uniquement sur le texte à l'intérieur du segment ouvert.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33936,6 +33960,14 @@ instead.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20141202T171138Z" creationid="Didier" creationdate="20141202T171138Z">
         <seg>Cette documentation est protégée par le copyright ©2013 Vito Smolej, ©2014 Vincent Bidaux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The documentation is Copyright ©2013 Vito Smolej, ©2014-2016 Vincent Bidaux.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160322T165244Z" creationid="Didier" creationdate="20160322T165244Z">
+        <seg>Cette documentation est protégée par le copyright ©2013 Vito Smolej, ©2014-2016 Vincent Bidaux.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45102,10 +45134,34 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/branches/release-3-5/src/org/omegat/gui/main/MainMenuShortcuts.mac.properties</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160322T165357Z" creationid="Didier" creationdate="20160322T165357Z">
+        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/branches/release-3-5/src/org/omegat/gui/main/MainMenuShortcuts.mac.properties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/branches/release-3-5/src/org/omegat/gui/main/MainMenuShortcuts.properties</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160322T165355Z" creationid="Didier" creationdate="20160322T165355Z">
+        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/branches/release-3-5/src/org/omegat/gui/main/MainMenuShortcuts.properties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>https://sourceforge.net/projects/macsvn/</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T104055Z">
         <seg>https://sourceforge.net/projects/macsvn/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://sourceforge.net/projects/omegatscripts/</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160322T165302Z" creationid="Didier" creationdate="20160322T165302Z">
+        <seg>https://sourceforge.net/projects/omegatscripts/</seg>
       </tuv>
     </tu>
     <tu>
