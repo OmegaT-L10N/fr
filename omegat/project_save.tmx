@@ -11263,6 +11263,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check this option in case OmegaT does not display some glyphs properly (even if the fonts containing the relevant glyphs are installed on your machine).</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160322T171039Z" creationid="Didier" creationdate="20160322T171039Z">
+        <seg>Cochez cette option si OmegaT n'affiche par certains glyphes correctement (même si les polices contenant les glyphes appropriés sont installées sur votre machine).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check this option to be warned about differences between source and target segments tags each time you leave a segment.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20141202T172352Z" creationid="Didier" creationdate="20141202T172352Z">
@@ -16624,6 +16632,14 @@ make exceptions for this.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20141202T181057Z" creationid="Didier" creationdate="20141202T181057Z">
         <seg>Pour les détails techniques, consultez la &lt;u0&gt;demande d'amélioration&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For that reason, it is OFF by default.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160322T171222Z" creationid="Didier" creationdate="20160322T171222Z">
+        <seg>Pour cette raison, il est désactivé par défaut.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24794,6 +24810,14 @@ Rajout d'une partie approriée, afin que la note de bas de page ne se retrouve p
       </tuv>
       <tuv lang="FR">
         <seg>Note : tous les filtres ne vous autorisent pas à choisir un encodage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note: on Windows it seems that this manual font fallback mechanism can interfere with standard font fallback, causing undesirable font substitution.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160322T171211Z" creationid="Didier" creationdate="20160322T171211Z">
+        <seg>Note : sous Windows, ce mécanisme manuel de polices de repli peut interférer avec la méthode de repli standard, provoquant ainsi une substitution de polices non souhaitée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35480,6 +35504,14 @@ protocols for communication across the network.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130410T140240Z">
         <seg>Le second de ces chapitres décrit les différents sous-dossiers et fichiers d'un projet de traduction ainsi que leur rôles. Il décrit également les autres fichiers utilisateur et fichiers application associés à OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The segment is opened when either its segment call-out or segment number is entered.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160322T170947Z" creationid="Didier" creationdate="20160322T170947Z">
+        <seg>Le segment s'ouvre lorsque son numéro de segment est saisi ou que son raccourci est entré.</seg>
       </tuv>
     </tu>
     <tu>
