@@ -10655,6 +10655,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By unchecking &lt;e0&gt;Automatically Fetch Translations&lt;/e0&gt; option, machine translations will be fetched only upon invoking &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;M&lt;/k3&gt; &lt;/k1&gt; (&lt;k4&gt; &lt;k5&gt;Cmd&lt;/k5&gt; &lt;k6&gt;M&lt;/k6&gt; &lt;/k4&gt; on OS X) on the current segment.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160322T171741Z" creationid="Didier" creationdate="20160322T171741Z">
+        <seg>En décochant &lt;e0&gt;Récupérer automatiquement les traductions&lt;/e0&gt;, les traductions automatiques seront récupérées uniquement lors de l'utilisation de &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;M&lt;/k3&gt; &lt;/k1&gt; (&lt;k4&gt; &lt;k5&gt;Cmd&lt;/k5&gt; &lt;k6&gt;M&lt;/k6&gt; &lt;/k4&gt; sur OS X) sur le segment actuel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>C&amp;ase sensitive</seg>
       </tuv>
       <tuv lang="FR">
@@ -10995,6 +11003,14 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20150514T134946Z" creationid="Didier" creationdate="20150514T134946Z">
         <seg>&amp;Vérifier les variables printf simples (ex. : %s, %d)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check &lt;e0&gt;Untranslated Segments Only&lt;/e0&gt; option to deactivate Machine Translation tools on already translated segments.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160322T171848Z" creationid="Didier" creationdate="20160322T171848Z">
+        <seg>Cochez l'option &lt;e0&gt;Uniquement les segments non traduits&lt;/e0&gt; pour désactiver les outils de traduction automatique sur les segments déjà traduits.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36221,6 +36237,14 @@ the [Help] menu after starting OmegaT.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Lorsque vous traduirez ensuite depuis l'anglais américain, votre projet utilisera toutes les règles définies pour la chaîne de langues dans le bon ordre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Then you must use &lt;k7&gt; &lt;k8&gt;Ctrl&lt;/k8&gt; &lt;k9&gt;M&lt;/k9&gt; &lt;/k7&gt; a second time, to insert the suggestion.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160322T171808Z" creationid="Didier" creationdate="20160322T171808Z">
+        <seg>Vous devez ensuite utiliser &lt;k7&gt; &lt;k8&gt;Ctrl&lt;/k8&gt; &lt;k9&gt;M&lt;/k9&gt; &lt;/k7&gt; une deuxième fois pour insérer la suggestion.</seg>
       </tuv>
     </tu>
     <tu>
