@@ -18109,6 +18109,22 @@ sections when you distribute them as separate works.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If &lt;g0&gt;Use Stemming for Glossary Entries&lt;/g0&gt; option is ON, with an English source text, the glossary entry "element" will be found if the source text contains "elements".</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160322T172206Z" creationid="Didier" creationdate="20160322T172206Z">
+        <seg>Si l'option &lt;g0&gt;Utiliser la lemmatisation pour les entrées de glossaire&lt;/g0&gt; est activée, avec un texte source anglais l'entrée de glossaire « element » sera trouvée sir le texte source contient « elements ».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If &lt;g0&gt;Use Terms Appearing Separately in the Source Text&lt;/g0&gt; option is ON, the glossary entry "itema itemb" will be found in the source text "itema other word itemb".</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160322T172027Z" creationid="Didier" creationdate="20160322T172027Z">
+        <seg>Si &lt;g0&gt;Utiliser les termes apparaissant séparément dans le texte source&lt;/g0&gt; est activée, l'entrée de glossaire « itema itemb » sera trouvée dans le texte source « itema autre mot itemb ».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If &lt;l0&gt;abort &lt;/l0&gt;is selected, the tag validator will stop on the first invalid segment.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130527T151432Z">
@@ -18699,6 +18715,14 @@ countries not thus excluded.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130502T132400Z">
         <seg>Si la langue du système de l'utilisateur n'est pas disponible, &lt;a6&gt;OmegaT&lt;/a6&gt; s'affiche en anglais (langue par défaut).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the option is OFF, the glossary entry above will not be found.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160322T172044Z" creationid="Didier" creationdate="20160322T172044Z">
+        <seg>Si l'option est désactivée, l'entrée de glossaire ci-dessus ne sera pas trouvée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24826,6 +24850,14 @@ Rajout d'une partie approriée, afin que la note de bas de page ne se retrouve p
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20141202T222845Z" creationid="Didier" creationdate="20141202T222845Z">
         <seg>Note : les noms des fichiers (dans la première colonne) peuvent être triés par ordre alphabétique en cliquant sur l'en-tête.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note: in that case, &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;M&lt;/k3&gt; &lt;/k1&gt; can still be used, to force a Machine Translation call on an already translated segment.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160322T171922Z" creationid="Didier" creationdate="20160322T171922Z">
+        <seg>Note : dans ce cas, &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;M&lt;/k3&gt; &lt;/k1&gt; peut quand même être utilisé pour forcer l'appel à la traduction automatique sur un segment déjà traduit.</seg>
       </tuv>
     </tu>
     <tu>
