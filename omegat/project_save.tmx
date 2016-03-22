@@ -10903,6 +10903,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Changes the case of the highlighted text in the target segment to the selected option (Lower case, Upper case, Title case or Sentence case).</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160322T170857Z" creationid="Didier" creationdate="20160322T170857Z">
+        <seg>Change la casse du texte sélectionné dans le segment cible en fonction de l'option sélectionnée (Minuscule, Majuscule, 1ère lettre des mots en majuscule ou Phrase).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Changes to this command involve the addition of "arguments" to it.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130502T131807Z">
@@ -19394,6 +19402,30 @@ OmegaT.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130528T124819Z">
         <seg>Si vous effectuez un clic droit dans le volet Editeur, un menu contextuel s'ouvre et propose les options&lt;e0&gt; Couper, Copier, Coller&lt;/e0&gt; (soit les mêmes fonctions que les raccourcis &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;X&lt;/k3&gt; &lt;/k1&gt;, &lt;k4&gt; &lt;k5&gt;Ctrl&lt;/k5&gt; &lt;k6&gt;C&lt;/k6&gt; &lt;/k4&gt; et &lt;k7&gt; &lt;k8&gt;Ctrl&lt;/k8&gt; &lt;k9&gt;V&lt;/k9&gt; &lt;/k7&gt;) ainsi que la fonction &lt;e10&gt;Atteindre un segment&lt;/e10&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you select a text string (in any pane) before pressing &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt;, the text will be pasted by default in the &lt;g3&gt;Search for&lt;/g3&gt; field.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160322T170811Z" creationid="Didier" creationdate="20160322T170811Z">
+        <seg>Si vous sélectionnez du texte (dans n'importe quel volet) avant d'appuyer sur &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt;, le texte sera collé par défaut dans le champ &lt;g3&gt;Recherche&lt;/g3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you select a text string (in any pane) before pressing &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;K&lt;/k2&gt; &lt;/k0&gt;, the text will be pasted by default in the &lt;g3&gt;Search for&lt;/g3&gt; field.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160322T170825Z" creationid="Didier" creationdate="20160322T170825Z">
+        <seg>Si vous sélectionnez du texte (dans n'importe quel volet) avant d'appuyer sur &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;K&lt;/k2&gt; &lt;/k0&gt;, le texte sera collé par défaut dans le champ &lt;g3&gt;Recherche&lt;/g3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you select a text string (in any pane) before pressing &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;G&lt;/k3&gt; &lt;/k0&gt;, the text will be pasted by default in the &lt;g4&gt;Source term&lt;/g4&gt; field.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160322T170720Z" creationid="Didier" creationdate="20160322T170654Z">
+        <seg>Si vous sélectionnez du texte (dans n'importe quel volet) avant d'appuyer sur &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Maj&lt;/k2&gt; &lt;k3&gt;G&lt;/k3&gt; &lt;/k0&gt;, le texte sera collé par défaut dans le champ &lt;g4&gt;Terme source&lt;/g4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39530,6 +39562,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20150910T091615Z" creationid="Didier" creationdate="20150910T091615Z">
         <seg>Utiliser des correspondances partielles pour les entrées de dictionnaire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use Shift+F3 &lt;i0/&gt;to cycle through the four alternatives.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160322T170910Z" creationid="Didier" creationdate="20160322T170910Z">
+        <seg>Utilisez Maj+F3 &lt;i0/&gt; pour passer d'une option à l'autre.</seg>
       </tuv>
     </tu>
     <tu>
