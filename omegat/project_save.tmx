@@ -32242,6 +32242,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tag Processing...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160322T165411Z" creationid="Didier" creationdate="20160322T165411Z">
+        <seg>Traitement des balises...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tag Validation Options</seg>
       </tuv>
       <tuv lang="FR">
@@ -36627,6 +36635,14 @@ under the terms of this General Public License.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130429T090152Z">
         <seg>Cette boite de dialogue vous permet de créer les masques de noms de fichiers source des fichiers qui vont être traités par le filtre, de personnaliser les noms des fichiers traduits, et de sélectionner les encodages qui doivent être utilisés pour charger le fichier et enregistrer sa traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This dialog lists available file filters, where the filters used by the current project are displayed in bold.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160322T165447Z" creationid="Didier" creationdate="20160322T165447Z">
+        <seg>Cette boite de dialogue liste les filtres de fichiers disponibles. Ceux utilisés par le projet actuel sont affichés en gras.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41451,6 +41467,14 @@ this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can access that folder directly with the &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Access Configuration Folder&lt;/g2&gt; &lt;/m0&gt; menu entry.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160322T165703Z" creationid="Didier" creationdate="20160322T165703Z">
+        <seg>Vous pouvez accéder directement à ce dossier avec l'entrée de menu &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Accéder au dossier de configuration&lt;/g2&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can add &lt;a0&gt;OmegaT&lt;/a0&gt; to your menus as follows:</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130528T131802Z">
@@ -41595,6 +41619,14 @@ to link it from there.</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130426T141015Z">
         <seg>Il est possible de se déplacer d'une note à l'autre en cliquant sur &lt;g0&gt;Atteindre → Note Suivante&lt;/g0&gt; et &lt;g1&gt;Atteindre → Note Précédente&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can change or add filename patterns for files to be handled by each file filter.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160322T165539Z" creationid="Didier" creationdate="20160322T165539Z">
+        <seg>Vous pouvez changer ou ajouter des masques de nom de fichier pour spécifier les fichiers devant être traités par chaque filtre de fichiers.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45266,6 +45298,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T103645Z">
         <seg>if (project.getTranslationInfo(currSegment))</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>if existing, it contains project-specific GUI settings</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160322T165608Z" creationid="Didier" creationdate="20160322T165608Z">
+        <seg>Si présent, il contient les paramètres d'interface utilisateur spécifiques au projet.</seg>
       </tuv>
     </tu>
     <tu>
