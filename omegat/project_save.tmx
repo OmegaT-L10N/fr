@@ -9309,6 +9309,14 @@ the predecessor has it or can get it with reasonable efforts.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An attempt is made to match the capitalization of the source word.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160322T172740Z" creationid="Didier" creationdate="20160322T172740Z">
+        <seg>OmegaT essaye de faire correspondre la capitalisation du mot source.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An empty line will appear at the bottom of the upper table (you may have to scroll down to see it).</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130506T094339Z">
@@ -10019,6 +10027,14 @@ provoquer des comportements inattendus, mais corrects.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130913T165426Z" creationid="Didier" creationdate="20130913T165426Z">
         <seg>Configuration de la vue Glossaire de la saisie automatique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Auto-completer is launched within the target segment via &lt;e0&gt;Ctrl+Space&lt;/e0&gt; shortcut.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160322T172819Z" creationid="Didier" creationdate="20160322T172819Z">
+        <seg>La saisie automatique s'ouvre dans le segment cible avec le raccourci &lt;e0&gt;Ctrl+Space&lt;/e0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17260,6 +17276,14 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20120209T084527Z">
         <seg>Le dossier de glossaires {0} n'existe pas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Glossary matching does not use stemming or stop words, but is case-insensitive.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160322T172719Z" creationid="Didier" creationdate="20160322T172719Z">
+        <seg>La correspondance de glossaire n'utiliser pas la lemmatisation ou les mots non significatifs, mais est sensible à la casse.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37111,6 +37135,14 @@ under the terms of this General Public License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This is effective upon &lt;e1&gt;Edit &gt; Replace with Source&lt;/e1&gt;, &lt;e2&gt;Edit &gt; Insert Source&lt;/e2&gt;, and when entering a segment when &lt;e3&gt;Options &gt; Editing Behavior &gt; [Insert] The source text&lt;/e3&gt; is enabled.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160322T172550Z" creationid="Didier" creationdate="20160322T172550Z">
+        <seg>Cela s'applique à &lt;e1&gt;Edition &gt; Remplacer par la source&lt;/e1&gt;, &lt;e2&gt;Edition &gt; Insérer la source&lt;/e2&gt; et lorsque qu'on active un segment avec l'option &lt;e3&gt;Options &gt; Ligne d'édition &gt; [Insérer] Le texte source&lt;/e3&gt; est activée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is especially the case when a large file containing many segments is open in the editor, and/or slow hardware is used.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130527T153645Z">
@@ -40766,6 +40798,14 @@ add Python to your Path.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130527T133437Z">
         <seg>En vous déplaçant d'un segment à l'autre, vous pouvez remplir la ligne d'édition soit avec une traduction pré-existante, située dans le panneau des correspondances, soit avec le texte source.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When multiple target terms are available, the first one (as shown in the Glossary pane) will be used.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160322T172645Z" creationid="Didier" creationdate="20160322T172645Z">
+        <seg>Lorsque plusieurs termes cible sont disponibles, le premier (selon l'affichage du volet Glossaires) sera utilisé.</seg>
       </tuv>
     </tu>
     <tu>
