@@ -94,7 +94,7 @@
             <entry><guimenuitem><indexterm class="singular">
                 <primary>Shortcuts</primary>
 
-                <secondary>Tag validation - Ctrl+T</secondary>
+                <secondary>Tag validation - Ctrl+Shift+V</secondary>
               </indexterm>Tag Validation window</guimenuitem></entry>
 
             <entry><para>Used to validate tags (open with <keycombo>
@@ -376,6 +376,27 @@
       </indexterm>Options → Restore the main window</guimenuitem> any time to
     return to the original layout.</para>
 
+    <para>It is possible to drag and drop files to each pane, which will react accordingly.
+    <itemizedlist>
+        <listitem>
+          <para>Editor pane: If an OmegaT project file (<filename>omegat.project</filename>) is 
+          dropped on this pane, the corresponding project will be opened, closing first any 
+          opened project.
+          Other dropped files will be copied to the <filename>source</filename> folder. 
+          This applies also to the <link linkend="section.project.files">Project files</link> window.</para>
+        </listitem>
+        <listitem>
+          <para>Fuzzy Matches pane: Dropped <filename>.tmx</filename> files will be copied 
+          to the <filename>tm</filename> folder.</para>
+        </listitem>
+        <listitem>
+          <para>Glossary pane: Dropped files with known glossary extensions (<filename>.txt</filename>, 
+          <filename>.tab</filename>, etc.) will be copied to the <filename>glossary</filename> folder.</para>
+        </listitem>
+      </itemizedlist>
+    </para>
+    
+    
     <para>The counters in the lower right corner keep track of the progress of
     the translation (numbers in the left hand column refer to the figure
     above):</para>
@@ -453,6 +474,11 @@
       as a reference and replace or modify the contents of the editing field
       with your translation.</para>
 
+      <para>Note: the segment marker displays <literal>&lt;segment
+      nnnn +yy more&gt; when the segment is non-unique. In that case, yy is
+      the number of other occurrences of the segment in the
+      project.</literal></para>
+
       <para>Depending upon the preferred editing behavior, the editing field
       for the untranslated segment may be empty, contain the source text, or
       contain the translation of the string most similar to the one to be
@@ -480,8 +506,17 @@
           <keycap>Ctrl</keycap>
 
           <keycap>V</keycap>
-        </keycombo>) and the <emphasis role="bold">GoTo segment</emphasis>
-      functions.</para>
+        </keycombo>), <emphasis role="bold">GoTo segment</emphasis> and
+      <emphasis role="bold">Add glossary entry</emphasis> functions. In
+      addition, when the right click occurs on an opened segment, other
+      options concerning <emphasis role="bold">Alternative
+      translations</emphasis> are proposed, for example to to jump to another
+      instance of non-unique segments.</para>
+      
+      <para>It is possible to drag text from anywhere in the main window and to drop 
+      it within the segment. Texted dragged from outside the target segment is copied, 
+      while text dragged from within the segment is moved.</para>
+      
     </section>
 
     <section id="match.viewer">
@@ -518,7 +553,7 @@
       time as you translate your project and from ancillary translation
       memories you have imported from your earlier jobs, or received from your
       client or translation agency.</para>
-
+      
       <para>When you move to the next segment, the first fuzzy match (the one
       with the best matching percentage) is automatically selected. You may
       select a different match by pressing <guimenuitem>Ctrl+2, 3, 4, or
@@ -885,7 +920,15 @@
 
       <para>The Project Files window lists the project files and displays
       other project information. It is displayed automatically when OmegaT
-      loads a project. Use <guimenuitem>Ctrl+L<indexterm class="singular">
+      loads a project.</para>
+
+      <para><remark>Note:</remark> it is possible to inhibit this Project
+      Files window displaying, by setting
+      <emphasis>project_files_show_on_load</emphasis> to
+      <emphasis>false</emphasis> in <filename>omegat.prefs</filename> file
+      (accessible by Options / Access Configuration Folder menu).</para>
+
+      <para>Use <guimenuitem>Ctrl+L<indexterm class="singular">
           <primary>Shortcuts</primary>
 
           <secondary>Project files list - Ctrl+L</secondary>
@@ -902,18 +945,17 @@
 
         <listitem>
           <para>the list of all translatable files in the project. Clicking on
-          any file will open it for translation. Note: filenames (in first
-          column) can be sorted alphabetically by clicking in the header. It
-          also possible to change the position of a filename, by clicking on
-          it and pressing <emphasis>Move ...</emphasis> buttons.</para>
-        </listitem>
-      </itemizedlist>
+          any file will open it for translation.</para>
 
-      <itemizedlist>
-        <listitem>
-          <para>the file currently available in the Editor pane is highlighted
-          with a blue background. Pressing <keycap>Enter</keycap> will move
-          the Editor pane to the top of the file selected</para>
+          <para>Typing any text will open a Filter field where parts of
+          filenames can be entered. You can select a file with
+          <keycap>Up</keycap> and <keycap>Down</keycap> keys, and open it for
+          translation by pressing <keycap>Enter</keycap></para>
+
+          <para>Note: filenames (in first column) can be sorted alphabetically
+          by clicking in the header. It also possible to change the position
+          of a filename, by clicking on it and pressing <emphasis>Move
+          ...</emphasis> buttons.</para>
         </listitem>
       </itemizedlist>
 
