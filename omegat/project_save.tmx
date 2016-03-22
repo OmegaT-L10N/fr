@@ -18133,6 +18133,14 @@ sections when you distribute them as separate works.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If &lt;e0&gt;Show Relevant Suggestions Automatically&lt;/e0&gt; option is checked, Auto-completer is launched automatically by typing the first letter of a translated glossary entry, or by typing "&lt;" in case of tags.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160322T172935Z" creationid="Didier" creationdate="20160322T172935Z">
+        <seg>Si l'option &lt;e0&gt;Afficher automatiquement les suggestions pertinentes&lt;/e0&gt; est cochée, la saisie automatique s'ouvre autoamtiquement en tapant la première lettre de la traduction d'une entrée de glossaire ou un entrant « &lt; » dans le cas des balises.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If &lt;g0&gt;Use Stemming for Glossary Entries&lt;/g0&gt; option is ON, with an English source text, the glossary entry "element" will be found if the source text contains "elements".</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160322T172206Z" creationid="Didier" creationdate="20160322T172206Z">
@@ -21062,6 +21070,14 @@ exécutez simplement le programme d'installation.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20141202T221140Z" creationid="Didier" creationdate="20141202T221140Z">
         <seg>Il permet l'accès à des données publiques et privées, où des glossaires privés (appelés des « collections ») peuvent être extraits à partir de documents existants et les termes cible peuvent être en partie remplis automatiquement à partir de différentes sources.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It also allows to define various options related to tag validation and to define custom tags.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160322T173041Z" creationid="Didier" creationdate="20160322T173041Z">
+        <seg>Elle permet également de définir différentes options liées à la validation des balises et de définir des balises personnalisées.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25195,6 +25211,14 @@ mouse-clicks or menu items--whatever suits your program.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20150313T152152Z" creationid="Didier" creationdate="20150313T152152Z">
         <seg>OmegaT 3.1 - Guide de l'utilisateur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT 3.5 - User's Guide</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160322T173057Z" creationid="Didier" creationdate="20160322T173057Z">
+        <seg>OmegaT 3.5 - Guide de l'utilisateur</seg>
       </tuv>
     </tu>
     <tu>
@@ -40886,6 +40910,14 @@ add Python to your Path.</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130416T204705Z">
         <seg>Pour les traductions entre langues RTL et LTR, il peut être nécessaire, pour lire correctement les balises de la source et les entrer correctement dans la cible, que le traducteur bascule un grand nombre de fois entre les modes LTR et RTL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When translating software-related files: Allows you to configure the Tag Validator options to check also programming (%...) variables.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160322T173013Z" creationid="Didier" creationdate="20160322T173013Z">
+        <seg>Lors de la traduction de fichiers liés à des logiciels : permet de configurer les options de validation des balises afin de vérifier également les variables de programmation (%...).</seg>
       </tuv>
     </tu>
     <tu>
