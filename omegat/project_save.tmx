@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_0_r8225:8227M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_0_r8250" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12881,8 +12881,8 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       <tuv lang="EN">
         <seg>Ctrl+Space</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20141202T170349Z" creationid="Didier" creationdate="20141202T170349Z">
-        <seg>Ctrl+Space</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20160322T165035Z" creationid="Didier" creationdate="20141202T170349Z">
+        <seg>Ctrl+Espace</seg>
       </tuv>
     </tu>
     <tu>
@@ -25686,6 +25686,14 @@ kolteki later.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130502T124308Z">
         <seg>Une fois &lt;a0&gt;OmegaT&lt;/a0&gt; installé, vous pouvez le lancer directement à partir de la ligne de commande, créer un script qui contient les paramètres de lancement de la ligne de commande ou encore cliquer sur &lt;e1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt;.jar&lt;/e1&gt; pour le lancer directement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Once Auto-completer is open, use &lt;e1&gt;Ctrl+Space&lt;/e1&gt; again to switch successively from &lt;e2&gt;Glossaries entries&lt;/e2&gt;, &lt;e3&gt;Auto-text entries,&lt;/e3&gt; &lt;e4&gt;Missing tags&lt;/e4&gt; and &lt;e5&gt;Character table&lt;/e5&gt; options.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160322T165027Z" creationid="Didier" creationdate="20160322T165027Z">
+        <seg>Une fois la saisie automatique ouverte, utilisez &lt;e1&gt;Ctrl+E&lt;/e1&gt; again to switch successively from &lt;e2&gt;Glossaries entries&lt;/e2&gt;, &lt;e3&gt;Auto-text entries,&lt;/e3&gt; &lt;e4&gt;Missing tags&lt;/e4&gt; and &lt;e5&gt;Character table&lt;/e5&gt; options.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46754,6 +46762,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="brigitte" changedate="20130712T175324Z">
         <seg>Avancer d'un mot sur la droite aller plus loin que la fin du segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>open Auto-completer dialog box with contextual suggestions (Mac: &lt;e0&gt;Esc&lt;/e0&gt;).</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160322T164936Z" creationid="Didier" creationdate="20160322T164936Z">
+        <seg>Ouvrir la boîte de dialogue de la saisie automatique avec des suggestions contextuelles (Mac : &lt;e0&gt;Échap&lt;/e0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
