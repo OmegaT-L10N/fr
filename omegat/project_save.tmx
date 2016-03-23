@@ -7146,6 +7146,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Tag validation - Ctrl+Shift+V&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160323T092806Z" creationid="Didier" creationdate="20160323T092806Z">
+        <seg>&lt;p0&gt;Raccourcis&lt;/p0&gt; &lt;s1&gt;Validation des balises - Ctrl+Maj+V&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Tag validation - Ctrl+T&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130502T071723Z">
@@ -21321,6 +21329,14 @@ implemented by public license practices.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is possible to drag and drop files to each pane, which will react accordingly.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160323T092833Z" creationid="Didier" creationdate="20160323T092833Z">
+        <seg>Il est possible de glisser-déplacer des fichiers sur chaque volet, qui réagira en conséquence.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is possible to get a verbose output by adding -v after kolekti.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160119T094139Z" creationid="Didier" creationdate="20160119T094139Z">
@@ -26776,6 +26792,14 @@ of promoting the sharing and reuse of software generally.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130430T141356Z">
         <seg>Les chevauchements résultent d'une mauvaise manipulation d'une paire de balises et entraîneront à coup sûr une altération du formatage. Parfois, le fichier traduit ne pourra même pas s'ouvrir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Overwriting is operating until the TMX is removed from /tm/enforce.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160323T092726Z" creationid="Didier" creationdate="20160323T092726Z">
+        <seg>L'écrasement est mis en œuvre jusqu'à ce que la TMX soit supprimée de /tm/enforce.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37833,6 +37857,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20141202T174936Z" creationid="Didier" creationdate="20141202T174936Z">
         <seg>Pour accéder à &lt;a0&gt;&lt;e1&gt;OmegaT.sh&lt;/e1&gt;&lt;/a0&gt;, faites un clic droit sur &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.app&lt;/e2&gt; et sélectionnez « Afficher le contenu du paquet », puis ouvrez le fichier dans Contents/MacOS avec un clic droit et en sélectionnant l'éditeur de texte de votre choix.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To access the TaaS service, a user must create a key using https://term.tilde.com/account/keys/create?system=omegaT.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160323T092642Z" creationid="Didier" creationdate="20160323T092642Z">
+        <seg>Pour accéder au service TaaS, un utilisateur doit créer une clé en utilisant https://term.tilde.com/account/keys/create?system=omegaT.</seg>
       </tuv>
     </tu>
     <tu>
