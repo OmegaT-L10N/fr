@@ -19566,6 +19566,14 @@ OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you right click on the Editor pane, a pop-up menu opens, offering&lt;e0&gt; Cut, Copy, Paste&lt;/e0&gt; (i.e. same functions as &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;X&lt;/k3&gt; &lt;/k1&gt;, &lt;k4&gt; &lt;k5&gt;Ctrl&lt;/k5&gt; &lt;k6&gt;C&lt;/k6&gt; &lt;/k4&gt; and &lt;k7&gt; &lt;k8&gt;Ctrl&lt;/k8&gt; &lt;k9&gt;V&lt;/k9&gt; &lt;/k7&gt;), &lt;e10&gt;GoTo segment&lt;/e10&gt; and &lt;e11&gt;Add glossary entry&lt;/e11&gt; functions.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160323T093535Z" creationid="Didier" creationdate="20160323T093535Z">
+        <seg>Si vous effectuez un clic droit dans le volet Editeur, un menu contextuel s'ouvre et propose les options&lt;e0&gt; Couper, Copier, Coller&lt;/e0&gt; (soit les mêmes fonctions que les raccourcis &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;X&lt;/k3&gt; &lt;/k1&gt;, &lt;k4&gt; &lt;k5&gt;Ctrl&lt;/k5&gt; &lt;k6&gt;C&lt;/k6&gt; &lt;/k4&gt; et &lt;k7&gt; &lt;k8&gt;Ctrl&lt;/k8&gt; &lt;k9&gt;V&lt;/k9&gt; &lt;/k7&gt;) ainsi que les fonctions &lt;e10&gt;Atteindre un segment&lt;/e10&gt; et &lt;e11&gt;Créer une entrée de glossaire&lt;/e11&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you select a text string (in any pane) before pressing &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt;, the text will be pasted by default in the &lt;g3&gt;Search for&lt;/g3&gt; field.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160322T170811Z" creationid="Didier" creationdate="20160322T170811Z">
@@ -20006,6 +20014,14 @@ the scope of this License.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160322T170352Z" creationid="Didier" creationdate="20160322T170352Z">
         <seg>De plus, deux entrées de menu permettent d'ouvrir directement les documents source et cible actuels ainsi que le glossaire en écriture.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In addition, when the right click occurs on an opened segment, other options concerning &lt;e12&gt;Alternative translations&lt;/e12&gt; are proposed, for example to to jump to another instance of non-unique segments.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160323T093655Z" creationid="Didier" creationdate="20160323T093655Z">
+        <seg>De plus, lorsque le clic droit se produit sur un segment ouvert, d'autres options concernant les &lt;e12&gt;Traductions alternatives&lt;/e12&gt; sont proposées, par exemple de se déplacer à une autre instance d'un segment non unique.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21365,6 +21381,14 @@ implemented by public license practices.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160323T092833Z" creationid="Didier" creationdate="20160323T092833Z">
         <seg>Il est possible de glisser-déplacer des fichiers sur chaque volet, qui réagira en conséquence.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is possible to drag text from anywhere in the main window and to drop it within the segment.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160323T093731Z" creationid="Didier" creationdate="20160323T093731Z">
+        <seg>Il est possible de faire glisser du texte depuis un endroit quelconque de la fenêtre principale et de le déposer dans le segment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33236,6 +33260,14 @@ Les remplacements portent sur les segments cible du projet, qu'ils soient déjà
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130104T150007Z">
         <seg>Texte à supprimer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Texted dragged from outside the target segment is copied, while text dragged from within the segment is moved.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160323T093800Z" creationid="Didier" creationdate="20160323T093800Z">
+        <seg>Le texte provenant de l'extérieur du segment cible est copié, le texte en provenance du segment est déplacé.</seg>
       </tuv>
     </tu>
     <tu>
