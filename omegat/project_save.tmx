@@ -7834,6 +7834,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;r0&gt;Note:&lt;/r0&gt; it is possible to inhibit this Project Files window displaying, by setting &lt;e1&gt;project_files_show_on_load&lt;/e1&gt; to &lt;e2&gt;false&lt;/e2&gt; in &lt;f3&gt;omegat.prefs&lt;/f3&gt; file (accessible by Options / Access Configuration Folder menu).</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160323T093920Z" creationid="Didier" creationdate="20160323T093920Z">
+        <seg>&lt;r0&gt;Note :&lt;/r0&gt; il est possible d'empêcher cette fenêtre des Fichiers du projet de s'afficher, en définissant &lt;e1&gt;project_files_show_on_load&lt;/e1&gt; à &lt;e2&gt;false&lt;/e2&gt; dans &lt;f3&gt;omegat.prefs&lt;/f3&gt; file (accessible par le menu Options / Accéder au dossier de configuration).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;r0&gt;Note:&lt;/r0&gt;On an Apple Mac, use the &lt;k1&gt;Cmd&lt;/k1&gt; or &lt;k2&gt;Apple&lt;/k2&gt; key instead of the &lt;k3&gt;Ctrl&lt;/k3&gt; key</seg>
       </tuv>
       <tuv lang="FR" changeid="brigitte" changedate="20130626T075049Z">
@@ -39249,6 +39257,14 @@ Les recherches exactes correspondent à l'ensemble de la chaîne recherchée.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Typing any text will open a Filter field where parts of filenames can be entered.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160323T094007Z" creationid="Didier" creationdate="20160323T094007Z">
+        <seg>Taper un texte quelconque ouvrira un champ de filtrage dans lequel il est possible d'entrer des noms de fichiers partiels.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Typo3 LocManager</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130531T094158Z">
@@ -42398,6 +42414,14 @@ installation by using the installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130528T123311Z">
         <seg>Vous pouvez considérer ces trois fichiers TMX (&lt;f2&gt;-omegat.tmx&lt;/f2&gt;, &lt;f3&gt;-level1.tmx&lt;/f3&gt; et &lt;f4&gt;-level2.tmx&lt;/f4&gt;) comme une « exportation de la mémoire de traduction », c'est-à-dire une exportation du contenu de votre projet actuel sous forme bilingue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can select a file with &lt;k0&gt;Up&lt;/k0&gt; and &lt;k1&gt;Down&lt;/k1&gt; keys, and open it for translation by pressing &lt;k2&gt;Enter&lt;/k2&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160323T094115Z" creationid="Didier" creationdate="20160323T094115Z">
+        <seg>Il est possible de sélectionner un fichier avec les touches fléchées &lt;k0&gt;Haut&lt;/k0&gt; et &lt;k1&gt;Bas&lt;/k1&gt; et de l'ouvrir dans l'Éditeur en appuyant sur &lt;k2&gt;Entrée&lt;/k2&gt;</seg>
       </tuv>
     </tu>
     <tu>
