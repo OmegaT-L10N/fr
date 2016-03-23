@@ -3636,8 +3636,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>&lt;b0&gt;This formatting&lt;/b0&gt; is going to be duplicated here.&lt;segment 0001&gt;</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130416T143814Z">
-        <seg>&lt;b0&gt;Ce formatage&lt;/b0&gt; va être dupliqué ici.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20160323T093441Z">
+        <seg>&lt;b0&gt;Ce formatage&lt;/b0&gt; va être dupliqué ici.&lt;segment 0001&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20299,6 +20299,14 @@ the limitation as if written in the body of this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In that case, yy is the number of other occurrences of the segment in the project.&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160323T093324Z" creationid="Didier" creationdate="20160323T093226Z">
+        <seg>Dans ce cas, yy est le nombre d'autres occurrences de ce segment dans le projet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In that dialog, it's possible to select All domains or a specific one.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20141202T221855Z" creationid="Didier" creationdate="20141202T221855Z">
@@ -25008,8 +25016,8 @@ Rajout d'une partie approriée, afin que la note de bas de page ne se retrouve p
       <tuv lang="EN">
         <seg>Note: the segment marker displays &lt;l0&gt;&lt;segment nnnn +yy more&gt; when the segment is non-unique.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20160323T093215Z" creationid="Didier" creationdate="20160323T093215Z">
-        <seg>Note : lorsque le segment n'est pas unique, le marqueur de segment affiche &lt;l0&gt;&lt;segment nnnn +yy more&gt;.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20160323T093302Z" creationid="Didier" creationdate="20160323T093215Z">
+        <seg>Note : lorsque le segment n'est pas unique, le marqueur de segment affiche &lt;l0&gt;&lt;segment nnnn +yy de plus d'infos&gt;.</seg>
       </tuv>
     </tu>
     <tu>
