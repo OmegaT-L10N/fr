@@ -14784,6 +14784,14 @@ by the Free Software Foundation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Editor pane: If an OmegaT project file (&lt;f0&gt;omegat.project&lt;/f0&gt;) is dropped on this pane, the corresponding project will be opened, closing first any opened project.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160323T092936Z" creationid="Didier" creationdate="20160323T092936Z">
+        <seg>Volet Éditeur : si un fichier projet OmegaT (&lt;f0&gt;omegat.project&lt;/f0&gt;) est déposé sur ce volet, le projet correspondant sera ouvert, fermant au préalable un éventuel projet ouvert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Either X or Y</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130424T074400Z">
@@ -17008,6 +17016,14 @@ authors of previous versions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Fuzzy Matches pane: Dropped &lt;f0&gt;.tmx&lt;/f0&gt; files will be copied to the &lt;f1&gt;tm&lt;/f1&gt; folder.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160323T093103Z" creationid="Didier" creationdate="20160323T093103Z">
+        <seg>Volet Correspondances : les fichiers &lt;f0&gt;.tmx&lt;/f0&gt; déposés seront copiés dans le dossier &lt;f1&gt;tm&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Fuzzy matches can come from the &lt;f0&gt;/tm&lt;/f0&gt; folder as well - and not just from the internal translation memory in &lt;f1&gt;/omegaT,&lt;/f1&gt; as is the case for repetitions and exact matches.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130507T132133Z">
@@ -17324,6 +17340,14 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130430T090058Z">
         <seg>Volet Glossaires</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Glossary pane: Dropped files with known glossary extensions (&lt;f0&gt;.txt&lt;/f0&gt;, &lt;f1&gt;.tab&lt;/f1&gt;, etc.) will be copied to the &lt;f2&gt;glossary&lt;/f2&gt; folder.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160323T093133Z" creationid="Didier" creationdate="20160323T093133Z">
+        <seg>Volet Glossaires : les fichiers déposés disposant d'extensions connues (&lt;f0&gt;.txt&lt;/f0&gt;, &lt;f1&gt;.tab&lt;/f1&gt;, etc.) seront copiés dans le dossier &lt;f2&gt;glossary&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24982,6 +25006,14 @@ Rajout d'une partie approriée, afin que la note de bas de page ne se retrouve p
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note: the segment marker displays &lt;l0&gt;&lt;segment nnnn +yy more&gt; when the segment is non-unique.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160323T093215Z" creationid="Didier" creationdate="20160323T093215Z">
+        <seg>Note : lorsque le segment n'est pas unique, le marqueur de segment affiche &lt;l0&gt;&lt;segment nnnn +yy more&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Notes</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20110906T131255Z">
@@ -26690,6 +26722,14 @@ Afficher des informations sur l'utilisation.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Autres contributions par :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Other dropped files will be copied to the &lt;f1&gt;source&lt;/f1&gt; folder.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160323T092952Z" creationid="Didier" creationdate="20160323T092952Z">
+        <seg>Les autres fichiers déposés seront copiés dans le dossier &lt;f1&gt;source&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36899,6 +36939,14 @@ under the terms of this General Public License.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130506T095225Z">
         <seg>Ceci étant une règle d'exception, la case Segmentation/Exception doit être décochée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This applies also to the &lt;l2&gt;Project files&lt;/l2&gt; window.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160323T093023Z" creationid="Didier" creationdate="20160323T093023Z">
+        <seg>Cela s'applique également à la fenêtre &lt;l2&gt;Fichiers du projet&lt;/l2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
