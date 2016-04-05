@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_0_r8602" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -19887,6 +19887,14 @@ excuse you from the conditions of this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Importing Wiki Page Failed</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160405T091640Z" creationid="Didier" creationdate="20160405T091640Z">
+        <seg>Échec de l'importation de la page de wiki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Importing and exporting translation memories</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130424T103012Z">
@@ -20828,6 +20836,14 @@ patent against the party.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130326T082223Z">
         <seg>Insérer la balise {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert Unicode Control Character</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160405T091708Z" creationid="Didier" creationdate="20160405T091708Z">
+        <seg>Insérer un caractère de contrôle Unicode</seg>
       </tuv>
     </tu>
     <tu>
@@ -22416,6 +22432,22 @@ Exécutez OmegaT de la façon suivante.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130415T090902Z">
         <seg>Laisse le segment vide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Left-to-Right Embedding (LRE U+202A)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160405T091837Z" creationid="Didier" creationdate="20160405T091837Z">
+        <seg>Début de l'imbrication de gauche à droite (LRE U+202A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Left-to-Right Mark (LRM U+200E)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160405T091747Z" creationid="Didier" creationdate="20160405T091747Z">
+        <seg>Marque de gauche à droite (LRM U+200E)</seg>
       </tuv>
     </tu>
     <tu>
@@ -29316,6 +29348,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130506T112227Z">
         <seg>Un clic-droit sur un mot souligné (Artund dans l'image ci-dessus) ouvre un menu déroulant affichant une liste de suggestions pour la correction (Art und).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Right-to-Left Mark (RLM U+200F)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160405T091758Z" creationid="Didier" creationdate="20160405T091758Z">
+        <seg>Marque de droite à gauche (RLM U+200F)</seg>
       </tuv>
     </tu>
     <tu>
