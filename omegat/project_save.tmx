@@ -9022,6 +9022,14 @@ this License without regard to the additional permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Align Files</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T153812Z" creationid="Didier" creationdate="20160427T153812Z">
+        <seg>Aligner des fichiers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Align project against {0}</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20120131T094721Z">
@@ -9491,6 +9499,14 @@ the predecessor has it or can get it with reasonable efforts.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20151120T153815Z" creationid="Didier" creationdate="20151120T153815Z">
         <seg>Une erreur s'est produite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An error occurred when loading the source files.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T153852Z" creationid="Didier" creationdate="20160427T153852Z">
+        <seg>Une erreur s'est produite durant le chargement des fichiers source.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11073,6 +11089,22 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Changed by</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T153649Z" creationid="Didier" creationdate="20160427T153649Z">
+        <seg>Modifié par</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Changed on</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T153704Z" creationid="Didier" creationdate="20160427T153704Z">
+        <seg>Modifié le</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Changer</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140310T125918Z" creationid="Didier" creationdate="20140310T125918Z">
@@ -11549,6 +11581,14 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140706T175604Z" creationid="Didier" creationdate="20140706T175604Z">
         <seg>Choisir le référentiel SVN sur lequel effectuer le nettoyage</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choose...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T153832Z" creationid="Didier" creationdate="20160427T153832Z">
+        <seg>Parcourir...</seg>
       </tuv>
     </tu>
     <tu>
@@ -12771,10 +12811,26 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Created by</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T153714Z" creationid="Didier" creationdate="20160427T153714Z">
+        <seg>Créé par</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Created by: {0}</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Créé par : {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Created on</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T153719Z" creationid="Didier" creationdate="20160427T153719Z">
+        <seg>Créé le</seg>
       </tuv>
     </tu>
     <tu>
@@ -17916,6 +17972,14 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Has note</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T153738Z" creationid="Didier" creationdate="20160427T153738Z">
+        <seg>Comporte une note</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Hausa</seg>
       </tuv>
       <tuv lang="FR" changeid="etudiant_local" changedate="20130410T125710Z">
@@ -18329,6 +18393,14 @@ parties remain in full compliance.</seg>
       </tuv>
       <tuv lang="FR" changeid="brigitte" changedate="20130714T125221Z">
         <seg>IBM fournit des environnements d'exécution Java JRE pour Linux PowerPC à l'adresse &lt;u0&gt;http://www.ibm.com/developerworks/java/jdk/linux/download.htm&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ID</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T153615Z" creationid="Didier" creationdate="20160427T153615Z">
+        <seg>Identifiant</seg>
       </tuv>
     </tu>
     <tu>
@@ -21478,10 +21550,26 @@ exécutez simplement le programme d'installation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Is alternative</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T153755Z" creationid="Didier" creationdate="20160427T153755Z">
+        <seg>Est une alternative</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Is default translation</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140310T125942Z" creationid="Didier" creationdate="20140310T125942Z">
         <seg>Est une traduction par défaut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Is duplicate</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T153731Z" creationid="Didier" creationdate="20160427T153731Z">
+        <seg>Est un doublon</seg>
       </tuv>
     </tu>
     <tu>
@@ -23741,6 +23829,14 @@ impose that choice.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Match type</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T153801Z" creationid="Didier" creationdate="20160427T153801Z">
+        <seg>Type de correspondance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Matches Changed</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20141101T134350Z" creationid="Didier" creationdate="20141101T134350Z">
@@ -25510,6 +25606,14 @@ Rajout d'une partie approriée, afin que la note de bas de page ne se retrouve p
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160427T152852Z" creationid="Didier" creationdate="20160427T152852Z">
         <seg>Notification (fixe)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Notify Me When a Segment Has "{0}"</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T153558Z" creationid="Didier" creationdate="20160427T153558Z">
+        <seg>M'avertir lorsqu'un segment comporte « {0} »</seg>
       </tuv>
     </tu>
     <tu>
@@ -27564,6 +27668,14 @@ of promoting the sharing and reuse of software generally.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130503T090805Z">
         <seg>Colle le dernier texte importé dans le presse-papier à l'endroit ou se trouve le curseur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Path</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T153645Z" creationid="Didier" creationdate="20160427T153645Z">
+        <seg>Chemin</seg>
       </tuv>
     </tu>
     <tu>
@@ -29836,6 +29948,14 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160427T153134Z" creationid="Didier" creationdate="20160427T153134Z">
         <seg>Résoudre les conflits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Resource name</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T153724Z" creationid="Didier" creationdate="20160427T153724Z">
+        <seg>Nom de la ressource</seg>
       </tuv>
     </tu>
     <tu>
@@ -39827,6 +39947,14 @@ Kaptain.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translation is fuzzy</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T153637Z" creationid="Didier" creationdate="20160427T153637Z">
+        <seg>La traduction est « fuzzy »</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translation last modified by {0} on {1} at {2}</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20091224T133407Z">
@@ -41287,6 +41415,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20120131T094621Z">
         <seg>Validation des balises</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Value</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T153603Z" creationid="Didier" creationdate="20160427T153603Z">
+        <seg>Valeur</seg>
       </tuv>
     </tu>
     <tu>
