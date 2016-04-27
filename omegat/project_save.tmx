@@ -11761,6 +11761,16 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Code has been contributed by:
+Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead developer), Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Tony Graham, Phillip Hall, Jean-Christophe Helary, Chihiro Hio, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, Adiel Mittmann, Hiroshi Miura, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Ilia Vinogradov, Martin Wunderlich and Michael Zakharov</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T150616Z" creationid="Didier" creationdate="20160427T150616Z">
+        <seg>Contributions au code :
+Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (développeur principal), Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Tony Graham, Philippe Hall, Jean-Christophe Helary, Chihiro Hio, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, Adiel Mittmann, Hiroshi Miura, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Ilia Vinogradov, Martin Wunderlich et Michael Zakharov</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Code has been contributed by: 
 Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, Alex Buloichik (lead developer), Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Martin Wunderlich and Michael Zakharov</seg>
       </tuv>
@@ -14880,6 +14890,14 @@ by the Free Software Foundation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Empty repository URL in the mapping</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T150540Z" creationid="Didier" creationdate="20160427T150540Z">
+        <seg>URL de référentiel vide dans le mappage</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enable &amp;TransTips</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20100120T133032Z">
@@ -15574,6 +15592,14 @@ The FSF strongly urges you not to use this translation as the official distribu-
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20151112T142815Z" creationid="Didier" creationdate="20151112T142815Z">
         <seg>Exclure les segments orphelins</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Excludes</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T150426Z" creationid="Didier" creationdate="20160427T150426Z">
+        <seg>Exclusions</seg>
       </tuv>
     </tu>
     <tu>
@@ -20704,6 +20730,14 @@ patent against the party.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Includes</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T150430Z" creationid="Didier" creationdate="20160427T150430Z">
+        <seg>Inclusions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Incompatibilities</seg>
       </tuv>
       <tuv lang="FR" changeid="jchelary" changedate="20130526T100840Z">
@@ -21214,6 +21248,14 @@ exécutez simplement le programme d'installation.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20110516T172256Z">
         <seg>Format de fichier non valide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Invalid repository type: {0}</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T150501Z" creationid="Didier" creationdate="20160427T150501Z">
+        <seg>Type de référentiel non valide : {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -22271,6 +22313,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LanguageTool 3.2 (LGPL License and others)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T150640Z" creationid="Didier" creationdate="20160427T150640Z">
+        <seg>LanguageTool 3.2 (licence LGPL et autres)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LanguageTool plugin</seg>
       </tuv>
       <tuv lang="FR" changeid="laurieetclémentine" changedate="20130411T094809Z">
@@ -22706,6 +22756,14 @@ automatically download and install it.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Chargement : {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Local</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T150418Z" creationid="Didier" creationdate="20160427T150418Z">
+        <seg>Local</seg>
       </tuv>
     </tu>
     <tu>
@@ -23173,6 +23231,14 @@ impose that choice.</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130419T191952Z">
         <seg>De nombreuses personnes ont fait de généreuses contributions au large spectre de logiciels distribués par ce système en se fiant à l'application cohérente de ce système ; il appartient à chaque auteur/donateur de décider si il ou elle veut distribuer du logiciel par l'intermédiaire d'un quelconque autre système et un concessionaire ne peut imposer ce choix.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mapping of Local Folders to Remote Folders in Repositories</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T150412Z" creationid="Didier" creationdate="20160427T150412Z">
+        <seg>Mappage des dossiers locaux avec les dossiers distants des référentiels</seg>
       </tuv>
     </tu>
     <tu>
@@ -28806,6 +28872,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remote</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T150422Z" creationid="Didier" creationdate="20160427T150422Z">
+        <seg>Distant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160427T150330Z" creationid="Didier" creationdate="20160427T150330Z">
@@ -29264,6 +29338,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Repository</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T150416Z" creationid="Didier" creationdate="20160427T150416Z">
+        <seg>Référentiel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Repository Mapping</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160427T150321Z" creationid="Didier" creationdate="20160427T150321Z">
@@ -29292,6 +29374,22 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20120420T211040Z">
         <seg>URL du référentiel :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repository {0} is already present</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T150515Z" creationid="Didier" creationdate="20160427T150515Z">
+        <seg>Le référentiel {0} est déjà présent</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repository {0} unknown</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T150524Z" creationid="Didier" creationdate="20160427T150524Z">
+        <seg>Le référentiel {0} est inconnu</seg>
       </tuv>
     </tu>
     <tu>
@@ -46410,6 +46508,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T100019Z">
         <seg>jpn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>jsch-agent-proxy (jsch-agent-proxy License)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T150626Z" creationid="Didier" creationdate="20160427T150626Z">
+        <seg>jsch-agent-proxy (licence jsch-agent-proxy License)</seg>
       </tuv>
     </tu>
     <tu>
