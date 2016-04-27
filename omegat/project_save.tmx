@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_0_r8749:8755" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_0_r8749:8757" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -25884,48 +25884,48 @@ Rajout d'une partie approriée, afin que la note de bas de page ne se retrouve p
       <tuv lang="EN">
         <seg>Notify Me When a Segment Has Comments</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20160427T151009Z" creationid="Didier" creationdate="20160427T151009Z">
-        <seg>M'avertir lorsqu'un segment a des commentaires</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T175816Z" creationid="Didier" creationdate="20160427T151009Z">
+        <seg>M'avertir lorsqu'un segment comporte des commentaires</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Notify Me When a Segment Has Dictionary Entries</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20160427T150952Z" creationid="Didier" creationdate="20160427T150952Z">
-        <seg>M'avertir lorsqu'un segment a des entrées de dictionnaire</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T175736Z" creationid="Didier" creationdate="20160427T150952Z">
+        <seg>M'avertir lorsqu'un segment comporte des entrées de dictionnaire</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Notify Me When a Segment Has Fuzzy Matches</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20160427T150809Z" creationid="Didier" creationdate="20160427T150809Z">
-        <seg>M'avertir lorsqu'un segment a des correspondances</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T175725Z" creationid="Didier" creationdate="20160427T150809Z">
+        <seg>M'avertir lorsqu'un segment comporte des correspondances</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Notify Me When a Segment Has Glossary Hits</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20160427T150917Z" creationid="Didier" creationdate="20160427T150917Z">
-        <seg>M'avertir lorsqu'un segment a des entrées de glossaire</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T175729Z" creationid="Didier" creationdate="20160427T150917Z">
+        <seg>M'avertir lorsqu'un segment comporte des entrées de glossaire</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Notify Me When a Segment Has Multiple Translations</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20160427T151105Z" creationid="Didier" creationdate="20160427T151105Z">
-        <seg>M'avertir lorsqu'un segment a plusieurs traductions</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T175823Z" creationid="Didier" creationdate="20160427T151105Z">
+        <seg>M'avertir lorsqu'un segment comporte plusieurs traductions</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Notify Me When a Segment Has Notes</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20160427T160741Z" creationid="Didier" creationdate="20160427T160741Z">
-        <seg>M'avertir lorsqu'un segment a des notes</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T175742Z" creationid="Didier" creationdate="20160427T160741Z">
+        <seg>M'avertir lorsqu'un segment comporte des notes</seg>
       </tuv>
     </tu>
     <tu>
