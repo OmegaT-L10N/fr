@@ -1216,6 +1216,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Replace..</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T151335Z" creationid="Didier" creationdate="20160427T151335Z">
+        <seg>Remplacer...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Reset This Colour</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20150225T095618Z" creationid="Didier" creationdate="20150225T095618Z">
@@ -17650,6 +17658,14 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Goto &amp;Line...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T151347Z" creationid="Didier" creationdate="20160427T151347Z">
+        <seg>Atteindre la &amp;ligne...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Greek, Modern</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130412T082423Z">
@@ -27620,6 +27636,14 @@ pour déterminer la source de l'erreur et faites une nouvelle tentative.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please enter the name of this set:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T151553Z" creationid="Didier" creationdate="20160427T151553Z">
+        <seg>Veuillez entrer le nom de cette configuration :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please enter username/password</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20120420T210807Z">
@@ -30084,6 +30108,14 @@ REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Save Current Set...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T151544Z" creationid="Didier" creationdate="20160427T151544Z">
+        <seg>Enregistrer la configuration actuelle...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Save Script</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20111028T125155Z">
@@ -31333,6 +31365,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sets</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T151527Z" creationid="Didier" creationdate="20160427T151527Z">
+        <seg>Configurations</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sets of segmentation rules:</seg>
       </tuv>
       <tuv lang="FR">
@@ -31601,6 +31641,22 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20151112T142755Z" creationid="Didier" creationdate="20151112T142755Z">
         <seg>Afficher les options avan&amp;cées</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show Find Search Bar</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T151400Z" creationid="Didier" creationdate="20160427T151400Z">
+        <seg>Afficher la barre de recherche</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show Replace Search Bar</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T151408Z" creationid="Didier" creationdate="20160427T151408Z">
+        <seg>Afficher la barre de remplacement</seg>
       </tuv>
     </tu>
     <tu>
