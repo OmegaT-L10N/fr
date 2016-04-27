@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_0_r8602" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_0_r8749" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -340,6 +340,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="FR">
         <seg>A&amp;jouter...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Align Files...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T142610Z" creationid="Didier" creationdate="20160427T142610Z">
+        <seg>&amp;Aligner des fichiers...</seg>
       </tuv>
     </tu>
     <tu>
@@ -12515,6 +12523,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
       <tuv lang="FR" changeid="laurieetclémentine" changedate="20130411T134136Z">
         <seg>Créer une entrée de glossaire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create MED Project</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T142523Z" creationid="Didier" creationdate="20160427T142523Z">
+        <seg>Créer projet MED</seg>
       </tuv>
     </tu>
     <tu>
@@ -26366,6 +26382,14 @@ happen should you file a bug report.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open MED Project</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T142506Z" creationid="Didier" creationdate="20160427T142506Z">
+        <seg>Ouvrir projet MED</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open Project</seg>
       </tuv>
       <tuv lang="FR">
@@ -26482,6 +26506,22 @@ happen should you file a bug report.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130527T131857Z">
         <seg>Ouvrez l'affichage &lt;e0&gt;Projects&lt;/e0&gt; de votre compte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open {0} Source Files</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T142645Z" creationid="Didier" creationdate="20160427T142645Z">
+        <seg>Ouvrir {0} fichiers source</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open {0} Source Files' Locations</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T142710Z" creationid="Didier" creationdate="20160427T142710Z">
+        <seg>Ouvrir {0} emplacements de fichiers source</seg>
       </tuv>
     </tu>
     <tu>
