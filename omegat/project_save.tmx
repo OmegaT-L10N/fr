@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_0_r8749:8752" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_0_r8749:8753" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -21318,8 +21318,8 @@ patent against the party.</seg>
       <tuv lang="EN">
         <seg>Initially load this many segments:</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20160115T140322Z" creationid="Didier" creationdate="20160115T140322Z">
-        <seg>Nom de segment à charger initialement :</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T164025Z" creationid="Didier" creationdate="20160115T140322Z">
+        <seg>Nombre de segments à charger initialement :</seg>
       </tuv>
     </tu>
     <tu>
@@ -30154,8 +30154,8 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
       <tuv lang="EN">
         <seg>Repository Credentials</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20160427T152629Z" creationid="Didier" creationdate="20160427T152629Z">
-        <seg>Informations d'identification du référentiel.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T163912Z" creationid="Didier" creationdate="20160427T152629Z">
+        <seg>Informations d'identification du référentiel</seg>
       </tuv>
     </tu>
     <tu>
@@ -51183,6 +51183,16 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160115T161731Z" creationid="Didier" creationdate="20160115T161731Z">
         <seg>E&amp;xporter le segment dans des fichiers texte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">src/org/omegat/Bundle.properties</prop>
+      <prop type="id">ALIGNER_MENU_OPTIONS_SEGMENT</prop>
+      <tuv lang="EN">
+        <seg>Segment</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T163840Z" creationid="Didier" creationdate="20160427T163840Z">
+        <seg>Segmenter</seg>
       </tuv>
     </tu>
     <tu>
