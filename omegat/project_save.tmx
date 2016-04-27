@@ -10361,6 +10361,14 @@ provoquer des comportements inattendus, mais corrects.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Average Score: {0}</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T155821Z" creationid="Didier" creationdate="20160427T155821Z">
+        <seg>Score moyen : {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Avestan</seg>
       </tuv>
       <tuv lang="FR" changeid="etudiant_local" changedate="20130410T124428Z">
@@ -12189,6 +12197,14 @@ kolekti -b C:\[...]\trunk\doc_src2 publish [-j JOB] -l fr,en C:\[...]\trunk\doc_
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Comparison Mode:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T155816Z" creationid="Didier" creationdate="20160427T155816Z">
+        <seg>Mode de comparaison :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Compress whitespace in translated document</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20120914T162147Z">
@@ -12409,6 +12425,14 @@ Une liste blanche en expression régulière des fichiers source à traiter.</seg
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130416T093837Z">
         <seg>Contenu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Continue</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T155935Z" creationid="Didier" creationdate="20160427T155935Z">
+        <seg>Continuer</seg>
       </tuv>
     </tu>
     <tu>
@@ -12703,6 +12727,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20150514T135207Z" creationid="Didier" creationdate="20150514T135207Z">
         <seg>Compter le texte protégé et les balises personnalisées dans les &amp;statistiques</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Counter:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T155808Z" creationid="Didier" creationdate="20160427T155808Z">
+        <seg>Compteur :</seg>
       </tuv>
     </tu>
     <tu>
@@ -14176,6 +14208,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20120307T084157Z">
         <seg>Affiche la traduction du segment source effectuée par les services de traductions automatiques sélectionnés dans Options &gt; Traduction automatique si ces services sont disponibles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Distance</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T160047Z" creationid="Didier" creationdate="20160427T160047Z">
+        <seg>Distance</seg>
       </tuv>
     </tu>
     <tu>
@@ -16486,6 +16526,14 @@ The FSF strongly urges you not to use this translation as the official distribu-
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Filters...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T155859Z" creationid="Didier" creationdate="20160427T155859Z">
+        <seg>Filtres...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Finally, any free program is threatened constantly by software
 patents.</seg>
       </tuv>
@@ -18056,6 +18104,14 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       </tuv>
       <tuv lang="FR">
         <seg>&amp;En-têtes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Heapwise</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T155849Z" creationid="Didier" creationdate="20160427T155849Z">
+        <seg>Globale</seg>
       </tuv>
     </tu>
     <tu>
@@ -22383,6 +22439,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130519T100755Z">
         <seg>Kazakh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Keep</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T160051Z" creationid="Didier" creationdate="20160427T160051Z">
+        <seg>Conserver</seg>
       </tuv>
     </tu>
     <tu>
@@ -27752,6 +27816,14 @@ of promoting the sharing and reuse of software generally.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Parsewise</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T155840Z" creationid="Didier" creationdate="20160427T155840Z">
+        <seg>Par segments</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Parsewise Comparison</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160427T155654Z" creationid="Didier" creationdate="20160427T155654Z">
@@ -27828,6 +27900,14 @@ of promoting the sharing and reuse of software generally.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Masque avant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pattern...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T155905Z" creationid="Didier" creationdate="20160427T155905Z">
+        <seg>Masques...</seg>
       </tuv>
     </tu>
     <tu>
@@ -27924,6 +28004,14 @@ of promoting the sharing and reuse of software generally.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20121004T152549Z">
         <seg>Phillip Hall</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pinpoint Align: Select corresponding cell</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T160041Z" creationid="Didier" creationdate="20160427T160041Z">
+        <seg>Alignement précis : sélectionner la cellule correspondante</seg>
       </tuv>
     </tu>
     <tu>
@@ -30264,6 +30352,14 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Row</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T160045Z" creationid="Didier" creationdate="20160427T160045Z">
+        <seg>Ligne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Rule</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140604T063901Z" creationid="Didier" creationdate="20140604T063901Z">
@@ -30276,6 +30372,14 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130423T171339Z">
         <seg>Priorité de la règle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Rules...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T155855Z" creationid="Didier" creationdate="20160427T155855Z">
+        <seg>Règles...</seg>
       </tuv>
     </tu>
     <tu>
@@ -30606,6 +30710,14 @@ REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="FR" changeid="laurieetclémentine" changedate="20130411T133704Z">
         <seg>Enregistrer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Save Alignment Results</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T160100Z" creationid="Didier" creationdate="20160427T160100Z">
+        <seg>Enregistrer les résultats de l'alignement</seg>
       </tuv>
     </tu>
     <tu>
@@ -33138,6 +33250,22 @@ patents cannot be used to render the program non-free.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140725T163523Z" creationid="Didier" creationdate="20140725T163523Z">
         <seg>Lemmatisation, aucune balise et aucun nombre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Step 1: Adjust alignment parameters</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T160003Z" creationid="Didier" creationdate="20160427T160003Z">
+        <seg>Étape 1 : ajuster les paramètres d'alignement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Step 2: Make manual corrections</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T160016Z" creationid="Didier" creationdate="20160427T160016Z">
+        <seg>Étape 2 : apporter des corrections manuelles</seg>
       </tuv>
     </tu>
     <tu>
@@ -50816,6 +50944,22 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140310T125849Z" creationid="Didier" creationdate="20140310T125849Z">
         <seg>← Précédent</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>▲</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T155827Z" creationid="Didier" creationdate="20160427T155827Z">
+        <seg>▲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>▼</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T155829Z" creationid="Didier" creationdate="20160427T155829Z">
+        <seg>▼</seg>
       </tuv>
     </tu>
     <tu>
