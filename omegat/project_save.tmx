@@ -1811,6 +1811,16 @@ your programs, too.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(You will still able to use OmegaT
+3.x to edit this project as a team project.)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T152148Z" creationid="Didier" creationdate="20160427T152148Z">
+        <seg>(Vous pourrez continuer à utiliser OmegaT
+3.x pour modifier ce projet en tant que projet en équipe.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(\b\w+\b)\s\1\b</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T105142Z">
@@ -27636,6 +27646,16 @@ pour déterminer la source de l'erreur et faites une nouvelle tentative.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please contact your project administrator to find out if any
+additional steps need to be taken.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T152237Z" creationid="Didier" creationdate="20160427T152237Z">
+        <seg>Veuillez contacter votre administrateur du projet pour vérifier si
+étapes supplémentaires sont nécessaires.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please correct the tag issues before using again Create Translated Documents.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130326T082452Z">
@@ -27938,6 +27958,24 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20141202T173247Z" creationid="Didier" creationdate="20141202T173247Z">
         <seg>Préserver les espaces pour toutes les balises : cochez cette option si les documents source contiennent des espaces significatifs (pour des raisons de mise en page) qui ne doivent pas être ignorés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Press 'Cancel' to leave the project unmodified and load it as a local
+project without team functionality.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T152117Z" creationid="Didier" creationdate="20160427T152117Z">
+        <seg>Appuyez sur « Annuler » pour que le projet reste inchangé et qu'il soit
+chargé comme un projet local sans fonctionnalité d'équipe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Press 'OK' to convert the project into a 4.0-style team project.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T151946Z" creationid="Didier" creationdate="20160427T151946Z">
+        <seg>Appuyez sur « OK » pour convertir ce projet en projet en équipe de type 4.0.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36016,6 +36054,14 @@ modification follow.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The project was converted successfully.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T152207Z" creationid="Didier" creationdate="20160427T152207Z">
+        <seg>Le projet a été converti avec succès.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The project will be loaded as a local project without team functionality.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160427T151741Z" creationid="Didier" creationdate="20160427T151741Z">
@@ -37378,6 +37424,18 @@ using it.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130503T075636Z">
         <seg>La présente Licence Publique Générale s'applique à la plupart des logiciels de la Free Software Foundation, ainsi qu'à tout autre programme pour lequel ses auteurs s'engagent à l'utiliser.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This
+will delete your local data and re-download the project contents from
+the server.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T152027Z" creationid="Didier" creationdate="20160427T152027Z">
+        <seg>Cela
+supprimera vos données locales et téléchargera à nouveau le contenu du
+projet depuis le serveur.</seg>
       </tuv>
     </tu>
     <tu>
