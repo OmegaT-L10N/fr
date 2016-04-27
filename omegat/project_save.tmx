@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_0_r8749" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_0_r8749:8752" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9619,6 +9619,14 @@ Le fichier ne sera pas chargé.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An existing translation was changed to something different from what you chose.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T163009Z" creationid="Didier" creationdate="20160427T163009Z">
+        <seg>Une traduction existante a été modifiée différemment de celle que vous aviez choisie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An extra command line parameter specific to console mode: &lt;l0&gt;--quiet.&lt;/l0&gt; In the quiet mode, less info is logged to the screen.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130502T142541Z">
@@ -10933,6 +10941,14 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20150713T083957Z" creationid="Didier" creationdate="20150713T083957Z">
         <seg>Document cible &amp;actuel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Calculator:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T163112Z" creationid="Didier" creationdate="20160427T163112Z">
+        <seg>Calcul :</seg>
       </tuv>
     </tu>
     <tu>
