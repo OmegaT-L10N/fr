@@ -9048,8 +9048,8 @@ this License without regard to the additional permissions.</seg>
       <tuv lang="EN">
         <seg>Aligner "Needs Review" Group</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20160427T153004Z" creationid="Didier" creationdate="20160427T153004Z">
-        <seg>Groupe d'alignement « vérification nécessaire »</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T154023Z" creationid="Didier" creationdate="20160427T153004Z">
+        <seg>Groupe d'alignement « à vérifier »</seg>
       </tuv>
     </tu>
     <tu>
@@ -11585,6 +11585,22 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose Source File</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T153859Z" creationid="Didier" creationdate="20160427T153859Z">
+        <seg>Choisir un fichier source</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choose Target File</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T153910Z" creationid="Didier" creationdate="20160427T153910Z">
+        <seg>Choisir un fichier cible</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose...</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160427T153832Z" creationid="Didier" creationdate="20160427T153832Z">
@@ -11621,6 +11637,14 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130917T085535Z" creationid="Didier" creationdate="20130917T085535Z">
         <seg>Effacer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Clear Mark</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T154033Z" creationid="Didier" creationdate="20160427T154033Z">
+        <seg>Effacer la marque</seg>
       </tuv>
     </tu>
     <tu>
@@ -22307,10 +22331,26 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Keep All</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T154112Z" creationid="Didier" creationdate="20160427T154112Z">
+        <seg>Conserver tout</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Keep Mine</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160427T153246Z" creationid="Didier" creationdate="20160427T153246Z">
         <seg>Conserver ma version</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Keep None</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T154122Z" creationid="Didier" creationdate="20160427T154122Z">
+        <seg>Ne rien conserver</seg>
       </tuv>
     </tu>
     <tu>
@@ -23645,6 +23685,14 @@ impose that choice.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mark Accepted</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T153950Z" creationid="Didier" creationdate="20160427T153950Z">
+        <seg>Marquer accepté</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mark Auto-Populated Segments</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140224T151527Z" creationid="Didier" creationdate="20140224T151527Z">
@@ -23657,6 +23705,14 @@ impose that choice.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130104T145940Z">
         <seg>Marquer les caractères de contrôle de bidirectionnalité</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark Needs Review</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T154011Z" creationid="Didier" creationdate="20160427T154011Z">
+        <seg>Marquer à vérifier</seg>
       </tuv>
     </tu>
     <tu>
@@ -29014,6 +29070,14 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Realign Pending</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T154100Z" creationid="Didier" creationdate="20160427T154100Z">
+        <seg>Réaligner les éléments en attente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Recoverable error on line {0}, column {1} while parsing:</seg>
       </tuv>
       <tuv lang="FR">
@@ -29936,6 +30000,14 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Reset</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T153934Z" creationid="Didier" creationdate="20160427T153934Z">
+        <seg>Réinitialiser</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Reset &amp;All Colours</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20150225T095654Z" creationid="Didier" creationdate="20150225T095654Z">
@@ -30486,6 +30558,14 @@ REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20111028T125155Z">
         <seg>Enregistrer le script</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Save TMX...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T153927Z" creationid="Didier" creationdate="20160427T153927Z">
+        <seg>Enregistrer la TMX...</seg>
       </tuv>
     </tu>
     <tu>
@@ -32848,6 +32928,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Split</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T153941Z" creationid="Didier" creationdate="20160427T153941Z">
+        <seg>Fractionner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Standard</seg>
       </tuv>
       <tuv lang="FR">
@@ -33214,6 +33302,14 @@ address new problems or concerns.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140617T181516Z" creationid="Didier" creationdate="20140617T181516Z">
         <seg>SuperTMXMerge-for_OmegaT.jar (licence LGPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Supported Files</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T153919Z" creationid="Didier" creationdate="20160427T153919Z">
+        <seg>Fichiers pris en charge</seg>
       </tuv>
     </tu>
     <tu>
@@ -39557,6 +39653,14 @@ Kaptain.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20120411T092718Z">
         <seg>Pour utiliser ce script, vous devez tout d'abord installer Kaptain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Toggle Selected</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T154136Z" creationid="Didier" creationdate="20160427T154136Z">
+        <seg>Inverser la sélection</seg>
       </tuv>
     </tu>
     <tu>
