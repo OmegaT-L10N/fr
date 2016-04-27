@@ -4932,6 +4932,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;html&gt;Repository or Project&lt;br&gt;file (omegat.project) URL:&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T152319Z" creationid="Didier" creationdate="20160427T152319Z">
+        <seg>&lt;html&gt;Fichier référentiel ou&lt;br&gt;projet (omegat.project) URL :&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;html&gt;The SVN team project is currently opened.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20151117T153048Z" creationid="Didier" creationdate="20151117T153048Z">
@@ -9443,6 +9451,14 @@ the predecessor has it or can get it with reasonable efforts.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20151120T153815Z" creationid="Didier" creationdate="20151120T153815Z">
         <seg>Une erreur s'est produite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An error occurred when trying to detect the project file.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T152429Z" creationid="Didier" creationdate="20160427T152429Z">
+        <seg>Une erreur s'est produite durant la tentative de détection du fichier projet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15328,6 +15344,14 @@ by the Free Software Foundation.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20110924T124503Z">
         <seg>Erreur de lecture d'une TMX niveau 2 à la ligne {0}, colonne {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error retrieve {0} as remote project file</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T152516Z" creationid="Didier" creationdate="20160427T152516Z">
+        <seg>Erreur de récupération de {0} comme fichier projet distant.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22882,6 +22906,14 @@ automatically download and install it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Local Project Folder:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T152329Z" creationid="Didier" creationdate="20160427T152329Z">
+        <seg>Dossier du projet local :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Local translation not synchronized with remote repository.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20120420T211429Z">
@@ -27930,6 +27962,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Predefined credentials was not passed.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T152455Z" creationid="Didier" creationdate="20160427T152455Z">
+        <seg>Les informations d'identification prédéfinies n'ont pas été transmises.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Preferences system save operation failed!</seg>
       </tuv>
       <tuv lang="FR">
@@ -28314,6 +28354,14 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Démarrage de la création du projet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project file should be on http protocol.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T152358Z" creationid="Didier" creationdate="20160427T152358Z">
+        <seg>Le fichier projet devrait utiliser le protocole http.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37839,6 +37887,14 @@ under the terms of this General Public License.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140617T181858Z" creationid="Didier" creationdate="20140617T181858Z">
         <seg>Il s'agit d'un référentiel Subversion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is a valid project file.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T152440Z" creationid="Didier" creationdate="20160427T152440Z">
+        <seg>Il s'agit d'un fichier projet valide.</seg>
       </tuv>
     </tu>
     <tu>
