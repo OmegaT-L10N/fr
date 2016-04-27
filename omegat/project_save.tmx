@@ -4924,6 +4924,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;html&gt;Add patterns using wildcards (Apache Ant style): &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;?&lt;/code&gt;, &lt;code&gt;**&lt;/code&gt;&lt;br&gt;Example: &lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T152822Z" creationid="Didier" creationdate="20160427T152822Z">
+        <seg>&lt;html&gt;Ajouter des masques en utilisant des caractères joker (de type Apache Ant) : &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;?&lt;/code&gt;, &lt;code&gt;**&lt;/code&gt;&lt;br&gt;Example: &lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;html&gt;Per-project external commands are disabled and will not be executed.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130125T163526Z">
@@ -13251,6 +13259,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Custom Colours</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T152828Z" creationid="Didier" creationdate="20160427T152828Z">
+        <seg>Couleurs personnalisées</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Custom Colours Selection</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20141020T095111Z" creationid="Didier" creationdate="20141020T095111Z">
@@ -15004,6 +15020,30 @@ by the Free Software Foundation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enable autotext</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T152719Z" creationid="Didier" creationdate="20160427T152719Z">
+        <seg>Activer le texte automatique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enable character table</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T152727Z" creationid="Didier" creationdate="20160427T152727Z">
+        <seg>Activer la table des caractères</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enable glossary suggestions</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T152646Z" creationid="Didier" creationdate="20160427T152646Z">
+        <seg>Activer les suggestions de glossaire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enable them in &lt;b&gt;Options &gt; Save...&lt;/b&gt;.&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130125T163541Z">
@@ -15698,6 +15738,14 @@ The FSF strongly urges you not to use this translation as the official distribu-
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160427T150426Z" creationid="Didier" creationdate="20160427T150426Z">
         <seg>Exclusions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exclusion Patterns</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T152734Z" creationid="Didier" creationdate="20160427T152734Z">
+        <seg>Masques d'exclusion</seg>
       </tuv>
     </tu>
     <tu>
@@ -25402,6 +25450,22 @@ Rajout d'une partie approriée, afin que la note de bas de page ne se retrouve p
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Notification (flash)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T152858Z" creationid="Didier" creationdate="20160427T152858Z">
+        <seg>Notification (clignotante)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Notification (steady)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T152852Z" creationid="Didier" creationdate="20160427T152852Z">
+        <seg>Notification (fixe)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Notify Me When a Segment Has Comments</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160427T151009Z" creationid="Didier" creationdate="20160427T151009Z">
@@ -29604,6 +29668,14 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160427T150416Z" creationid="Didier" creationdate="20160427T150416Z">
         <seg>Référentiel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repository Credentials</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T152629Z" creationid="Didier" creationdate="20160427T152629Z">
+        <seg>Informations d'identification du référentiel.</seg>
       </tuv>
     </tu>
     <tu>
