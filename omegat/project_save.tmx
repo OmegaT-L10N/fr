@@ -4940,6 +4940,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;html&gt;Place the caret at the location where you want to split the text.&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T160254Z" creationid="Didier" creationdate="20160427T160254Z">
+        <seg>&lt;html&gt;Placer le curseur à l'emplacement où vous voulez fractionner le texte.&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;html&gt;Repository or Project&lt;br&gt;file (omegat.project) URL:&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160427T152319Z" creationid="Didier" creationdate="20160427T152319Z">
@@ -9527,6 +9535,14 @@ the predecessor has it or can get it with reasonable efforts.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An error occurred when saving the TMX.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T160147Z" creationid="Didier" creationdate="20160427T160147Z">
+        <seg>Une erreur s'est produite durant l'enregistrement de la TMX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An error occurred when trying to detect the project file.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160427T152429Z" creationid="Didier" creationdate="20160427T152429Z">
@@ -9646,6 +9662,14 @@ menu, a prominent item in the list meets this criterion.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20150525T145143Z" creationid="Didier" creationdate="20150525T145143Z">
         <seg>Un élément nommé « {0} » existe déjà a cet emplacement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An item of the name "{0}" already exists at this location.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T160126Z" creationid="Didier" creationdate="20160427T160126Z">
+        <seg>En élément nommé « {0} » existe déjà à cet emplacement.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12437,6 +12461,22 @@ Une liste blanche en expression régulière des fichiers source à traiter.</seg
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Continue anyway?</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T160348Z" creationid="Didier" creationdate="20160427T160348Z">
+        <seg>Continuer quand même ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Continue?</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T160208Z" creationid="Didier" creationdate="20160427T160208Z">
+        <seg>Continuer ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Contributing to &lt;a0&gt;OmegaT&lt;/a0&gt; project</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130528T131520Z">
@@ -14348,6 +14388,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Do you want to overwrite it?</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T160136Z" creationid="Didier" creationdate="20160427T160136Z">
+        <seg>Voulez-vous le remplacer ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Do you want to replace it with the one you're moving?</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20150525T145157Z" creationid="Didier" creationdate="20150525T145157Z">
@@ -15012,6 +15060,14 @@ by the Free Software Foundation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Edit Highlight Pattern</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T160225Z" creationid="Didier" creationdate="20160427T160225Z">
+        <seg>Modifier le masque de mise en évidence</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Edit Menu</seg>
       </tuv>
       <tuv lang="FR" changeid="laurieetclémentine" changedate="20130411T133827Z">
@@ -15032,6 +15088,14 @@ by the Free Software Foundation.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Modifier le Projet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit Text</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T160215Z" creationid="Didier" creationdate="20160427T160215Z">
+        <seg>Modifier le texte</seg>
       </tuv>
     </tu>
     <tu>
@@ -30754,6 +30818,22 @@ REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Save changes to filter settings?</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T160318Z" creationid="Didier" creationdate="20160427T160318Z">
+        <seg>Enregistrer les modifications des paramètres des filtres ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Save changes to segmentation rules?</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T160308Z" creationid="Didier" creationdate="20160427T160308Z">
+        <seg>Enregistrer les modifications des règles de segmentation ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Save then the file and relaunch &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="laurieetclémentine" changedate="20130411T132500Z">
@@ -32575,6 +32655,14 @@ Traduction supprimée car ne concerne pas le français.</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Some alignments still need review.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T160334Z" creationid="Didier" creationdate="20160427T160334Z">
+        <seg>Certains alignements doivent encore être vérifiés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Some devices are designed to deny users access to install or run
 modified versions of the software inside them, although the manufacturer
 can do so. This is fundamentally incompatible with the aim of
@@ -33116,6 +33204,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160427T153941Z" creationid="Didier" creationdate="20160427T153941Z">
         <seg>Fractionner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Split Text</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T160232Z" creationid="Didier" creationdate="20160427T160232Z">
+        <seg>Fractionner le texte</seg>
       </tuv>
     </tu>
     <tu>
@@ -38975,6 +39071,14 @@ be a consequence of the rest of this License.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130502T112909Z">
         <seg>Cela va créer un dossier omegat/ (dans le dossier de travail en cours) à l'intérieur duquel vous trouverez tous les fichiers nécessaires à l'exécution d'&lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This will discard all changes you have made so far.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T160205Z" creationid="Didier" creationdate="20160427T160205Z">
+        <seg>Cela annulera toutes les modifications effectuées jusqu'à présent.</seg>
       </tuv>
     </tu>
     <tu>
