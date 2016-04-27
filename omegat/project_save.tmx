@@ -720,6 +720,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Find...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T151205Z" creationid="Didier" creationdate="20160427T151205Z">
+        <seg>&amp;Rechercher...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Finish</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140421T122902Z" creationid="Didier" creationdate="20140421T122902Z">
@@ -1004,6 +1012,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="FR">
         <seg>&amp;Jamais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;New Script</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T151142Z" creationid="Didier" creationdate="20160427T151142Z">
+        <seg>&amp;Nouveau script</seg>
       </tuv>
     </tu>
     <tu>
@@ -8534,6 +8550,14 @@ or that patent license was granted, prior to 28 March 2007.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Access Scripts Folder</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T151154Z" creationid="Didier" creationdate="20160427T151154Z">
+        <seg>Accéder au dossier des scripts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Accessing the TaaS service</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20141202T221453Z" creationid="Didier" creationdate="20141202T221453Z">
@@ -8554,6 +8578,14 @@ or that patent license was granted, prior to 28 March 2007.</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130412T015255Z">
         <seg>Action</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Actions &amp; Settings</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T151039Z" creationid="Didier" creationdate="20160427T151039Z">
+        <seg>Actions et paramètres</seg>
       </tuv>
     </tu>
     <tu>
@@ -15736,6 +15768,14 @@ The FSF strongly urges you not to use this translation as the official distribu-
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20101001T213012Z">
         <seg>Options des TMX externes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>External TMX Options...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T151047Z" creationid="Didier" creationdate="20160427T151047Z">
+        <seg>Options des TMX externes...</seg>
       </tuv>
     </tu>
     <tu>
@@ -25280,6 +25320,14 @@ Rajout d'une partie approriée, afin que la note de bas de page ne se retrouve p
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Notify Me When a Segment Has Comments</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T151009Z" creationid="Didier" creationdate="20160427T151009Z">
+        <seg>M'avertir lorsqu'un segment a des commentaires</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Notify Me When a Segment Has Dictionary Entries</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160427T150952Z" creationid="Didier" creationdate="20160427T150952Z">
@@ -25300,6 +25348,14 @@ Rajout d'une partie approriée, afin que la note de bas de page ne se retrouve p
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160427T150917Z" creationid="Didier" creationdate="20160427T150917Z">
         <seg>M'avertir lorsqu'un segment a des entrées de glossaire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Notify Me When a Segment Has Multiple Translations</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T151105Z" creationid="Didier" creationdate="20160427T151105Z">
+        <seg>M'avertir lorsqu'un segment a plusieurs traductions</seg>
       </tuv>
     </tu>
     <tu>
@@ -28660,6 +28716,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20111028T125147Z">
         <seg>Actualisation du dossier de script « {0} »</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Refreshing script folder "{0}"</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T151124Z" creationid="Didier" creationdate="20160427T151124Z">
+        <seg>Actualisation du dossier des scripts « {0} »</seg>
       </tuv>
     </tu>
     <tu>
