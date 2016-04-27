@@ -9146,6 +9146,14 @@ rights of fair use or other equivalent, as provided by copyright law.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Allow to save password as plain text</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T151642Z" creationid="Didier" creationdate="20160427T151642Z">
+        <seg>Permettre l'enregistrement du mot de passe en texte en clair</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Allow translated tags to be in a di&amp;fferent order</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20150514T135112Z" creationid="Didier" creationdate="20150514T135112Z">
@@ -12263,6 +12271,14 @@ Une liste blanche en expression régulière des fichiers source à traiter.</seg
       </tuv>
       <tuv lang="FR">
         <seg>Contribuer à OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Convert Old Team Project</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T151824Z" creationid="Didier" creationdate="20160427T151824Z">
+        <seg>Convertir un ancien projet en équipe</seg>
       </tuv>
     </tu>
     <tu>
@@ -21742,6 +21758,14 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It needs to be converted to a new team project, but this cannot be done in console mode.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T151726Z" creationid="Didier" creationdate="20160427T151726Z">
+        <seg>Il doit être converti en un nouveau projet en équipe, mais cela ne peut pas être effectué en mode console.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It should be noted that when &lt;a0&gt;OmegaT&lt;/a0&gt; is in RTL mode, both source and target are displayed in RTL mode.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130527T141547Z">
@@ -25789,6 +25813,14 @@ mouse-clicks or menu items--whatever suits your program.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20121113T085935Z">
         <seg>OmegaT a choisi l'option « Oui » automatiquement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT has detected a 2.6-style team project.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T151843Z" creationid="Didier" creationdate="20160427T151843Z">
+        <seg>OmegaT a détecté un projet en équipe de type 2.6.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35984,6 +36016,14 @@ modification follow.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The project will be loaded as a local project without team functionality.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T151741Z" creationid="Didier" creationdate="20160427T151741Z">
+        <seg>Le projet sera chargé comme un projet local sans fonctionnalité d'équipe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The purpose of the console (i.e. command line) mode is to permit the use &lt;a0&gt;of OmegaT&lt;/a0&gt; as translation tool in a scripting environment.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130527T153456Z">
@@ -36467,6 +36507,14 @@ making modifications to it.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20150713T084155Z" creationid="Didier" creationdate="20150713T084155Z">
         <seg>Le dossier de dictionnaires spécifié n'existe pas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The specified project is an OmegaT 2.6-style team project.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T151704Z" creationid="Didier" creationdate="20160427T151704Z">
+        <seg>Le projet spécifié est un projet en équipe de type OmegaT 2.6.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38549,6 +38597,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="FR" changeid="laurieetclémentine" changedate="20130412T133845Z">
         <seg>Pour apporter votre contribution à &lt;a0&gt;OmegaT&lt;/a0&gt; :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To convert it into a new team project, open it in the OmegaT GUI.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T151807Z" creationid="Didier" creationdate="20160427T151807Z">
+        <seg>Pour le convertir en nouveau projet en équipe, ouvrez-le dans l'interface utilisateur d'OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
