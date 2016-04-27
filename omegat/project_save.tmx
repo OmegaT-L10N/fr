@@ -22219,6 +22219,22 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Keep Mine</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T153246Z" creationid="Didier" creationdate="20160427T153246Z">
+        <seg>Conserver ma version</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Keep Other</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T153251Z" creationid="Didier" creationdate="20160427T153251Z">
+        <seg>Conserver l'autre version</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Keep in mind that a pair group must have both its opening and its closing tag deleted to ensure that all traces of the formatting are properly erased, otherwise the translated file may become corrupted.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130528T131630Z">
@@ -31123,6 +31139,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Segment Properties</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T153259Z" creationid="Didier" creationdate="20160427T153259Z">
+        <seg>Propriétés du segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Segment encountered outside translation unit variant.</seg>
       </tuv>
       <tuv lang="FR">
@@ -31879,6 +31903,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160427T151400Z" creationid="Didier" creationdate="20160427T151400Z">
         <seg>Afficher la barre de recherche</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show Raw Key Names</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T153416Z" creationid="Didier" creationdate="20160427T153416Z">
+        <seg>Afficher les noms de clé bruts</seg>
       </tuv>
     </tu>
     <tu>
@@ -33318,6 +33350,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130104T150002Z">
         <seg>Tabulation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Table View</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T153306Z" creationid="Didier" creationdate="20160427T153306Z">
+        <seg>Vue tabulaire</seg>
       </tuv>
     </tu>
     <tu>
@@ -42053,6 +42093,14 @@ for which you have or can give appropriate copyright permission.</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130418T225853Z">
         <seg>La validité de ce qui précède dépend de ce que fait le Programme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Which version do you want to keep?</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T153238Z" creationid="Didier" creationdate="20160427T153238Z">
+        <seg>Quelle version voulez-vous conserver ?</seg>
       </tuv>
     </tu>
     <tu>
