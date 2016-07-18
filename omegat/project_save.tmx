@@ -2730,6 +2730,18 @@ Le contenu à inclure dans la TMX pseudo-traduite.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>--remote-project
+		Download an omegat.project file from the URL given as &lt;project
+		path&gt; and load the project.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T150721Z" creationid="Didier" creationdate="20160718T150721Z">
+        <seg>--remote-project
+		Télécharger un fichier omegat.project depuis l'URL donnée comme &lt;chemin
+		projet&gt; et charger le projet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>--resource-bundle=&lt;path&gt;
 		A Java .properties file to use for interface text
 	--config-dir=&lt;path&gt;
@@ -2856,6 +2868,16 @@ Valider les balises.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160119T094036Z" creationid="Didier" creationdate="20160119T094036Z">
         <seg>-b BASE : chemin d'accès à la base (projet) kolekti à utiliser</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-h, --help
+		Show usage information.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T150643Z" creationid="Didier" creationdate="20160718T150643Z">
+        <seg>-h, --help
+		Afficher des informations sur l'utilisation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12169,6 +12191,18 @@ kolekti -b C:\[...]\trunk\doc_src2 publish [-j JOB] -l fr,en C:\[...]\trunk\doc_
       <tuv lang="FR" changeid="Didier" changedate="20160119T094129Z" creationid="Didier" creationdate="20160119T094129Z">
         <seg>Exemple de ligne de commande :
 kolekti -b C:\[...]\trunk\doc_src2 publish [-j JOB] -l fr,en C:\[...]\trunk\doc_src2\sources\{LANG}\tocs\UserGuide.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Commands:
+	-h, --help
+		Show usage information.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T150812Z" creationid="Didier" creationdate="20160718T150812Z">
+        <seg>Commandes :
+	-h, --help
+		Afficher des informations sur l'utilisation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41250,6 +41284,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Usage: java -jar OmegaT.jar team &lt;command&gt; [&lt;options&gt;]]</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T150755Z" creationid="Didier" creationdate="20160718T150755Z">
+        <seg>Syntaxe : java -jar OmegaT.jar team &lt;commande&gt; [&lt;options&gt;]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20141202T171231Z" creationid="Didier" creationdate="20141202T171231Z">
@@ -47414,6 +47456,16 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130415T142607Z">
         <seg>Entrées d'index, signets (repère de texte), références aux signets, notes, commentaires, notes des présentations, liens (URL), noms des feuilles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>init &lt;source language&gt; &lt;target language&gt;
+		Initialize a minimal team project with the specified languages.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T150852Z" creationid="Didier" creationdate="20160718T150852Z">
+        <seg>init &lt;langue source&gt; &lt;langue cible&gt;
+		Créer un projet en équipe minimal avec les langues spécifiées.</seg>
       </tuv>
     </tu>
     <tu>
