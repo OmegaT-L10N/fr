@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_0_r8749:8757" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_0_9045" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -21758,6 +21758,14 @@ exécutez simplement le programme d'installation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Invoke `team -h` for details.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T150619Z" creationid="Didier" creationdate="20160718T150619Z">
+        <seg>Utiliser « team -h » pour des détails.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Irish</seg>
       </tuv>
       <tuv lang="FR" changeid="etudiant_local" changedate="20130410T125853Z">
@@ -27510,6 +27518,22 @@ happen should you file a bug report.</seg>
 	Chemin du projet uniquement : lancer l'interface utilisateur et charger le projet spécifié
 	-h, --help
 		Afficher des informations sur l'utilisation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Options:
+	None: Launch GUI
+	Project path only: Launch GUI and load specified project
+	team
+		Team project tool.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T150600Z" creationid="Didier" creationdate="20160718T150600Z">
+        <seg>Options :
+	Aucune : lancer l'interface utilisateur
+	Chemin du projet uniquement : lancer l'interface utilisateur et charger
+	le projet en équipe spécifié
+		Outil de création de projet en équipe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51132,60 +51156,6 @@ de créer son dossier de configuration.</seg>
     </tu>
 <!-- Alternative translations -->
     <tu>
-      <prop type="file">readme_fr.txt</prop>
-      <prop type="prev">3.</prop>
-      <prop type="next">3.1</prop>
-      <tuv lang="EN">
-        <seg>Installing OmegaT</seg>
-      </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20140617T180741Z" creationid="Didier" creationdate="20140617T180741Z">
-        <seg>Installer OmegaT</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <prop type="file">readme_fr.txt</prop>
-      <prop type="prev">3.</prop>
-      <prop type="next">4.</prop>
-      <tuv lang="EN">
-        <seg>Installing OmegaT</seg>
-      </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20140617T180218Z" creationid="Didier" creationdate="20140617T180218Z">
-        <seg>Installer OmegaT</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <prop type="file">readme_fr.txt</prop>
-      <prop type="prev">3.</prop>
-      <prop type="next">3.1</prop>
-      <tuv lang="EN">
-        <seg>Installing OmegaT</seg>
-      </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20130604T132036Z">
-        <seg>Installer OmegaT</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <prop type="file">readme_fr.txt</prop>
-      <prop type="prev">3.</prop>
-      <prop type="next">4.</prop>
-      <tuv lang="EN">
-        <seg>Installing OmegaT</seg>
-      </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20130604T131843Z">
-        <seg>Installer OmegaT</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <prop type="file">Bundle.properties</prop>
-      <prop type="id">WF_OPTION_EXPORT__CURRENT_SEGMENT</prop>
-      <tuv lang="EN">
-        <seg>Export the segment to text files</seg>
-      </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20160115T161731Z" creationid="Didier" creationdate="20160115T161731Z">
-        <seg>E&amp;xporter le segment dans des fichiers texte</seg>
-      </tuv>
-    </tu>
-    <tu>
       <prop type="file">Bundle.properties</prop>
       <prop type="id">ALIGNER_MENU_EDIT_EDIT</prop>
       <tuv lang="EN">
@@ -51385,6 +51355,28 @@ Pour ajouter des fichiers au projet, cliquez sur le bouton « Copier des fichie
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130531T101244Z">
         <seg>E&amp;xporter le segment dans des fichiers texte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">readme_fr.txt</prop>
+      <prop type="prev">3.</prop>
+      <prop type="next">3.1</prop>
+      <tuv lang="EN">
+        <seg>Installing OmegaT</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130604T132036Z">
+        <seg>Installer OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">readme_fr.txt</prop>
+      <prop type="prev">3.</prop>
+      <prop type="next">4.</prop>
+      <tuv lang="EN">
+        <seg>Installing OmegaT</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130604T131843Z">
+        <seg>Installer OmegaT</seg>
       </tuv>
     </tu>
   </body>
