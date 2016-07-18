@@ -9565,6 +9565,14 @@ the predecessor has it or can get it with reasonable efforts.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An error occurred when loading the script: {0}</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T152124Z" creationid="Didier" creationdate="20160718T152124Z">
+        <seg>Une erreur s'est produite durant le chargement du script : {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An error occurred when loading the source files.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160427T153852Z" creationid="Didier" creationdate="20160427T153852Z">
@@ -11035,6 +11043,14 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160427T154908Z" creationid="Didier" creationdate="20160427T154908Z">
         <seg>Annuler l'alignement précis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cancel only works on scripts that explicitly check for cancellation.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T152050Z" creationid="Didier" creationdate="20160718T152050Z">
+        <seg>L'annulation ne fonctionne que pour les scripts qui surveillent explicitement l'annulation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18106,6 +18122,14 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130412T082423Z">
         <seg>Grec moderne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Groovy (Apache Licence 2.0)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T151954Z" creationid="Didier" creationdate="20160718T151954Z">
+        <seg>Groovy (licence Apache 2.0)</seg>
       </tuv>
     </tu>
     <tu>
@@ -32107,6 +32131,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select Scripts Folder</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T152133Z" creationid="Didier" creationdate="20160718T152133Z">
+        <seg>Sélectionner le dossier des scripts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select TaaS domain</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140625T073722Z" creationid="Didier" creationdate="20140625T073722Z">
@@ -32255,6 +32287,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140925T133110Z" creationid="Didier" creationdate="20140925T133110Z">
         <seg>Définir la couleur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set Scripts Folder...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T152144Z" creationid="Didier" creationdate="20160718T152144Z">
+        <seg>Définir le dossier des scripts...</seg>
       </tuv>
     </tu>
     <tu>
@@ -33798,6 +33838,14 @@ address new problems or concerns.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130411T091449Z">
         <seg>Soundanais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SuperTMXMerge (Apache License 2.0)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T151937Z" creationid="Didier" creationdate="20160718T151937Z">
+        <seg>SuperTMXMerge (licence Apache 2.0)</seg>
       </tuv>
     </tu>
     <tu>
@@ -45554,6 +45602,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>canceled ({0} ms elapsed)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T152111Z" creationid="Didier" creationdate="20160718T152111Z">
+        <seg>annulé ({0} ms écoulées)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>cat</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T095852Z">
@@ -45966,6 +46022,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130418T231901Z">
         <seg>n'imprime pas habituellement une telle annonce, votre ouvrage fondé </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>done ({0} ms elapsed)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T152101Z" creationid="Didier" creationdate="20160718T152101Z">
+        <seg>terminé ({0} ms écoulées)</seg>
       </tuv>
     </tu>
     <tu>
@@ -47832,6 +47896,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160427T150626Z" creationid="Didier" creationdate="20160427T150626Z">
         <seg>jsch-agent-proxy (licence jsch-agent-proxy License)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>juniversalchardet (GPL)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T151955Z" creationid="Didier" creationdate="20160718T151955Z">
+        <seg>juniversalchardet (GPL)</seg>
       </tuv>
     </tu>
     <tu>
@@ -50626,6 +50698,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130424T193922Z">
         <seg>Une traduction laissant le segment vide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>trie4j (Apache License 2.0)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T152005Z" creationid="Didier" creationdate="20160718T152005Z">
+        <seg>trie4j (licence Apache 2.0)</seg>
       </tuv>
     </tu>
     <tu>
