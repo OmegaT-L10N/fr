@@ -11095,6 +11095,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By default.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T160316Z" creationid="Didier" creationdate="20160718T160306Z">
+        <seg>Par défaut,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By deleting a tag group you will remove the related formatting from the translated file.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130430T140713Z">
@@ -20035,6 +20043,22 @@ authors' reputations.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If they &lt;e0&gt;don't need&lt;/e0&gt; to stay immune from further changes, then remove the TMX from /tm/enforce.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T160051Z" creationid="Didier" creationdate="20160718T160051Z">
+        <seg>S'il n'est &lt;e0&gt;pas nécessaire&lt;/e0&gt; qu'ils restent protégés de futurs changements, supprimez la TMX de /tm/enforce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If they &lt;e0&gt;need&lt;/e0&gt; to stay immune from further changes, then keep the TMX in /tm/enforce.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T160149Z" creationid="Didier" creationdate="20160718T160149Z">
+        <seg>S'il est &lt;e0&gt;nécessaire&lt;/e0&gt; qu'ils restent protégés de futurs changements, conservez la TMX dans /tm/enforce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If they are accidentally changed, the formatting of the final file may be corrupted.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130528T131624Z">
@@ -24206,8 +24230,8 @@ le JRE est déjà installé sur Mac OX X antérieur à Mac OS X 10.7 (Lion).</se
       <tuv lang="EN">
         <seg>Make a slight change anywhere in the project.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20160718T155801Z" creationid="Didier" creationdate="20160718T155801Z">
-        <seg>Effectuer une légère modification à un emplacement quelconque du projet.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T160102Z" creationid="Didier" creationdate="20160718T155801Z">
+        <seg>Effectuez une légère modification à un emplacement quelconque du projet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26366,6 +26390,14 @@ Rajout d'une partie approriée, afin que la note de bas de page ne se retrouve p
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note: if TMX is removed from /tm/enforce before step 3, enforcements aren't kept at all.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T160223Z" creationid="Didier" creationdate="20160718T160223Z">
+        <seg>Note : si la TMX est supprimée de /tm/enforce avant l'étape 3, les segments forcés ne sont pas conservés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note: in that case, &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;M&lt;/k3&gt; &lt;/k1&gt; can still be used, to force a Machine Translation call on an already translated segment.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160322T171922Z" creationid="Didier" creationdate="20160322T171922Z">
@@ -27896,8 +27928,8 @@ happen should you file a bug report.</seg>
       <tuv lang="EN">
         <seg>Open the project.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20160718T155724Z" creationid="Didier" creationdate="20160718T155724Z">
-        <seg>Ouvrir le projet.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T160057Z" creationid="Didier" creationdate="20160718T155724Z">
+        <seg>Ouvrez le projet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29816,16 +29848,16 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
       <tuv lang="EN">
         <seg>Put the TMX in /tm/auto.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20160718T155712Z" creationid="Didier" creationdate="20160718T155712Z">
-        <seg>Placer la TMX dans /tm/auto.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T160054Z" creationid="Didier" creationdate="20160718T155712Z">
+        <seg>Placez la TMX dans /tm/auto.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Put the TMX in /tm/enforce.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20160718T155919Z" creationid="Didier" creationdate="20160718T155919Z">
-        <seg>Placer la TMX dans /tm/enforce.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T160107Z" creationid="Didier" creationdate="20160718T155919Z">
+        <seg>Placez la TMX dans /tm/enforce.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42390,6 +42422,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130507T100347Z">
         <seg>Utilisée pour afficher les statistiques des correspondances du projet. Pour l'ouvrir, sélectionnez &lt;m0&gt; &lt;g1&gt;&lt;i2/&gt;Outils&lt;/g1&gt; &lt;g3&gt;Statistiques des correspondances&lt;/g3&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Used to display the user manual (open with &lt;k0&gt;F1&lt;/k0&gt;)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T160254Z" creationid="Didier" creationdate="20160718T160254Z">
+        <seg>Utilisé pour afficher le guide de l'utilisateur (s'ouvre avec &lt;k0&gt;F1&lt;/k0&gt;)</seg>
       </tuv>
     </tu>
     <tu>
