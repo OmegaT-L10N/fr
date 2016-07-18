@@ -2864,6 +2864,14 @@ Valider les balises.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>-Dmymemory.api.email=your@email-address.com</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T154536Z" creationid="Didier" creationdate="20160718T154536Z">
+        <seg>-Dmymemory.api.email=votre@adresse-email.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>-Dsun.java2d.noddraw=false</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20141202T174740Z" creationid="Didier" creationdate="20141202T174740Z">
@@ -11023,6 +11031,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By default, MyMemory allows a maximum of 100 requests per day.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T154316Z" creationid="Didier" creationdate="20160718T154313Z">
+        <seg>Par défaut, MyMemory autorise un maximum de 100 requêtes par jour.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By default, left justification is used for Left-To-Right (LTR) languages and right justification for Right-To-Left (RTL) languages.</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130416T175713Z">
@@ -11067,6 +11083,14 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130430T140713Z">
         <seg>En supprimant un groupe de balises, vous supprimez le formatage correspondant du fichier traduit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By specifying an email address, it is possible to use 1000 requests per day instead of 100 ones.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T154351Z" creationid="Didier" creationdate="20160718T154351Z">
+        <seg>En spécifiant une adresse électronique, il est possible d'utiliser 1000 requêtes par jour au lieu de 100.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25313,6 +25337,14 @@ impose that choice.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>MyMemory your@email-address.com</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T154502Z" creationid="Didier" creationdate="20160718T154502Z">
+        <seg>MyMemory votre@adresse-email.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Māori</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T100106Z">
@@ -38449,6 +38481,14 @@ the [Help] menu after starting OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There are at least 3 ways to specify your address:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T154410Z" creationid="Didier" creationdate="20160718T154410Z">
+        <seg>Il existe au moins 3 façons de spécifier votre adresse :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There are basically three ways to address this problem in &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130528T082256Z">
@@ -43106,6 +43146,14 @@ add Python to your Path.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130527T150646Z">
         <seg>Si OmegaT est démarré en mode console, aucune interface graphique n'est chargée (cela marchera donc sur n'importe quelle console) et le projet choisi est automatiquement traité comme vous l'avez demandé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When starting OmegaT from the command line, specify in the command:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T154524Z" creationid="Didier" creationdate="20160718T154524Z">
+        <seg>Si vous démarrez OmegaT depuis la ligne de commande, spécifiez dans la commande :</seg>
       </tuv>
     </tu>
     <tu>
@@ -48130,6 +48178,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>in the OmegaT.l4J.ini file (Windows only), change:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T154429Z" creationid="Didier" creationdate="20160718T154429Z">
+        <seg>Dans le fichier OmegaT.l4J.ini (Windows uniquement), remplacez :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ina</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T095951Z">
@@ -51210,6 +51266,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130419T184459Z">
         <seg>du code source correspondant. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>to:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T154444Z" creationid="Didier" creationdate="20160718T154444Z">
+        <seg>par :</seg>
       </tuv>
     </tu>
     <tu>
