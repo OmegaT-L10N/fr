@@ -352,6 +352,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>${translationNotice}</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T161241Z" creationid="Didier" creationdate="20160718T161241Z">
+        <seg>Ce document a été traduit par Didier Briel et Jean-Christophe Helary, copyright© 2007-2016.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;About...</seg>
       </tuv>
       <tuv lang="FR">
@@ -18110,6 +18118,17 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>General
+In order to run, OmegaT requires the Java Runtime Environment (JRE) version 
+1.8 or higher to be installed on your system.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T161309Z" creationid="Didier" creationdate="20160718T161309Z">
+        <seg>Informations générales
+Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de version 1.8 ou supérieure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Generalities</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20141202T213818Z" creationid="Didier" creationdate="20141202T213818Z">
@@ -24172,6 +24191,16 @@ le JRE est déjà installé sur Mac OX X antérieur à Mac OS X 10.7 (Lion).</se
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mac users: 
+The Mac version comes bundled with a JRE.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T161404Z" creationid="Didier" creationdate="20160718T161404Z">
+        <seg>Utilisateur de Macs : 
+La version Mac intègre un JRE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mac&amp;hine Translate</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20100218T170938Z">
@@ -26887,6 +26916,14 @@ mouse-clicks or menu items--whatever suits your program.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT 4.0, Read Me file</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T161245Z" creationid="Didier" creationdate="20160718T161245Z">
+        <seg>OmegaT 4.0, fichier « Lisez-moi »</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT Custom Colours</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20141022T161130Z" creationid="Didier" creationdate="20141022T161130Z">
@@ -28458,6 +28495,15 @@ Afficher des informations sur l'utilisation.</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130426T143520Z">
         <seg>Autres fenêtres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Otherwise you must download and
+install the Oracle JRE on your own.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T161438Z" creationid="Didier" creationdate="20160718T161438Z">
+        <seg>Sinon, vous devez télécharger et installer le JRE d'Oracle vous-même.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36195,6 +36241,15 @@ Program (independent of having been made by running the Program).</seg>
 shown below.</seg>
       </tuv>
       <tuv lang="FR">
+        <seg>Les méthodes et les moyens alternatifs pour télécharger et installer OmegaT sont indiqués ci-dessous.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The alternative ways and means of downloading and installing OmegaT are
+shown below.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T161320Z" creationid="Didier" creationdate="20160718T161320Z">
         <seg>Les méthodes et les moyens alternatifs pour télécharger et installer OmegaT sont indiqués ci-dessous.</seg>
       </tuv>
     </tu>
@@ -48254,6 +48309,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T104617Z">
         <seg>https://developers.google.com/translate/v2/pricing?hl=en-US</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://java.com/en/download/</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T161439Z" creationid="Didier" creationdate="20160718T161439Z">
+        <seg>https://java.com/en/download/</seg>
       </tuv>
     </tu>
     <tu>
