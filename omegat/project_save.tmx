@@ -46834,18 +46834,18 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>http://omegat.svn.sourceforge.net/viewvc/omegat/branches/release-2-6/src/org/omegat/gui/main/MainMenuShortcuts.mac.properties</seg>
+        <seg>http://omegat.svn.sourceforge.net/viewvc/omegat/branches/release-2-6/gui/main/MainMenuShortcuts.mac.properties</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T103730Z">
-        <seg>http://omegat.svn.sourceforge.net/viewvc/omegat/branches/release-2-6/src/org/omegat/gui/main/MainMenuShortcuts.mac.properties</seg>
+        <seg>http://omegat.svn.sourceforge.net/viewvc/omegat/branches/release-2-6/gui/main/MainMenuShortcuts.mac.properties</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>http://omegat.svn.sourceforge.net/viewvc/omegat/branches/release-2-6/src/org/omegat/gui/main/MainMenuShortcuts.properties</seg>
+        <seg>http://omegat.svn.sourceforge.net/viewvc/omegat/branches/release-2-6/gui/main/MainMenuShortcuts.properties</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T103729Z">
-        <seg>http://omegat.svn.sourceforge.net/viewvc/omegat/branches/release-2-6/src/org/omegat/gui/main/MainMenuShortcuts.properties</seg>
+        <seg>http://omegat.svn.sourceforge.net/viewvc/omegat/branches/release-2-6/gui/main/MainMenuShortcuts.properties</seg>
       </tuv>
     </tu>
     <tu>
@@ -47122,18 +47122,18 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/branches/release-3-5/src/org/omegat/gui/main/MainMenuShortcuts.mac.properties</seg>
+        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/branches/release-3-5/gui/main/MainMenuShortcuts.mac.properties</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160322T165357Z" creationid="Didier" creationdate="20160322T165357Z">
-        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/branches/release-3-5/src/org/omegat/gui/main/MainMenuShortcuts.mac.properties</seg>
+        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/branches/release-3-5/gui/main/MainMenuShortcuts.mac.properties</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/branches/release-3-5/src/org/omegat/gui/main/MainMenuShortcuts.properties</seg>
+        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/branches/release-3-5/gui/main/MainMenuShortcuts.properties</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160322T165355Z" creationid="Didier" creationdate="20160322T165355Z">
-        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/branches/release-3-5/src/org/omegat/gui/main/MainMenuShortcuts.properties</seg>
+        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/branches/release-3-5/gui/main/MainMenuShortcuts.properties</seg>
       </tuv>
     </tu>
     <tu>
@@ -51132,7 +51132,7 @@ de créer son dossier de configuration.</seg>
     </tu>
 <!-- Alternative translations -->
     <tu>
-      <prop type="file">2.6/readme.utf8</prop>
+      <prop type="file">readme_fr.txt</prop>
       <prop type="prev">3.</prop>
       <prop type="next">3.1</prop>
       <tuv lang="EN">
@@ -51143,7 +51143,7 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="file">2.6/readme.utf8</prop>
+      <prop type="file">readme_fr.txt</prop>
       <prop type="prev">3.</prop>
       <prop type="next">4.</prop>
       <tuv lang="EN">
@@ -51154,7 +51154,7 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="file">readme.utf8</prop>
+      <prop type="file">readme_fr.txt</prop>
       <prop type="prev">3.</prop>
       <prop type="next">3.1</prop>
       <tuv lang="EN">
@@ -51165,7 +51165,7 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="file">readme.utf8</prop>
+      <prop type="file">readme_fr.txt</prop>
       <prop type="prev">3.</prop>
       <prop type="next">4.</prop>
       <tuv lang="EN">
@@ -51176,7 +51176,7 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="file">src/org/omegat-3.5/Bundle.properties</prop>
+      <prop type="file">Bundle.properties</prop>
       <prop type="id">WF_OPTION_EXPORT__CURRENT_SEGMENT</prop>
       <tuv lang="EN">
         <seg>Export the segment to text files</seg>
@@ -51186,7 +51186,7 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="file">src/org/omegat/Bundle.properties</prop>
+      <prop type="file">Bundle.properties</prop>
       <prop type="id">ALIGNER_MENU_EDIT_EDIT</prop>
       <tuv lang="EN">
         <seg>Edit</seg>
@@ -51196,7 +51196,7 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="file">src/org/omegat/Bundle.properties</prop>
+      <prop type="file">Bundle.properties</prop>
       <prop type="id">ALIGNER_MENU_OPTIONS_SEGMENT</prop>
       <tuv lang="EN">
         <seg>Segment</seg>
@@ -51206,7 +51206,7 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="file">src/org/omegat/Bundle.properties</prop>
+      <prop type="file">Bundle.properties</prop>
       <prop type="id">ALIGNER_PANEL_BUTTON_EDIT</prop>
       <tuv lang="EN">
         <seg>Edit</seg>
@@ -51216,7 +51216,7 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="file">src/org/omegat/Bundle.properties</prop>
+      <prop type="file">Bundle.properties</prop>
       <prop type="id">ALIGNER_PANEL_BUTTON_SEGMENT</prop>
       <tuv lang="EN">
         <seg>Segment</seg>
@@ -51226,7 +51226,7 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="file">src/org/omegat/Bundle.properties</prop>
+      <prop type="file">Bundle.properties</prop>
       <prop type="id">COLOR_REPLACE</prop>
       <tuv lang="EN">
         <seg>Replace</seg>
@@ -51236,7 +51236,7 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="file">src/org/omegat/Bundle.properties</prop>
+      <prop type="file">Bundle.properties</prop>
       <prop type="id">FILTERSCUSTOMIZER_TITLE</prop>
       <tuv lang="EN">
         <seg>File Filters</seg>
@@ -51246,7 +51246,7 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="file">src/org/omegat/Bundle.properties</prop>
+      <prop type="file">Bundle.properties</prop>
       <prop type="id">GOOGLE_API_KEY_NOTFOUND</prop>
       <tuv lang="EN">
         <seg>See OmegaT manual for instructions.</seg>
@@ -51256,7 +51256,7 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="file">src/org/omegat/Bundle.properties</prop>
+      <prop type="file">Bundle.properties</prop>
       <prop type="id">HF_ERROR_EXTLINK_MSG</prop>
       <tuv lang="EN">
         <seg>To access this link, either copy and paste the URL to your Web browser, or open the User's Manual in your Web browser ({0} file).</seg>
@@ -51266,7 +51266,7 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="file">src/org/omegat/Bundle.properties</prop>
+      <prop type="file">Bundle.properties</prop>
       <prop type="id">HF_WINDOW_TITLE</prop>
       <tuv lang="EN">
         <seg>User's Manual</seg>
@@ -51276,7 +51276,7 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="file">src/org/omegat/Bundle.properties</prop>
+      <prop type="file">Bundle.properties</prop>
       <prop type="id">MT_ENGINE_MICROSOFT_KEY_NOTFOUND</prop>
       <tuv lang="EN">
         <seg>See OmegaT manual for instructions.</seg>
@@ -51286,7 +51286,7 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="file">src/org/omegat/Bundle.properties</prop>
+      <prop type="file">Bundle.properties</prop>
       <prop type="id">OFC_NEW_DIR_ERROR</prop>
       <tuv lang="EN">
         <seg>An error occurred while trying to create a new folder</seg>
@@ -51296,7 +51296,7 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="file">src/org/omegat/Bundle.properties</prop>
+      <prop type="file">Bundle.properties</prop>
       <prop type="id">OUT_OF_MEMORY</prop>
       <tuv lang="EN">
         <seg>Installing and running OmegaT" in the User Manual.</seg>
@@ -51306,7 +51306,7 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="file">src/org/omegat/Bundle.properties</prop>
+      <prop type="file">Bundle.properties</prop>
       <prop type="id">ST_FILE_SEARCH_ERROR</prop>
       <tuv lang="EN">
         <seg>Error searching directory tree!</seg>
@@ -51316,7 +51316,7 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="file">src/org/omegat/Bundle.properties</prop>
+      <prop type="file">Bundle.properties</prop>
       <prop type="id">ST_PROJECT_AUTOSAVED</prop>
       <tuv lang="EN">
         <seg>Project autosaved on {0}</seg>
@@ -51326,7 +51326,7 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="file">src/org/omegat/Bundle.properties</prop>
+      <prop type="file">Bundle.properties</prop>
       <prop type="id">SW_SEARCH_IN_GLOSSARIES</prop>
       <tuv lang="EN">
         <seg>Glossaries</seg>
@@ -51336,7 +51336,7 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="file">src/org/omegat/Bundle.properties</prop>
+      <prop type="file">Bundle.properties</prop>
       <prop type="id">TF_INTRO_EMPTYPROJECT</prop>
       <tuv lang="EN">
         <seg>(In the user's manual, see 'Files to translate' &gt; 'File formats' for a list of supported file formats.)
@@ -51348,7 +51348,7 @@ Pour ajouter des fichiers au projet, cliquez sur le bouton « Copier des fichie
       </tuv>
     </tu>
     <tu>
-      <prop type="file">src/org/omegat/Bundle.properties</prop>
+      <prop type="file">Bundle.properties</prop>
       <prop type="id">TF_MENU_FILE_ACCESS_GLOSSARY</prop>
       <tuv lang="EN">
         <seg>&amp;Glossaries</seg>
@@ -51358,7 +51358,7 @@ Pour ajouter des fichiers au projet, cliquez sur le bouton « Copier des fichie
       </tuv>
     </tu>
     <tu>
-      <prop type="file">src/org/omegat/Bundle.properties</prop>
+      <prop type="file">Bundle.properties</prop>
       <prop type="id">TF_MENU_FILE_ACCESS_TM</prop>
       <tuv lang="EN">
         <seg>T&amp;Ms</seg>
@@ -51368,7 +51368,7 @@ Pour ajouter des fichiers au projet, cliquez sur le bouton « Copier des fichie
       </tuv>
     </tu>
     <tu>
-      <prop type="file">src/org/omegat/Bundle.properties</prop>
+      <prop type="file">Bundle.properties</prop>
       <prop type="id">TF_MENU_HELP_CONTENTS</prop>
       <tuv lang="EN">
         <seg>&amp;User's Manual...</seg>
@@ -51378,7 +51378,7 @@ Pour ajouter des fichiers au projet, cliquez sur le bouton « Copier des fichie
       </tuv>
     </tu>
     <tu>
-      <prop type="file">src/org/omegat/Bundle.properties</prop>
+      <prop type="file">Bundle.properties</prop>
       <prop type="id">WF_OPTION_EXPORT__CURRENT_SEGMENT</prop>
       <tuv lang="EN">
         <seg>Export the segment to text files</seg>
