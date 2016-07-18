@@ -524,25 +524,25 @@
               <row>
                 <entry><literal>${initialCreationID}</literal></entry>
 
-                <entry>L'auteur de la correspondance lors de sa création</entry>
+                <entry>Auteur de la correspondance lors de sa création</entry>
               </row>
 
               <row>
                 <entry><literal>${initialCreationDate}</literal></entry>
 
-                <entry>Date of the match when the match was created</entry>
+                <entry>Date de la correspondance lors de sa création</entry>
               </row>
 
               <row>
                 <entry><literal>${changedID}</literal></entry>
 
-                <entry>Author of the match when the match was last updated</entry>
+                <entry>Auteur de la correspondance lors de sa dernière modification</entry>
               </row>
 
               <row>
                 <entry><literal>${changedDate}</literal></entry>
 
-                <entry>Date of the match when the match was last updated</entry>
+                <entry>Date de la correspondance lors de sa dernière modification</entry>
               </row>
               <row>
                 <entry><literal>${fuzzyFlag}</literal></entry>
@@ -674,8 +674,7 @@
 
           <para>Note : les noms des fichiers (dans la première colonne) peuvent être triés par ordre alphabétique en cliquant sur l'en-tête. Il est également possible de changer la position d'un nom de fichier, en cliquant dessus et en appuyant sur les boutons <emphasis>Placer/Glisser</emphasis>  </para>
 
-          <para>Right-clicking on a filename opens a popup that allows to open
-          the source file and (if it exists) the target file.</para>
+          <para>Effectuer un clic droit sur un nom de fichier ouvre une fenêtre contextuelle qui permet d'ouvrir le fichier source et (s'il existe) le fichier cible.</para>
         </listitem>
       </itemizedlist>
 
