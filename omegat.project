@@ -14,5 +14,40 @@
         <sentence_seg>true</sentence_seg>
         <support_default_translations>true</support_default_translations>
         <remove_tags>false</remove_tags>
+        <repositories>
+            <repository type="svn" url="https://omegat.plugnsecure.fr/omegat-fr">
+                <mapping local="" repository=""/>
+            </repository>
+            <repository type="svn" url="https://svn.code.sf.net/p/omegat/svn/trunk/src/org/omegat">
+                <mapping local="source/" repository="">
+                    <excludes>**/*</excludes>
+                    <includes>**/Bundle.properties</includes>
+                </mapping>
+            </repository>
+            <repository type="svn" url="https://svn.code.sf.net/p/omegat/svn/trunk/doc_src/en">
+                <mapping local="source/doc_src/" repository=""/>
+            </repository>
+            <repository type="svn" url="https://svn.code.sf.net/p/omegat/svn/trunk/release">
+                <mapping local="source/readme_fr.txt" repository="readme.txt"/>
+            </repository>
+            <repository type="svn" url="https://svn.code.sf.net/p/omegat/svn/trunk/release/mac-specific/OmegaT.app/Contents/Resources/en.lproj">
+                <mapping local="source/release/mac-specific/" repository=""/>
+            </repository>
+            <repository type="svn" url="https://svn.code.sf.net/p/omegat/svn/trunk/release/win32-specific">
+                <mapping local="source/release/win32-specific/CustomMessages.ini" repository="CustomMessages.ini"/>
+            </repository>
+            <repository type="svn" url="https://svn.code.sf.net/p/omegat/svn/trunk/scripts/properties">
+                <mapping local="source/scripts/" repository="">
+                    <excludes>**/*</excludes>
+                    <includes>**/check_rules.properties</includes>
+                    <includes>**/spellcheck.properties</includes>
+                    <includes>**/svn_cleanup_selected.properties</includes>
+                    <includes>**/search_replace.properties</includes>
+                    <includes>**/replace_strip_tags.properties</includes>
+                    <includes>**/strip_bidi_marks.properties</includes>
+                    <includes>**/nbsp.properties</includes>
+                </mapping>
+            </repository>
+        </repositories>       
     </project>
 </omegat>
