@@ -26871,6 +26871,14 @@ mouse-clicks or menu items--whatever suits your program.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT configuration launchers (OmegaT.l4J.ini, omegat.kaptn and Configuration.properties) contain a template entry.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T155700Z" creationid="Didier" creationdate="20160718T155700Z">
+        <seg>Les lanceurs de configuration d'OmegaT (OmegaT.l4J.ini, omegat.kaptn et Configuration.properties) contiennent un modèle d'entrée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT configuration launchers (OmegaT.l4J.ini, omegat.kaptn and OmegaT.sh) contain a template entry.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20141202T221353Z" creationid="Didier" creationdate="20141202T221353Z">
@@ -43105,6 +43113,14 @@ you have just discovered.</seg>
       </tuv>
       <tuv lang="FR" changeid="brigitte" changedate="20130712T142332Z">
         <seg>Quelles que soient les incohérences, omissions et simples erreurs que vous pourriez trouver dans cette version, je tiens à déclarer que j'en assume l'entière responsabilité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When &lt;e1&gt;Full/Half width char insensitive&lt;/e1&gt; option is checked, searches for fullwidth forms (CJK characters) will match halfwidth forms and vice versa.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T155645Z" creationid="Didier" creationdate="20160718T155645Z">
+        <seg>Lorsque l'option &lt;e1&gt;Ignorer la différence entre pleine et demi-largeur de caractère&lt;/e1&gt; est cochée, les recherches des formes de pleine largeur (caractères CJK) correspondront aux formes de demi-largeur et vice-versa.</seg>
       </tuv>
     </tu>
     <tu>
