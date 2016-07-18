@@ -24204,6 +24204,22 @@ le JRE est déjà installé sur Mac OX X antérieur à Mac OS X 10.7 (Lion).</se
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Make a slight change anywhere in the project.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T155801Z" creationid="Didier" creationdate="20160718T155801Z">
+        <seg>Effectuer une légère modification à un emplacement quelconque du projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Make decision about immunity of the enforced segments:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T160007Z" creationid="Didier" creationdate="20160718T160007Z">
+        <seg>Prenez une décision sur la pérennité des segments forcés :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Make it executable (&lt;l0&gt;chmod +x OmegaT&lt;/l0&gt;) from the command line after making sure you are in the OmegaT application folder.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130527T141048Z">
@@ -26342,6 +26358,14 @@ Rajout d'une partie approriée, afin que la note de bas de page ne se retrouve p
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note: if TMX is removed from /tm/auto before step 3, no extra Translation Unit is added.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T155912Z" creationid="Didier" creationdate="20160718T155912Z">
+        <seg>Note : si la TMX est supprimée de /tm/auto avant l'étape 3, no aucune traduction supplémentaire n'est ajoutée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note: in that case, &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;M&lt;/k3&gt; &lt;/k1&gt; can still be used, to force a Machine Translation call on an already translated segment.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160322T171922Z" creationid="Didier" creationdate="20160322T171922Z">
@@ -27866,6 +27890,14 @@ happen should you file a bug report.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130424T092626Z">
         <seg>Ouvrez le projet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open the project.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T155724Z" creationid="Didier" creationdate="20160718T155724Z">
+        <seg>Ouvrir le projet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29778,6 +29810,22 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20120420T210730Z">
         <seg>L'envoi a échoué.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Put the TMX in /tm/auto.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T155712Z" creationid="Didier" creationdate="20160718T155712Z">
+        <seg>Placer la TMX dans /tm/auto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Put the TMX in /tm/enforce.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T155919Z" creationid="Didier" creationdate="20160718T155919Z">
+        <seg>Placer la TMX dans /tm/enforce.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36112,6 +36160,14 @@ shown below.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The changes are displayed.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T155731Z" creationid="Didier" creationdate="20160718T155731Z">
+        <seg>Les modifications sont affichées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The character with hexadecimal value 0xhh</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130528T083216Z">
@@ -39674,6 +39730,22 @@ this version will not interfere with it.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130502T095613Z">
         <seg>Cette méthode tiendra également compte des préférences et des paramètres que vous avez définis dans OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This modifies &lt;f0&gt;project_save.tmx&lt;/f0&gt; (by adding proper Translation Units from "auto" TMX)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T155842Z" creationid="Didier" creationdate="20160718T155842Z">
+        <seg>Cela modifie &lt;f0&gt;project_save.tmx&lt;/f0&gt; (en ajoutant les unités de traduction pertinentes depuis la TMX « auto »)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This modifies &lt;f0&gt;project_save.tmx&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T155926Z" creationid="Didier" creationdate="20160718T155926Z">
+        <seg>Cela modifie &lt;f0&gt;project_save.tmx&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
