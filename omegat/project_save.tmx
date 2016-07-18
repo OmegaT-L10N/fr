@@ -15398,6 +15398,30 @@ by the Free Software Foundation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Edit &gt; Create Glossary Entry (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;G&lt;/k3&gt; &lt;/k0&gt;): add a new glossary item.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T155503Z" creationid="Didier" creationdate="20160718T155503Z">
+        <seg>Edition &gt; Créer une entrée de glossaire (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Maj&lt;/k2&gt; &lt;k3&gt;G&lt;/k3&gt; &lt;/k0&gt;) : ajoute une nouvelle entrée de glossaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit &gt; Insert source (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;I&lt;/k3&gt; &lt;/k0&gt;): insert current segment source.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T155335Z" creationid="Didier" creationdate="20160718T155335Z">
+        <seg>Edition &gt; Insérer le texte source (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Maj&lt;/k2&gt; &lt;k3&gt;I&lt;/k3&gt; &lt;/k0&gt;) : insère le segment source actuel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit &gt; Replace with source (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;R&lt;/k3&gt; &lt;/k0&gt;): replace with current segment source.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T155423Z" creationid="Didier" creationdate="20160718T155423Z">
+        <seg>Edition &gt; Remplacer par la source (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Maj&lt;/k2&gt; &lt;k3&gt;R&lt;/k3&gt; &lt;/k0&gt;) : remplace par le segment source actuel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Edit Filter</seg>
       </tuv>
       <tuv lang="FR">
@@ -16692,6 +16716,14 @@ The FSF strongly urges you not to use this translation as the official distribu-
       </tuv>
       <tuv lang="FR">
         <seg>&amp;Format de fichier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File &gt; Close (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;W&lt;/k2&gt; &lt;/k0&gt;): close the search window (in the same way as &lt;k3&gt;Esc&lt;/k3&gt;)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T155247Z" creationid="Didier" creationdate="20160718T155247Z">
+        <seg>Fichier &gt; Fermer (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;W&lt;/k2&gt; &lt;/k0&gt;) : ferme la fenêtre de recherche (de la même façon qu'&lt;k3&gt;Échap&lt;/k3&gt;)</seg>
       </tuv>
     </tu>
     <tu>
