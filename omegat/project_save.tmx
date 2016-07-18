@@ -216,6 +216,22 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>${changedDate}</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T160937Z" creationid="Didier" creationdate="20160718T160937Z">
+        <seg>${changedDate}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>${changedID}</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T160925Z" creationid="Didier" creationdate="20160718T160925Z">
+        <seg>${changedID}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>${creationDate}</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T105236Z">
@@ -228,6 +244,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T105232Z">
         <seg>${creationID}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>${diffReversed}</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T160742Z" creationid="Didier" creationdate="20160718T160742Z">
+        <seg>${diffReversed}</seg>
       </tuv>
     </tu>
     <tu>
@@ -276,6 +300,22 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T105225Z">
         <seg>${id}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>${initialCreationDate}</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T160853Z" creationid="Didier" creationdate="20160718T160853Z">
+        <seg>${initialCreationDate}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>${initialCreationID}</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T160815Z" creationid="Didier" creationdate="20160718T160815Z">
+        <seg>${initialCreationID}</seg>
       </tuv>
     </tu>
     <tu>
@@ -10407,6 +10447,22 @@ provoquer des comportements inattendus, mais corrects.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Author of the match when the match was created</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T161000Z" creationid="Didier" creationdate="20160718T160847Z">
+        <seg>Auteur de la correspondance lors de sa création</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Author of the match when the match was last updated</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T161005Z" creationid="Didier" creationdate="20160718T160936Z">
+        <seg>Auteur de la correspondance lors de sa dernière modification</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Auto replace 'nplurals=INTEGER; &amp;plural=EXPRESSION;' in header</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20120918T152206Z">
@@ -13977,6 +14033,22 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130425T201857Z">
         <seg>Date de création de la correspondance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Date of the match when the match was created</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T160924Z" creationid="Didier" creationdate="20160718T160924Z">
+        <seg>Date de la correspondance lors de sa création</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Date of the match when the match was last updated</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T160951Z" creationid="Didier" creationdate="20160718T160951Z">
+        <seg>Date de la correspondance lors de sa dernière modification</seg>
       </tuv>
     </tu>
     <tu>
@@ -31152,6 +31224,14 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Right-clicking on a filename opens a popup that allows to open the source file and (if it exists) the target file.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T161111Z" creationid="Didier" creationdate="20160718T161111Z">
+        <seg>Effectuer un clic droit sur un nom de fichier ouvre une fenêtre contextuelle qui permet d'ouvrir le fichier source et (s'il existe) le fichier cible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Right-clicking on an underlined word (Artund in the figure above) opens a drop-down menu listing suggestions for the correction (Art und).</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130506T112227Z">
@@ -31494,6 +31574,14 @@ REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20101223T174931Z">
         <seg>Sabine Cretella</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Same as ${diff}, but with the differences (what is to be inserted and deleted) inverted.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T160813Z" creationid="Didier" creationdate="20160718T160813Z">
+        <seg>Identique à ${diff}, mais avec les différences (ce qui doit être inséré et supprimé) inversées.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34241,6 +34329,14 @@ patents cannot be used to render the program non-free.</seg>
         <seg>String showing the differences between the source and the match.&lt;e0&gt; Hint:&lt;/e0&gt; use this if the text that you are translating has been updated.</seg>
       </tuv>
       <tuv lang="FR" changeid="jchelary" changedate="20130526T142413Z">
+        <seg>Chaîne de caractères montrant les différences entre la source et la correspondance.&lt;e0&gt; Astuce :&lt;/e0&gt; utilisez ceci si le texte que vous avez traduit a été mis à jour.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>String showing the differences between the source and the match.&lt;e0&gt; Hint:&lt;/e0&gt; use this if the text you are translating has been updated.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T160740Z" creationid="Didier" creationdate="20160718T160740Z">
         <seg>Chaîne de caractères montrant les différences entre la source et la correspondance.&lt;e0&gt; Astuce :&lt;/e0&gt; utilisez ceci si le texte que vous avez traduit a été mis à jour.</seg>
       </tuv>
     </tu>
@@ -40327,6 +40423,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130423T201334Z">
         <seg>Pour vérifier leur syntaxe et leur applicabilité, il est conseillé d'utiliser des outils qui vous permettent de voir leurs effets directement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To come back to the standard mode "&lt;g2&gt;Cursor lock on&lt;/g2&gt;", press &lt;k3&gt;F2&lt;/k3&gt; again.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T160726Z" creationid="Didier" creationdate="20160718T160726Z">
+        <seg>Pour revenir au mode standard « &lt;g2&gt;Curseur verrouillé&lt;/g2&gt;", appuyez sur&lt;k3&gt;F2&lt;/k3&gt; à nouveau.</seg>
       </tuv>
     </tu>
     <tu>
