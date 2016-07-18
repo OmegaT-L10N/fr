@@ -1224,6 +1224,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Replace...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T152247Z" creationid="Didier" creationdate="20160718T152247Z">
+        <seg>Rem&amp;placer...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Reset This Colour</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20150225T095618Z" creationid="Didier" creationdate="20150225T095618Z">
@@ -11287,6 +11295,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Character</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T152453Z" creationid="Didier" creationdate="20160718T152453Z">
+        <seg>Caractère</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Character table</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130913T162321Z" creationid="Didier" creationdate="20130913T162321Z">
@@ -17470,6 +17486,14 @@ authors of previous versions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Forward-Backward</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T152420Z" creationid="Didier" creationdate="20160718T152420Z">
+        <seg>Avant-Arrière</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Found in:</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130624T092251Z">
@@ -17754,6 +17778,14 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20120421T052437Z">
         <seg>Git</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Git '{0}' did nothing because there were no changes</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T152310Z" creationid="Didier" creationdate="20160718T152310Z">
+        <seg>Git « {0} » n'a effectué aucune action parce qu'il n'y avait aucun changement</seg>
       </tuv>
     </tu>
     <tu>
@@ -18542,10 +18574,26 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>History Completions</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T152332Z" creationid="Didier" creationdate="20160718T152332Z">
+        <seg>Saisie historique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>History Prediction</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160718T151403Z" creationid="Didier" creationdate="20160718T151403Z">
         <seg>Prédiction historique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>History Predictions</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T152338Z" creationid="Didier" creationdate="20160718T152338Z">
+        <seg>Prédictions historique</seg>
       </tuv>
     </tu>
     <tu>
@@ -25433,6 +25481,14 @@ Diminue les sorties sur stdout de la ligne de commande.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Normal</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T152421Z" creationid="Didier" creationdate="20160718T152421Z">
+        <seg>Normal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Normally tags are ignored when considering the similarity between different texts for matching purposes.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130416T135606Z">
@@ -28606,6 +28662,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130708T094456Z" creationid="Didier" creationdate="20130708T094456Z">
         <seg>Le module d'extension a été chargé avec succès à partir de la classe « {0} »</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Poisson</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T152424Z" creationid="Didier" creationdate="20160718T152424Z">
+        <seg>Poisson</seg>
       </tuv>
     </tu>
     <tu>
@@ -42307,6 +42371,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Viterbi</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T152404Z" creationid="Didier" creationdate="20160718T152404Z">
+        <seg>Viterbi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Vito Smolej</seg>
       </tuv>
       <tuv lang="FR">
@@ -51421,6 +51493,16 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">Bundle.properties</prop>
+      <prop type="id">ALIGNER_ENUM_COUNTER_TYPE_WORD</prop>
+      <tuv lang="EN">
+        <seg>Word</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T152446Z" creationid="Didier" creationdate="20160718T152446Z">
+        <seg>Mot</seg>
+      </tuv>
+    </tu>
     <tu>
       <prop type="file">Bundle.properties</prop>
       <prop type="id">ALIGNER_MENU_EDIT_EDIT</prop>
