@@ -6882,6 +6882,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Running OmegaT&lt;/p0&gt; &lt;s1&gt;Drag and drop&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T154100Z" creationid="Didier" creationdate="20160718T154100Z">
+        <seg>&lt;p0&gt;Exécution d'OmegaT&lt;/p0&gt; &lt;s1&gt;Glisser/déplacer&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Running OmegaT&lt;/p0&gt; &lt;s1&gt;Drag and grop&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160322T170109Z" creationid="Didier" creationdate="20160322T170045Z">
@@ -17423,6 +17431,14 @@ know their rights.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For instance, &lt;string&gt;-Xmx2048M&lt;/string&gt; will launch OmegaT with 2 gigas of memory.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T154051Z" creationid="Didier" creationdate="20160718T154051Z">
+        <seg>Par exemple, &lt;string&gt;-Xmx2048M&lt;/string&gt; lancera OmegaT avec 2 gigas de mémoire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For instance, if the file filter specifies UTF8 as the encoding scheme for the target files, selecting Always will assure that this information is included in the translated files.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130527T134403Z">
@@ -21190,6 +21206,14 @@ the scope of this License.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130528T084410Z">
         <seg>Pour choisir le type de segmentation, allez dans &lt;m1&gt; &lt;g2&gt;&lt;i3/&gt;Projet&lt;/g2&gt; &lt;g4&gt;Propriétés...&lt;/g4&gt; &lt;/m1&gt; et cochez ou décochez la case « Activer la segmentation par phrase ».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In other platforms, you can modify &lt;f4&gt;Configuration.properties&lt;/f4&gt; file on the Mac, or &lt;f5&gt;OmegaT&lt;/f5&gt; launcher under Linux to do the same.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T154121Z" creationid="Didier" creationdate="20160718T154121Z">
+        <seg>Sur les autres plate-forme, you can modify &lt;f4&gt;Configuration.properties&lt;/f4&gt; file on the Mac, or &lt;f5&gt;OmegaT&lt;/f5&gt; launcher under Linux to do the same.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27898,6 +27922,14 @@ happen should you file a bug report.</seg>
       </tuv>
       <tuv lang="FR" changeid="laurieetclémentine" changedate="20130411T140410Z">
         <seg> Menu Options</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Options are changed by modifying &lt;e0&gt;Configuration.properties&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T153933Z" creationid="Didier" creationdate="20160718T153933Z">
+        <seg>Les options se modifient en éditant &lt;e0&gt;Configuration.properties&lt;/e0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39849,6 +39881,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To access &lt;a0&gt;&lt;e1&gt;Configuration.properties&lt;/e1&gt;&lt;/a0&gt;, right-click on &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.app&lt;/e2&gt; and select "Show Package Contents", then open the file in Contents/Resources by right-clicking on it and selecting your text editor of choice.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T153857Z" creationid="Didier" creationdate="20160718T153857Z">
+        <seg>Pour accéder à &lt;a0&gt;&lt;e1&gt;Configuration.properties&lt;/e1&gt;&lt;/a0&gt;, effectuez un clic droit sur &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.app&lt;/e2&gt; et sélectionnez « Afficher le contenu du paquet », puis ouvrez le fichier dans Contents/Resources avec un clic droit et en sélectionnant l'éditeur de texte de votre choix.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To access &lt;a0&gt;&lt;e1&gt;Info.plist&lt;/e1&gt;&lt;/a0&gt;, right-click on &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.app&lt;/e2&gt; and select "Show Package Contents", then open the file by right-clicking on it and selecting your text editor of choice.</seg>
       </tuv>
       <tuv lang="FR" changeid="brigitte" changedate="20130715T191448Z">
@@ -39959,6 +39999,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Pour consulter la page des rapports de bogue et pour remplir un nouveau rapport rendez-vous à :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To change the amount of memory available, edit &lt;e0&gt;OmegaT.app/Contents/Info.plist&lt;/e0&gt; file and change change the content of &lt;string&gt;-Xmx1024M&lt;/string&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T154012Z" creationid="Didier" creationdate="20160718T154012Z">
+        <seg>Pour modifier la quantité de mémoire disponible, modifiez le fichier &lt;e0&gt;OmegaT.app/Contents/Info.plist&lt;/e0&gt; et changez le contenu de &lt;string&gt;-Xmx1024M&lt;/string&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44072,6 +44120,14 @@ you think will help the developers with finding and fixing your bug.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can also "cd" there directly from the command line and open &lt;a4&gt;&lt;e5&gt;Configuration.properties&lt;/e5&gt; in a command line editor like emacs or vi&lt;/a4&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T153924Z" creationid="Didier" creationdate="20160718T153924Z">
+        <seg>Vous pouvez également utiliser la commande Unix « cd » directement à partir de la ligne de commande et ouvrir &lt;a4&gt;&lt;e5&gt;Configuration.properties&lt;/e5&gt; dans un éditeur en ligne de commande comme emacs ou vi&lt;/a4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can also "cd" there directly from the command line and open &lt;a4&gt;&lt;e5&gt;Info.plist&lt;/e5&gt; in a command line editor like emacs or vi&lt;/a4&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="brigitte" changedate="20130714T095912Z">
@@ -44370,6 +44426,14 @@ installation by using the installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130502T115404Z">
         <seg>Vous pouvez lancer OmegaT à partir de la ligne de commande avec un script qui comprend des options de démarrage ou cliquer sur &lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.jar&lt;/e0&gt; pour le lancer directement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can modify OmegaT's behaviour by editing the &lt;e0&gt;Properties&lt;/e0&gt; as well as the &lt;e1&gt;Configuration.properties&lt;/e1&gt; file in the package.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T153824Z" creationid="Didier" creationdate="20160718T153824Z">
+        <seg>Vous pouvez modifier le comportement d'OmegaT en modifiant les &lt;e0&gt;Propriétés&lt;/e0&gt; ainsi que le fichier &lt;e1&gt;Configuration.properties&lt;/e1&gt; dans le paquet.</seg>
       </tuv>
     </tu>
     <tu>
