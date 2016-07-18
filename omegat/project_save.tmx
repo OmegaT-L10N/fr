@@ -5266,6 +5266,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;D&lt;/k2&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T154932Z" creationid="Didier" creationdate="20160718T154932Z">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Maj&lt;/k1&gt; &lt;k2&gt;D&lt;/k2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;G&lt;/k2&gt;</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20141202T180023Z" creationid="Didier" creationdate="20141202T180023Z">
@@ -5398,6 +5406,14 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
       <tuv lang="FR" changeid="brigitte" changedate="20130715T200045Z">
         <seg>&lt;k0&gt;F1 :&lt;/k0&gt; ouvre le navigateur d'aide qui affiche ce guide dans une fenêtre séparée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;k0&gt;F1:&lt;/k0&gt; Opens this manual in the default browser.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T155028Z" creationid="Didier" creationdate="20160718T155028Z">
+        <seg>&lt;k0&gt;F1 :&lt;/k0&gt; Ouvre ce manuel dans le navigateur par défaut.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16680,6 +16696,14 @@ The FSF strongly urges you not to use this translation as the official distribu-
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>File &gt; Search for selection (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt;): refocus on the search field and select all its contents.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T155159Z" creationid="Didier" creationdate="20160718T155159Z">
+        <seg>Fichier &gt; Rechercher la sélection (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt;) : redonne le focus au champ de recherche et sélectionne tout son contenu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>File Copy Failed</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130412T134702Z">
@@ -17241,6 +17265,14 @@ control compilation and installation of the executable.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130506T092600Z">
         <seg>Par exemple, « &lt;e0&gt;Cela avait-il un sens ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, &lt;e0&gt;a+&lt;/e0&gt; will match the aaa in &lt;e1&gt;aaabbb&lt;/e1&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T155056Z" creationid="Didier" creationdate="20160718T155056Z">
+        <seg>Par exemple, &lt;e0&gt;a+&lt;/e0&gt; correspondra au aaa dans &lt;e1&gt;aaabbb&lt;/e1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -26238,6 +26270,14 @@ Rajout d'une partie approriée, afin que la note de bas de page ne se retrouve p
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note: OmegaT does not interact dynamically with them (you must export/import TMX files manually).</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T154926Z" creationid="Didier" creationdate="20160718T154926Z">
+        <seg>Note : OmegaT n’interagit pas de façon dynamique avec ces mémoires (vous devez exporter/importer ces fichiers TMX manuellement).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note: Source File Encoding setting affects only the HHC and HHK files that do not contain an encoding declaration.</seg>
       </tuv>
       <tuv lang="FR">
@@ -29152,6 +29192,14 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140414T135055Z" creationid="Didier" creationdate="20140414T135055Z">
         <seg>Appuyez sur le bouton &lt;e0&gt;Filtrer&lt;/e0&gt; en bas de la fenêtre pour limiter les entrées affichées dans la fenêtre de l'Éditeur à celles correspondant à la recherche actuelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pressing &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;F&lt;/k3&gt; &lt;/k0&gt; displays the last already opened Search window (instead of opening a new one).</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T155012Z" creationid="Didier" creationdate="20160718T155012Z">
+        <seg>Un appui sur &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Maj&lt;/k2&gt; &lt;k3&gt;F&lt;/k3&gt; &lt;/k0&gt; affiche la dernière fenêtre de recherche ouverte (au lieu d'en ouvrir une nouvelle).</seg>
       </tuv>
     </tu>
     <tu>
@@ -35774,6 +35822,14 @@ Public License instead of this License. But first, please read
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20141202T171413Z" creationid="Didier" creationdate="20141202T171413Z">
         <seg>La fenêtre de Scripts vous permet de charger un script préexistant dans la zone de texte et de l'exécuter dans le projet en cours.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Search window has its own menus:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T155114Z" creationid="Didier" creationdate="20160718T155114Z">
+        <seg>La fenêtre de recherche dispose de ses propres menus :</seg>
       </tuv>
     </tu>
     <tu>
