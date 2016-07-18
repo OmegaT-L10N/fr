@@ -10431,6 +10431,14 @@ provoquer des comportements inattendus, mais corrects.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Auto-completion/Show Relevant Suggestions Automatically</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T153543Z" creationid="Didier" creationdate="20160718T153543Z">
+        <seg>Saisie automatique/Afficher automatiquement les suggestions pertinentes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Auto-propagation of Translations</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20141202T214205Z" creationid="Didier" creationdate="20141202T214205Z">
@@ -10979,6 +10987,14 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130418T224413Z">
         <seg>A contrario, la Licence Publique Générale est destinée à garantir votre liberté de partager et de modifier les logiciels libres, et à assurer que ces logiciels soient libres pour tous leurs utilisateurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By default the editor displays 2,000 of initial segments, and progressively loads more as you scroll up or down.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T153636Z" creationid="Didier" creationdate="20160718T153636Z">
+        <seg>Par défaut, l'éditeur affiche 2000µ segments initiaux, et en charge progressivement davantage lorsque vous faites défiler l'affichage vers le haut ou vers le bas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18158,6 +18174,14 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Glossary/Use Stemming for Glossary Entries</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T153528Z" creationid="Didier" creationdate="20160718T153528Z">
+        <seg>Glossaires/Utiliser la lemmatisation pour les entrées de glossaire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Gnomovision comes with ABSOLUTELY NO WARRANTY; for details type `show w'.</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130419T194712Z">
@@ -20303,6 +20327,14 @@ free software which everyone can redistribute and change under these terms.</seg
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you have a powerful machine, and/or if you don't like how the scrollbar behaves during progressive loading, you can increase this number.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T153739Z" creationid="Didier" creationdate="20160718T153739Z">
+        <seg>Si vous disposez d'une machine puissante, ou que vous n'appréciez pas le comportement de la barre de défilement durant le chargement progressif, vous pouvez utiliser un nombre plus grand.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you have already Java, one way to install the current version of 
 OmegaT is to use Java Web Start.</seg>
       </tuv>
@@ -21656,6 +21688,14 @@ patent against the party.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Initially load this many segments</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T153600Z" creationid="Didier" creationdate="20160718T153600Z">
+        <seg>Nombre de segments à charger initialement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Initially load this many segments:</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160427T164025Z" creationid="Didier" creationdate="20160115T140322Z">
@@ -22731,6 +22771,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="FR" changeid="jchelary" changedate="20130526T125258Z">
         <seg>La technologie Java Web Start (proposée dans Java 1.6 et les versions ultérieures) peut être utilisée pour déployer des applications logicielles Java autonomes grâce à un simple clic sur le réseau.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Java property XML (*.xml)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T153754Z" creationid="Didier" creationdate="20160718T153754Z">
+        <seg>Propriété XML Java (*.xml)</seg>
       </tuv>
     </tu>
     <tu>
@@ -31390,6 +31438,14 @@ REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160212T143625Z" creationid="Didier" creationdate="20160212T143625Z">
         <seg>Schematron</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Schematron (*.sch)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T153756Z" creationid="Didier" creationdate="20160718T153756Z">
+        <seg>Schematron (*.sch)</seg>
       </tuv>
     </tu>
     <tu>
@@ -41858,6 +41914,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use Terms Appearing Separately in the Source Text</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T153516Z" creationid="Didier" creationdate="20160718T153516Z">
+        <seg>Utiliser les termes apparaissant séparément dans le texte source</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use all mine</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140203T141148Z" creationid="Didier" creationdate="20140203T141148Z">
@@ -49532,6 +49596,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>optionsAccessConfigDirMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T153552Z" creationid="Didier" creationdate="20160718T153552Z">
+        <seg>optionsAccessConfigDirMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>optionsAlwaysConfirmQuitCheckBoxMenuItem</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T104019Z">
@@ -49564,6 +49636,22 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>optionsAutoCompleteShowAutomaticallyItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T153546Z" creationid="Didier" creationdate="20160718T153546Z">
+        <seg>optionsAutoCompleteShowAutomaticallyItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>optionsColorsSelectionMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T153549Z" creationid="Didier" creationdate="20160718T153549Z">
+        <seg>optionsColorsSelectionMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>optionsExtTMXMenuItem</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T104035Z">
@@ -49576,6 +49664,22 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T104021Z">
         <seg>optionsFontSelectionMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>optionsGlossaryExactMatchCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T153518Z" creationid="Didier" creationdate="20160718T153518Z">
+        <seg>optionsGlossaryExactMatchCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>optionsGlossaryStemmingCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T153530Z" creationid="Didier" creationdate="20160718T153530Z">
+        <seg>optionsGlossaryStemmingCheckBoxMenuItem</seg>
       </tuv>
     </tu>
     <tu>
