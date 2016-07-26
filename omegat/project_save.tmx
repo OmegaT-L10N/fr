@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_0_9045" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_0_9075" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11127,6 +11127,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By default, it is not possible to select words in the source segment using the keyboard rather than the mouse.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160726T132740Z" creationid="Didier" creationdate="20160726T132740Z">
+        <seg>Par défaut, il n'est pas possible de sélectionner des mots dans le segment source à l'aide du clavier plutôt que de la souris.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By default, left justification is used for Left-To-Right (LTR) languages and right justification for Right-To-Left (RTL) languages.</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130416T175713Z">
@@ -21782,6 +21790,14 @@ patent against the party.</seg>
         <seg>In this mode, "&lt;g1&gt;Cursor lock of&lt;/g1&gt;" is displayed at the bottom of the pane.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160718T160625Z" creationid="Didier" creationdate="20160718T160625Z">
+        <seg>Dans ce mode, « &lt;g1&gt;Curseur déverrouillé&lt;/g1&gt; » est affiché en bas du volet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this mode, "&lt;g1&gt;Cursor lock off&lt;/g1&gt;" is displayed at the bottom of the pane.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160726T132747Z" creationid="Didier" creationdate="20160726T132747Z">
         <seg>Dans ce mode, « &lt;g1&gt;Curseur déverrouillé&lt;/g1&gt; » est affiché en bas du volet.</seg>
       </tuv>
     </tu>
