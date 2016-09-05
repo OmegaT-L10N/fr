@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_0_9207:9209" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_0_9075" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -142,6 +142,14 @@ License. Each licensee is addressed as "you". "Licensees" and
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg># MyMemory email</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T161748Z" creationid="Didier" creationdate="20160718T161748Z">
+        <seg># MyMemory email</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg># OmegaT.exe runtime configuration # To use a parameter, remove the '#' before the '-' # Memory -Xmx1024M # Language -Duser.language=FR # Country -Duser.country=CA</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130502T093946Z">
@@ -216,6 +224,22 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>${changedDate}</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T160937Z" creationid="Didier" creationdate="20160718T160937Z">
+        <seg>${changedDate}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>${changedID}</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T160925Z" creationid="Didier" creationdate="20160718T160925Z">
+        <seg>${changedID}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>${creationDate}</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T105236Z">
@@ -228,6 +252,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T105232Z">
         <seg>${creationID}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>${diffReversed}</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T160742Z" creationid="Didier" creationdate="20160718T160742Z">
+        <seg>${diffReversed}</seg>
       </tuv>
     </tu>
     <tu>
@@ -280,6 +312,22 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>${initialCreationDate}</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T160853Z" creationid="Didier" creationdate="20160718T160853Z">
+        <seg>${initialCreationDate}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>${initialCreationID}</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T160815Z" creationid="Didier" creationdate="20160718T160815Z">
+        <seg>${initialCreationID}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>${noStemScore}</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T105228Z">
@@ -308,6 +356,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T105226Z">
         <seg>${targetText}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>${translationNotice}</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T161241Z" creationid="Didier" creationdate="20160718T161241Z">
+        <seg>Ce document a été traduit par Didier Briel et Jean-Christophe Helary, copyright© 2007-2016.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1220,6 +1276,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160427T151335Z" creationid="Didier" creationdate="20160427T151335Z">
         <seg>Remplacer...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Replace...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T152247Z" creationid="Didier" creationdate="20160718T152247Z">
+        <seg>Rem&amp;placer...</seg>
       </tuv>
     </tu>
     <tu>
@@ -2730,6 +2794,18 @@ Le contenu à inclure dans la TMX pseudo-traduite.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>--remote-project
+		Download an omegat.project file from the URL given as &lt;project
+		path&gt; and load the project.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T150721Z" creationid="Didier" creationdate="20160718T150721Z">
+        <seg>--remote-project
+		Télécharger un fichier omegat.project depuis l'URL donnée comme &lt;chemin
+		projet&gt; et charger le projet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>--resource-bundle=&lt;path&gt;
 		A Java .properties file to use for interface text
 	--config-dir=&lt;path&gt;
@@ -2844,6 +2920,14 @@ Valider les balises.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>-Dmymemory.api.email=your@email-address.com</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T154536Z" creationid="Didier" creationdate="20160718T154536Z">
+        <seg>-Dmymemory.api.email=votre@adresse-email.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>-Dsun.java2d.noddraw=false</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20141202T174740Z" creationid="Didier" creationdate="20141202T174740Z">
@@ -2856,6 +2940,16 @@ Valider les balises.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160119T094036Z" creationid="Didier" creationdate="20160119T094036Z">
         <seg>-b BASE : chemin d'accès à la base (projet) kolekti à utiliser</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-h, --help
+		Show usage information.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T150643Z" creationid="Didier" creationdate="20160718T150643Z">
+        <seg>-h, --help
+		Afficher des informations sur l'utilisation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3894,7 +3988,7 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt; &lt;/e0&gt; is Copyright © 2000-2016 Keith Godfrey, Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik, Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Tony Graham, Phillip Hall, Jean-Christophe Helary, Chihiro Hio, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, Adiel Mittmann, Hiroshi Miura, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Ilia Vinogradov, Martin Wunderlich and Michael Zakharov.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20160905T151501Z" creationid="Didier" creationdate="20160905T151501Z">
+      <tuv lang="FR" changeid="Didier" changedate="20160718T152807Z" creationid="Didier" creationdate="20160718T152807Z">
         <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;&lt;/e0&gt; est protégé par le copyright © 2000-2016 Keith Godfrey, Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik, Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Tony Graham, Phillip Hall, Jean-Christophe Helary, Chihiro Hio, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, Adiel Mittmann, Hiroshi Miura, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Ilia Vinogradov, Martin Wunderlich et Michael Zakharov.</seg>
       </tuv>
     </tu>
@@ -5228,6 +5322,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;D&lt;/k2&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T154932Z" creationid="Didier" creationdate="20160718T154932Z">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Maj&lt;/k1&gt; &lt;k2&gt;D&lt;/k2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;G&lt;/k2&gt;</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20141202T180023Z" creationid="Didier" creationdate="20141202T180023Z">
@@ -5360,6 +5462,14 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
       <tuv lang="FR" changeid="brigitte" changedate="20130715T200045Z">
         <seg>&lt;k0&gt;F1 :&lt;/k0&gt; ouvre le navigateur d'aide qui affiche ce guide dans une fenêtre séparée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;k0&gt;F1:&lt;/k0&gt; Opens this manual in the default browser.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T155028Z" creationid="Didier" creationdate="20160718T155028Z">
+        <seg>&lt;k0&gt;F1 :&lt;/k0&gt; Ouvre ce manuel dans le navigateur par défaut.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6164,6 +6274,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Machine Translation&lt;/p0&gt; &lt;s1&gt;MyMemory&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T154241Z" creationid="Didier" creationdate="20160718T154241Z">
+        <seg>&lt;p0&gt;Traduction automatique&lt;/p0&gt; &lt;s1&gt;MyMemory&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Machine Translation&lt;/p0&gt; &lt;s1&gt;Troubleshooting&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130503T130555Z">
@@ -6848,6 +6966,14 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130502T134306Z">
         <seg>&lt;p0&gt;Exécution d'OmegaT&lt;/p0&gt; &lt;s1&gt;Mode ligne de commande&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Running OmegaT&lt;/p0&gt; &lt;s1&gt;Drag and drop&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T154100Z" creationid="Didier" creationdate="20160718T154100Z">
+        <seg>&lt;p0&gt;Exécution d'OmegaT&lt;/p0&gt; &lt;s1&gt;Glisser/déplacer&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8480,6 +8606,14 @@ or that patent license was granted, prior to 28 March 2007.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ANTLR (ANTLR 3 License)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T151835Z" creationid="Didier" creationdate="20160718T151835Z">
+        <seg>ANTLR (licence ANTLR 3)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ANTLR 3.4 (ANTLR 3 License)</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130423T094234Z">
@@ -8596,6 +8730,70 @@ or that patent license was granted, prior to 28 March 2007.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160322T170301Z" creationid="Didier" creationdate="20160322T170301Z">
         <seg>Accéder au contenu du projet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Access Project Contents/Current Source Document</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T153225Z" creationid="Didier" creationdate="20160718T153005Z">
+        <seg>Accéder au contenu du projet/Document source actuel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Access Project Contents/Current Target Document</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T153229Z" creationid="Didier" creationdate="20160718T153014Z">
+        <seg>Accéder au contenu du projet/Document cible actuel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Access Project Contents/Dictionaries</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T153206Z" creationid="Didier" creationdate="20160718T152928Z">
+        <seg>Accéder au contenu du projet/Dictionnaires</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Access Project Contents/Glossaries</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T153212Z" creationid="Didier" creationdate="20160718T152935Z">
+        <seg>Accéder au contenu du projet/Glossaires</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Access Project Contents/Root</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T153144Z" creationid="Didier" creationdate="20160718T152857Z">
+        <seg>Accéder au contenu du projet/Racine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Access Project Contents/Source Files</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T153216Z" creationid="Didier" creationdate="20160718T152945Z">
+        <seg>Accéder au contenu du projet/Fichiers source</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Access Project Contents/Target Files</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T153221Z" creationid="Didier" creationdate="20160718T152952Z">
+        <seg>Accéder au contenu du projet/Fichiers cible</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Access Project Contents/Writeable Glossary</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T153235Z" creationid="Didier" creationdate="20160718T153026Z">
+        <seg>Access Project Contents/Glossaire en écriture</seg>
       </tuv>
     </tu>
     <tu>
@@ -9543,6 +9741,14 @@ the predecessor has it or can get it with reasonable efforts.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An error occurred when loading the script: {0}</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T152124Z" creationid="Didier" creationdate="20160718T152124Z">
+        <seg>Une erreur s'est produite durant le chargement du script : {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An error occurred when loading the source files.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160427T153852Z" creationid="Didier" creationdate="20160427T153852Z">
@@ -9873,6 +10079,14 @@ void, and will automatically terminate your rights under this License.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130502T083920Z">
         <seg>Tout ce qui se trouve après « // » sera ignoré.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Apache Commons (Apache License 2.0)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T151901Z" creationid="Didier" creationdate="20160718T151901Z">
+        <seg>Apache Commons (licence Apache 2.0)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10249,6 +10463,22 @@ provoquer des comportements inattendus, mais corrects.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Author of the match when the match was created</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T161000Z" creationid="Didier" creationdate="20160718T160847Z">
+        <seg>Auteur de la correspondance lors de sa création</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Author of the match when the match was last updated</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T161005Z" creationid="Didier" creationdate="20160718T160936Z">
+        <seg>Auteur de la correspondance lors de sa dernière modification</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Auto replace 'nplurals=INTEGER; &amp;plural=EXPRESSION;' in header</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20120918T152206Z">
@@ -10309,6 +10539,14 @@ provoquer des comportements inattendus, mais corrects.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140414T134350Z" creationid="Didier" creationdate="20140414T134350Z">
         <seg>Saisie automatique/Glossaire...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Auto-completion/Show Relevant Suggestions Automatically</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T153543Z" creationid="Didier" creationdate="20160718T153543Z">
+        <seg>Saisie automatique/Afficher automatiquement les suggestions pertinentes</seg>
       </tuv>
     </tu>
     <tu>
@@ -10865,10 +11103,34 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By default the editor displays 2,000 of initial segments, and progressively loads more as you scroll up or down.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T153636Z" creationid="Didier" creationdate="20160718T153636Z">
+        <seg>Par défaut, l'éditeur affiche 2000µ segments initiaux, et en charge progressivement davantage lorsque vous faites défiler l'affichage vers le haut ou vers le bas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By default, 512 MB are assigned, so there is no advantage in assigning less than this figure.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130502T133215Z">
         <seg>512 Mo lui sont attribués par défaut. Il n'y a donc aucun intérêt à lui en attribuer moins.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By default, MyMemory allows a maximum of 100 requests per day.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T154316Z" creationid="Didier" creationdate="20160718T154313Z">
+        <seg>Par défaut, MyMemory autorise un maximum de 100 requêtes par jour.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By default, it is not possible to select words in the source segment using the keyboard rather than the mouse.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160726T132740Z" creationid="Didier" creationdate="20160726T132740Z">
+        <seg>Par défaut, il n'est pas possible de sélectionner des mots dans le segment source à l'aide du clavier plutôt que de la souris.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10913,10 +11175,26 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By default.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T160316Z" creationid="Didier" creationdate="20160718T160306Z">
+        <seg>Par défaut,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By deleting a tag group you will remove the related formatting from the translated file.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130430T140713Z">
         <seg>En supprimant un groupe de balises, vous supprimez le formatage correspondant du fichier traduit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By specifying an email address, it is possible to use 1000 requests per day instead of 100 ones.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T154351Z" creationid="Didier" creationdate="20160718T154351Z">
+        <seg>En spécifiant une adresse électronique, il est possible d'utiliser 1000 requêtes par jour au lieu de 100.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11005,6 +11283,14 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160427T154908Z" creationid="Didier" creationdate="20160427T154908Z">
         <seg>Annuler l'alignement précis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cancel only works on scripts that explicitly check for cancellation.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T152050Z" creationid="Didier" creationdate="20160718T152050Z">
+        <seg>L'annulation ne fonctionne que pour les scripts qui surveillent explicitement l'annulation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11237,6 +11523,14 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130506T123241Z">
         <seg>La modification de ce marqueur ne modifie pas la segmentation des mémoires de traduction déjà existantes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Character</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T152453Z" creationid="Didier" creationdate="20160718T152453Z">
+        <seg>Caractère</seg>
       </tuv>
     </tu>
     <tu>
@@ -12177,6 +12471,18 @@ kolekti -b C:\[...]\trunk\doc_src2 publish [-j JOB] -l fr,en C:\[...]\trunk\doc_
       <tuv lang="FR" changeid="Didier" changedate="20160119T094129Z" creationid="Didier" creationdate="20160119T094129Z">
         <seg>Exemple de ligne de commande :
 kolekti -b C:\[...]\trunk\doc_src2 publish [-j JOB] -l fr,en C:\[...]\trunk\doc_src2\sources\{LANG}\tocs\UserGuide.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Commands:
+	-h, --help
+		Show usage information.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T150812Z" creationid="Didier" creationdate="20160718T150812Z">
+        <seg>Commandes :
+	-h, --help
+		Afficher des informations sur l'utilisation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13349,48 +13655,48 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       <tuv lang="EN">
         <seg>Ctrl+Shift+C</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20160905T151548Z" creationid="Didier" creationdate="20160905T151548Z">
-        <seg>Ctrl+Shift+C</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T153051Z" creationid="Didier" creationdate="20160718T153051Z">
+        <seg>Ctrl+Maj+C</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Ctrl+Shift+D</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20160905T151525Z" creationid="Didier" creationdate="20160905T151525Z">
-        <seg>Ctrl+Shift+D</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T152830Z" creationid="Didier" creationdate="20160718T152830Z">
+        <seg>Ctrl+Maj+D</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Ctrl+Shift+F</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20160905T151552Z" creationid="Didier" creationdate="20160905T151552Z">
-        <seg>Ctrl+Shift+F</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T153058Z" creationid="Didier" creationdate="20160718T153058Z">
+        <seg>Ctrl+Maj+F</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Ctrl+Shift+G</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20160905T151550Z" creationid="Didier" creationdate="20160905T151550Z">
-        <seg>Ctrl+Shift+G</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T153055Z" creationid="Didier" creationdate="20160718T153055Z">
+        <seg>Ctrl+Maj+G</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Ctrl+Shift+I</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20160905T151542Z" creationid="Didier" creationdate="20160905T151542Z">
-        <seg>Ctrl+Shift+I</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T153040Z" creationid="Didier" creationdate="20160718T153040Z">
+        <seg>Ctrl+Maj+I</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Ctrl+Shift+M</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20160905T151812Z" creationid="Didier" creationdate="20160905T151812Z">
-        <seg>Ctrl+Shift+M</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T153434Z" creationid="Didier" creationdate="20160718T153434Z">
+        <seg>Ctrl+Maj+M</seg>
       </tuv>
     </tu>
     <tu>
@@ -13429,40 +13735,48 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       <tuv lang="EN">
         <seg>Ctrl+Shift+Q</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20160905T151807Z" creationid="Didier" creationdate="20160905T151807Z">
-        <seg>Ctrl+Shift+Q</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T153426Z" creationid="Didier" creationdate="20160718T153426Z">
+        <seg>Ctrl+Maj+Q</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Ctrl+Shift+R</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20160905T151538Z" creationid="Didier" creationdate="20160905T151538Z">
-        <seg>Ctrl+Shift+R</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T153033Z" creationid="Didier" creationdate="20160718T153033Z">
+        <seg>Ctrl+Maj+R</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Ctrl+Shift+S</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20160905T151739Z" creationid="Didier" creationdate="20160905T151739Z">
-        <seg>Ctrl+Shift+S</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T153342Z" creationid="Didier" creationdate="20160718T153342Z">
+        <seg>Ctrl+Maj+S</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Ctrl+Shift+T</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20160905T151545Z" creationid="Didier" creationdate="20160905T151545Z">
-        <seg>Ctrl+Shift+T</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T153047Z" creationid="Didier" creationdate="20160718T153047Z">
+        <seg>Ctrl+Maj+T</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Ctrl+Shift+U</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20160905T151742Z" creationid="Didier" creationdate="20160905T151742Z">
-        <seg>Ctrl+Shift+U</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T153407Z" creationid="Didier" creationdate="20160718T153407Z">
+        <seg>Ctrl+Maj+U</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Shift+V</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T153444Z" creationid="Didier" creationdate="20160718T153444Z">
+        <seg>Ctrl+Maj+V</seg>
       </tuv>
     </tu>
     <tu>
@@ -13743,6 +14057,22 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130425T201857Z">
         <seg>Date de création de la correspondance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Date of the match when the match was created</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T160924Z" creationid="Didier" creationdate="20160718T160924Z">
+        <seg>Date de la correspondance lors de sa création</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Date of the match when the match was last updated</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T160951Z" creationid="Didier" creationdate="20160718T160951Z">
+        <seg>Date de la correspondance lors de sa dernière modification</seg>
       </tuv>
     </tu>
     <tu>
@@ -14524,6 +14854,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Doc&amp;ument properties</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T151757Z" creationid="Didier" creationdate="20160718T151757Z">
+        <seg>Pr&amp;opriétés du document</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>DocBook</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130531T094242Z">
@@ -15160,6 +15498,30 @@ by the Free Software Foundation.</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130421T001850Z">
         <seg>Edition</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit &gt; Create Glossary Entry (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;G&lt;/k3&gt; &lt;/k0&gt;): add a new glossary item.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T155503Z" creationid="Didier" creationdate="20160718T155503Z">
+        <seg>Edition &gt; Créer une entrée de glossaire (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Maj&lt;/k2&gt; &lt;k3&gt;G&lt;/k3&gt; &lt;/k0&gt;) : ajoute une nouvelle entrée de glossaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit &gt; Insert source (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;I&lt;/k3&gt; &lt;/k0&gt;): insert current segment source.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T155335Z" creationid="Didier" creationdate="20160718T155335Z">
+        <seg>Edition &gt; Insérer le texte source (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Maj&lt;/k2&gt; &lt;k3&gt;I&lt;/k3&gt; &lt;/k0&gt;) : insère le segment source actuel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit &gt; Replace with source (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;R&lt;/k3&gt; &lt;/k0&gt;): replace with current segment source.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T155423Z" creationid="Didier" creationdate="20160718T155423Z">
+        <seg>Edition &gt; Remplacer par la source (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Maj&lt;/k2&gt; &lt;k3&gt;R&lt;/k3&gt; &lt;/k0&gt;) : remplace par le segment source actuel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16462,6 +16824,22 @@ The FSF strongly urges you not to use this translation as the official distribu-
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>File &gt; Close (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;W&lt;/k2&gt; &lt;/k0&gt;): close the search window (in the same way as &lt;k3&gt;Esc&lt;/k3&gt;)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T155247Z" creationid="Didier" creationdate="20160718T155247Z">
+        <seg>Fichier &gt; Fermer (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;W&lt;/k2&gt; &lt;/k0&gt;) : ferme la fenêtre de recherche (de la même façon qu'&lt;k3&gt;Échap&lt;/k3&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File &gt; Search for selection (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt;): refocus on the search field and select all its contents.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T155159Z" creationid="Didier" creationdate="20160718T155159Z">
+        <seg>Fichier &gt; Rechercher la sélection (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt;) : redonne le focus au champ de recherche et sélectionne tout son contenu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>File Copy Failed</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130412T134702Z">
@@ -17027,6 +17405,14 @@ control compilation and installation of the executable.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, &lt;e0&gt;a+&lt;/e0&gt; will match the aaa in &lt;e1&gt;aaabbb&lt;/e1&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T155056Z" creationid="Didier" creationdate="20160718T155056Z">
+        <seg>Par exemple, &lt;e0&gt;a+&lt;/e0&gt; correspondra au aaa dans &lt;e1&gt;aaabbb&lt;/e1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, &lt;e0&gt;a+?&lt;/e0&gt; will match the aaa in &lt;e1&gt;aaabbb&lt;/e1&gt;</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130424T074145Z">
@@ -17241,6 +17627,14 @@ know their rights.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130506T083029Z">
         <seg>Par exemple, &lt;l0&gt;« run? »&lt;/l0&gt; correspondra au mot &lt;l1&gt;« runs »&lt;/l1&gt; et &lt;l2&gt;« runn »&lt;/l2&gt; dans le mot &lt;l3&gt;« running »&lt;/l3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For instance, &lt;string&gt;-Xmx2048M&lt;/string&gt; will launch OmegaT with 2 gigas of memory.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T154051Z" creationid="Didier" creationdate="20160718T154051Z">
+        <seg>Par exemple, &lt;string&gt;-Xmx2048M&lt;/string&gt; lancera OmegaT avec 2 gigas de mémoire.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17492,6 +17886,14 @@ authors of previous versions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Forward-Backward</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T152420Z" creationid="Didier" creationdate="20160718T152420Z">
+        <seg>Avant-Arrière</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Found in:</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130624T092251Z">
@@ -17732,6 +18134,17 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>General
+In order to run, OmegaT requires the Java Runtime Environment (JRE) version 
+1.8 or higher to be installed on your system.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T161309Z" creationid="Didier" creationdate="20160718T161309Z">
+        <seg>Informations générales
+Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de version 1.8 ou supérieure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Generalities</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20141202T213818Z" creationid="Didier" creationdate="20141202T213818Z">
@@ -17776,6 +18189,14 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20120421T052437Z">
         <seg>Git</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Git '{0}' did nothing because there were no changes</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T152310Z" creationid="Didier" creationdate="20160718T152310Z">
+        <seg>Git « {0} » n'a effectué aucune action parce qu'il n'y avait aucun changement</seg>
       </tuv>
     </tu>
     <tu>
@@ -17972,6 +18393,22 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Glossary/Display Context Description for TBX Glossaries</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T153507Z" creationid="Didier" creationdate="20160718T153507Z">
+        <seg>Glossaires/Afficher la description du contexte pour les glossaires TBX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Glossary/Use Stemming for Glossary Entries</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T153528Z" creationid="Didier" creationdate="20160718T153528Z">
+        <seg>Glossaires/Utiliser la lemmatisation pour les entrées de glossaire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Gnomovision comes with ABSOLUTELY NO WARRANTY; for details type `show w'.</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130419T194712Z">
@@ -18144,6 +18581,14 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130412T082423Z">
         <seg>Grec moderne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Groovy (Apache Licence 2.0)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T151954Z" creationid="Didier" creationdate="20160718T151954Z">
+        <seg>Groovy (licence Apache 2.0)</seg>
       </tuv>
     </tu>
     <tu>
@@ -18544,6 +18989,38 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20151111T093126Z" creationid="Didier" creationdate="20151111T093126Z">
         <seg>Hiroshi Miura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>History Completion</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T151338Z" creationid="Didier" creationdate="20160718T151338Z">
+        <seg>Saisie historique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>History Completions</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T152332Z" creationid="Didier" creationdate="20160718T152332Z">
+        <seg>Saisie historique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>History Prediction</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T151403Z" creationid="Didier" creationdate="20160718T151403Z">
+        <seg>Prédiction historique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>History Predictions</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T152338Z" creationid="Didier" creationdate="20160718T152338Z">
+        <seg>Prédictions historique</seg>
       </tuv>
     </tu>
     <tu>
@@ -19186,6 +19663,16 @@ compelled to copy the source along with the object code.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If invoked in a git working tree or svn checkout, the results
+		will be staged/added.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T151039Z" creationid="Didier" creationdate="20160718T150957Z">
+        <seg>Si la commande est lancée dans une arborescence git ou une copie de travail svn, les résultats
+		seront mis en attente/ajoutés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If it is &lt;e0&gt;tar.bz&lt;/e0&gt;, you have forgotten to unpack (untar) it.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130412T135116Z">
@@ -19663,6 +20150,22 @@ authors' reputations.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If they &lt;e0&gt;don't need&lt;/e0&gt; to stay immune from further changes, then remove the TMX from /tm/enforce.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T160051Z" creationid="Didier" creationdate="20160718T160051Z">
+        <seg>S'il n'est &lt;e0&gt;pas nécessaire&lt;/e0&gt; qu'ils restent protégés de futurs changements, supprimez la TMX de /tm/enforce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If they &lt;e0&gt;need&lt;/e0&gt; to stay immune from further changes, then keep the TMX in /tm/enforce.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T160149Z" creationid="Didier" creationdate="20160718T160149Z">
+        <seg>S'il est &lt;e0&gt;nécessaire&lt;/e0&gt; qu'ils restent protégés de futurs changements, conservez la TMX dans /tm/enforce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If they are accidentally changed, the formatting of the final file may be corrupted.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130528T131624Z">
@@ -20063,6 +20566,14 @@ free software which everyone can redistribute and change under these terms.</seg
       </tuv>
       <tuv lang="FR" changeid="brigitte" changedate="20130715T191759Z">
         <seg>Si l'option TransTips est activée (&lt;g0&gt;Options → TransTips&lt;/g0&gt;), un clic droit sur le mot souligné dans le segment source permet d'ouvrir un menu contextuel qui suggère les traductions proposées par votre glossaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you have a powerful machine, and/or if you don't like how the scrollbar behaves during progressive loading, you can increase this number.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T153739Z" creationid="Didier" creationdate="20160718T153739Z">
+        <seg>Si vous disposez d'une machine puissante, ou que vous n'appréciez pas le comportement de la barre de défilement durant le chargement progressif, vous pouvez utiliser un nombre plus grand.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20926,6 +21437,14 @@ the scope of this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In other platforms, you can modify &lt;f4&gt;Configuration.properties&lt;/f4&gt; file on the Mac, or &lt;f5&gt;OmegaT&lt;/f5&gt; launcher under Linux to do the same.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T154225Z" creationid="Didier" creationdate="20160718T154121Z">
+        <seg>Sur les autres plateformes, vous pouvez modifier le fichier &lt;f4&gt;Configuration.properties&lt;/f4&gt; sur le Mac, ou le lanceur &lt;f5&gt;OmegaT&lt;/f5&gt; sous Linux pour effectuer la même tâche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In other platforms, you can modify your launcher (e.g., &lt;f4&gt;OmegaT.sh&lt;/f4&gt; on the Mac, &lt;f5&gt;OmegaT&lt;/f5&gt; under Linux) to do the same.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20150313T151052Z" creationid="Didier" creationdate="20150313T151052Z">
@@ -21268,6 +21787,22 @@ patent against the party.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In this mode, "&lt;g1&gt;Cursor lock of&lt;/g1&gt;" is displayed at the bottom of the pane.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T160625Z" creationid="Didier" creationdate="20160718T160625Z">
+        <seg>Dans ce mode, « &lt;g1&gt;Curseur déverrouillé&lt;/g1&gt; » est affiché en bas du volet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this mode, "&lt;g1&gt;Cursor lock off&lt;/g1&gt;" is displayed at the bottom of the pane.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160726T132747Z" creationid="Didier" creationdate="20160726T132747Z">
+        <seg>Dans ce mode, « &lt;g1&gt;Curseur déverrouillé&lt;/g1&gt; » est affiché en bas du volet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In this mode, OmegaT will align the Java properties files found in the&lt;l0&gt; /source/ &lt;/l0&gt;folder of the project to the contents found at the specified location.</seg>
       </tuv>
       <tuv lang="FR" changeid="brigitte" changedate="20130714T133756Z">
@@ -21396,6 +21931,14 @@ patent against the party.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Initialized en-ja team project.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T151137Z" creationid="Didier" creationdate="20160718T151137Z">
+        <seg>Projet en équipe en-ja initialisé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Initializing</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20120131T094553Z">
@@ -21408,6 +21951,14 @@ patent against the party.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130430T114320Z">
         <seg>Vide à l'origine, ce dossier contiendra les dictionnaires que vous aurez ajoutés au projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Initially load this many segments</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T153600Z" creationid="Didier" creationdate="20160718T153600Z">
+        <seg>Nombre de segments à charger initialement</seg>
       </tuv>
     </tu>
     <tu>
@@ -21850,6 +22401,14 @@ exécutez simplement le programme d'installation.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160427T150501Z" creationid="Didier" creationdate="20160427T150501Z">
         <seg>Type de référentiel non valide : {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Invoke `team -h` for details.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T150619Z" creationid="Didier" creationdate="20160718T150619Z">
+        <seg>Utiliser « team -h » pour des détails.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22483,6 +23042,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Java property XML (*.xml)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T153754Z" creationid="Didier" creationdate="20160718T153754Z">
+        <seg>Propriété XML Java (*.xml)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Java resource bundles (*.properties)</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130416T140836Z">
@@ -22535,6 +23102,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130527T125729Z">
         <seg>Jean-Christophe Helary : remerciements particuliers à JC pour sa description concise de l'exécution d'OmegaT, des paramètres de ses lignes de commandes et de tous les autres petits détails que je n'ai pas encore repérés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Jmyspell (LGPL License)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T151817Z" creationid="Didier" creationdate="20160718T151817Z">
+        <seg>Jmyspell (license LGPL)</seg>
       </tuv>
     </tu>
     <tu>
@@ -22967,6 +23542,22 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Langue non spécifiée pour la variante d'unité de traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool (LGPL License and others)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T151912Z" creationid="Didier" creationdate="20160718T151912Z">
+        <seg>LanguageTool (licence LGPL et autres)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool (LGPL license and others)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T161720Z" creationid="Didier" creationdate="20160718T161720Z">
+        <seg>LanguageTool (licence LGPL et autres)</seg>
       </tuv>
     </tu>
     <tu>
@@ -23522,6 +24113,16 @@ automatically download and install it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LuceneEnglishTokenizer uses stop words originally from Okapi
+(http://okapi.sourceforge.net) (LGPL license)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T161708Z" creationid="Didier" creationdate="20160718T161708Z">
+        <seg>LuceneEnglishTokenizer) utilisent des mots non significatifs d'Okapi
+(http://okapi.sourceforge.net) (licence LGPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Luganda</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130519T100757Z">
@@ -23628,6 +24229,16 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="FR" changeid="Didier" changedate="20120411T090414Z">
         <seg>Utilisateurs de Mac :
 le JRE est déjà installé sur Mac OX X antérieur à Mac OS X 10.7 (Lion).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mac users: 
+The Mac version comes bundled with a JRE.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T161404Z" creationid="Didier" creationdate="20160718T161404Z">
+        <seg>Utilisateur de Macs : 
+La version Mac intègre un JRE.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23764,6 +24375,22 @@ le JRE est déjà installé sur Mac OX X antérieur à Mac OS X 10.7 (Lion).</se
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130506T093916Z">
         <seg>Il est préférable d'éviter de trop modifier les règles de segmentation, surtout si le premier jet de la traduction a déjà été effectué. Néanmoins, des changements mineurs (comme l'ajout d'abréviations reconnues) peuvent s'avérer intéressants.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Make a slight change anywhere in the project.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T160102Z" creationid="Didier" creationdate="20160718T155801Z">
+        <seg>Effectuez une légère modification à un emplacement quelconque du projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Make decision about immunity of the enforced segments:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T160007Z" creationid="Didier" creationdate="20160718T160007Z">
+        <seg>Prenez une décision sur la pérennité des segments forcés :</seg>
       </tuv>
     </tu>
     <tu>
@@ -24965,6 +25592,30 @@ impose that choice.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>MyMemory offers also the possibility to manage &lt;e0&gt;private TMs&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T154831Z" creationid="Didier" creationdate="20160718T154831Z">
+        <seg>MyMemory offre également la possibilité de gérer des &lt;e0&gt;mémoires de traduction privées&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>MyMemory provides also &lt;e0&gt;Human translations&lt;/e0&gt; originating from professional translators, LSPs, customers and multilingual web content.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T154703Z" creationid="Didier" creationdate="20160718T154703Z">
+        <seg>MyMemory fournit également des &lt;e0&gt;traduction humaines&lt;/e0&gt; provenant de traducteurs professionnels, d'agences de traduction, de clients et de contenu web multilingue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>MyMemory your@email-address.com</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T154502Z" creationid="Didier" creationdate="20160718T154502Z">
+        <seg>MyMemory votre@adresse-email.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Māori</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T100106Z">
@@ -25159,7 +25810,7 @@ impose that choice.</seg>
       <tuv lang="EN">
         <seg>Next Unique Segment</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20160905T151806Z" creationid="Didier" creationdate="20160905T151806Z">
+      <tuv lang="FR" changeid="Didier" changedate="20160718T153422Z" creationid="Didier" creationdate="20160718T153422Z">
         <seg>Segment unique suivant</seg>
       </tuv>
     </tu>
@@ -25393,6 +26044,14 @@ Diminue les sorties sur stdout de la ligne de commande.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130528T082930Z">
         <seg>Le formatage non visible (c'est-à-dire qui n'apparaît pas sous forme de balises dans l'Éditeur d'OmegaT) est conservé dans les documents cibles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Normal</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T152421Z" creationid="Didier" creationdate="20160718T152421Z">
+        <seg>Normal</seg>
       </tuv>
     </tu>
     <tu>
@@ -25834,6 +26493,14 @@ Rajout d'une partie approriée, afin que la note de bas de page ne se retrouve p
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note: OmegaT does not interact dynamically with them (you must export/import TMX files manually).</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T154926Z" creationid="Didier" creationdate="20160718T154926Z">
+        <seg>Note : OmegaT n’interagit pas de façon dynamique avec ces mémoires (vous devez exporter/importer ces fichiers TMX manuellement).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note: Source File Encoding setting affects only the HHC and HHK files that do not contain an encoding declaration.</seg>
       </tuv>
       <tuv lang="FR">
@@ -25862,6 +26529,22 @@ Rajout d'une partie approriée, afin que la note de bas de page ne se retrouve p
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20141202T222845Z" creationid="Didier" creationdate="20141202T222845Z">
         <seg>Note : les noms des fichiers (dans la première colonne) peuvent être triés par ordre alphabétique en cliquant sur l'en-tête.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note: if TMX is removed from /tm/auto before step 3, no extra Translation Unit is added.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T155912Z" creationid="Didier" creationdate="20160718T155912Z">
+        <seg>Note : si la TMX est supprimée de /tm/auto avant l'étape 3, no aucune traduction supplémentaire n'est ajoutée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note: if TMX is removed from /tm/enforce before step 3, enforcements aren't kept at all.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T160223Z" creationid="Didier" creationdate="20160718T160223Z">
+        <seg>Note : si la TMX est supprimée de /tm/enforce avant l'étape 3, les segments forcés ne sont pas conservés.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25988,48 +26671,48 @@ Rajout d'une partie approriée, afin que la note de bas de page ne se retrouve p
       <tuv lang="EN">
         <seg>Notify Me When a Segment Has Comments</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20160427T151009Z" creationid="Didier" creationdate="20160427T151009Z">
-        <seg>M'avertir lorsqu'un segment a des commentaires</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T175816Z" creationid="Didier" creationdate="20160427T151009Z">
+        <seg>M'avertir lorsqu'un segment comporte des commentaires</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Notify Me When a Segment Has Dictionary Entries</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20160427T150952Z" creationid="Didier" creationdate="20160427T150952Z">
-        <seg>M'avertir lorsqu'un segment a des entrées de dictionnaire</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T175736Z" creationid="Didier" creationdate="20160427T150952Z">
+        <seg>M'avertir lorsqu'un segment comporte des entrées de dictionnaire</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Notify Me When a Segment Has Fuzzy Matches</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20160427T150809Z" creationid="Didier" creationdate="20160427T150809Z">
-        <seg>M'avertir lorsqu'un segment a des correspondances</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T175725Z" creationid="Didier" creationdate="20160427T150809Z">
+        <seg>M'avertir lorsqu'un segment comporte des correspondances</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Notify Me When a Segment Has Glossary Hits</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20160427T150917Z" creationid="Didier" creationdate="20160427T150917Z">
-        <seg>M'avertir lorsqu'un segment a des entrées de glossaire</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T175729Z" creationid="Didier" creationdate="20160427T150917Z">
+        <seg>M'avertir lorsqu'un segment comporte des entrées de glossaire</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Notify Me When a Segment Has Multiple Translations</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20160427T151105Z" creationid="Didier" creationdate="20160427T151105Z">
-        <seg>M'avertir lorsqu'un segment a plusieurs traductions</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T175823Z" creationid="Didier" creationdate="20160427T151105Z">
+        <seg>M'avertir lorsqu'un segment comporte plusieurs traductions</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Notify Me When a Segment Has Notes</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20160427T160741Z" creationid="Didier" creationdate="20160427T160741Z">
-        <seg>M'avertir lorsqu'un segment a des notes</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T175742Z" creationid="Didier" creationdate="20160427T160741Z">
+        <seg>M'avertir lorsqu'un segment comporte des notes</seg>
       </tuv>
     </tu>
     <tu>
@@ -26275,6 +26958,14 @@ mouse-clicks or menu items--whatever suits your program.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT 4.0, Read Me file</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T161245Z" creationid="Didier" creationdate="20160718T161245Z">
+        <seg>OmegaT 4.0, fichier « Lisez-moi »</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT Custom Colours</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20141022T161130Z" creationid="Didier" creationdate="20141022T161130Z">
@@ -26391,6 +27082,14 @@ mouse-clicks or menu items--whatever suits your program.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130527T142213Z">
         <seg>OmegaT peut vérifier que les variables de programmation du texte source (par exemple %s) existent dans la traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT configuration launchers (OmegaT.l4J.ini, omegat.kaptn and Configuration.properties) contain a template entry.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T155700Z" creationid="Didier" creationdate="20160718T155700Z">
+        <seg>Les lanceurs de configuration d'OmegaT (OmegaT.l4J.ini, omegat.kaptn et Configuration.properties) contiennent un modèle d'entrée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27386,6 +28085,14 @@ happen should you file a bug report.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open the project.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T160057Z" creationid="Didier" creationdate="20160718T155724Z">
+        <seg>Ouvrez le projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open the window with &lt;g0&gt;Ctrl+T.</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130426T153532Z">
@@ -27578,6 +28285,14 @@ happen should you file a bug report.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Options are changed by modifying &lt;e0&gt;Configuration.properties&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T153933Z" creationid="Didier" creationdate="20160718T153933Z">
+        <seg>Les options se modifient en éditant &lt;e0&gt;Configuration.properties&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Options are changed by modifying &lt;e0&gt;OmegaT.sh&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20141202T175013Z" creationid="Didier" creationdate="20141202T175013Z">
@@ -27614,6 +28329,22 @@ happen should you file a bug report.</seg>
 	Chemin du projet uniquement : lancer l'interface utilisateur et charger le projet spécifié
 	-h, --help
 		Afficher des informations sur l'utilisation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Options:
+	None: Launch GUI
+	Project path only: Launch GUI and load specified project
+	team
+		Team project tool.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T150600Z" creationid="Didier" creationdate="20160718T150600Z">
+        <seg>Options :
+	Aucune : lancer l'interface utilisateur
+	Chemin du projet uniquement : lancer l'interface utilisateur et charger
+	le projet en équipe spécifié
+		Outil de création de projet en équipe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27806,6 +28537,15 @@ Afficher des informations sur l'utilisation.</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130426T143520Z">
         <seg>Autres fenêtres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Otherwise you must download and
+install the Oracle JRE on your own.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T161438Z" creationid="Didier" creationdate="20160718T161438Z">
+        <seg>Sinon, vous devez télécharger et installer le JRE d'Oracle vous-même.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28224,6 +28964,18 @@ of promoting the sharing and reuse of software generally.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Place source files in ./source and supplemental
+material in ./tm, ./glossary, and ./dictionary as required, then commit
+everything.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T151255Z" creationid="Didier" creationdate="20160718T151255Z">
+        <seg>Placez les fichiers ./source et les matériels supplémentaires dans
+./tm, ./glossary et /dictionary selon les besoins, puis validez (commit)
+l'ensemble.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Place the dictionary files you wish to use in this folder.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130506T110335Z">
@@ -28546,6 +29298,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Poisson</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T152424Z" creationid="Didier" creationdate="20160718T152424Z">
+        <seg>Poisson</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Polish</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130411T090328Z">
@@ -28708,10 +29468,26 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Pressing &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;F&lt;/k3&gt; &lt;/k0&gt; displays the last already opened Search window (instead of opening a new one).</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T155012Z" creationid="Didier" creationdate="20160718T155012Z">
+        <seg>Un appui sur &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Maj&lt;/k2&gt; &lt;k3&gt;F&lt;/k3&gt; &lt;/k0&gt; affiche la dernière fenêtre de recherche ouverte (au lieu d'en ouvrir une nouvelle).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Pressing &lt;k0&gt;Enter&lt;/k0&gt; will move the Editor pane to the top of the file selected</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130507T124157Z">
         <seg>Appuyer sur &lt;k0&gt;Entrée&lt;/k0&gt; déplacera le volet Editeur au début du fichier sélectionné</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pressing &lt;k0&gt;F2&lt;/k0&gt; key allows to move the cursor into the source segment (or anywhere in the editor) with the keyboard arrows.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T160421Z" creationid="Didier" creationdate="20160718T160421Z">
+        <seg>Un appui sur la touche &lt;k0&gt;F2&lt;/k0&gt; permet de déplacer le curseur dans le segment source (ou à n'importe quel emplacement dans l'éditeur) avec les touches fléchées.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28890,6 +29666,14 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Fichiers du projet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project Files ({0} of {1})</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T151416Z" creationid="Didier" creationdate="20160718T151416Z">
+        <seg>Fichiers du projet ({0} sur {1})</seg>
       </tuv>
     </tu>
     <tu>
@@ -29234,6 +30018,22 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20120420T210730Z">
         <seg>L'envoi a échoué.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Put the TMX in /tm/auto.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T160054Z" creationid="Didier" creationdate="20160718T155712Z">
+        <seg>Placez la TMX dans /tm/auto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Put the TMX in /tm/enforce.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T160107Z" creationid="Didier" creationdate="20160718T155919Z">
+        <seg>Placez la TMX dans /tm/enforce.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30512,6 +31312,14 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Right-clicking on a filename opens a popup that allows to open the source file and (if it exists) the target file.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T161111Z" creationid="Didier" creationdate="20160718T161111Z">
+        <seg>Effectuer un clic droit sur un nom de fichier ouvre une fenêtre contextuelle qui permet d'ouvrir le fichier source et (s'il existe) le fichier cible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Right-clicking on an underlined word (Artund in the figure above) opens a drop-down menu listing suggestions for the correction (Art und).</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130506T112227Z">
@@ -30706,6 +31514,14 @@ REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SQLJet (GPL License)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T151842Z" creationid="Didier" creationdate="20160718T151842Z">
+        <seg>SQLJet (licence GPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SQLJet 1.1.10 (GPL License)</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140725T163411Z" creationid="Didier" creationdate="20140725T163411Z">
@@ -30810,10 +31626,26 @@ REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SVNKit (TMate License)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T151826Z" creationid="Didier" creationdate="20160718T151826Z">
+        <seg>SVNKit (licence TMate)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SVNKit 1.7.5 (TMate License)</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20120708T144745Z">
         <seg>SVNKit 1.7.5 (licence TMate)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SVNKit 1.8.12 (TMate License)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T161531Z" creationid="Didier" creationdate="20160718T161531Z">
+        <seg>SVNKit 1.8.12 (licence TMate)</seg>
       </tuv>
     </tu>
     <tu>
@@ -30838,6 +31670,14 @@ REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20101223T174931Z">
         <seg>Sabine Cretella</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Same as ${diff}, but with the differences (what is to be inserted and deleted) inverted.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T160813Z" creationid="Didier" creationdate="20160718T160813Z">
+        <seg>Identique à ${diff}, mais avec les différences (ce qui doit être inséré et supprimé) inversées.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31054,6 +31894,14 @@ REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160212T143625Z" creationid="Didier" creationdate="20160212T143625Z">
         <seg>Schematron</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Schematron (*.sch)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T153756Z" creationid="Didier" creationdate="20160718T153756Z">
+        <seg>Schematron (*.sch)</seg>
       </tuv>
     </tu>
     <tu>
@@ -32029,40 +32877,40 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       <tuv lang="EN">
         <seg>Select Match #1</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20160905T151714Z" creationid="Didier" creationdate="20160905T151714Z">
-        <seg>Choisir la correspondance n° 1</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T153310Z" creationid="Didier" creationdate="20160718T153310Z">
+        <seg>Choisir la correspondance #1</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Select Match #2</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20160905T151720Z" creationid="Didier" creationdate="20160905T151720Z">
-        <seg>Choisir la correspondance n° 2</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T153315Z" creationid="Didier" creationdate="20160718T153315Z">
+        <seg>Choisir la correspondance #2</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Select Match #3</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20160905T151724Z" creationid="Didier" creationdate="20160905T151724Z">
-        <seg>Choisir la correspondance n° 3</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T153320Z" creationid="Didier" creationdate="20160718T153320Z">
+        <seg>Choisir la correspondance #3</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Select Match #4</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20160905T151728Z" creationid="Didier" creationdate="20160905T151728Z">
-        <seg>Choisir la correspondance n° 4</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T153325Z" creationid="Didier" creationdate="20160718T153325Z">
+        <seg>Choisir la correspondance #4</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Select Match #5</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20160905T151732Z" creationid="Didier" creationdate="20160905T151732Z">
-        <seg>Choisir la correspondance n° 5</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T153330Z" creationid="Didier" creationdate="20160718T153330Z">
+        <seg>Choisir la correspondance #5</seg>
       </tuv>
     </tu>
     <tu>
@@ -32079,6 +32927,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140414T134110Z" creationid="Didier" creationdate="20140414T134110Z">
         <seg>Choisir la correspondance précédente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Scripts Folder</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T152133Z" creationid="Didier" creationdate="20160718T152133Z">
+        <seg>Sélectionner le dossier des scripts</seg>
       </tuv>
     </tu>
     <tu>
@@ -32231,6 +33087,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140925T133110Z" creationid="Didier" creationdate="20140925T133110Z">
         <seg>Définir la couleur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set Scripts Folder...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T152144Z" creationid="Didier" creationdate="20160718T152144Z">
+        <seg>Définir le dossier des scripts...</seg>
       </tuv>
     </tu>
     <tu>
@@ -33566,6 +34430,14 @@ patents cannot be used to render the program non-free.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>String showing the differences between the source and the match.&lt;e0&gt; Hint:&lt;/e0&gt; use this if the text you are translating has been updated.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T160740Z" creationid="Didier" creationdate="20160718T160740Z">
+        <seg>Chaîne de caractères montrant les différences entre la source et la correspondance.&lt;e0&gt; Astuce :&lt;/e0&gt; utilisez ceci si le texte que vous avez traduit a été mis à jour.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>String showing the differences between the source and the match.&lt;e0&gt; Hint:&lt;/e0&gt; use this if the text, you are translated, that has been updated.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130528T130831Z">
@@ -33778,6 +34650,14 @@ address new problems or concerns.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SuperTMXMerge (Apache License 2.0)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T151937Z" creationid="Didier" creationdate="20160718T151937Z">
+        <seg>SuperTMXMerge (licence Apache 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SuperTMXMerge-for_OmegaT.jar (LGPL License)</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140131T095410Z" creationid="Didier" creationdate="20140131T095410Z">
@@ -33844,7 +34724,7 @@ address new problems or concerns.</seg>
       <tuv lang="EN">
         <seg>Switch Case To/Cycle</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20160905T151651Z" creationid="Didier" creationdate="20160905T151651Z">
+      <tuv lang="FR" changeid="Didier" changedate="20160718T153253Z" creationid="Didier" creationdate="20160718T153253Z">
         <seg>Basculer la casse en/Parcourir</seg>
       </tuv>
     </tu>
@@ -33860,7 +34740,7 @@ address new problems or concerns.</seg>
       <tuv lang="EN">
         <seg>Switch Case To/Sentence Case</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20160905T151634Z" creationid="Didier" creationdate="20160905T151634Z">
+      <tuv lang="FR" changeid="Didier" changedate="20160718T153137Z" creationid="Didier" creationdate="20160718T153137Z">
         <seg>Basculer la casse en/Phrase</seg>
       </tuv>
     </tu>
@@ -34076,8 +34956,8 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       <tuv lang="EN">
         <seg>Table View</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20160427T153306Z" creationid="Didier" creationdate="20160427T153306Z">
-        <seg>Vue tabulaire</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20160427T171134Z" creationid="Didier" creationdate="20160427T153306Z">
+        <seg>Affichage tabulaire</seg>
       </tuv>
     </tu>
     <tu>
@@ -35274,6 +36154,14 @@ Public License instead of this License. But first, please read
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Search window has its own menus:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T155114Z" creationid="Didier" creationdate="20160718T155114Z">
+        <seg>La fenêtre de recherche dispose de ses propres menus :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Spanish translation is better than the Slovenian.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130420T164507Z">
@@ -35408,6 +36296,15 @@ shown below.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The alternative ways and means of downloading and installing OmegaT are
+shown below.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T161320Z" creationid="Didier" creationdate="20160718T161320Z">
+        <seg>Les méthodes et les moyens alternatifs pour télécharger et installer OmegaT sont indiqués ci-dessous.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The application runs on your machine only.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130502T125703Z">
@@ -35508,6 +36405,14 @@ shown below.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Le certificat est auto-signé par « Didier Briel ».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The changes are displayed.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T155731Z" creationid="Didier" creationdate="20160718T155731Z">
+        <seg>Les modifications sont affichées.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37945,6 +38850,14 @@ the [Help] menu after starting OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Then you must put this TMX file in the /tm/ or /tm/auto/ folder of your OmegaT project.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T154809Z" creationid="Didier" creationdate="20160718T154809Z">
+        <seg>Vous devez ensuite placer de fichier TMX dans le dossier /tm/ou /tm/auto/ de votre projet OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Then you must use &lt;k7&gt; &lt;k8&gt;Ctrl&lt;/k8&gt; &lt;k9&gt;M&lt;/k9&gt; &lt;/k7&gt; a second time, to insert the suggestion.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160322T171808Z" creationid="Didier" creationdate="20160322T171808Z">
@@ -37989,6 +38902,14 @@ the [Help] menu after starting OmegaT.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130528T125045Z">
         <seg>Il y a en fait trois estimations de correspondances disponibles (66/66/30 dans le cas de la correspondance n° 4 ci-dessus).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There are at least 3 ways to specify your address:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T154410Z" creationid="Didier" creationdate="20160718T154410Z">
+        <seg>Il existe au moins 3 façons de spécifier votre adresse :</seg>
       </tuv>
     </tu>
     <tu>
@@ -39062,6 +39983,22 @@ this version will not interfere with it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This modifies &lt;f0&gt;project_save.tmx&lt;/f0&gt; (by adding proper Translation Units from "auto" TMX)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T155842Z" creationid="Didier" creationdate="20160718T155842Z">
+        <seg>Cela modifie &lt;f0&gt;project_save.tmx&lt;/f0&gt; (en ajoutant les unités de traduction pertinentes depuis la TMX « auto »)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This modifies &lt;f0&gt;project_save.tmx&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T155926Z" creationid="Didier" creationdate="20160718T155926Z">
+        <seg>Cela modifie &lt;f0&gt;project_save.tmx&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This number is displayed in brackets, next to the "Project file" title</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20141202T222728Z" creationid="Didier" creationdate="20141202T222728Z">
@@ -39433,6 +40370,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To access &lt;a0&gt;&lt;e1&gt;Configuration.properties&lt;/e1&gt;&lt;/a0&gt;, right-click on &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.app&lt;/e2&gt; and select "Show Package Contents", then open the file in Contents/Resources by right-clicking on it and selecting your text editor of choice.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T153857Z" creationid="Didier" creationdate="20160718T153857Z">
+        <seg>Pour accéder à &lt;a0&gt;&lt;e1&gt;Configuration.properties&lt;/e1&gt;&lt;/a0&gt;, effectuez un clic droit sur &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.app&lt;/e2&gt; et sélectionnez « Afficher le contenu du paquet », puis ouvrez le fichier dans Contents/Resources avec un clic droit et en sélectionnant l'éditeur de texte de votre choix.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To access &lt;a0&gt;&lt;e1&gt;Info.plist&lt;/e1&gt;&lt;/a0&gt;, right-click on &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.app&lt;/e2&gt; and select "Show Package Contents", then open the file by right-clicking on it and selecting your text editor of choice.</seg>
       </tuv>
       <tuv lang="FR" changeid="brigitte" changedate="20130715T191448Z">
@@ -39547,6 +40492,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To change the amount of memory available, edit &lt;e0&gt;OmegaT.app/Contents/Info.plist&lt;/e0&gt; file and change change the content of &lt;string&gt;-Xmx1024M&lt;/string&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T154012Z" creationid="Didier" creationdate="20160718T154012Z">
+        <seg>Pour modifier la quantité de mémoire disponible, modifiez le fichier &lt;e0&gt;OmegaT.app/Contents/Info.plist&lt;/e0&gt; et changez le contenu de &lt;string&gt;-Xmx1024M&lt;/string&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To change the amount of memory available, edit directly the lauching line.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20141202T175136Z" creationid="Didier" creationdate="20141202T175136Z">
@@ -39575,6 +40528,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130423T201334Z">
         <seg>Pour vérifier leur syntaxe et leur applicabilité, il est conseillé d'utiliser des outils qui vous permettent de voir leurs effets directement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To come back to the standard mode "&lt;g2&gt;Cursor lock on&lt;/g2&gt;", press &lt;k3&gt;F2&lt;/k3&gt; again.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T160726Z" creationid="Didier" creationdate="20160718T160726Z">
+        <seg>Pour revenir au mode standard « &lt;g2&gt;Curseur verrouillé&lt;/g2&gt;", appuyez sur&lt;k3&gt;F2&lt;/k3&gt; à nouveau.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39762,6 +40723,22 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130527T133035Z">
         <seg>Pour participer à l'effort de développement du projet &lt;a3&gt;OmegaT&lt;/a3&gt; vous pouvez joindre le groupe de développeurs via Internet ou en envoyant un courriel à &lt;u4&gt;omegat-development-request@lists.sourceforge.net&lt;/u4&gt;, avec « subscribe » en objet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To get started as a programmer, see the developer documentation at:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T161509Z" creationid="Didier" creationdate="20160718T161509Z">
+        <seg>Pour commencer en tant que programmeur, consultez la documentation développeur à :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To get these translations, you must upload your source file &lt;u1&gt;on their site&lt;/u1&gt; that generates a TMX file.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T154745Z" creationid="Didier" creationdate="20160718T154745Z">
+        <seg>Pour obtenir ces traductions, vous devez envoyer votre fichier source &lt;u1&gt;sur leur site&lt;/u1&gt; qui génère un fichier TMX.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40229,6 +41206,14 @@ Kaptain.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130411T092025Z">
         <seg>Tonga (Archipel des Tonga)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tony Graham</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T161519Z" creationid="Didier" creationdate="20160718T161519Z">
+        <seg>Tony Graham</seg>
       </tuv>
     </tu>
     <tu>
@@ -41133,6 +42118,14 @@ Les recherches exactes correspondent à l'ensemble de la chaîne recherchée.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unknown plugin type '{0}' in '{1}'</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T151458Z" creationid="Didier" creationdate="20160718T151458Z">
+        <seg>Type de module d'extension inconnu « {0} » dans « {1} »</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unknown plugin type in '{0}'</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20100209T072919Z">
@@ -41386,6 +42379,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Usage: java -jar OmegaT.jar team &lt;command&gt; [&lt;options&gt;]]</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T150755Z" creationid="Didier" creationdate="20160718T150755Z">
+        <seg>Syntaxe : java -jar OmegaT.jar team &lt;commande&gt; [&lt;options&gt;]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20141202T171231Z" creationid="Didier" creationdate="20141202T171231Z">
@@ -41478,6 +42479,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="FR" changeid="laurieetclémentine" changedate="20130411T140434Z">
         <seg>Utiliser TAB pour valider</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use Terms Appearing Separately in the Source Text</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T153516Z" creationid="Didier" creationdate="20160718T153516Z">
+        <seg>Utiliser les termes apparaissant séparément dans le texte source</seg>
       </tuv>
     </tu>
     <tu>
@@ -41654,6 +42663,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130507T100347Z">
         <seg>Utilisée pour afficher les statistiques des correspondances du projet. Pour l'ouvrir, sélectionnez &lt;m0&gt; &lt;g1&gt;&lt;i2/&gt;Outils&lt;/g1&gt; &lt;g3&gt;Statistiques des correspondances&lt;/g3&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Used to display the user manual (open with &lt;k0&gt;F1&lt;/k0&gt;)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T160254Z" creationid="Didier" creationdate="20160718T160254Z">
+        <seg>Utilisé pour afficher le guide de l'utilisateur (s'ouvre avec &lt;k0&gt;F1&lt;/k0&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -41963,6 +42980,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>VLDocking Framework (LGPL License)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T151809Z" creationid="Didier" creationdate="20160718T151809Z">
+        <seg>VLDocking Framework (license LGPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>VLDocking Framework 2.1.4 by VLSolutions (CeCILL License)</seg>
       </tuv>
       <tuv lang="FR">
@@ -42227,6 +43252,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Viterbi</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T152404Z" creationid="Didier" creationdate="20160718T152404Z">
+        <seg>Viterbi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Vito Smolej</seg>
       </tuv>
       <tuv lang="FR">
@@ -42437,6 +43470,14 @@ you have just discovered.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When &lt;e1&gt;Full/Half width char insensitive&lt;/e1&gt; option is checked, searches for fullwidth forms (CJK characters) will match halfwidth forms and vice versa.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T155645Z" creationid="Didier" creationdate="20160718T155645Z">
+        <seg>Lorsque l'option &lt;e1&gt;Ignorer la différence entre pleine et demi-largeur de caractère&lt;/e1&gt; est cochée, les recherches des formes de pleine largeur (caractères CJK) correspondront aux formes de demi-largeur et vice-versa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When OmegaT encounters a file in its source folder, it attempts to select the filter based upon the file's extension.</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130415T152528Z">
@@ -42594,6 +43635,14 @@ add Python to your Path.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130527T150646Z">
         <seg>Si OmegaT est démarré en mode console, aucune interface graphique n'est chargée (cela marchera donc sur n'importe quelle console) et le projet choisi est automatiquement traité comme vous l'avez demandé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When starting OmegaT from the command line, specify in the command:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T154524Z" creationid="Didier" creationdate="20160718T154524Z">
+        <seg>Si vous démarrez OmegaT depuis la ligne de commande, spécifiez dans la commande :</seg>
       </tuv>
     </tu>
     <tu>
@@ -43616,6 +44665,14 @@ you think will help the developers with finding and fixing your bug.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can also "cd" there directly from the command line and open &lt;a4&gt;&lt;e5&gt;Configuration.properties&lt;/e5&gt; in a command line editor like emacs or vi&lt;/a4&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T153924Z" creationid="Didier" creationdate="20160718T153924Z">
+        <seg>Vous pouvez également utiliser la commande Unix « cd » directement à partir de la ligne de commande et ouvrir &lt;a4&gt;&lt;e5&gt;Configuration.properties&lt;/e5&gt; dans un éditeur en ligne de commande comme emacs ou vi&lt;/a4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can also "cd" there directly from the command line and open &lt;a4&gt;&lt;e5&gt;Info.plist&lt;/e5&gt; in a command line editor like emacs or vi&lt;/a4&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="brigitte" changedate="20130714T095912Z">
@@ -43914,6 +44971,14 @@ installation by using the installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130502T115404Z">
         <seg>Vous pouvez lancer OmegaT à partir de la ligne de commande avec un script qui comprend des options de démarrage ou cliquer sur &lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.jar&lt;/e0&gt; pour le lancer directement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can modify OmegaT's behaviour by editing the &lt;e0&gt;Properties&lt;/e0&gt; as well as the &lt;e1&gt;Configuration.properties&lt;/e1&gt; file in the package.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T153824Z" creationid="Didier" creationdate="20160718T153824Z">
+        <seg>Vous pouvez modifier le comportement d'OmegaT en modifiant les &lt;e0&gt;Propriétés&lt;/e0&gt; ainsi que le fichier &lt;e1&gt;Configuration.properties&lt;/e1&gt; dans le paquet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45522,6 +46587,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>canceled ({0} ms elapsed)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T152111Z" creationid="Didier" creationdate="20160718T152111Z">
+        <seg>annulé ({0} ms écoulées)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>cat</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T095852Z">
@@ -45938,6 +47011,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>done ({0} ms elapsed)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T152101Z" creationid="Didier" creationdate="20160718T152101Z">
+        <seg>terminé ({0} ms écoulées)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>double words</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130424T075913Z">
@@ -46084,7 +47165,7 @@ de créer son dossier de configuration.</seg>
       <tuv lang="EN">
         <seg>editRegisterEmptyMenuItem</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20160905T151737Z" creationid="Didier" creationdate="20160905T151737Z">
+      <tuv lang="FR" changeid="Didier" changedate="20160718T153335Z" creationid="Didier" creationdate="20160718T153335Z">
         <seg>editRegisterEmptyMenuItem</seg>
       </tuv>
     </tu>
@@ -46100,7 +47181,7 @@ de créer son dossier de configuration.</seg>
       <tuv lang="EN">
         <seg>editRegisterUntranslatedMenuItem</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20160905T151734Z" creationid="Didier" creationdate="20160905T151734Z">
+      <tuv lang="FR" changeid="Didier" changedate="20160718T153332Z" creationid="Didier" creationdate="20160718T153332Z">
         <seg>editRegisterUntranslatedMenuItem</seg>
       </tuv>
     </tu>
@@ -46420,7 +47501,7 @@ de créer son dossier de configuration.</seg>
       <tuv lang="EN">
         <seg>findInProjectReuseLastWindow</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20160905T151555Z" creationid="Didier" creationdate="20160905T151555Z">
+      <tuv lang="FR" changeid="Didier" changedate="20160718T153100Z" creationid="Didier" creationdate="20160718T153100Z">
         <seg>findInProjectReuseLastWindow</seg>
       </tuv>
     </tu>
@@ -46612,7 +47693,7 @@ de créer son dossier de configuration.</seg>
       <tuv lang="EN">
         <seg>gotoMatchSourceSegment</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20160905T151815Z" creationid="Didier" creationdate="20160905T151815Z">
+      <tuv lang="FR" changeid="Didier" changedate="20160718T153435Z" creationid="Didier" creationdate="20160718T153435Z">
         <seg>gotoMatchSourceSegment</seg>
       </tuv>
     </tu>
@@ -46644,7 +47725,7 @@ de créer son dossier de configuration.</seg>
       <tuv lang="EN">
         <seg>gotoNextUniqueMenuItem</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20160905T151809Z" creationid="Didier" creationdate="20160905T151809Z">
+      <tuv lang="FR" changeid="Didier" changedate="20160718T153428Z" creationid="Didier" creationdate="20160718T153428Z">
         <seg>gotoNextUniqueMenuItem</seg>
       </tuv>
     </tu>
@@ -46702,6 +47783,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140310T153448Z" creationid="Didier" creationdate="20140310T153448Z">
         <seg>groovy-all-2.2.2.jar (licence Apache 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>groovy-all-2.4.6.jar (Apache Licence 2.0)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T161729Z" creationid="Didier" creationdate="20160718T161729Z">
+        <seg>groovy-all-2.4.6.jar (licence Apache 2.0)</seg>
       </tuv>
     </tu>
     <tu>
@@ -47018,6 +48107,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://mymemory.translated.net/</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T154614Z" creationid="Didier" creationdate="20160718T154614Z">
+        <seg>http://mymemory.translated.net/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://omegat.sourceforge.net/webstart/&lt;a0&gt;OmegaT&lt;/a0&gt;.jnlp</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T104511Z">
@@ -47034,18 +48131,18 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>http://omegat.svn.sourceforge.net/viewvc/omegat/branches/release-2-6/src/org/omegat/gui/main/MainMenuShortcuts.mac.properties</seg>
+        <seg>http://omegat.svn.sourceforge.net/viewvc/omegat/branches/release-2-6/gui/main/MainMenuShortcuts.mac.properties</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T103730Z">
-        <seg>http://omegat.svn.sourceforge.net/viewvc/omegat/branches/release-2-6/src/org/omegat/gui/main/MainMenuShortcuts.mac.properties</seg>
+        <seg>http://omegat.svn.sourceforge.net/viewvc/omegat/branches/release-2-6/gui/main/MainMenuShortcuts.mac.properties</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>http://omegat.svn.sourceforge.net/viewvc/omegat/branches/release-2-6/src/org/omegat/gui/main/MainMenuShortcuts.properties</seg>
+        <seg>http://omegat.svn.sourceforge.net/viewvc/omegat/branches/release-2-6/gui/main/MainMenuShortcuts.properties</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T103729Z">
-        <seg>http://omegat.svn.sourceforge.net/viewvc/omegat/branches/release-2-6/src/org/omegat/gui/main/MainMenuShortcuts.properties</seg>
+        <seg>http://omegat.svn.sourceforge.net/viewvc/omegat/branches/release-2-6/gui/main/MainMenuShortcuts.properties</seg>
       </tuv>
     </tu>
     <tu>
@@ -47290,6 +48387,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>https://java.com/en/download/</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T161439Z" creationid="Didier" creationdate="20160718T161439Z">
+        <seg>https://java.com/en/download/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>https://lists.sourceforge.net/lists/listinfo/omegat-l10n</seg>
       </tuv>
       <tuv lang="FR">
@@ -47322,34 +48427,42 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/branches/release-3-5/src/org/omegat/gui/main/MainMenuShortcuts.mac.properties</seg>
+        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/branches/release-3-5/gui/main/MainMenuShortcuts.mac.properties</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160322T165357Z" creationid="Didier" creationdate="20160322T165357Z">
-        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/branches/release-3-5/src/org/omegat/gui/main/MainMenuShortcuts.mac.properties</seg>
+        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/branches/release-3-5/gui/main/MainMenuShortcuts.mac.properties</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/branches/release-3-5/src/org/omegat/gui/main/MainMenuShortcuts.properties</seg>
+        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/branches/release-3-5/gui/main/MainMenuShortcuts.properties</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160322T165355Z" creationid="Didier" creationdate="20160322T165355Z">
-        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/branches/release-3-5/src/org/omegat/gui/main/MainMenuShortcuts.properties</seg>
+        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/branches/release-3-5/gui/main/MainMenuShortcuts.properties</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/branches/release-3-6/src/org/omegat/gui/main/MainMenuShortcuts.mac.properties</seg>
+        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/trunk/docs_devel/</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20160905T151514Z" creationid="Didier" creationdate="20160905T151514Z">
-        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/branches/release-3-6/src/org/omegat/gui/main/MainMenuShortcuts.mac.properties</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T161510Z" creationid="Didier" creationdate="20160718T161510Z">
+        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/trunk/docs_devel/</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/branches/release-3-6/src/org/omegat/gui/main/MainMenuShortcuts.properties</seg>
+        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/trunk/src/org/omegat/gui/main/MainMenuShortcuts.mac.properties</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20160905T151506Z" creationid="Didier" creationdate="20160905T151506Z">
-        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/branches/release-3-6/src/org/omegat/gui/main/MainMenuShortcuts.properties</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T152818Z" creationid="Didier" creationdate="20160718T152818Z">
+        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/trunk/src/org/omegat/gui/main/MainMenuShortcuts.mac.properties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/trunk/src/org/omegat/gui/main/MainMenuShortcuts.properties</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T152811Z" creationid="Didier" creationdate="20160718T152811Z">
+        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/trunk/src/org/omegat/gui/main/MainMenuShortcuts.properties</seg>
       </tuv>
     </tu>
     <tu>
@@ -47586,6 +48699,22 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>in the Kaptain launcher (Linux only), enter the address in the corresponding field on the "Online Services" tab.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T154613Z" creationid="Didier" creationdate="20160718T154613Z">
+        <seg>Dans le lanceur Kaptain (Linux uniquement), entrez l'adresse dans le chant correspondant de l'onglet « Online Services ».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>in the OmegaT.l4J.ini file (Windows only), change:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T154429Z" creationid="Didier" creationdate="20160718T154429Z">
+        <seg>Dans le fichier OmegaT.l4J.ini (Windows uniquement), remplacez :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ina</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T095951Z">
@@ -47606,6 +48735,16 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130415T142607Z">
         <seg>Entrées d'index, signets (repère de texte), références aux signets, notes, commentaires, notes des présentations, liens (URL), noms des feuilles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>init &lt;source language&gt; &lt;target language&gt;
+		Initialize a minimal team project with the specified languages.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T150852Z" creationid="Didier" creationdate="20160718T150852Z">
+        <seg>init &lt;langue source&gt; &lt;langue cible&gt;
+		Créer un projet en équipe minimal avec les langues spécifiées.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47686,6 +48825,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T100015Z">
         <seg>it</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>it is not possible to select words in the source segment using the keyboard rather than the mouse.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T160340Z" creationid="Didier" creationdate="20160718T160340Z">
+        <seg>il n'est pas possible de sélectionner des mots dans le segment source à l'aide du clavier plutôt que de la souris.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47846,6 +48993,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160427T150626Z" creationid="Didier" creationdate="20160427T150626Z">
         <seg>jsch-agent-proxy (licence jsch-agent-proxy License)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>juniversalchardet (GPL)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T151955Z" creationid="Didier" creationdate="20160718T151955Z">
+        <seg>juniversalchardet (GPL)</seg>
       </tuv>
     </tu>
     <tu>
@@ -48628,16 +49783,16 @@ de créer son dossier de configuration.</seg>
       <tuv lang="EN">
         <seg>move to the first segment of the document (Mac: &lt;e0&gt;Cmd+PgUp&lt;/e0&gt;)</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20160905T151401Z" creationid="Didier" creationdate="20160905T151401Z">
-        <seg>Déplacement au premier segment du document (Mac: &lt;e0&gt;Cmd+PgUp&lt;/e0&gt;)</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T152646Z" creationid="Didier" creationdate="20160718T152601Z">
+        <seg>Aller au premier segment du document (Mac : &lt;e0&gt;Cmd+Pg préc&lt;/e0&gt;)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>move to the last segment of the document (Mac: &lt;e0&gt;Cmd+PgDn&lt;/e0&gt;)</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20160905T151408Z" creationid="Didier" creationdate="20160905T151408Z">
-        <seg>Déplacement au dernier segment du document (Mac: &lt;e0&gt;Cmd+PgUp&lt;/e0&gt;)</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T152658Z" creationid="Didier" creationdate="20160718T152612Z">
+        <seg>Aller au dernier segment du document (Mac : &lt;e0&gt;Cmd+Pg suiv&lt;/e0&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -49106,6 +50261,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>optionsAccessConfigDirMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T153552Z" creationid="Didier" creationdate="20160718T153552Z">
+        <seg>optionsAccessConfigDirMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>optionsAlwaysConfirmQuitCheckBoxMenuItem</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T104019Z">
@@ -49138,6 +50301,22 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>optionsAutoCompleteShowAutomaticallyItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T153546Z" creationid="Didier" creationdate="20160718T153546Z">
+        <seg>optionsAutoCompleteShowAutomaticallyItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>optionsColorsSelectionMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T153549Z" creationid="Didier" creationdate="20160718T153549Z">
+        <seg>optionsColorsSelectionMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>optionsExtTMXMenuItem</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T104035Z">
@@ -49150,6 +50329,30 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T104021Z">
         <seg>optionsFontSelectionMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>optionsGlossaryExactMatchCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T153518Z" creationid="Didier" creationdate="20160718T153518Z">
+        <seg>optionsGlossaryExactMatchCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>optionsGlossaryStemmingCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T153530Z" creationid="Didier" creationdate="20160718T153530Z">
+        <seg>optionsGlossaryStemmingCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>optionsGlossaryTBXDisplayContextCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T161736Z" creationid="Didier" creationdate="20160718T161736Z">
+        <seg>optionsGlossaryTBXDisplayContextCheckBoxMenuItem</seg>
       </tuv>
     </tu>
     <tu>
@@ -49420,6 +50623,70 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>projectAccessCurrentSourceDocumentMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T153006Z" creationid="Didier" creationdate="20160718T153006Z">
+        <seg>projectAccessCurrentSourceDocumentMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>projectAccessCurrentTargetDocumentMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T153015Z" creationid="Didier" creationdate="20160718T153015Z">
+        <seg>projectAccessCurrentTargetDocumentMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>projectAccessDictionaryMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T152929Z" creationid="Didier" creationdate="20160718T152929Z">
+        <seg>projectAccessDictionaryMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>projectAccessGlossaryMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T152936Z" creationid="Didier" creationdate="20160718T152936Z">
+        <seg>projectAccessGlossaryMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>projectAccessRootMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T152914Z" creationid="Didier" creationdate="20160718T152914Z">
+        <seg>projectAccessRootMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>projectAccessSourceMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T152946Z" creationid="Didier" creationdate="20160718T152946Z">
+        <seg>projectAccessSourceMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>projectAccessTargetMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T152954Z" creationid="Didier" creationdate="20160718T152954Z">
+        <seg>projectAccessTargetMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>projectAccessWriteableGlossaryMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T153027Z" creationid="Didier" creationdate="20160718T153027Z">
+        <seg>projectAccessWriteableGlossaryMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>projectCloseMenuItem</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T103757Z">
@@ -49486,7 +50753,7 @@ de créer son dossier de configuration.</seg>
       <tuv lang="EN">
         <seg>projectOpenRecentMenuItem</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20160905T151519Z" creationid="Didier" creationdate="20160905T151519Z">
+      <tuv lang="FR" changeid="Didier" changedate="20160718T152821Z" creationid="Didier" creationdate="20160718T152821Z">
         <seg>projectOpenRecentMenuItem</seg>
       </tuv>
     </tu>
@@ -49894,7 +51161,7 @@ de créer son dossier de configuration.</seg>
       <tuv lang="EN">
         <seg>sentenceCaseMenuItem</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20160905T151635Z" creationid="Didier" creationdate="20160905T151635Z">
+      <tuv lang="FR" changeid="Didier" changedate="20160718T161731Z" creationid="Didier" creationdate="20160718T161731Z">
         <seg>sentenceCaseMenuItem</seg>
       </tuv>
     </tu>
@@ -50556,6 +51823,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>to:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T154444Z" creationid="Didier" creationdate="20160718T154444Z">
+        <seg>par :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>toc: frame to publish</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160119T094109Z" creationid="Didier" creationdate="20160119T094109Z">
@@ -50676,10 +51951,34 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>trie4j (Apache License 2.0)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T152005Z" creationid="Didier" creationdate="20160718T152005Z">
+        <seg>trie4j (licence Apache 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>trilead-ssh2 (Trilead SSH license)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T151852Z" creationid="Didier" creationdate="20160718T151852Z">
+        <seg>trilead-ssh2 (licence Trilead SSH)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>trilead-ssh2-1.0.0-build217 (Trilead SSH license)</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140725T163321Z" creationid="Didier" creationdate="20140725T163321Z">
         <seg>trilead-ssh2-1.0.0-build217 (licence Trilead SSH)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>trilead-ssh2-1.0.0-build220 (Trilead SSH license)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T161540Z" creationid="Didier" creationdate="20160718T161540Z">
+        <seg>trilead-ssh2-1.0.0-build220 (licence Trilead SSH)</seg>
       </tuv>
     </tu>
     <tu>
@@ -50952,6 +52251,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T103802Z">
         <seg>viewFileListMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>viewMarkAutoPopulatedCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T153439Z" creationid="Didier" creationdate="20160718T153439Z">
+        <seg>viewMarkAutoPopulatedCheckBoxMenuItem</seg>
       </tuv>
     </tu>
     <tu>
@@ -51380,61 +52687,17 @@ de créer son dossier de configuration.</seg>
     </tu>
 <!-- Alternative translations -->
     <tu>
-      <prop type="file">2.6/readme.utf8</prop>
-      <prop type="prev">3.</prop>
-      <prop type="next">3.1</prop>
+      <prop type="file">Bundle.properties</prop>
+      <prop type="id">ALIGNER_ENUM_COUNTER_TYPE_WORD</prop>
       <tuv lang="EN">
-        <seg>Installing OmegaT</seg>
+        <seg>Word</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20140617T180741Z" creationid="Didier" creationdate="20140617T180741Z">
-        <seg>Installer OmegaT</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20160718T152446Z" creationid="Didier" creationdate="20160718T152446Z">
+        <seg>Mot</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="file">2.6/readme.utf8</prop>
-      <prop type="prev">3.</prop>
-      <prop type="next">4.</prop>
-      <tuv lang="EN">
-        <seg>Installing OmegaT</seg>
-      </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20140617T180218Z" creationid="Didier" creationdate="20140617T180218Z">
-        <seg>Installer OmegaT</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <prop type="file">readme.utf8</prop>
-      <prop type="prev">3.</prop>
-      <prop type="next">3.1</prop>
-      <tuv lang="EN">
-        <seg>Installing OmegaT</seg>
-      </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20130604T132036Z">
-        <seg>Installer OmegaT</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <prop type="file">readme.utf8</prop>
-      <prop type="prev">3.</prop>
-      <prop type="next">4.</prop>
-      <tuv lang="EN">
-        <seg>Installing OmegaT</seg>
-      </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20130604T131843Z">
-        <seg>Installer OmegaT</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <prop type="file">src/org/omegat-3.5/Bundle.properties</prop>
-      <prop type="id">WF_OPTION_EXPORT__CURRENT_SEGMENT</prop>
-      <tuv lang="EN">
-        <seg>Export the segment to text files</seg>
-      </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20160115T161731Z" creationid="Didier" creationdate="20160115T161731Z">
-        <seg>E&amp;xporter le segment dans des fichiers texte</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <prop type="file">src/org/omegat/Bundle.properties</prop>
+      <prop type="file">Bundle.properties</prop>
       <prop type="id">ALIGNER_MENU_EDIT_EDIT</prop>
       <tuv lang="EN">
         <seg>Edit</seg>
@@ -51444,7 +52707,7 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="file">src/org/omegat/Bundle.properties</prop>
+      <prop type="file">Bundle.properties</prop>
       <prop type="id">ALIGNER_MENU_OPTIONS_SEGMENT</prop>
       <tuv lang="EN">
         <seg>Segment</seg>
@@ -51454,7 +52717,7 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="file">src/org/omegat/Bundle.properties</prop>
+      <prop type="file">Bundle.properties</prop>
       <prop type="id">ALIGNER_PANEL_BUTTON_EDIT</prop>
       <tuv lang="EN">
         <seg>Edit</seg>
@@ -51464,7 +52727,7 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="file">src/org/omegat/Bundle.properties</prop>
+      <prop type="file">Bundle.properties</prop>
       <prop type="id">ALIGNER_PANEL_BUTTON_SEGMENT</prop>
       <tuv lang="EN">
         <seg>Segment</seg>
@@ -51474,7 +52737,7 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="file">src/org/omegat/Bundle.properties</prop>
+      <prop type="file">Bundle.properties</prop>
       <prop type="id">COLOR_REPLACE</prop>
       <tuv lang="EN">
         <seg>Replace</seg>
@@ -51484,7 +52747,7 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="file">src/org/omegat/Bundle.properties</prop>
+      <prop type="file">Bundle.properties</prop>
       <prop type="id">FILTERSCUSTOMIZER_TITLE</prop>
       <tuv lang="EN">
         <seg>File Filters</seg>
@@ -51494,7 +52757,7 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="file">src/org/omegat/Bundle.properties</prop>
+      <prop type="file">Bundle.properties</prop>
       <prop type="id">GOOGLE_API_KEY_NOTFOUND</prop>
       <tuv lang="EN">
         <seg>See OmegaT manual for instructions.</seg>
@@ -51504,7 +52767,7 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="file">src/org/omegat/Bundle.properties</prop>
+      <prop type="file">Bundle.properties</prop>
       <prop type="id">HF_ERROR_EXTLINK_MSG</prop>
       <tuv lang="EN">
         <seg>To access this link, either copy and paste the URL to your Web browser, or open the User's Manual in your Web browser ({0} file).</seg>
@@ -51514,7 +52777,7 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="file">src/org/omegat/Bundle.properties</prop>
+      <prop type="file">Bundle.properties</prop>
       <prop type="id">HF_WINDOW_TITLE</prop>
       <tuv lang="EN">
         <seg>User's Manual</seg>
@@ -51524,7 +52787,7 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="file">src/org/omegat/Bundle.properties</prop>
+      <prop type="file">Bundle.properties</prop>
       <prop type="id">MT_ENGINE_MICROSOFT_KEY_NOTFOUND</prop>
       <tuv lang="EN">
         <seg>See OmegaT manual for instructions.</seg>
@@ -51534,7 +52797,7 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="file">src/org/omegat/Bundle.properties</prop>
+      <prop type="file">Bundle.properties</prop>
       <prop type="id">OFC_NEW_DIR_ERROR</prop>
       <tuv lang="EN">
         <seg>An error occurred while trying to create a new folder</seg>
@@ -51544,7 +52807,7 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="file">src/org/omegat/Bundle.properties</prop>
+      <prop type="file">Bundle.properties</prop>
       <prop type="id">OUT_OF_MEMORY</prop>
       <tuv lang="EN">
         <seg>Installing and running OmegaT" in the User Manual.</seg>
@@ -51554,7 +52817,7 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="file">src/org/omegat/Bundle.properties</prop>
+      <prop type="file">Bundle.properties</prop>
       <prop type="id">ST_FILE_SEARCH_ERROR</prop>
       <tuv lang="EN">
         <seg>Error searching directory tree!</seg>
@@ -51564,7 +52827,7 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="file">src/org/omegat/Bundle.properties</prop>
+      <prop type="file">Bundle.properties</prop>
       <prop type="id">ST_PROJECT_AUTOSAVED</prop>
       <tuv lang="EN">
         <seg>Project autosaved on {0}</seg>
@@ -51574,7 +52837,7 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="file">src/org/omegat/Bundle.properties</prop>
+      <prop type="file">Bundle.properties</prop>
       <prop type="id">SW_SEARCH_IN_GLOSSARIES</prop>
       <tuv lang="EN">
         <seg>Glossaries</seg>
@@ -51584,7 +52847,7 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="file">src/org/omegat/Bundle.properties</prop>
+      <prop type="file">Bundle.properties</prop>
       <prop type="id">TF_INTRO_EMPTYPROJECT</prop>
       <tuv lang="EN">
         <seg>(In the user's manual, see 'Files to translate' &gt; 'File formats' for a list of supported file formats.)
@@ -51596,7 +52859,7 @@ Pour ajouter des fichiers au projet, cliquez sur le bouton « Copier des fichie
       </tuv>
     </tu>
     <tu>
-      <prop type="file">src/org/omegat/Bundle.properties</prop>
+      <prop type="file">Bundle.properties</prop>
       <prop type="id">TF_MENU_FILE_ACCESS_GLOSSARY</prop>
       <tuv lang="EN">
         <seg>&amp;Glossaries</seg>
@@ -51606,7 +52869,7 @@ Pour ajouter des fichiers au projet, cliquez sur le bouton « Copier des fichie
       </tuv>
     </tu>
     <tu>
-      <prop type="file">src/org/omegat/Bundle.properties</prop>
+      <prop type="file">Bundle.properties</prop>
       <prop type="id">TF_MENU_FILE_ACCESS_TM</prop>
       <tuv lang="EN">
         <seg>T&amp;Ms</seg>
@@ -51616,7 +52879,7 @@ Pour ajouter des fichiers au projet, cliquez sur le bouton « Copier des fichie
       </tuv>
     </tu>
     <tu>
-      <prop type="file">src/org/omegat/Bundle.properties</prop>
+      <prop type="file">Bundle.properties</prop>
       <prop type="id">TF_MENU_HELP_CONTENTS</prop>
       <tuv lang="EN">
         <seg>&amp;User's Manual...</seg>
@@ -51626,13 +52889,35 @@ Pour ajouter des fichiers au projet, cliquez sur le bouton « Copier des fichie
       </tuv>
     </tu>
     <tu>
-      <prop type="file">src/org/omegat/Bundle.properties</prop>
+      <prop type="file">Bundle.properties</prop>
       <prop type="id">WF_OPTION_EXPORT__CURRENT_SEGMENT</prop>
       <tuv lang="EN">
         <seg>Export the segment to text files</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130531T101244Z">
         <seg>E&amp;xporter le segment dans des fichiers texte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">readme_fr.txt</prop>
+      <prop type="prev">3.</prop>
+      <prop type="next">3.1</prop>
+      <tuv lang="EN">
+        <seg>Installing OmegaT</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130604T132036Z">
+        <seg>Installer OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">readme_fr.txt</prop>
+      <prop type="prev">3.</prop>
+      <prop type="next">4.</prop>
+      <tuv lang="EN">
+        <seg>Installing OmegaT</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20130604T131843Z">
+        <seg>Installer OmegaT</seg>
       </tuv>
     </tu>
   </body>
