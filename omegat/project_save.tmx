@@ -13387,6 +13387,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+Shift+M</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160905T151812Z" creationid="Didier" creationdate="20160905T151812Z">
+        <seg>Ctrl+Shift+M</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+Shift+N</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130412T081316Z">
@@ -13419,6 +13427,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+Shift+Q</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160905T151807Z" creationid="Didier" creationdate="20160905T151807Z">
+        <seg>Ctrl+Shift+Q</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+Shift+R</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160905T151538Z" creationid="Didier" creationdate="20160905T151538Z">
@@ -13427,10 +13443,26 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+Shift+S</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160905T151739Z" creationid="Didier" creationdate="20160905T151739Z">
+        <seg>Ctrl+Shift+S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+Shift+T</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160905T151545Z" creationid="Didier" creationdate="20160905T151545Z">
         <seg>Ctrl+Shift+T</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Shift+U</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160905T151742Z" creationid="Didier" creationdate="20160905T151742Z">
+        <seg>Ctrl+Shift+U</seg>
       </tuv>
     </tu>
     <tu>
@@ -25125,6 +25157,14 @@ impose that choice.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Next Unique Segment</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160905T151806Z" creationid="Didier" creationdate="20160905T151806Z">
+        <seg>Segment unique suivant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Next Untranslated Segment</seg>
       </tuv>
       <tuv lang="FR" changeid="laurieetclémentine" changedate="20130411T134929Z">
@@ -31987,6 +32027,46 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select Match #1</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160905T151714Z" creationid="Didier" creationdate="20160905T151714Z">
+        <seg>Choisir la correspondance n° 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Match #2</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160905T151720Z" creationid="Didier" creationdate="20160905T151720Z">
+        <seg>Choisir la correspondance n° 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Match #3</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160905T151724Z" creationid="Didier" creationdate="20160905T151724Z">
+        <seg>Choisir la correspondance n° 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Match #4</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160905T151728Z" creationid="Didier" creationdate="20160905T151728Z">
+        <seg>Choisir la correspondance n° 4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Match #5</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160905T151732Z" creationid="Didier" creationdate="20160905T151732Z">
+        <seg>Choisir la correspondance n° 5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select Next Match</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140414T134140Z" creationid="Didier" creationdate="20140414T134124Z">
@@ -33762,10 +33842,26 @@ address new problems or concerns.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Switch Case To/Cycle</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160905T151651Z" creationid="Didier" creationdate="20160905T151651Z">
+        <seg>Basculer la casse en/Parcourir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Switch Case To/Lower Case</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140414T134205Z" creationid="Didier" creationdate="20140414T134205Z">
         <seg>Basculer la casse en/Minuscule</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Switch Case To/Sentence Case</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160905T151634Z" creationid="Didier" creationdate="20160905T151634Z">
+        <seg>Basculer la casse en/Phrase</seg>
       </tuv>
     </tu>
     <tu>
@@ -45986,10 +46082,26 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>editRegisterEmptyMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160905T151737Z" creationid="Didier" creationdate="20160905T151737Z">
+        <seg>editRegisterEmptyMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>editRegisterIdenticalMenuItem</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140414T134241Z" creationid="Didier" creationdate="20140414T134241Z">
         <seg>editRegisterIdenticalMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>editRegisterUntranslatedMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160905T151734Z" creationid="Didier" creationdate="20160905T151734Z">
+        <seg>editRegisterUntranslatedMenuItem</seg>
       </tuv>
     </tu>
     <tu>
@@ -46498,6 +46610,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>gotoMatchSourceSegment</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160905T151815Z" creationid="Didier" creationdate="20160905T151815Z">
+        <seg>gotoMatchSourceSegment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>gotoNextNoteMenuItem</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T104003Z">
@@ -46518,6 +46638,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140414T134255Z" creationid="Didier" creationdate="20140414T134255Z">
         <seg>gotoNextTranslatedMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>gotoNextUniqueMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160905T151809Z" creationid="Didier" creationdate="20160905T151809Z">
+        <seg>gotoNextUniqueMenuItem</seg>
       </tuv>
     </tu>
     <tu>
@@ -49760,6 +49888,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130421T172623Z">
         <seg>sélectionnez la sauvegarde de la mémoire de traduction qui contient le plus probablement les données que vous cherchez</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sentenceCaseMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160905T151635Z" creationid="Didier" creationdate="20160905T151635Z">
+        <seg>sentenceCaseMenuItem</seg>
       </tuv>
     </tu>
     <tu>
