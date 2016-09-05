@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_0_r8749:8755" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_0_9207:9209" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3888,6 +3888,14 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160322T165259Z" creationid="Didier" creationdate="20160322T165259Z">
         <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;&lt;/e0&gt; est protégé par le copyright © 2000-2016 Keith Godfrey, Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik, Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Chihiro Hio, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, Adiel Mittmann, Hiroshi Miura, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Ilia Vinogradov, Martin Wunderlich et Michael Zakharov.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt; &lt;/e0&gt; is Copyright © 2000-2016 Keith Godfrey, Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik, Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Tony Graham, Phillip Hall, Jean-Christophe Helary, Chihiro Hio, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, Adiel Mittmann, Hiroshi Miura, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Ilia Vinogradov, Martin Wunderlich and Michael Zakharov.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160905T151501Z" creationid="Didier" creationdate="20160905T151501Z">
+        <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;&lt;/e0&gt; est protégé par le copyright © 2000-2016 Keith Godfrey, Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik, Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Tony Graham, Phillip Hall, Jean-Christophe Helary, Chihiro Hio, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, Adiel Mittmann, Hiroshi Miura, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Ilia Vinogradov, Martin Wunderlich et Michael Zakharov.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13339,6 +13347,46 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+Shift+C</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160905T151548Z" creationid="Didier" creationdate="20160905T151548Z">
+        <seg>Ctrl+Shift+C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Shift+D</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160905T151525Z" creationid="Didier" creationdate="20160905T151525Z">
+        <seg>Ctrl+Shift+D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Shift+F</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160905T151552Z" creationid="Didier" creationdate="20160905T151552Z">
+        <seg>Ctrl+Shift+F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Shift+G</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160905T151550Z" creationid="Didier" creationdate="20160905T151550Z">
+        <seg>Ctrl+Shift+G</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Shift+I</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160905T151542Z" creationid="Didier" creationdate="20160905T151542Z">
+        <seg>Ctrl+Shift+I</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+Shift+N</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130412T081316Z">
@@ -13367,6 +13415,22 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130412T081307Z">
         <seg>Ctrl+Maj+P</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Shift+R</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160905T151538Z" creationid="Didier" creationdate="20160905T151538Z">
+        <seg>Ctrl+Shift+R</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Shift+T</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160905T151545Z" creationid="Didier" creationdate="20160905T151545Z">
+        <seg>Ctrl+Shift+T</seg>
       </tuv>
     </tu>
     <tu>
@@ -46242,6 +46306,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>findInProjectReuseLastWindow</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160905T151555Z" creationid="Didier" creationdate="20160905T151555Z">
+        <seg>findInProjectReuseLastWindow</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>first join the &lt;u0&gt;user group&lt;/u0&gt; (via web or by sending an email to &lt;u1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt;-subscribe@yahoogroups.com&lt;/u1&gt;).</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130527T133024Z">
@@ -47134,6 +47206,22 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160322T165355Z" creationid="Didier" creationdate="20160322T165355Z">
         <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/branches/release-3-5/src/org/omegat/gui/main/MainMenuShortcuts.properties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/branches/release-3-6/src/org/omegat/gui/main/MainMenuShortcuts.mac.properties</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160905T151514Z" creationid="Didier" creationdate="20160905T151514Z">
+        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/branches/release-3-6/src/org/omegat/gui/main/MainMenuShortcuts.mac.properties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/branches/release-3-6/src/org/omegat/gui/main/MainMenuShortcuts.properties</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160905T151506Z" creationid="Didier" creationdate="20160905T151506Z">
+        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/branches/release-3-6/src/org/omegat/gui/main/MainMenuShortcuts.properties</seg>
       </tuv>
     </tu>
     <tu>
@@ -48410,6 +48498,22 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>move to the first segment of the document (Mac: &lt;e0&gt;Cmd+PgUp&lt;/e0&gt;)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160905T151401Z" creationid="Didier" creationdate="20160905T151401Z">
+        <seg>Déplacement au premier segment du document (Mac: &lt;e0&gt;Cmd+PgUp&lt;/e0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>move to the last segment of the document (Mac: &lt;e0&gt;Cmd+PgDn&lt;/e0&gt;)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160905T151408Z" creationid="Didier" creationdate="20160905T151408Z">
+        <seg>Déplacement au dernier segment du document (Mac: &lt;e0&gt;Cmd+PgUp&lt;/e0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>move to the start of the document (Mac: &lt;e0&gt;Cmd+PgUp&lt;/e0&gt;)</seg>
       </tuv>
       <tuv lang="FR" changeid="brigitte" changedate="20130712T175959Z">
@@ -49248,6 +49352,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T103731Z">
         <seg>projectOpenMenuItem=ctrl O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>projectOpenRecentMenuItem</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160905T151519Z" creationid="Didier" creationdate="20160905T151519Z">
+        <seg>projectOpenRecentMenuItem</seg>
       </tuv>
     </tu>
     <tu>
