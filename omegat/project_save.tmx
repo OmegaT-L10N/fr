@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_0_9075" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_0_9207:9209" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -48443,6 +48443,22 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/branches/release-3-6/src/org/omegat/gui/main/MainMenuShortcuts.mac.properties</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160905T152043Z" creationid="Didier" creationdate="20160905T152043Z">
+        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/branches/release-3-6/src/org/omegat/gui/main/MainMenuShortcuts.mac.properties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/branches/release-3-6/src/org/omegat/gui/main/MainMenuShortcuts.properties</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160905T152041Z" creationid="Didier" creationdate="20160905T152041Z">
+        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/branches/release-3-6/src/org/omegat/gui/main/MainMenuShortcuts.properties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/trunk/docs_devel/</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160718T161510Z" creationid="Didier" creationdate="20160718T161510Z">
@@ -48463,6 +48479,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160718T152811Z" creationid="Didier" creationdate="20160718T152811Z">
         <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/trunk/src/org/omegat/gui/main/MainMenuShortcuts.properties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://sourceforge.net/p/omegat/wiki/Reference%20Material/</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160905T152052Z" creationid="Didier" creationdate="20160905T152052Z">
+        <seg>https://sourceforge.net/p/omegat/wiki/Reference%20Material/</seg>
       </tuv>
     </tu>
     <tu>
