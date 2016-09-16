@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_0_9207:9209" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_1_9246" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13185,6 +13185,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160427T142523Z" creationid="Didier" creationdate="20160427T142523Z">
         <seg>Créer projet MED</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create MED Project...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160916T141633Z" creationid="Didier" creationdate="20160916T141633Z">
+        <seg>Créer projet MED...</seg>
       </tuv>
     </tu>
     <tu>
@@ -28009,6 +28017,14 @@ happen should you file a bug report.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160427T142506Z" creationid="Didier" creationdate="20160427T142506Z">
         <seg>Ouvrir projet MED</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open MED Project...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160916T141629Z" creationid="Didier" creationdate="20160916T141629Z">
+        <seg>Ouvrir projet MED...</seg>
       </tuv>
     </tu>
     <tu>
