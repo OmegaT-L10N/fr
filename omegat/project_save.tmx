@@ -2142,6 +2142,14 @@ le programme d'installation peut créer des raccourcis pour vous dans le menu d�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>,</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160926T143901Z" creationid="Didier" creationdate="20160926T143901Z">
+        <seg>,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>, &lt;e0&gt;alt&lt;/e0&gt;, &lt;e1&gt;altGraph&lt;/e1&gt;</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T103726Z">
@@ -5038,6 +5046,14 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130511T165238Z">
         <seg>&lt;html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;html&gt;&lt;center&gt;Loading...&lt;br&gt;&lt;br&gt;Tip: Enable/disable checks at any time from the Options menu.&lt;/center&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160926T143749Z" creationid="Didier" creationdate="20160926T143749Z">
+        <seg>&lt;html&gt;&lt;center&gt;Chargement...&lt;br&gt;&lt;br&gt;Conseil : activez ou désactivez des vérifications à tout moment dans le menu Options.&lt;/center&gt;&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9324,6 +9340,14 @@ this License without regard to the additional permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160926T143801Z" creationid="Didier" creationdate="20160926T143801Z">
+        <seg>Tout</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All HTML files will be translated - note that the period in the usual *.html has to be escaped (\.) as specified by the rules for regular expressions</seg>
       </tuv>
       <tuv lang="FR" changeid="brigitte" changedate="20130714T134015Z">
@@ -11955,6 +11979,14 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160119T093200Z" creationid="Didier" creationdate="20160119T093200Z">
         <seg>Vérifier votre gestionnaire de package, cet élément n'étant pas disponible dans PyPI.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check {0}</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160926T143831Z" creationid="Didier" creationdate="20160926T143831Z">
+        <seg>Vérifier {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -22535,8 +22567,8 @@ exécutez simplement le programme d'installation.</seg>
       <tuv lang="EN">
         <seg>Issues ({0} of {1})</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20160926T143505Z" creationid="Didier" creationdate="20160926T143505Z">
-        <seg>Problèmes ({0} sur {1})</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20160926T143622Z" creationid="Didier" creationdate="20160926T143505Z">
+        <seg>Erreurs ({0} sur {1})</seg>
       </tuv>
     </tu>
     <tu>
@@ -22551,16 +22583,16 @@ exécutez simplement le programme d'installation.</seg>
       <tuv lang="EN">
         <seg>Issues for {0} ({1} of {2})</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20160926T143534Z" creationid="Didier" creationdate="20160926T143534Z">
-        <seg>Problèmes pour {0} ({1} of {2})</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20160926T143632Z" creationid="Didier" creationdate="20160926T143534Z">
+        <seg>Erreurs pour {0} ({1} sur {2})</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Issues for {0} ({1})</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20160926T143456Z" creationid="Didier" creationdate="20160926T143456Z">
-        <seg>Problèmes pour {0} ({1})</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20160926T143618Z" creationid="Didier" creationdate="20160926T143456Z">
+        <seg>Erreurs pour {0} ({1})</seg>
       </tuv>
     </tu>
     <tu>
@@ -25972,6 +26004,14 @@ impose that choice.</seg>
       </tuv>
       <tuv lang="FR" changeid="briglegrand" changedate="20120501T183635Z">
         <seg>OmegaT ouvre ensuite la fenêtre Fichiers du projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No Issues Found</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160926T143758Z" creationid="Didier" creationdate="20160926T143758Z">
+        <seg>Aucune erreur trouvée</seg>
       </tuv>
     </tu>
     <tu>
@@ -34396,6 +34436,22 @@ of the GPL, as needed to protect the freedom of users.</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130424T170230Z">
         <seg>Configuration du vérificateur orthographique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spelling</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160926T143900Z" creationid="Didier" creationdate="20160926T143900Z">
+        <seg>Orthographe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spelling Issues</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160926T143848Z" creationid="Didier" creationdate="20160926T143848Z">
+        <seg>Erreur d'orthographe</seg>
       </tuv>
     </tu>
     <tu>
@@ -52747,6 +52803,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20150514T134711Z" creationid="Didier" creationdate="20150514T134711Z">
         <seg>{0} (reste {1}) / {2} (reste {3}), {4}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0} ({1})</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160926T143803Z" creationid="Didier" creationdate="20160926T143803Z">
+        <seg>{0} ({1})</seg>
       </tuv>
     </tu>
     <tu>
