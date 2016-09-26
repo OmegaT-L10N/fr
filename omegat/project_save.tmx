@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_1_9246" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_2_9286:9288" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11583,6 +11583,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check &amp;Issues</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160926T143135Z" creationid="Didier" creationdate="20160926T143135Z">
+        <seg>&amp;Rechercher des problèmes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check &amp;all printf-variables (e.g., %s, %-s)</seg>
       </tuv>
       <tuv lang="FR">
@@ -11619,6 +11627,14 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20141202T220837Z" creationid="Didier" creationdate="20141202T220837Z">
         <seg>Cochez &lt;e4&gt;Glossaires&lt;/e4&gt; pour inclure les glossaires situés dans le dossier&lt;f5&gt;glossary&lt;/f5&gt; dans la recherche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check Issues for &amp;Current Document</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160926T143228Z" creationid="Didier" creationdate="20160926T143228Z">
+        <seg>Rechercher des problèmes pour le document &amp;actuel</seg>
       </tuv>
     </tu>
     <tu>
