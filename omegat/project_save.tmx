@@ -952,6 +952,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Jump To Segment</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160926T143425Z" creationid="Didier" creationdate="20160926T143406Z">
+        <seg>Aller au &amp;segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Keyword search</seg>
       </tuv>
       <tuv lang="FR">
@@ -1208,6 +1216,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Refresh</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160926T143431Z" creationid="Didier" creationdate="20160926T143431Z">
+        <seg>&amp;Actualiser</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Regular expressions</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20100608T100438Z">
@@ -1428,6 +1444,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20101112T182919Z">
         <seg>Nom des fe&amp;uilles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Show All</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160926T143416Z" creationid="Didier" creationdate="20160926T143416Z">
+        <seg>Afficher &amp;tout</seg>
       </tuv>
     </tu>
     <tu>
@@ -11585,8 +11609,8 @@ software--to make sure the software is free for all its users.</seg>
       <tuv lang="EN">
         <seg>Check &amp;Issues</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20160926T143135Z" creationid="Didier" creationdate="20160926T143135Z">
-        <seg>&amp;Rechercher des problèmes</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20160926T143546Z" creationid="Didier" creationdate="20160926T143135Z">
+        <seg>Afficher les &amp;erreurs</seg>
       </tuv>
     </tu>
     <tu>
@@ -11633,8 +11657,8 @@ software--to make sure the software is free for all its users.</seg>
       <tuv lang="EN">
         <seg>Check Issues for &amp;Current Document</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20160926T143228Z" creationid="Didier" creationdate="20160926T143228Z">
-        <seg>Rechercher des problèmes pour le document &amp;actuel</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20160926T143605Z" creationid="Didier" creationdate="20160926T143228Z">
+        <seg>Afficher les erreurs pour le document &amp;actuel</seg>
       </tuv>
     </tu>
     <tu>
@@ -22497,6 +22521,46 @@ exécutez simplement le programme d'installation.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160427T153731Z" creationid="Didier" creationdate="20160427T153731Z">
         <seg>Est un doublon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Issues</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160926T143610Z" creationid="Didier" creationdate="20160926T143440Z">
+        <seg>Erreurs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Issues ({0} of {1})</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160926T143505Z" creationid="Didier" creationdate="20160926T143505Z">
+        <seg>Problèmes ({0} sur {1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Issues ({0})</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160926T143449Z" creationid="Didier" creationdate="20160926T143449Z">
+        <seg>Problèmes ({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Issues for {0} ({1} of {2})</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160926T143534Z" creationid="Didier" creationdate="20160926T143534Z">
+        <seg>Problèmes pour {0} ({1} of {2})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Issues for {0} ({1})</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160926T143456Z" creationid="Didier" creationdate="20160926T143456Z">
+        <seg>Problèmes pour {0} ({1})</seg>
       </tuv>
     </tu>
     <tu>
