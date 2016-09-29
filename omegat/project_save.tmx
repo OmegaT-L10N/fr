@@ -11137,6 +11137,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Built-in (LanguageTool {0})</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160929T151952Z" creationid="Didier" creationdate="20160929T151952Z">
+        <seg>Intégré (LanguageTool {0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bulgarian</seg>
       </tuv>
       <tuv lang="FR" changeid="etudiant_local" changedate="20130410T124735Z">
@@ -24063,6 +24071,14 @@ later version.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Launch local server</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160929T152000Z" creationid="Didier" creationdate="20160929T152000Z">
+        <seg>Lancer un serveur local</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Launching OmegaT
 Launch OmegaT as follows.</seg>
       </tuv>
@@ -24375,6 +24391,14 @@ automatically download and install it.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160427T152329Z" creationid="Didier" creationdate="20160427T152329Z">
         <seg>Dossier du projet local :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Local installation path:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160929T152038Z" creationid="Didier" creationdate="20160929T152038Z">
+        <seg>Chemin de l'installation locale :</seg>
       </tuv>
     </tu>
     <tu>
@@ -26070,6 +26094,14 @@ impose that choice.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Nouvelle paire langue-pays</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>New LanguageTool rule</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160929T151943Z" creationid="Didier" creationdate="20160929T151943Z">
+        <seg>Nouvelle règle de LanguageTool</seg>
       </tuv>
     </tu>
     <tu>
@@ -30984,6 +31016,14 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remote server</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160929T152007Z" creationid="Didier" creationdate="20160929T152007Z">
+        <seg>Serveur distant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160427T150330Z" creationid="Didier" creationdate="20160427T150330Z">
@@ -31778,10 +31818,26 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Rule ID can only contain Latin letters, underscores, and periods.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160929T152125Z" creationid="Didier" creationdate="20160929T152125Z">
+        <seg>Les identifiants de règles ne peuvent contenir que des lettres latines, des traits de soulignement et des points.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Rule priority</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130423T171339Z">
         <seg>Priorité de la règle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Rules</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160929T152047Z" creationid="Didier" creationdate="20160929T152047Z">
+        <seg>Règles</seg>
       </tuv>
     </tu>
     <tu>
@@ -33489,6 +33545,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140131T095459Z" creationid="Didier" creationdate="20140131T095445Z">
         <seg>Serveur (mises à jour)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Service type</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160929T152030Z" creationid="Didier" creationdate="20160929T152030Z">
+        <seg>Type de service</seg>
       </tuv>
     </tu>
     <tu>
@@ -39740,6 +39804,14 @@ proprietary programs.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This ID is already being used.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160929T152134Z" creationid="Didier" creationdate="20160929T152134Z">
+        <seg>Cet identifiant est déjà utilisé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This JRE will not interfere with other Java implementations that may already be installed on your system.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130502T090945Z">
@@ -42190,6 +42262,14 @@ Kaptain.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Type in new rule ID</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160929T151934Z" creationid="Didier" creationdate="20160929T151934Z">
+        <seg>Taper le nouvel identifiant de la règle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Type the name and description of the repository.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130412T114932Z">
@@ -42276,6 +42356,14 @@ Les recherches exactes correspondent à l'ensemble de la chaîne recherchée.</s
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20111115T155257Z">
         <seg>URL des dictionnaires en ligne :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>URL:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160929T152041Z" creationid="Didier" creationdate="20160929T152041Z">
+        <seg>URL :</seg>
       </tuv>
     </tu>
     <tu>
