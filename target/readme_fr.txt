@@ -210,6 +210,7 @@ Les personnes qui ont contribué incluent :
 (ordre alphabétique)
 
 Contributions au code :
+  Lev Abashkin
   Zoltan Bartko
   Volker Berlin
   Didier Briel
