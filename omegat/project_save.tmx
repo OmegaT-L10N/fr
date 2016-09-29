@@ -16016,6 +16016,14 @@ by the Free Software Foundation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ensure you are specifying the right API version (the URL should include "/v2/").</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160929T151343Z" creationid="Didier" creationdate="20160929T151343Z">
+        <seg>Vérifiez que vous spécifiez la version correcte de l'API (l'URL devrait comprendre « /v2/ »).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enter "&lt;a0&gt;OmegaT&lt;/a0&gt;" in the "Name" field; in the "Command" field, use the navigation button to find your &lt;a1&gt;OmegaT&lt;/a1&gt; launch script (the file named &lt;a2&gt;OmegaT&lt;/a2&gt; in the unpacked folder).</seg>
       </tuv>
       <tuv lang="FR" changeid="brigitte" changedate="20130714T094701Z">
@@ -23820,6 +23828,22 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LanguageTool settings</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160929T151508Z" creationid="Didier" creationdate="20160929T151508Z">
+        <seg>Paramètres de LanguageTool</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool will be disabled until the project is closed.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160929T151500Z" creationid="Didier" creationdate="20160929T151500Z">
+        <seg>LanguageTool sera désactivé jusqu'à la fermeture du projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LanguageTool will find errors for which a rule has been defined in its language-specific configuration files.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130527T130313Z">
@@ -23856,6 +23880,54 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130423T094205Z">
         <seg>LanguageTool.jar (licence LGPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool: An error occurred during check.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160929T151444Z" creationid="Didier" creationdate="20160929T151444Z">
+        <seg>LanguageTool : une erreur s'est produite durant la vérification.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool: Bad URL</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160929T151358Z" creationid="Didier" creationdate="20160929T151358Z">
+        <seg>LanguageTool : mauvaise URL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool: Server start timeout</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160929T151430Z" creationid="Didier" creationdate="20160929T151430Z">
+        <seg>LanguageTool : le délai du démarrage du serveur a expiré</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool: bad local path</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160929T151204Z" creationid="Didier" creationdate="20160929T151204Z">
+        <seg>LanguageTool : chemin local erroné</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool: local port is unavailable</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160929T151215Z" creationid="Didier" creationdate="20160929T151215Z">
+        <seg>LanguageTool : le port local n'est pas disponible</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool: server returned XML when JSON was expected.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160929T151259Z" creationid="Didier" creationdate="20160929T151259Z">
+        <seg>LanguageTool : le serveur a renvoyé de XML alors JSON était attendu.</seg>
       </tuv>
     </tu>
     <tu>
