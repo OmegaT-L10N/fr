@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_2_9286:9288" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.1_0_9298:9300M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -540,6 +540,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140625T073450Z" creationid="Didier" creationdate="20140625T073450Z">
         <seg>&amp;Parcourir les collections TaaS...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Browse...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160929T151033Z" creationid="Didier" creationdate="20160929T151014Z">
+        <seg>&amp;Parcourir</seg>
       </tuv>
     </tu>
     <tu>
@@ -12426,6 +12434,16 @@ software--to make sure the software is free for all its users.</seg>
     <tu>
       <tuv lang="EN">
         <seg>Code has been contributed by:
+Lev Abashkin, Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead developer), Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Tony Graham, Phillip Hall, Jean-Christophe Helary, Chihiro Hio, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, Adiel Mittmann, Hiroshi Miura, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Ilia Vinogradov, Martin Wunderlich and Michael Zakharov</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160929T150951Z" creationid="Didier" creationdate="20160929T150951Z">
+        <seg>Contributions au code :
+Lev Abashkin, Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (développeur principal), Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Tony Graham, Philippe Hall, Jean-Christophe Helary, Chihiro Hio, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, Adiel Mittmann, Hiroshi Miura, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Ilia Vinogradov, Martin Wunderlich et Michael Zakharov</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Code has been contributed by:
 Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead developer), Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Tony Graham, Phillip Hall, Jean-Christophe Helary, Chihiro Hio, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, Adiel Mittmann, Hiroshi Miura, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Ilia Vinogradov, Martin Wunderlich and Michael Zakharov</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160427T150616Z" creationid="Didier" creationdate="20160427T150616Z">
@@ -23754,6 +23772,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LanguageTool API version mismatch</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160929T151126Z" creationid="Didier" creationdate="20160929T151126Z">
+        <seg>La version de l'API de LanguageTool ne correspond pas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LanguageTool Issues</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160926T144953Z" creationid="Didier" creationdate="20160926T144953Z">
@@ -23762,10 +23788,34 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LanguageTool is misconfigured.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160929T151133Z" creationid="Didier" creationdate="20160929T151133Z">
+        <seg>LanguageTool est mal configuré</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LanguageTool plugin</seg>
       </tuv>
       <tuv lang="FR" changeid="laurieetclémentine" changedate="20130411T094809Z">
         <seg>L'extension LanguageTool</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool server started</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160929T151043Z" creationid="Didier" creationdate="20160929T151043Z">
+        <seg>Serveur LanguageTool démarré</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool server terminated</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160929T151053Z" creationid="Didier" creationdate="20160929T151053Z">
+        <seg>Serveur LanguageTool arrêté</seg>
       </tuv>
     </tu>
     <tu>
@@ -23782,6 +23832,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="FR" changeid="brigitte" changedate="20130714T145319Z">
         <seg>LanguageTool ne fonctionnera pas correctement si une ancienne version se trouve dans le dossier /plugin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160929T150909Z" creationid="Didier" creationdate="20160929T150909Z">
+        <seg>LanguageTool...</seg>
       </tuv>
     </tu>
     <tu>
@@ -29450,6 +29508,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please select the language of your source files and the target language you would like to translate to.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160929T150931Z" creationid="Didier" creationdate="20160929T150931Z">
+        <seg>Choisissez la langue de vos fichiers source et la langue cible vers laquelle vous allez les traduire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please select what text you would like to be inserted into the segment that is not translated yet, when you move to it.</seg>
       </tuv>
       <tuv lang="FR">
@@ -35070,6 +35136,14 @@ address new problems or concerns.</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130421T160050Z">
         <seg>Basculer la casse en</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Switching to built-in version.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160929T151149Z" creationid="Didier" creationdate="20160929T151149Z">
+        <seg>Passage à la version intégrée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45748,6 +45822,14 @@ necessary.</seg>
 them.</seg>
       </tuv>
       <tuv lang="FR">
+        <seg>Vous devriez spécifier leur nouvel emplacement ou les recréer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You should specify their new location or recreate them.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160929T150922Z" creationid="Didier" creationdate="20160929T150922Z">
         <seg>Vous devriez spécifier leur nouvel emplacement ou les recréer.</seg>
       </tuv>
     </tu>
