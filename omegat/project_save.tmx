@@ -23820,6 +23820,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LanguageTool is not available for your target language.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160929T152159Z" creationid="Didier" creationdate="20160929T152159Z">
+        <seg>LanguageTool n'est pas disponible dans votre langue cible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LanguageTool plugin</seg>
       </tuv>
       <tuv lang="FR" changeid="laurieetclémentine" changedate="20130411T094809Z">
@@ -39512,6 +39520,14 @@ the [Help] menu after starting OmegaT.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130429T130329Z">
         <seg>Trois fichiers comportant les extensions &lt;e1&gt;dz, idx &lt;/e1&gt;et &lt;e2&gt;ifo&lt;/e2&gt; doivent s'y trouver.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There was an error initializing LanguageTool.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20160929T152215Z" creationid="Didier" creationdate="20160929T152215Z">
+        <seg>Une erreur s'est produite durant l'initialisation de LanguageTool.</seg>
       </tuv>
     </tu>
     <tu>
