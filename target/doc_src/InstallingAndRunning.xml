@@ -45,7 +45,14 @@
           <primary>Exécution d'OmegaT</primary> <secondary>Windows</secondary> <tertiary>Fichier INI</tertiary>
         </indexterm>Dans ce cas, les options de démarrage du programme sont lues depuis le fichier <emphasis><application>OmegaT</application>.l4J.ini </emphasis> qui se trouve dans le même dossier que le fichier exe. Ce fichier peut être modifié afin d'être adapté à votre installation. L'exemple suivant du fichier INI utilise 1 Go de mémoire, choisit le français comme langue utilisateur et le Canada comme pays :</para>
 
-      <literallayout><code># OmegaT.exe runtime configuration # Pour utiliser un paramètre, supprimez le '#' avant le '-' # Memory -Xmx1024M # Language -Duser.language=FR # Country -Duser.country=CA</code></literallayout>
+      <literallayout><code># OmegaT.exe runtime configuration
+# To use a parameter, remove the '#' before the '-'
+# Memory 
+-Xmx1024M 
+# Language 
+-Duser.language=FR
+# Country 
+-Duser.country=CA </code></literallayout>
 
       <para>Conseil : si OmegaT fonctionne plus lentement dans des sessions de Bureaux à distance, vous pouvez utiliser cette option :</para>
 
