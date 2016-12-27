@@ -8716,6 +8716,14 @@ or that patent license was granted, prior to 28 March 2007.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>API Key:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161227T170609Z" creationid="Didier" creationdate="20161227T170609Z">
+        <seg>Clé d'API :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>API keys can be requested using &lt;u0&gt;API key request form&lt;/u0&gt;, and viewed on &lt;u1&gt;My Keys&lt;/u1&gt; page.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20150313T151320Z" creationid="Didier" creationdate="20150313T151320Z">
@@ -10741,6 +10749,14 @@ provoquer des comportements inattendus, mais corrects.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Autotext</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161227T170714Z" creationid="Didier" creationdate="20161227T170714Z">
+        <seg>Texte automatique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Autotext entries</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130913T162314Z" creationid="Didier" creationdate="20130913T162314Z">
@@ -11677,6 +11693,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Character Table</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161227T170717Z" creationid="Didier" creationdate="20161227T170717Z">
+        <seg>Table de caractères</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Character table</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130913T162321Z" creationid="Didier" creationdate="20130913T162321Z">
@@ -12417,6 +12441,22 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20141202T175706Z" creationid="Didier" creationdate="20141202T175706Z">
         <seg>Cliquer sur l'un d'entre eux enregistrera le projet actuel, le fermera ou ouvrira l'autre projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Client ID:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161227T170622Z" creationid="Didier" creationdate="20161227T170622Z">
+        <seg>Identifiant client :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Client Secret:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161227T170630Z" creationid="Didier" creationdate="20161227T170630Z">
+        <seg>Secret client :</seg>
       </tuv>
     </tu>
     <tu>
@@ -13459,6 +13499,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
       <tuv lang="FR" changeid="laurieetclémentine" changedate="20130411T133723Z">
         <seg>Créer les documents traduits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create your own key then input it below.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161227T170755Z" creationid="Didier" creationdate="20161227T170755Z">
+        <seg>Créez votre propre clé puis entrez-la ci-dessous.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15924,6 +15972,14 @@ by the Free Software Foundation.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130424T093026Z">
         <seg>Chacune d'entre elles peut être utilisée comme source ou comme cible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Email:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161227T170600Z" creationid="Didier" creationdate="20161227T170600Z">
+        <seg>Courriel :</seg>
       </tuv>
     </tu>
     <tu>
@@ -24805,6 +24861,14 @@ La version Mac intègre un JRE.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Machine Translation Options</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161227T170522Z" creationid="Didier" creationdate="20161227T170522Z">
+        <seg>Options de traduction automatique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Machine Translation pane</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130507T123132Z">
@@ -30546,6 +30610,14 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Proxy Login</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161227T170505Z" creationid="Didier" creationdate="20161227T170505Z">
+        <seg>Connexion par proxy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Proxy Login...</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140414T134440Z" creationid="Didier" creationdate="20140414T134440Z">
@@ -32514,6 +32586,14 @@ REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130421T095407Z">
         <seg>Enregistre la traduction et ferme le projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Saving and Output</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161227T170658Z" creationid="Didier" creationdate="20161227T170658Z">
+        <seg>Enregistrement et exécution</seg>
       </tuv>
     </tu>
     <tu>
@@ -35122,6 +35202,14 @@ patents cannot be used to render the program non-free.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Store for this session only</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161227T170651Z" creationid="Didier" creationdate="20161227T170651Z">
+        <seg>Ne conserver que pour cette session</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>String showing the differences between the source and the match.&lt;e0&gt; Hint:&lt;/e0&gt; use this if the text that you are translating has been updated.</seg>
       </tuv>
       <tuv lang="FR" changeid="jchelary" changedate="20130526T142413Z">
@@ -35614,6 +35702,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>TM Matching Options</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161227T170531Z" creationid="Didier" creationdate="20161227T170531Z">
+        <seg>Options des correspondances</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>TMX file was created by OmegaT 1.4.x or earlier.</seg>
       </tuv>
       <tuv lang="FR">
@@ -35662,6 +35758,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>TaaS API key not set.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161227T170729Z" creationid="Didier" creationdate="20161227T170729Z">
+        <seg>Clé API TaaS non définie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>TaaS Collections</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140625T073556Z" creationid="Didier" creationdate="20140625T073556Z">
@@ -35706,6 +35810,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20150910T092931Z" creationid="Didier" creationdate="20150514T134643Z">
         <seg>Traitement des &amp;balises...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tag Processing</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161227T170511Z" creationid="Didier" creationdate="20161227T170511Z">
+        <seg>Traitement des balises</seg>
       </tuv>
     </tu>
     <tu>
