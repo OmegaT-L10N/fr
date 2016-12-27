@@ -10605,6 +10605,14 @@ provoquer des comportements inattendus, mais corrects.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Auto-Completion</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161227T165055Z" creationid="Didier" creationdate="20161227T165055Z">
+        <seg>Saisie automatique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Auto-completer Glossary View configuration</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130913T165426Z" creationid="Didier" creationdate="20130913T165426Z">
@@ -15968,6 +15976,22 @@ by the Free Software Foundation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enable history completion</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161227T165113Z" creationid="Didier" creationdate="20161227T165113Z">
+        <seg>Activer la saisie historique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enable history prediction</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161227T165137Z" creationid="Didier" creationdate="20161227T165137Z">
+        <seg>Activer la prédiction historique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enable them in &lt;b&gt;Options &gt; Save...&lt;/b&gt;.&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130125T163541Z">
@@ -16558,6 +16582,14 @@ The FSF strongly urges you not to use this translation as the official distribu-
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130519T100748Z">
         <seg>Ewe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exact match</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161227T165033Z" creationid="Didier" creationdate="20161227T165033Z">
+        <seg>Correspondance exacte</seg>
       </tuv>
     </tu>
     <tu>
@@ -34071,6 +34103,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Show relevant suggestions automatically</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161227T165051Z" creationid="Didier" creationdate="20161227T165051Z">
+        <seg>Afficher automatiquement les suggestions pertinentes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Show source term first</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130913T165550Z" creationid="Didier" creationdate="20130913T165550Z">
@@ -43211,6 +43251,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140902T140804Z" creationid="Didier" creationdate="20140902T140804Z">
         <seg>Utiliser des modèles personnalisés pour les informations de modification</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use fuzzy matching for dictionary entries</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161227T165045Z" creationid="Didier" creationdate="20161227T165045Z">
+        <seg>Utiliser des correspondances partielles pour les entrées de dictionnaire</seg>
       </tuv>
     </tu>
     <tu>
