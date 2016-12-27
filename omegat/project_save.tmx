@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.1_1_9408" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.1_1_9442" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -14680,6 +14680,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Display context description for TBX glossaries</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161227T164140Z" creationid="Didier" creationdate="20161227T164140Z">
+        <seg>Afficher la description du contexte pour les glossaires TBX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Display for &amp;All Segments</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20120305T142555Z">
@@ -15924,6 +15932,14 @@ by the Free Software Foundation.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20141202T213955Z" creationid="Didier" creationdate="20141202T213955Z">
         <seg>Activer la segmentation par phrase</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enable TransTips</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161227T165028Z" creationid="Didier" creationdate="20161227T165028Z">
+        <seg>Activer les TransTips</seg>
       </tuv>
     </tu>
     <tu>
@@ -31500,6 +31516,14 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Replace glossary hits when inserting source text</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161227T164211Z" creationid="Didier" creationdate="20161227T164211Z">
+        <seg>Remplacer les entrées de glossaire lors de l'insertion du texte source</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Replace spaces with non-breakable spaces where appropriate in French</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20151117T162654Z" creationid="Didier" creationdate="20151117T162654Z">
@@ -43211,6 +43235,22 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20150525T144806Z" creationid="Didier" creationdate="20150525T144713Z">
         <seg>Utiliser la lemmatisation pour les entrées de &amp;glossaire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use stemming for glossary entries</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161227T164158Z" creationid="Didier" creationdate="20161227T164158Z">
+        <seg>Utiliser la lemmatisation pour les entrées de glossaire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use terms appearing separately in the source text</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161227T164145Z" creationid="Didier" creationdate="20161227T164145Z">
+        <seg>Utiliser les termes apparaissant séparément dans le texte source</seg>
       </tuv>
     </tu>
     <tu>
