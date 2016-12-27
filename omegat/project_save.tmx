@@ -9498,6 +9498,14 @@ not survive such relicensing or conveying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All preferences protected by the master password will be reset.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161227T172056Z" creationid="Didier" creationdate="20161227T172056Z">
+        <seg>Toutes les préférences protégées par le mot de passe principal seront réinitialisées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All rights granted under this License are granted for the term of
 copyright on the Program, and are irrevocable provided the stated
 conditions are met. This License explicitly affirms your unlimited
@@ -10341,6 +10349,14 @@ void, and will automatically terminate your rights under this License.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20150525T144928Z" creationid="Didier" creationdate="20150525T144928Z">
         <seg>Êtes-vous sûr de vouloir réinitialiser toutes les couleurs personnalisées ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Are you sure you want to reset the master password?</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161227T172037Z" creationid="Didier" creationdate="20161227T172037Z">
+        <seg>Êtes-vous sûr de vouloir réinitialiser le mot de passe principal ?</seg>
       </tuv>
     </tu>
     <tu>
@@ -26854,6 +26870,14 @@ Diminue les sorties sur stdout de la ligne de commande.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130411T085518Z">
         <seg>Nynorsk norvégien</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Not Set</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161227T172026Z" creationid="Didier" creationdate="20161227T172026Z">
+        <seg>Non défini</seg>
       </tuv>
     </tu>
     <tu>
