@@ -744,8 +744,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Editor...</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20160115T140146Z" creationid="Didier" creationdate="20160115T140146Z">
-        <seg>&amp;Éditeur...</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20161227T170256Z" creationid="Didier" creationdate="20160115T140146Z">
+        <seg>Édite&amp;ur...</seg>
       </tuv>
     </tu>
     <tu>
@@ -15872,10 +15872,26 @@ by the Free Software Foundation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Editor</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161227T170235Z" creationid="Didier" creationdate="20161227T170235Z">
+        <seg>Éditeur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Editor - {0}</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Éditeur - {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Editor Options</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161227T170210Z" creationid="Didier" creationdate="20161227T170210Z">
+        <seg>Options de l'Éditeur</seg>
       </tuv>
     </tu>
     <tu>
@@ -35586,6 +35602,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="FR" changeid="jchelary" changedate="20130526T140349Z">
         <seg>IL N’Y A AUCUNE GARANTIE POUR LE PROGRAMME, DANS LES LIMITES PERMISES PAR LA LOI APPLICABLE. À MOINS QUE CELA NE SOIT ÉTABLI DIFFÉREMMENT PAR ÉCRIT, LES TITULAIRES DE DROITS ET/OU LES AUTRES PARTIES FOURNISSENT LE PROGRAMME « EN L’ÉTAT » SANS GARANTIE D’AUCUNE SORTE, QU’ELLE SOIT EXPRIMÉE OU TACITE, CECI COMPRENANT, DE MANIÈRE NON EXHAUSTIVE, LES GARANTIES TACITES DE COMMERCIALISATION ET D’ADÉQUATION À UN OBJECTIF PARTICULIER. VOUS ASSUMEZ LE RISQUE ENTIER CONCERNANT LA QUALITÉ ET LES PERFORMANCES DU PROGRAMME. DANS L’ÉVENTUALITÉ OÙ LE PROGRAMME S’AVÉRERAIT DÉFECTUEUX, VOUS ASSUMEZ LES COÛTS DE TOUS LES SERVICES, RÉPARATIONS OU CORRECTIONS NÉCESSAIRES.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TM Matches</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161227T170457Z" creationid="Didier" creationdate="20161227T170457Z">
+        <seg>Correspondances</seg>
       </tuv>
     </tu>
     <tu>
