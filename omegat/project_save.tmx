@@ -12841,6 +12841,14 @@ kolekti -b C:\[...]\trunk\doc_src2 publish [-j JOB] -l fr,en C:\[...]\trunk\doc_
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Confirm:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161227T171117Z" creationid="Didier" creationdate="20161227T171117Z">
+        <seg>Confirmer :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Conflict resolution</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140203T141237Z" creationid="Didier" creationdate="20140203T141237Z">
@@ -19544,6 +19552,14 @@ parties remain in full compliance.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20151111T100557Z" creationid="Didier" creationdate="20151111T100557Z">
         <seg>Liens hypertexte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>I Understand; Do It Anyway</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161227T171358Z" creationid="Didier" creationdate="20161227T171358Z">
+        <seg>Je comprends ; le faire quand même</seg>
       </tuv>
     </tu>
     <tu>
@@ -27744,6 +27760,14 @@ mouse-clicks or menu items--whatever suits your program.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT can generate and store a master password so you don't have to enter it each time, but this is much less secure.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161227T171311Z" creationid="Didier" creationdate="20161227T171311Z">
+        <seg>OmegaT peut générer et stocker un mot de passe principal afin qu'il ne soit pas nécessaire de l'entrer à chaque fois, mais au détriment de la sécurité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT configuration launchers (OmegaT.l4J.ini, omegat.kaptn and Configuration.properties) contain a template entry.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160718T155700Z" creationid="Didier" creationdate="20160718T155700Z">
@@ -29772,6 +29796,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please double-check.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161227T171213Z" creationid="Didier" creationdate="20161227T171213Z">
+        <seg>Veuillez vérifier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please download and install the latest Java JDK from Oracle.com and try again.";</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20150525T145404Z" creationid="Didier" creationdate="20150525T145404Z">
@@ -29808,6 +29840,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20091211T172714Z">
         <seg>Veuillez entrer votre nom/identifiant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please enter your password again for confirmation.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161227T171144Z" creationid="Didier" creationdate="20161227T171144Z">
+        <seg>Veuillez entrer à nouveau votre mot de passe pour le confirmer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30050,6 +30090,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160427T152455Z" creationid="Didier" creationdate="20160427T152455Z">
         <seg>Les informations d'identification prédéfinies n'ont pas été transmises.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Preferences</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161227T171406Z" creationid="Didier" creationdate="20161227T171406Z">
+        <seg>Préférences</seg>
       </tuv>
     </tu>
     <tu>
@@ -33883,6 +33931,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140925T133110Z" creationid="Didier" creationdate="20140925T133110Z">
         <seg>Définir la couleur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set My Own Password</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161227T171318Z" creationid="Didier" creationdate="20161227T171318Z">
+        <seg>Définir mon propre mot de passe</seg>
       </tuv>
     </tu>
     <tu>
@@ -38595,6 +38651,30 @@ sure this has not already been reported.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130412T091443Z">
         <seg>Le document d'origine n'est pas modifié ; un nouveau document basé sur le contenu d'un document pré-éxistant est créé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The password cannot be empty.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161227T171126Z" creationid="Didier" creationdate="20161227T171126Z">
+        <seg>Le mot de passe ne peut pas être vide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The password you entered did not match.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161227T171114Z" creationid="Didier" creationdate="20161227T171114Z">
+        <seg>Le mot de passe entré ne correspond pas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The passwords don't match.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161227T171202Z" creationid="Didier" creationdate="20161227T171202Z">
+        <seg>Les mots de passe ne correspondent pas.</seg>
       </tuv>
     </tu>
     <tu>
