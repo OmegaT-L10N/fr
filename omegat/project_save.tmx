@@ -1358,6 +1358,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Restore Defaults</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161227T171518Z" creationid="Didier" creationdate="20161227T171518Z">
+        <seg>&amp;Restaurer les valeurs par défaut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Restore Main Window</seg>
       </tuv>
       <tuv lang="FR">
@@ -1658,6 +1666,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Langue des fichiers cible :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Undo Changes</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161227T171454Z" creationid="Didier" creationdate="20161227T171454Z">
+        <seg>Annu&amp;ler les modifications</seg>
       </tuv>
     </tu>
     <tu>
@@ -8564,6 +8580,14 @@ or that patent license was granted, prior to 28 March 2007.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A restart is required in order to apply these changes</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161227T171537Z" creationid="Didier" creationdate="20161227T171537Z">
+        <seg>Un redémarrage est nécessaire pour appliquer ces modifications.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A search may be limited to 1000 items, so if you search on a common phrase, the editor then shows only those 1000 matching entries, and not all entries that match the search criteria.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140414T135259Z" creationid="Didier" creationdate="20140414T135259Z">
@@ -11171,6 +11195,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20110504T074334Z">
         <seg>Sélec&amp;tionner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Browse Online</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161227T171642Z" creationid="Didier" creationdate="20161227T171642Z">
+        <seg>Parcourir en ligne</seg>
       </tuv>
     </tu>
     <tu>
@@ -30030,6 +30062,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Plugins</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161227T171628Z" creationid="Didier" creationdate="20161227T171628Z">
+        <seg>Modules d'extension</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Poisson</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160718T152424Z" creationid="Didier" creationdate="20160718T152424Z">
@@ -30098,6 +30138,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20161227T171406Z" creationid="Didier" creationdate="20161227T171406Z">
         <seg>Préférences</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Preferences - {0}</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161227T171414Z" creationid="Didier" creationdate="20161227T171414Z">
+        <seg>Préférences - {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -33771,6 +33819,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140625T073722Z" creationid="Didier" creationdate="20140625T073722Z">
         <seg>Sélectionner le domaine TaaS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select a Category</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161227T171421Z" creationid="Didier" creationdate="20161227T171421Z">
+        <seg>Sélectionner une catégorie</seg>
       </tuv>
     </tu>
     <tu>
@@ -37593,6 +37649,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The current project must be reloaded in order to apply these changes</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161227T171553Z" creationid="Didier" creationdate="20161227T171553Z">
+        <seg>Le projet actuel doit être rechargé pour appliquer ces modifications</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The current version of the service is based on usage, with the price of 20 USD per million characters at the time of writing.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130420T142528Z">
@@ -39914,6 +39978,14 @@ the [Help] menu after starting OmegaT.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130506T110427Z">
         <seg>Il existe principalement deux façons de réaliser ceci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There are many plugins available for OmegaT online.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161227T171718Z" creationid="Didier" creationdate="20161227T171718Z">
+        <seg>Beaucoup de modules d'extension pour OmegaT sont disponibles en ligne.</seg>
       </tuv>
     </tu>
     <tu>
