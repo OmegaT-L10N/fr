@@ -10241,6 +10241,14 @@ void, and will automatically terminate your rights under this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Appearance</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161227T171849Z" creationid="Didier" creationdate="20161227T171849Z">
+        <seg>Apparence</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Application files</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130415T164156Z">
@@ -10761,6 +10769,14 @@ provoquer des comportements inattendus, mais corrects.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130421T135242Z">
         <seg>Outil d'alignement automatique des propriétés Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Automatically fetch translations</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161227T171726Z" creationid="Didier" creationdate="20161227T171726Z">
+        <seg>Récupérer automatiquement les traductions</seg>
       </tuv>
     </tu>
     <tu>
@@ -12845,6 +12861,14 @@ kolekti -b C:\[...]\trunk\doc_src2 publish [-j JOB] -l fr,en C:\[...]\trunk\doc_
       </tuv>
       <tuv lang="FR">
         <seg>&amp;Table des matières</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Configure</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161227T171721Z" creationid="Didier" creationdate="20161227T171721Z">
+        <seg>Configurer</seg>
       </tuv>
     </tu>
     <tu>
@@ -18502,6 +18526,14 @@ authors of previous versions.</seg>
       </tuv>
       <tuv lang="FR" changeid="etudiant_local" changedate="20130410T125519Z">
         <seg>Galicien</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>General</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161227T171840Z" creationid="Didier" creationdate="20161227T171840Z">
+        <seg>Générales</seg>
       </tuv>
     </tu>
     <tu>
@@ -25442,6 +25474,14 @@ impose that choice.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Master Password:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161227T171947Z" creationid="Didier" creationdate="20161227T171947Z">
+        <seg>Mot de passe principal :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Match Statistics</seg>
       </tuv>
       <tuv lang="FR" changeid="laurieetclémentine" changedate="20130411T140350Z">
@@ -27820,6 +27860,14 @@ mouse-clicks or menu items--whatever suits your program.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130506T083520Z">
         <seg>OmegaT affiche une liste de tous les segments contenant l'ensemble des mots spécifiés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT encrypts sensitive passwords and API keys with a master password.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161227T171931Z" creationid="Didier" creationdate="20161227T171931Z">
+        <seg>OmegaT chiffre les mots de passe et les clés d'API sensibles avec un mot de passe principal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30746,6 +30794,14 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Provider</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161227T171825Z" creationid="Didier" creationdate="20161227T171825Z">
+        <seg>Fournisseur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Proxy Login</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20161227T170505Z" creationid="Didier" creationdate="20161227T170505Z">
@@ -32020,6 +32076,14 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Reset Master Password</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161227T172000Z" creationid="Didier" creationdate="20161227T172000Z">
+        <seg>Réinitialiser le mot de passe principal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Resolve Conflicts</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160427T153134Z" creationid="Didier" creationdate="20160427T153134Z">
@@ -33128,6 +33192,14 @@ La recherche port par défaut sur le projet, et peut porter sur tout fichier sit
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Secure Store</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161227T171856Z" creationid="Didier" creationdate="20161227T171856Z">
+        <seg>Stockage sécurisé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130421T002145Z">
@@ -33979,6 +34051,22 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160929T152030Z" creationid="Didier" creationdate="20160929T152030Z">
         <seg>Type de service</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161227T172018Z" creationid="Didier" creationdate="20161227T172018Z">
+        <seg>Défini</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set &amp; Stored</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161227T172010Z" creationid="Didier" creationdate="20161227T172010Z">
+        <seg>Défini et stocké</seg>
       </tuv>
     </tu>
     <tu>
@@ -43338,6 +43426,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140924T085356Z" creationid="Didier" creationdate="20140924T085345Z">
         <seg>Segments non traduits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Untranslated segments only</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161227T171819Z" creationid="Didier" creationdate="20161227T171819Z">
+        <seg>Uniquement les segments non traduits</seg>
       </tuv>
     </tu>
     <tu>
