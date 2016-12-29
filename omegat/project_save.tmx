@@ -446,6 +446,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Also allow per-project external commands</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161229T164609Z" creationid="Didier" creationdate="20161229T164609Z">
+        <seg>Autoriser également les &amp;commandes externe par projet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Always</seg>
       </tuv>
       <tuv lang="FR">
@@ -1018,6 +1026,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Recherche par mot c&amp;lé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Language Checker</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161229T164552Z" creationid="Didier" creationdate="20161229T164552Z">
+        <seg>&amp;Vérificateur linguistique</seg>
       </tuv>
     </tu>
     <tu>
@@ -1626,6 +1642,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="FR">
         <seg>&amp;Statistiques</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Store for this session only</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161229T164545Z" creationid="Didier" creationdate="20161229T164545Z">
+        <seg>&amp;Ne conserver que pour cette session</seg>
       </tuv>
     </tu>
     <tu>
@@ -9378,6 +9402,14 @@ this License without regard to the additional permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Aggressive &amp;Font Fallback</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161229T164534Z" creationid="Didier" creationdate="20161229T164534Z">
+        <seg>Utilisation intensi&amp;ve des polices de repli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Aggressive Font Fallback</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20150907T143929Z" creationid="Didier" creationdate="20150907T143929Z">
@@ -14828,6 +14860,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160929T152452Z" creationid="Didier" creationdate="20160929T152452Z">
         <seg>Désactiver la règle « {0} »</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Displa&amp;y source terms</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161229T164700Z" creationid="Didier" creationdate="20161229T164700Z">
+        <seg>Afficher les &amp;termes source</seg>
       </tuv>
     </tu>
     <tu>
@@ -34607,6 +34647,22 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Show &amp;longer target terms first</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161229T164708Z" creationid="Didier" creationdate="20161229T164708Z">
+        <seg>Afficher les termes cible les plus &amp;longs en premier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show &amp;target term first</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161229T164805Z" creationid="Didier" creationdate="20161229T164805Z">
+        <seg>A&amp;fficher le terme cible en premier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Show Advanced &amp;Options</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20151112T142755Z" creationid="Didier" creationdate="20151112T142755Z">
@@ -35076,6 +35132,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sort by source term &amp;alphabetically</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161229T164723Z" creationid="Didier" creationdate="20161229T164723Z">
+        <seg>Trier par ordre alpha&amp;bétique des termes source</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sort by source term alphabetically</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130913T165341Z" creationid="Didier" creationdate="20130913T165341Z">
@@ -35096,6 +35160,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140725T163435Z" creationid="Didier" creationdate="20140725T163435Z">
         <seg>Trier les correspondances partielles par :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sort tar&amp;get terms alphabetically</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161229T164745Z" creationid="Didier" creationdate="20161229T164745Z">
+        <seg>Trier les termes cible par &amp;ordre alphabétique</seg>
       </tuv>
     </tu>
     <tu>
