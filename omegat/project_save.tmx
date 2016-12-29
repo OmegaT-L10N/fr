@@ -438,6 +438,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Allow only unique characters</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161229T164959Z" creationid="Didier" creationdate="20161229T164959Z">
+        <seg>&amp;N'autoriser que les caractères uniques</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Allow translation to be equal to source</seg>
       </tuv>
       <tuv lang="FR">
@@ -562,6 +570,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Sé&amp;lectionner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Browse Online</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161229T165105Z" creationid="Didier" creationdate="20161229T165105Z">
+        <seg>&amp;Parcourir en ligne</seg>
       </tuv>
     </tu>
     <tu>
@@ -770,6 +786,38 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="FR">
         <seg>&amp;Lignes vides</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Enable TaaS terminology lookup</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161229T165058Z" creationid="Didier" creationdate="20161229T165058Z">
+        <seg>Activer la recherche &amp;terminologique TaaS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Enable autotext</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161229T164832Z" creationid="Didier" creationdate="20161229T164832Z">
+        <seg>Activer le &amp;texte automatique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Enable character table</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161229T164913Z" creationid="Didier" creationdate="20161229T164913Z">
+        <seg>Activer la &amp;table des caractères</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Enable glossary suggestions</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161229T164824Z" creationid="Didier" creationdate="20161229T164824Z">
+        <seg>Activer les suggestions de &amp;glossaire</seg>
       </tuv>
     </tu>
     <tu>
@@ -11533,6 +11581,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>C&amp;lear</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161229T165027Z" creationid="Didier" creationdate="20161229T165027Z">
+        <seg>&amp;Effacer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>C&amp;opy All Data to Clipboard</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20150514T134858Z" creationid="Didier" creationdate="20150514T134858Z">
@@ -11863,8 +11919,8 @@ software--to make sure the software is free for all its users.</seg>
       <tuv lang="EN">
         <seg>Character table auto-completer options</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20130913T165851Z" creationid="Didier" creationdate="20130913T165851Z">
-        <seg>Options de la table de caractères de la saisie automatique</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20161229T164936Z" creationid="Didier" creationdate="20130913T165851Z">
+        <seg>Options de la table des caractères de la saisie automatique</seg>
       </tuv>
     </tu>
     <tu>
@@ -14379,6 +14435,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20150525T144544Z" creationid="Didier" creationdate="20150525T144544Z">
         <seg>Customer ID (correspond au paramètre de ligne de commande &lt;c0&gt;microsoft.api.client_id&lt;/c0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Customize character &amp;table</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161229T164954Z" creationid="Didier" creationdate="20161229T164931Z">
+        <seg>&amp;Personnaliser la table des caractères</seg>
       </tuv>
     </tu>
     <tu>
@@ -34127,6 +34191,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select TaaS Terminology &amp;Lookup Domain...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161229T165050Z" creationid="Didier" creationdate="20161229T165050Z">
+        <seg>&amp;Sélectionner le domaine de recherche terminologique TaaS...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select TaaS domain</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140625T073722Z" creationid="Didier" creationdate="20140625T073722Z">
@@ -34655,6 +34727,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Show &amp;source term first</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161229T164818Z" creationid="Didier" creationdate="20161229T164818Z">
+        <seg>Afficher le terme &amp;source en premier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Show &amp;target term first</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20161229T164805Z" creationid="Didier" creationdate="20161229T164805Z">
@@ -35108,6 +35188,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sort &amp;alphabetically</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161229T164840Z" creationid="Didier" creationdate="20161229T164840Z">
+        <seg>Trier par &amp;ordre alphabétique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sort alphabetically</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130913T165703Z" creationid="Didier" creationdate="20130913T165703Z">
@@ -35116,10 +35204,26 @@ of the GPL, as needed to protect the freedom of users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sort by &amp;full text, not shortcut</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161229T164904Z" creationid="Didier" creationdate="20161229T164904Z">
+        <seg>&amp;Trier par texte étendu, pas par raccourci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sort by full text, not shortcut</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130913T165715Z" creationid="Didier" creationdate="20130913T165715Z">
         <seg>Trier par texte étendu, pas par raccourci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sort by len&amp;gth</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161229T164836Z" creationid="Didier" creationdate="20161229T164836Z">
+        <seg>Trier par &amp;longueur</seg>
       </tuv>
     </tu>
     <tu>
