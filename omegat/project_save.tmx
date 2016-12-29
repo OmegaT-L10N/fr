@@ -574,6 +574,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Built-in (LanguageTool {0})</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161229T164327Z" creationid="Didier" creationdate="20161229T164327Z">
+        <seg>&amp;Intégré (LanguageTool {0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Cancel</seg>
       </tuv>
       <tuv lang="FR">
@@ -1018,6 +1026,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130413T083747Z">
         <seg>&amp;Dernières modifications...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Launch local server</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161229T164336Z" creationid="Didier" creationdate="20161229T164336Z">
+        <seg>&amp;Lancer un serveur local</seg>
       </tuv>
     </tu>
     <tu>
@@ -1762,6 +1778,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20150211T164620Z" creationid="Didier" creationdate="20150211T164620Z">
         <seg>&amp;Valider les balises...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Validate tags when leaving a segment</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161229T164152Z" creationid="Didier" creationdate="20161229T164152Z">
+        <seg>&amp;Valider les balises en quittant un segment</seg>
       </tuv>
     </tu>
     <tu>
@@ -9584,6 +9608,14 @@ rights of fair use or other equivalent, as provided by copyright law.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Allo&amp;w tag editing</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161229T164146Z" creationid="Didier" creationdate="20161229T164146Z">
+        <seg>Autoriser la &amp;modification des balises</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Allow only unique characters</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130913T170030Z" creationid="Didier" creationdate="20130913T170030Z">
@@ -14820,6 +14852,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
       <tuv lang="FR">
         <seg>Afficher les segments &amp;source</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Display &amp;tags</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161229T164218Z" creationid="Didier" creationdate="20161229T164218Z">
+        <seg>A&amp;fficher les balises</seg>
       </tuv>
     </tu>
     <tu>
@@ -22389,6 +22429,14 @@ patent against the party.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Include the &amp;first non-unique segment when marking non-unique segments</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161229T164249Z" creationid="Didier" creationdate="20161229T164249Z">
+        <seg>&amp;Inclure le premier segment non unique lorsque les segments non uniques sont marqués</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Include the first non-&amp;unique segment when marking non-unique segments</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20120307T083312Z">
@@ -25370,6 +25418,14 @@ impose that choice.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mark &amp;Auto-Populated Segments</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161229T164511Z" creationid="Didier" creationdate="20161229T164511Z">
+        <seg>Mar&amp;quer les segments traduits à partir du dossier auto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mark &amp;Bidirectional Algorithm Control Characters</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130104T150631Z">
@@ -25437,6 +25493,14 @@ impose that choice.</seg>
         <seg>Mark Non-&amp;Unique Segments</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20101119T085440Z">
+        <seg>Marquer les segments non &amp;uniques</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark Non-Unique Se&amp;gments</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161229T164433Z" creationid="Didier" creationdate="20161229T164433Z">
         <seg>Marquer les segments non &amp;uniques</seg>
       </tuv>
     </tu>
@@ -31538,6 +31602,14 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remote &amp;server</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161229T164348Z" creationid="Didier" creationdate="20161229T164348Z">
+        <seg>Ser&amp;veur distant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remote File/Dir</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160905T152618Z" creationid="Didier" creationdate="20160905T152618Z">
@@ -32834,6 +32906,14 @@ REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160427T153927Z" creationid="Didier" creationdate="20160427T153927Z">
         <seg>Enregistrer la TMX...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Save aut&amp;o-populated status</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161229T164203Z" creationid="Didier" creationdate="20161229T164203Z">
+        <seg>&amp;Enregistrer l'état des traductions issues du dossier auto</seg>
       </tuv>
     </tu>
     <tu>
@@ -34635,6 +34715,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140706T175107Z" creationid="Didier" creationdate="20140706T175107Z">
         <seg>Script simple de recherche et remplacement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Simplify &amp;tooltips on protected parts</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161229T164305Z" creationid="Didier" creationdate="20161229T164305Z">
+        <seg>&amp;Simplifier les info-bulles pour les parties protégées</seg>
       </tuv>
     </tu>
     <tu>
@@ -43859,6 +43947,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130421T164604Z">
         <seg>Utiliser comme traduction par défaut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use custom templates for modification &amp;info</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161229T164317Z" creationid="Didier" creationdate="20161229T164317Z">
+        <seg>Utiliser des &amp;modèles personnalisés pour les informations de modification</seg>
       </tuv>
     </tu>
     <tu>
