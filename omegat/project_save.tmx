@@ -1672,8 +1672,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Undo Changes</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20161227T171454Z" creationid="Didier" creationdate="20161227T171454Z">
-        <seg>Annu&amp;ler les modifications</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20161229T163723Z" creationid="Didier" creationdate="20161227T171454Z">
+        <seg>Ann&amp;uler les modifications</seg>
       </tuv>
     </tu>
     <tu>
@@ -14832,6 +14832,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Display context description for TBX &amp;glossaries</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161229T163627Z" creationid="Didier" creationdate="20161229T163627Z">
+        <seg>Afficher la &amp;description du contexte pour les glossaires TBX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Display context description for TBX glossaries</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20161227T164140Z" creationid="Didier" creationdate="20161227T164140Z">
@@ -16766,6 +16774,14 @@ The FSF strongly urges you not to use this translation as the official distribu-
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130519T100748Z">
         <seg>Ewe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exact &amp;match</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161229T163819Z" creationid="Didier" creationdate="20161229T163819Z">
+        <seg>&amp;Correspondance exacte</seg>
       </tuv>
     </tu>
     <tu>
@@ -31770,6 +31786,14 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Replace &amp;glossary hits when inserting source text</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161229T163806Z" creationid="Didier" creationdate="20161229T163806Z">
+        <seg>Remplacer les entrées de &amp;glossaire lors de l'insertion du texte source</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Replace &lt;l0&gt;&lt;filename&gt;&lt;/l0&gt; with the name of the file you wish to create, either absolute or relative to the working folder (the folder you start &lt;a1&gt;OmegaT&lt;/a1&gt; from).</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130528T124410Z">
@@ -32128,6 +32152,14 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Rétablir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Restore &amp;Defaults</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161229T163745Z" creationid="Didier" creationdate="20161229T163745Z">
+        <seg>Restaurer les valeurs par &amp;défaut</seg>
       </tuv>
     </tu>
     <tu>
@@ -43615,6 +43647,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use &amp;Fuzzy Matching for Dictionary Entries</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161229T163910Z" creationid="Didier" creationdate="20161229T163910Z">
+        <seg>Utiliser des correspondances &amp;partielles pour les entrées de dictionnaire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use &amp;TAB to Advance</seg>
       </tuv>
       <tuv lang="FR">
@@ -43627,6 +43667,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20101001T213436Z">
         <seg>Utiliser &amp;XML pour les balises isolées (ex: &lt;i/&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use &amp;stemming for glossary entries</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161229T163759Z" creationid="Didier" creationdate="20161229T163712Z">
+        <seg>Utiliser la &amp;lemmatisation pour les entrées de glossaire</seg>
       </tuv>
     </tu>
     <tu>
@@ -43779,6 +43827,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20161227T164158Z" creationid="Didier" creationdate="20161227T164158Z">
         <seg>Utiliser la lemmatisation pour les entrées de glossaire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use terms &amp;appearing separately in the source text</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161229T163640Z" creationid="Didier" creationdate="20161229T163640Z">
+        <seg>Utiliser les &amp;termes apparaissant séparément dans le texte source</seg>
       </tuv>
     </tu>
     <tu>
