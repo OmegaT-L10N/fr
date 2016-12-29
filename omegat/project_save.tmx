@@ -758,6 +758,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Enable history completion</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161229T163950Z" creationid="Didier" creationdate="20161229T163950Z">
+        <seg>Activer la saisie &amp;historique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Endnotes</seg>
       </tuv>
       <tuv lang="FR">
@@ -914,6 +922,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Ai&amp;de</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Ignore file context when identifying segments with alternate translations</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161229T164127Z" creationid="Didier" creationdate="20161229T164127Z">
+        <seg>&amp;Ignorer le nom du fichier pour identifier les segments comportant des traductions alternatives</seg>
       </tuv>
     </tu>
     <tu>
@@ -8828,6 +8844,14 @@ or that patent license was granted, prior to 28 March 2007.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Access Configurat&amp;ion Folder</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161229T164048Z" creationid="Didier" creationdate="20161229T164048Z">
+        <seg>Accéder au dossier de &amp;configuration</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Access Configuration Fol&amp;der</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20150713T085058Z" creationid="Didier" creationdate="20150713T084829Z">
@@ -15743,6 +15767,14 @@ several security warnings.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>E&amp;xport the segment to text files</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161229T164138Z" creationid="Didier" creationdate="20161229T164138Z">
+        <seg>E&amp;xporter le segment dans des fichiers texte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>E.g., if the project is EN-&gt;FR, alignDir must contain a bundle ending with _fr.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130527T153609Z">
@@ -16156,6 +16188,14 @@ by the Free Software Foundation.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160427T152646Z" creationid="Didier" creationdate="20160427T152646Z">
         <seg>Activer les suggestions de glossaire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enable history &amp;prediction</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161229T163956Z" creationid="Didier" creationdate="20161229T163956Z">
+        <seg>Activer la &amp;prédiction historique</seg>
       </tuv>
     </tu>
     <tu>
@@ -30254,6 +30294,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Preserve spaces &amp;for all tags</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161229T164120Z" creationid="Didier" creationdate="20161229T164120Z">
+        <seg>Préserver les espaces pour &amp;toutes les balises</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Preserve spaces for all tags</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130316T132648Z">
@@ -31530,6 +31578,14 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove &amp;leading and trailing tags</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161229T164104Z" creationid="Didier" creationdate="20161229T164104Z">
+        <seg>Supprimer les &amp;balises en début et fin de segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove Filter</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140203T140222Z" creationid="Didier" creationdate="20140203T140222Z">
@@ -31614,6 +31670,14 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140706T175506Z" creationid="Didier" creationdate="20140706T175506Z">
         <seg>Supprimer les fragments définis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove leading and trailing &amp;whitespace in non-segmented projects</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161229T164111Z" creationid="Didier" creationdate="20161229T164111Z">
+        <seg>Supprimer les &amp;espaces en début et fin de segment dans les projets non segmentés</seg>
       </tuv>
     </tu>
     <tu>
@@ -34643,6 +34707,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130411T091242Z">
         <seg>Gingalais, Singhalais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Size</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161229T164055Z" creationid="Didier" creationdate="20161229T164055Z">
+        <seg>Taille</seg>
       </tuv>
     </tu>
     <tu>
@@ -43667,6 +43739,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20101001T213436Z">
         <seg>Utiliser &amp;XML pour les balises isolées (ex: &lt;i/&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use &amp;fuzzy matching for dictionary entries</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20161229T163926Z" creationid="Didier" creationdate="20161229T163926Z">
+        <seg>Utiliser des correspondances &amp;partielles pour les entrées de dictionnaire</seg>
       </tuv>
     </tu>
     <tu>
