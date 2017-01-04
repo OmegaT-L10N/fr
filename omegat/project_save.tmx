@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.0_0_9461M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.0_0_9483" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -17250,6 +17250,14 @@ The FSF strongly urges you not to use this translation as the official distribu-
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>External Search...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170104T105450Z" creationid="Didier" creationdate="20170104T105450Z">
+        <seg>Recherche externe...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>External TM&amp;Xs...</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20101001T212941Z">
@@ -30592,6 +30600,14 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Press the keyboard shortcut you wish to assign, then click OK.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170104T105539Z" creationid="Didier" creationdate="20170104T105539Z">
+        <seg>Appuyez sur le raccourci clavier que vous souhaitez assigner puis cliquez sur OK.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Pressing &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;F&lt;/k3&gt; &lt;/k0&gt; displays the last already opened Search window (instead of opening a new one).</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160718T155012Z" creationid="Didier" creationdate="20160718T155012Z">
@@ -34683,6 +34699,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130913T165825Z" creationid="Didier" creationdate="20130913T165825Z">
         <seg>Raccourci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shortcut:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170104T105514Z" creationid="Didier" creationdate="20170104T105514Z">
+        <seg>Raccourci :</seg>
       </tuv>
     </tu>
     <tu>
