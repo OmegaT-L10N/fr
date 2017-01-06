@@ -1622,6 +1622,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Show in Editor context menu</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170106T154550Z" creationid="Didier" creationdate="20170106T154550Z">
+        <seg>Afficher dans le &amp;menu contextuel de l'Éditeur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Show relevant suggestions automatically</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20150610T145221Z" creationid="Didier" creationdate="20150610T145221Z">
@@ -12957,6 +12965,14 @@ kolekti -b C:\[...]\trunk\doc_src2 publish [-j JOB] -l fr,en C:\[...]\trunk\doc_
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Command:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170106T154653Z" creationid="Didier" creationdate="20170106T154653Z">
+        <seg>Commande :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Commands</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20170106T154117Z" creationid="Didier" creationdate="20170106T154117Z">
@@ -14703,6 +14719,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Delimiter:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170106T154728Z" creationid="Didier" creationdate="20170106T154728Z">
+        <seg>Séparateur :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dependable segmentation rules are already available for many languages, so it is likely that you will not need to get involved with writing your own segmentation rules.</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130423T151646Z">
@@ -16096,6 +16120,14 @@ by the Free Software Foundation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ed&amp;it</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170106T154631Z" creationid="Didier" creationdate="20170106T154631Z">
+        <seg>M&amp;odifier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Edit</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130421T001850Z">
@@ -16128,10 +16160,26 @@ by the Free Software Foundation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Edit External Search Command</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170106T154649Z" creationid="Didier" creationdate="20170106T154649Z">
+        <seg>Modifier la commande de recherche externe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Edit External Search Item</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20170106T154248Z" creationid="Didier" creationdate="20170106T154248Z">
         <seg>Modifier l'élément de recherche externe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit External Search URL</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170106T154639Z" creationid="Didier" creationdate="20170106T154639Z">
+        <seg>Modifier l'URL de recherche externe</seg>
       </tuv>
     </tu>
     <tu>
@@ -16484,6 +16532,14 @@ by the Free Software Foundation.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20120914T162031Z">
         <seg>Encodage</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Encoding:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170106T154702Z" creationid="Didier" creationdate="20170106T154702Z">
+        <seg>Encodage :</seg>
       </tuv>
     </tu>
     <tu>
@@ -31866,6 +31922,14 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remo&amp;ve</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170106T154613Z" creationid="Didier" creationdate="20170106T154613Z">
+        <seg>Su&amp;pprimer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remote</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160427T150422Z" creationid="Didier" creationdate="20160427T150422Z">
@@ -33428,6 +33492,14 @@ La recherche port par défaut sur le projet, et peut porter sur tout fichier sit
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20111111T124835Z">
         <seg>Dossier des fichiers scripts :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Se&amp;t</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170106T154604Z" creationid="Didier" creationdate="20170106T154604Z">
+        <seg>Dé&amp;finir</seg>
       </tuv>
     </tu>
     <tu>
@@ -37030,6 +37102,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Target:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170106T154656Z" creationid="Didier" creationdate="20170106T154656Z">
+        <seg>Cible :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tatar</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T103545Z">
@@ -37884,6 +37964,14 @@ Essayer de corriger l'erreur et rechargez le projet.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20141202T221012Z" creationid="Didier" creationdate="20141202T221012Z">
         <seg>Le service TaaS (https://demo.taas-project.eu/info) fournit des services de terminologie dans les langues européennes (plus le russe).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The URL must include "{target}", which will be replaced with the search text.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170106T154805Z" creationid="Didier" creationdate="20170106T154805Z">
+        <seg>L'URL doit inclure « {target} », qui sera remplacé par le texte recherché.</seg>
       </tuv>
     </tu>
     <tu>
