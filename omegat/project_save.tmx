@@ -12939,6 +12939,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (dévelo
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Command</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170106T154251Z" creationid="Didier" creationdate="20170106T154251Z">
+        <seg>Commande</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Command line example:
 kolekti -b C:\[...]\trunk\doc_src2 publish [-j JOB] -l fr,en C:\[...]\trunk\doc_src2\sources\{LANG}\tocs\UserGuide.html</seg>
       </tuv>
@@ -13293,6 +13301,14 @@ Une liste blanche en expression régulière des fichiers source à traiter.</seg
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130416T093837Z">
         <seg>Contenu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Context Menu Priority:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170106T154226Z" creationid="Didier" creationdate="20170106T154226Z">
+        <seg>Priorité du menu contextuel :</seg>
       </tuv>
     </tu>
     <tu>
@@ -14675,6 +14691,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20141202T180141Z" creationid="Didier" creationdate="20141202T180141Z">
         <seg>Supprime la traduction et définit le segment comme non traduit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Delimiter</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170106T154351Z" creationid="Didier" creationdate="20170106T154351Z">
+        <seg>Séparateur</seg>
       </tuv>
     </tu>
     <tu>
@@ -16100,6 +16124,14 @@ by the Free Software Foundation.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160718T155423Z" creationid="Didier" creationdate="20160718T155423Z">
         <seg>Edition &gt; Remplacer par la source (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Maj&lt;/k2&gt; &lt;k3&gt;R&lt;/k3&gt; &lt;/k0&gt;) : remplace par le segment source actuel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit External Search Item</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170106T154248Z" creationid="Didier" creationdate="20170106T154248Z">
+        <seg>Modifier l'élément de recherche externe</seg>
       </tuv>
     </tu>
     <tu>
@@ -21868,6 +21900,14 @@ excuse you from the conditions of this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In Editor</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170106T154217Z" creationid="Didier" creationdate="20170106T154217Z">
+        <seg>Dans l'éditeur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In KMenuEditor select &lt;e3&gt;File -&gt; New Item.&lt;/e3&gt;</seg>
       </tuv>
       <tuv lang="FR" changeid="brigitte" changedate="20130713T125359Z">
@@ -23736,6 +23776,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20141020T095123Z" creationid="Didier" creationdate="20141020T095123Z">
         <seg>Élément :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Items</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170106T154207Z" creationid="Didier" creationdate="20170106T154207Z">
+        <seg>Éléments</seg>
       </tuv>
     </tu>
     <tu>
@@ -26694,6 +26742,14 @@ impose that choice.</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130425T200754Z">
         <seg>Nom de la TMX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Name:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170106T154355Z" creationid="Didier" creationdate="20170106T154355Z">
+        <seg>Nom :</seg>
       </tuv>
     </tu>
     <tu>
@@ -35684,6 +35740,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Specify a mnemonic with "&amp;": "F&amp;oobar" to use O</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170106T154525Z" creationid="Didier" creationdate="20170106T154525Z">
+        <seg>Spécifiez un mnémonique avec « &amp; » : « T&amp;oto » pour utiliser O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Specify tag handling behaviour</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130328T111944Z">
@@ -36186,6 +36250,14 @@ address new problems or concerns.</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130419T192120Z">
         <seg>De telles nouvelles versions seront similaires à la présente version dans l'esprit mais pourront différer dans le détail pour prendre en compte de nouvelles problématiques ou inquiétudes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Summary</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170106T154211Z" creationid="Didier" creationdate="20170106T154211Z">
+        <seg>Résumé</seg>
       </tuv>
     </tu>
     <tu>
