@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.0_0_9483" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.0_0_9503M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8884,6 +8884,14 @@ or that patent license was granted, prior to 28 March 2007.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ASCII Only</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170106T154038Z" creationid="Didier" creationdate="20170106T154038Z">
+        <seg>ASCII uniquement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ASCII text (.txt, etc.)</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130416T140744Z">
@@ -11319,6 +11327,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Both</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170106T154109Z" creationid="Didier" creationdate="20170106T154109Z">
+        <seg>Les deux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Both search types support the wildcard characters * and ?.</seg>
       </tuv>
       <tuv lang="FR">
@@ -12929,6 +12945,14 @@ kolekti -b C:\[...]\trunk\doc_src2 publish [-j JOB] -l fr,en C:\[...]\trunk\doc_
       <tuv lang="FR" changeid="Didier" changedate="20160119T094129Z" creationid="Didier" creationdate="20160119T094129Z">
         <seg>Exemple de ligne de commande :
 kolekti -b C:\[...]\trunk\doc_src2 publish [-j JOB] -l fr,en C:\[...]\trunk\doc_src2\sources\{LANG}\tocs\UserGuide.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Commands</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170106T154117Z" creationid="Didier" creationdate="20170106T154117Z">
+        <seg>Commandes</seg>
       </tuv>
     </tu>
     <tu>
@@ -16840,6 +16864,14 @@ by the Free Software Foundation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Escape</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170106T153932Z" creationid="Didier" creationdate="20170106T153932Z">
+        <seg>Échappement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Escaped binary char contains malformed data ({0})!</seg>
       </tuv>
       <tuv lang="FR">
@@ -17246,6 +17278,14 @@ The FSF strongly urges you not to use this translation as the official distribu-
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130125T163446Z">
         <seg>Commande de post-traitement externe :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>External Search</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170106T154121Z" creationid="Didier" creationdate="20170106T154121Z">
+        <seg>Recherche externe</seg>
       </tuv>
     </tu>
     <tu>
@@ -26978,6 +27018,14 @@ impose that choice.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Non-ASCII Only</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170106T154105Z" creationid="Didier" creationdate="20170106T154105Z">
+        <seg>Non-ASCII uniquement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Non-GUI mode options:
 	--quiet
 		Reduce output to command line stdout.</seg>
@@ -27062,6 +27110,14 @@ Diminue les sorties sur stdout de la ligne de commande.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130528T082930Z">
         <seg>Le formatage non visible (c'est-à-dire qui n'apparaît pas sous forme de balises dans l'Éditeur d'OmegaT) est conservé dans les documents cibles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>None</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170106T154034Z" creationid="Didier" creationdate="20170106T154034Z">
+        <seg>Aucun</seg>
       </tuv>
     </tu>
     <tu>
@@ -30838,6 +30894,14 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
       </tuv>
       <tuv lang="FR" changeid="laurieetclémentine" changedate="20130411T132921Z">
         <seg>Menu Projet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project Specific External Search</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170106T154136Z" creationid="Didier" creationdate="20170106T154136Z">
+        <seg>Recherche externe spécifique au projet</seg>
       </tuv>
     </tu>
     <tu>
@@ -43466,6 +43530,14 @@ Les recherches exactes correspondent à l'ensemble de la chaîne recherchée.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>URLs</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170106T154113Z" creationid="Didier" creationdate="20170106T154113Z">
+        <seg>URL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Uighur, Uyghur</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130411T092209Z">
@@ -54524,6 +54596,16 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140925T133101Z" creationid="Didier" creationdate="20140925T133101Z">
         <seg>Remplacement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Bundle.properties</prop>
+      <prop type="id">EXTERNALFINDER_ENCODING_DEFAULT</prop>
+      <tuv lang="EN">
+        <seg>Default</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170106T153955Z" creationid="Didier" creationdate="20170106T153955Z">
+        <seg>Par défaut</seg>
       </tuv>
     </tu>
     <tu>
