@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.0_0_9503M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.0_0_9507:9510" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12005,6 +12005,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check &amp;Issues...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170111T135930Z" creationid="Didier" creationdate="20170111T135930Z">
+        <seg>Afficher les &amp;erreurs...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check &amp;all printf-variables (e.g., %s, %-s)</seg>
       </tuv>
       <tuv lang="FR">
@@ -15564,6 +15572,22 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140625T073623Z" creationid="Didier" creationdate="20140625T073623Z">
         <seg>Domaines</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Don't Ask What to Check First</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170111T140044Z" creationid="Didier" creationdate="20170111T140044Z">
+        <seg>Ne pas demander en premier ce qu'il faut vérifier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Don't ask before checking issues</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170111T140204Z" creationid="Didier" creationdate="20170111T140204Z">
+        <seg>Ne pas demander avant de vérifier les problèmes</seg>
       </tuv>
     </tu>
     <tu>
@@ -20507,6 +20531,14 @@ compelled to copy the source along with the object code.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If issue checking is slow, try disabling some of the optional checks.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170111T140141Z" creationid="Didier" creationdate="20170111T140141Z">
+        <seg>Si la vérification est lente, essayez de désactiver certaines des vérifications facultatives.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If it is &lt;e0&gt;tar.bz&lt;/e0&gt;, you have forgotten to unpack (untar) it.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130412T135116Z">
@@ -22969,6 +23001,14 @@ patent against the party.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>La meilleure &amp;correspondance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert the &amp;source text</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170111T135946Z" creationid="Didier" creationdate="20170111T135946Z">
+        <seg>Insérer le texte &amp;source</seg>
       </tuv>
     </tu>
     <tu>
@@ -34311,6 +34351,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select Issue Types</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170111T140105Z" creationid="Didier" creationdate="20170111T140105Z">
+        <seg>Sélectionner les types de problèmes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select Mat&amp;ch</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130326T170808Z">
@@ -34451,6 +34499,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20161227T171421Z" creationid="Didier" creationdate="20161227T171421Z">
         <seg>Sélectionner une catégorie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select issue types to check.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170111T140116Z" creationid="Didier" creationdate="20170111T140116Z">
+        <seg>Sélectionner les types de problèmes à vérifier</seg>
       </tuv>
     </tu>
     <tu>
@@ -36714,6 +36770,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20100118T131213Z">
         <seg>&amp;Validation des balises...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tag Issues</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170111T140055Z" creationid="Didier" creationdate="20170111T140055Z">
+        <seg>Problèmes de balises</seg>
       </tuv>
     </tu>
     <tu>
