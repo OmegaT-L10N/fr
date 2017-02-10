@@ -9898,6 +9898,14 @@ software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Alt+F2</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170210T103919Z" creationid="Didier" creationdate="20170210T103919Z">
+        <seg>Alt+F2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Alternate locations for some of the folders can be chosen at project creation or during the translation.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130430T112940Z">
@@ -15672,6 +15680,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Double-click on the OmegaT application.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170210T103801Z" creationid="Didier" creationdate="20170210T103801Z">
+        <seg>Double-cliquez sur l'application OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Double-click on&lt;e0&gt; &lt;a1&gt;OmegaT&lt;/a1&gt;.app&lt;/e0&gt; or click on its location in the Dock.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130502T120117Z">
@@ -18207,6 +18223,15 @@ patents.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130503T075133Z">
         <seg>Le tutoriel pour débutants &lt;u0&gt;OmegaT for Beginners&lt;/u0&gt; (en anglais) est disponible sur le site Web d'OmegaT et vous propose une introduction complète.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For a more user-friendly way of launching OmegaT, you can use the Kaptain
+script provided (omegat.kaptn).</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170210T103943Z" creationid="Didier" creationdate="20170210T103943Z">
+        <seg>Pour pouvoir exécuter OmegaT de façon plus conviviale, vous pouvez utiliser le script Kaptain fourni (omegat.kaptn).</seg>
       </tuv>
     </tu>
     <tu>
@@ -21303,6 +21328,15 @@ extensions are displayed.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you can see the file OmegaT but not OmegaT.exe in your File Manager
+(Windows Explorer), change the settings so that file extensions are displayed.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170210T103734Z" creationid="Didier" creationdate="20170210T103734Z">
+        <seg>Si vous pouvez voir le fichier OmegaT mais pas le fichier OmegaT.exe dans votre gestionnaire de fichier (Explorateur Windows), modifiez la configuration afin que les extensions soient affichées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you can't run &lt;a0&gt;OmegaT&lt;/a0&gt; normally (no graphical environment available): copy the settings files from some other &lt;a1&gt;OmegaT&lt;/a1&gt; installation on another machine to a specific folder.</seg>
       </tuv>
       <tuv lang="FR" changeid="brigitte" changedate="20130714T144919Z">
@@ -21748,6 +21782,14 @@ OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you used linux-install.sh script, you should be able to launch OmegaT with:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170210T103917Z" creationid="Didier" creationdate="20170210T103917Z">
+        <seg>Si vous avez utilisé le script linux-install.sh, vous devriez pouvoir exécuter OmegaT avec :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you want the translation to be the same as the source, simply make the editing field empty by removing all the text (select all with &lt;k0&gt;Ctrl+A&lt;/k0&gt; and delete with &lt;k1&gt;Del&lt;/k1&gt;).</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130528T124805Z">
@@ -21897,6 +21939,15 @@ excuse you from the conditions of this License.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130503T081519Z">
         <seg>Si, conséquement à une décision de justice ou l'allégation d'une transgression de brevet ou pour toute autre raison (non limitée à un probleme de brevet), des obligations vous sont imposées (que ce soit par jugement, conciliation ou autre) qui contredisent les conditions de la présente Licence, elles ne vous excusent pas des conditions de la présente Licence.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If, during installation, you have created a shortcut on the desktop, double-
+click on that shortcut.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170210T103701Z" creationid="Didier" creationdate="20170210T103701Z">
+        <seg>Si, durant l'installation, vous avez créé un raccourci sur le bureau, double-cliquez sur ce raccourci.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24991,6 +25042,26 @@ Launch OmegaT as follows.</seg>
       <tuv lang="FR" changeid="Didier" changedate="20120411T092104Z">
         <seg>Lancement d'OmegaT
 Exécutez OmegaT de la façon suivante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Launching OmegaT (Linux)
+========================</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170210T103852Z" creationid="Didier" creationdate="20170210T103852Z">
+        <seg>Exécution d'OmegaT (Linux)
+========================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Launching OmegaT (Mac)
+======================</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170210T103748Z" creationid="Didier" creationdate="20170210T103748Z">
+        <seg>Exécution d'OmegaT (Mac)
+======================</seg>
       </tuv>
     </tu>
     <tu>
@@ -39387,6 +39458,15 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The install program can create shortcuts for you in the start menu, on the
+desktop and in the quick launch area.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170210T103715Z" creationid="Didier" creationdate="20170210T103715Z">
+        <seg>Le programme d'installation peut créer des raccourcis pour vous dans le menu démarrer, sur le bureau ou dans la zone de lancement rapide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The items are not separated with a TAB character.</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130417T151839Z">
@@ -47166,11 +47246,30 @@ Spotlight search field.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can also launch
+it from the Spotlight search field.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170210T103844Z" creationid="Didier" creationdate="20170210T103844Z">
+        <seg>Vous pouvez également l'exécuter depuis le champ de recherche de Spotlight.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can also manually drag 
 the file OmegaT.exe to the start menu, the desktop or the quick launch area
 to link it from there.</seg>
       </tuv>
       <tuv lang="FR">
+        <seg>Vous également pouvez faire glisser le fichier OmegaT.exe dans le menu démarrer, sur le bureau ou dans la zone de lancement rapide afin d'y créer un raccourci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also manually drag the file
+OmegaT.exe to the start menu, the desktop or the quick launch area to link it
+from there.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170210T103724Z" creationid="Didier" creationdate="20170210T103724Z">
         <seg>Vous également pouvez faire glisser le fichier OmegaT.exe dans le menu démarrer, sur le bureau ou dans la zone de lancement rapide afin d'y créer un raccourci.</seg>
       </tuv>
     </tu>
@@ -47712,6 +47811,15 @@ along with the Program.</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130418T230232Z">
         <seg>Vous pouvez copier et distribuer des copies à l'identique du code source du Programme tel que vous l'avez reçu, sur n'importe quel support, du moment que vous apposiez sur chaque copie, de manière ad hoc et parfaitement visible, l'avis de droit d'auteur adéquat et une exonération de garantie ; que vous gardiez intacts tous les avis faisant référence à la présente Licence et à l'absence de toute garantie ; et que vous fournissiez à tout destinataire du Programme autre que vous-même un exemplaire de la présente Licence en même temps que le Programme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may drag the OmegaT application to your dock or to the tool bar of a
+Finder window to be able to launch it from any location.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170210T103821Z" creationid="Didier" creationdate="20170210T103821Z">
+        <seg>Vous pouvez faire glisser OmegaT.app sur votre dock ou sur la barre d'outils d'une fenêtre du Finder afin de pouvoir l'exécuter de n'importe quel emplacement.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48646,6 +48754,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>ainsi que beaucoup d'autres personnes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>and then:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170210T103925Z" creationid="Didier" creationdate="20170210T103925Z">
+        <seg>suivi de :</seg>
       </tuv>
     </tu>
     <tu>
@@ -52640,6 +52756,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T100133Z">
         <seg>om</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>omegat</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170210T103926Z" creationid="Didier" creationdate="20170210T103926Z">
+        <seg>omegat</seg>
       </tuv>
     </tu>
     <tu>
