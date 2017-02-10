@@ -384,8 +384,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>${translationNotice}</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20160718T161241Z" creationid="Didier" creationdate="20160718T161241Z">
-        <seg>Ce document a été traduit par Didier Briel et Jean-Christophe Helary, copyright© 2007-2016.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20170210T102542Z" creationid="Didier" creationdate="20160718T161241Z">
+        <seg>Ce document a été traduit par Didier Briel et Jean-Christophe Helary, copyright© 2007-2017.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12963,6 +12963,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (dévelo
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Command delimiter is empty</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170210T102403Z" creationid="Didier" creationdate="20170210T102403Z">
+        <seg>Le séparateur de commande est vide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Command does not contain "{0}"</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20170210T102318Z" creationid="Didier" creationdate="20170210T102318Z">
@@ -16548,6 +16556,14 @@ by the Free Software Foundation.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20161227T165137Z" creationid="Didier" creationdate="20161227T165137Z">
         <seg>Activer la prédiction historique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enable project-specific commands</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170210T102432Z" creationid="Didier" creationdate="20170210T102423Z">
+        <seg>Autoriser les commandes spécifiques aux projets</seg>
       </tuv>
     </tu>
     <tu>
@@ -25025,6 +25041,16 @@ Exécutez OmegaT de la façon suivante.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Licensing information
+=====================</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170210T102734Z" creationid="Didier" creationdate="20170210T102734Z">
+        <seg>Informations sur la licence
+=====================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Limburgish, Limburgan, Limburger</seg>
       </tuv>
       <tuv lang="FR" changeid="etudiant_local" changedate="20130410T130532Z">
@@ -28552,6 +28578,16 @@ mouse-clicks or menu items--whatever suits your program.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is a free and open source multiplatform Computer Assisted Translation
+tool with fuzzy matching, translation memory, keyword search, glossaries, and
+translation leveraging into updated projects.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170210T102606Z" creationid="Didier" creationdate="20170210T102606Z">
+        <seg>OmegaT est un outil de Traduction Assistée par Ordinateur libre, à code source ouvert et multiplateforme, avec recherche de correspondances, mémoire de traduction, recherche par mots clefs, glossaires et réutilisation des traductions dans des projets modifiés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT is a free and open source multiplatform Computer Assisted Translation tool with fuzzy matching, translation memory, keyword search, glossaries, and translation leveraging into updated projects.</seg>
       </tuv>
       <tuv lang="FR">
@@ -31196,8 +31232,8 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
       <tuv lang="EN">
         <seg>Project commands are disabled for security reasons.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20170210T101749Z" creationid="Didier" creationdate="20170210T101749Z">
-        <seg>Les commandes spécifiques au projet sont désactivées pour des raisons de sécurité.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20170210T102453Z" creationid="Didier" creationdate="20170210T101749Z">
+        <seg>Les commandes spécifiques aux projets sont désactivées pour des raisons de sécurité.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33290,6 +33326,14 @@ REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130519T100802Z">
         <seg>Samoan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sample Output</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170210T102509Z" creationid="Didier" creationdate="20170210T102509Z">
+        <seg>Exemple de résultat</seg>
       </tuv>
     </tu>
     <tu>
@@ -37446,6 +37490,14 @@ material under section 10.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130917T085506Z" creationid="Didier" creationdate="20130917T085506Z">
         <seg>Termes comportant plusieurs cibles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Test</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170210T102520Z" creationid="Didier" creationdate="20170210T102520Z">
+        <seg>Tester</seg>
       </tuv>
     </tu>
     <tu>
