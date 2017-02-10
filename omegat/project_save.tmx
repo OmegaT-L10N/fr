@@ -19299,6 +19299,14 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Go to Preferences &gt; External Search to enable.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170210T101856Z" creationid="Didier" creationdate="20170210T101816Z">
+        <seg>Allez à Préférences &gt; Recherche externe pour les activer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Go to https://demo.taas-project.eu/account/keys/create?system=omegaT to create your own key then give it to OmegaT with -Dtaas.user.key=xxxxx</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140625T073922Z" creationid="Didier" creationdate="20140625T073922Z">
@@ -23868,6 +23876,30 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Item has neither URLs nor commands.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170210T101957Z" creationid="Didier" creationdate="20170210T101957Z">
+        <seg>L'élément ne comporte ni URL ni commande.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Item is missing scope</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170210T102131Z" creationid="Didier" creationdate="20170210T102131Z">
+        <seg>L'élément ne comporte pas de portée</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Item name is empty or missing</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170210T101928Z" creationid="Didier" creationdate="20170210T101928Z">
+        <seg>Le nom de l'élément est vide ou manquant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Item:</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20141020T095123Z" creationid="Didier" creationdate="20141020T095123Z">
@@ -26862,6 +26894,14 @@ impose that choice.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20170106T154355Z" creationid="Didier" creationdate="20170106T154355Z">
         <seg>Nom :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Name: {0}</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170210T102004Z" creationid="Didier" creationdate="20170210T102004Z">
+        <seg>Nom : {0}</seg>
       </tuv>
     </tu>
     <tu>
