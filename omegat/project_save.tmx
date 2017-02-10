@@ -28612,6 +28612,16 @@ translation leveraging into updated projects.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is available under the terms of the GNU General Public License as
+published by the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170210T102814Z" creationid="Didier" creationdate="20170210T102814Z">
+        <seg>OmegaT est disponible suivant les termes de la GNU General Public License telle que publiée par la Free Software Foundation , soit la version 3 de la Licence, soit (à votre gré) toute version ultérieure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT is instructed to use a mandatory encoding for certain file formats (Java properties etc)</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130415T182049Z">
@@ -28762,6 +28772,15 @@ selecting, obtaining and installing it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT requires the Java Runtime Environment (JRE) version 1.8 or higher to be
+installed on your system.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170210T103030Z" creationid="Didier" creationdate="20170210T103030Z">
+        <seg>OmegaT a besoin qu'un environnement d'exécution Java (JRE) de version 1.8 soit installé dans votre système.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT stores your translations and proposes possible translations from similar segments in registered in the translation memory files.</seg>
       </tuv>
       <tuv lang="FR" changeid="brigitte" changedate="20130712T164512Z">
@@ -28806,6 +28825,14 @@ selecting, obtaining and installing it.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130507T074244Z">
         <seg>OmegaT prend ainsi les variantes d'unité de traduction correspondant au code des langues source et cible du projet et les utilise respectivement en tant que segments source et cible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT uses a number of librairies.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170210T102845Z" creationid="Didier" creationdate="20170210T102845Z">
+        <seg>OmegaT utilise un certain nombre de bibliothèques.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30838,6 +30865,16 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="FR" changeid="pingouin" changedate="20130418T145819Z">
         <seg>Prérequis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Prerequisites for installing OmegaT
+===================================</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170210T102934Z" creationid="Didier" creationdate="20170210T102934Z">
+        <seg>Prérequis pour l'installation d'OmegaT
+===================================</seg>
       </tuv>
     </tu>
     <tu>
@@ -39314,6 +39351,16 @@ où xx est un code langue générique et YY un code pays/région, optionnel.</se
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The license of each library is mentionned
+in /lib/licenses/Licenses.txt.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170210T102905Z" creationid="Didier" creationdate="20170210T102905Z">
+        <seg>La licence de chaque bibliothèque est mentionnée
+dans /lib/licenses/Licenses.txt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The licenses for most software and other practical works are designed
 to take away your freedom to share and change the works. By contrast,
 the GNU General Public License is intended to guarantee your freedom to
@@ -47162,6 +47209,16 @@ to link it from there.</seg>
       <tuv lang="FR">
         <seg>Vous pouvez trouver des informations statistiques détaillées dans le fichier :
 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can find the text of the license in
+OmegaT-license.txt.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170210T102829Z" creationid="Didier" creationdate="20170210T102829Z">
+        <seg>Vous pouvez trouver le texte de la licence dans
+OmegaT-license.txt.</seg>
       </tuv>
     </tu>
     <tu>
