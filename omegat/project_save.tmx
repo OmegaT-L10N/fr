@@ -21508,6 +21508,15 @@ free software which everyone can redistribute and change under these terms.</seg
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you have already Java installed on your system, one way to install OmegaT
+is to use Java Web Start.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170210T103619Z" creationid="Didier" creationdate="20170210T103619Z">
+        <seg>Si vous disposez déjà de Java, l'une des façons d'installer OmegaT est d'utiliser Java Web Start.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you have already Java, one way to install the current version of 
 OmegaT is to use Java Web Start.</seg>
       </tuv>
@@ -23231,12 +23240,32 @@ exécutez simplement le programme d'installation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Installing OmegaT (Linux)
+=========================</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170210T103350Z" creationid="Didier" creationdate="20170210T103350Z">
+        <seg>Installation d'OmegaT (Linux)
+===========================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Installing OmegaT (Mac)
 =======================</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20170210T103214Z" creationid="Didier" creationdate="20170210T103214Z">
         <seg>Installation d'OmegaT (Mac)
 ===========================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Installing OmegaT (Solaris, FreeBSD, ...)
+=========================================</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170210T103519Z" creationid="Didier" creationdate="20170210T103519Z">
+        <seg>Installation d'OmegaT (Solaris, FreeBSD, ...)
+=========================================</seg>
       </tuv>
     </tu>
     <tu>
@@ -23931,6 +23960,15 @@ dans le dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130527T132219Z">
         <seg>Elle validera d'abord les contenus actuels dans le référentiel du serveur puis elle mettra à jour la copie locale du référentiel - soit, le contenu du sous-dossier .svn  - afin qu'elle soit à jour par rapport à la dernière version du référentiel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It will install the correct environment for your computer and the application
+itself on the first run.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170210T103631Z" creationid="Didier" creationdate="20170210T103631Z">
+        <seg>Il installera l'environnement approprié pour votre ordinateur et l'application elle-même lors de la première exécution.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24941,8 +24979,8 @@ later version.</seg>
       <tuv lang="EN">
         <seg>Launch the installation program.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20170210T103233Z" creationid="Didier" creationdate="20170210T103206Z">
-        <seg>Lancez simplement le programme d'installation.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20170210T103422Z" creationid="Didier" creationdate="20170210T103206Z">
+        <seg>Exécutez simplement le programme d'installation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24953,6 +24991,16 @@ Launch OmegaT as follows.</seg>
       <tuv lang="FR" changeid="Didier" changedate="20120411T092104Z">
         <seg>Lancement d'OmegaT
 Exécutez OmegaT de la façon suivante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Launching OmegaT (Windows)
+==========================</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170210T103645Z" creationid="Didier" creationdate="20170210T103645Z">
+        <seg>Exécution d'OmegaT (Windows)
+===========================</seg>
       </tuv>
     </tu>
     <tu>
@@ -28703,6 +28751,15 @@ contenant votre dossier de base est refusé à OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is then ready
+to be launched.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170210T103416Z" creationid="Didier" creationdate="20170210T103416Z">
+        <seg>OmegaT est alors prêt à être exécuté.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT leaves the editing field blank.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130415T090930Z">
@@ -30444,6 +30501,14 @@ everything.</seg>
         <seg>Placez les fichiers ./source et les matériels supplémentaires dans
 ./tm, ./glossary et /dictionary selon les besoins, puis validez (commit)
 l'ensemble.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Place the archive in any suitable folder and unpack it.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170210T103408Z" creationid="Didier" creationdate="20170210T103408Z">
+        <seg>Placez l'archive dans n'importe quel dossier approprié et décompactez-la.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43326,6 +43391,17 @@ Kaptain.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To use this script, open a
+terminal window (console), change folder to the folder containing OmegaT.jar
+and the linux-install.sh script, and execute the script with ./linux-
+install.sh.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170210T103454Z" creationid="Didier" creationdate="20170210T103454Z">
+        <seg>Pour l'utiliser, ouvrez un fenêtre de terminal (console), passez dans le dossier contenant OmegaT.jar et le script linux-install.sh et exécuter le script avec ./linux-install.sh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Toggle Selected</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160427T154136Z" creationid="Didier" creationdate="20160427T154136Z">
@@ -45197,6 +45273,16 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130417T141407Z">
         <seg>Utilisation de Java Web Start</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using Java Web Start for installing OmegaT (all platforms)
+===========================================================</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170210T103550Z" creationid="Didier" creationdate="20170210T103550Z">
+        <seg>Utilisation de Java Web Start pour l'installation d'OmegaT (toutes plates-formes)
+===========================================================</seg>
       </tuv>
     </tu>
     <tu>
@@ -47306,6 +47392,15 @@ OmegaT-license.txt.</seg>
 installation by using the installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20120411T091239Z">
+        <seg>Vous pouvez cependant bénéficier d'un installation plus orthodoxe et plus conviviale en utilisant le script d'installation (linux-install.sh).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can however obtain a neater and more user-friendly installation by using
+the installation script (linux-install.sh).</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170210T103434Z" creationid="Didier" creationdate="20170210T103434Z">
         <seg>Vous pouvez cependant bénéficier d'un installation plus orthodoxe et plus conviviale en utilisant le script d'installation (linux-install.sh).</seg>
       </tuv>
     </tu>
