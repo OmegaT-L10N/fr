@@ -2011,6 +2011,15 @@ but you don't see your name on the lists, feel free to contact us.)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(If you think you have significantly contributed to the OmegaT Project but you
+(don't see your name on the lists, feel free to contact us.)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170210T104127Z" creationid="Didier" creationdate="20170210T104127Z">
+        <seg>(Si vous pensez avoir contribué à OmegaT de manière significative et si votre nom ne se trouve pas sur cette liste, n'hésitez pas à nous contacter.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(In the user's manual, see 'Files to translate' &gt; 'File formats' for a list of supported file formats.)
 To add files to the project, click on the Copy Files to Source Folder... button in the Project Files window or call this action from the Project menu and select the source files you want to copy.</seg>
       </tuv>
@@ -13433,6 +13442,16 @@ Une liste blanche en expression régulière des fichiers source à traiter.</seg
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Contributors
+============</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170210T104114Z" creationid="Didier" creationdate="20170210T104114Z">
+        <seg>Contributeurs
+============</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Convert Old Team Project</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160427T151824Z" creationid="Didier" creationdate="20160427T151824Z">
@@ -20346,6 +20365,15 @@ path need not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If Java is installed at system level and is in the command path, the full path
+need not be entered.)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170210T104105Z" creationid="Didier" creationdate="20170210T104105Z">
+        <seg>Si Java est installé au niveau système et est inclus dans le chemin, il n'est pas nécessaire d'entrer le chemin complet.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If a "command not found" or similar message is returned, it is likely that Java is not installed on your system</seg>
       </tuv>
       <tuv lang="FR" changeid="brigitte" changedate="20130714T125108Z">
@@ -25076,6 +25104,16 @@ Exécutez OmegaT de la façon suivante.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Launching OmegaT from the command line (all systems)
+====================================================</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170210T104038Z" creationid="Didier" creationdate="20170210T104038Z">
+        <seg>Exécution d'OmegaT depuis la ligne de commande (tous systèmes)
+====================================================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Launching OmegaT in console mode</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130421T133732Z">
@@ -25160,6 +25198,14 @@ Exécutez OmegaT de la façon suivante.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130502T081425Z">
         <seg>Mentions légales et remerciements</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Lev Abashkin</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170210T104116Z" creationid="Didier" creationdate="20170210T104116Z">
+        <seg>Lev Abashkin</seg>
       </tuv>
     </tu>
     <tu>
@@ -38731,6 +38777,14 @@ shown below.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The command to launch OmegaT is:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170210T104054Z" creationid="Didier" creationdate="20170210T104054Z">
+        <seg>La commande permettant d'exécuter OmegaT est :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The computer, running OmegaT, has Russian as the default language, and thus shows the characters in the Cyrillic alphabet and not in Kanji.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130506T075609Z">
@@ -39762,6 +39816,14 @@ freedom to share and change it.</seg>
         <seg>The most current info about OmegaT can be found at</seg>
       </tuv>
       <tuv lang="FR">
+        <seg>Les informations les plus récentes au sujet d'OmegaT sont à :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The most current info about OmegaT can be found at:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170210T104142Z" creationid="Didier" creationdate="20170210T104142Z">
         <seg>Les informations les plus récentes au sujet d'OmegaT sont à :</seg>
       </tuv>
     </tu>
@@ -43462,6 +43524,15 @@ script with ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To use this script you must first install
+Kaptain.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170210T103955Z" creationid="Didier" creationdate="20170210T103955Z">
+        <seg>Pour l'utiliser, vous devez tout d'abord installer Kaptain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To use this script you must first install 
 Kaptain.</seg>
       </tuv>
@@ -45200,6 +45271,16 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130507T100137Z">
         <seg>Utilisée pour valider les balises (s'ouvre avec les touches &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;T&lt;/k2&gt; &lt;/k0&gt;, se ferme en appuyant sur &lt;k3&gt;Echap&lt;/k3&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Useful links
+============</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170210T104134Z" creationid="Didier" creationdate="20170210T104134Z">
+        <seg>Liens utiles
+============</seg>
       </tuv>
     </tu>
     <tu>
@@ -47641,6 +47722,15 @@ omegat.kaptn</seg>
         <seg>Vous pouvez ensuite lancer le script d'exécution Kaptain par
 Alt+F2
 omegat.kaptn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can then launch the Kaptain launch script with:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170210T104014Z" creationid="Didier" creationdate="20170210T104014Z">
+        <seg>Vous pouvez ensuite lancer le script d'exécution Kaptain avec :
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -52772,6 +52862,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130424T080706Z">
         <seg>dossier omegat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>omegat.kaptn</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170210T104015Z" creationid="Didier" creationdate="20170210T104015Z">
+        <seg>omegat.kaptn</seg>
       </tuv>
     </tu>
     <tu>
