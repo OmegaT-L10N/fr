@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.0_0_9507:9510" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9587" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -26242,6 +26242,22 @@ impose that choice.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Microsoft Translator (Deprecated)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170210T101553Z" creationid="Didier" creationdate="20170210T101553Z">
+        <seg>Microsoft Translator (déconseillé)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Microsoft Translator Subscription Key not available.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170210T101641Z" creationid="Didier" creationdate="20170210T101641Z">
+        <seg>La clé d'abonnement de Microsoft Translator n'est pas disponible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Microsoft Translator's Client ID or Client Secret not available.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20121205T180332Z">
@@ -31098,6 +31114,14 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project commands are disabled for security reasons.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170210T101749Z" creationid="Didier" creationdate="20170210T101749Z">
+        <seg>Les commandes spécifiques au projet sont désactivées pour des raisons de sécurité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project compiling end</seg>
       </tuv>
       <tuv lang="FR">
@@ -33556,6 +33580,14 @@ La recherche port par défaut sur le projet, et peut porter sur tout fichier sit
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20100415T182543Z">
         <seg>Rechercher dans les fichier&amp;s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search ({0})</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170210T101710Z" creationid="Didier" creationdate="20170210T101710Z">
+        <seg>Rechercher ({0})</seg>
       </tuv>
     </tu>
     <tu>
@@ -36306,6 +36338,14 @@ patents cannot be used to render the program non-free.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Subscription Key:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170210T101607Z" creationid="Didier" creationdate="20170210T101607Z">
+        <seg>Clé d'abonnement :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Subsequent clicks on  OmegaT.jnlp 
 will check for any upgrades, if you are online, install them if there are any, 
 and then start OmegaT.</seg>
@@ -38737,6 +38777,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The file "{0}" is not supported.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170210T101654Z" creationid="Didier" creationdate="20170210T101654Z">
+        <seg>Le fichier « {0} » n'est pas pris en charge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The file &lt;f0&gt;project_save.tmx&lt;/f0&gt; contains all the segments that have been translated since you started the project.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130424T095427Z">
@@ -40254,6 +40302,14 @@ making modifications to it.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20150713T084155Z" creationid="Didier" creationdate="20150713T084155Z">
         <seg>Le dossier de dictionnaires spécifié n'existe pas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The specified files are not supported.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170210T101702Z" creationid="Didier" creationdate="20170210T101702Z">
+        <seg>Les fichiers spécifiés ne sont pas pris en charge.</seg>
       </tuv>
     </tu>
     <tu>
