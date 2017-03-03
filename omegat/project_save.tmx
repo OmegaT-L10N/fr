@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9587" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9612" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -22997,6 +22997,14 @@ patent against the party.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Initialized {0}-{1} team project.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170303T165204Z" creationid="Didier" creationdate="20170303T165204Z">
+        <seg>Projet en équipe {0}-{1} initialisé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Initializing</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20120131T094553Z">
@@ -34415,6 +34423,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130506T120453Z">
         <seg>Voir chapitre&lt;l3&gt; Filtres de fichiers... &lt;/l3&gt;pour plus d'informations à ce sujet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See contributors.txt</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170303T165442Z" creationid="Didier" creationdate="20170303T165442Z">
+        <seg>Voir contributors.txt</seg>
       </tuv>
     </tu>
     <tu>
