@@ -5273,6 +5273,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;html&gt;&lt;i&gt;Preferences&lt;/i&gt; &amp;gt; &lt;i&gt;General&lt;/i&gt; &amp;gt; &lt;i&gt;Use TAB to Advance&lt;/i&gt; is checked&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170307T143611Z" creationid="Didier" creationdate="20170307T143611Z">
+        <seg>&lt;html&gt;&lt;i&gt;Préférences&lt;/i&gt; &amp;gt; &lt;i&gt;Générales&lt;/i&gt; &amp;gt; &lt;i&gt;Utiliser TAB pour valider&lt;/i&gt; est cochée&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;html&gt;Add patterns using wildcards (Apache Ant style): &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;?&lt;/code&gt;, &lt;code&gt;**&lt;/code&gt;&lt;br&gt;Example: &lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160427T152822Z" creationid="Didier" creationdate="20160427T152822Z">
@@ -15427,6 +15435,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Displays the translation of the source segment by the machine translation services you have selected in Preferences &gt; Machine Translation, if those services are available.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170307T143456Z" creationid="Didier" creationdate="20170307T143456Z">
+        <seg>Affiche la traduction du segment source effectuée par les services de traductions automatiques sélectionnés dans Préférences &gt; Traduction automatique si ces services sont disponibles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Distance</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160427T160047Z" creationid="Didier" creationdate="20160427T160047Z">
@@ -16639,6 +16655,14 @@ by the Free Software Foundation.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130511T164351Z">
         <seg>Activez-les dans &lt;b&gt;Options &gt; Enregistrement et exécution...&lt;/b&gt;.&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enable them in &lt;b&gt;Preferences &gt; Saving and Output...&lt;/b&gt;.&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170307T143417Z" creationid="Didier" creationdate="20170307T143417Z">
+        <seg>Activez-les dans &lt;b&gt;Préférences &gt; Enregistrement et exécution...&lt;/b&gt;.&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -18327,6 +18351,14 @@ control compilation and installation of the executable.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20131029T133441Z" creationid="Didier" creationdate="20131029T133441Z">
         <seg>Pour obtenir les meilleurs résultats, veuillez installer les dictionnaires appropriés avec Options &gt; Orthographe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For best results, please install the appropriate dictionaries via Preferences &gt; Spell Checking.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170307T143506Z" creationid="Didier" creationdate="20170307T143506Z">
+        <seg>Pour obtenir les meilleurs résultats, veuillez installer les dictionnaires appropriés avec Préférences &gt; Orthographe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55362,6 +55394,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140203T140819Z" creationid="Didier" creationdate="20140203T140819Z">
         <seg>{0} segments</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0} toggles orientation between LTR, RTL, and language-dependent</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170307T143635Z" creationid="Didier" creationdate="20170307T143635Z">
+        <seg>{0} bascule l'orientation entre les modes gauche à droite, droite à gauche et dépendants des langues</seg>
       </tuv>
     </tu>
     <tu>
