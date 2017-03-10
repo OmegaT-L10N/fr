@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9612" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9633:9634" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -37062,6 +37062,14 @@ address new problems or concerns.</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130421T160050Z">
         <seg>Basculer la casse en</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Switch views with {0} and {1}</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170310T154258Z" creationid="Didier" creationdate="20170310T154258Z">
+        <seg>Changer de vue avec {0} et {1}</seg>
       </tuv>
     </tu>
     <tu>
