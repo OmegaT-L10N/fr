@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9633:9634" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_1_9743" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -505,6 +505,14 @@ java -jar OmegaT.jar $*</seg>
         <seg>&amp;Apply to All</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20150525T145210Z" creationid="Didier" creationdate="20150525T145210Z">
+        <seg>&amp;Appliquer à tous</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Apply to all</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170331T135125Z" creationid="Didier" creationdate="20170331T135125Z">
         <seg>&amp;Appliquer à tous</seg>
       </tuv>
     </tu>
@@ -13690,6 +13698,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copyright © 2000-2017 Keith Godfrey, Maxym Mykhalchuk and others</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170331T135118Z" creationid="Didier" creationdate="20170331T135118Z">
+        <seg>Copyright © 2000-2017 Keith Godfrey, Maxym Mykhalchuk et d'autres personnes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cornish</seg>
       </tuv>
       <tuv lang="FR" changeid="etudiant_local" changedate="20130410T125017Z">
@@ -17517,6 +17533,14 @@ The FSF strongly urges you not to use this translation as the official distribu-
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>External Lin&amp;ks</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170331T135105Z" creationid="Didier" creationdate="20170331T135105Z">
+        <seg>Liens e&amp;xternes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>External Post-processing Command</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130128T144834Z">
@@ -17621,6 +17645,14 @@ The FSF strongly urges you not to use this translation as the official distribu-
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Extract Text Content</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170331T135210Z" creationid="Didier" creationdate="20170331T135210Z">
+        <seg>Extraction du contenu textuel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Extracted comments:</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20111111T125237Z">
@@ -17633,6 +17665,14 @@ The FSF strongly urges you not to use this translation as the official distribu-
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130527T134110Z">
         <seg>Extraire le contenu traductible du fichier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Extracts the content of the projects in a single text file (one line per segment).</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170331T135226Z" creationid="Didier" creationdate="20170331T135226Z">
+        <seg>Extrait le contenu de l'ensemble du projet dans un seul fichier texte (une ligne par segment).</seg>
       </tuv>
     </tu>
     <tu>
@@ -27454,6 +27494,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No Loaded Project</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170331T135232Z" creationid="Didier" creationdate="20170331T135232Z">
+        <seg>Aucun projet chargé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>No Suggestions</seg>
       </tuv>
       <tuv lang="FR">
@@ -30996,6 +31044,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20120918T152309Z">
         <seg>Veuillez traduire ce pluriel sous la forme plurielle numéro {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please try again after opening a project.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170331T135247Z" creationid="Didier" creationdate="20170331T135247Z">
+        <seg>Veuillez réessayer après avoir chargé un projet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36144,6 +36200,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source Text File: {0}</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170331T135256Z" creationid="Didier" creationdate="20170331T135256Z">
+        <seg>Fichier texte source : {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source and Target file encoding</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130415T175322Z">
@@ -37622,6 +37686,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140604T063905Z" creationid="Didier" creationdate="20140604T063905Z">
         <seg>Cible</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Target Text File: {0}</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170331T135304Z" creationid="Didier" creationdate="20170331T135304Z">
+        <seg>Fichier texte cible : {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -46074,6 +46146,14 @@ program proprietary.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>WebVTT Subtitles</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170331T135052Z" creationid="Didier" creationdate="20170331T135052Z">
+        <seg>Sous-titres WebVTT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Webster's Revised Unabridged Dictionary (1913)</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T104310Z">
@@ -48268,6 +48348,14 @@ them.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130430T131419Z">
         <seg>Vous pourrez ainsi lancer OmegaT en exécutant ce fichier à partir de la ligne de commande. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>YouTube Subtitles</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170331T135044Z" creationid="Didier" creationdate="20170331T135044Z">
+        <seg>Sous-titres YouTube</seg>
       </tuv>
     </tu>
     <tu>
