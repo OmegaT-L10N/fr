@@ -2,6 +2,14 @@
 <omegat>
     <project version="1.0">
         <source_dir>__DEFAULT__</source_dir>
+        <source_dir_excludes>
+            <mask>**/.svn/**</mask>
+            <mask>**/CVS/**</mask>
+            <mask>**/.cvs/**</mask>
+            <mask>**/desktop.ini</mask>
+            <mask>**/Thumbs.db</mask>
+            <mask>**/.DS_Store</mask>
+        </source_dir_excludes>
         <target_dir>__DEFAULT__</target_dir>
         <tm_dir>__DEFAULT__</tm_dir>
         <glossary_dir>__DEFAULT__</glossary_dir>
@@ -14,40 +22,30 @@
         <sentence_seg>true</sentence_seg>
         <support_default_translations>true</support_default_translations>
         <remove_tags>false</remove_tags>
+        <external_command></external_command>
         <repositories>
             <repository type="svn" url="https://omegat.plugnsecure.fr/omegat-fr">
                 <mapping local="" repository=""/>
             </repository>
-            <repository type="svn" url="https://svn.code.sf.net/p/omegat/svn/trunk/src/org/omegat">
-                <mapping local="source/" repository="">
-                    <excludes>**/*</excludes>
-                    <includes>**/Bundle.properties</includes>
-                </mapping>
-            </repository>
             <repository type="svn" url="https://svn.code.sf.net/p/omegat/svn/trunk/doc_src/en">
                 <mapping local="source/doc_src/" repository=""/>
             </repository>
-            <repository type="svn" url="https://svn.code.sf.net/p/omegat/svn/trunk/release">
-                <mapping local="source/readme_fr.txt" repository="readme.txt"/>
+            <repository type="http" url="https://svn.code.sf.net/p/omegat/svn/trunk/">
+                <mapping local="source/Bundle.properties" repository="src/org/omegat/Bundle.properties"/>
+                <mapping local="source/readme_fr.txt" repository="release/readme.txt"/>
+                <mapping local="source/release/win32-specific/CustomMessages.ini" repository="release/win32-specific/CustomMessages.ini"/>
+                <mapping local="source/scripts/check_rules.properties" repository="scripts/properties/check_rules.properties"/>
+                <mapping local="source/scripts/spellcheck.properties" repository="scripts/properties/spellcheck.properties"/>
+                <mapping local="source/scripts/svn_cleanup_selected.properties" repository="scripts/properties/svn_cleanup_selected.properties"/>
+                <mapping local="source/scripts/search_replace.properties" repository="scripts/properties/search_replace.properties"/>
+                <mapping local="source/scripts/replace_strip_tags.properties" repository="scripts/properties/replace_strip_tags.properties"/>
+                <mapping local="source/scripts/strip_bidi_marks.properties" repository="scripts/properties/strip_bidi_marks.properties"/>
+                <mapping local="source/scripts/nbsp.properties" repository="scripts/properties/nbsp.properties"/>
+                <mapping local="source/scripts/extract_text_content.properties" repository="scripts/properties/extract_text_content.properties"/>
             </repository>
-            <repository type="svn" url="https://svn.code.sf.net/p/omegat/svn/trunk/release/mac-specific/OmegaT.app/Contents/Resources/en.lproj">
-                <mapping local="source/release/mac-specific/" repository=""/>
+            <repository type="http" url="https://svn.code.sf.net/p/omegat/svn/trunk/release/mac-specific/OmegaT.app/Contents/Resources/en.lproj/">
+                <mapping local="source/release/mac-specific/Localizable.strings" repository="Localizable.strings"/>
             </repository>
-            <repository type="svn" url="https://svn.code.sf.net/p/omegat/svn/trunk/release/win32-specific">
-                <mapping local="source/release/win32-specific/CustomMessages.ini" repository="CustomMessages.ini"/>
-            </repository>
-            <repository type="svn" url="https://svn.code.sf.net/p/omegat/svn/trunk/scripts/properties">
-                <mapping local="source/scripts/" repository="">
-                    <excludes>**/*</excludes>
-                    <includes>**/check_rules.properties</includes>
-                    <includes>**/spellcheck.properties</includes>
-                    <includes>**/svn_cleanup_selected.properties</includes>
-                    <includes>**/search_replace.properties</includes>
-                    <includes>**/replace_strip_tags.properties</includes>
-                    <includes>**/strip_bidi_marks.properties</includes>
-                    <includes>**/nbsp.properties</includes>
-                </mapping>
-            </repository>
-        </repositories>       
+        </repositories>
     </project>
 </omegat>
