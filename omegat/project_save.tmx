@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_1_9817" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_1_9855:9861" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -37166,6 +37166,14 @@ address new problems or concerns.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160929T151149Z" creationid="Didier" creationdate="20160929T151149Z">
         <seg>Passage à la version intégrée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Synchronisation of repositories</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170428T151720Z" creationid="Didier" creationdate="20170428T151720Z">
+        <seg>Synchronisation des référentiels</seg>
       </tuv>
     </tu>
     <tu>
