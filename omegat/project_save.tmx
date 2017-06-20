@@ -4041,6 +4041,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;br&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170620T151643Z" creationid="Didier" creationdate="20170620T151643Z">
+        <seg>&lt;br&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;br&gt;Press &lt;u&gt;{0}&lt;/u&gt; to go to &lt;b&gt;{1}&lt;/b&gt; suggestions.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130511T165237Z">
@@ -5317,6 +5325,14 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160427T152319Z" creationid="Didier" creationdate="20160427T152319Z">
         <seg>&lt;html&gt;Fichier référentiel ou&lt;br&gt;projet (omegat.project) URL :&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;html&gt;Term: &lt;b&gt;{0}&lt;/b&gt;&lt;br&gt;Glossaries:&lt;br&gt;{1}&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170620T151636Z" creationid="Didier" creationdate="20170620T151636Z">
+        <seg>&lt;html&gt;Terme : &lt;b&gt;{0}&lt;/b&gt;&lt;br&gt;Glossaires :&lt;br&gt;{1}&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -38002,6 +38018,14 @@ material under section 10.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Terminology Issues</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170620T151502Z" creationid="Didier" creationdate="20170620T151502Z">
+        <seg>Problèmes de terminologie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Terms in the current segment which &lt;a3&gt;OmegaT&lt;/a3&gt; finds in the glossary file(s) are displayed in the Glossary pane:</seg>
       </tuv>
       <tuv lang="FR" changeid="brigitte" changedate="20130712T150737Z">
@@ -48630,6 +48654,22 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>[{0}] “{1}” in source; expected one of {2} in target</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170620T151613Z" creationid="Didier" creationdate="20170620T151613Z">
+        <seg>[{0}] « {1} » en source ; une des occurrences de {2} attendue en cible</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>[{0}] “{1}” in source; expected “{2}” in target</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170620T151536Z" creationid="Didier" creationdate="20170620T151536Z">
+        <seg>[{0}] « {1} » en source ; « {2} » en cible</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>\</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T105049Z">
@@ -55642,6 +55682,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>{0}.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170620T151637Z" creationid="Didier" creationdate="20170620T151637Z">
+        <seg>{0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>{0}/{1}</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140310T125837Z" creationid="Didier" creationdate="20140310T125837Z">
@@ -55674,10 +55722,34 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>{1}: &lt;b&gt;{2}&lt;/b&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170620T151642Z" creationid="Didier" creationdate="20170620T151642Z">
+        <seg>{1} : &lt;b&gt;{2}&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>}</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T103647Z">
         <seg>}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>“{0}”</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170620T151618Z" creationid="Didier" creationdate="20170620T151618Z">
+        <seg>« {0} »</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>“{0}” ({1})</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170620T151624Z" creationid="Didier" creationdate="20170620T151624Z">
+        <seg>« {0} » ({1})</seg>
       </tuv>
     </tu>
     <tu>
