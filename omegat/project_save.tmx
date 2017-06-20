@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_1_9855:9861" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_1_9924" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10152,6 +10152,66 @@ the predecessor has it or can get it with reasonable efforts.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20150713T084258Z" creationid="Didier" creationdate="20150713T084258Z">
         <seg>Une erreur s'est produite durant l'ouverture de l'élément.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An error occurred while processing a font changed event:
+{0}</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170620T151420Z" creationid="Didier" creationdate="20170620T151420Z">
+        <seg>Une erreur s'est produite en traitant un évènement de changement de police :
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An error occurred while processing a new file event:
+{0}</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170620T151355Z" creationid="Didier" creationdate="20170620T151355Z">
+        <seg>Une erreur s'est produite en traitant un évènement de nouveau fichier :
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An error occurred while processing a project change event:
+{0}</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170620T151330Z" creationid="Didier" creationdate="20170620T151305Z">
+        <seg>Une erreur s'est produite en traitant un évènement de changement de projet :
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An error occurred while processing an application shutdown event:
+{0}</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170620T151343Z" creationid="Didier" creationdate="20170620T151343Z">
+        <seg>Une erreur s'est produite en traitant un évènement d'arrêt de l'application :
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An error occurred while processing an application startup event:
+{0}</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170620T151324Z" creationid="Didier" creationdate="20170620T151324Z">
+        <seg>Une erreur s'est produite en traitant un évènement de démarrage de l'application :
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An error occurred while processing an entry activated event:
+{0}</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170620T151409Z" creationid="Didier" creationdate="20170620T151409Z">
+        <seg>Une erreur s'est produite en traitant un évènement d'activation d'entrée :
+{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -37322,6 +37382,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>TaaS</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170620T151424Z" creationid="Didier" creationdate="20170620T151424Z">
+        <seg>TaaS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>TaaS API key not found.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140625T073852Z" creationid="Didier" creationdate="20140625T073852Z">
@@ -37922,6 +37990,14 @@ material under section 10.</seg>
       </tuv>
       <tuv lang="FR" changeid="jchelary" changedate="20130526T140009Z">
         <seg>La cessation de vos droits en application de cet article n’entraînera pas la résil- iation des licences pour les parties qui ont reçu des exemplaires ou des droits de votre part en application de cette Licence. Si vos droits ont cessé et n’ont pas été réinstaurés de façon permanente, vous n’êtes plus autorisés à recevoir de nouvelles licences pour les mêmes éléments au titre de l’article 10.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Terminology</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170620T151446Z" creationid="Didier" creationdate="20170620T151446Z">
+        <seg>Terminologie</seg>
       </tuv>
     </tu>
     <tu>
