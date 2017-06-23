@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_1_9924" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_9954:9957M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -48664,8 +48664,8 @@ de créer son dossier de configuration.</seg>
       <tuv lang="EN">
         <seg>[{0}] “{1}” in source; expected “{2}” in target</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20170620T151536Z" creationid="Didier" creationdate="20170620T151536Z">
-        <seg>[{0}] « {1} » en source ; « {2} » en cible</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20170623T132008Z" creationid="Didier" creationdate="20170620T151536Z">
+        <seg>[{0}] « {1} » en source ; « {2} » attendu en cible</seg>
       </tuv>
     </tu>
     <tu>
