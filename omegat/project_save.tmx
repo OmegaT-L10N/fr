@@ -5339,6 +5339,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;html&gt;Repository URL:&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170728T150913Z" creationid="Didier" creationdate="20170728T150913Z">
+        <seg>&lt;html&gt;URL du référentiel :&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;html&gt;Repository or Project&lt;br&gt;file (omegat.project) URL:&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20170728T132812Z" creationid="Didier" creationdate="20160427T152319Z">
@@ -27456,6 +27464,14 @@ appropriate location such as the Applications folder.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160929T151943Z" creationid="Didier" creationdate="20160929T151943Z">
         <seg>Nouvelle règle de LanguageTool</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>New Local Project Folder:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170728T151155Z" creationid="Didier" creationdate="20170728T151155Z">
+        <seg>Nouveau dossier local du projet :</seg>
       </tuv>
     </tu>
     <tu>
