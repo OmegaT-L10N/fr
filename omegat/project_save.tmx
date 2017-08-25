@@ -13280,6 +13280,14 @@ kolekti -b C:\[...]\trunk\doc_src2 publish [-j JOB] -l fr,en C:\[...]\trunk\doc_
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Committing source files</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170825T093030Z" creationid="Didier" creationdate="20170825T093030Z">
+        <seg>Envoi des fichiers source</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Common glossary problems</seg>
       </tuv>
       <tuv lang="FR" changeid="brigitte" changedate="20130712T162355Z">
@@ -17847,6 +17855,14 @@ The FSF strongly urges you not to use this translation as the official distribu-
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20151111T100103Z" creationid="Didier" creationdate="20151111T100103Z">
         <seg>Le fichier de préférences n'a pas pu être sauvegardé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to commit source file!</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170825T093019Z" creationid="Didier" creationdate="20170825T093019Z">
+        <seg>Échec d'envoi du fichier source !</seg>
       </tuv>
     </tu>
     <tu>
@@ -36426,6 +36442,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130415T174608Z">
         <seg>Les masques de nom de fichier source utilisent des caractères génériques similaires à ceux utilisés dans&lt;e2&gt;Rechercher...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source files committed</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170825T093036Z" creationid="Didier" creationdate="20170825T093036Z">
+        <seg>Fichiers sources envoyés</seg>
       </tuv>
     </tu>
     <tu>
