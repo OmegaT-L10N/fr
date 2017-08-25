@@ -13264,6 +13264,14 @@ kolekti -b C:\[...]\trunk\doc_src2 publish [-j JOB] -l fr,en C:\[...]\trunk\doc_
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Commit Source Files</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170825T092959Z" creationid="Didier" creationdate="20170825T092959Z">
+        <seg>Envoyer les fichiers source</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Commit not possible because somebody else changed remote translation.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20120420T210632Z">
