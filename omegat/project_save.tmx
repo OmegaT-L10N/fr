@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10029:10032" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_2_10076" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5383,6 +5383,14 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20151117T153122Z" creationid="Didier" creationdate="20151117T153122Z">
         <seg>&lt;html&gt;{0}&lt;br&gt;&amp;nbsp;&amp;nbsp;Utilisateur : {1}&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;http://fsf.org/&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170825T091638Z" creationid="Didier" creationdate="20170825T091638Z">
+        <seg>[correspondance]http://projectlocker.com/</seg>
       </tuv>
     </tu>
     <tu>
