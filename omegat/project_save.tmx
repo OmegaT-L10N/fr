@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_2_10076" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_2_10076:10077" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -38668,6 +38668,15 @@ Public License instead of this License. But first, please read
       </tuv>
       <tuv lang="FR" changeid="jchelary" changedate="20130526T141938Z">
         <seg>La GNU General Public License ne permet pas d’incorporer votre programme dans des programmes propriétaires. Si votre programme est une bibliothèque de fonctions, vous pouvez considérer qu’il est plus utile d’autoriser un lien entre des applications propriétaires et la bibliothèque. Si c’est ce que vous voulez faire, utilisez la GNU Lesser General Public License à la place de cette Licence. Mais d’abord, veuillez lire &lt;http://www.gnu.org/philosophy/why-not-lgpl.html&gt; ou la traduction &lt;http://www.gnu.org/licenses/why-not-lgpl.fr.html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The GNU General Public License is a free, copyleft license for
+software and other kinds of works.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170828T133910Z" creationid="Didier" creationdate="20170828T133910Z">
+        <seg>[correspondance]La GNU General Public License est une licence libre et copyleft destinée aux logiciels et autre type de créations.</seg>
       </tuv>
     </tu>
     <tu>
