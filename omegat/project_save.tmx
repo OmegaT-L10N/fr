@@ -43098,6 +43098,14 @@ file type is associated with Java on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Thus, PDF files are handled as plain text files, and output files are plain text files.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="mdesfray" changedate="20170901T150239Z" creationid="mdesfray" creationdate="20170901T150239Z">
+        <seg>Les fichiers PDF sont donc traités comme des fichiers de texte brut et les fichier de sortie sont aussi au format texte brut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Thus, for example, rules for Canadian French (FR-CA) should be higher than rules for French (FR.*), and higher than Default (.*) ones.</seg>
       </tuv>
       <tuv lang="FR">
