@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_2_Unversioned directory" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3274,7 +3274,6 @@ Valider les balises.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>/// Installation of Kolekti ///</seg>
       </tuv>
@@ -3283,7 +3282,6 @@ Valider les balises.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>/// Installation of the environment ///</seg>
       </tuv>
@@ -3292,7 +3290,6 @@ Valider les balises.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>/// Publication of the UserGuide (from the command line) ///</seg>
       </tuv>
@@ -7999,6 +7996,14 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130416T162739Z">
         <seg>&lt;p0&gt;Fichiers cible&lt;/p0&gt; &lt;s1&gt;Autres formats de fichier&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Target files&lt;/p0&gt; &lt;s1&gt;PDF text files&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="mdesfray" changedate="20170901T145027Z" creationid="mdesfray" creationdate="20170901T145027Z">
+        <seg>&lt;p0&gt;Fichiers cible&lt;/p0&gt; &lt;s1&gt;Fichiers texte PDF&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15191,7 +15196,6 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>Didier Briel</seg>
       </tuv>
@@ -20260,7 +20264,6 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>How to install Kolekti</seg>
       </tuv>
@@ -45240,7 +45243,6 @@ on line {1}, column {2}.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>Usage of the command line is:</seg>
       </tuv>
@@ -47161,7 +47163,6 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>With:</seg>
       </tuv>
