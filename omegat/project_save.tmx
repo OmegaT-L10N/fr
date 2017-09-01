@@ -7744,6 +7744,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Source files&lt;/p0&gt; &lt;s1&gt;PDF files&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="mdesfray" changedate="20170901T145055Z" creationid="mdesfray" creationdate="20170901T145055Z">
+        <seg>&lt;p0&gt;Fichiers source&lt;/p0&gt; &lt;s1&gt;Fichiers PDF&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Source files&lt;/p0&gt; &lt;s1&gt;PO as bilingual files&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130416T142804Z">
@@ -30539,6 +30547,22 @@ of promoting the sharing and reuse of software generally.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>PDF files</seg>
+      </tuv>
+      <tuv lang="FR" changeid="mdesfray" changedate="20170901T145105Z" creationid="mdesfray" creationdate="20170901T145105Z">
+        <seg>Fichiers PDF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>PDF files are a special case.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="mdesfray" changedate="20170901T145122Z" creationid="mdesfray" creationdate="20170901T145122Z">
+        <seg>Les fichiers PDF sont un cas particulier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>PDFBox (Apache License 2.0)</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160427T150656Z" creationid="Didier" creationdate="20160427T150656Z">
@@ -42011,6 +42035,14 @@ distribute copies of the software, or if you modify it.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130424T081834Z">
         <seg>Ils ont des noms modifiés de manière pertinente afin que leurs contenus restent identifiables lorsqu'ils sont utilisés ailleurs, par exemple dans le sous-dossier &lt;f1&gt;tm&lt;/f1&gt; d'un autre projet (voir ci-dessous).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They contain text formatting information, but such information cannot be reused by &lt;a0&gt;OmegaT&lt;/a0&gt; in order to create target files.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="mdesfray" changedate="20170901T145652Z" creationid="mdesfray" creationdate="20170901T145652Z">
+        <seg>Ils contiennent des informations de mise en forme du texte inutilisables pour créer les fichiers cible.</seg>
       </tuv>
     </tu>
     <tu>
