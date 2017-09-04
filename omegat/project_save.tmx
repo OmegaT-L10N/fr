@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_2_10082" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -42041,8 +42041,8 @@ distribute copies of the software, or if you modify it.</seg>
       <tuv lang="EN">
         <seg>They contain text formatting information, but such information cannot be reused by &lt;a0&gt;OmegaT&lt;/a0&gt; in order to create target files.</seg>
       </tuv>
-      <tuv lang="FR" changeid="mdesfray" changedate="20170901T145652Z" creationid="mdesfray" creationdate="20170901T145652Z">
-        <seg>Ils contiennent des informations de mise en forme du texte inutilisables pour créer les fichiers cible.</seg>
+      <tuv lang="FR" changeid="mdesfray" changedate="20170904T102233Z" creationid="mdesfray" creationdate="20170901T145652Z">
+        <seg>Ils contiennent des informations de mise en forme du texte qu'&lt;a0&gt;OmegaT&lt;/a0&gt; ne peut pas réutiliser pour créer les fichiers cible.</seg>
       </tuv>
     </tu>
     <tu>
