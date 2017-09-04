@@ -4728,6 +4728,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Note:&lt;/e0&gt; the above information applies only to PDF files with a text layer.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="mdesfray" changedate="20170904T105142Z" creationid="mdesfray" creationdate="20170904T105142Z">
+        <seg>&lt;e0&gt;Note :&lt;/e0&gt; la méthode ci-dessus convient uniquement aux fichiers PDF qui contiennent une couche de texte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;OmegaT &lt;/e0&gt; is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (if you prefer) any later version.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130527T130539Z">
@@ -21815,6 +21823,14 @@ free software which everyone can redistribute and change under these terms.</seg
       </tuv>
       <tuv lang="FR" changeid="brigitte" changedate="20130715T191759Z">
         <seg>Si l'option TransTips est activée (&lt;g0&gt;Options → TransTips&lt;/g0&gt;), un clic droit sur le mot souligné dans le segment source permet d'ouvrir un menu contextuel qui suggère les traductions proposées par votre glossaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you have a PDF file made of scanned pages (sometimes such files are referred to as ‘dead’ PDFs), you need to use an OCR (optical character recognition) program to recognize the text and convert it to a format that can be handled by OmegaT.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="mdesfray" changedate="20170904T111303Z" creationid="mdesfray" creationdate="20170904T111303Z">
+        <seg>Si votre fichier PDF se compose de pages numérisées, vous devrez utilisez un programe de reconnaissance optique de caractères (ROC ou, en anglais, OCR) pour reconnaître et convertir le texte dans un format pris en charge par OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
