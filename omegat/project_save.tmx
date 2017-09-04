@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_2_10082" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -21829,8 +21829,8 @@ free software which everyone can redistribute and change under these terms.</seg
       <tuv lang="EN">
         <seg>If you have a PDF file made of scanned pages (sometimes such files are referred to as ‘dead’ PDFs), you need to use an OCR (optical character recognition) program to recognize the text and convert it to a format that can be handled by OmegaT.</seg>
       </tuv>
-      <tuv lang="FR" changeid="mdesfray" changedate="20170904T111303Z" creationid="mdesfray" creationdate="20170904T111303Z">
-        <seg>Si votre fichier PDF se compose de pages numérisées, vous devrez utilisez un programe de reconnaissance optique de caractères (ROC ou, en anglais, OCR) pour reconnaître et convertir le texte dans un format pris en charge par OmegaT.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20170904T131952Z" creationid="mdesfray" creationdate="20170904T111303Z">
+        <seg>Si votre fichier PDF se compose de pages numérisées, vous devrez utiliser un programme de reconnaissance optique de caractères (ROC ou, en anglais, OCR) pour reconnaître et convertir le texte dans un format pris en charge par OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45430,8 +45430,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>Use &lt;a0&gt;OmegaT’s&lt;/a0&gt; default filter (PDF input), translate, create a target file (it will be a plain text file), add relevant formatting and items manually.</seg>
       </tuv>
-      <tuv lang="FR" changeid="mdesfray" changedate="20170904T111912Z" creationid="mdesfray" creationdate="20170904T103732Z">
-        <seg>Utilisez le filtre par défaut d'&lt;a0&gt;OmegaT&lt;/a0&gt; (Entrée PDF), traduisez, créez le fichier cible (qui sera au format de fichier brut), puis ajoutez manuellement la mise en forme et les éléments.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20170904T131703Z" creationid="mdesfray" creationdate="20170904T103732Z">
+        <seg>Utilisez le filtre par défaut d'&lt;a0&gt;OmegaT&lt;/a0&gt; (Entrée PDF), traduisez, créez le fichier cible (qui sera au format de fichier texte brut), puis ajoutez manuellement la mise en forme et les éléments.</seg>
       </tuv>
     </tu>
     <tu>
