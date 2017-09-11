@@ -24,7 +24,7 @@
         <remove_tags>false</remove_tags>
         <external_command></external_command>
         <repositories>
-            <repository type="svn" url="https://omegat.plugnsecure.fr/omegat-fr">
+            <repository type="git" url="https://github.com/OmegaT-L10N/fr.git">
                 <mapping local="" repository=""/>
             </repository>
             <repository type="svn" url="https://svn.code.sf.net/p/omegat/svn/trunk/doc_src/en">
@@ -45,6 +45,9 @@
             </repository>
             <repository type="http" url="https://svn.code.sf.net/p/omegat/svn/trunk/release/mac-specific/OmegaT.app/Contents/Resources/en.lproj/">
                 <mapping local="source/release/mac-specific/Localizable.strings" repository="Localizable.strings"/>
+            </repository>
+            <repository type="svn" url="https://github.com/omegat-org/omegat-website.git/trunk/_i18n/en/">
+                <mapping local="source/website/" repository="/"/>
             </repository>
         </repositories>
     </project>
