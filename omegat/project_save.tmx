@@ -246,6 +246,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>$ &lt;s0&gt;java -version&lt;/s0&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20170911T161301Z" creationid="briac" creationdate="20170911T161301Z">
+        <seg>$ &lt;s0&gt;java -version&lt;/s0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>$ ant jar release</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T104548Z">
@@ -8492,6 +8500,38 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
       <tuv lang="FR" changeid="brigitte" changedate="20130626T075049Z">
         <seg>&lt;r0&gt;Remarque :&lt;/r0&gt; Sur un Mac, utilisez la touche &lt;k1&gt;Commande&lt;/k1&gt; (logo &lt;k2&gt;Apple&lt;/k2&gt; sur certains claviers) à la place de la touche &lt;k3&gt;Contrôle&lt;/k3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;Linux users&lt;/s0&gt;: most Linux distributions are supplied with a Java Runtime Environment, but some open-source implementations do not work properly with OmegaT (although this may not be immediately apparent).</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20170911T161451Z" creationid="briac" creationdate="20170911T161451Z">
+        <seg>&lt;s0&gt;Note à l'attention des utilisateurs de Linux&lt;/s0&gt; : la plupart des distributions Linux sont fournies avec un environnement d'exécution Java, cependant certaines implémentations Open Source ne fonctionnent pas toujours correctement avec OmegaT (incompatibilité qui ne s'avère éventuellement pas immédiatement).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;Mac OS X users&lt;/s0&gt;: the JRE is installed on Mac OS X by default; there is therefore no version for Mac OS X with the JRE.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20170911T161438Z" creationid="briac" creationdate="20170911T161438Z">
+        <seg>&lt;s0&gt;Note à l'attention des utilisateurs de Mac OS X&lt;/s0&gt; : le JRE étant installé par défaut sur Mac OS X, la version correspondante d'OmegaT ne comporte pas de JRE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;The benefit&lt;/s0&gt;: once launched, future updates of the Web Start version will be installed automatically on your computer.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20170911T161650Z" creationid="briac" creationdate="20170911T161650Z">
+        <seg>&lt;s0&gt;Avantage&lt;/s0&gt; : installation automatique des mises à jours sur l'ordinateur après le lancement de l'application.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;The drawback&lt;/s0&gt;: at present, this version cannot be used in conjunction with plug-ins, so not all functions are available.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20170911T161705Z" creationid="briac" creationdate="20170911T161705Z">
+        <seg>&lt;s0&gt;Inconvénient&lt;/s0&gt; : version incompatible avec les modules d'extension rendant certaines fonctions indisponibles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17051,6 +17091,14 @@ project_save.tmx n'a pas réellement été envoyé sur le serveur et l'état de 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>During installation, depending on your operating system, you may receive several security warnings.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20170911T161512Z" creationid="briac" creationdate="20170911T161512Z">
+        <seg>Durant l'installation, en fonction de votre système d'exploitation, vous recevrez peut-être plusieurs avertissements de sécurité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>During remote updates or other automatic processing, data (previously known as "{0}") was changed to "{1}".</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160115T140858Z" creationid="Didier" creationdate="20160115T140858Z">
@@ -19787,6 +19835,14 @@ know their rights.</seg>
       </tuv>
       <tuv lang="FR" changeid="briac" changedate="20170329T130543Z" creationid="briac" creationdate="20170329T130543Z">
         <seg>Installation sur Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For installation on other operating systems (such as FreeBSD and Solaris).</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20170911T161713Z" creationid="briac" creationdate="20170911T161713Z">
+        <seg>Installation sur divers autres systèmes d'exploitation (notamment FreeBSD et Solaris)</seg>
       </tuv>
     </tu>
     <tu>
@@ -22703,6 +22759,14 @@ Public License instead of this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If this version is not available, you can try to &lt;a0&gt;download the unsigned version&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20170911T161344Z" creationid="briac" creationdate="20170911T161325Z">
+        <seg>Si cette version n'est pas disponible, vous pouvez essayer de &lt;a0&gt;téléchargez la version non signée&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If used, neither the user's decision to accept the translation nor the final translation are made available to Google.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130503T123734Z">
@@ -24976,6 +25040,14 @@ exécutez simplement le programme d'installation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Installation Type</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20170911T161132Z" creationid="briac" creationdate="20170911T161132Z">
+        <seg>Type d'installation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Installation and Use</seg>
       </tuv>
       <tuv lang="FR" changeid="laurieetclémentine" changedate="20130411T090633Z">
@@ -26018,6 +26090,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20120508T174025Z">
         <seg>JNA par Todd Fast, Timothy Wall et d'autres personnes (licence LGPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>JRE</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20170911T161138Z" creationid="briac" creationdate="20170911T161138Z">
+        <seg>JRE</seg>
       </tuv>
     </tu>
     <tu>
@@ -30917,6 +30997,14 @@ mouse-clicks or menu items--whatever suits your program.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT can be installed on any operating system capable of running version 1.6 of the Java runtime environment.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20170911T161743Z" creationid="briac" creationdate="20170911T161743Z">
+        <seg>OmegaT peut être installé sur tout système d'exploitation intégrant la version 1.6 de l'environnement d'exécution Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT can check that programming variables (like %s for instance) in the source exist in the translation.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130527T142213Z">
@@ -32416,6 +32504,14 @@ happen should you file a bug report.</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130421T233601Z">
         <seg>Ouvre la fenêtre de validation des balises.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Operating System</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20170911T161136Z" creationid="briac" creationdate="20170911T161136Z">
+        <seg>Système d'exploitation</seg>
       </tuv>
     </tu>
     <tu>
@@ -41926,6 +42022,14 @@ Essayer de corriger l'erreur et rechargez le projet.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Web Start version is the "install and forget" version.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20170911T161605Z" creationid="briac" creationdate="20170911T161605Z">
+        <seg>La version Web Start est la version "installer et oublier".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Web Start version offers an alternative means of installing OmegaT on your computer.</seg>
       </tuv>
       <tuv lang="FR" changeid="briglegrand" changedate="20110130T111241Z">
@@ -42127,6 +42231,14 @@ shown below.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Le certificat est auto-signé par « Didier Briel ».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The certificate is signed by &lt;a0&gt;PnS Concept Sarl&lt;/a0&gt;, a French registered company.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20170911T161526Z" creationid="briac" creationdate="20170911T161526Z">
+        <seg>Le certificat est signé par &lt;a0&gt;Concept PnS Sarl&lt;/a0&gt;, une société française.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49575,6 +49687,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Users in a hurry can use the unsigned version instead; if you have difficulty launching the app, see &lt;a0&gt;how to open an app from an unidentified developer&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20170911T161506Z" creationid="briac" creationdate="20170911T161506Z">
+        <seg>Les utilisateurs pressés peuvent utiliser la version non signée ; si vous rencontrez des difficultés à lancer l'application, consultez l'article &lt;a0&gt;Comment ouvrir une application d'un développeur non identifié&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Users of old computers who feel window resizing is very slow can try changing the font.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130503T112124Z">
@@ -49909,6 +50029,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T103601Z">
         <seg>Venda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Version</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20170911T161133Z" creationid="briac" creationdate="20170911T161133Z">
+        <seg>Version</seg>
       </tuv>
     </tu>
     <tu>
@@ -51032,6 +51160,14 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160119T092847Z" creationid="Didier" creationdate="20160119T092847Z">
         <seg>Windows :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With 64-bit JRE</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20170911T161308Z" creationid="briac" creationdate="20170911T161308Z">
+        <seg>Avec JRE 64-bit</seg>
       </tuv>
     </tu>
     <tu>
@@ -52184,6 +52320,14 @@ the installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130527T130810Z">
         <seg>Vous pouvez lancer les macros sélectionnées soit à partir du menu principal, soit en passant par leurs entrées dans le menu &lt;g0&gt;Outils &lt;/g0&gt;, soit en appuyant sur &lt;k1&gt; Ctrl+Alt+F#&lt;/k1&gt; (# de 1 à 5).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can still find &lt;a0&gt;older, superseded versions&lt;/a0&gt; of OmegaT.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20170911T161417Z" creationid="briac" creationdate="20170911T161417Z">
+        <seg>Vous pouvez télécharger &lt;a0&gt;d'anciennes versions obsolètes&lt;/a0&gt; ​​d'OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58662,6 +58806,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>some version</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20170911T161324Z" creationid="briac" creationdate="20170911T161324Z">
+        <seg>une certaine version</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>sot</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T100223Z">
@@ -58818,6 +58970,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T100230Z">
         <seg>sv</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>svn checkout svn://svn.code.sf.net/p/omegat/svn/trunk omegat-svn</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20170911T161540Z" creationid="briac" creationdate="20170911T161540Z">
+        <seg>svn validation svn://svn.code.sf.net/p/omegat/svn/trunk omegat-svn</seg>
       </tuv>
     </tu>
     <tu>
@@ -59950,6 +60110,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>{% else %} &lt;a0&gt;Download&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20170911T161403Z" creationid="briac" creationdate="20170911T161403Z">
+        <seg>{% else %} &lt;a0&gt;Télécharger&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>{% endfor %}</seg>
       </tuv>
       <tuv lang="FR" changeid="briac" changedate="20170331T122903Z" creationid="briac" creationdate="20170331T122903Z">
@@ -59974,10 +60142,42 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>{% for platform in site.data.downloads.latest.platforms %}</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20170911T161408Z" creationid="briac" creationdate="20170911T161408Z">
+        <seg>{% for plateforme in site.data.downloads.latest.platforms %}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{% for platform in site.data.downloads.standard.platforms %}</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20170911T161353Z" creationid="briac" creationdate="20170911T161353Z">
+        <seg>{% for plateforme in site.data.downloads.standard.platforms %}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>{% for translator in site.data.credits.translators[site.lang] %}</seg>
       </tuv>
       <tuv lang="FR" changeid="briac" changedate="20170406T103003Z" creationid="briac" creationdate="20170406T103003Z">
         <seg>{% for translator in site.data.credits.translators[site.lang] %}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{% if platform.link != null %} &lt;a0&gt;Download&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20170911T161356Z" creationid="briac" creationdate="20170911T161356Z">
+        <seg>{% if platform.link != null %} &lt;a0&gt;Télécharger&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{% if platform.noInfo != true %}</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20170911T161354Z" creationid="briac" creationdate="20170911T161354Z">
+        <seg>{% if platform.noInfo != true %}</seg>
       </tuv>
     </tu>
     <tu>
