@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_2_10092M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_2_10093M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12227,6 +12227,14 @@ entire whole, and thus to each and every part regardless of who wrote it.</seg>
       </tuv>
       <tuv lang="FR" changeid="briac" changedate="20170403T102713Z" creationid="OmegaT Aligner" creationdate="20170403T101829Z">
         <seg>par Marco Cevoli et Sergio Alasia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By Sheila Gomes (in Brasilian Portuguese).</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20170920T163358Z" creationid="briac" creationdate="20170920T163358Z">
+        <seg>"Resources OmegaT, premiers pas" par Sheila Gomes (en portugais brésilien).</seg>
       </tuv>
     </tu>
     <tu>
