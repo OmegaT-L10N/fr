@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_2_10093M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_2_10090" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -27727,6 +27727,14 @@ automatically download and install it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Local working copies cleaned up: {0}</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170921T082245Z" creationid="Didier" creationdate="20170921T082245Z">
+        <seg>Copies de travail locales nettoyées : {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Localization</seg>
       </tuv>
       <tuv lang="FR">
@@ -36795,6 +36803,14 @@ REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SVN - Cleanup (recursive)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170921T082115Z" creationid="Didier" creationdate="20170921T082115Z">
+        <seg>SVN - Nettoyage (récursif)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SVN - Clear authentication data</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20151117T152913Z" creationid="Didier" creationdate="20151117T152913Z">
@@ -44434,6 +44450,14 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The script will quit now.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170921T082233Z" creationid="Didier" creationdate="20170921T082233Z">
+        <seg>Le script va maintenant se terminer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The search string - [a-zA-Z]+[öäüqwß] - in the example above for instance looks for words in the target segment, containing questionable characters from German keyboard.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130506T084317Z">
@@ -45371,6 +45395,14 @@ the [Help] menu after starting OmegaT.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20161227T171718Z" creationid="Didier" creationdate="20161227T171718Z">
         <seg>Beaucoup de modules d'extension pour OmegaT sont disponibles en ligne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There are no local working copies in {0}.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170921T082221Z" creationid="Didier" creationdate="20170921T082221Z">
+        <seg>{0} ne comporte pas de copies de travail locales.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60646,6 +60678,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>{0} is not a local working copy, skipping.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170921T082206Z" creationid="Didier" creationdate="20170921T082206Z">
+        <seg>{0} n'est pas une copie de travail, ignoré.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>{0} loaded.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20110717T180048Z">
@@ -60714,6 +60754,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140310T125837Z" creationid="Didier" creationdate="20140310T125837Z">
         <seg>{0}/{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0}:	cleanup done!!</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20170921T082145Z" creationid="Didier" creationdate="20170921T082145Z">
+        <seg>{0} :	nettoyage effectué !!</seg>
       </tuv>
     </tu>
     <tu>
