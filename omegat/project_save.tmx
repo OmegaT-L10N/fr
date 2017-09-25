@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_2_10090" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_2_10098M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9308,6 +9308,14 @@ or that patent license was granted, prior to 28 March 2007.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>About</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20170327T132539Z" creationid="briac" creationdate="20170327T132539Z">
+        <seg>À propos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>About &lt;a0&gt;OmegaT&lt;/a0&gt; - introduction</seg>
       </tuv>
       <tuv lang="FR" changeid="brigitte" changedate="20130712T163916Z">
@@ -13997,6 +14005,14 @@ kolekti -b C:\[...]\trunk\doc_src2 publish [-j JOB] -l fr,en C:\[...]\trunk\doc_
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Compatibility</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20170331T121733Z" creationid="briac" creationdate="20170331T121733Z">
+        <seg>Compatibilité</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Compatibility HowTos</seg>
       </tuv>
       <tuv lang="FR">
@@ -14133,6 +14149,14 @@ kolekti -b C:\[...]\trunk\doc_src2 publish [-j JOB] -l fr,en C:\[...]\trunk\doc_
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Connect</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20170327T132556Z" creationid="briac" creationdate="20170327T132556Z">
+        <seg>Réseaux sociaux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Connection available, the project is in team project mode.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20121113T090159Z">
@@ -14233,6 +14257,22 @@ A regex whitelist of source files to process.</seg>
         <seg>Mode console-translate :
 --source-pattern=&lt;modèle&gt;
 Une liste blanche en expression régulière des fichiers source à traiter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Contact</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20170327T132540Z" creationid="briac" creationdate="20170327T132540Z">
+        <seg>Contact</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Contact and Support</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20170331T121708Z" creationid="briac" creationdate="20170331T121708Z">
+        <seg>Contact et assistance</seg>
       </tuv>
     </tu>
     <tu>
@@ -15049,6 +15089,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
       <tuv lang="FR" changeid="etudiant_local" changedate="20130410T125107Z">
         <seg>Croate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cross-platform without JRE</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20170329T075723Z" creationid="briac" creationdate="20170329T075723Z">
+        <seg>Cross-platform sans JRE</seg>
       </tuv>
     </tu>
     <tu>
@@ -16729,6 +16777,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
       <tuv lang="FR">
         <seg>Ancrer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Documentation</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Documentation</seg>
       </tuv>
     </tu>
     <tu>
@@ -21625,6 +21681,14 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>How-To</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20170331T121721Z" creationid="briac" creationdate="20170331T121721Z">
+        <seg>Guides pratiques</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, OmegaT does not fully support imported level 2 tmx files (these store not only the translation, but also the formatting).</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130507T083105Z">
@@ -21725,6 +21789,118 @@ parties remain in full compliance.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130506T073636Z">
         <seg>Cependant, lorsque vous utilisez &lt;a1&gt;OmegaT&lt;/a1&gt;, soyez prudents en ce qui concerne les pertes de données (tout comme vous le seriez avec d'autres applications).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Howto - Adding a preview function to OmegaT</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20170331T122059Z" creationid="briac" creationdate="20170331T122059Z">
+        <seg>Guide - Ajout d'une fonction de prévisualisation à OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Howto - Compiling OmegaT from the source code</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20170331T121952Z" creationid="briac" creationdate="20170331T121952Z">
+        <seg>Guide - Compilation d'OmegaT à partir du code source</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Howto - Creating a new file filter</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20170331T122053Z" creationid="briac" creationdate="20170331T122053Z">
+        <seg>Guide - Création d'un nouveau filtre de fichiers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Howto - Exporting from OmegaT to 'Trados uncleaned RTF' format</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20170331T122015Z" creationid="briac" creationdate="20170331T122015Z">
+        <seg>Guide - Exportation vers le format "Trados non nettoyé RTF"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Howto - OmegaT compatibility with Déjà Vu</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20170331T121944Z" creationid="briac" creationdate="20170331T121944Z">
+        <seg>Guide - Compatibilité OmegaT avec Déjà Vu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Howto - Spellchecking</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20170331T122131Z" creationid="briac" creationdate="20170331T122131Z">
+        <seg>Guide - Correcteur orthographique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Howto - The "Priorview" preview utility</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20170331T122104Z" creationid="briac" creationdate="20170331T122104Z">
+        <seg>Guide - L'utilitaire de prévisualisation "Priorview"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Howto - Translating OmegaT into your language</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20170331T122042Z" creationid="briac" creationdate="20170331T122042Z">
+        <seg>Guide - Traduire OmegaT dans votre langue</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Howto - Translating PDF files with Iceni Infix and OmegaT</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20170331T122031Z" creationid="briac" creationdate="20170331T122031Z">
+        <seg>Guide - Traduction de fichiers PDF avec Iceni Infix et OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Howto - Translating Word 2007 files in OmegaT</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20170331T122001Z" creationid="briac" creationdate="20170331T122001Z">
+        <seg>Guide - Traduire des fichiers Word 2007 avec OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Howto - Using Google Translate in OmegaT</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20170331T122022Z" creationid="briac" creationdate="20170331T122022Z">
+        <seg>Guide - Utilisation de Google Translate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Howto - Using Microsoft Translator in OmegaT</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20170331T122049Z" creationid="briac" creationdate="20170331T122049Z">
+        <seg>Guide - Utilisation de Microsoft Translator avec OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Howto - Using the OmegaT text export function (scripting interface)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20170331T122139Z" creationid="briac" creationdate="20170331T122139Z">
+        <seg>Guide - Utilisation de la fonction d'exportation de texte OmegaT (interface de script)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Howto - Using the OmegaT tokenizer</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20170331T122144Z" creationid="briac" creationdate="20170331T122144Z">
+        <seg>Howto - Utilisation du tokenizer OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -27565,6 +27741,22 @@ incluses dans de nombreuses distributions Linux (par exemple Ubuntu), mais il es
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Linux with 64-bit JRE</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20170329T075720Z" creationid="briac" creationdate="20170329T075720Z">
+        <seg>Linux avec JRE 64 bits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Linux with JRE</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20170331T121740Z" creationid="briac" creationdate="20170331T121740Z">
+        <seg>Linux avec JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Linux/Solaris/FreeBSD</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T104404Z">
@@ -28285,6 +28477,14 @@ La version Mac intègre un JRE.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140617T181439Z" creationid="Didier" creationdate="20140617T181439Z">
         <seg>Manfred Martin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Manual</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20170331T121713Z" creationid="briac" creationdate="20170331T121713Z">
+        <seg>Manuel</seg>
       </tuv>
     </tu>
     <tu>
@@ -30891,6 +31091,22 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OS X Signed</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20170329T075715Z" creationid="briac" creationdate="20170329T075715Z">
+        <seg>OS X Signé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OS X Unsigned</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20170329T075717Z" creationid="briac" creationdate="20170329T075717Z">
+        <seg>OS X Non signé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Occitan</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T100128Z">
@@ -31001,6 +31217,14 @@ mouse-clicks or menu items--whatever suits your program.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT - The Free Translation Memory Tool</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20170925T200301Z" creationid="briac" creationdate="20170925T200301Z">
+        <seg>OmegaT - The Outil libre de mémoire de traduction</seg>
       </tuv>
     </tu>
     <tu>
@@ -31455,6 +31679,14 @@ translation leveraging into updated projects.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is a free open-source translation memory application for professional translators written in Java.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20170406T080727Z" creationid="briac" creationdate="20170406T080727Z">
+        <seg>OmegaT est un logiciel libre de TAO écrit en Java conçu et pour des traducteurs professionnels.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT is a free, open-source translation memory program.</seg>
       </tuv>
       <tuv lang="FR" changeid="briglegrand" changedate="20110113T143845Z">
@@ -31634,6 +31866,14 @@ to be launched.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130507T115921Z">
         <seg>Correspondance OmegaT, incluant les caractères numériques et les balises</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT on Linux HowTo</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20170331T122035Z" creationid="briac" creationdate="20170331T122035Z">
+        <seg>OmegaT sur Linux</seg>
       </tuv>
     </tu>
     <tu>
@@ -33227,6 +33467,14 @@ of promoting the sharing and reuse of software generally.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Page Not Found</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20170615T123805Z" creationid="briac" creationdate="20170615T123805Z">
+        <seg>Aucun résultat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Page slips through fingers&lt;p&gt;Pulse pounding hard and frantic&lt;p&gt;Vanishing like mist.</seg>
       </tuv>
       <tuv lang="FR">
@@ -33511,6 +33759,14 @@ of promoting the sharing and reuse of software generally.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20121004T152549Z">
         <seg>Phillip Hall</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Philosophy</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Philosophie</seg>
       </tuv>
     </tu>
     <tu>
@@ -34834,6 +35090,14 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
         <seg>Propagation and one-to-many matching</seg>
       </tuv>
       <tuv lang="FR" changeid="briglegrand" changedate="20120621T191629Z">
+        <seg>Propagation et traductions multiples</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Propagation and one-to-many matching HowTo</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20170331T131709Z" creationid="briac" creationdate="20170331T131709Z">
         <seg>Propagation et traductions multiples</seg>
       </tuv>
     </tu>
@@ -36289,6 +36553,14 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Resources</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20170327T132546Z" creationid="briac" creationdate="20170327T132546Z">
+        <seg>Ressources</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Restore</seg>
       </tuv>
       <tuv lang="FR">
@@ -36421,6 +36693,14 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
       </tuv>
       <tuv lang="FR" changeid="briac" changedate="20170918T110604Z" creationid="briac" creationdate="20170918T110604Z">
         <seg>Article sur OmegaT, 2010.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reviews</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Point sur OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -39569,6 +39849,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source code</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briglegrand" changedate="20110129T104207Z">
+        <seg>Code source</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source code packages are not required by users and are intended for developers only.</seg>
       </tuv>
       <tuv lang="FR" changeid="briac" changedate="20170403T131336Z" creationid="briac" creationdate="20170403T131336Z">
@@ -42152,6 +42440,14 @@ software and other kinds of works.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140222T151404Z" creationid="Didier" creationdate="20140222T151404Z">
         <seg>Le filtre Mozilla DTD a généré une exception :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The OmegaT Project</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20170329T075707Z" creationid="briac" creationdate="20170329T075707Z">
+        <seg>Le projet OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -51552,6 +51848,30 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130415T163545Z">
         <seg>Autre Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Windows with 64-bit JRE</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20170331T121738Z" creationid="briac" creationdate="20170331T121738Z">
+        <seg>Windows avec JRE 64 bits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Windows with JRE</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20170329T075709Z" creationid="briac" creationdate="20170329T075709Z">
+        <seg>Windows avec JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Windows without JRE</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20170329T075710Z" creationid="briac" creationdate="20170329T075710Z">
+        <seg>Windows sans JRE</seg>
       </tuv>
     </tu>
     <tu>
