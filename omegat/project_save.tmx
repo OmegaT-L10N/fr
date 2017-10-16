@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_2_10090" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_3_10115:10116" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13965,6 +13965,14 @@ kolekti -b C:\[...]\trunk\doc_src2 publish [-j JOB] -l fr,en C:\[...]\trunk\doc_
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Commit Target Files</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20171016T153818Z" creationid="Didier" creationdate="20171016T153818Z">
+        <seg>Envoyer les fichiers cible</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Commit not possible because somebody else changed remote translation.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20120420T210632Z">
@@ -13977,6 +13985,14 @@ kolekti -b C:\[...]\trunk\doc_src2 publish [-j JOB] -l fr,en C:\[...]\trunk\doc_
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20170825T093030Z" creationid="Didier" creationdate="20170825T093030Z">
         <seg>Envoi des fichiers source</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Committing target files</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20171016T153848Z" creationid="Didier" creationdate="20171016T153848Z">
+        <seg>Envoi des fichiers cible</seg>
       </tuv>
     </tu>
     <tu>
@@ -19019,6 +19035,22 @@ The FSF strongly urges you not to use this translation as the official distribu-
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20170825T093019Z" creationid="Didier" creationdate="20170825T093019Z">
         <seg>Échec d'envoi du fichier source !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to commit source files!</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20171016T153828Z" creationid="Didier" creationdate="20171016T153828Z">
+        <seg>Échec d'envoi des fichiers source !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to commit target files!</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20171016T153835Z" creationid="Didier" creationdate="20171016T153835Z">
+        <seg>Échec d'envoi des fichiers cible !</seg>
       </tuv>
     </tu>
     <tu>
@@ -41479,6 +41511,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130415T183543Z">
         <seg>Nom de fichier source</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Target files committed</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20171016T153854Z" creationid="Didier" creationdate="20171016T153854Z">
+        <seg>Fichiers cibles envoyés</seg>
       </tuv>
     </tu>
     <tu>
