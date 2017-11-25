@@ -184,6 +184,28 @@ License. Each licensee is addressed as "you". "Licensees" and
       <tuv lang="EN">
         <seg># OmegaT.exe runtime configuration
 # To use a parameter, remove the '#' before the '-'
+# Memory
+-Xmx1024M
+# Language
+-Duser.language=FR
+# Country
+-Duser.country=CA</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20171125T165411Z" creationid="Didier" creationdate="20171125T165411Z">
+        <seg># OmegaT.exe runtime configuration
+# To use a parameter, remove the '#' before the '-'
+# Memory
+-Xmx1024M
+# Language
+-Duser.language=FR
+# Country
+-Duser.country=CA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg># OmegaT.exe runtime configuration
+# To use a parameter, remove the '#' before the '-'
 # Memory 
 -Xmx1024M 
 # Language 
@@ -56638,6 +56660,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="mdesfray" changedate="20170904T103822Z" creationid="mdesfray" creationdate="20170904T103822Z">
         <seg>https://omegat.org/fr/howtos/iceni_infix</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://omegat.sourceforge.io/webstart/&lt;a0&gt;OmegaT&lt;/a0&gt;.jnlp</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20171125T165417Z" creationid="Didier" creationdate="20171125T165417Z">
+        <seg>https://omegat.sourceforge.io/webstart/&lt;a0&gt;OmegaT&lt;/a0&gt;.jnlp</seg>
       </tuv>
     </tu>
     <tu>
