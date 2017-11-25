@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_3_10163M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_3_Unversioned directory" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1058,6 +1058,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20161229T164127Z" creationid="Didier" creationdate="20161229T164127Z">
         <seg>&amp;Ignorer le nom du fichier pour identifier les segments comportant des traductions alternatives</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Ignore hits with very different case (e.g. FOO vs foo)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20171125T165019Z" creationid="Didier" creationdate="20171125T165019Z">
+        <seg>&amp;Ignorer les entrées avec une casse très différente (ex. : FOO / foo)</seg>
       </tuv>
     </tu>
     <tu>
