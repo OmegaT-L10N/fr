@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_3_Unversioned directory" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10240" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -29468,6 +29468,22 @@ impose that choice.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Moses</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180116T090216Z" creationid="Didier" creationdate="20180116T090216Z">
+        <seg>Moses</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moses Server URL:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180116T090229Z" creationid="Didier" creationdate="20180116T090229Z">
+        <seg>URL du serveur Moses :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Most functions are also available via keyboard shortcuts.</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130420T215108Z">
@@ -38874,6 +38890,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Server does not understand the "translate" method</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180116T090401Z" creationid="Didier" creationdate="20180116T090401Z">
+        <seg>Le serveur ne comprend pas la méthode « translate »</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Service type</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160929T152030Z" creationid="Didier" creationdate="20160929T152030Z">
@@ -41845,6 +41869,14 @@ material under section 10.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Testing...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180116T090254Z" creationid="Didier" creationdate="20180116T090254Z">
+        <seg>Test...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Text</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130531T094036Z">
@@ -42542,6 +42574,14 @@ software and other kinds of works.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130507T132322Z">
         <seg>Les statistiques des correspondance sont séparées par tabulation et il est possible d'utiliser &lt;g0&gt;Ctrl+A &lt;i1/&gt;&lt;/g0&gt;&lt;g2&gt;, Ctrl+C &lt;i3/&gt;&lt;/g2&gt;et &lt;g4&gt;Ctrl+V &lt;i5/&gt;&lt;/g4&gt; pour les copier/coller dans un tableur ou dans un logiciel de comptabilité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Moses server URL is not set</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180116T090245Z" creationid="Didier" creationdate="20180116T090245Z">
+        <seg>L'URL du serveur Moses n'est pas définie</seg>
       </tuv>
     </tu>
     <tu>
@@ -61505,6 +61545,16 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="brigitte" changedate="20130715T202751Z" creationid="brigitte" creationdate="20130715T202751Z">
         <seg>Consultez le guide d'OmegaT pour obtenir des instructions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Bundle.properties</prop>
+      <prop type="id">MT_ENGINE_MOSES_TEST_RESULT_OK</prop>
+      <tuv lang="EN">
+        <seg>OK</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180116T090334Z" creationid="Didier" creationdate="20180116T090334Z">
+        <seg>Correct</seg>
       </tuv>
     </tu>
     <tu>
