@@ -18283,6 +18283,14 @@ by the Free Software Foundation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error during regular expression replacement:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180220T084942Z" creationid="Didier" creationdate="20180220T084942Z">
+        <seg>Erreur durant le remplacement d'une expression régulière</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error extracting MT result from MyMemory, response:</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130902T091219Z" creationid="Didier" creationdate="20130902T091219Z">
@@ -21195,6 +21203,14 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160718T151954Z" creationid="Didier" creationdate="20160718T151954Z">
         <seg>Groovy (licence Apache 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Group {0} does not exist in search expression</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180220T085032Z" creationid="Didier" creationdate="20180220T085032Z">
+        <seg>Le groupe {0} n'existe pas dans l'expression de recherche</seg>
       </tuv>
     </tu>
     <tu>
