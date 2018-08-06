@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_3_10272" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_0_10418" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -26038,10 +26038,26 @@ exécutez simplement le programme d'installation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It has usually been in use for some time and is therefore proven.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20180806T130729Z" creationid="briac" creationdate="20180806T130729Z">
+        <seg>Il s'agit de la version normalement utilisée : elle se distingue par sa fiabilité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It includes general information on OmegaT, where to find more information, how to contribute, etc.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130430T131120Z">
         <seg>Il contient des informations générales concernant OmegaT : où trouver des informations supplémentaires, comment contribuer, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is a more recent version than the Standard version and includes new features not present in the latter.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20180806T135738Z" creationid="briac" creationdate="20180806T135738Z">
+        <seg>It is a more recent version than the Standard version and includes new features not present in the latter.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27491,6 +27507,14 @@ later version.</seg>
       </tuv>
       <tuv lang="FR" changeid="briac" changedate="20170331T122913Z" creationid="briac" creationdate="20170331T122913Z">
         <seg>Version récente - {{site.data.versions.latest.name '}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Latest Version - {{site.data.versions.latest.name}}</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20180806T130738Z" creationid="briac" creationdate="20180806T130738Z">
+        <seg>Version récente - {{site.data.versions.latest.name}}</seg>
       </tuv>
     </tu>
     <tu>
@@ -32319,6 +32343,14 @@ with exactly the same structure, including copies of any non-supported files.</s
       </tuv>
       <tuv lang="FR">
         <seg>OmegaT peut être exécuté sur tout système intégrant l'environnement d'exécution Java (JRE, Java Runtime Environment).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT will run on any system on which the appropriate JRE (Java Runtime Environment) has been or can be installed.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20180806T130629Z" creationid="briac" creationdate="20180806T130629Z">
+        <seg>OmegaT fonctionnera sur tout système sur lequel le JRE (Java Runtime Environment) approprié a été ou peut être installé.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40399,6 +40431,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Standard Version - {{site.data.versions.standard.name}}</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20180806T130643Z" creationid="briac" creationdate="20180806T130643Z">
+        <seg>Version standard - {{site.data.versions.standard.name}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Start OmegaT again, download the team project, close OmegaT
 5.</seg>
       </tuv>
@@ -42570,6 +42610,14 @@ software and other kinds of works.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Latest version requires Java {{site.data.versions.latest.java_version}}.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20180806T130825Z" creationid="briac" creationdate="20180806T130825Z">
+        <seg>La version récente nécessite Java {{site.data.versions.latest.java_version}}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Latest version will usually be reasonably stable and usable, but may have some bugs.</seg>
       </tuv>
       <tuv lang="FR">
@@ -42750,6 +42798,14 @@ software and other kinds of works.</seg>
       </tuv>
       <tuv lang="FR" changeid="briac" changedate="20170403T095424Z" creationid="briac" creationdate="20170403T095424Z">
         <seg>La version standard est la version normalement utilisée ; elle se distingue par sa fiabilité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Standard version requires Java {{site.data.versions.standard.java_version}}.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20180806T130711Z" creationid="briac" creationdate="20180806T130711Z">
+        <seg>La version standard nécessite Java {{site.data.versions.standard.java_version}}.</seg>
       </tuv>
     </tu>
     <tu>
