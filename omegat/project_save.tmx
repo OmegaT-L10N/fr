@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_0_10418" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10481:10483M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -708,6 +708,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Check for Updates...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180606T084403Z" creationid="Didier" creationdate="20180606T084403Z">
+        <seg>&amp;Rechercher des mises à jour...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Check simple printf-variables (e.g., %s, %d)</seg>
       </tuv>
       <tuv lang="FR">
@@ -720,6 +728,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="FR">
         <seg>&amp;Parcourir...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Clear Menu</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180514T095128Z" creationid="Didier" creationdate="20180514T095128Z">
+        <seg>&amp;Effacer le menu</seg>
       </tuv>
     </tu>
     <tu>
@@ -1056,6 +1072,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Atte&amp;indre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Go To Downloads</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180606T085415Z" creationid="Didier" creationdate="20180606T085415Z">
+        <seg>&amp;Téléchargements</seg>
       </tuv>
     </tu>
     <tu>
@@ -2162,6 +2186,14 @@ To add files to the project, click on the Import Source Files... button in the P
       <tuv lang="FR" changeid="Didier" changedate="20100701T172212Z">
         <seg>(Voir le manuel utilisateur pour une liste des formats de fichier pris en charge.)
 Pour ajouter des fichiers au projet, cliquez sur le bouton « Importer des fichiers source... » de la fenêtre Fichiers du Projet, ou bien choisissez cette option à partir du menu Projet et ajoutez les fichiers que vous souhaitez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(Leave the Password empty if you are using an API Key.)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180918T135031Z" creationid="Didier" creationdate="20180918T135031Z">
+        <seg>(Laissez le mot de passe vide si vous utilisez une clé API.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5502,6 +5534,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;html&gt;Current version: &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180606T085801Z" creationid="Didier" creationdate="20180606T085801Z">
+        <seg>&lt;html&gt;Version actuelle : &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;html&gt;Per-project external commands are disabled and will not be executed.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130125T163526Z">
@@ -5546,6 +5586,14 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20151117T153048Z" creationid="Didier" creationdate="20151117T153048Z">
         <seg>&lt;html&gt;Le projet en équipe SVN est actuellement ouvert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;html&gt;Update channel: &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180606T085809Z" creationid="Didier" creationdate="20180606T085809Z">
+        <seg>&lt;html&gt;Canal de mise à jour : &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8736,6 +8784,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>@TRANSLATION_NOTICE@</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180328T144952Z" creationid="Didier" creationdate="20180328T144952Z">
+        <seg>Ce document a été traduit par Didier Briel et Jean-Christophe Helary, copyright© 2007-2018.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A "User Product" is either (1) a "consumer product", which means any
 tangible personal property which is normally used for personal, family,
 or household purposes, or (2) anything designed or sold for incorporation
@@ -10064,6 +10120,14 @@ this License without regard to the additional permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All DOCX files in the project</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180419T151840Z" creationid="Didier" creationdate="20180419T151840Z">
+        <seg>Tous les fichiers DOCX du projet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All HTML files will be translated - note that the period in the usual *.html has to be escaped (\.) as specified by the rules for regular expressions</seg>
       </tuv>
       <tuv lang="FR" changeid="brigitte" changedate="20130714T134015Z">
@@ -10929,6 +10993,14 @@ rights.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Anthony Baldwin (localisation manager)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180918T135131Z" creationid="Didier" creationdate="20180918T135131Z">
+        <seg>Anthony Baldwin (responsable de la localisation)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Antonio Vilei</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20101223T174929Z">
@@ -11615,6 +11687,14 @@ provoquer des comportements inattendus, mais corrects.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Automatically check for updates</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180606T085846Z" creationid="Didier" creationdate="20180606T085846Z">
+        <seg>Rechercher automatiquement les mises à jour</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Automatically fetch translations</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20161227T171726Z" creationid="Didier" creationdate="20161227T171726Z">
@@ -11784,6 +11864,14 @@ FOR THE PROGRAM, TO THE EXTENT PERMITTED BY APPLICABLE LAW.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Backup</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180419T151811Z" creationid="Didier" creationdate="20180419T151811Z">
+        <seg>Sauvegarde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Backups of this file (with extension bak) are added progressively to this subfolder, first at the beginning of the translation session, at its end, and while the translation progresses.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130430T115251Z">
@@ -11884,6 +11972,22 @@ FOR THE PROGRAM, TO THE EXTENT PERMITTED BY APPLICABLE LAW.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130506T113950Z">
         <seg>Gardez à l'esprit que la modification des langues peut rendre les mémoires de traduction actuellement utilisées inutiles puisque leurs paires de langues peuvent ne plus correspondre aux nouvelles langues.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Beautify</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180419T151738Z" creationid="Didier" creationdate="20180419T151738Z">
+        <seg>Embellir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Beautify resulting DOCX</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180419T151828Z" creationid="Didier" creationdate="20180419T151828Z">
+        <seg>Embellir le DOCX résultant</seg>
       </tuv>
     </tu>
     <tu>
@@ -12097,6 +12201,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Briac Pilpré (webmaster)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180607T073458Z" creationid="Didier" creationdate="20180607T073458Z">
+        <seg>Briac Pilpré (webmestre)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Brief introduction to OmegaT, 2009 (in Vietnamese).</seg>
       </tuv>
       <tuv lang="FR">
@@ -12141,6 +12253,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160929T152434Z" creationid="Didier" creationdate="20160929T152434Z">
         <seg>Parcourir...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Browser plugin</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180918T135242Z" creationid="Didier" creationdate="20180918T135242Z">
+        <seg>Browser plugin</seg>
       </tuv>
     </tu>
     <tu>
@@ -12887,6 +13007,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check &amp;automatically</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180606T084713Z" creationid="Didier" creationdate="20180606T084713Z">
+        <seg>Rechercher &amp;automatiquement les mises à jour</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check &amp;simple printf-variables (e.g., %s, %d)</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20150514T134946Z" creationid="Didier" creationdate="20150514T134946Z">
@@ -12931,6 +13059,14 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20150525T144611Z" creationid="Didier" creationdate="20150525T144611Z">
         <seg>Règles de LanguageTools</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check Now</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180606T090028Z" creationid="Didier" creationdate="20180606T090028Z">
+        <seg>Rechercher maintenant</seg>
       </tuv>
     </tu>
     <tu>
@@ -13339,6 +13475,14 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
       <tuv lang="FR" changeid="etudiant_local" changedate="20130410T124952Z">
         <seg>Tchouvache</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cleaning entry '{0}'...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180419T151228Z" creationid="Didier" creationdate="20180419T151228Z">
+        <seg>Nettoyage de l'entrée « {0} »...</seg>
       </tuv>
     </tu>
     <tu>
@@ -14115,6 +14259,14 @@ kolekti -b C:\[...]\trunk\doc_src2 publish [-j JOB] -l fr,en C:\[...]\trunk\doc_
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Concepción Martin (Facebook community manager)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180607T073437Z" creationid="Didier" creationdate="20180607T073437Z">
+        <seg>Concepción Martin (gestionnaire de communauté Facebook)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Configure</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20161227T171721Z" creationid="Didier" creationdate="20161227T171721Z">
@@ -14501,10 +14653,34 @@ Une liste blanche en expression régulière des fichiers source à traiter.</seg
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Convert</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180419T151807Z" creationid="Didier" creationdate="20180419T151807Z">
+        <seg>Convertir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Convert Old Team Project</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160427T151824Z" creationid="Didier" creationdate="20160427T151824Z">
         <seg>Convertir un ancien projet en équipe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Converting all .DOCX in the project...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180419T151105Z" creationid="Didier" creationdate="20180419T151105Z">
+        <seg>Conversion de tous les .DOCX du projet...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Converting current .DOCX...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180419T151122Z" creationid="Didier" creationdate="20180419T151122Z">
+        <seg>Conversion du .DOCX actuel... </seg>
       </tuv>
     </tu>
     <tu>
@@ -14731,6 +14907,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copyright © 2000-2018 Keith Godfrey, Maxym Mykhalchuk and others</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180419T150205Z" creationid="Didier" creationdate="20180419T150205Z">
+        <seg>Copyright © 2000-2018 Keith Godfrey, Maxym Mykhalchuk et d'autres personnes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cornish</seg>
       </tuv>
       <tuv lang="FR" changeid="etudiant_local" changedate="20130410T125017Z">
@@ -14767,6 +14951,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
       <tuv lang="FR" changeid="etudiant_local" changedate="20130410T125041Z">
         <seg>Corse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Could not create project dir at {0}</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180525T130007Z" creationid="Didier" creationdate="20180525T130007Z">
+        <seg>Impossible de créer le répertoire du projet : {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -14955,6 +15147,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create backup files of original DOCX</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180419T151908Z" creationid="Didier" creationdate="20180419T151908Z">
+        <seg>Créer des fichiers de sauvegarde du DOCX original</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create pseudo-translate TMX</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20120131T094650Z">
@@ -15087,6 +15287,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130424T134310Z">
         <seg>Créer une mémoire de traduction pour les documents sélectionnés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creating output file '{0}'</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180419T151216Z" creationid="Didier" creationdate="20180419T151216Z">
+        <seg>Création du fichier de sortie « {0} »</seg>
       </tuv>
     </tu>
     <tu>
@@ -15579,6 +15787,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Current DOCX file</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180419T151848Z" creationid="Didier" creationdate="20180419T151848Z">
+        <seg>Le fichier DOCX actuel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Current memory usage by the VM: {0}MB; of which free memory: {1}MB; maximum available: {2}MB</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20151111T093418Z" creationid="Didier" creationdate="20150907T140826Z">
@@ -15591,6 +15807,16 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20091224T133319Z">
         <seg>Utilisation actuelle de la mémoire par la VM : {0} Mo, dont mémoire libre : {1} Mo, maximum disponible : {2} Mo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Current team:
+(alphabetical order)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180607T073211Z" creationid="Didier" creationdate="20180607T073211Z">
+        <seg>Équipe actuelle :
+(ordre alphabétique)</seg>
       </tuv>
     </tu>
     <tu>
@@ -15815,6 +16041,22 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160718T160951Z" creationid="Didier" creationdate="20160718T160951Z">
         <seg>Date de la correspondance lors de sa dernière modification</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>DeepL</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180419T145550Z" creationid="Didier" creationdate="20180419T145550Z">
+        <seg>DeepL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>DeepL Api key not available.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180419T145608Z" creationid="Didier" creationdate="20180419T145608Z">
+        <seg>Clé d'API DeepL non disponible.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16235,6 +16477,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Didier Briel (OmegaT project manager, Twitter community manager)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180607T073334Z" creationid="Didier" creationdate="20180607T073334Z">
+        <seg>Didier Briel (responsable du projet OmegaT, gestionnaire de communauté Twitter)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Didier Briel (development manager)</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20101018T144946Z">
@@ -16271,6 +16521,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
       <tuv lang="FR" changeid="briac" changedate="20170918T110353Z" creationid="briac" creationdate="20170918T110353Z">
         <seg>Diego Merino - Traducteur EN &gt; ES</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Diego Merino Traducciones</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180918T135332Z" creationid="Didier" creationdate="20180918T135332Z">
+        <seg>Diego Merino Traducciones</seg>
       </tuv>
     </tu>
     <tu>
@@ -19125,6 +19383,14 @@ The FSF strongly urges you not to use this translation as the official distribu-
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Failed to fetch latest version info: {0}</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180918T135100Z" creationid="Didier" creationdate="20180918T135100Z">
+        <seg>Échec de récupération des informations sur la dernière version : {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Failed to load specified project!</seg>
       </tuv>
       <tuv lang="FR">
@@ -19153,6 +19419,14 @@ The FSF strongly urges you not to use this translation as the official distribu-
       </tuv>
       <tuv lang="FR" changeid="etudiant_local" changedate="20130410T125325Z">
         <seg>Féroïen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fast access to websites.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180918T135639Z" creationid="Didier" creationdate="20180918T135256Z">
+        <seg>Accès rapide aux sites web.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21535,6 +21809,14 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Henry Pijffers (release manager)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180607T073737Z" creationid="Didier" creationdate="20180607T073737Z">
+        <seg>Henry Pijffers (responsable des versions)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Here a platform-independent package in a standard Java form is considered.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130527T135937Z">
@@ -21801,8 +22083,8 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       <tuv lang="EN">
         <seg>However, OmegaT does not fully support imported level 2 tmx files (these store not only the translation, but also the formatting).</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130507T083105Z">
-        <seg>Cependant, Omegat ne prend pas complètement en charge les fichiers importés tmx level 2 (ceux ci ne contiennent pas seulement la traduction, mais aussi le formatage).</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20181203T140732Z">
+        <seg>Cependant, Omegat ne prend pas complètement en charge les fichiers importés tmx level 2 (ceux-ci ne contiennent pas seulement la traduction, mais aussi le formatage).</seg>
       </tuv>
     </tu>
     <tu>
@@ -21929,8 +22211,8 @@ parties remain in full compliance.</seg>
       <tuv lang="EN">
         <seg>Howto - Exporting from OmegaT to 'Trados uncleaned RTF' format</seg>
       </tuv>
-      <tuv lang="FR" changeid="briac" changedate="20170331T122015Z" creationid="briac" creationdate="20170331T122015Z">
-        <seg>Guide - Exportation vers le format "Trados non nettoyé RTF"</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20180419T135754Z" creationid="briac" creationdate="20170331T122015Z">
+        <seg>Guide - Exportation vers le format « Trados non nettoyé RTF »</seg>
       </tuv>
     </tu>
     <tu>
@@ -21953,8 +22235,8 @@ parties remain in full compliance.</seg>
       <tuv lang="EN">
         <seg>Howto - The "Priorview" preview utility</seg>
       </tuv>
-      <tuv lang="FR" changeid="briac" changedate="20170331T122104Z" creationid="briac" creationdate="20170331T122104Z">
-        <seg>Guide - L'utilitaire de prévisualisation "Priorview"</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20180419T135809Z" creationid="briac" creationdate="20170331T122104Z">
+        <seg>Guide - L'utilitaire de prévisualisation « Priorview »</seg>
       </tuv>
     </tu>
     <tu>
@@ -22067,6 +22349,22 @@ parties remain in full compliance.</seg>
       </tuv>
       <tuv lang="FR" changeid="briac" changedate="20170413T081533Z" creationid="briac" creationdate="20170413T081533Z">
         <seg>J'utilise OmegaT en tant que traducteur professionnel depuis plus de 10 ans, bénéficiant dès le départ de sa facilité d'utilisation et de son forum extrêmement utile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>IBM Watson</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180606T084405Z" creationid="Didier" creationdate="20180606T084405Z">
+        <seg>IBM Watson</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>IBM Watson not available.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180606T084438Z" creationid="Didier" creationdate="20180606T084438Z">
+        <seg>IBM Watson n'est pas disponible.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25630,6 +25928,14 @@ exécutez simplement le programme d'installation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Insufficient permissions for project dir {0}</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180525T130037Z" creationid="Didier" creationdate="20180525T130037Z">
+        <seg>Autorisations insuffisantes pour le répertoire du projet {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Integral spelling checker</seg>
       </tuv>
       <tuv lang="FR">
@@ -26040,8 +26346,8 @@ exécutez simplement le programme d'installation.</seg>
       <tuv lang="EN">
         <seg>It has usually been in use for some time and is therefore proven.</seg>
       </tuv>
-      <tuv lang="FR" changeid="briac" changedate="20180806T130729Z" creationid="briac" creationdate="20180806T130729Z">
-        <seg>Il s'agit de la version normalement utilisée : elle se distingue par sa fiabilité.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20180806T090918Z" creationid="Didier" creationdate="20180806T090918Z">
+        <seg>Il s'agit de la version normalement utilisée ; elle se distingue par sa fiabilité.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26056,8 +26362,8 @@ exécutez simplement le programme d'installation.</seg>
       <tuv lang="EN">
         <seg>It is a more recent version than the Standard version and includes new features not present in the latter.</seg>
       </tuv>
-      <tuv lang="FR" changeid="briac" changedate="20180806T135738Z" creationid="briac" creationdate="20180806T135738Z">
-        <seg>It is a more recent version than the Standard version and includes new features not present in the latter.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20180806T091023Z" creationid="Didier" creationdate="20180806T090950Z">
+        <seg>Il s'agit d'une version plus actuelle que la version standard et qui intègre de nouvelles fonctionnalités.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26708,6 +27014,22 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Jean-Christophe Helary (support group owner, localisation manager)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180918T135150Z" creationid="Didier" creationdate="20180918T135150Z">
+        <seg>Jean-Christophe Helary (gestionnaire du groupe d'assistance, responsable de la localisation)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Jean-Christophe Helary (support group owner, localization manager)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180607T073646Z" creationid="Didier" creationdate="20180607T073646Z">
+        <seg>Jean-Christophe Helary (gestionnaire du groupe d'assistance, responsable de la localisation)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Jean-Christophe Helary: special thanks to JC for his concise description of OmegaT run, command line parameters and all other details, I have yet to notice.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130527T125729Z">
@@ -27072,6 +27394,22 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140119T175232Z" creationid="Didier" creationdate="20140119T175232Z">
         <seg>KoreanAnalyzer-3x-120223.jar (licence Apache 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Kos Ivantsof (localisation manager)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180607T073354Z" creationid="Didier" creationdate="20180607T073354Z">
+        <seg>Kos Ivantsof (responsable de la localisation)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Kos Ivantsov</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180328T145001Z" creationid="Didier" creationdate="20180328T145001Z">
+        <seg>Kos Ivantsov</seg>
       </tuv>
     </tu>
     <tu>
@@ -27513,8 +27851,8 @@ later version.</seg>
       <tuv lang="EN">
         <seg>Latest Version - {{site.data.versions.latest.name}}</seg>
       </tuv>
-      <tuv lang="FR" changeid="briac" changedate="20180806T130738Z" creationid="briac" creationdate="20180806T130738Z">
-        <seg>Version récente - {{site.data.versions.latest.name}}</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20180806T091002Z" creationid="Didier" creationdate="20180328T145036Z">
+        <seg>Version récente (ou « Latest ») - {{site.data.versions.latest.name}}</seg>
       </tuv>
     </tu>
     <tu>
@@ -27745,6 +28083,30 @@ Exécutez OmegaT de la façon suivante.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Level</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180419T151312Z" creationid="Didier" creationdate="20180419T151312Z">
+        <seg>Niveau</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 0:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180419T151916Z" creationid="Didier" creationdate="20180419T151916Z">
+        <seg>Niveau 0 :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 1:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180419T151918Z" creationid="Didier" creationdate="20180419T151918Z">
+        <seg>Niveau 1 :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Level 2 tmx files will still be imported and their textual content can be seen in OmegaT, but the quality of fuzzy matches will be somewhat lower.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130424T103317Z">
@@ -27753,10 +28115,66 @@ Exécutez OmegaT de la façon suivante.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Level 2:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180419T151920Z" creationid="Didier" creationdate="20180419T151920Z">
+        <seg>Niveau 2 :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 3:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180419T151923Z" creationid="Didier" creationdate="20180419T151923Z">
+        <seg>Niveau 3 :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 4:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180419T151924Z" creationid="Didier" creationdate="20180419T151924Z">
+        <seg>Niveau 4 :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 5:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180419T151924Z" creationid="Didier" creationdate="20180419T151924Z">
+        <seg>Niveau 5 :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 6:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180419T151925Z" creationid="Didier" creationdate="20180419T151925Z">
+        <seg>Niveau 6 :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Level 7:</seg>
       </tuv>
-      <tuv lang="FR" changeid="briac" changedate="20180806T154712Z" creationid="briac" creationdate="20180806T154712Z">
-        <seg>Level 7:</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20180419T151926Z" creationid="Didier" creationdate="20180419T151926Z">
+        <seg>Niveau 7 :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 8:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180419T151927Z" creationid="Didier" creationdate="20180419T151927Z">
+        <seg>Niveau 8 :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 9:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180419T151928Z" creationid="Didier" creationdate="20180419T151928Z">
+        <seg>Niveau 9 :</seg>
       </tuv>
     </tu>
     <tu>
@@ -28195,6 +28613,14 @@ automatically download and install it.</seg>
       <tuv lang="FR" changeid="Didier" changedate="20160718T161708Z" creationid="Didier" creationdate="20160718T161708Z">
         <seg>LuceneEnglishTokenizer) utilisent des mots non significatifs d'Okapi
 (http://okapi.sourceforge.net) (licence LGPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Lucie Vecerova (Facebook community manager)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180607T073511Z" creationid="Didier" creationdate="20180607T073511Z">
+        <seg>Lucie Vecerova (gestionnaire de communauté Facebook)</seg>
       </tuv>
     </tu>
     <tu>
@@ -28700,6 +29126,14 @@ impose that choice.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Marc Prior (project co-ordinator, webmaster)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180607T073755Z" creationid="Didier" creationdate="20180607T073755Z">
+        <seg>Marc Prior (coordinateur du projet, webmestre)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Marc Prior (webmaster)</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140617T175852Z" creationid="Didier" creationdate="20140617T175852Z">
@@ -29116,6 +29550,14 @@ impose that choice.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Maxym Mykhalchuk (lead developper)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180607T073702Z" creationid="Didier" creationdate="20180607T073702Z">
+        <seg>Maxym Mykhalchuk (développeur principal)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>MediaWiki (Wikipedia)</seg>
       </tuv>
       <tuv lang="FR" changeid="briac" changedate="20170403T142853Z" creationid="briac" creationdate="20170329T125327Z">
@@ -29372,6 +29814,14 @@ impose that choice.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Model Id:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180918T135008Z" creationid="Didier" creationdate="20180918T135008Z">
+        <seg>Identifiant de modèle :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Modification Info</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130421T174553Z">
@@ -29480,6 +29930,22 @@ impose that choice.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130614T163348Z">
         <seg>Monolingue</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moodle PHP</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20181203T140316Z" creationid="Didier" creationdate="20181203T140316Z">
+        <seg>PHP Moodle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moodle PHP Filter Options</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20181203T140327Z" creationid="Didier" creationdate="20181203T140327Z">
+        <seg>Options du filtre PHP Moodle</seg>
       </tuv>
     </tu>
     <tu>
@@ -29789,6 +30255,22 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Moving cleaned '{0}' to '{1}'</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180419T151309Z" creationid="Didier" creationdate="20180419T151309Z">
+        <seg>Déplacement du fichier nettoyé « {0} » vers « {1} »</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moving original '{0}' to '{1}'</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180419T151246Z" creationid="Didier" creationdate="20180419T151246Z">
+        <seg>Déplacement de l'original « {0} » vers « {1} »</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mozilla DTD</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130531T094003Z">
@@ -29799,8 +30281,8 @@ appropriate location such as the Applications folder.</seg>
       <tuv lang="EN">
         <seg>Mozilla DTD Filter Options</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20140222T151331Z" creationid="Didier" creationdate="20140222T151331Z">
-        <seg>Options du filtre Mozilla DTD</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20181203T140432Z" creationid="Didier" creationdate="20140222T151331Z">
+        <seg>Options du filtre DTD Mozilla</seg>
       </tuv>
     </tu>
     <tu>
@@ -30021,6 +30503,22 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Neural Machine Translation</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180606T084429Z" creationid="Didier" creationdate="20180606T084429Z">
+        <seg>Traduction automatique neuronale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Neural machine translation</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180514T095302Z" creationid="Didier" creationdate="20180514T095302Z">
+        <seg>Traduction automatique neuronale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Nevertheless, the "Latest" versions of OmegaT are usually very stable and are recommended for any users who already have some experience with OmegaT.</seg>
       </tuv>
       <tuv lang="FR" changeid="briac" changedate="20170403T161109Z" creationid="briac" creationdate="20170403T161109Z">
@@ -30205,6 +30703,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No .DOCX files to clean.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180419T151135Z" creationid="Didier" creationdate="20180419T151135Z">
+        <seg>Aucun fichier .DOCX à nettoyer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>No Issues Found</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160926T143758Z" creationid="Didier" creationdate="20160926T143758Z">
@@ -30289,6 +30795,14 @@ appropriate location such as the Applications folder.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Aucun nouveau dictionnaire n'est disponible sur le serveur distant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No project loaded.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180419T150946Z" creationid="Didier" creationdate="20180419T150946Z">
+        <seg>Aucun projet chargé.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31389,8 +31903,8 @@ mouse-clicks or menu items--whatever suits your program.</seg>
       <tuv lang="EN">
         <seg>OmegaT - The Free Translation Memory Tool</seg>
       </tuv>
-      <tuv lang="FR" changeid="briac" changedate="20170925T200301Z" creationid="briac" creationdate="20170925T200301Z">
-        <seg>OmegaT - The Outil libre de mémoire de traduction</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20180419T135731Z" creationid="briac" creationdate="20170925T200301Z">
+        <seg>OmegaT - l'outil libre de TAO</seg>
       </tuv>
     </tu>
     <tu>
@@ -31675,6 +32189,14 @@ mouse-clicks or menu items--whatever suits your program.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT does not have read and write permissions to this folder.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180525T130110Z" creationid="Didier" creationdate="20180525T130110Z">
+        <seg>OmegaT ne dispose pas des autorisations d'accès en lecture et écriture pour ce dossier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT encrypts sensitive passwords and API keys with a master password.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20161227T171931Z" creationid="Didier" creationdate="20161227T171931Z">
@@ -31847,8 +32369,8 @@ translation leveraging into updated projects.</seg>
       <tuv lang="EN">
         <seg>OmegaT is a free open-source translation memory application for professional translators written in Java.</seg>
       </tuv>
-      <tuv lang="FR" changeid="briac" changedate="20170406T080727Z" creationid="briac" creationdate="20170406T080727Z">
-        <seg>OmegaT est un logiciel libre de TAO écrit en Java conçu et pour des traducteurs professionnels.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20180419T135636Z" creationid="briac" creationdate="20170406T080727Z">
+        <seg>OmegaT est un logiciel libre de TAO écrit en Java conçu par et pour des traducteurs professionnels.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32357,8 +32879,8 @@ with exactly the same structure, including copies of any non-supported files.</s
       <tuv lang="EN">
         <seg>OmegaT will run on any system on which the appropriate JRE (Java Runtime Environment) has been or can be installed.</seg>
       </tuv>
-      <tuv lang="FR" changeid="briac" changedate="20180806T130629Z" creationid="briac" creationdate="20180806T130629Z">
-        <seg>OmegaT fonctionnera sur tout système sur lequel le JRE (Java Runtime Environment) approprié a été ou peut être installé.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20180806T090835Z" creationid="Didier" creationdate="20180806T090835Z">
+        <seg>OmegaT peut être exécuté sur tout système intégrant l'environnement d'exécution Java approprié (JRE, Java Runtime Environment).</seg>
       </tuv>
     </tu>
     <tu>
@@ -32407,6 +32929,14 @@ with exactly the same structure, including copies of any non-supported files.</s
       </tuv>
       <tuv lang="FR" changeid="briac" changedate="20170403T160717Z" creationid="briac" creationdate="20170403T160700Z">
         <seg>OmegaT peut normalement être exécuté sur tout système Linux intégrant l'environnement d'exécution Java (JRE).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT {0} is now available.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180606T084506Z" creationid="Didier" creationdate="20180606T084506Z">
+        <seg>OmegaT {0} est disponible.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33090,6 +33620,14 @@ happen should you file a bug report.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Opening input file '{0}'</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180419T151204Z" creationid="Didier" creationdate="20180419T151204Z">
+        <seg>Ouverture du fichier d'entrée « {0} »</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Opening team project</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20171116T161541Z" creationid="Didier" creationdate="20171116T161541Z">
@@ -33761,6 +34299,14 @@ of promoting the sharing and reuse of software generally.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Password :</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180606T084421Z" creationid="Didier" creationdate="20180606T084421Z">
+        <seg>Mot de passe :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Password-protected PDF files are not supported: {0}</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20161116T095516Z" creationid="Didier" creationdate="20161116T095516Z">
@@ -33909,6 +34455,14 @@ of promoting the sharing and reuse of software generally.</seg>
       </tuv>
       <tuv lang="FR" changeid="briac" changedate="20170403T144758Z" creationid="briac" creationdate="20170403T144758Z">
         <seg>Des compilations périodiques sont disponibles sur CloudBees.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Periodic builds are available on Sourceforge.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20181220T090252Z" creationid="Didier" creationdate="20181220T090252Z">
+        <seg>Des compilations périodiques sont disponibles sur Sourceforge.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35077,6 +35631,14 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project contains no files.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180419T150959Z" creationid="Didier" creationdate="20180419T150959Z">
+        <seg>Le projet ne contient aucun fichier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project creating end</seg>
       </tuv>
       <tuv lang="FR">
@@ -36045,6 +36607,14 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remote repository network communication error: {0}</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180919T153801Z" creationid="Didier" creationdate="20180919T153801Z">
+        <seg>Erreur de communication réseau du référentiel distant : {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remote server</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160929T152007Z" creationid="Didier" creationdate="20160929T152007Z">
@@ -36225,6 +36795,14 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
       </tuv>
       <tuv lang="FR">
         <seg>Supprimer le masque ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove tags from DOCX documents</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180419T150936Z" creationid="Didier" creationdate="20180419T150936Z">
+        <seg>Supprime les balises des documents DOCX</seg>
       </tuv>
     </tu>
     <tu>
@@ -37079,6 +37657,14 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Running Tagwipe for file '{0}'</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180419T151017Z" creationid="Didier" creationdate="20180419T151017Z">
+        <seg>Exécution de Tagwipe pour le fichier « {0} »</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Running on Java {0}</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20150907T140800Z" creationid="Didier" creationdate="20150907T140800Z">
@@ -37615,6 +38201,14 @@ La recherche port par défaut sur le projet, et peut porter sur tout fichier sit
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130411T091151Z">
         <seg>Gaélique écossais, écossais, gaélique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Scribus</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180327T155927Z" creationid="Didier" creationdate="20180327T155927Z">
+        <seg>Scribus</seg>
       </tuv>
     </tu>
     <tu>
@@ -38882,6 +39476,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Selected options:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180419T151024Z" creationid="Didier" creationdate="20180419T151024Z">
+        <seg>Options sélectionnées :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Selecting one of them will insert it at the current cursor position into the target segment.</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130426T131634Z">
@@ -40049,8 +40651,8 @@ of the GPL, as needed to protect the freedom of users.</seg>
       <tuv lang="EN">
         <seg>Source code packages are not required by users and are intended for developers only.</seg>
       </tuv>
-      <tuv lang="FR" changeid="briac" changedate="20170403T131336Z" creationid="briac" creationdate="20170403T131336Z">
-        <seg>Le code source n'est pas nécessaire à l'utilisation du logiciel, il n'est destiné qu'aux développeurs.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20181220T090601Z" creationid="briac" creationdate="20170403T131336Z">
+        <seg>Les paquets contenant le code source ne sont pas nécessaires à l'utilisation du logiciel, ils ne sont destinés qu'aux développeurs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40419,6 +41021,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
       </tuv>
       <tuv lang="FR" changeid="briac" changedate="20170331T121725Z" creationid="briac" creationdate="20170331T121725Z">
         <seg>Parrainage</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Stable</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180606T085822Z" creationid="Didier" creationdate="20180606T085822Z">
+        <seg>Standard</seg>
       </tuv>
     </tu>
     <tu>
@@ -41617,6 +42227,22 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tagwipe</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180607T073802Z" creationid="Didier" creationdate="20180607T073802Z">
+        <seg>Tagwipe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tagwipe finished, reloading project...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180419T151149Z" creationid="Didier" creationdate="20180419T151149Z">
+        <seg>Tagwipe terminé, rechargement du projet...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tahitian</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130411T092125Z">
@@ -42658,6 +43284,14 @@ software and other kinds of works.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Moodle PHP filter threw an exception:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20181203T140417Z" creationid="Didier" creationdate="20181203T140344Z">
+        <seg>Le filtre PHP Moodle a généré une exception :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Moses server URL is not set</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20180116T090245Z" creationid="Didier" creationdate="20180116T090245Z">
@@ -42668,8 +43302,8 @@ software and other kinds of works.</seg>
       <tuv lang="EN">
         <seg>The Mozilla DTD filter threw an exception:</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20140222T151404Z" creationid="Didier" creationdate="20140222T151404Z">
-        <seg>Le filtre Mozilla DTD a généré une exception :</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20181203T140355Z" creationid="Didier" creationdate="20140222T151404Z">
+        <seg>Le filtre DTD Mozilla a généré une exception :</seg>
       </tuv>
     </tu>
     <tu>
@@ -43757,6 +44391,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The following options do not apply if "Compatibility with OmegaT 2.6" is checked</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180514T095241Z" creationid="Didier" creationdate="20180514T095157Z">
+        <seg>Les options suivantes ne s'appliquent pas si « Compatibilité avec OmegaT 2.6 » est cochée</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The following recipee is just one of the possibilities, but simple enough to follow and without any dangers for the assets.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130507T085116Z">
@@ -44081,6 +44723,16 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="FR" changeid="Didier" changedate="20170210T102905Z" creationid="Didier" creationdate="20170210T102905Z">
         <seg>La licence de chaque bibliothèque est mentionnée
 dans /lib/licenses/Licenses.txt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The licenses for most software and other practical works are designed
+to take away your freedom to share and change the works.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180328T144926Z" creationid="Didier" creationdate="20180328T144926Z">
+        <seg>lThe licenses for most software and other practical works are designed
+to take away your freedom to share and change the works.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44561,6 +45213,14 @@ sure this has not already been reported.</seg>
         <seg>The perfect companion for those of us who don't need complexity but efficiency; glossaries, auto-complete and automatic translation makes my work in literary translation so much efficient</seg>
       </tuv>
       <tuv lang="FR" changeid="briac" changedate="20170407T210908Z" creationid="briac" creationdate="20170407T210908Z">
+        <seg>Le compagnon idéal pour ceux d'entre nous qui n'ont pas besoin de complexité mais d'efficacité ; les glossaires, la saisie et la traduction automatique me rendent plus productif pour mes traductions littéraires.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The perfect companion for those of us who don't need complexity but efficiency; glossaries, auto-complete and automatic translation makes my work in literary translation so much more efficient</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180918T135231Z" creationid="Didier" creationdate="20180918T135231Z">
         <seg>Le compagnon idéal pour ceux d'entre nous qui n'ont pas besoin de complexité mais d'efficacité ; les glossaires, la saisie et la traduction automatique me rendent plus productif pour mes traductions littéraires.</seg>
       </tuv>
     </tu>
@@ -46391,8 +47051,8 @@ proprietary programs.</seg>
       <tuv lang="EN">
         <seg>This HOWTO describes OmegaT's compatibility with other software products.</seg>
       </tuv>
-      <tuv lang="FR" changeid="briac" changedate="20170413T074732Z" creationid="briac" creationdate="20170413T074732Z">
-        <seg>This HOWTO describes OmegaT's compatibility with other software products.</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20180704T123609Z" creationid="briac" creationdate="20170413T074732Z">
+        <seg>Ce guide pratique décrit la compatibilité d'OmegaT avec d'autres logiciels.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49898,6 +50558,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Updates</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180606T085719Z" creationid="Didier" creationdate="20180606T085719Z">
+        <seg>Mises à jour</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Updating a glossary file is thus rather simple: press &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; and enter the new term, its translation and any comments you may have (ensuring you press tab between the fields) and save the file.</seg>
       </tuv>
       <tuv lang="FR" changeid="brigitte" changedate="20130712T161600Z">
@@ -50014,6 +50682,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130502T115840Z">
         <seg>Cliquez sur « Mise à jour des logiciels... » dans le menu Pomme pour mettre à jour votre version de Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use $n to refer to the nth group.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180327T155924Z" creationid="Didier" creationdate="20180327T155924Z">
+        <seg>Utilisez $n pour vous référer au groupe numéro n.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50585,6 +51261,22 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20101220T155057Z">
         <seg>Utilisateur :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Username or API Key:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180918T134950Z" creationid="Didier" creationdate="20180918T134950Z">
+        <seg>Nom d'utilisateur ou clé API :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Username:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180606T084415Z" creationid="Didier" creationdate="20180606T084415Z">
+        <seg>Nom d'utilisateur :</seg>
       </tuv>
     </tu>
     <tu>
@@ -51361,6 +52053,14 @@ program proprietary.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Website support can be scripted in Groovy.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180918T135325Z" creationid="Didier" creationdate="20180918T135325Z">
+        <seg>La prise en charge des sites web peut être effectuée par des scripts Groovy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Webster's Revised Unabridged Dictionary (1913)</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T104310Z">
@@ -51695,6 +52395,14 @@ add Python to your Path.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20151111T100013Z" creationid="Didier" creationdate="20151111T100013Z">
         <seg>Lorsque des expressions régulières sont utilisées, la chaîne de remplacement ne prend pas en charge les références aux groupes définis dans la chaîne de recherche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When using regular expressions, the replacement string supports references to groups defined in the search string.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180327T155904Z" creationid="Didier" creationdate="20180327T155904Z">
+        <seg>Lorsque des expressions régulières sont utilisées, la chaîne de remplacement permet les références aux groupes définis dans la chaîne de recherche.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52572,8 +53280,8 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       <tuv lang="EN">
         <seg>XML Spreadsheet 2003</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20150514T134903Z" creationid="Didier" creationdate="20150514T134903Z">
-        <seg>XML Spreadsheet 2003</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20180327T160154Z" creationid="Didier" creationdate="20150514T134903Z">
+        <seg>Feuille de calcul XML 2003</seg>
       </tuv>
     </tu>
     <tu>
@@ -52670,6 +53378,14 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130528T131532Z">
         <seg>Vous obtiendrez le même résultat en effaçant le segment cible et en appuyant sur &lt;g4&gt;Entrée.&lt;/g4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You already have the latest version.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180606T084450Z" creationid="Didier" creationdate="20180606T084450Z">
+        <seg>Vous disposez déjà de la dernière version.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53420,6 +54136,14 @@ SourceForge too.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130429T121112Z">
         <seg>Créez tout d'abord un dossier client vide sur votre disque.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You currently have {1}.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180606T084602Z" creationid="Didier" creationdate="20180606T084602Z">
+        <seg>Vous disposez actuellement de la version {1}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56796,6 +57520,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20171125T165417Z" creationid="Didier" creationdate="20171125T165417Z">
         <seg>https://omegat.sourceforge.io/webstart/&lt;a0&gt;OmegaT&lt;/a0&gt;.jnlp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://omegat.sourceforge.io/webstart/OmegaT.jnlp</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180328T144955Z" creationid="Didier" creationdate="20180328T144955Z">
+        <seg>https://omegat.sourceforge.io/webstart/OmegaT.jnlp</seg>
       </tuv>
     </tu>
     <tu>
@@ -61368,6 +62100,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20170921T082145Z" creationid="Didier" creationdate="20170921T082145Z">
         <seg>{0} :	nettoyage effectué !!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0}_{1}</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20180606T084323Z" creationid="Didier" creationdate="20180606T084323Z">
+        <seg>{0}_{1}</seg>
       </tuv>
     </tu>
     <tu>
