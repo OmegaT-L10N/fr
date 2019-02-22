@@ -620,6 +620,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Automatically search segment text in dictionary</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20190222T085037Z" creationid="Didier" creationdate="20190222T085037Z">
+        <seg>&amp;Rechercher automatiquement le texte du segment actuel dans le dictionnaire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Back</seg>
       </tuv>
       <tuv lang="FR">
@@ -29622,6 +29630,14 @@ impose that choice.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Menus</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20190222T085101Z" creationid="Didier" creationdate="20190222T085101Z">
+        <seg>Menus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Merge</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140203T140745Z" creationid="Didier" creationdate="20140203T140745Z">
@@ -32257,6 +32273,14 @@ mouse-clicks or menu items--whatever suits your program.</seg>
       </tuv>
       <tuv lang="FR" changeid="briac" changedate="20170918T110748Z" creationid="briac" creationdate="20170918T110748Z">
         <seg>Le groupe des utilisateurs d'OmegaT est multilingue et constitue un forum d'entraide très actif que nous vous invitons à rejoindre par &lt;a0&gt;ici&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT has a very active, supportive and multilingual user group.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20190222T085151Z" creationid="Didier" creationdate="20190222T085151Z">
+        <seg>Le groupe des utilisateurs d'OmegaT est multilingue et constitue un forum d'entraide très actif.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38377,6 +38401,14 @@ La recherche port par défaut sur le projet, et peut porter sur tout fichier sit
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20170210T101710Z" creationid="Didier" creationdate="20170210T101710Z">
         <seg>Rechercher ({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search Dictionaries</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20190222T085048Z" creationid="Didier" creationdate="20190222T085048Z">
+        <seg>Rechercher dans les dictionnaires</seg>
       </tuv>
     </tu>
     <tu>
