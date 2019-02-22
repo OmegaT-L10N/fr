@@ -17237,6 +17237,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Donation to OmegaT - multiplatform CAT tool</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20190222T085620Z" creationid="Didier" creationdate="20190222T085556Z">
+        <seg>Don à OmegaT - outil de TAO multiplateforme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Donations</seg>
       </tuv>
       <tuv lang="FR" changeid="briac" changedate="20170331T122718Z" creationid="briac" creationdate="20170331T122718Z">
@@ -18799,8 +18807,8 @@ by the Free Software Foundation.</seg>
       <tuv lang="EN">
         <seg>Even though this software is free, if you find OmegaT useful and would like to express your gratitude, you can make a donation on our Paypal account.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20190222T085454Z" creationid="Didier" creationdate="20190222T085454Z">
-        <seg>Bien que ce logiciel soit gratuit, si vous le trouvez utile et que vous souhaitez exprimer votre gratitude, vous pouvez faire un don sur notre compte Paypal</seg>
+      <tuv lang="FR" changeid="Didier" changedate="20190222T085500Z" creationid="Didier" creationdate="20190222T085454Z">
+        <seg>Bien que ce logiciel soit gratuit, si vous le trouvez utile et que vous souhaitez exprimer votre gratitude, vous pouvez faire un don sur notre compte Paypal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50193,6 +50201,22 @@ Les recherches exactes correspondent à l'ensemble de la chaîne recherchée.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>USD</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20190222T085624Z" creationid="Didier" creationdate="20190222T085624Z">
+        <seg>USD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>USD &lt;a0&gt;Donate&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20190222T085633Z" creationid="Didier" creationdate="20190222T085633Z">
+        <seg>USD &lt;a0&gt;Faire un don&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Uighur, Uyghur</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130411T092209Z">
@@ -55120,6 +55144,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T105124Z">
         <seg>^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>_donations</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20190222T085541Z" creationid="Didier" creationdate="20190222T085541Z">
+        <seg>_donations</seg>
       </tuv>
     </tu>
     <tu>
@@ -60984,6 +61016,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>thank.you.omegat@gmail.com</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20190222T085501Z" creationid="Didier" creationdate="20190222T085501Z">
+        <seg>thank.you.omegat@gmail.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>the Free Software Foundation; either version 2 of the License, or</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130419T194218Z">
@@ -61988,6 +62028,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T103641Z">
         <seg>{</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{% asset donation.js %}</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20190222T085634Z" creationid="Didier" creationdate="20190222T085634Z">
+        <seg>{% asset donation.js %}</seg>
       </tuv>
     </tu>
     <tu>
