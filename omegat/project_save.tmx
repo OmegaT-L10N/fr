@@ -59954,8 +59954,8 @@ de créer son dossier de configuration.</seg>
       <tuv lang="EN">
         <seg>other</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20181229T145142Z" creationid="briac" creationdate="20170329T130558Z">
-        <seg>autre</seg>
+      <tuv lang="FR" changeid="briac" changedate="20190227T215621Z" creationid="briac" creationdate="20170329T130558Z">
+        <seg>other</seg>
       </tuv>
     </tu>
     <tu>
@@ -62122,8 +62122,8 @@ de créer son dossier de configuration.</seg>
       <tuv lang="EN">
         <seg>{% for platform in site.data.downloads.latest.platforms %}</seg>
       </tuv>
-      <tuv lang="FR" changeid="briac" changedate="20170911T161408Z" creationid="briac" creationdate="20170911T161408Z">
-        <seg>{% for plateforme in site.data.downloads.latest.platforms %}</seg>
+      <tuv lang="FR" changeid="briac" changedate="20190227T215200Z" creationid="briac" creationdate="20170911T161408Z">
+        <seg>{% for platform in site.data.downloads.latest.platforms %}</seg>
       </tuv>
     </tu>
     <tu>
