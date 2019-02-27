@@ -62130,8 +62130,8 @@ de créer son dossier de configuration.</seg>
       <tuv lang="EN">
         <seg>{% for platform in site.data.downloads.standard.platforms %}</seg>
       </tuv>
-      <tuv lang="FR" changeid="briac" changedate="20170911T161353Z" creationid="briac" creationdate="20170911T161353Z">
-        <seg>{% for plateforme in site.data.downloads.standard.platforms %}</seg>
+      <tuv lang="FR" changeid="briac" changedate="20190227T215150Z" creationid="briac" creationdate="20170911T161353Z">
+        <seg>{% for platform in site.data.downloads.standard.platforms %}</seg>
       </tuv>
     </tu>
     <tu>
