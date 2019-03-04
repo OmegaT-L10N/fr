@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10526:10541" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -14935,6 +14935,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20180419T150205Z" creationid="Didier" creationdate="20180419T150205Z">
         <seg>Copyright © 2000-2018 Keith Godfrey, Maxym Mykhalchuk et d'autres personnes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copyright © 2000-2019 Keith Godfrey, Maxym Mykhalchuk and others</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Didier" changedate="20190304T132205Z" creationid="Didier" creationdate="20190304T132205Z">
+        <seg>Copyright © 2000-2019 Keith Godfrey, Maxym Mykhalchuk et d'autres personnes</seg>
       </tuv>
     </tu>
     <tu>
