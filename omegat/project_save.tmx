@@ -8598,6 +8598,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;program&gt;  Copyright (C) &lt;year&gt;  &lt;name of author&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="suzume" changedate="20190305T142645Z" creationid="suzume" creationdate="20190305T142645Z">
+        <seg>[logiciel] Copyright (C) [année] [nom de l'auteur]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;r0&gt;Note:&lt;/r0&gt; On an Apple Mac, use the &lt;k1&gt;Command&lt;/k1&gt; key instead of the &lt;k2&gt;Control&lt;/k2&gt; key.</seg>
       </tuv>
       <tuv lang="FR" changeid="brigitte" changedate="20130626T075036Z">
@@ -20547,6 +20555,15 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For more information on this, and how to apply and follow the GNU GPL, see
+&lt;http://www.gnu.org/licenses/&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="suzume" changedate="20190305T142853Z" creationid="suzume" creationdate="20190305T142853Z">
+        <seg>Pour en savoir plus, et commprendre comment appliquer et suivre la Licence Publique Générale GNU, voir &lt;http://www.gnu.org/licenses/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For most users, these are not of interest.</seg>
       </tuv>
       <tuv lang="FR" changeid="briac" changedate="20170403T095647Z" creationid="briac" creationdate="20170331T130217Z">
@@ -23130,6 +23147,14 @@ tous les paramètres reprendront leur valeur par défaut,
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If not, see &lt;http://www.gnu.org/licenses/&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="suzume" changedate="20190305T142613Z" creationid="suzume" creationdate="20190305T142613Z">
+        <seg>Si ce n’est pas le cas, consultez : &lt;http://www.gnu.org/licenses/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If not, see http://www.gnu.org/licenses/.</seg>
       </tuv>
       <tuv lang="FR" changeid="jchelary" changedate="20130526T141732Z">
@@ -23377,6 +23402,15 @@ countries not thus excluded.</seg>
       </tuv>
       <tuv lang="FR" changeid="jchelary" changedate="20130526T135526Z">
         <seg>Si l’emplacement pour copier le code objet est un serveur réseau, la Source Correspondante peut être sur un serveur différent (administré par vous ou par un tiers) qui permet des conditions équivalentes de copie, pourvu que vous mainteniez des indications claires à proximité du code objet indiquant où trouver la Source Correspondante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the program does terminal interaction, make it output a short
+notice like this when it starts in an interactive mode:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="suzume" changedate="20190305T142622Z" creationid="suzume" creationdate="20190305T142622Z">
+        <seg>Si le programme produit une interaction sur un terminal, faites-lui afficher une courte notice comme celle-ci lors de son démarrage en mode interactif :</seg>
       </tuv>
     </tu>
     <tu>
@@ -31943,6 +31977,15 @@ mouse-clicks or menu items--whatever suits your program.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160322T165907Z" creationid="Didier" creationdate="20160322T165907Z">
         <seg>Comme il faut bien sûr qu'il soit compatible avec les deux langues impliquées, Unicode est recommandé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Of course, your program's commands
+might be different; for a GUI interface, you would use an "about box".</seg>
+      </tuv>
+      <tuv lang="FR" changeid="suzume" changedate="20190305T142741Z" creationid="suzume" creationdate="20190305T142741Z">
+        <seg>Bien sûr, les commandes de votre programme pourraient être différentes ; pour une interface graphique, vous pourriez utiliser une boîte « À propos. »</seg>
       </tuv>
     </tu>
     <tu>
@@ -43325,6 +43368,15 @@ address new problems or concerns.</seg>
     <tu>
       <tuv lang="EN">
         <seg>The GNU General Public License does not permit incorporating your program
+into proprietary programs.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="suzume" changedate="20190305T142906Z" creationid="suzume" creationdate="20190305T142906Z">
+        <seg>La Licence Publique Générale GNU n'autorise pas l'incorporation de votre programme dans des programmes propriétaires.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The GNU General Public License does not permit incorporating your program
 into proprietary programs. If your program is a subroutine library, you
 may consider it more useful to permit linking proprietary applications with
 the library. If this is what you want to do, use the GNU Lesser General
@@ -48144,6 +48196,14 @@ this version will not interfere with it.</seg>
       </tuv>
       <tuv lang="FR" changeid="briglegrand" changedate="20110113T203018Z">
         <seg>Ce plan détaille l'avancement du travail de localisation : il répertorie les tâches en cours de traduction ainsi que les travaux déjà achevés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This program comes with ABSOLUTELY NO WARRANTY; for details type `show w'.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="suzume" changedate="20190305T142702Z" creationid="suzume" creationdate="20190305T142702Z">
+        <seg>Ce logiciel n'est accompagné d'ABSOLUMENT AUCUNE GARANTIE ; pour plus de détails tapez 'show w'.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54671,6 +54731,15 @@ source code.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130527T132828Z">
         <seg>Il est important d'ajouter les copies des fichiers, les parties du journal, les captures d'écran, et tout ce qui pourrait aider les développeurs à localiser et à corriger votre bogue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You should also get your employer (if you work as a programmer) or school,
+if any, to sign a "copyright disclaimer" for the program, if necessary.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="suzume" changedate="20190305T142807Z" creationid="suzume" creationdate="20190305T142807Z">
+        <seg>Vous devriez aussi obtenir de votre employeur (si vous travaillez en tant que développeur) ou de votre école, si c'est le cas, qu'il (ou elle) signe une 'renonciation aux droits d'auteur' concernant le programme, si nécessaire.</seg>
       </tuv>
     </tu>
     <tu>
