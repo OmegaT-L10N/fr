@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10526:10541" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_84daa404e" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5632,8 +5632,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>&lt;http://fsf.org/&gt;</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20170825T091638Z" creationid="Didier" creationdate="20170825T091638Z">
-        <seg>[correspondance]http://projectlocker.com/</seg>
+      <tuv lang="FR" changeid="suzume" changedate="20190305T141611Z" creationid="Didier" creationdate="20170825T091638Z">
+        <seg>&lt;http://fsf.org/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9390,6 +9390,14 @@ or that patent license was granted, prior to 28 March 2007.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20151111T093124Z" creationid="Didier" creationdate="20151111T093124Z">
         <seg>Aaron Madlon-Kay (responsable de l'intégration)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Aaron Madlon-Kay is the OmegaT project manager.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="suzume" changedate="20190305T141430Z" creationid="suzume" creationdate="20190305T141430Z">
+        <seg>Aaron Madlon-Kay est le responsable du projet OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43310,8 +43318,8 @@ Public License instead of this License. But first, please read
         <seg>The GNU General Public License is a free, copyleft license for
 software and other kinds of works.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20170828T133910Z" creationid="Didier" creationdate="20170828T133910Z">
-        <seg>[correspondance]La GNU General Public License est une licence libre et copyleft destinée aux logiciels et autre type de créations.</seg>
+      <tuv lang="FR" changeid="suzume" changedate="20190305T141546Z" creationid="Didier" creationdate="20170828T133910Z">
+        <seg>La GNU General Public License est une licence libre et copyleft destinée aux logiciels et autre type de créations.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44882,9 +44890,9 @@ dans /lib/licenses/Licenses.txt.</seg>
         <seg>The licenses for most software and other practical works are designed
 to take away your freedom to share and change the works.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20180328T144926Z" creationid="Didier" creationdate="20180328T144926Z">
-        <seg>lThe licenses for most software and other practical works are designed
-to take away your freedom to share and change the works.</seg>
+      <tuv lang="FR" changeid="suzume" changedate="20190305T141733Z" creationid="Didier" creationdate="20180328T144926Z">
+        <seg>Les licences de la plupart des logiciels et autres œuvres à usage pratique 
+sont conçues pour vous enlever toute liberté de les partager et de les modifier.</seg>
       </tuv>
     </tu>
     <tu>
