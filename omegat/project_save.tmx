@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_84daa404e" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_5_10568:10578M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8658,6 +8658,14 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
       <tuv lang="FR" changeid="briac" changedate="20170911T161438Z" creationid="briac" creationdate="20170911T161438Z">
         <seg>&lt;s0&gt;Note à l'attention des utilisateurs de Mac OS X&lt;/s0&gt; : le JRE étant installé par défaut sur Mac OS X, la version correspondante d'OmegaT ne comporte pas de JRE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; is a free translation memory application that works on Windows, macOS, Linux...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20190328T151421Z" creationid="briac" creationdate="20190328T151421Z">
+        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; est un logiciel libre de TAO conçu pour des traducteurs professionnels, </seg>
       </tuv>
     </tu>
     <tu>
@@ -26548,8 +26556,8 @@ exécutez simplement le programme d'installation.</seg>
       <tuv lang="EN">
         <seg>It is a tool intended for professional translators.</seg>
       </tuv>
-      <tuv lang="FR">
-        <seg>c'est un outil conçu pour des traducteurs professionnels.</seg>
+      <tuv lang="FR" changeid="briac" changedate="20190328T151525Z">
+        <seg>qui fonctionne sous Windows, MacOS ou Linux.</seg>
       </tuv>
     </tu>
     <tu>
