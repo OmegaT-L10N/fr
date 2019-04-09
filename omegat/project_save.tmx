@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_5_10568:10578M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_5_10578:10584M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -34923,6 +34923,14 @@ pour déterminer la source de l'erreur et faites une nouvelle tentative.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please contact the &lt;a0&gt;OmegaT Localization Co-ordinator&lt;/a0&gt; for details of what is involved in localizing/translating OmegaT.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20190409T195005Z" creationid="briac" creationdate="20190409T195005Z">
+        <seg>Veuillez contacter le &lt;a0&gt;coordinateur de la localisation d'OmegaT&lt;/a0&gt; pour connaître les détails concernant la traduction et la localisation d'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please contact the &lt;a0&gt;OmegaT project manager&lt;/a0&gt; regarding any point not covered above.</seg>
       </tuv>
       <tuv lang="FR" changeid="briac" changedate="20170918T110808Z" creationid="briac" creationdate="20170918T110756Z">
@@ -40510,6 +40518,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
       <tuv lang="FR">
         <seg>Ignorer le texte correspondant à une expression régulière</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Skipping previously loaded plugin from class '{0}'</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20190409T194812Z" creationid="briac" creationdate="20190409T194812Z">
+        <seg>Module d'extension à partir de la classe '{0}' déjà chargé, ignoré.</seg>
       </tuv>
     </tu>
     <tu>
