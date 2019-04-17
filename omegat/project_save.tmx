@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_5_10578:10584M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10636M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -20912,6 +20912,14 @@ authors of previous versions.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20140925T133033Z" creationid="Didier" creationdate="20140925T133033Z">
         <seg>De la mémoire auto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>From enforced memory</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20190417T221652Z" creationid="briac" creationdate="20190417T221652Z">
+        <seg>De la mémoire forcée</seg>
       </tuv>
     </tu>
     <tu>
