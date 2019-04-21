@@ -9428,8 +9428,8 @@ or that patent license was granted, prior to 28 March 2007.</seg>
       <tuv lang="EN">
         <seg>Abort: Exit with an error if tags invalid.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20160115T141413Z" creationid="Didier" creationdate="20160115T135126Z">
-        <seg>abort : quitter avec une erreur s'il y a des balises non valides.</seg>
+      <tuv lang="FR" changeid="suzume" changedate="20190421T020623Z" creationid="Didier" creationdate="20160115T135126Z">
+        <seg>abort : quitter avec une erreur s'il y a des balises non valides.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31088,8 +31088,8 @@ appropriate location such as the Applications folder.</seg>
 	--quiet
 		Reduce output to command line stdout.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20160212T145457Z" creationid="Didier" creationdate="20160212T145457Z">
-        <seg>Options non liées à l'interface utilisateur :
+      <tuv lang="FR" changeid="suzume" changedate="20190421T020248Z" creationid="Didier" creationdate="20160212T145457Z">
+        <seg>Options non liées à l'interface utilisateur :
 	--quiet
 		Diminue les sorties sur stdout de la ligne de commande.</seg>
       </tuv>
@@ -34056,10 +34056,10 @@ happen should you file a bug report.</seg>
 	team
 		Team project tool.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20160718T150600Z" creationid="Didier" creationdate="20160718T150600Z">
-        <seg>Options :
-	Aucune : lancer l'interface utilisateur
-	Chemin du projet uniquement : lancer l'interface utilisateur et charger
+      <tuv lang="FR" changeid="suzume" changedate="20190421T020222Z" creationid="Didier" creationdate="20160718T150600Z">
+        <seg>Options :
+	Aucune : lancer l'interface utilisateur
+	Chemin du projet uniquement : lancer l'interface utilisateur et charger
 	le projet en équipe spécifié
 		Outil de création de projet en équipe.</seg>
       </tuv>
@@ -51023,8 +51023,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>Usage: java -jar OmegaT.jar [&lt;options&gt;] [&lt;project path&gt;]</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20160115T133220Z" creationid="Didier" creationdate="20160115T133220Z">
-        <seg>Syntaxe : java -jar OmegaT.jar [&lt;options&gt;] [&lt;chemin du projet&gt;]</seg>
+      <tuv lang="FR" changeid="suzume" changedate="20190421T020202Z" creationid="Didier" creationdate="20160115T133220Z">
+        <seg>Syntaxe : java -jar OmegaT.jar [&lt;options&gt;] [&lt;chemin du projet&gt;]</seg>
       </tuv>
     </tu>
     <tu>
