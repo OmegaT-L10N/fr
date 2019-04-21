@@ -27501,8 +27501,8 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>Keyword searches match all the space-separated keywords regardless of their order.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20151111T095411Z" creationid="Didier" creationdate="20151111T095411Z">
-        <seg>Les recherches par mot clé correspondent à tous les mots clés séparés par des espaces, indépendamment de leur ordre.</seg>
+      <tuv lang="FR" changeid="suzume" changedate="20190421T022134Z" creationid="Didier" creationdate="20151111T095411Z">
+        <seg>Les recherches par mot clé correspondent à tous les mots-clés séparés par des espaces, indépendamment de leur ordre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36719,8 +36719,8 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
       <tuv lang="EN">
         <seg>Regular expression searches match Java regular expressions as documented in the user manual.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20151111T095452Z" creationid="Didier" creationdate="20151111T095452Z">
-        <seg>Les recherches par expressions régulières correspondent aux expressions régulières Java telles que documentées dans le manuel de l'utilisateur.</seg>
+      <tuv lang="FR" changeid="suzume" changedate="20190421T022140Z" creationid="Didier" creationdate="20151111T095452Z">
+        <seg>Les recherches par expressions régulières correspondent aux expressions régulières en Java telles que documentées dans le manuel de l'utilisateur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53064,9 +53064,9 @@ for which you have or can give appropriate copyright permission.</seg>
         <seg>Wildcards:
 Both exact and keyword searches support the wildcard characters * and ?.</seg>
       </tuv>
-      <tuv lang="FR" changeid="suzume" changedate="20190421T021512Z" creationid="Didier" creationdate="20151111T095619Z">
+      <tuv lang="FR" changeid="suzume" changedate="20190421T022201Z" creationid="Didier" creationdate="20151111T095619Z">
         <seg>Jokers :
-Les caractères joker « * » et « ? » peuvent être utilisés dans les recherches exactes et par mots clés.</seg>
+Les caractères jokers « * » et « ? » peuvent être utilisés dans les recherches exactes et par mots clés.</seg>
       </tuv>
     </tu>
     <tu>
