@@ -13070,8 +13070,8 @@ software--to make sure the software is free for all its users.</seg>
       <tuv lang="EN">
         <seg>Check &amp;all printf-variables (e.g., %s, %-s)</seg>
       </tuv>
-      <tuv lang="FR">
-        <seg>Vérifier &amp;toutes les variables printf (ex.: %s, %-s)</seg>
+      <tuv lang="FR" changeid="suzume" changedate="20190421T025045Z">
+        <seg>Vérifier &amp;toutes les variables printf (ex. : %s, %-s)</seg>
       </tuv>
     </tu>
     <tu>
@@ -24142,8 +24142,8 @@ OmegaT is to use Java Web Start.</seg>
       <tuv lang="EN">
         <seg>If you have already translated a large body of text, and then realize the target language code of the project does not match the spell checker's language code (you specified pt_BR as the language, but there are no pt_BR vocabularies, for instance) you can simply copy the two corresponding files and rename them (e.g. from &lt;e0&gt;pt_PT.aff&lt;/e0&gt; and &lt;e1&gt;pt_PT.dic&lt;/e1&gt; to &lt;e2&gt;pt_BR.aff&lt;/e2&gt; and &lt;e3&gt;pt_BR.dic&lt;/e3&gt;).</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20130528T100149Z">
-        <seg>Si après avoir déjà traduit une grande quantité de texte, vous vous apercevez que le code de langue de la langue cible de votre projet ne correspond pas à celui du vérificateur orthographique (vous avez pt_BR en langue cible, mais il n'existe aucun lexique pt_BR, par exemple), il suffit de copier les deux fichiers correspondant et de les renommer (ex : passez de &lt;e0&gt;pt_PT.aff&lt;/e0&gt; et &lt;e1&gt;pt_PT.dic&lt;/e1&gt; à &lt;e2&gt;pt._BR.aff&lt;/e2&gt; et &lt;e3&gt;pt_BR.dic&lt;/e3&gt;).</seg>
+      <tuv lang="FR" changeid="suzume" changedate="20190421T025120Z">
+        <seg>Si après avoir déjà traduit une grande quantité de texte, vous vous apercevez que le code de langue de la langue cible de votre projet ne correspond pas à celui du vérificateur orthographique (vous avez pt_BR en langue cible, mais il n'existe aucun lexique pt_BR, par exemple), il suffit de copier les deux fichiers correspondant et de les renommer (ex. : passez de &lt;e0&gt;pt_PT.aff&lt;/e0&gt; et &lt;e1&gt;pt_PT.dic&lt;/e1&gt; à &lt;e2&gt;pt._BR.aff&lt;/e2&gt; et &lt;e3&gt;pt_BR.dic&lt;/e3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -40670,8 +40670,8 @@ of the GPL, as needed to protect the freedom of users.</seg>
       <tuv lang="EN">
         <seg>Some of the file formats, specialized for translation work, for instance PO, allow the inclusion of comments.</seg>
       </tuv>
-      <tuv lang="FR" changeid="suzume" changedate="20190421T021512Z">
-        <seg>Certains formats de fichiers conçus spécialement pour le travail de traduction (ex : les fichiers PO) permettent l'ajout de commentaires.</seg>
+      <tuv lang="FR" changeid="suzume" changedate="20190421T025125Z">
+        <seg>Certains formats de fichiers conçus spécialement pour le travail de traduction (ex. : les fichiers PO) permettent l'ajout de commentaires.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45135,8 +45135,8 @@ freedom to share and change it.</seg>
       <tuv lang="EN">
         <seg>The location of the file must be within the &lt;f2&gt;/glossary&lt;/f2&gt; folder, but it can be in a deeper folder (e.g., &lt;f3&gt;glossary/sub/glossary.txt&lt;/f3&gt;).</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20141202T173730Z" creationid="Didier" creationdate="20141202T173730Z">
-        <seg>Le fichier doit se trouver à l'intérieur du dossier &lt;f2&gt;/glossary &lt;/f2&gt;, (glossaire)mais il peut être inséré dans un sous-dossier (ex : &lt;f3&gt;glossary/sub/glossary.txt&lt;/f3&gt;).</seg>
+      <tuv lang="FR" changeid="suzume" changedate="20190421T025113Z" creationid="Didier" creationdate="20141202T173730Z">
+        <seg>Le fichier doit se trouver à l'intérieur du dossier &lt;f2&gt;/glossary &lt;/f2&gt;, (glossaire)mais il peut être inséré dans un sous-dossier (ex. : &lt;f3&gt;glossary/sub/glossary.txt&lt;/f3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -51076,8 +51076,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>Use &amp;XML for standalone tags (e.g., &lt;i/&gt;)</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20101001T213436Z">
-        <seg>Utiliser &amp;XML pour les balises isolées (ex: &lt;i/&gt;)</seg>
+      <tuv lang="FR" changeid="suzume" changedate="20190421T025106Z">
+        <seg>Utiliser &amp;XML pour les balises isolées (ex. : &lt;i/&gt;)</seg>
       </tuv>
     </tu>
     <tu>
