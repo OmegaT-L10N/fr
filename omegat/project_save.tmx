@@ -5248,8 +5248,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Warning!&lt;/e0&gt; Should you change filter options whilst a project is open, you must reload the project in order for the changes to take effect.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130429T075658Z">
-        <seg>&lt;e0&gt;Attention !&lt;/e0&gt; Si vous changez les options de filtrage alors que le projet est ouvert, vous devrez fermer et redémarrer le projet pour que les modifications soient prises en compte.</seg>
+      <tuv lang="FR" changeid="suzume" changedate="20190421T021852Z">
+        <seg>&lt;e0&gt;Attention !&lt;/e0&gt; Si vous changez les options de filtrage alors que le projet est ouvert, vous devrez fermer et redémarrer le projet pour que les modifications soient prises en compte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11946,8 +11946,8 @@ FOR THE PROGRAM, TO THE EXTENT PERMITTED BY APPLICABLE LAW.</seg>
       <tuv lang="EN">
         <seg>Bad regular expression!</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20100120T171837Z">
-        <seg>Expression régulière incorrecte !</seg>
+      <tuv lang="FR" changeid="suzume" changedate="20190421T021852Z">
+        <seg>Expression régulière incorrecte !</seg>
       </tuv>
     </tu>
     <tu>
@@ -12766,8 +12766,8 @@ software--to make sure the software is free for all its users.</seg>
       <tuv lang="EN">
         <seg>Cannot access glossary folder!</seg>
       </tuv>
-      <tuv lang="FR">
-        <seg>Impossible d'accéder au dossier des glossaires !</seg>
+      <tuv lang="FR" changeid="suzume" changedate="20190421T021852Z">
+        <seg>Impossible d'accéder au dossier des glossaires !</seg>
       </tuv>
     </tu>
     <tu>
@@ -12790,8 +12790,8 @@ software--to make sure the software is free for all its users.</seg>
       <tuv lang="EN">
         <seg>Cannot load specified XML file!</seg>
       </tuv>
-      <tuv lang="FR">
-        <seg>Le fichier XML spécifié ne peut pas être chargé !</seg>
+      <tuv lang="FR" changeid="suzume" changedate="20190421T021852Z">
+        <seg>Le fichier XML spécifié ne peut pas être chargé !</seg>
       </tuv>
     </tu>
     <tu>
@@ -12918,8 +12918,8 @@ software--to make sure the software is free for all its users.</seg>
       <tuv lang="EN">
         <seg>Changed after:</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20140414T131036Z" creationid="Didier" creationdate="20140414T130141Z">
-        <seg>Modifié après le:</seg>
+      <tuv lang="FR" changeid="suzume" changedate="20190421T021954Z" creationid="Didier" creationdate="20140414T130141Z">
+        <seg>Modifié après le :</seg>
       </tuv>
     </tu>
     <tu>
@@ -14418,8 +14418,8 @@ kolekti -b C:\[...]\trunk\doc_src2 publish [-j JOB] -l fr,en C:\[...]\trunk\doc_
       <tuv lang="EN">
         <seg>Confused by false start of comment tag!</seg>
       </tuv>
-      <tuv lang="FR">
-        <seg>Confusion due à une balise de début de commentaire erronée !</seg>
+      <tuv lang="FR" changeid="suzume" changedate="20190421T021852Z">
+        <seg>Confusion due à une balise de début de commentaire erronée !</seg>
       </tuv>
     </tu>
     <tu>
@@ -15050,8 +15050,8 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       <tuv lang="EN">
         <seg>Could not initialize OS look and feel!</seg>
       </tuv>
-      <tuv lang="FR">
-        <seg>L'apparence spécifique au système d'exploitation n'a pas pu être initialisée !</seg>
+      <tuv lang="FR" changeid="suzume" changedate="20190421T021852Z">
+        <seg>L'apparence spécifique au système d'exploitation n'a pas pu être initialisée !</seg>
       </tuv>
     </tu>
     <tu>
@@ -16524,8 +16524,8 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       <tuv lang="EN">
         <seg>Dictionary files folder entered does not exist!</seg>
       </tuv>
-      <tuv lang="FR">
-        <seg>Le dossier spécifié pour les fichiers dictionnaire n'existe pas !</seg>
+      <tuv lang="FR" changeid="suzume" changedate="20190421T021852Z">
+        <seg>Le dossier spécifié pour les fichiers dictionnaire n'existe pas !</seg>
       </tuv>
     </tu>
     <tu>
@@ -18396,8 +18396,8 @@ by the Free Software Foundation.</seg>
       <tuv lang="EN">
         <seg>End of stream encountered without finding close block!</seg>
       </tuv>
-      <tuv lang="FR">
-        <seg>Pas de bloc de fin en clôture de fichier !</seg>
+      <tuv lang="FR" changeid="suzume" changedate="20190421T021852Z">
+        <seg>Pas de bloc de fin en clôture de fichier !</seg>
       </tuv>
     </tu>
     <tu>
@@ -18628,8 +18628,8 @@ by the Free Software Foundation.</seg>
       <tuv lang="EN">
         <seg>Error creating project!</seg>
       </tuv>
-      <tuv lang="FR">
-        <seg>Erreur en créant le projet !</seg>
+      <tuv lang="FR" changeid="suzume" changedate="20190421T021852Z">
+        <seg>Erreur en créant le projet !</seg>
       </tuv>
     </tu>
     <tu>
@@ -18700,8 +18700,8 @@ by the Free Software Foundation.</seg>
       <tuv lang="EN">
         <seg>Error monitoring external command!</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20130125T163351Z">
-        <seg>Erreur de surveillance de la commande externe !</seg>
+      <tuv lang="FR" changeid="suzume" changedate="20190421T021852Z">
+        <seg>Erreur de surveillance de la commande externe !</seg>
       </tuv>
     </tu>
     <tu>
@@ -18732,8 +18732,8 @@ by the Free Software Foundation.</seg>
       <tuv lang="EN">
         <seg>Error saving project file!</seg>
       </tuv>
-      <tuv lang="FR">
-        <seg>Erreur en sauvegardant le projet !</seg>
+      <tuv lang="FR" changeid="suzume" changedate="20190421T021852Z">
+        <seg>Erreur en sauvegardant le projet !</seg>
       </tuv>
     </tu>
     <tu>
@@ -18788,8 +18788,8 @@ by the Free Software Foundation.</seg>
       <tuv lang="EN">
         <seg>Error while trying to edit the project!</seg>
       </tuv>
-      <tuv lang="FR">
-        <seg>Erreur en essayant de modifier le projet !</seg>
+      <tuv lang="FR" changeid="suzume" changedate="20190421T021852Z">
+        <seg>Erreur en essayant de modifier le projet !</seg>
       </tuv>
     </tu>
     <tu>
@@ -18828,24 +18828,24 @@ by the Free Software Foundation.</seg>
       <tuv lang="EN">
         <seg>Escaped binary char contains malformed data ({0})!</seg>
       </tuv>
-      <tuv lang="FR">
-        <seg>Caractère binaire contenant des données non conformes ({0}) !</seg>
+      <tuv lang="FR" changeid="suzume" changedate="20190421T021852Z">
+        <seg>Caractère binaire contenant des données non conformes ({0}) !</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Escaped character never terminated!</seg>
       </tuv>
-      <tuv lang="FR">
-        <seg>Caractère d'échappement non fermé !</seg>
+      <tuv lang="FR" changeid="suzume" changedate="20190421T021852Z">
+        <seg>Caractère d'échappement non fermé !</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Escaped decimal char contains malformed data ({0})!</seg>
       </tuv>
-      <tuv lang="FR">
-        <seg>Caractère décimal contenant des données non conformes ({0}) !</seg>
+      <tuv lang="FR" changeid="suzume" changedate="20190421T021852Z">
+        <seg>Caractère décimal contenant des données non conformes ({0}) !</seg>
       </tuv>
     </tu>
     <tu>
@@ -19470,32 +19470,32 @@ The FSF strongly urges you not to use this translation as the official distribu-
       <tuv lang="EN">
         <seg>Failed to commit source files!</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20171016T153828Z" creationid="Didier" creationdate="20171016T153828Z">
-        <seg>Échec d'envoi des fichiers source !</seg>
+      <tuv lang="FR" changeid="suzume" changedate="20190421T021852Z" creationid="Didier" creationdate="20171016T153828Z">
+        <seg>Échec d'envoi des fichiers source !</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Failed to commit target files!</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20171016T153835Z" creationid="Didier" creationdate="20171016T153835Z">
-        <seg>Échec d'envoi des fichiers cible !</seg>
+      <tuv lang="FR" changeid="suzume" changedate="20190421T021852Z" creationid="Didier" creationdate="20171016T153835Z">
+        <seg>Échec d'envoi des fichiers cible !</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Failed to compile project files!</seg>
       </tuv>
-      <tuv lang="FR">
-        <seg>Les fichiers du projet n'ont pas pu être compilés !</seg>
+      <tuv lang="FR" changeid="suzume" changedate="20190421T021852Z">
+        <seg>Les fichiers du projet n'ont pas pu être compilés !</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Failed to create project!</seg>
       </tuv>
-      <tuv lang="FR">
-        <seg>Impossible de créer le projet !</seg>
+      <tuv lang="FR" changeid="suzume" changedate="20190421T021852Z">
+        <seg>Impossible de créer le projet !</seg>
       </tuv>
     </tu>
     <tu>
@@ -19510,16 +19510,16 @@ The FSF strongly urges you not to use this translation as the official distribu-
       <tuv lang="EN">
         <seg>Failed to load specified project!</seg>
       </tuv>
-      <tuv lang="FR">
-        <seg>Le projet n'a pas pu être chargé !</seg>
+      <tuv lang="FR" changeid="suzume" changedate="20190421T021852Z">
+        <seg>Le projet n'a pas pu être chargé !</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Failed to load translation memory {0} for project!</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20110924T124036Z">
-        <seg>La mémoire de traduction {0} n'a pas pu être chargée dans le projet !</seg>
+      <tuv lang="FR" changeid="suzume" changedate="20190421T021850Z">
+        <seg>La mémoire de traduction {0} n'a pas pu être chargée dans le projet !</seg>
       </tuv>
     </tu>
     <tu>
@@ -19758,8 +19758,8 @@ The FSF strongly urges you not to use this translation as the official distribu-
       <tuv lang="EN">
         <seg>File {0} does not exist!</seg>
       </tuv>
-      <tuv lang="FR">
-        <seg>Le fichier {0} n'existe pas !</seg>
+      <tuv lang="FR" changeid="suzume" changedate="20190421T021852Z">
+        <seg>Le fichier {0} n'existe pas !</seg>
       </tuv>
     </tu>
     <tu>
@@ -20023,8 +20023,8 @@ patents.</seg>
       <tuv lang="EN">
         <seg>Floating '?' character not tied to '&gt;'!</seg>
       </tuv>
-      <tuv lang="FR">
-        <seg>Caractère « ? » flottant non lié à « &gt; » !</seg>
+      <tuv lang="FR" changeid="suzume" changedate="20190421T021852Z">
+        <seg>Caractère « ? » flottant non lié à « &gt; » !</seg>
       </tuv>
     </tu>
     <tu>
@@ -21385,8 +21385,8 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       <tuv lang="EN">
         <seg>Glossary files folder entered does not exist!</seg>
       </tuv>
-      <tuv lang="FR">
-        <seg>Le dossier spécifié pour les fichiers glossaire n'existe pas !</seg>
+      <tuv lang="FR" changeid="suzume" changedate="20190421T021852Z">
+        <seg>Le dossier spécifié pour les fichiers glossaire n'existe pas !</seg>
       </tuv>
     </tu>
     <tu>
@@ -21689,8 +21689,8 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       <tuv lang="EN">
         <seg>HHC file too big!</seg>
       </tuv>
-      <tuv lang="FR">
-        <seg>Fichier HHC trop gros !</seg>
+      <tuv lang="FR" changeid="suzume" changedate="20190421T021852Z">
+        <seg>Fichier HHC trop gros !</seg>
       </tuv>
     </tu>
     <tu>
@@ -27413,8 +27413,8 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>Keep up your good work!</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130411T074324Z">
-        <seg>Continuez votre excellent travail !</seg>
+      <tuv lang="FR" changeid="suzume" changedate="20190421T021852Z">
+        <seg>Continuez votre excellent travail !</seg>
       </tuv>
     </tu>
     <tu>
@@ -28202,8 +28202,8 @@ Exécutez OmegaT de la façon suivante.</seg>
       <tuv lang="EN">
         <seg>Learn to use OmegaT in 5 minutes!</seg>
       </tuv>
-      <tuv lang="FR" changeid="brigitte" changedate="20130626T072505Z">
-        <seg>Apprendre à utiliser OmegaT en cinq minutes !</seg>
+      <tuv lang="FR" changeid="suzume" changedate="20190421T021852Z">
+        <seg>Apprendre à utiliser OmegaT en cinq minutes !</seg>
       </tuv>
     </tu>
     <tu>
@@ -31270,8 +31270,8 @@ Diminue les sorties sur stdout de la ligne de commande.</seg>
       <tuv lang="EN">
         <seg>Not a valid XML file!</seg>
       </tuv>
-      <tuv lang="FR">
-        <seg>Fichier XML non valide !</seg>
+      <tuv lang="FR" changeid="suzume" changedate="20190421T021852Z">
+        <seg>Fichier XML non valide !</seg>
       </tuv>
     </tu>
     <tu>
@@ -32061,8 +32061,8 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       <tuv lang="EN">
         <seg>Of interest for advanced users only!</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130503T133936Z">
-        <seg>N'est intéressant que pour les utilisateurs confirmés !</seg>
+      <tuv lang="FR" changeid="suzume" changedate="20190421T021852Z">
+        <seg>N'est intéressant que pour les utilisateurs confirmés !</seg>
       </tuv>
     </tu>
     <tu>
@@ -34539,8 +34539,8 @@ of promoting the sharing and reuse of software generally.</seg>
       <tuv lang="EN">
         <seg>Parse error encountered reading preferences file!</seg>
       </tuv>
-      <tuv lang="FR">
-        <seg>Erreur lors de l'analyse du fichier des préférences !</seg>
+      <tuv lang="FR" changeid="suzume" changedate="20190421T021852Z">
+        <seg>Erreur lors de l'analyse du fichier des préférences !</seg>
       </tuv>
     </tu>
     <tu>
@@ -35361,8 +35361,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Preferences system save operation failed!</seg>
       </tuv>
-      <tuv lang="FR">
-        <seg>Impossible d'enregistrer les préférences système !</seg>
+      <tuv lang="FR" changeid="suzume" changedate="20190421T021852Z">
+        <seg>Impossible d'enregistrer les préférences système !</seg>
       </tuv>
     </tu>
     <tu>
@@ -35663,8 +35663,8 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
       <tuv lang="EN">
         <seg>Problem encountered loading project file!</seg>
       </tuv>
-      <tuv lang="FR">
-        <seg>Problème lors du chargement du fichier projet !</seg>
+      <tuv lang="FR" changeid="suzume" changedate="20190421T021852Z">
+        <seg>Problème lors du chargement du fichier projet !</seg>
       </tuv>
     </tu>
     <tu>
@@ -36399,8 +36399,8 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
       <tuv lang="EN">
         <seg>Rather than beep&lt;p&gt;Or a rude error message&lt;p&gt;These words: 'Page not found'</seg>
       </tuv>
-      <tuv lang="FR">
-        <seg>Sans un bruit&lt;p&gt;ces mots: « pas de page »...</seg>
+      <tuv lang="FR" changeid="suzume" changedate="20190421T021936Z">
+        <seg>Sans un bruit&lt;p&gt;ces mots : « pas de page »...</seg>
       </tuv>
     </tu>
     <tu>
@@ -38813,8 +38813,8 @@ La recherche port par défaut sur le projet, et peut porter sur tout fichier sit
       <tuv lang="EN">
         <seg>Search thread died unexpectedly!</seg>
       </tuv>
-      <tuv lang="FR">
-        <seg>La recherche a été avortée !</seg>
+      <tuv lang="FR" changeid="suzume" changedate="20190421T021852Z">
+        <seg>La recherche a été avortée !</seg>
       </tuv>
     </tu>
     <tu>
@@ -41001,8 +41001,8 @@ of the GPL, as needed to protect the freedom of users.</seg>
       <tuv lang="EN">
         <seg>Source files folder entered does not exist!</seg>
       </tuv>
-      <tuv lang="FR">
-        <seg>Le dossier spécifié pour les fichiers source n'existe pas !</seg>
+      <tuv lang="FR" changeid="suzume" changedate="20190421T021852Z">
+        <seg>Le dossier spécifié pour les fichiers source n'existe pas !</seg>
       </tuv>
     </tu>
     <tu>
@@ -43001,8 +43001,8 @@ Les remplacements portent sur les segments cible du projet, qu'ils soient déjà
       <tuv lang="EN">
         <seg>Thank you all!</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130502T081521Z">
-        <seg>Merci à tous !</seg>
+      <tuv lang="FR" changeid="suzume" changedate="20190421T021852Z">
+        <seg>Merci à tous !</seg>
       </tuv>
     </tu>
     <tu>
@@ -43956,8 +43956,8 @@ shown below.</seg>
       <tuv lang="EN">
         <seg>The author of the Chapter &lt;e1&gt;Learn to use OmegaT in 5 minutes!&lt;/e1&gt; is Samuel Murray, Copyright ©2005-2012.</seg>
       </tuv>
-      <tuv lang="FR" changeid="brigitte" changedate="20130715T193124Z">
-        <seg>L'auteur du chapitre&lt;e1&gt;Apprendre à utiliser OmegaT en cinq minutes !&lt;/e1&gt; est Samuel Murray, Copyright ©2005-2012.</seg>
+      <tuv lang="FR" changeid="suzume" changedate="20190421T021852Z">
+        <seg>L'auteur du chapitre&lt;e1&gt;Apprendre à utiliser OmegaT en cinq minutes !&lt;/e1&gt; est Samuel Murray, Copyright ©2005-2012.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46214,8 +46214,8 @@ making modifications to it.</seg>
       <tuv lang="EN">
         <seg>The source file language entered is invalid!</seg>
       </tuv>
-      <tuv lang="FR">
-        <seg>Le code pour la langue source n'est pas valide !</seg>
+      <tuv lang="FR" changeid="suzume" changedate="20190421T021852Z">
+        <seg>Le code pour la langue source n'est pas valide !</seg>
       </tuv>
     </tu>
     <tu>
@@ -46521,8 +46521,8 @@ L'idée était que l'utilisation de certaines touches en dehors du segment coura
       <tuv lang="EN">
         <seg>The translated file language entered is invalid!</seg>
       </tuv>
-      <tuv lang="FR">
-        <seg>Le code pour la langue cible n'est pas valide !</seg>
+      <tuv lang="FR" changeid="suzume" changedate="20190421T021852Z">
+        <seg>Le code pour la langue cible n'est pas valide !</seg>
       </tuv>
     </tu>
     <tu>
@@ -47964,8 +47964,8 @@ under the terms of this General Public License.</seg>
       <tuv lang="EN">
         <seg>This is required if you would like to enter any of the meta characters !$()*+.&lt;&gt;?[\]^{|} to match as themselves.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20130528T083248Z">
-        <seg>C'est nécessaire si vous souhaitez entrer un des métacaractères suivants !$()*+.&lt;&gt;?[\]^{|} de sorte qu'il ne corresponde qu'à lui-même.</seg>
+      <tuv lang="FR" changeid="suzume" changedate="20190421T021852Z">
+        <seg>C'est nécessaire si vous souhaitez entrer un des métacaractères suivants !$()*+.&lt;&gt;?[\]^{|} de sorte qu'il ne corresponde qu'à lui-même.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49606,8 +49606,8 @@ install.sh.</seg>
       <tuv lang="EN">
         <seg>Too big HTML file!</seg>
       </tuv>
-      <tuv lang="FR">
-        <seg>Fichier HTML trop gros !</seg>
+      <tuv lang="FR" changeid="suzume" changedate="20190421T021852Z">
+        <seg>Fichier HTML trop gros !</seg>
       </tuv>
     </tu>
     <tu>
@@ -49936,8 +49936,8 @@ install.sh.</seg>
       <tuv lang="EN">
         <seg>Translated files folder entered does not exist!</seg>
       </tuv>
-      <tuv lang="FR">
-        <seg>Le dossier spécifié pour les fichiers cible n'existe pas !</seg>
+      <tuv lang="FR" changeid="suzume" changedate="20190421T021852Z">
+        <seg>Le dossier spécifié pour les fichiers cible n'existe pas !</seg>
       </tuv>
     </tu>
     <tu>
@@ -50088,8 +50088,8 @@ install.sh.</seg>
       <tuv lang="EN">
         <seg>Translation memory files folder entered does not exist!</seg>
       </tuv>
-      <tuv lang="FR">
-        <seg>Le dossier spécifié pour les fichiers mémoire de traduction n'existe pas !</seg>
+      <tuv lang="FR" changeid="suzume" changedate="20190421T021852Z">
+        <seg>Le dossier spécifié pour les fichiers mémoire de traduction n'existe pas !</seg>
       </tuv>
     </tu>
     <tu>
@@ -50458,32 +50458,32 @@ Les recherches exactes correspondent à l'ensemble de la chaîne recherchée.</s
       <tuv lang="EN">
         <seg>Unable to build new TMX file!</seg>
       </tuv>
-      <tuv lang="FR">
-        <seg>Impossible de créer un nouveau fichier TMX !</seg>
+      <tuv lang="FR" changeid="suzume" changedate="20190421T021852Z">
+        <seg>Impossible de créer un nouveau fichier TMX !</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Unable to convert project!</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20160427T150257Z" creationid="Didier" creationdate="20160427T150257Z">
-        <seg>Impossible de convertir le projet !</seg>
+      <tuv lang="FR" changeid="suzume" changedate="20190421T021852Z" creationid="Didier" creationdate="20160427T150257Z">
+        <seg>Impossible de convertir le projet !</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Unable to download team project!</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20160427T150314Z" creationid="Didier" creationdate="20160427T150314Z">
-        <seg>Impossible de télécharger le projet en équipe !</seg>
+      <tuv lang="FR" changeid="suzume" changedate="20190421T021852Z" creationid="Didier" creationdate="20160427T150314Z">
+        <seg>Impossible de télécharger le projet en équipe !</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Unable to initialize read of XML file!</seg>
       </tuv>
-      <tuv lang="FR">
-        <seg>Impossible d'initialiser la lecture du fichier XML !</seg>
+      <tuv lang="FR" changeid="suzume" changedate="20190421T021852Z">
+        <seg>Impossible d'initialiser la lecture du fichier XML !</seg>
       </tuv>
     </tu>
     <tu>
@@ -50506,8 +50506,8 @@ Les recherches exactes correspondent à l'ensemble de la chaîne recherchée.</s
       <tuv lang="EN">
         <seg>Unable to read project file!</seg>
       </tuv>
-      <tuv lang="FR">
-        <seg>Impossible de lire le fichier projet !</seg>
+      <tuv lang="FR" changeid="suzume" changedate="20190421T021852Z">
+        <seg>Impossible de lire le fichier projet !</seg>
       </tuv>
     </tu>
     <tu>
@@ -50618,8 +50618,8 @@ Les recherches exactes correspondent à l'ensemble de la chaîne recherchée.</s
       <tuv lang="EN">
         <seg>Unexpected char {0} ({1})!</seg>
       </tuv>
-      <tuv lang="FR">
-        <seg>Caractère non conforme {0} ({1}) !</seg>
+      <tuv lang="FR" changeid="suzume" changedate="20190421T021852Z">
+        <seg>Caractère non conforme {0} ({1}) !</seg>
       </tuv>
     </tu>
     <tu>
@@ -50815,8 +50815,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>Unsupported XML version {0}!</seg>
       </tuv>
-      <tuv lang="FR">
-        <seg>Version XML non prise en charge {0} !</seg>
+      <tuv lang="FR" changeid="suzume" changedate="20190421T021852Z">
+        <seg>Version XML non prise en charge {0} !</seg>
       </tuv>
     </tu>
     <tu>
@@ -50831,8 +50831,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>Unsupported project file version ({0})!</seg>
       </tuv>
-      <tuv lang="FR">
-        <seg>Version de fichier projet non prise en charge ({0}) !</seg>
+      <tuv lang="FR" changeid="suzume" changedate="20190421T021852Z">
+        <seg>Version de fichier projet non prise en charge ({0}) !</seg>
       </tuv>
     </tu>
     <tu>
@@ -52294,16 +52294,16 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>Warning!</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20131029T133204Z" creationid="Didier" creationdate="20131029T133204Z">
-        <seg>Avertissement !</seg>
+      <tuv lang="FR" changeid="suzume" changedate="20190421T021852Z" creationid="Didier" creationdate="20131029T133204Z">
+        <seg>Avertissement !</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Warning: Changing tag order may break the translated document!</seg>
       </tuv>
-      <tuv lang="FR" changeid="suzume" changedate="20190421T021512Z">
-        <seg>Attention : modifier l'ordre des balises peut endommager le document traduit !</seg>
+      <tuv lang="FR" changeid="suzume" changedate="20190421T021852Z">
+        <seg>Attention : modifier l'ordre des balises peut endommager le document traduit !</seg>
       </tuv>
     </tu>
     <tu>
@@ -53459,8 +53459,8 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       <tuv lang="EN">
         <seg>Writeable glossary file folder entered does not exist!</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20120314T102804Z">
-        <seg>Le dossier du fichier glossaire en écriture n'existe pas !</seg>
+      <tuv lang="FR" changeid="suzume" changedate="20190421T021852Z">
+        <seg>Le dossier du fichier glossaire en écriture n'existe pas !</seg>
       </tuv>
     </tu>
     <tu>
@@ -62384,24 +62384,24 @@ de créer son dossier de configuration.</seg>
       <tuv lang="EN">
         <seg>{% if platform.link != null %} &lt;a0&gt;Download&lt;/a0&gt;</seg>
       </tuv>
-      <tuv lang="FR" changeid="briac" changedate="20170911T161356Z" creationid="briac" creationdate="20170911T161356Z">
-        <seg>{% if platform.link != null %} &lt;a0&gt;Télécharger&lt;/a0&gt;</seg>
+      <tuv lang="FR" changeid="suzume" changedate="20190421T021852Z" creationid="briac" creationdate="20170911T161356Z">
+        <seg>{% if platform.link != null %} &lt;a0&gt;Télécharger&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>{% if platform.noInfo != true %}</seg>
       </tuv>
-      <tuv lang="FR" changeid="briac" changedate="20170911T161354Z" creationid="briac" creationdate="20170911T161354Z">
-        <seg>{% if platform.noInfo != true %}</seg>
+      <tuv lang="FR" changeid="suzume" changedate="20190421T021852Z" creationid="briac" creationdate="20170911T161354Z">
+        <seg>{% if platform.noInfo != true %}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>{% if site.lang != "en" %}</seg>
       </tuv>
-      <tuv lang="FR" changeid="briac" changedate="20170406T102959Z" creationid="briac" creationdate="20170406T102959Z">
-        <seg>{% if site.lang != "en" %}</seg>
+      <tuv lang="FR" changeid="suzume" changedate="20190421T021852Z" creationid="briac" creationdate="20170406T102959Z">
+        <seg>{% if site.lang != "en" %}</seg>
       </tuv>
     </tu>
     <tu>
@@ -62536,8 +62536,8 @@ de créer son dossier de configuration.</seg>
       <tuv lang="EN">
         <seg>{0}:	cleanup done!!</seg>
       </tuv>
-      <tuv lang="FR" changeid="suzume" changedate="20190421T021512Z" creationid="Didier" creationdate="20170921T082145Z">
-        <seg>{0} :	nettoyage effectué !!</seg>
+      <tuv lang="FR" changeid="suzume" changedate="20190421T021852Z" creationid="Didier" creationdate="20170921T082145Z">
+        <seg>{0} :	nettoyage effectué !!</seg>
       </tuv>
     </tu>
     <tu>
@@ -62869,8 +62869,8 @@ de créer son dossier de configuration.</seg>
       <tuv lang="EN">
         <seg>Error searching directory tree!</seg>
       </tuv>
-      <tuv lang="FR" changeid="brigitte" changedate="20130715T192221Z" creationid="brigitte" creationdate="20130715T192221Z">
-        <seg>Erreur dans la recherche des répertoires !</seg>
+      <tuv lang="FR" changeid="suzume" changedate="20190421T021852Z" creationid="brigitte" creationdate="20130715T192221Z">
+        <seg>Erreur dans la recherche des répertoires !</seg>
       </tuv>
     </tu>
     <tu>
