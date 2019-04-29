@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_cd3d1ee23" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.1_0_10677M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -35246,6 +35246,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Plugins&lt;/p0&gt; &lt;s1&gt;LanguageTool</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20190429T131320Z" creationid="briac" creationdate="20190429T131320Z">
+        <seg>Extensions&lt;/p0&gt; &lt;s1&gt;LanguageTool</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Poisson</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160718T152424Z" creationid="Didier" creationdate="20160718T152424Z">
@@ -36096,6 +36104,14 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20120420T211440Z">
         <seg>Le projet ne sera pas mis à jour.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project&lt;/p0&gt; &lt;s1&gt;Properties&lt;/s1&gt; &lt;s2&gt;Languages</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20190429T131312Z" creationid="briac" creationdate="20190429T131312Z">
+        <seg>Projet&lt;/p0&gt; &lt;s1&gt;Propriétés&lt;/s1&gt; &lt;s2&gt;Langues</seg>
       </tuv>
     </tu>
     <tu>
