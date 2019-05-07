@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.1_0_10677M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.1_0_10677:10680M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -38690,6 +38690,14 @@ La recherche port par défaut sur le projet, et peut porter sur tout fichier sit
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Search Found Mark</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20190507T073131Z" creationid="briac" creationdate="20190507T073131Z">
+        <seg>Texte recherché</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Search Project</seg>
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130421T233805Z">
@@ -38702,6 +38710,14 @@ La recherche port par défaut sur le projet, et peut porter sur tout fichier sit
       </tuv>
       <tuv lang="FR" changeid="laurieetclémentine" changedate="20130411T134157Z">
         <seg>Rechercher dans le projet...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search Replaced Mark</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20190507T073139Z" creationid="briac" creationdate="20190507T073139Z">
+        <seg>Texte remplacé</seg>
       </tuv>
     </tu>
     <tu>
