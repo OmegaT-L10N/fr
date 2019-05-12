@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.1_0_10677:10680M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.1_0_10690:10691M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11968,6 +11968,17 @@ FOR THE PROGRAM, TO THE EXTENT PERMITTED BY APPLICABLE LAW.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Bartender yells loud:
+Your page cannot be found, boy
+Buy another drink</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20190512T080138Z" creationid="briac" creationdate="20190512T080138Z">
+        <seg>Pas de page
+passez un tour...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bartender yells loud:&lt;p&gt;Your page cannot be found, boy&lt;p&gt;Buy another drink.</seg>
       </tuv>
       <tuv lang="FR">
@@ -18186,6 +18197,17 @@ by the Free Software Foundation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Emptiness of soul
+Forever aching blackness
+Your help page not found</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20190512T080202Z" creationid="briac" creationdate="20190512T080202Z">
+        <seg>Écran aussi vide que votre regard
+pas de page...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Emptiness of soul&lt;p&gt;Forever aching blackness&lt;p&gt;Your help page not found</seg>
       </tuv>
       <tuv lang="FR">
@@ -18574,6 +18596,17 @@ by the Free Software Foundation.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130708T094333Z">
         <seg>Des balises ont été modifiées</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ephemeral page
+I am the Blue Screen of Death
+No one hears your screams</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20190512T080209Z" creationid="briac" creationdate="20190512T080209Z">
+        <seg>Pas de page
+personne ne vous entend pleurer...</seg>
       </tuv>
     </tu>
     <tu>
@@ -19088,6 +19121,17 @@ The FSF strongly urges you not to use this translation as the official distribu-
       </tuv>
       <tuv lang="FR" changeid="suzume" changedate="20190421T021512Z">
         <seg>Erreur durant le chargement des règles de segmentation :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exciting help page
+Gossamer threads hold you back
+404 not found</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20190512T080126Z" creationid="briac" creationdate="20190512T080126Z">
+        <seg>Pas de page d'aide
+dommage...</seg>
       </tuv>
     </tu>
     <tu>
@@ -21939,6 +21983,17 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       </tuv>
       <tuv lang="FR" changeid="samsung" changedate="20130421T220114Z">
         <seg>Menu Aide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Help you are seeking
+From your path it is fleeing
+Its winter has come</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20190512T080222Z" creationid="briac" creationdate="20190512T080222Z">
+        <seg>L'aide que vous cherchez
+a disparu...</seg>
       </tuv>
     </tu>
     <tu>
@@ -25759,6 +25814,14 @@ patent against the party.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Insert Mode</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20190512T080039Z" creationid="briac" creationdate="20190512T080025Z">
+        <seg>Mode insertion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Insert Next Missing Tag</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130326T082158Z">
@@ -29394,6 +29457,14 @@ impose that choice.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mark &amp;Paragraph Delimitations</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20190512T080018Z" creationid="briac" creationdate="20190512T080018Z">
+        <seg>Marquer les délimitations de &amp;paragraphes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mark &amp;Paragraph delimitations</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20190226T091604Z" creationid="Didier" creationdate="20190226T091604Z">
@@ -30278,6 +30349,16 @@ impose that choice.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130429T075146Z">
         <seg>La plupart des utilisateurs trouveront les options de filtrage de fichiers par défaut suffisantes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mourning and sorrow
+404 not with us now
+Lost to paradise</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20190512T080218Z" creationid="briac" creationdate="20190512T080218Z">
+        <seg>Cette page a trouvé le chemin du paradis...</seg>
       </tuv>
     </tu>
     <tu>
@@ -34352,6 +34433,14 @@ of promoting the sharing and reuse of software generally.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Overwrite Mode</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20190512T080108Z" creationid="briac" creationdate="20190512T080032Z">
+        <seg>Mode remplacement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Overwriting is operating until the TMX is removed from /tm/enforce.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160323T092726Z" creationid="Didier" creationdate="20160323T092726Z">
@@ -34452,6 +34541,17 @@ of promoting the sharing and reuse of software generally.</seg>
       </tuv>
       <tuv lang="FR" changeid="briac" changedate="20170615T123805Z" creationid="briac" creationdate="20170615T123805Z">
         <seg>Aucun résultat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Page slips through fingers
+Pulse pounding hard and frantic
+Vanishing like mist</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20190512T080146Z" creationid="briac" creationdate="20190512T080146Z">
+        <seg>Page brumeuse
+mirage, pas de page...</seg>
       </tuv>
     </tu>
     <tu>
@@ -36416,6 +36516,17 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20101223T174927Z">
         <seg>Rashid Umarov</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Rather than beep
+Or a rude error message
+These words: 'Page not found'</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20190512T080214Z" creationid="briac" creationdate="20190512T080214Z">
+        <seg>Sans un bruit
+ces mots : « pas de page »...</seg>
       </tuv>
     </tu>
     <tu>
@@ -44947,6 +45058,17 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The help page you seek
+Lies beyond our perception
+But others await</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20190512T080157Z" creationid="briac" creationdate="20190512T080157Z">
+        <seg>La page que vous cherchez n'est pas là
+mais d'autres vous attendent...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The help page you seek&lt;p&gt;Lies beyond our perception&lt;p&gt;But others await</seg>
       </tuv>
       <tuv lang="FR">
@@ -47161,6 +47283,17 @@ distribute copies of the software, or if you modify it.</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130503T075815Z">
         <seg>Certaines responsabilités vous incombent en raison de ces limitations si vous distribuez des copies de ces logiciels, ou si vous les modifiez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These three are certain:
+Death, taxes, and page not found
+You, victim of one</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20190512T080151Z" creationid="briac" creationdate="20190512T080151Z">
+        <seg>Victime d'un sort
+pas de page...</seg>
       </tuv>
     </tu>
     <tu>
@@ -53144,6 +53277,17 @@ Les caractères jokers « * » et « ? » peuvent être utilisés dans les r
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130503T095205Z">
         <seg>Affichera une liste des segments contenant des erreurs de balises et d'éventuelles incohérences.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wind catches lily
+Scatt'ring petals to the wind:
+Your page is not found</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20190512T080132Z" creationid="briac" creationdate="20190512T080132Z">
+        <seg>Autant en emporte
+la page...</seg>
       </tuv>
     </tu>
     <tu>
