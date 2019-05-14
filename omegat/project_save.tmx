@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.1_0_10690:10691M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.0.0_0_10710:10712M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -15933,6 +15933,22 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cursor locked</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20190514T202955Z" creationid="briac" creationdate="20190514T202955Z">
+        <seg>Curseur verrouillé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cursor unlocked</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20190514T202957Z" creationid="briac" creationdate="20190514T202957Z">
+        <seg>Cursor unlocked</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Custom Co&amp;lours...</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20141020T140116Z" creationid="Didier" creationdate="20141020T135804Z">
@@ -22630,6 +22646,14 @@ POSSIBILITY OF SUCH DAMAGES.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>INS</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20190514T203002Z" creationid="briac" creationdate="20190514T203002Z">
+        <seg>INS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>IOException encountered:</seg>
       </tuv>
       <tuv lang="FR" changeid="suzume" changedate="20190421T021512Z">
@@ -27713,6 +27737,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LCK</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20190514T202959Z" creationid="briac" creationdate="20190514T202959Z">
+        <seg>LCK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LEARNED:</seg>
       </tuv>
       <tuv lang="FR" changeid="suzume" changedate="20190421T021512Z" creationid="Didier" creationdate="20140706T175219Z">
@@ -32092,6 +32124,14 @@ combination as such.</seg>
       </tuv>
       <tuv lang="FR" changeid="briac" changedate="20170329T075717Z" creationid="briac" creationdate="20170329T075717Z">
         <seg>OS X Non signé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OVR</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20190514T203000Z" creationid="briac" creationdate="20190514T203000Z">
+        <seg>OVR</seg>
       </tuv>
     </tu>
     <tu>
@@ -38885,6 +38925,14 @@ La recherche port par défaut sur le projet, et peut porter sur tout fichier sit
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160905T154846Z" creationid="Didier" creationdate="20160905T152410Z">
         <seg>Recherchez la combinaison de langue désirée - par exemple en suivant les &lt;u0&gt;&lt;i1/&gt;liens vers les dictionnaires donnés par le Wiki d'OmegaT&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search for the required language combination - for instance on the &lt;u0&gt;dictionary links given by the OmegaT Wiki&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20190514T203013Z" creationid="briac" creationdate="20190514T203013Z">
+        <seg>Recherchez la combinaison de langue désirée - par exemple en suivant les &lt;u0&gt;liens vers les dictionnaires donnés par le Wiki d'OmegaT&lt;/u0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50538,6 +50586,14 @@ Les recherches exactes correspondent à l'ensemble de la chaîne recherchée.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>UNL</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20190514T203000Z" creationid="briac" creationdate="20190514T203000Z">
+        <seg>UNL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>URL</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160427T163214Z" creationid="Didier" creationdate="20160427T163214Z">
@@ -58668,6 +58724,15 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="FR" changeid="JC Helary" changedate="20130505T104523Z">
         <seg>java -Duser.language=fr -jar &lt;a0&gt;OmegaT&lt;/a0&gt;.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>java -Duser.language=fr -jar OmegaT.jar</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briglegrand" changedate="20110112T205345Z">
+        <seg>java -Duser.language=fr -jar OmegaT.jar</seg>
       </tuv>
     </tu>
     <tu>
