@@ -4150,6 +4150,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a1&gt;OmegaT&lt;/a1&gt; automatically detects glossary files in this folder when a project is opened.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20190514T210532Z" creationid="briac" creationdate="20190514T210532Z">
+        <seg>&lt;a1&gt;OmegaT&lt;/a1&gt; automatically detects glossary files in this folder when a project is opened.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a1&gt;OmegaT&lt;/a1&gt; can detect and upgrade such tmx files on the fly to increase fuzzy matching quality and leverage your existing translation better, saving you the work of doing this manually.</seg>
       </tuv>
       <tuv lang="FR" changeid="jchelary" changedate="20130526T130204Z">
@@ -13267,6 +13275,14 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130527T133404Z">
         <seg>Vérifiez dans &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;&lt;i4/&gt;Ctrl&lt;/k3&gt; &lt;k5&gt;E&lt;/k5&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g6&gt;Propriétés&lt;/g6&gt; &lt;g7&gt;du projet&lt;/g7&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check in &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;E&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Project&lt;/g5&gt; &lt;g6&gt;Properties&lt;/g6&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20190514T210528Z" creationid="briac" creationdate="20190514T210528Z">
+        <seg>Enregistrement au comptoir &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;E&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Le projet&lt;/g5&gt; &lt;g6&gt;Propriétés&lt;/g6&gt; &lt;/m0&gt;.**</seg>
       </tuv>
     </tu>
     <tu>
@@ -49701,6 +49717,14 @@ script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20120411T091932Z">
         <seg>Pour utiliser ce script, ouvrez un fenêtre de terminal (console), passez dans le dossier contenant OmegaT.jar et le script linux-install.sh et exécuter le script avec ./linux-install.sh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To use an existing glossary, simply place it in the &lt;f0&gt;/glossary&lt;/f0&gt; folder after creating the project.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20190514T210531Z" creationid="briac" creationdate="20190514T210531Z">
+        <seg>Pour utiliser un glossaire existant, placez-le simplement dans le dossier &lt;f0&gt;/glossary&lt;/f0&gt; après avoir créé le projet.</seg>
       </tuv>
     </tu>
     <tu>
