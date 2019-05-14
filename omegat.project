@@ -49,6 +49,7 @@
             </repository>
             <repository type="http" url="https://github.com/omegat-org/omegat-website/">
                 <mapping local="source/website/yml/fr.yml" repository="raw/master/_i18n/en.yml"/>
+                    <excludes>**/howtos/**</excludes>
             </repository>            
         </repositories>
     </project>
