@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.0.0_0_10720M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.1_0_dev" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4152,8 +4152,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="EN">
         <seg>&lt;a1&gt;OmegaT&lt;/a1&gt; automatically detects glossary files in this folder when a project is opened.</seg>
       </tuv>
-      <tuv lang="FR" changeid="briac" changedate="20190514T210532Z" creationid="briac" creationdate="20190514T210532Z">
-        <seg>&lt;a1&gt;OmegaT&lt;/a1&gt; automatically detects glossary files in this folder when a project is opened.</seg>
+      <tuv lang="FR" changeid="briac" changedate="20190516T191259Z" creationid="briac" creationdate="20190514T210532Z">
+        <seg>&lt;a1&gt;OmegaT&lt;/a1&gt; détecte automatiquement les fichiers glossaire présents dans ce dossier lorsqu'un projet est ouvert.</seg>
       </tuv>
     </tu>
     <tu>
