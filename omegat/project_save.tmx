@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.0.0_0_10710:10712M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.0.0_0_10720M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6418,6 +6418,14 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
       <tuv lang="FR" changeid="pingouin" changedate="20130418T153330Z">
         <seg>&lt;l0&gt;&lt;project-dir&gt;&lt;/l0&gt; dit à &lt;a1&gt;OmegaT&lt;/a1&gt; où trouver le projet à traduire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;Regular expressions&lt;/l0&gt; are a powerful way to look for instances of a string.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20190516T185541Z" creationid="briac" creationdate="20190516T185541Z">
+        <seg>Les &lt;l0&gt;expressions régulières&lt;/l0&gt; sont un moyen efficace de rechercher les apparitions d'une chaîne de caractères.</seg>
       </tuv>
     </tu>
     <tu>
