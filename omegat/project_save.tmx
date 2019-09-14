@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.0_0_e0e1b4cc" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -16989,6 +16989,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Displays the entries as "&lt;source&gt; → &lt;target&gt;"</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20190914T212449Z" creationid="briac" creationdate="20190914T212449Z">
+        <seg>Affiche les entrées sous la forme « &lt;source&gt; → &lt;cible&gt; »</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Displays the entries as "&lt;target&gt; → &lt;source&gt;"</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20130913T165538Z" creationid="Didier" creationdate="20130913T165538Z">
@@ -25666,6 +25674,14 @@ patent against the party.</seg>
       </tuv>
       <tuv lang="FR" changeid="Didier" changedate="20160905T152734Z" creationid="Didier" creationdate="20160905T152734Z">
         <seg>Masque d'inclusion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Include matches from &amp;other languages</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20190914T212409Z" creationid="briac" creationdate="20190914T212409Z">
+        <seg>Inclure les c&amp;orrespondances d'autres langues</seg>
       </tuv>
     </tu>
     <tu>
@@ -34856,6 +34872,14 @@ mirage, pas de page...</seg>
       </tuv>
       <tuv lang="FR" changeid="Clementine" changedate="20130502T074432Z">
         <seg>Faites particulièrement attention aux paires de balises</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Penalty for matches in other languages:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="briac" changedate="20190914T212432Z" creationid="briac" creationdate="20190914T212432Z">
+        <seg>Pénalité pour les correspondances dans d'autres langues :</seg>
       </tuv>
     </tu>
     <tu>
