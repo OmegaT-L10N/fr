@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.0.0_0_c88f74594" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.0.0_0_c63a9b8d" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -26592,6 +26592,14 @@ exécutez simplement le programme d'installation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It can also be obtained using the git command:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20191002T113603Z" creationid="briac" creationdate="20191002T113603Z">
+        <seg>Elle peut également être obtenue via la commande git suivante :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It can also be obtained using the subversion command:</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
@@ -29757,6 +29765,14 @@ impose that choice.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20140725T163826Z" creationid="Didier" creationdate="20140725T163826Z">
         <seg>Masque</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Master</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20191002T113527Z" creationid="briac" creationdate="20191002T113527Z">
+        <seg>Master</seg>
       </tuv>
     </tu>
     <tu>
@@ -43458,6 +43474,22 @@ produce the work, or an object code interpreter used to run it.</seg>
       </tuv>
       <tuv lang="fr" changeid="briglegrand" changedate="20120502T110321Z">
         <seg>Les mémoires « level1 » et « level2 » sont compatibles avec les outils de TAO prenant en charge les TMX niveaux 1 et 2 et peuvent être partagées avec d'autres utilisateurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The "master" (alpha) version reflects the very latest state of development.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20191002T113541Z" creationid="briac" creationdate="20191002T113541Z">
+        <seg>La version de développement (alpha) reflète la phase de développement la plus récente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The "master" version is a cutting-edge, "alpha" version, still in development.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20191002T113520Z" creationid="briac" creationdate="20191002T113520Z">
+        <seg>La version "master" est une version "alpha", continuellement en développement.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57502,6 +57534,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>git clone https://git.code.sf.net/p/omegat/code omegat-code</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20191002T113607Z" creationid="briac" creationdate="20191002T113607Z">
+        <seg>git clone https://git.code.sf.net/p/omegat/code omegat-code</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>gl</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T095927Z">
@@ -62775,6 +62815,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021852Z" creationid="briac" creationdate="20170911T161354Z">
         <seg>{% if platform.noInfo != true %}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{% if platform.noInfo != true %} &lt;s0&gt; &lt;/s0&gt; {% endif %}</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20191002T113458Z" creationid="briac" creationdate="20191002T113458Z">
+        <seg>{% if platform.noInfo != true %} &lt;s0&gt; &lt;/s0&gt; {% endif %}</seg>
       </tuv>
     </tu>
     <tu>
