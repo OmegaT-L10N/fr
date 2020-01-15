@@ -18568,10 +18568,18 @@ pas de page...</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ensure the URL is correct.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20200115T170836Z" creationid="briac" creationdate="20200115T170836Z">
+        <seg>Assurez-vous que l'URL est correcte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ensure the server URL is correct.</seg>
       </tuv>
-      <tuv lang="fr" changeid="briac" changedate="20200115T170815Z" creationid="briac" creationdate="20200115T170815Z">
-        <seg>Assurez-vous que l'URL du serveur est correct.</seg>
+      <tuv lang="fr" changeid="briac" changedate="20200115T170840Z" creationid="briac" creationdate="20200115T170815Z">
+        <seg>Assurez-vous que l'URL du serveur est correcte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26584,6 +26592,14 @@ exécutez simplement le programme d'installation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It allows parameters to be set for all translation projects.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20200115T171215Z" creationid="briac" creationdate="20200115T171215Z">
+        <seg>Il permet de définir les paramètres pour tous les projets de traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It also allows to define various options related to tag validation and to define custom tags.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160322T173041Z" creationid="Didier" creationdate="20160322T173041Z">
@@ -32244,6 +32260,14 @@ combination as such.</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20170403T153353Z" creationid="briac" creationdate="20170403T153353Z">
         <seg>ONline DIctionary LOokup TOol, utilitaire de recherche dans les dictionnaires en ligne – </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OS X Notarized</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20200115T171239Z" creationid="briac" creationdate="20200115T171239Z">
+        <seg>OS X Notarié</seg>
       </tuv>
     </tu>
     <tu>
@@ -40302,6 +40326,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sets the segment validation key to Tab instead of the default Enter.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20200115T171309Z" creationid="briac" creationdate="20200115T171309Z">
+        <seg>Définit Tab comme touche de validation de segment à la place d'Entrée (touche par défaut).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Setting it to &lt;e1&gt;All segments&lt;/e1&gt; shows this information for all segments and &lt;e2&gt;None&lt;/e2&gt; turns this option off.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20141202T181320Z" creationid="Didier" creationdate="20141202T181320Z">
@@ -42153,6 +42185,14 @@ address new problems or concerns.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20140617T181516Z" creationid="Didier" creationdate="20140617T181516Z">
         <seg>SuperTMXMerge-for_OmegaT.jar (licence LGPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Support</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20200115T171233Z" creationid="briac" creationdate="20200115T171233Z">
+        <seg>Assistance</seg>
       </tuv>
     </tu>
     <tu>
@@ -46490,6 +46530,14 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The server is not a valid Apertium server.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20200115T170825Z" creationid="briac" creationdate="20200115T170825Z">
+        <seg>Le serveur n'est pas un serveur Apertium valide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The server keeps the information on checkouts, so that later commits (see below) can be performed in an orderly fashion.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130429T111756Z">
@@ -48040,6 +48088,14 @@ under the terms of this General Public License.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130429T090152Z">
         <seg>Cette boite de dialogue vous permet de créer les masques de noms de fichiers source des fichiers qui vont être traités par le filtre, de personnaliser les noms des fichiers traduits, et de sélectionner les encodages qui doivent être utilisés pour charger le fichier et enregistrer sa traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This dialog is accessible by selecting &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Preferences...&lt;/g2&gt; &lt;/m0&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20200115T170914Z" creationid="briac" creationdate="20200115T170914Z">
+        <seg>Cette boîte de dialogue peut être ouverte en sélectionnant &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Préférences...&lt;/g2&gt; &lt;/m0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -51602,6 +51658,14 @@ on line {1}, column {2}.</seg>
         <seg>Use TAB To Advance</seg>
       </tuv>
       <tuv lang="fr" changeid="laurieetclémentine" changedate="20130411T140434Z">
+        <seg>Utiliser TAB pour valider</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use TAB to Advance</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20200115T171252Z" creationid="briac" creationdate="20200115T171252Z">
         <seg>Utiliser TAB pour valider</seg>
       </tuv>
     </tu>
