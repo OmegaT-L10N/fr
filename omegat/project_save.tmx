@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.0.0_0_c63a9b8d" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_dev" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -14475,6 +14475,14 @@ kolekti -b C:\[...]\trunk\doc_src2 publish [-j JOB] -l fr,en C:\[...]\trunk\doc_
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Connect to custom server instead of apertium.org</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20200115T165036Z" creationid="briac" creationdate="20200115T165036Z">
+        <seg>Connexion à un serveur personnalisé au lieu d'apertium.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Connection available, the project is in team project mode.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20121113T090159Z">
@@ -16025,6 +16033,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20141202T212828Z" creationid="Didier" creationdate="20141202T212828Z">
         <seg>Couleurs personnalisées...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Custom server URL</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20200115T165826Z" creationid="briac" creationdate="20200115T165826Z">
+        <seg>URL du serveur personnalisée</seg>
       </tuv>
     </tu>
     <tu>
