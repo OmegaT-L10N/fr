@@ -9386,6 +9386,14 @@ or that patent license was granted, prior to 28 March 2007.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>API Key (optional)</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20200115T165902Z" creationid="briac" creationdate="20200115T165902Z">
+        <seg>Clé API (optionnel)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>API Key:</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z" creationid="Didier" creationdate="20161227T170609Z">
@@ -18556,6 +18564,14 @@ pas de page...</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160119T093953Z" creationid="Didier" creationdate="20160119T093856Z">
         <seg>Vérifier que la commande « kolekti » est disponible dans le Path.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ensure the server URL is correct.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20200115T170815Z" creationid="briac" creationdate="20200115T170815Z">
+        <seg>Assurez-vous que l'URL du serveur est correct.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50870,6 +50886,14 @@ Les recherches exactes correspondent à l'ensemble de la chaîne recherchée.</s
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021852Z">
         <seg>Impossible de créer un nouveau fichier TMX !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to connect to server.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20200115T165914Z" creationid="briac" creationdate="20200115T165914Z">
+        <seg>Impossible de se connecter au serveur.</seg>
       </tuv>
     </tu>
     <tu>
