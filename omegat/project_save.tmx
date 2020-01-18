@@ -23066,8 +23066,8 @@ circumstances.</seg>
       <tuv lang="en">
         <seg>If both this option and the &lt;l0&gt;&lt;g1&gt;Insert the source text&lt;/g1&gt;&lt;/l0&gt; option are selected, all words with a corresponding glossary entry will be translated automatically when the source text is inserted.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20200118T152811Z" creationid="suzume" creationdate="20200118T152811Z">
-        <seg>Si cette option ansi que l'option &lt;l0&gt;&lt;g1&gt;Insérer le texte source&lt;/g1&gt;&lt;/l0&gt;</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20200118T152931Z" creationid="suzume" creationdate="20200118T152811Z">
+        <seg>Si cette option ansi que l'option &lt;l0&gt;&lt;g1&gt;Insérer le texte source&lt;/g1&gt;&lt;/l0&gt; sont sélectionnées, et tous les mots dans une entrée de glossaire correspondante seront traduits automatiquement quand le texte source sera inséré.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24845,6 +24845,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ignore hits with very different case (e.g. FOO vs foo)</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20200118T152939Z" creationid="suzume" creationdate="20200118T152939Z">
+        <seg>Ignorer les entrées avec une casse très différente (ex. : FOO / foo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ignore type and ctype attributes when building &lt;&amp;bpt&gt; and &lt;ept&gt; tag shortcuts</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20140421T135849Z" creationid="Didier" creationdate="20140414T092315Z">
@@ -26098,6 +26106,14 @@ patent against the party.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130527T133555Z">
         <seg>Insère la meilleure correspondance partielle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert the source text</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20200118T152832Z" creationid="suzume" creationdate="20200118T152832Z">
+        <seg>Insérer le texte source</seg>
       </tuv>
     </tu>
     <tu>
