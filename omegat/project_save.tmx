@@ -23064,6 +23064,14 @@ circumstances.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If both this option and the &lt;l0&gt;&lt;g1&gt;Insert the source text&lt;/g1&gt;&lt;/l0&gt; option are selected, all words with a corresponding glossary entry will be translated automatically when the source text is inserted.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20200118T152811Z" creationid="suzume" creationdate="20200118T152811Z">
+        <seg>Si cette option ansi que l'option &lt;l0&gt;&lt;g1&gt;Insérer le texte source&lt;/g1&gt;&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If checked, non-breakable spaces in the segment will be displayed with a grey background.</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130421T174541Z">
@@ -40134,6 +40142,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select this option if you want the glossary to display words that have the same root.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20200118T152714Z" creationid="suzume" creationdate="20200118T152714Z">
+        <seg>Choisissez cette option si vous souhaitez que le glossaire affiche des mots qui ont la même racine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select whether to download OmegaT with or without the Java Runtime Environment (JRE) included.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
@@ -51098,6 +51114,22 @@ Les recherches exactes correspondent à l'ensemble de la chaîne recherchée.</s
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Uncheck this option if the context description shown for each glossary entry is unnecessary or too long.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20200118T152529Z" creationid="suzume" creationdate="20200118T152529Z">
+        <seg>Décochez cette option si le la description du contexte donné pour chaque entrée de glossaire est non-nécessaire ou trop longue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Uncheck this option if the glossary displays too many false positives.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20200118T152648Z" creationid="suzume" creationdate="20200118T152635Z">
+        <seg>Décochez cette option si le glossaire affiche trop de faux positifs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Uncheck this option to prevent any damage on the tags (i.e., partial deletion) during editing.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20141202T171826Z" creationid="Didier" creationdate="20141202T171826Z">
@@ -53272,6 +53304,14 @@ add Python to your Path.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130507T112543Z">
         <seg>Lorsque cela est fait, les volets affichent un onglet tout en haut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When this option is checked, the glossary will display pairs or groups of words (expressions) even if the words within them appear separately in the source text.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20200118T152617Z" creationid="suzume" creationdate="20200118T152617Z">
+        <seg>Quand cette option est cochée, le glossaire affichera des paires ou groupes de mots (expressions) même si les mots composants apparaissent séparément dans le texte source.</seg>
       </tuv>
     </tu>
     <tu>
