@@ -40046,6 +40046,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select a supplier from the list and, if necessary, click &lt;g0&gt;Configure&lt;/g0&gt; to enter the identification details provided by the supplier.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20200118T152402Z" creationid="suzume" creationdate="20200118T152208Z">
+        <seg>Choisissez un fournisseur dans la liste et, si nécessaire, cliquez &lt;g0&gt;Configurer&lt;/g0&gt; pour entrer les détails d'identification donnés par le fournisseur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select issue types to check.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20170111T140217Z" creationid="Didier" creationdate="20170111T140116Z">
@@ -46136,6 +46144,14 @@ modification follow.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130429T115128Z">
         <seg>La procédure présentée ici se base sur le serveur libre SVN (limité à deux utilisateurs) proposé par &lt;u0&gt;ProjectLocker&lt;/u0&gt; (site en anglais).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The procedures for configuring access to the Microsoft Translator and Google Translate services are described &lt;u0&gt;here&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20200118T152441Z" creationid="suzume" creationdate="20200118T152441Z">
+        <seg>Les procédures pour configurer l'accès aux services Microsoft Translator et Google Translate sont décrits &lt;u0&gt;ici&lt;/u0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58586,6 +58602,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160718T152811Z" creationid="Didier" creationdate="20160718T152811Z">
         <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/trunk/src/org/omegat/gui/main/MainMenuShortcuts.properties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://sourceforge.net/p/omegat/wiki/Configuring Machine Translation Services</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20200118T152412Z" creationid="suzume" creationdate="20200118T152412Z">
+        <seg>https://sourceforge.net/p/omegat/wiki/Configuring Machine Translation Services</seg>
       </tuv>
     </tu>
     <tu>
