@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_dev" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_87e8eaf63" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -20390,6 +20390,14 @@ control compilation and installation of the executable.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For confidentiality reasons, you may want to not send all the segments to the Machine Translation engine.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20200118T110311Z" creationid="suzume" creationdate="20200118T110311Z">
+        <seg>Pour des motifs de confidentialité, vous pouvez ne pas vouloir envoyer tous les segments à l'outil de traduction automatique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For confidentiality reasons, you may want to not send all the segments to the Machine Translation tool.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160322T171259Z" creationid="Didier" creationdate="20160322T171259Z">
@@ -24565,6 +24573,14 @@ OmegaT.</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130422T162650Z">
         <seg>En ouvrant &lt;e2&gt;&lt;i3/&gt;Options avancées&lt;/e2&gt;, il est possible de combiner la recherche avec le nom de l'auteur de la traduction et l'heure de la dernière modification apportée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you uncheck this option, machine translations will be fetched only when you press &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; (&lt;k3&gt; &lt;k4&gt;Cmd&lt;/k4&gt; &lt;k5&gt;M&lt;/k5&gt; &lt;/k3&gt; on OS X) in the current segment.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20200118T125241Z" creationid="suzume" creationdate="20200118T125241Z">
+        <seg>En décochant cette option, les traductions automatiques seront récupérées uniquement lors de l'utilisation de &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; (&lt;k3&gt; &lt;k4&gt;Cmd&lt;/k4&gt; &lt;k5&gt;M&lt;/k5&gt; &lt;/k3&gt;sur OS X) sur le segment actuel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46127,6 +46143,14 @@ modification follow.</seg>
         <seg>The program will see confirmation before closing down.</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130421T192738Z">
+        <seg>Le programme demandera toujours la confirmation avant de quitter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The program will seek confirmation before closing down.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20200118T110302Z" creationid="suzume" creationdate="20200118T110302Z">
         <seg>Le programme demandera toujours la confirmation avant de quitter.</seg>
       </tuv>
     </tu>
