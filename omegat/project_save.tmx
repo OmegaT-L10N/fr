@@ -23861,6 +23861,14 @@ Public License instead of this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If this option is checked, the glossary will only display one entry, even if the same word exists in several forms (e.g. with and without capital letters) in the glossary.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20200119T021724Z" creationid="suzume" creationdate="20200119T021724Z">
+        <seg>Quand cette option est cochée, le glossaire affichera seulement des paires ou groupes de mots (expressions) même si les mots composants apparaissent séparément dans le texte source.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If this option is checked, when a fuzzy match is inserted, either manually or automatically, OmegaT attempts to convert the numbers in the fuzzy matches according to the source contents.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130528T131535Z">
