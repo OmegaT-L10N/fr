@@ -13799,6 +13799,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Click this button to access the &lt;u0&gt;TaaS&lt;/u0&gt; project site and create a user account.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20200119T021926Z" creationid="suzume" creationdate="20200119T021901Z">
+        <seg>Cliquez sur ce bouton pour accéder au site du projet &lt;u0&gt;TaaS&lt;/u0&gt; et créer un compte utilisateur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Clicking &lt;g0&gt;Tools &gt; &lt;/g0&gt;&lt;g1&gt;Scripting&lt;/g1&gt; opens the Scripting window:&lt;s2&gt; &lt;s3&gt;Scripting window&lt;/s3&gt; &lt;m4&gt; &lt;i5&gt; &lt;i6/&gt; &lt;/i5&gt; &lt;/m4&gt; &lt;/s2&gt;</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z" creationid="Didier" creationdate="20141202T171342Z">
@@ -23863,8 +23871,8 @@ Public License instead of this License.</seg>
       <tuv lang="en">
         <seg>If this option is checked, the glossary will only display one entry, even if the same word exists in several forms (e.g. with and without capital letters) in the glossary.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20200119T021724Z" creationid="suzume" creationdate="20200119T021724Z">
-        <seg>Quand cette option est cochée, le glossaire affichera seulement des paires ou groupes de mots (expressions) même si les mots composants apparaissent séparément dans le texte source.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20200119T021839Z" creationid="suzume" creationdate="20200119T021724Z">
+        <seg>Quand cette option est cochée, le glossaire affichera seulement une entrée, même si le même mot existe sous des formes différentes (par ex. avec une case différente) dans le glossaire.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58698,6 +58706,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160322T165302Z" creationid="Didier" creationdate="20160322T165302Z">
         <seg>https://sourceforge.net/projects/omegatscripts/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://term.tilde.com/taas</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20200119T021844Z" creationid="suzume" creationdate="20200119T021844Z">
+        <seg>https://term.tilde.com/taas</seg>
       </tuv>
     </tu>
     <tu>
