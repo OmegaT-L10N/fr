@@ -20394,6 +20394,15 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For a more user-friendly way of launching OmegaT, you can use the Kaptain script
+provided (omegat.kaptn).</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20200126T091713Z" creationid="suzume" creationdate="20200126T091713Z">
+        <seg>Pour pouvoir exécuter OmegaT de façon plus conviviale, vous pouvez utiliser le script Kaptain fourni (omegat.kaptn).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For a quick-start tutorial, launch OmegaT and read the displayed Instant Start 
 Tutorial.</seg>
       </tuv>
@@ -22935,6 +22944,16 @@ POSSIBILITY OF SUCH DAMAGES.</seg>
     <tu>
       <tuv lang="en">
         <seg>If
+Java is installed at system level and is in the command path, the full path need
+not be entered.)</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20200126T091743Z" creationid="suzume" creationdate="20200126T091743Z">
+        <seg>Si Java est installé au niveau système et est inclus dans le chemin, il n'est pas nécessaire d'entrer le chemin complet.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If
 identifiable sections of that work are not derived from the Program,
 and can be reasonably considered independent and separate works in
 themselves, then this License, and its terms, do not apply to those
@@ -24180,6 +24199,15 @@ extensions are displayed.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you can see the file OmegaT but not OmegaT.exe in your File Manager (Windows
+Explorer), change the settings so that file extensions are displayed.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20200126T091650Z" creationid="suzume" creationdate="20200126T091650Z">
+        <seg>Si vous pouvez voir le fichier OmegaT mais pas le fichier OmegaT.exe dans votre gestionnaire de fichier (Explorateur Windows), modifiez la configuration afin que les extensions soient affichées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you can't run &lt;a0&gt;OmegaT&lt;/a0&gt; normally (no graphical environment available): copy the settings files from some other &lt;a1&gt;OmegaT&lt;/a1&gt; installation on another machine to a specific folder.</seg>
       </tuv>
       <tuv lang="fr" changeid="brigitte" changedate="20130714T144919Z">
@@ -24405,6 +24433,15 @@ free software which everyone can redistribute and change under these terms.</seg
 is to use Java Web Start.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20170210T103619Z" creationid="Didier" creationdate="20170210T103619Z">
+        <seg>Si vous disposez déjà de Java, l'une des façons d'installer OmegaT est d'utiliser Java Web Start.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you have already Java installed on your system, one way to install OmegaT is
+to use Java Web Start.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20200126T091612Z" creationid="suzume" creationdate="20200126T091612Z">
         <seg>Si vous disposez déjà de Java, l'une des façons d'installer OmegaT est d'utiliser Java Web Start.</seg>
       </tuv>
     </tu>
@@ -24848,6 +24885,15 @@ excuse you from the conditions of this License.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130503T081519Z">
         <seg>Si, conséquement à une décision de justice ou l'allégation d'une transgression de brevet ou pour toute autre raison (non limitée à un probleme de brevet), des obligations vous sont imposées (que ce soit par jugement, conciliation ou autre) qui contredisent les conditions de la présente Licence, elles ne vous excusent pas des conditions de la présente Licence.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If, during installation, you have created a shortcut on the desktop,
+double-click on that shortcut.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20200126T091618Z" creationid="suzume" creationdate="20200126T091618Z">
+        <seg>Si, durant l'installation, vous avez créé un raccourci sur le bureau, double-cliquez sur ce raccourci.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26369,6 +26415,16 @@ exécutez simplement le programme d'installation.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20170210T103519Z" creationid="Didier" creationdate="20170210T103519Z">
         <seg>Installation d'OmegaT (Solaris, FreeBSD, ...)
+=========================================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Installing OmegaT (Solaris, FreeBSD, etc.)
+=========================================</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20200126T091609Z" creationid="suzume" creationdate="20200126T091609Z">
+        <seg>Installation d'OmegaT (Solaris, FreeBSD, etc.)
 =========================================</seg>
       </tuv>
     </tu>
@@ -30764,6 +30820,15 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Move the folder to an appropriate location such
+as the Applications folder.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20200126T091535Z" creationid="suzume" creationdate="20200126T091535Z">
+        <seg>Déplacez le dossier dans un emplacement approprié comme le dossier Applications.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Moves one segment back in history</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130503T114654Z">
@@ -33151,6 +33216,15 @@ contenant votre dossier de base est refusé à OmegaT.</seg>
 to be launched.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20170210T103416Z" creationid="Didier" creationdate="20170210T103416Z">
+        <seg>OmegaT est alors prêt à être exécuté.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT is then ready to
+be launched.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20200126T091541Z" creationid="suzume" creationdate="20200126T091541Z">
         <seg>OmegaT est alors prêt à être exécuté.</seg>
       </tuv>
     </tu>
@@ -45529,6 +45603,15 @@ desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The installer can create shortcuts for you in the start menu, on the desktop and
+in the quick launch area.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20200126T091638Z" creationid="suzume" creationdate="20200126T091638Z">
+        <seg>Le programme d'installation peut créer des raccourcis pour vous dans le menu démarrer, sur le bureau ou dans la zone de lancement rapide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The items are not separated with a TAB character.</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130417T151839Z">
@@ -50149,6 +50232,14 @@ Kaptain.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To use this script you must first install Kaptain.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20200126T091718Z" creationid="suzume" creationdate="20200126T091718Z">
+        <seg>Pour l'utiliser, vous devez tout d'abord installer Kaptain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To use this script, open a
 terminal window (console), change folder to the folder containing OmegaT.jar
 and the linux-install.sh script, and execute the script with ./linux-
@@ -50156,6 +50247,16 @@ install.sh.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20171103T084947Z" creationid="Didier" creationdate="20170210T103454Z">
         <seg>Pour l'utiliser, ouvrez une fenêtre de terminal (console), passez dans le dossier contenant OmegaT.jar et le script linux-install.sh et exécuter le script avec ./linux-install.sh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To use this script, open a terminal
+window (console), change folder to the folder containing OmegaT.jar and the
+linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20200126T091555Z" creationid="suzume" creationdate="20200126T091555Z">
+        <seg>Pour utiliser ce script, ouvrez un fenêtre de terminal (console), passez dans le dossier contenant OmegaT.jar et le script linux-install.sh et exécuter le script avec ./linux-install.sh.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51440,6 +51541,15 @@ Les recherches exactes correspondent à l'ensemble de la chaîne recherchée.</s
 documentation file and the OmegaT application.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20170210T103305Z" creationid="Didier" creationdate="20170210T103228Z">
+        <seg>Décompactez l'archive .zip d'OmegaT pour obtenir un dossier contenant un fichier de documentation et l'application OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unpack the OmegaT .zip archive to obtain a folder that contains a documentation
+file and the OmegaT application.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20200126T091518Z" creationid="suzume" creationdate="20200126T091518Z">
         <seg>Décompactez l'archive .zip d'OmegaT pour obtenir un dossier contenant un fichier de documentation et l'application OmegaT.</seg>
       </tuv>
     </tu>
@@ -53035,6 +53145,15 @@ trouble of selecting, obtaining and installing it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>We recommend using OmegaT packages that include the JRE, to save you the trouble
+of selecting, obtaining and installing it.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20200126T091502Z" creationid="suzume" creationdate="20200126T091502Z">
+        <seg>Nous recommandons d'utiliser les versions d'OmegaT incluant le JRE pour vous éviter d'avoir à le sélectionner, l'obtenir et l'installer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>We therefore recommend
 that you download and install either the Oracle Java Runtime Environment (JRE) 
 or the OmegaT package bundled with JRE (the .tar.bz2) bundle marked 
@@ -54448,6 +54567,15 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You
+can then launch the Kaptain launch script with:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20200126T091725Z" creationid="suzume" creationdate="20200126T091725Z">
+        <seg>Vous pouvez ensuite lancer le script d'exécution Kaptain avec :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You achieve the same by clearing the target segment and pressing &lt;g4&gt;Enter.&lt;/g4&gt;</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130528T131532Z">
@@ -54692,6 +54820,15 @@ it from the Spotlight search field.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also launch it from
+the Spotlight search field.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20200126T091705Z" creationid="suzume" creationdate="20200126T091705Z">
+        <seg>Vous pouvez également l'exécuter depuis le champ de recherche de Spotlight.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can also manually drag 
 the file OmegaT.exe to the start menu, the desktop or the quick launch area
 to link it from there.</seg>
@@ -54707,6 +54844,15 @@ OmegaT.exe to the start menu, the desktop or the quick launch area to link it
 from there.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20170210T103724Z" creationid="Didier" creationdate="20170210T103724Z">
+        <seg>Vous également pouvez faire glisser le fichier OmegaT.exe dans le menu démarrer, sur le bureau ou dans la zone de lancement rapide afin d'y créer un raccourci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also manually drag the file OmegaT.exe to the
+start menu, the desktop or the quick launch area to link it from there.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20200126T091643Z" creationid="suzume" creationdate="20200126T091643Z">
         <seg>Vous également pouvez faire glisser le fichier OmegaT.exe dans le menu démarrer, sur le bureau ou dans la zone de lancement rapide afin d'y créer un raccourci.</seg>
       </tuv>
     </tu>
@@ -54973,6 +55119,15 @@ installation by using the installation script (linux-install.sh).</seg>
 the installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20171103T084924Z" creationid="Didier" creationdate="20170210T103434Z">
+        <seg>Vous pouvez cependant bénéficier d'une installation plus orthodoxe et plus conviviale en utilisant le script d'installation (linux-install.sh).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can however obtain a neater and more user-friendly installation by using the
+installation script (linux-install.sh).</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20200126T091545Z" creationid="suzume" creationdate="20200126T091545Z">
         <seg>Vous pouvez cependant bénéficier d'une installation plus orthodoxe et plus conviviale en utilisant le script d'installation (linux-install.sh).</seg>
       </tuv>
     </tu>
@@ -55356,6 +55511,15 @@ along with the Program.</seg>
 Finder window to be able to launch it from any location.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20170210T103821Z" creationid="Didier" creationdate="20170210T103821Z">
+        <seg>Vous pouvez faire glisser OmegaT.app sur votre dock ou sur la barre d'outils d'une fenêtre du Finder afin de pouvoir l'exécuter de n'importe quel emplacement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You may drag the OmegaT application to your dock or to the toolbar of a Finder
+window to be able to launch it from any location.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20200126T091659Z" creationid="suzume" creationdate="20200126T091659Z">
         <seg>Vous pouvez faire glisser OmegaT.app sur votre dock ou sur la barre d'outils d'une fenêtre du Finder afin de pouvoir l'exécuter de n'importe quel emplacement.</seg>
       </tuv>
     </tu>
