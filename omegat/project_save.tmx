@@ -4758,6 +4758,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Groovy&lt;/e0&gt; (http://groovy.codehaus.org): a dynamic language for the Java Virtual machine.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20200119T142658Z" creationid="suzume" creationdate="20200119T142658Z">
+        <seg>&lt;e0&gt;Groovy&lt;/e0&gt; (http://groovy.codehaus.org) : c'est un langage dynamique conçu pour la machine virtuelle de Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Groovy&lt;/e0&gt; (http://groovy.codehaus.org): is a dynamic language for the Java Virtual machine.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
@@ -8646,6 +8654,38 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;repository type="git" url="https://repo_for_OmegaT_team_project.git"&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20200119T142631Z" creationid="suzume" creationdate="20200119T142631Z">
+        <seg>&lt;repository type="git" url="https://repo_for_OmegaT_team_project.git"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;repository type="http" url="https://github.com/omegat-org/omegat/raw/master/"&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20200119T142642Z" creationid="suzume" creationdate="20200119T142642Z">
+        <seg>&lt;repository type="http" url="https://github.com/omegat-org/omegat/raw/master/"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;repository type="svn" url="https://repo_for_All_OmegaT_team_projects"&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20200119T142639Z" creationid="suzume" creationdate="20200119T142639Z">
+        <seg>&lt;repository type="svn" url="https://repo_for_All_OmegaT_team_projects"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;repository type="svn" url="https://repo_for_OmegaT_team_project"&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20200119T142633Z" creationid="suzume" creationdate="20200119T142633Z">
+        <seg>&lt;repository type="svn" url="https://repo_for_OmegaT_team_project"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.latest.name}}&lt;/a1&gt;&lt;/s0&gt; Latest Version</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20170918T110346Z" creationid="briac" creationdate="20170918T110346Z">
@@ -12336,6 +12376,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20161227T171642Z" creationid="Didier" creationdate="20161227T171642Z">
         <seg>Parcourir en ligne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Browse TaaS Collections...</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20200119T144126Z" creationid="suzume" creationdate="20200119T144126Z">
+        <seg>Parcourir les collections TaaS...</seg>
       </tuv>
     </tu>
     <tu>
@@ -23881,6 +23929,14 @@ Public License instead of this License.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130528T131535Z">
         <seg>Si une correspondance est insérée alors que cette case est cochée, OmegaT essaie, manuellement ou automatiquement, de convertir les nombres de la correspondance en fonction du contenu du texte source.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If this option is selected, OmegaT will not remember the access key between sessions.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20200119T144122Z" creationid="suzume" creationdate="20200119T144122Z">
+        <seg>Si cette option est choisie, OmegaT ne se souviendra pas des clés d'accès entre sessions.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55064,6 +55120,14 @@ the installation script (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can then create an access key on the page &lt;u0&gt;https://term.tilde.com/account/keys/create?system=omegaT&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20200119T144055Z" creationid="suzume" creationdate="20200119T142521Z">
+        <seg>Vous pouvez alors créer une clé d'accès à la page &lt;u0&gt;https://term.tilde.com/account/keys/create?system=omegaT&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can then launch the Kaptain launch script with
 Alt+F2
 omegat.kaptn</seg>
@@ -58142,6 +58206,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>http://artfiles.org/openoffice.org/contrib/dictionaries/</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20200119T142716Z" creationid="suzume" creationdate="20200119T142716Z">
+        <seg>http://artfiles.org/openoffice.org/contrib/dictionaries/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>http://belazar.info/</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T104620Z">
@@ -58246,10 +58318,66 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>http://download.services.openoffice.org/files/contrib/dictionaries/</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20200119T142711Z" creationid="suzume" creationdate="20200119T142711Z">
+        <seg>http://download.services.openoffice.org/files/contrib/dictionaries/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>http://freebsd.csie.nctu.edu.tw/distfiles/openoffice.org1.1/</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20200119T142718Z" creationid="suzume" creationdate="20200119T142718Z">
+        <seg>http://freebsd.csie.nctu.edu.tw/distfiles/openoffice.org1.1/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>http://ftp.heanet.ie/mirrors/openoffice.org/contrib/dictionaries/</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20200119T142717Z" creationid="suzume" creationdate="20200119T142717Z">
+        <seg>http://ftp.heanet.ie/mirrors/openoffice.org/contrib/dictionaries/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>http://ftp.nluug.nl/office/openoffice/contrib/dictionaries/</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20200119T142713Z" creationid="suzume" creationdate="20200119T142713Z">
+        <seg>http://ftp.nluug.nl/office/openoffice/contrib/dictionaries/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>http://ftp.plusline.de/OpenOffice/contrib/dictionaries/</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20200119T142713Z" creationid="suzume" creationdate="20200119T142713Z">
+        <seg>http://ftp.plusline.de/OpenOffice/contrib/dictionaries/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>http://ftp.uni-kl.de/pub/OpenOffice/contrib/dictionaries/</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20200119T142712Z" creationid="suzume" creationdate="20200119T142712Z">
+        <seg>http://ftp.uni-kl.de/pub/OpenOffice/contrib/dictionaries/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>http://git-scm.com/</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T104052Z">
         <seg>http://git-scm.com/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>http://linorg.usp.br/OpenOffice.org/contrib/dictionaries/</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20200119T142714Z" creationid="suzume" creationdate="20200119T142714Z">
+        <seg>http://linorg.usp.br/OpenOffice.org/contrib/dictionaries/</seg>
       </tuv>
     </tu>
     <tu>
@@ -58298,6 +58426,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T103729Z">
         <seg>http://omegat.svn.sourceforge.net/viewvc/omegat/branches/release-2-6/gui/main/MainMenuShortcuts.properties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>http://planetmirror.com/pub/OpenOffice/contrib/dictionaries/</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20200119T142719Z" creationid="suzume" creationdate="20200119T142719Z">
+        <seg>http://planetmirror.com/pub/OpenOffice/contrib/dictionaries/</seg>
       </tuv>
     </tu>
     <tu>
@@ -58526,6 +58662,30 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>https://datamarket.azure.com/account/datasets</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20200119T142710Z" creationid="suzume" creationdate="20200119T142710Z">
+        <seg>https://datamarket.azure.com/account/datasets</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://datamarket.azure.com/dataset/bing/microsofttranslator</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20200119T142705Z" creationid="suzume" creationdate="20200119T142705Z">
+        <seg>https://datamarket.azure.com/dataset/bing/microsofttranslator</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://datamarket.azure.com/developer/applications</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20200119T142706Z" creationid="suzume" creationdate="20200119T142706Z">
+        <seg>https://datamarket.azure.com/developer/applications</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>https://developers.google.com/translate/v2/faq</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T104622Z">
@@ -58566,6 +58726,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>https://omegat.org/</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20200119T142703Z" creationid="suzume" creationdate="20200119T142703Z">
+        <seg>https://omegat.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>https://omegat.org/files/OmegaT_for_Beginners.pdf</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20171115T082518Z" creationid="Didier" creationdate="20171115T082518Z">
@@ -58582,6 +58750,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>https://omegat.org/support</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20200119T142626Z" creationid="suzume" creationdate="20200119T142626Z">
+        <seg>https://omegat.org/support</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>https://omegat.sourceforge.io/webstart/&lt;a0&gt;OmegaT&lt;/a0&gt;.jnlp</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20171125T165417Z" creationid="Didier" creationdate="20171125T165417Z">
@@ -58594,6 +58770,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20180328T144955Z" creationid="Didier" creationdate="20180328T144955Z">
         <seg>https://omegat.sourceforge.io/webstart/OmegaT.jnlp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://omegat.sourceforge.net/webstart/OmegaT.jnlp</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20200119T142702Z" creationid="suzume" creationdate="20200119T142702Z">
+        <seg>https://omegat.sourceforge.net/webstart/OmegaT.jnlp</seg>
       </tuv>
     </tu>
     <tu>
@@ -58618,6 +58802,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130511T164226Z">
         <seg>https://sourceforge.net/p/omegat/feature-requests/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tarball?path=/trunk</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20200119T142646Z" creationid="suzume" creationdate="20200119T142646Z">
+        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tarball?path=/trunk</seg>
       </tuv>
     </tu>
     <tu>
@@ -58658,6 +58850,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160718T161510Z" creationid="Didier" creationdate="20160718T161510Z">
         <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/trunk/docs_devel/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/trunk/docs_devel/README.txt</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20200119T142648Z" creationid="suzume" creationdate="20200119T142648Z">
+        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/trunk/docs_devel/README.txt</seg>
       </tuv>
     </tu>
     <tu>
