@@ -8882,8 +8882,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="en">
         <seg>@TRANSLATION_NOTICE@</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20190421T015701Z" creationid="Didier" creationdate="20180328T144952Z">
-        <seg>Ce document a été traduit par Didier Briel et Jean-Christophe Helary, copyright© 2007-2019.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20200126T091431Z" creationid="Didier" creationdate="20180328T144952Z">
+        <seg>Ce document a été traduit par Didier Briel et Jean-Christophe Helary, copyright© 2007-2020.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45591,6 +45591,16 @@ où xx est un code langue générique et YY un code pays/région, optionnel.</se
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130506T140753Z">
         <seg>Le fichier level2 insère les balises spécifiques d'&lt;a0&gt;OmegaT&lt;/a0&gt; à l'intérieur des balises TMX appropriées afin que le fichier puisse être utilisé avec ses informations de formatage dans un outil de traduction qui prend en charge les mémoires tmx level2 ou même dans &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The license of each library is mentioned in
+/lib/licenses/Licenses.txt.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20200126T091446Z" creationid="suzume" creationdate="20200126T091446Z">
+        <seg>La licence de chaque bibliothèque est mentionnée
+dans /lib/licenses/Licenses.txt.</seg>
       </tuv>
     </tu>
     <tu>
