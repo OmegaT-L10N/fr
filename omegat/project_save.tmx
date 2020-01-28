@@ -23518,6 +23518,14 @@ tous les paramètres reprendront leur valeur par défaut,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If necessary, you can select a specific domain to limit the volume of data sent and received.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20200128T141258Z" creationid="suzume" creationdate="20200128T141258Z">
+        <seg>Si nécessaire, vous pouvez sélectionner un domaine spécifique pour limiter le volume de données envoyées et reçues.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If neither the language code not the country code match, the segments will be ignored.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130424T094637Z">
@@ -40324,6 +40332,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20161229T165050Z" creationid="Didier" creationdate="20161229T165050Z">
         <seg>&amp;Sélectionner le domaine de recherche terminologique TaaS...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select TaaS Terminology Lookup Domain...</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20200128T132357Z" creationid="suzume" creationdate="20200128T132357Z">
+        <seg>Sélectionner le domaine de recherche terminologique TaaS...</seg>
       </tuv>
     </tu>
     <tu>
