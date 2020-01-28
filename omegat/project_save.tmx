@@ -11903,6 +11903,14 @@ provoquer des comportements inattendus, mais corrects.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Automatically search segment text in dictionary</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20200128T141301Z" creationid="suzume" creationdate="20200128T141301Z">
+        <seg>Rechercher automatiquement le texte du segment actuel dans le dictionnaire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Automating modifications of the translated document file names by replacing translatable contents with its translation.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130527T134022Z">
@@ -13787,6 +13795,14 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20151117T152936Z" creationid="Didier" creationdate="20151117T152936Z">
         <seg>Effacer les données d'authentification pour le référentiel SVN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Clear this option to deactivate automatic searching – if dictionaries are too long, for example.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20200128T141511Z" creationid="suzume" creationdate="20200128T141511Z">
+        <seg>Déchochez cette option pour désactiver la recherche automatique, si les dictionnaires sont trop longs, par exemple.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40452,6 +40468,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130503T093224Z">
         <seg>Sélectionnez cet élément de menu si la traduction actuelle ne s'applique pas et saisissez la nouvelle traduction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select this option if you want dictionaries to display words that have the same root.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20200128T141531Z" creationid="suzume" creationdate="20200128T141531Z">
+        <seg>Choisissez cette option si vous souhaitez que les dictionnaires affichent des mots qui ont la même racine.</seg>
       </tuv>
     </tu>
     <tu>
