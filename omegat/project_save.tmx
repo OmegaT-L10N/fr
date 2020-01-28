@@ -24790,6 +24790,14 @@ OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you prefer not to use OmegaT to translate files of a certain type, you can turn off the corresponding filter by deactivating the check box beside its name.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20200128T141843Z" creationid="suzume" creationdate="20200128T141843Z">
+        <seg>Si vous décidez de ne pas utiliser OmegaT pour traduire des fichiers d'un certain type, vous pouvez fermer le filtre correspondant en décochant la case qui se trouve à côté du nom de format de fichier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you right click on the Editor pane, a pop-up menu opens, offering&lt;e0&gt; Cut, Copy, Paste&lt;/e0&gt; (i.e. same functions as &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;X&lt;/k3&gt; &lt;/k1&gt;, &lt;k4&gt; &lt;k5&gt;Ctrl&lt;/k5&gt; &lt;k6&gt;C&lt;/k6&gt; &lt;/k4&gt; and &lt;k7&gt; &lt;k8&gt;Ctrl&lt;/k8&gt; &lt;k9&gt;V&lt;/k9&gt; &lt;/k7&gt;) and the &lt;e10&gt;GoTo segment&lt;/e10&gt; functions.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130528T124819Z">
@@ -33813,6 +33821,14 @@ with exactly the same structure, including copies of any non-supported files.</s
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT will then omit the corresponding files when loading projects, and will copy them unmodified to the target folder when creating target documents.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20200128T141916Z" creationid="suzume" creationdate="20200128T141916Z">
+        <seg>OmegaT ignorera alors les fichiers correspondants lors du chargement du projet et les copiera sans les modifier lors de la création des documents cible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT will then report these segments as not translated.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130429T134608Z">
@@ -36110,6 +36126,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Preserve spaces for all tags: check this option if the source documents contain significant spaces used to control the layout that must not be ignored.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20200128T142144Z" creationid="suzume" creationdate="20200128T142144Z">
+        <seg>Préserver les espaces pour toutes les balises : cochez cette option si les documents source contiennent des espaces significatifs utilisés pour la mise en page qui ne doivent pas être ignorés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Press 'Cancel' to leave the project unmodified and load it as a local
 project without team functionality.</seg>
       </tuv>
@@ -37744,6 +37768,14 @@ ces mots : « pas de page »...</seg>
         <seg>Remove leading and trailing tags: uncheck this option to display all the tags including the leading and trailing ones.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z" creationid="Didier" creationdate="20141202T172841Z">
+        <seg>Supprimer les balises en début et fin de segment : décocher cette option pour afficher toutes les balises, y compris celles de début et de fin de segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remove leading and trailing tags: uncheck this option to display all the tags, including tags at the beginning and end of the segment.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20200128T142006Z" creationid="suzume" creationdate="20200128T142006Z">
         <seg>Supprimer les balises en début et fin de segment : décocher cette option pour afficher toutes les balises, y compris celles de début et de fin de segment.</seg>
       </tuv>
     </tu>
@@ -45180,6 +45212,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The dialog allows you to enable or disable the following options:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20200128T141952Z" creationid="suzume" creationdate="20200128T141952Z">
+        <seg>Le dialogue vous permet d'activer ou de désactiver les options suivantes :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The dialog box allows also to set external Post-processing commands (that are executed after &lt;g0&gt;Create Translated Documents&lt;/g0&gt; command</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20141202T213620Z" creationid="Didier" creationdate="20141202T213620Z">
@@ -49956,6 +49996,14 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To edit the files and encodings a filter is used for, select the filter in the list and click &lt;e1&gt;Edit.&lt;/e1&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20200128T141942Z" creationid="suzume" creationdate="20200128T141942Z">
+        <seg>Pour modifier le type et l'encodage des fichiers à traiter par un filtre, sélectionnez le filtre dans la liste et cliquez sur &lt;e1&gt;Modifier...&lt;/e1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To edit what files in what encodings the filter will process, select the filter from the list and click Edit.</seg>
       </tuv>
       <tuv lang="fr">
@@ -53354,6 +53402,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021852Z">
         <seg>Attention : modifier l'ordre des balises peut endommager le document traduit !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Warning: in Microsoft Open XML formats (docx, xlsx, etc.), if all tags are displayed, DO NOT place any text before the first tag – it is a technical tag that must always begin the segment.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20200128T142050Z" creationid="suzume" creationdate="20200128T142050Z">
+        <seg>Avertissement : dans les formats Microsoft Open XML (docx, xlsx, etc.), si toutes les balises sont affichées, n'écrivez AUCUN texte avant la première balise car il s'agit d'une balise technique qui doit toujours commencer le segment.</seg>
       </tuv>
     </tu>
     <tu>
