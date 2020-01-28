@@ -23841,6 +23841,14 @@ countries not thus excluded.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the option is checked, the source file name will not be used, and alternative translations will take effect in any file as long as the other context (previous/next segments or some sort of segment identifier, depending on the file format) matches.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20200128T142212Z" creationid="suzume" creationdate="20200128T142212Z">
+        <seg>Si cette option n'est pas cochée, le nom du fichier source ne sera pas utilisé et les traductions alternatives prendront effet dans n'importe quel fichier dès lors que le reste du contexte (segments précédents/suivants, ou un identifiant de segment quelconque en fonction du format du fichier) correspond.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the option is off, the source text will be copied to the target segment.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130429T081659Z">
@@ -25118,6 +25126,14 @@ click on that shortcut.</seg>
         <seg>Ignore file context when identifying segments with alternate translations: by default, OmegaT uses the source file name as part of the identification of an alternate translation.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z" creationid="Didier" creationdate="20141202T173332Z">
+        <seg>Ignorer le nom du fichier pour identifier les segments comportant des traductions alternatives : par défaut, OmegaT utiliser le nom du fichier source comme partie de l'identification d'une traduction alternative.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ignore file context when identifying segments with alternate translations: by default, OmegaT uses the source file name as part of the identification of an alternative translation.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20200128T142149Z" creationid="suzume" creationdate="20200128T142149Z">
         <seg>Ignorer le nom du fichier pour identifier les segments comportant des traductions alternatives : par défaut, OmegaT utiliser le nom du fichier source comme partie de l'identification d'une traduction alternative.</seg>
       </tuv>
     </tu>
@@ -40848,6 +40864,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Several filters (text files, XHTML files, HTML and XHTML files, OpenDocument files and Microsoft Open XML files) have one or more specific options.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20200128T142216Z" creationid="suzume" creationdate="20200128T142216Z">
+        <seg>Certains filtres (Fichiers textes,  XHTML, HTML, XHTML, OpenDocument et Microsoft Open XML) disposent d'une ou plusieurs options spécifiques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Several team members can work on the translation project simultaneously without interfering with each other</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130429T095551Z">
@@ -50224,6 +50248,14 @@ as a Source Forge user.</seg>
         <seg>To modify the options select the filter from the list and click on &lt;e0&gt;Options&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130527T134239Z">
+        <seg>Pour modifier ces options, sélectionnez le filtre dans la liste et cliquez sur &lt;e0&gt;Options...&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To modify the options, select the filter in the list and click &lt;e0&gt;Options&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20200128T142224Z" creationid="suzume" creationdate="20200128T142224Z">
         <seg>Pour modifier ces options, sélectionnez le filtre dans la liste et cliquez sur &lt;e0&gt;Options...&lt;/e0&gt;.</seg>
       </tuv>
     </tu>
