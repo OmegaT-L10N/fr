@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_87e8eaf63" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11559,6 +11559,14 @@ provoquer des comportements inattendus, mais corrects.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As this is the standard behaviour for PO files, it is selected by default.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20200503T104124Z" creationid="briac" creationdate="20200503T104124Z">
+        <seg>Ceci étant le comportement standard pour les fichiers PO, il est activé par défaut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As with free developments, however, the principle still applies that any changes to OmegaT must be beneficial to the application and its users.</seg>
       </tuv>
       <tuv lang="fr">
@@ -11731,6 +11739,14 @@ provoquer des comportements inattendus, mais corrects.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20151117T153207Z" creationid="Didier" creationdate="20151117T153207Z">
         <seg>Impossible de trouver le dossier d'authentification dans « {0} ».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Author</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20200503T103936Z" creationid="briac" creationdate="20200503T103936Z">
+        <seg>Auteur</seg>
       </tuv>
     </tu>
     <tu>
@@ -13755,6 +13771,14 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
       <tuv lang="fr" changeid="etudiant_local" changedate="20130410T124952Z">
         <seg>Tchouvache</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Class</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20200503T103933Z" creationid="briac" creationdate="20200503T103933Z">
+        <seg>Classe</seg>
       </tuv>
     </tu>
     <tu>
@@ -23670,6 +23694,14 @@ tous les paramètres reprendront leur valeur par défaut,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If selected, when a segment in a PO file (which may be a whole paragraph) is not translated, the translation will be empty in the target file.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20200503T104113Z" creationid="briac" creationdate="20200503T104113Z">
+        <seg>S'il est activé, lorsqu'un segment d'un fichier PO (qui peut représenter un paragraphe entier) n'est pas traduit, la traduction sera vide dans le fichier cible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If sentence segmentation has been selected, you can setup the rules by selecting &lt;m5&gt; &lt;g6&gt;&lt;i7/&gt;Options&lt;/g6&gt; &lt;g8&gt;Segmentation...&lt;/g8&gt; &lt;/m5&gt;from the main menu.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130506T090827Z">
@@ -26570,6 +26602,14 @@ exécutez simplement le programme d'installation.</seg>
       </tuv>
       <tuv lang="fr" changeid="jchelary" changedate="20130526T121736Z">
         <seg>Installation et Utilisation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Installed plugins:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20200503T103929Z" creationid="briac" creationdate="20200503T103929Z">
+        <seg>Modules d'extension installés :</seg>
       </tuv>
     </tu>
     <tu>
@@ -30593,6 +30633,14 @@ impose that choice.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Minimal threshold to show a fuzzy match:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20200503T103913Z" creationid="briac" creationdate="20200503T103913Z">
+        <seg>Seuil minimal pour afficher une correspondance partielle :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Minimize</seg>
       </tuv>
       <tuv lang="fr">
@@ -31161,6 +31209,22 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20100219T091712Z">
         <seg>Fichiers DTD Mozilla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mozilla FTL</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20200503T103840Z" creationid="briac" creationdate="20200503T103840Z">
+        <seg>Mozilla FTL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mozilla FTL Filter Options</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20200503T103850Z" creationid="briac" creationdate="20200503T103850Z">
+        <seg>Options du filtre FTL Mozilla</seg>
       </tuv>
     </tu>
     <tu>
@@ -44505,6 +44569,14 @@ software and other kinds of works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Mozilla FTL filter threw an exception:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20200503T103857Z" creationid="briac" creationdate="20200503T103857Z">
+        <seg>Le filtre FTL Mozilla a généré une exception :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The OmegaT Project</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20170329T075707Z" creationid="briac" creationdate="20170329T075707Z">
@@ -44581,6 +44653,14 @@ software and other kinds of works.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
         <seg>Le filtre PO a généré une exception :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The PO header will be skipped and left unchanged if this option is checked.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20200503T104130Z" creationid="briac" creationdate="20200503T104130Z">
+        <seg>L'en-tête des fichiers PO sera ignorée et laissée inchangée, si cette option est activée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49224,6 +49304,14 @@ this version will not interfere with it.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130412T135855Z">
         <seg>Cette opération affectera {0} segment(s) et ne pourra pas être annulée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This option allows OmegaT to override the specification in the PO file header and use the default for the selected target language.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20200503T104133Z" creationid="briac" creationdate="20200503T104133Z">
+        <seg>Cette option permet à OmegaT de remplacer la spécification dans l'en-tête du fichier PO et d'utiliser la valeur par défaut pour la langue cible sélectionnée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59584,6 +59672,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130430T121918Z">
         <seg>contient les règles de segmentation spécifiques au projet si elles existent. Ces règles peuvent être établies dans &lt;g0&gt;Projet &gt; Propriétés ... &lt;/g0&gt;Voir&lt;l1&gt;le chapitre Propriétés du projet&lt;/l1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>if sentence segmentation rules are active, the text will be segmented further according to the option selected here.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20200503T104044Z" creationid="briac" creationdate="20200503T104044Z">
+        <seg>Si les règles de segmentation par phrases sont actives, le texte sera segmenté davantage en fonction des options sélectionnées ici.</seg>
       </tuv>
     </tu>
     <tu>
