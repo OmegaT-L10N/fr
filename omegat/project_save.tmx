@@ -25267,6 +25267,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Important: listed plug-ins work with OmegaT version 4 and above.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20200724T161324Z" creationid="briac" creationdate="20200724T161324Z">
+        <seg>Important : les extensions listées fonctionnent avec OmegaT version 4 et supérieure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Importing Wiki Page Failed</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160405T091640Z" creationid="Didier" creationdate="20160405T091640Z">
@@ -36032,6 +36040,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160212T143748Z" creationid="Didier" creationdate="20160212T143748Z">
         <seg>Veuillez appuyer sur OK pour conserver vos modifications (« {2} ») ou sur Annuler pour conserver les modifications distantes/automatiques (« {1} »).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Plug-ins</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20200724T161259Z" creationid="briac" creationdate="20200724T161259Z">
+        <seg>Extensions</seg>
       </tuv>
     </tu>
     <tu>
@@ -51701,6 +51717,14 @@ Les recherches exactes correspondent à l'ensemble de la chaîne recherchée.</s
       </tuv>
       <tuv lang="fr">
         <seg>Impossible d'analyser le fichier de configuration des filtres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to parse service error report</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20200724T161226Z" creationid="briac" creationdate="20200724T161226Z">
+        <seg>Impossible d'analyser le rapport d'erreur</seg>
       </tuv>
     </tu>
     <tu>
