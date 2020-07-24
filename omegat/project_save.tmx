@@ -19994,8 +19994,8 @@ dommage...</seg>
       <tuv lang="en">
         <seg>File &amp;Filters...</seg>
       </tuv>
-      <tuv lang="fr">
-        <seg>&amp;Fichiers et filtres...</seg>
+      <tuv lang="fr" changeid="briac" changedate="20200724T172134Z">
+        <seg>&amp;Filtres de fichiers...</seg>
       </tuv>
     </tu>
     <tu>
@@ -20034,16 +20034,16 @@ dommage...</seg>
       <tuv lang="en">
         <seg>File Filters</seg>
       </tuv>
-      <tuv lang="fr" changeid="jchelary" changedate="20130526T095848Z">
-        <seg>Fichiers et filtres</seg>
+      <tuv lang="fr" changeid="briac" changedate="20200724T172035Z">
+        <seg>Filtres de fichiers</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>File Filters...</seg>
       </tuv>
-      <tuv lang="fr" changeid="laurieetclémentine" changedate="20130411T140637Z">
-        <seg>Fichiers et filtres...</seg>
+      <tuv lang="fr" changeid="briac" changedate="20200724T172013Z">
+        <seg>Filtres de fichiers...</seg>
       </tuv>
     </tu>
     <tu>
@@ -32236,8 +32236,8 @@ Rajout d'une partie approriée, afin que la note de bas de page ne se retrouve p
       <tuv lang="en">
         <seg>Note that in the menu &lt;g2&gt;Options-&gt;File Filters&lt;/g2&gt;, the global user filters are changed, not the project filters.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Didier" changedate="20130528T082825Z">
-        <seg>Veuillez noter que dans le menu &lt;g2&gt;Options -&gt; Fichiers et filtres...&lt;/g2&gt;, ce sont les filtres globaux des utilisateurs qui sont modifiés, et pas seulement les filtres du projet.</seg>
+      <tuv lang="fr" changeid="briac" changedate="20200724T172255Z">
+        <seg>Veuillez noter que dans le menu &lt;g2&gt;Options -&gt; Filtres de fichiers...&lt;/g2&gt;, ce sont les filtres globaux des utilisateurs qui sont modifiés, et pas seulement les filtres du projet</seg>
       </tuv>
     </tu>
     <tu>
@@ -39919,6 +39919,14 @@ La recherche port par défaut sur le projet, et peut porter sur tout fichier sit
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130421T180809Z">
         <seg>Voir &lt;l1&gt;Validation des balises...&lt;/l1&gt; et &lt;x2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See &lt;l3&gt;File Filters preferences&lt;/l3&gt; for more on the subject.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20200724T171933Z" creationid="briac" creationdate="20200724T171933Z">
+        <seg>Voir chapitre&lt;l3&gt; Filtres de fichiers&lt;/l3&gt;pour plus d'informations à ce sujet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50083,8 +50091,8 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="en">
         <seg>To create a project-specific set of file filters, click on the &lt;g0&gt;File filter ... &lt;/g0&gt;button, then activate &lt;g1&gt;Enable project specific filters&lt;/g1&gt; check box in the window that opens.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Didier" changedate="20141202T214141Z" creationid="Didier" creationdate="20141202T214141Z">
-        <seg>Pour créer un ensemble de filtres de fichiers spécifiques au projet, cliquez sur le bouton &lt;g0&gt;Fichiers et filtres...&lt;/g0&gt; puis cochez la case &lt;g1&gt;Appliquer des paramètres de filtres de fichiers spécifiques au projet&lt;/g1&gt; dans la fenêtre qui s'ouvre.</seg>
+      <tuv lang="fr" changeid="briac" changedate="20200724T172156Z" creationid="Didier" creationdate="20141202T214141Z">
+        <seg>Pour créer un ensemble de filtres de fichiers spécifiques au projet, cliquez sur le bouton &lt;g0&gt;Filtres de fichiers...&lt;/g0&gt; puis cochez la case &lt;g1&gt;Appliquer des paramètres de filtres de fichiers spécifiques au projet&lt;/g1&gt; dans la fenêtre qui s'ouvre.</seg>
       </tuv>
     </tu>
     <tu>
