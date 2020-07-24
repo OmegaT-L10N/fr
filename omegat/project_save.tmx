@@ -18656,6 +18656,14 @@ pas de page...</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enables automatic notification of &lt;a0&gt;OmegaT&lt;/a0&gt; updates.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20200724T171625Z" creationid="briac" creationdate="20200724T171625Z">
+        <seg>Affiche automatiquement une notification lorsqu'une nouvelle version d'&lt;a0&gt;OmegaT&lt;/a0&gt; est disponible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enables case-insensitive matching (by default, the pattern is case-sensitive).</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130506T123457Z">
@@ -24542,6 +24550,14 @@ been installed in ROM).</seg>
         <seg>If you decide mid-translation to switch from sentence to paragraph translation, the internal translation memory of the project will not be changed (OmegaT may upgrade old translation memories that did not use sentence segmentation, but not vice versa), but OmegaT will attempt to create paragraph fuzzy matches by glueing together existing sentence translations.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20151120T153616Z" creationid="Didier" creationdate="20151120T153616Z">
+        <seg>Si, en plein milieu de la traduction, vous décidez de passer d'une traduction par phrase à une traduction par paragraphe, la mémoire de traduction interne du projet ne sera pas modifiée (OmegaT peut mettre à jour des vieilles mémoires de traduction qui n'étaient pas segmentées par phrase, mais pas l'inverse), mais OmegaT essayera de créer des correspondances pour les paragraphes en ajoutant bout à bout des traductions de phrases existantes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you decide mid-translation to switch from sentence to paragraph translation, the internal translation memory of the project will not be changed (OmegaT may upgrade old translation memories that did not use sentence segmentation, but not vice versa), but OmegaT will attempt to create paragraph fuzzy matches by gluing together existing sentence translations.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20200724T171725Z" creationid="briac" creationdate="20200724T171725Z">
         <seg>Si, en plein milieu de la traduction, vous décidez de passer d'une traduction par phrase à une traduction par paragraphe, la mémoire de traduction interne du projet ne sera pas modifiée (OmegaT peut mettre à jour des vieilles mémoires de traduction qui n'étaient pas segmentées par phrase, mais pas l'inverse), mais OmegaT essayera de créer des correspondances pour les paragraphes en ajoutant bout à bout des traductions de phrases existantes.</seg>
       </tuv>
     </tu>
@@ -36076,6 +36092,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Plugins are installed in the &lt;f0&gt;/plugins&lt;/f0&gt; folder.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20200724T171535Z" creationid="briac" creationdate="20200724T171535Z">
+        <seg>Les extensions sont installées dans le dossier &lt;f0&gt;/plugins&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Plugins&lt;/p0&gt; &lt;s1&gt;LanguageTool</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20190429T131320Z" creationid="briac" creationdate="20190429T131320Z">
@@ -36686,6 +36710,14 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
       </tuv>
       <tuv lang="fr" changeid="laurieetclémentine" changedate="20130411T132921Z">
         <seg>Menu Projet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project Properties</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20200724T171639Z" creationid="briac" creationdate="20200724T171639Z">
+        <seg>Propriétés du projet</seg>
       </tuv>
     </tu>
     <tu>
@@ -39871,6 +39903,14 @@ La recherche port par défaut sur le projet, et peut porter sur tout fichier sit
       </tuv>
       <tuv lang="fr" changeid="jchelary" changedate="20130526T123922Z">
         <seg>Consultez &lt;l1&gt;Fichiers et filtres&lt;/l1&gt; pour obtenir la liste des formats de fichier gérés par OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See &lt;l1&gt;Segmentation Setup preferences&lt;/l1&gt; for more information on segmentation rules.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20200724T171829Z" creationid="briac" creationdate="20200724T171829Z">
+        <seg>Voir le chapitre &lt;l1&gt;Configuration de la segmentation&lt;/l1&gt; pour plus d'informations concernant les règles de segmentation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48773,6 +48813,14 @@ under the terms of this General Public License.</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20200115T170914Z" creationid="briac" creationdate="20200115T170914Z">
         <seg>Cette boîte de dialogue peut être ouverte en sélectionnant &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Préférences...&lt;/g2&gt; &lt;/m0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This dialog is accessible by selecting &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Properties...&lt;/g2&gt; &lt;/m0&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20200724T171713Z" creationid="briac" creationdate="20200724T171713Z">
+        <seg>Cette boîte de dialogue peut être ouverte en sélectionnant &lt;m0&gt; &lt;g1&gt;Projet&lt;/g1&gt; &lt;g2&gt;Propriétés...&lt;/g2&gt; &lt;/m0&gt;</seg>
       </tuv>
     </tu>
     <tu>
