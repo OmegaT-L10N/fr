@@ -11323,6 +11323,14 @@ void, and will automatically terminate your rights under this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Appendices</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20200724T172850Z" creationid="briac" creationdate="20200724T172850Z">
+        <seg>Annexes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Application files</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130415T164156Z">
@@ -22615,6 +22623,14 @@ a disparu...</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>How To...</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20200724T172922Z" creationid="briac" creationdate="20200724T172922Z">
+        <seg>Guides pratiques</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>How they do so is very much up to them.</seg>
       </tuv>
       <tuv lang="fr">
@@ -33004,6 +33020,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT 4.2 - User's Guide</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20200724T173102Z" creationid="briac" creationdate="20200724T173102Z">
+        <seg>OmegaT 4.2 – Guide de l'utilisateur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT &lt;s0&gt;the free translation memory tool&lt;/s0&gt;</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20170918T110215Z" creationid="briac" creationdate="20170918T110202Z">
@@ -33765,6 +33789,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130527T131408Z">
         <seg>OmegaT prend en charge deux logiciels populaires de gestion des versions, &lt;u0&gt;Apache Subversion&lt;/u0&gt; (souvent abrégé SVN, d'après le nom de la commande svn) et &lt;u1&gt;Git&lt;/u1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT team</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20200724T173112Z" creationid="briac" creationdate="20200724T173112Z">
+        <seg>Équipe OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -35322,6 +35354,14 @@ mirage, pas de page...</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130528T124633Z">
         <seg>Éléments graphiques des volets</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Panes</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20200724T172859Z" creationid="briac" creationdate="20200724T172859Z">
+        <seg>Volets</seg>
       </tuv>
     </tu>
     <tu>
@@ -39959,6 +39999,14 @@ La recherche port par défaut sur le projet, et peut porter sur tout fichier sit
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20200724T171933Z" creationid="briac" creationdate="20200724T171933Z">
         <seg>Voir chapitre&lt;l3&gt; Filtres de fichiers&lt;/l3&gt;pour plus d'informations à ce sujet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See &lt;m1&gt;&lt;g2&gt;Options&lt;/g2&gt;&lt;g3&gt;Preferences...&lt;/g3&gt;&lt;g4&gt;File Filters&lt;/g4&gt;&lt;/m1&gt; for a list of file formats that OmegaT can handle.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20200724T172833Z" creationid="briac" creationdate="20200724T172833Z">
+        <seg>Consultez &lt;m1&gt;&lt;g2&gt;Options&lt;/g2&gt;&lt;g3&gt;Préférences...&lt;/g3&gt;&lt;g4&gt;Filtres de fichiers...&lt;/g4&gt;&lt;/m1&gt; pour obtenir la liste des formats de fichier gérés par OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45516,6 +45564,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The difference is thin: we call "Window" a window that can stay open next to the editor and interact with it, and "dialog" a window where you must select parameters before closing it and pursuing your translation activity.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20200724T173053Z" creationid="briac" creationdate="20200724T173053Z">
+        <seg>La différence est minime. Nous appelons « fenêtre » une fenêtre qui peut rester ouverte auprès de l'éditeur et interagir avec lui ; un « dialogue » est une fenêtre d'où vous devez sélectionner des paramètres avant de la fermer et de poursuivre votre traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The display mode of the translated documents must be modified within the application (such as Microsoft Word) commonly used to display or modify them (check the relevant manuals for details).</seg>
       </tuv>
       <tuv lang="fr" changeid="brigitte" changedate="20130715T193941Z">
@@ -45840,6 +45896,14 @@ instead.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20180514T095241Z" creationid="Didier" creationdate="20180514T095157Z">
         <seg>Les options suivantes ne s'appliquent pas si « Compatibilité avec OmegaT 2.6 » est cochée</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The following recipe is just one of the possibilities, but simple enough to follow and without any dangers for the assets.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20200724T172624Z" creationid="briac" creationdate="20200724T172624Z">
+        <seg>La procédure suivante fait partie des nombreuses possibilités existantes. Celle-ci est toutefois facile à suivre et ne présente pas de danger pour le matériel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51125,6 +51189,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translate a PDF file</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20200724T172738Z" creationid="briac" creationdate="20200724T172738Z">
+        <seg>Traduire un fichier PDF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translate the file</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130417T154837Z">
@@ -53132,6 +53204,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Using TMX with alternative language</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20200724T172720Z" creationid="briac" creationdate="20200724T172720Z">
+        <seg>Utiliser un fichier TMX avec des langues alternatives</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Using TMX with alternative language pairs</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130507T091110Z">
@@ -54603,6 +54683,14 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       </tuv>
       <tuv lang="fr">
         <seg>Utilisateurs de Windows et Linux : si vous êtes certain qu'une version convenable du JRE est déjà installée, vous pouvez installer une version d'OmegaT sans le JRE (cela est indiqué par le nom de la version, « Without_JRE »).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Windows and dialogs</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20200724T172937Z" creationid="briac" creationdate="20200724T172937Z">
+        <seg>Fenêtres et dialogues</seg>
       </tuv>
     </tu>
     <tu>
