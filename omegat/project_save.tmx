@@ -20401,6 +20401,14 @@ patents.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Folder ID</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20200724T160542Z" creationid="briac" creationdate="20200724T160422Z">
+        <seg>Identifiant dossier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Folder already exists and is not empty.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20121113T085947Z">
@@ -31661,6 +31669,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No OAuth token specified</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20200724T160446Z" creationid="briac" creationdate="20200724T160446Z">
+        <seg>Aucun jeton OAuth spécifié</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No Suggestions</seg>
       </tuv>
       <tuv lang="fr">
@@ -31689,6 +31705,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20121113T090204Z">
         <seg>Aucune connexion disponible, le projet est en mode déconnecté.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No folder ID specified</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20200724T160539Z" creationid="briac" creationdate="20200724T160539Z">
+        <seg>Aucun identifiant dossier spécifié</seg>
       </tuv>
     </tu>
     <tu>
@@ -32677,6 +32701,14 @@ combination as such.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20101112T182933Z">
         <seg>O&amp;ptions...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OAuth token</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20200724T160435Z" creationid="briac" creationdate="20200724T160435Z">
+        <seg>Jeton OAuth</seg>
       </tuv>
     </tu>
     <tu>
@@ -52447,6 +52479,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use glossary terms</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20200724T160439Z" creationid="briac" creationdate="20200724T160439Z">
+        <seg>Utiliser les termes du glossaire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use it if OmegaT is not to synchronize the project contents.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130527T151209Z">
@@ -54987,6 +55027,14 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20150211T164930Z" creationid="Didier" creationdate="20150211T164930Z">
         <seg>Yandex Translate - Clé d'API non spécifiée</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Yandex.Cloud</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20200724T160412Z" creationid="briac" creationdate="20200724T160412Z">
+        <seg>Yandex.Cloud</seg>
       </tuv>
     </tu>
     <tu>
