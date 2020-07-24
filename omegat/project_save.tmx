@@ -51689,10 +51689,26 @@ Les recherches exactes correspondent à l'ensemble de la chaîne recherchée.</s
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unable to parse IAM service response</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20200724T161127Z" creationid="briac" creationdate="20200724T161127Z">
+        <seg>Impossible d'analyser la réponse du service IAM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unable to parse filters configuration file</seg>
       </tuv>
       <tuv lang="fr">
         <seg>Impossible d'analyser le fichier de configuration des filtres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to parse translate service response</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20200724T161219Z" creationid="briac" creationdate="20200724T161219Z">
+        <seg>Impossible d'analyser la réponse du service de traduction</seg>
       </tuv>
     </tu>
     <tu>
