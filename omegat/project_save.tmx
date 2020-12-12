@@ -13239,6 +13239,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Change to "needs-review-translation" instead of "translated"</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20201212T112303Z" creationid="suzume" creationdate="20201212T112303Z">
+        <seg>Passer à "needs-review-translation" au lieu de "translated"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Changed &amp;before:</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
@@ -21549,6 +21557,14 @@ authors of previous versions.</seg>
       </tuv>
       <tuv lang="fr" changeid="etudiant_local" changedate="20130410T125507Z">
         <seg>Peul, Peulh, Pulaar, Pularl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Full checking can lead to false positives in normal texts and the PO filter already detects them.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20201212T115433Z" creationid="suzume" creationdate="20201212T115433Z">
+        <seg>La vérification complète peut donner des faux positifs dans des textes normaux et le filtre PO les détecte déjà.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44135,6 +44151,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Team Mode Repository Mapping</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20201212T112159Z" creationid="suzume" creationdate="20201212T112130Z">
+        <seg>Mappage des référentiels en mode équipe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Team Options</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20091211T172701Z">
@@ -64781,6 +64805,22 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20170307T143635Z" creationid="Didier" creationdate="20170307T143635Z">
         <seg>{0} bascule l'orientation entre les modes gauche à droite, droite à gauche et dépendants des langues</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0} version {1} ({2})</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20201212T112308Z" creationid="suzume" creationdate="20201212T112308Z">
+        <seg>{0} version {1} ({2})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0} version {1}, update {2} ({3})</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20201212T112309Z" creationid="suzume" creationdate="20201212T112309Z">
+        <seg>{0} version {1}, update {2} ({3})</seg>
       </tuv>
     </tu>
     <tu>
