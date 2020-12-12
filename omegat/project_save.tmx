@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.0_0_d32f93c4e" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1918,8 +1918,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Translated Files Language:</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
-        <seg>Langue des fichiers cible :</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20201203T085421Z">
+        <seg>Langue des fichiers traduits :</seg>
       </tuv>
     </tu>
     <tu>
@@ -3121,6 +3121,14 @@ Comportement du lemmatiseur source ou cible à utiliser (remplace les paramètre
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--alignDir=&lt;p0&gt;&lt;location of translated files&gt;&lt;/p0&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20201203T090001Z" creationid="suzume" creationdate="20201203T090001Z">
+        <seg>[参考] --alignDir={emplacement des fichiers traduits}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--alignDir={location of translated files}</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130502T141458Z">
@@ -4270,6 +4278,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;auto&gt; leaves the choice of encoding to &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20201203T085256Z" creationid="suzume" creationdate="20201203T085256Z">
+        <seg>&lt;auto&gt; laisse le choix de l'encodage à &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;auto&gt; leaves the encoding choice to &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130415T181406Z">
@@ -4662,6 +4678,22 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Add or rewrite encoding declaration in HTML and XHTML files&lt;/e0&gt;: the target files often need to have a different character set encoding from the one in the source file (whether it is explicitly defined or implied).</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20201203T085013Z" creationid="suzume" creationdate="20201203T085013Z">
+        <seg>&lt;e0&gt;Ajouter ou réécrire une déclaration d'encodage dans les fichiers HTML et XHTML&lt;/e0&gt; : généralement, les fichiers cibles doivent posséder un jeu de caractères d'encodage différent de celui présent dans le fichier source (que cela soit défini explicitement ou implicitement).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;Aggregate tags&lt;/e0&gt;: if checked, tags with no translatable text between them will be aggregated into a single tag.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20201203T062236Z" creationid="suzume" creationdate="20201203T062236Z">
+        <seg>&lt;e0&gt;Agréger les balises&lt;/e0&gt; : si cette case est cochée, les balises qui ne contiennent pas de texte traductible entre elles seront rassemblées en une seule balise.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Aggregate tags&lt;/e0&gt;: if checked, tags without translatable text between them will be aggregated into single tags.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
@@ -4726,6 +4758,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Compress whitespace in translated document&lt;/e0&gt;: multiple continuous whitespace characters will be converted into one single whitespace in the translated document.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20201203T084912Z" creationid="suzume" creationdate="20201203T084912Z">
+        <seg>&lt;e0&gt;Compresser les espaces dans le document traduit&lt;/e0&gt; : les caractères d'espacement contigus seront convertis en un seul caractère d'espacement dans le document traduit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Compress whitespace in translated document&lt;/e0&gt;: multiple continuous whitespaces will be converted into one single whitespace in translated document.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z" creationid="Didier" creationdate="20151111T092249Z">
@@ -4782,10 +4822,26 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Do not translate the content attribute of meta-tags ...:&lt;/e0&gt; The meta-tags in the box will not be translated.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20201203T061517Z" creationid="suzume" creationdate="20201203T061517Z">
+        <seg>&lt;e0&gt;Ne pas traduire l'attribut content des balises méta ... :&lt;/e0&gt; les balises méta indiquées ne seront pas traduites.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Do not translate the content of tags with the following attribute key-value pairs (separate with commas)&lt;/e0&gt;: a match in the list of key-value pairs will cause the content of tags to be ignored</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
         <seg>&lt;e0&gt;Ne pas traduire le contenu des balises comportant les paires de clé-valeur d'attribut suivantes (séparées par des virgules)&lt;/e0&gt; : une correspondance dans la liste des paires de valeur-clé aura pour effet de faire ignorer le contenu de la balise</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;Do not translate the content of tags with the following attribute key-value pairs (separate with commas)&lt;/e0&gt;: if a tag matches the list of key-value pairs, its content will be ignored.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20201203T061916Z" creationid="suzume" creationdate="20201203T061916Z">
+        <seg>&lt;e0&gt;Ne pas traduire le contenu des balises comportant les paires de clé-valeur d'attribut suivantes (séparées par des virgules)&lt;/e0&gt; : si une balise correspond à un élément de la liste des paires de clé-valeur, son contenu sera ignoré.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5102,6 +5158,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Preserve spaces for all tags&lt;/e0&gt;: if checked, "white space" (i.e. spaces and newlines) will be preserved, even if this option is not defined in the document.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20201203T062312Z" creationid="suzume" creationdate="20201203T062312Z">
+        <seg>&lt;e0&gt;Préserver les espaces pour toutes les balises&lt;/e0&gt; : si cette case est cochée, les « caractères d'espacement » (c.-à-d. les espaces et les sauts de ligne) seront préservés, même s'ils ne sont pas définis techniquement dans le document.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Preserve spaces for all tags&lt;/e0&gt;: if checked, "white space" (i.e., spaces and newlines) will be preserved, even if not set technically in the document</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
@@ -5129,6 +5193,14 @@ la configuration actuelle est de {0} Mo.</seg>
         <seg>&lt;e0&gt;Remove HTML comments in translated document&lt;/e0&gt;: all commented parts (between &lt;!-- and --&gt;) won't be copied in the translated document.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z" creationid="Didier" creationdate="20151111T092429Z">
+        <seg>&lt;e0&gt;Supprimer les commentaires HTML dans le document traduit&lt;/e0&gt; : les parties commentées (entre &lt;!-- et --&gt;) ne seront pas copiées dans le document traduit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;Remove HTML comments in translated document&lt;/e0&gt;: commented parts (between &lt;!-- and --&gt;) will not be copied into the translated document.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20201203T084926Z" creationid="suzume" creationdate="20201203T084926Z">
         <seg>&lt;e0&gt;Supprimer les commentaires HTML dans le document traduit&lt;/e0&gt; : les parties commentées (entre &lt;!-- et --&gt;) ne seront pas copiées dans le document traduit.</seg>
       </tuv>
     </tu>
@@ -5222,6 +5294,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Skip text matching regular expression&lt;/e0&gt;: any text matching the regular expression is skipped.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20201203T061425Z" creationid="suzume" creationdate="20201203T061425Z">
+        <seg>&lt;e0&gt;Ignorer le texte correspondant à une expression régulière&lt;/e0&gt; : le texte correspondant à l'expression régulière choisie est ignoré.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Skip text matching regular expression&lt;/e0&gt;: the text matching the regular expression gets skipped.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
@@ -5242,6 +5322,14 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130528T133252Z">
         <seg>&lt;e0&gt;Commencer un nouveau paragraphe sur : &lt;br&gt; (rupture de ligne)&lt;/e0&gt;, cette balise HTML créera un paragraphe du point de vue de la segmentation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;Start a new paragraph on&lt;/e0&gt;: the &lt;br&gt; HTML tag will constitute a paragraph break for segmentation purposes.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20201203T061334Z" creationid="suzume" creationdate="20201203T061236Z">
+        <seg>&lt;e0&gt;Commencer un nouveau paragraphe sur&lt;/e0&gt; : &lt;br&gt; (rupture de ligne), cette balise HTML créera un saut de paragraphe du point de vue de la segmentation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10534,6 +10622,14 @@ rights of fair use or other equivalent, as provided by copyright law.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Allow translation to be equal to source</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20201203T113144Z" creationid="suzume" creationdate="20201203T113144Z">
+        <seg>Autoriser une traduction identique à la source</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Allows the user create an entry in the default glossary file.</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130421T155945Z">
@@ -12783,6 +12879,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By default, OmegaT does not execute the commands specified in the project-specific settings (the &lt;f0&gt;finder.xml&lt;/f0&gt; file in the &lt;f1&gt;omegat&lt;/f1&gt; folder), because they may have a critical impact on the machine's security.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20201203T091725Z" creationid="suzume" creationdate="20201203T091604Z">
+        <seg>Par défaut, OmegaT n'exécute pas les commandes spécifiées dans les paramètres spécifiques au projet (le fichier &lt;f0&gt;finder.xml&lt;/f0&gt; dans le dossier &lt;f1&gt;omegat&lt;/f1&gt;) car elles peuvent avoir un impact critique sur la sécurité de la machine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default, it is not possible to select words in the source segment using the keyboard rather than the mouse.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160726T132740Z" creationid="Didier" creationdate="20160726T132740Z">
@@ -13123,6 +13227,14 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130506T094438Z">
         <seg>Changez le nom de l'ensemble de règles et du masque de langue par celui de la langue concernée et de son code (voir &lt;x1/&gt; pour obtenir une liste des codes de langue).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Change the name of the rule set and the language pattern to the language concerned and its code.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20201203T090645Z" creationid="suzume" creationdate="20201203T090645Z">
+        <seg>Changez le nom de l'ensemble de règles et du masque de langue par celui de la langue concernée et de son code.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13507,6 +13619,14 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20140604T064735Z" creationid="Didier" creationdate="20140604T064735Z">
         <seg>Nombre de balises</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check or uncheck the rules depending on whether they are relevant to the type of text you are translating.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20201203T091444Z" creationid="suzume" creationdate="20201203T091423Z">
+        <seg>Cochez ou décochez les règles en fonction de leur pertinence dans le type de texte que vous traduisez.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18712,6 +18832,14 @@ pas de page...</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enables you to change the order of the commands in the context menu (the right-click menu).</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20201203T112505Z" creationid="suzume" creationdate="20201203T112505Z">
+        <seg>La fonction vous permet de changer l'ordre des commandes dans le menu contextuel (le menu qui s'ouvre sur un clic-droit).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Encoded text (*.UTF8)</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130416T140814Z">
@@ -20743,6 +20871,14 @@ control compilation and installation of the executable.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, &lt;l0&gt;&lt;div class="hide"&gt; &lt;span translate="no"&gt;&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20201203T062206Z" creationid="suzume" creationdate="20201203T062015Z">
+        <seg>Par exemple, &lt;l0&gt;&lt;div class="hide"&gt; &lt;span translate="no"&gt;&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, anyone is free to make changes to OmegaT's program code and to submit these changes to the development team.</seg>
       </tuv>
       <tuv lang="fr">
@@ -20762,6 +20898,14 @@ control compilation and installation of the executable.</seg>
         <seg>For example, by default, XHTML filters are used for processing files with the .xhtml extension.</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130415T154014Z">
+        <seg>Par exemple, par défaut, les filtres XHTML sont utilisés pour traiter les fichiers qui portent l'extension .xhtml.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, by default, the XHTML filter is used to process files with the .xhtml extension.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20201203T085139Z" creationid="suzume" creationdate="20201203T085139Z">
         <seg>Par exemple, par défaut, les filtres XHTML sont utilisés pour traiter les fichiers qui portent l'extension .xhtml.</seg>
       </tuv>
     </tu>
@@ -20979,8 +21123,16 @@ know their rights.</seg>
       <tuv lang="en">
         <seg>For instance, if the file filter specifies UTF8 as the encoding scheme for the target files, selecting Always will assure that this information is included in the translated files.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Didier" changedate="20130527T134403Z">
-        <seg>Par exemple, si le filtre de fichiers désigne UTF8 comme système d'encodage pour les fichiers cibles, sélectionner « Toujours » permettra de s'assurer que cette information est inscrite dans les fichiers cibles.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20201203T085849Z">
+        <seg>Par exemple, si le filtre de fichiers désigne UTF8 comme système d'encodage pour les fichiers traduits, sélectionner « Toujours » permettra de s'assurer que cette information est inscrite dans les fichiers traduits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For instance, if the file filter specifies UTF8 as the encoding scheme for the target files, selecting Always will ensure that this information is included in the translated files.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20201203T085746Z" creationid="suzume" creationdate="20201203T062411Z">
+        <seg>Par exemple, si le filtre de fichiers désigne UTF8 comme système d'encodage pour les fichiers traduits, sélectionner « Toujours » permettra de s'assurer que cette information est inscrite dans les fichiers traduits.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21141,6 +21293,14 @@ authors of previous versions.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
         <seg>Pour reprendre l'exemple ci-dessus, le champ contiendrait : &lt;l1&gt;class=hide, translate=no &lt;/l1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For the example above, the field would contain: &lt;l1&gt;class=hide, translate=no &lt;/l1&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20201203T062224Z" creationid="suzume" creationdate="20201203T062224Z">
+        <seg>Pour reprendre l'exemple ci-dessus, le champ contiendrait : &lt;l1&gt;class=hide, translate=no&lt;/l1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22497,8 +22657,8 @@ a disparu...</seg>
       <tuv lang="en">
         <seg>Here you may setup the source filename patterns of files the filter will process, customize the filenames of translated files, and select what encodings it will use for loading the file and saving its translated counterpart.</seg>
       </tuv>
-      <tuv lang="fr">
-        <seg>Les paramètres présents vous permettent de créer les masques des noms de fichiers qui seront traités par le filtre, de personnaliser le nom des fichiers traduits et de choisir l'encodage utilisé pour lire les fichiers source et écrire les fichiers cible.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20201203T085458Z">
+        <seg>Les paramètres présents vous permettent de créer les masques des noms de fichiers qui seront traités par le filtre, de personnaliser le nom des fichiers traduits et de choisir l'encodage utilisé pour lire les fichiers source et écrire les fichiers traduits.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23774,6 +23934,14 @@ tous les paramètres reprendront leur valeur par défaut,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If sentence segmentation has been selected, you can setup the rules by selecting &lt;m4&gt; &lt;g5&gt;Options&lt;/g5&gt; &lt;g6&gt;Segmentation...&lt;/g6&gt; &lt;/m4&gt;from the main menu.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20201203T090631Z" creationid="suzume" creationdate="20201203T090631Z">
+        <seg>Si la segmentation par phrase a été choisie, vous pouvez en configurer les règles dans &lt;m4&gt; &lt;g5&gt;Options&lt;/g5&gt; &lt;g6&gt;Segmentation...&lt;/g6&gt; &lt;/m4&gt;(dans la barre des menus).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If sentence segmentation has been selected, you can setup the rules by selecting &lt;m5&gt; &lt;g6&gt;&lt;i7/&gt;Options&lt;/g6&gt; &lt;g8&gt;Segmentation...&lt;/g8&gt; &lt;/m5&gt;from the main menu.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130506T090827Z">
@@ -25006,6 +25174,14 @@ OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you want to revert to the filter's default configuration, click &lt;e1&gt;Defaults.&lt;/e1&gt; You can also modify the name directly in the target filename pattern field of the file filters dialog.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20201203T090537Z" creationid="suzume" creationdate="20201203T090537Z">
+        <seg>Si vous souhaitez retourner à la configuration par défaut du filtre, cliquez sur &lt;e1&gt;Valeurs par défaut.&lt;/e1&gt; Vous pourrez ainsi modifier le nom directement dans le champ de masque de nom de fichier cible présent dans la boite de dialogue des filtres de fichiers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you want to use &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; to open a project, modify your &lt;f4&gt;MainMenuShortcuts.properties&lt;/f4&gt; as follows:</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
@@ -25137,6 +25313,14 @@ library.</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130419T195730Z">
         <seg>Si votre programme est une bibliothèque de sous-programmes, vous pouvez considérer plus utile d'autoriser l'édition de liens d'applications propriétaires avec la bibliothèque.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If your set of rules handles a language-country pair, we advise you to move it to the top using the &lt;e1&gt;Move Up&lt;/e1&gt; button.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20201203T090730Z" creationid="suzume" creationdate="20201203T090730Z">
+        <seg>Si votre ensemble de règles prend en charge une paire langue-pays, il est conseillé de le faire remonter en utilisant le bouton &lt;e1&gt;Glisser vers le haut&lt;/e1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25762,6 +25946,14 @@ the scope of this License.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130528T084410Z">
         <seg>Pour choisir le type de segmentation, allez dans &lt;m1&gt; &lt;g2&gt;&lt;i3/&gt;Projet&lt;/g2&gt; &lt;g4&gt;Propriétés...&lt;/g4&gt; &lt;/m1&gt; et cochez ou décochez la case « Activer la segmentation par phrase ».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In order to select the type of segmentation, select &lt;m1&gt; &lt;g2&gt;Project&lt;/g2&gt; &lt;g3&gt;Properties...&lt;/g3&gt; &lt;/m1&gt; from the main menu and tick or untick the check box provided.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20201203T090606Z" creationid="suzume" creationdate="20201203T090606Z">
+        <seg>Pour choisir le type de segmentation, allez dans &lt;m1&gt; &lt;g2&gt;Projet&lt;/g2&gt; &lt;g3&gt;Propriétés...&lt;/g3&gt; &lt;/m1&gt; et cochez ou décochez la case « Activer la segmentation par phrase ».</seg>
       </tuv>
     </tu>
     <tu>
@@ -27477,6 +27669,14 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is shown in red in the tag validator.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20201203T061435Z" creationid="suzume" creationdate="20201203T061435Z">
+        <seg>Il est affiché en rouge dans le validateur de balise.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is shown rendered red in the tag validator.</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130415T122333Z">
@@ -27489,6 +27689,14 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
         <seg>Il est plus simple, cependant, de rechercher des dictionnaires en ligne, en utilisant le champ &lt;e0&gt;URL des dictionnaires en ligne &lt;/e0&gt; :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is sometimes useful to be able make certain tags untranslatable based on the values of their attributes.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20201203T061941Z" creationid="suzume" creationdate="20201203T061941Z">
+        <seg>Il est parfois utile de rendre certaines balises intraductibles en se basant sur la valeur de leurs attributs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28123,8 +28331,8 @@ itself on the first run.</seg>
       <tuv lang="en">
         <seg>Keep in mind that a pair group must have both its opening and its closing tag deleted to ensure that all traces of the formatting are properly erased, otherwise the translated file may become corrupted.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Didier" changedate="20130528T131630Z">
-        <seg>Gardez bien à l'esprit que pour une paire de balises, la balise ouvrante et la balise fermante doivent être toutes les deux supprimées afin de s'assurer que toute trace du formatage a été correctement effacée. Dans le cas contraire, le fichier risquerait d'être endommagé.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20201203T085917Z">
+        <seg>Gardez bien à l'esprit que pour une paire de balises, la balise ouvrante et la balise fermante doivent être toutes les deux supprimées afin de s'assurer que toute trace du formatage a été correctement effacée. Dans le cas contraire, le fichier traduit risquerait d'être endommagé.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33348,6 +33556,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT has a built-in spell checker based on the &lt;l0&gt;spelling checker&lt;/l0&gt; used in Apache OpenOffice, LibreOffice, Firefox and Thunderbird.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20201203T090757Z" creationid="suzume" creationdate="20201203T090757Z">
+        <seg>OmegaT possède un vérificateur orthographique intégré basé sur le &lt;l0&gt;vérificateur d'orthographe&lt;/l0&gt; utilisée dans Apache OpenOffice, LibreOffice, Firefox et Thunderbird.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT has a built-in spell checker based on the spelling checker used in Apache OpenOffice, LibreOffice, Firefox and Thunderbird.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130528T095800Z">
@@ -33424,6 +33640,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130415T181926Z">
         <seg>OmegaT identifie l'encodage du fichier source en utilisant sa déclaration d'encodage, si celle-ci est présente (fichier HTML, les fichiers à base XML)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT identifies the source file encoding by using its encoding declaration, if present (HTML files, XML based files).</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20201203T085304Z" creationid="suzume" creationdate="20201203T085304Z">
+        <seg>OmegaT identifie l'encodage du fichier source en utilisant sa déclaration d'encodage, si celle-ci est présente (fichier HTML, les fichiers à base XML).</seg>
       </tuv>
     </tu>
     <tu>
@@ -33548,6 +33772,14 @@ published by the Free Software Foundation, either version 3 of the License, or
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130415T182049Z">
         <seg>OmegaT est conçu pour utiliser un encodage obligatoire pour certains formats de fichier (propriétés de Java, etc)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT is instructed to use a mandatory encoding for certain file formats (Java properties etc).</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20201203T085314Z" creationid="suzume" creationdate="20201203T085314Z">
+        <seg>OmegaT est conçu pour utiliser un encodage obligatoire pour certains formats de fichier (propriétés de Java, etc.).</seg>
       </tuv>
     </tu>
     <tu>
@@ -34454,6 +34686,14 @@ install virtualenv</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130415T175944Z">
         <seg>Seul un nombre limité de formats de fichier définissent un encodage obligatoire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Only activate this option if you know what you are doing, and only for projects from trusted sources.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20201203T091813Z" creationid="suzume" creationdate="20201203T091813Z">
+        <seg>N'activez cette option que si vous savez ce que vous faies, et seulement pour des projets issus de sources fiables.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40059,6 +40299,14 @@ La recherche port par défaut sur le projet, et peut porter sur tout fichier sit
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;l2&gt;Regular expressions&lt;/l2&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20201203T090741Z" creationid="suzume" creationdate="20201203T090741Z">
+        <seg>Voir &lt;l2&gt;Expressions régulières&lt;/l2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;l3&gt;File Filters preferences&lt;/l3&gt; for more on the subject.</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20200724T171933Z" creationid="briac" creationdate="20200724T171933Z">
@@ -40836,6 +41084,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130424T092611Z">
         <seg>Sélectionnez la sauvegarde de la mémoire de traduction qui contient le plus probablement les données recherchées (soit la plus récente, soir la dernière version de la veille)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the location of the language checker.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20201203T090848Z" creationid="suzume" creationdate="20201203T090848Z">
+        <seg>Choisissez l'emplacement du vérificateur linguistique.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41903,8 +42159,8 @@ of the GPL, as needed to protect the freedom of users.</seg>
       <tuv lang="en">
         <seg>Sometimes, however, your translated file may look strange, and – in the worst case – may even refuse to open.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Didier" changedate="20130527T142419Z">
-        <seg>Cependant, il peut arriver que votre document traduit ait un aspect étrange et que - dans le pire des cas - il refuse de s'ouvrir.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20201203T085952Z">
+        <seg>Cependant, il peut arriver que votre fichier traduit ait un aspect étrange et que - dans le pire des cas - il refuse de s'ouvrir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42089,6 +42345,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130415T175322Z">
         <seg>Encodage des fichiers cible et source</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source and Translated file encoding</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20201203T085813Z" creationid="suzume" creationdate="20201203T085151Z">
+        <seg>Encodage des fichiers source et traduits</seg>
       </tuv>
     </tu>
     <tu>
@@ -43775,6 +44039,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Target files can also be written in any encoding.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20201203T085223Z" creationid="suzume" creationdate="20201203T085223Z">
+        <seg>Les fichiers cibles peuvent ainsi être écrits dans n'importe quel encodage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Target files committed</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20171016T153854Z" creationid="Didier" creationdate="20171016T153854Z">
@@ -44128,6 +44400,14 @@ Les remplacements portent sur les segments cible du projet, qu'ils soient déjà
         <seg>Text in source segment that matches is shown in italic.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130429T082813Z">
+        <seg>Le texte dans les segments source correspondants est affiché en italique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Text in source segments that matches is shown in italics.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20201203T061445Z" creationid="suzume" creationdate="20201203T061445Z">
         <seg>Le texte dans les segments source correspondants est affiché en italique.</seg>
       </tuv>
     </tu>
@@ -45600,6 +45880,14 @@ instead.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
         <seg>La boîte de dialogue du menu &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Ligne d'édition...&lt;/g2&gt; &lt;/m0&gt; permet à l'utilisateur de choisir comment le segment actuellement présent dans la ligne d'édition sera initialisé et géré :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The dialog includes a special target filename pattern editor, which you can use to customize the names of output files.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20201203T085126Z" creationid="suzume" creationdate="20201203T085126Z">
+        <seg>La boite de dialogue est utile car elle contient un éditeur de masque de noms de fichiers cible spécial qui vous permet de personnaliser le nom des fichiers de sortie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47519,6 +47807,14 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The source and target encoding fields use drop-down menus containing all the supported encodings.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20201203T085240Z" creationid="suzume" creationdate="20201203T085240Z">
+        <seg>Les champs d'encodage cible et source utilisent des listes déroulantes incluant tous les encodages supportés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The source code for a work means the preferred form of the work for
 making modifications to it.</seg>
       </tuv>
@@ -47716,6 +48012,14 @@ making modifications to it.</seg>
       </tuv>
       <tuv lang="fr" changeid="brigitte" changedate="20130626T073851Z">
         <seg>Les balises dans OmegaT sont grisées pour être facilement reconnaissables.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The target filename pattern uses a special syntax, so if you want to edit this field, you must click &lt;e0&gt;Edit...&lt;/e0&gt;and use the Edit Pattern Dialog.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20201203T090520Z" creationid="suzume" creationdate="20201203T090520Z">
+        <seg>Le masque de nom de fichier cible utilise une syntaxe spéciale, de sorte que si vous voulez modifier ce champ, vous devez cliquer sur &lt;e0&gt;Modifier...&lt;/e0&gt; et utiliser la boite de dialogue Modifier le masque.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48977,6 +49281,14 @@ under the terms of this General Public License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This dialog enables you to specify the source filename patterns for files to be processed by the filter, customize the filenames of translated files and select which encodings should be used for loading the source file and saving the translation.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20201203T085055Z" creationid="suzume" creationdate="20201203T085055Z">
+        <seg>Cette boite de dialogue vous permet de créer les masques de noms de fichiers source des fichiers qui vont être traités par le filtre, de personnaliser les noms des fichiers traduits, et de sélectionner les encodages qui doivent être utilisés pour charger le fichier et enregistrer sa traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This dialog is accessible by selecting &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Preferences...&lt;/g2&gt; &lt;/m0&gt;</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20200115T170914Z" creationid="briac" creationdate="20200115T170914Z">
@@ -50095,6 +50407,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To add a new file filter pattern, click &lt;e1&gt;Add&lt;/e1&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20201203T085114Z" creationid="suzume" creationdate="20201203T085114Z">
+        <seg>Pour ajouter un nouveau masque de nom de fichier, cliquez sur &lt;e1&gt;Ajouter&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To add contents to it, select &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;D&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Project&lt;/g5&gt; &lt;g6&gt;Create Translated Documents&lt;/g6&gt; &lt;/m0&gt;.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130415T160845Z">
@@ -50605,10 +50925,26 @@ as a Source Forge user.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To make this possible, select this option.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20201203T113335Z" creationid="suzume" creationdate="20201203T113321Z">
+        <seg>Pour que cela soit possible, choisissez cette option.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To modify a file filter pattern, either modify the fields directly or click &lt;e0&gt;Edit.&lt;/e0&gt; To add a new file filter pattern, click &lt;e1&gt;Add&lt;/e1&gt;.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130429T090305Z">
         <seg>Pour modifier un masque de filtre de fichier, modifiez directement les champs concernés ou cliquez sur &lt;e0&gt;Modifier...&lt;/e0&gt;. Pour ajouter un nouveau masque de nom de fichier, cliquez sur &lt;e1&gt;Ajouter&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To modify a file filter pattern, either modify the fields directly or click &lt;e0&gt;Edit&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20201203T085111Z" creationid="suzume" creationdate="20201203T085111Z">
+        <seg>Pour modifier un masque de filtre de fichier, modifiez directement les champs concernés ou cliquez sur &lt;e0&gt;Modifier...&lt;/e0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51335,8 +51671,8 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       <tuv lang="en">
         <seg>Translated Files Folder</seg>
       </tuv>
-      <tuv lang="fr">
-        <seg>Dossier des fichiers cible</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20201203T085427Z">
+        <seg>Dossier des fichiers traduits</seg>
       </tuv>
     </tu>
     <tu>
@@ -51375,10 +51711,18 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translated filename</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20201203T085826Z" creationid="suzume" creationdate="20201203T085352Z">
+        <seg>Noms des fichiers traduits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translated files folder entered does not exist!</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20190421T021852Z">
-        <seg>Le dossier spécifié pour les fichiers cible n'existe pas !</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20201203T085439Z">
+        <seg>Le dossier spécifié pour les fichiers traduits n'existe pas !</seg>
       </tuv>
     </tu>
     <tu>
@@ -53316,6 +53660,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Using a different language checker on your local machine than the one supplied with OmegaT gives you the option of personalising the verification rules.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20201203T091324Z" creationid="suzume" creationdate="20201203T091240Z">
+        <seg>En utilisant un vérificateur linguistique sur votre machine différent de celui fourni avec OmegaT, vous pouvez personaliser les règles de vérification.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Using keyword search with &lt;e0&gt;&lt;l1&gt;open file&lt;/l1&gt;&lt;/e0&gt; will thus find all occurrences of the string &lt;e2&gt;&lt;l3&gt;open file&lt;/l3&gt;,&lt;/e2&gt; as well as &lt;e4&gt;&lt;l5&gt;file opened&lt;/l5&gt;, &lt;l6&gt;open input file&lt;/l6&gt;, &lt;l7&gt;file may not be safe to open&lt;/l7&gt;&lt;/e4&gt;, etc.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130528T084151Z">
@@ -53375,6 +53727,14 @@ searchable without subscription:</seg>
         <seg>Using this option the translator can specify, whether the target files are to have the encoding declaration included.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130429T082316Z">
+        <seg>En utilisant cette option, le traducteur peut spécifier si les fichiers cibles doivent inclure la déclaration d'encodage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using this option, the translator can specify whether the target files should have the encoding declaration included.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20201203T062357Z" creationid="suzume" creationdate="20201203T062357Z">
         <seg>En utilisant cette option, le traducteur peut spécifier si les fichiers cibles doivent inclure la déclaration d'encodage.</seg>
       </tuv>
     </tu>
@@ -53528,6 +53888,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160427T153603Z" creationid="Didier" creationdate="20160427T153603Z">
         <seg>Valeur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Values around 100 display commands at the top, and values around 900 display them at the bottom.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20201203T112748Z" creationid="suzume" creationdate="20201203T112748Z">
+        <seg>Les valeurs autour de 100 affichent les commandes en haut, celles autour de 900 les affichent en bas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54321,6 +54689,14 @@ add Python to your Path.</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130416T204705Z">
         <seg>Pour les traductions entre langues RTL et LTR, il peut être nécessaire, pour lire correctement les balises de la source et les entrer correctement dans la cible, que le traducteur bascule un grand nombre de fois entre les modes LTR et RTL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When translating software-related files, you can configure the Tag Validator options to also check programming (%...) variables.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20201203T113520Z" creationid="suzume" creationdate="20201203T113520Z">
+        <seg>Lors de la traduction de fichiers liés à des logiciels vous pouvez configurer les options de validation des balises afin de vérifier également les variables de programmation (%...).</seg>
       </tuv>
     </tu>
     <tu>
@@ -55587,6 +55963,14 @@ Spotlight search field.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also define various options relating to tag validation and define custom tags.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20201203T113558Z" creationid="suzume" creationdate="20201203T113558Z">
+        <seg>Vous pouvez également définir différentes options liées à la validation des balises et définir des balises personnalisées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can also enable project-specific file filters, which will only be used on the current project, by selecting the &lt;e1&gt;File Filters...&lt;/e1&gt; option in Project Properties.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130607T094039Z">
@@ -55748,6 +56132,14 @@ your programs, too.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can change the source encoding for each different source filename pattern.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20201203T085154Z" creationid="suzume" creationdate="20201203T085154Z">
+        <seg>Vous pouvez changer l'encodage source pour chacun des différents masques de nom de fichier source.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can check that yourself by selecting the item &lt;e0&gt;File Filters&lt;/e0&gt; in the menu &lt;e1&gt;Options&lt;/e1&gt;.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130506T080627Z">
@@ -55824,6 +56216,14 @@ your programs, too.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130415T094821Z">
         <seg>Vous pouvez décider de ne pas traduire du tout ces segments.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can define key-value pairs for tags to be left untranslated.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20201203T062211Z" creationid="suzume" creationdate="20201203T062211Z">
+        <seg>Vous pouvez définir des paires de valeur-clé pour les balises qui doivent rester non traduites.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56598,6 +56998,14 @@ them.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20161227T171050Z" creationid="Didier" creationdate="20161227T171050Z">
         <seg>Ce mot de passe vous sera demandé à chaque lancement d'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You will need to restart OmegaT for this change to take effect.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20201203T113134Z" creationid="suzume" creationdate="20201203T113113Z">
+        <seg>Il vous fera redémarrer OmegaT pour que ces modifications prennent effet.</seg>
       </tuv>
     </tu>
     <tu>
