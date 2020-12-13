@@ -13663,6 +13663,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check simple &amp;java MessageFormat patterns (e.g. {0}).</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20201212T115444Z" creationid="suzume" creationdate="20201212T115444Z">
+        <seg>Vérifier les masques &amp;Java MessageFormat de type simple (ex. : {0}).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check simple java MessageFormat patterns</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130430T142312Z">
@@ -15463,6 +15471,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20150713T084221Z" creationid="Didier" creationdate="20150713T084221Z">
         <seg>Impossible de créer le dossier spécifié.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Could not delete {0}</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20201212T115503Z" creationid="suzume" creationdate="20201212T115503Z">
+        <seg>Impossible d'effacer {0}</seg>
       </tuv>
     </tu>
     <tu>
