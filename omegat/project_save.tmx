@@ -21371,6 +21371,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For pre-defined options, remove the &lt;l1&gt;#&lt;/l1&gt; before a parameter to enable it.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T124258Z" creationid="suzume" creationdate="20210110T124258Z">
+        <seg>Pour les options prédéfinies, supprimer le &lt;l1&gt;#&lt;/l1&gt; devant un paramètre pour l'activer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For programmers: Allows you to configure the Tag Validator options to check also programming (%...) variables.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130527T153039Z">
@@ -35496,6 +35504,14 @@ happen should you file a bug report.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20141202T175013Z" creationid="Didier" creationdate="20141202T175013Z">
         <seg>Les options se modifient en éditant &lt;e0&gt;OmegaT.sh&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Options are changed by modifying &lt;f0&gt;Configuration.properties&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T124249Z" creationid="suzume" creationdate="20210110T124249Z">
+        <seg>Les options se modifient en éditant &lt;f0&gt;Configuration.properties&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56458,6 +56474,14 @@ you think will help the developers with finding and fixing your bug.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also &lt;c3&gt;cd&lt;/c3&gt; there directly from the command line and open &lt;f4&gt;Configuration.properties&lt;/f4&gt; in a command line editor like emacs or vi.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T124238Z" creationid="suzume" creationdate="20210110T124238Z">
+        <seg>Vous pouvez également utiliser la commande Unix « cd » directement à partir de la ligne de commande et ouvrir Configuration.properties dans un éditeur en ligne de commande comme emacs ou vi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can also add source files from Internet pages, written in MediaWiki, by clicking on&lt;g4&gt; "Import from MediaWiki"&lt;/g4&gt; button and providing the corresponding URL.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130507T125514Z">
@@ -56905,6 +56929,14 @@ installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20140414T134600Z" creationid="Didier" creationdate="20140414T134600Z">
         <seg>Vous pouvez modifier le comportement d'OmegaT en modifiant les &lt;e0&gt;Propriétés&lt;/e0&gt; ainsi que la partie &lt;e1&gt;VMOptions&lt;/e1&gt; du paquet &lt;a2&gt;&lt;e3&gt;Info.plist&lt;/e3&gt;&lt;/a2&gt; file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can modify OmegaT's behaviour by editing the &lt;e0&gt;Properties&lt;/e0&gt; as well as the &lt;f1&gt;Configuration.properties&lt;/f1&gt; file in the package.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T124221Z" creationid="suzume" creationdate="20210110T124221Z">
+        <seg>Vous pouvez modifier le comportement d'OmegaT en modifiant les &lt;e0&gt;Propriétés&lt;/e0&gt; ainsi que le fichier &lt;f1&gt;Configuration.properties&lt;/f1&gt; dans le paquet.</seg>
       </tuv>
     </tu>
     <tu>
