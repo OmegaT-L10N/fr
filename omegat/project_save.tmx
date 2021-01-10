@@ -45281,6 +45281,14 @@ software and other kinds of works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The PO filter already handles %..</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T094722Z" creationid="suzume" creationdate="20210110T094722Z">
+        <seg>Le filtre gère déjà %..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The PO filter threw an exception:</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
@@ -57864,6 +57872,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130412T075430Z">
         <seg>et &lt;c0&gt;&lt;touche&gt;&lt;/c0&gt; peut désigner n'importe qu'elle touche disponible sur votre clavier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>and Java™ Resource Bundle filter already handles {#} tags, so you only need this for other file types.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T094813Z" creationid="suzume" creationdate="20210110T094813Z">
+        <seg>et le filtre des paquets de ressources Java gère déjà les balises {#}, cette fonction ne vous est donc nécessaire que pour les autres types de fichiers.</seg>
       </tuv>
     </tu>
     <tu>
