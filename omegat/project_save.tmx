@@ -13215,6 +13215,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Change the default interval (3 minutes) depending on the characteristics of the project:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T095129Z" creationid="suzume" creationdate="20210110T095129Z">
+        <seg>Modifier l'intervalle par défaut (3 minutes) selon les caractéristiques du projet :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Change the encoding of your files to Unicode</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130422T143551Z">
@@ -13795,6 +13803,14 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20141202T172352Z" creationid="Didier" creationdate="20141202T172352Z">
         <seg>Cochez cette option pour être prévenu des différences entre les balises des segments source et cible à chaque fois que vous quittez un segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check this option to display all non-unique segments (repetitions) in grey.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T095125Z" creationid="suzume" creationdate="20210110T095125Z">
+        <seg>Cocher cette option pour griser tous les segments non-uniques (répétitions).</seg>
       </tuv>
     </tu>
     <tu>
@@ -26540,6 +26556,14 @@ patent against the party.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Include the first non-unique segment when marking non-unique segments</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T095122Z" creationid="suzume" creationdate="20210110T095122Z">
+        <seg>Inclure le premier segment non unique lorsque les segments non uniques sont marqués</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Includes</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160427T150430Z" creationid="Didier" creationdate="20160427T150430Z">
@@ -36008,8 +36032,8 @@ mirage, pas de page...</seg>
       <tuv lang="en">
         <seg>Percentage calculated with &lt;g0&gt;Full text, including tags and numbers&lt;/g0&gt; option.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210110T095058Z" creationid="suzume" creationdate="20210110T095058Z">
-        <seg>Pourcentage calculé avec l'option &lt;g0&gt;Lemmatisation, aucune balise et aucun nombre&lt;/g0&gt;.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T095111Z" creationid="suzume" creationdate="20210110T095058Z">
+        <seg>Pourcentage calculé avec l'option &lt;g0&gt;Texte complet, y compris balises et nombres&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54853,6 +54877,14 @@ add Python to your Path.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When the option is unchecked, all non-unique segments are shown in grey except the first occurrence.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T095127Z" creationid="suzume" creationdate="20210110T095127Z">
+        <seg>Quand l'option est décochée, seul le premier segment non-unique n'est pas grisé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When the translated document is created, its display direction will be the same as that of the original document.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130430T082135Z">
@@ -61631,6 +61663,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>long intervals for team projects hosted on external servers.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T095141Z" creationid="suzume" creationdate="20210110T095141Z">
+        <seg>intervalles de longue durée pour des projets en équipes faisant appel à des serveurs externes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>lowerCaseMenuItem</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T103853Z">
@@ -63373,6 +63413,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T100212Z">
         <seg>sg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>short intervals (minimum: 10 seconds) for synchronised projects on an internal server.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T095139Z" creationid="suzume" creationdate="20210110T095139Z">
+        <seg>intervalles de courte durée (minimum : 10 secondes) pour des projets synchronisés sur un réseau interne.</seg>
       </tuv>
     </tu>
     <tu>
