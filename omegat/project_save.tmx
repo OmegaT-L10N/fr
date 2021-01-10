@@ -15921,6 +15921,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create a local copy of the repository (&lt;c0&gt;check out&lt;/c0&gt; with SVN, &lt;c1&gt;clone&lt;/c1&gt; with Git).</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T165513Z" creationid="suzume" creationdate="20210110T165443Z">
+        <seg>Créer une copie locale du dépôt (&lt;c0&gt;checkout&lt;/c0&gt; avec SVN, &lt;c1&gt;clone&lt;/c1&gt; avec Git).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create a new project on ProjectLocker</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130412T114903Z">
@@ -15929,10 +15937,26 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create a new, empty OmegaT project in the local repository.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T165507Z" creationid="suzume" creationdate="20210110T165507Z">
+        <seg>Créer un nouveau projet OmegaT vide dans le dépôt local.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create a project, separate for other projects, in the desired language pair, with an appropriate name - note that the TMXs created will include this name.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130528T123545Z">
         <seg>Créez un projet séparé des autres projets dans la paire de langues désirée et donnez-lui un nom approprié. Veuillez noter que les TMX créés incluront ce nom.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create an SVN or Git repository on a server that will be accessible by the translators.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T165409Z" creationid="suzume" creationdate="20210110T165409Z">
+        <seg>Créer un dépot SVN ou Git sur un serveur qui sera accessible aux traducteurs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16085,6 +16109,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130424T134310Z">
         <seg>Créer une mémoire de traduction pour les documents sélectionnés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Creating an empty project on a server</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T165339Z" creationid="suzume" creationdate="20210110T165339Z">
+        <seg>créer un projet vide sur un serveur</seg>
       </tuv>
     </tu>
     <tu>
@@ -43968,6 +44000,14 @@ patents cannot be used to render the program non-free.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z" creationid="Didier" creationdate="20160427T160003Z">
         <seg>Étape 1 : ajuster les paramètres d'alignement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Step 1: Create an empty project on a server</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T165328Z" creationid="suzume" creationdate="20210110T165328Z">
+        <seg>Étape 1 : créer un projet vide sur un serveur</seg>
       </tuv>
     </tu>
     <tu>
