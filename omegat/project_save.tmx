@@ -3570,6 +3570,14 @@ Valider les balises.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>.repositories</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T133344Z" creationid="suzume" creationdate="20210110T133344Z">
+        <seg>.repositories</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>/// Installation of Kolekti ///</seg>
       </tuv>
       <tuv lang="fr">
@@ -10454,6 +10462,14 @@ this License without regard to the additional permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Aligner</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T133355Z" creationid="suzume" creationdate="20210110T133355Z">
+        <seg>Aligner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Aligner "Accepted" Group</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160427T152951Z" creationid="Didier" creationdate="20160427T152951Z">
@@ -15227,6 +15243,14 @@ Une liste blanche en expression régulière des fichiers source à traiter.</seg
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20141202T213450Z" creationid="Didier" creationdate="20141202T213450Z">
         <seg>Contient les options pour afficher les textes et les informations</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Contains project parameters as defined in the &lt;l0&gt;Project properties&lt;/l0&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T133341Z" creationid="suzume" creationdate="20210110T133327Z">
+        <seg>Il contient les paramètres de projet définis dans le dialogue &lt;l0&gt;Propriétés du projet&lt;/l0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61712,6 +61736,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>if existing, it contains project-specific GUI settings.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T133127Z" creationid="suzume" creationdate="20210110T133127Z">
+        <seg>Si présent, il contient les paramètres d'interface utilisateur spécifiques au projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>if existing, it contains project-specific file filters, if requested in &lt;g0&gt;Project &gt; Properties ... &lt;/g0&gt;See &lt;l1&gt;Chapter Project properties&lt;/l1&gt;</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130430T121929Z">
@@ -61722,8 +61754,8 @@ de créer son dossier de configuration.</seg>
       <tuv lang="en">
         <seg>if existing, it contains project-specific file filters.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210110T133056Z" creationid="suzume" creationdate="20210110T133056Z">
-        <seg>Si présent, il contient les paramètres d'interface utilisateur spécifiques au projet.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T133114Z" creationid="suzume" creationdate="20210110T133056Z">
+        <seg>Si présent, il contient les filtres de fichiers spécifiques au projet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61738,8 +61770,8 @@ de créer son dossier de configuration.</seg>
       <tuv lang="en">
         <seg>if existing, it contains project-specific segmentation rules.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210110T133024Z" creationid="suzume" creationdate="20210110T133024Z">
-        <seg>Si présent, il contient les paramètres d'interface utilisateur spécifiques au projet.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T133227Z" creationid="suzume" creationdate="20210110T133024Z">
+        <seg>Si présent, il contient les règles de segmentation spécifiques au projet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63415,6 +63447,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T104402Z">
         <seg>omegat.prefs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>omegat.project (file)</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T133241Z" creationid="suzume" creationdate="20210110T133241Z">
+        <seg>omegat.project (fichier)</seg>
       </tuv>
     </tu>
     <tu>
