@@ -12750,8 +12750,8 @@ documentation.</seg>
       <tuv lang="en">
         <seg>Browser plugin</seg>
       </tuv>
-      <tuv lang="fr" changeid="Didier" changedate="20180918T135242Z" creationid="Didier" creationdate="20180918T135242Z">
-        <seg>Browser plugin</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T133550Z" creationid="Didier" creationdate="20180918T135242Z">
+        <seg>Module Browser</seg>
       </tuv>
     </tu>
     <tu>
@@ -18672,6 +18672,14 @@ several security warnings.</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130419T193629Z">
         <seg>FIN DES CONDITIONS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>EPWING plugin</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T133606Z" creationid="suzume" creationdate="20210110T133606Z">
+        <seg>Module EPWING</seg>
       </tuv>
     </tu>
     <tu>
@@ -34184,6 +34192,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT can be installed on any operating system capable of running version 1.8 of the Java runtime environment.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T133513Z" creationid="suzume" creationdate="20210110T133513Z">
+        <seg>OmegaT peut être installé sur tout système d'exploitation intégrant la version 1.8 de l'environnement d'exécution Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT can check that programming variables (like %s for instance) in the source exist in the translation.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130527T142213Z">
@@ -34228,6 +34244,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20170403T160707Z" creationid="briac" creationdate="20170403T160707Z">
         <seg>OmegaT requiert actuellement le JRE version 1.6 ou ultérieure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT currently requires version 1.8 of the JRE or later.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T133515Z" creationid="suzume" creationdate="20210110T133515Z">
+        <seg>OmegaT requiert actuellement le JRE version 1.8 ou ultérieure.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38247,6 +38271,14 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20161227T171825Z" creationid="Didier" creationdate="20161227T171825Z">
         <seg>Fournisseur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Provides filters for handling further file formats, including Trados TTX, and Markdown.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T133532Z" creationid="suzume" creationdate="20210110T133532Z">
+        <seg>Fournit des filtres pour gérer d'autres formats de fichiers, tels que Trados TTX et Markdown.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45316,6 +45348,14 @@ material under section 10.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>TexTra plugin</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T133558Z" creationid="suzume" creationdate="20210110T133558Z">
+        <seg>Module TexTra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Text</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130531T094036Z">
@@ -51300,6 +51340,14 @@ file type is associated with Java on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This window is accessible by selecting &lt;m0&gt; &lt;g1&gt;Tools&lt;/g1&gt; &lt;g2&gt;Scripting...&lt;/g2&gt; &lt;/m0&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T133446Z" creationid="suzume" creationdate="20210110T133424Z">
+        <seg>Cette fenêtre peut être ouverte en sélectionnant &lt;m0&gt; &lt;g1&gt;Outils&lt;/g1&gt; &lt;g2&gt;Scripts...&lt;/g2&gt; &lt;/m0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This, however, should generally be avoided once you have started translating the project.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130507T125243Z">
@@ -51686,6 +51734,14 @@ public, and in some countries other activities as well.</seg>
         <seg>To customize the script feature, do the following:</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
+        <seg>Pour personnaliser les caractéristiques du script, suivez les étapes ci-dessous :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To customize the scripting feature, do the following:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T133456Z" creationid="suzume" creationdate="20210110T133456Z">
         <seg>Pour personnaliser les caractéristiques du script, suivez les étapes ci-dessous :</seg>
       </tuv>
     </tu>
@@ -62791,6 +62847,22 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160427T150705Z" creationid="Didier" creationdate="20160427T150705Z">
         <seg>mALIGNa (licence MIT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>macOS Notarized</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T133645Z" creationid="suzume" creationdate="20210110T133645Z">
+        <seg>macOS Notarié</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>macOS Unsigned</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T133658Z" creationid="suzume" creationdate="20210110T133658Z">
+        <seg>macOS Non signé</seg>
       </tuv>
     </tu>
     <tu>
