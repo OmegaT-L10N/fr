@@ -11077,6 +11077,14 @@ the predecessor has it or can get it with reasonable efforts.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An example of the use of this feature would be to send translated documents automatically to the client's FTP server.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T122324Z" creationid="suzume" creationdate="20210110T122324Z">
+        <seg>Exemple d'utilisation : envoi automatique des documents traduits par FTP sur le site du client.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An example would be a software project, with GUI localized in a number of languages.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130421T082001Z">
@@ -12883,6 +12891,14 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20201203T091725Z" creationid="suzume" creationdate="20201203T091604Z">
         <seg>Par défaut, OmegaT n'exécute pas les commandes spécifiées dans les paramètres spécifiques au projet (le fichier &lt;f0&gt;finder.xml&lt;/f0&gt; dans le dossier &lt;f1&gt;omegat&lt;/f1&gt;) car elles peuvent avoir un impact critique sur la sécurité de la machine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By default, OmegaT does not execute the commands specified in the project-specific settings (the &lt;f0&gt;omegat.project&lt;/f0&gt; file), because they may have a critical impact on the machine's security.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T122332Z" creationid="suzume" creationdate="20210110T122332Z">
+        <seg>Par défaut OmegaT n'execute pas les commandes spécifiées dans les paramètres spécifiques du projet (fichier &lt;f0&gt;omegat.project&lt;/f0&gt;) car elles peuvent être critiques pour la sécurité de la machine.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22759,6 +22775,14 @@ a disparu...</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Here you can redefine the master password used to protect login details and access keys for machine translation services.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T122340Z" creationid="suzume" creationdate="20210110T122340Z">
+        <seg>Permet de redéfinir un mot de passe maître, pour la protection des identifiants et clés d'accès aux services de traduction automatique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Here you can select different subfolders, for instance the subfolder with source files, subfolder for target files etc.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130528T083001Z">
@@ -23547,6 +23571,14 @@ need not be entered.)</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20170210T104105Z" creationid="Didier" creationdate="20170210T104105Z">
         <seg>Si Java est installé au niveau système et est inclus dans le chemin, il n'est pas nécessaire d'entrer le chemin complet.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If OmegaT needs to use an authenticated proxy server to access the Internet, enter the details provided by the proxy administrator here.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T122336Z" creationid="suzume" creationdate="20210110T122336Z">
+        <seg>Si OmegaT doit passer par un proxy authentifié pour accéder à Internet, saisir ici les identifiants fournis par le gestionnaire du proxy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40411,6 +40443,14 @@ La recherche port par défaut sur le projet, et peut porter sur tout fichier sit
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Secure store</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T122338Z" creationid="suzume" creationdate="20210110T122338Z">
+        <seg>Stockage sécurisé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130421T002145Z">
@@ -44203,6 +44243,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130411T091615Z">
         <seg>Tadjik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Take care to make a note of all these details before creating a new password, because they will all be deleted and will need to be re-entered.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T122345Z" creationid="suzume" creationdate="20210110T122345Z">
+        <seg>Veiller à bien noter toutes ces informations avant de créer un nouveau mot de passe, car elles seront toutes supprimées et devront être re-saisies.</seg>
       </tuv>
     </tu>
     <tu>
