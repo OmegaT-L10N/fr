@@ -22070,8 +22070,8 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       <tuv lang="en">
         <seg>Glossary note</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210110T094148Z" creationid="suzume" creationdate="20210110T094148Z">
-        <seg>Note</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T094212Z" creationid="suzume" creationdate="20210110T094148Z">
+        <seg>Note du glossaire</seg>
       </tuv>
     </tu>
     <tu>
@@ -22102,8 +22102,8 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       <tuv lang="en">
         <seg>Glossary translation</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210110T094143Z" creationid="suzume" creationdate="20210110T094143Z">
-        <seg>Traduction</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T094205Z" creationid="suzume" creationdate="20210110T094143Z">
+        <seg>Terme cible du glossaire</seg>
       </tuv>
     </tu>
     <tu>
@@ -54793,6 +54793,14 @@ add Python to your Path.</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130416T204705Z">
         <seg>Pour les traductions entre langues RTL et LTR, il peut être nécessaire, pour lire correctement les balises de la source et les entrer correctement dans la cible, que le traducteur bascule un grand nombre de fois entre les modes LTR et RTL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When translating software-related files, you can configure the Tag Validator options to also check programming (%...) variables or placeholders ({0}), if the file filter doesn't do it out of the box already.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T094702Z" creationid="suzume" creationdate="20210110T094702Z">
+        <seg>Lors de la traduction de fichiers liés à des logiciels vous pouvez configurer les options de validation des balises afin de vérifier également les variables de programmation (%...) ou des paramètres fictifs ({0}) si le filtre de fichier ne s'en charge pas déjà automatiquement.</seg>
       </tuv>
     </tu>
     <tu>
