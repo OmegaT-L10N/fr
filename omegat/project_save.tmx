@@ -14191,6 +14191,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Click on the icon button, then hit &lt;g0&gt;Browse...&lt;/g0&gt; and navigate to the &lt;f1&gt;/images&lt;/f1&gt; subfolder in the &lt;a2&gt;OmegaT&lt;/a2&gt; application folder.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T122904Z" creationid="suzume" creationdate="20210110T122904Z">
+        <seg>Cliquez sur le bouton d'icône puis sur &lt;g0&gt;Parcourir...&lt;/g0&gt; et accédez au sous-dossier &lt;f1&gt;/images&lt;/f1&gt; situé dans le dossier d'application &lt;a2&gt;OmegaT&lt;/a2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Click on the link to activate the segment in the Editor.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130527T142322Z">
@@ -18001,6 +18009,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
       <tuv lang="fr" changeid="jchelary" changedate="20130526T124922Z">
         <seg>Téléchargez&lt;e0&gt;OmegaT_3.n.n_Mac.zip.&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Download &lt;f0&gt;OmegaT_4.n.n_Mac.zip&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T124058Z" creationid="suzume" creationdate="20210110T124058Z">
+        <seg>Téléchargez &lt;f0&gt;OmegaT_4.n.n_Mac.zip&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25803,6 +25819,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In KMenuEditor select &lt;e3&gt;File &gt; New Item.&lt;/e3&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T122748Z" creationid="suzume" creationdate="20210110T122748Z">
+        <seg>Dans le KMenuEdit, sélectionnez &lt;e3&gt;Fichier -&gt; Nouvel élément&lt;/e3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In OmegaT, segments can be based on paragraphs or on segmentation rules.</seg>
       </tuv>
       <tuv lang="fr" changeid="etudiant_local" changedate="20130410T124816Z">
@@ -30368,6 +30392,14 @@ La version Mac intègre un JRE.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130527T150650Z">
         <seg>Assurez-vous que vos paramètres &lt;e3&gt;PATH&lt;/e3&gt; sont corrects et que les fichiers&lt;e4&gt;.jar &lt;/e4&gt; sont correctement associés à un lanceur Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Make sure that your &lt;v1&gt;PATH&lt;/v1&gt; settings are correct and that &lt;f2&gt;.jar&lt;/f2&gt; files are properly associated with a Java launcher.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T122922Z" creationid="suzume" creationdate="20210110T122922Z">
+        <seg>Assurez-vous que vos paramètres &lt;v1&gt;PATH&lt;/v1&gt; sont corrects et que les fichiers&lt;f2&gt;.jar &lt;/f2&gt; sont correctement associés à un lanceur Java.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35588,6 +35620,14 @@ Afficher des informations sur l'utilisation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Other Icons - Browse, and navigate to the &lt;f0&gt;/images&lt;/f0&gt; subfolder in the &lt;a1&gt;OmegaT&lt;/a1&gt; application folder.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T122802Z" creationid="suzume" creationdate="20210110T122802Z">
+        <seg>Autres icônes : recherchez et accédez au sous-dossier &lt;f0&gt;/images&lt;/f0&gt; situé dans le dossier d'application &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Other OmegaT resources</seg>
       </tuv>
       <tuv lang="fr">
@@ -39375,6 +39415,14 @@ ces mots : « pas de page »...</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Right-click on the panel - &lt;e0&gt;Add New Launcher&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T122838Z" creationid="suzume" creationdate="20210110T122838Z">
+        <seg>faites un clic droit sur le panneau - &lt;e0&gt;Ajouter un nouveau Lanceur&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Right-clicking on a filename opens a popup that allows to open the source file and (if it exists) the target file.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160718T161111Z" creationid="Didier" creationdate="20160718T161111Z">
@@ -41388,6 +41436,22 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
       <tuv lang="fr" changeid="brigitte" changedate="20130714T095029Z">
         <seg>Sélectionnez l'icône &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.png&lt;/e2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the &lt;f2&gt;OmegaT.png&lt;/f2&gt; icon.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T122819Z" creationid="suzume" creationdate="20210110T122819Z">
+        <seg>Choisissez l'icône &lt;f2&gt;OmegaT.png&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the &lt;f3&gt;OmegaT.png&lt;/f3&gt; icon.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T122908Z" creationid="suzume" creationdate="20210110T122908Z">
+        <seg>Choisissez l'icône &lt;f3&gt;OmegaT.png&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50529,6 +50593,14 @@ be a consequence of the rest of this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This will create an &lt;f0&gt;omegat/&lt;/f0&gt; folder in the working folder in which you will find all the files needed to run &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T122720Z" creationid="suzume" creationdate="20210110T122720Z">
+        <seg>Cela va créer un dossier &lt;f0&gt;omegat/&lt;/f0&gt; (dans le dossier de travail en cours) à l'intérieur duquel vous trouverez tous les fichiers nécessaires à l'exécution d'&lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This will create an omegat/ folder in the working folder in which you will find all the files needed to run &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130502T112909Z">
@@ -51567,6 +51639,14 @@ read:</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
         <seg>Pour désarchiver le fichier &lt;e1&gt;.tar.gz&lt;/e1&gt;  :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To untar the &lt;f2&gt;.tar.gz&lt;/f2&gt; file:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T122729Z" creationid="suzume" creationdate="20210110T122729Z">
+        <seg>Pour désarchiver le fichier &lt;f2&gt;.tar.gz&lt;/f2&gt; :</seg>
       </tuv>
     </tu>
     <tu>
@@ -61875,6 +61955,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160427T150705Z" creationid="Didier" creationdate="20160427T150705Z">
         <seg>mALIGNa (licence MIT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>macOS Users</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T122929Z" creationid="suzume" creationdate="20210110T122929Z">
+        <seg>Utilisateurs macos</seg>
       </tuv>
     </tu>
     <tu>
