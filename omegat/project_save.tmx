@@ -13633,6 +13633,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check Issues...</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T132339Z" creationid="suzume" creationdate="20210110T132339Z">
+        <seg>Afficher les erreurs...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check LanguageTools rules</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20150525T144611Z" creationid="Didier" creationdate="20150525T144611Z">
@@ -13942,6 +13950,14 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20200118T152138Z" creationid="suzume" creationdate="20200118T152025Z">
         <seg>Cochez cette case pour envoyer seulement des segments non-traduits aux services de traduction automatique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check this option in case &lt;a0&gt;OmegaT&lt;/a0&gt; does not display some glyphs properly (even if the fonts containing the relevant glyphs are installed on your machine).</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T132451Z" creationid="suzume" creationdate="20210110T132451Z">
+        <seg>Cochez cette option si OmegaT n'affiche par certains glyphes correctement (même si les polices contenant les glyphes appropriés sont installées sur votre machine).</seg>
       </tuv>
     </tu>
     <tu>
@@ -15384,12 +15400,11 @@ Une liste blanche en expression régulière des fichiers source à traiter.</seg
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Converts the current project into a MED package.</seg>
       </tuv>
-      <tuv lang="fr">
-        <seg>Permet de transformer le projet en fichier MED.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T132310Z">
+        <seg>Permet de transformer le projet en paquet MED.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21659,6 +21674,14 @@ make exceptions for this.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For technical details, see the &lt;u3&gt;Request For Enhancement&lt;/u3&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T132444Z" creationid="suzume" creationdate="20210110T132444Z">
+        <seg>Pour les détails techniques, consultez la &lt;u3&gt;demande d'amélioration&lt;/u3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For testing and demonstrating OmegaT.</seg>
       </tuv>
       <tuv lang="fr">
@@ -24095,6 +24118,14 @@ circumstances.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20141202T180902Z" creationid="Didier" creationdate="20141202T180902Z">
         <seg>Si cochée, l'arrière-plan de tous les segments où le segment cible a été rempli automatiquement (à partir des TMX placées dans /tm/auto, par exemple) sont affichés en couleur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If checked, the background of all segments where the target segment has been auto-populated (from TMXs placed in &lt;f0&gt;/tm/auto&lt;/f0&gt; for example) are displayed in colour.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T132433Z" creationid="suzume" creationdate="20210110T132433Z">
+        <seg>Si cochée, l'arrière-plan de tous les segments où le segment cible a été rempli automatiquement (à partir des TMX placées dans &lt;f0&gt;/tm/auto&lt;/f0&gt;, par exemple) sont affichés en couleur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31061,6 +31092,14 @@ impose that choice.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mark Paragraph delimitations</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T132344Z" creationid="suzume" creationdate="20210110T132344Z">
+        <seg>Marquer les délimitations de &amp;paragraphes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mark Prior: correcting my first draft was an act of love for OmegaT and the English language.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130527T125609Z">
@@ -35764,8 +35803,8 @@ happen should you file a bug report.</seg>
       <tuv lang="en">
         <seg>Opens a project package in the MED format defined by the EU Directorate-General for Translation.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210110T132239Z" creationid="suzume" creationdate="20210110T132239Z">
-        <seg>Ouvre un fichier au format MED définit par la direction générale de la traduction de l'Union européenne.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T132257Z" creationid="suzume" creationdate="20210110T132239Z">
+        <seg>Ouvre un projet empaqueté au format MED définit par la direction générale de la traduction de l'Union européenne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42206,6 +42245,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130503T094949Z">
         <seg>Choisir l'option &lt;e0&gt;Afficher pour le segment actuel&lt;/e0&gt; permettra d'afficher la date et l'auteur de la dernière modification subie par le segment en cours.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Setting the Display Modification option to &lt;g0&gt;Current segment&lt;/g0&gt; will display the time and the author of the last change in the current segment.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T132456Z" creationid="suzume" creationdate="20210110T132456Z">
+        <seg>Choisir l'option &lt;g0&gt;Afficher pour le segment actuel&lt;/g0&gt; permettra d'afficher la date et l'auteur de la dernière modification subie par le segment en cours.</seg>
       </tuv>
     </tu>
     <tu>
