@@ -24336,6 +24336,14 @@ tous les paramètres reprendront leur valeur par défaut,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If no text is selected, &lt;a3&gt;OmegaT&lt;/a3&gt; selects the word that contains the letter immediately to the right of the cursor.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T131835Z" creationid="suzume" creationdate="20210110T131835Z">
+        <seg>Si aucun texte n'est sélectionné, &lt;a3&gt;OmegaT&lt;/a3&gt; sélectionne le mot qui contient la lettre se trouvant immédiatement à la droite du curseur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If not checked, source segments will not be shown.</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130421T173720Z">
@@ -39321,6 +39329,14 @@ ces mots : « pas de page »...</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Replace with Source</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T131745Z" creationid="suzume" creationdate="20210110T131745Z">
+        <seg>Remplacer par la source</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Replace with match</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130421T225438Z">
@@ -46878,6 +46894,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The exported contents are copied to the file &lt;f1&gt;selection.txt&lt;/f1&gt; located in the User's preference files folder.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T131754Z" creationid="suzume" creationdate="20210110T131754Z">
+        <seg>Le contenu exporté est copié dans le fichier &lt;f1&gt;selection.txt&lt;/f1&gt; situé dans le dossier de fichiers des préférences utilisateur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The extension must be &lt;f0&gt;.txt&lt;/f0&gt; or &lt;f1&gt;.utf8&lt;/f1&gt; (if not, it will be added).</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20141202T173653Z" creationid="Didier" creationdate="20141202T173653Z">
@@ -53908,6 +53932,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;F3&lt;/k2&gt; &lt;/k0&gt; to cycle through the four alternatives.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T131829Z" creationid="suzume" creationdate="20210110T131829Z">
+        <seg>Utilisez &lt;k0&gt; &lt;k1&gt;Maj+&lt;/k1&gt;&lt;k2&gt;F3&lt;/k2&gt; &lt;/k0&gt; pour passer d'une option à l'autre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use Fuzzy Matching for Dictionary Entries</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20150910T091615Z" creationid="Didier" creationdate="20150910T091615Z">
@@ -54136,6 +54168,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20141202T180329Z" creationid="Didier" creationdate="20141202T180329Z">
         <seg>Utilisez cette commande pour enregistrer une traduction identique à la source, même si « Autoriser une traduction identique à la source » (dans Options/Ligne d'édition...) n'est pas cochée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use this command to register the translation to be identical to the source, even if &lt;l0&gt;&lt;g1&gt;Allow translation to be equal to source&lt;/g1&gt;&lt;/l0&gt; is not checked.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T131910Z" creationid="suzume" creationdate="20210110T131910Z">
+        <seg>Utilisez cette commande pour enregistrer une traduction identique à la source, même si &lt;l0&gt;&lt;g1&gt;Autoriser une traduction identique à la source&lt;/g1&gt;&lt;/l0&gt; n'est pas cochée.</seg>
       </tuv>
     </tu>
     <tu>
