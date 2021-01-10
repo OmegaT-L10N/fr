@@ -21823,6 +21823,14 @@ authors of previous versions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For translation memories in folders with a name &lt;f0&gt;penalty-xxx&lt;/f0&gt; (with xxx between 0 and 100), matches will be degraded according to the name of the folder: a 100% match in any of TMs, residing in a folder called &lt;f1&gt;penalty-30&lt;/f1&gt; for instance, will be lowered to a 70% match.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T132940Z" creationid="suzume" creationdate="20210110T132940Z">
+        <seg>Pour les mémoires de traduction qui se trouvent dans les dossiers portant le nom &lt;f0&gt;penalty-xxx&lt;/f0&gt; (xxx correspondant à un chiffre entre 0 et 100), les correspondances seront diminuées en fonction du nom de ce dossier : une correspondance à 100 % dans n'importe quelle mémoire de traduction qui se trouve, par exemple, dans un dossier appelé &lt;f1&gt;penalty-30&lt;/f1&gt; sera abaissée à une correspondance à 70 %.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For your reference, OmegaT displays the translation of any word that is both present in the segment and registered in the glossary.</seg>
       </tuv>
       <tuv lang="fr" changeid="jchelary" changedate="20130526T100319Z">
@@ -26774,6 +26782,14 @@ the limitation as if written in the body of this License.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20141202T222121Z" creationid="Didier" creationdate="20141202T222121Z">
         <seg>Dans l'Éditeur, lorsqu'une correspondance est insérée depuis une TMX contenu dans un dossier nommé &lt;e0&gt;mt&lt;/e0&gt;, l'arrière-plan du segment actuel passe en rouge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the editor pane, when a match is inserted from a TMX contained in a folder named &lt;f0&gt;mt&lt;/f0&gt;, the background of the active segment is changed to red.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T132906Z" creationid="suzume" creationdate="20210110T132906Z">
+        <seg>Dans l'Éditeur, lorsqu'une correspondance est insérée depuis une TMX contenu dans un dossier nommé &lt;f0&gt;mt&lt;/f0&gt;, l'arrière-plan du segment actuel passe en rouge.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38007,6 +38023,14 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130421T232522Z">
         <seg>Liste des fichiers du projet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project folder</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T132841Z" creationid="suzume" creationdate="20210110T132841Z">
+        <seg>Dossier projet</seg>
       </tuv>
     </tu>
     <tu>
@@ -59752,6 +59776,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>dictionary</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T132943Z" creationid="suzume" creationdate="20210110T132943Z">
+        <seg>dictionary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>dir-10\\test\.html</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T104544Z">
@@ -60492,6 +60524,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T095927Z">
         <seg>glg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>glossary</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T132947Z" creationid="suzume" creationdate="20210110T132947Z">
+        <seg>glossary</seg>
       </tuv>
     </tu>
     <tu>
@@ -61680,10 +61720,26 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>if existing, it contains project-specific file filters.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T133056Z" creationid="suzume" creationdate="20210110T133056Z">
+        <seg>Si présent, il contient les paramètres d'interface utilisateur spécifiques au projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>if existing, it contains project-specific segmentation rules, if requested in &lt;g0&gt;Project &gt; Properties ... &lt;/g0&gt;See &lt;l1&gt;Chapter Project properties&lt;/l1&gt;</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130430T121918Z">
         <seg>contient les règles de segmentation spécifiques au projet si elles existent. Ces règles peuvent être établies dans &lt;g0&gt;Projet &gt; Propriétés ... &lt;/g0&gt;Voir&lt;l1&gt;le chapitre Propriétés du projet&lt;/l1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>if existing, it contains project-specific segmentation rules.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T133024Z" creationid="suzume" creationdate="20210110T133024Z">
+        <seg>Si présent, il contient les paramètres d'interface utilisateur spécifiques au projet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64533,6 +64589,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>source</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T132844Z" creationid="suzume" creationdate="20210110T132844Z">
+        <seg>source</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>source = currSegment.getSrcText();</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T103645Z">
@@ -64737,6 +64801,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T100232Z">
         <seg>tam</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>target</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T132848Z" creationid="suzume" creationdate="20210110T132848Z">
+        <seg>target</seg>
       </tuv>
     </tu>
     <tu>
@@ -65005,10 +65077,34 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>tm</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T132849Z" creationid="suzume" creationdate="20210110T132849Z">
+        <seg>tm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tm/auto</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T132857Z" creationid="suzume" creationdate="20210110T132857Z">
+        <seg>tm/auto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>tm/auto folder</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20141202T221915Z">
         <seg>Dossier tm/auto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tm/enforce</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T132859Z" creationid="suzume" creationdate="20210110T132859Z">
+        <seg>tm/enforce</seg>
       </tuv>
     </tu>
     <tu>
@@ -65021,10 +65117,26 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>tm/mt</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T132901Z" creationid="suzume" creationdate="20210110T132901Z">
+        <seg>tm/mt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>tm/mt folder</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20141202T222033Z" creationid="Didier" creationdate="20141202T222033Z">
         <seg>Dossier tm/mt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tm/penalty-xxx</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T132908Z" creationid="suzume" creationdate="20210110T132908Z">
+        <seg>tm/penalty-xxx</seg>
       </tuv>
     </tu>
     <tu>
