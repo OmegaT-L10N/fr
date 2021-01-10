@@ -15826,6 +15826,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create MED Projects...</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T132028Z" creationid="suzume" creationdate="20210110T132028Z">
+        <seg>Créer projet MED...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create New Project</seg>
       </tuv>
       <tuv lang="fr">
@@ -18954,6 +18962,14 @@ by the Free Software Foundation.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z" creationid="Didier" creationdate="20160323T092936Z">
         <seg>Volet Éditeur : si un fichier projet OmegaT (&lt;f0&gt;omegat.project&lt;/f0&gt;) est déposé sur ce volet, le projet correspondant sera ouvert, fermant au préalable un éventuel projet ouvert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Editor...</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T131953Z" creationid="suzume" creationdate="20210110T131953Z">
+        <seg>Éditeur...</seg>
       </tuv>
     </tu>
     <tu>
@@ -23832,6 +23848,14 @@ sections when you distribute them as separate works.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160322T172935Z" creationid="Didier" creationdate="20160322T172935Z">
         <seg>Si l'option &lt;e0&gt;Afficher automatiquement les suggestions pertinentes&lt;/e0&gt; est cochée, la saisie automatique s'ouvre autoamtiquement en tapant la première lettre de la traduction d'une entrée de glossaire ou un entrant « &lt; » dans le cas des balises.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If &lt;g0&gt;Show Relevant Suggestions Automatically&lt;/g0&gt; option is checked, Auto-completer is launched automatically by typing the first letters of a translated glossary entry, or by typing "&lt;" in case of tags.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T131943Z" creationid="suzume" creationdate="20210110T131943Z">
+        <seg>Si l'option &lt;g0&gt;Afficher automatiquement les suggestions pertinentes&lt;/g0&gt; est cochée, la saisie automatique s'ouvre autoamtiquement en tapant les premières lettres de la traduction d'une entrée de glossaire ou un entrant « &lt; » dans le cas des balises.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34025,6 +34049,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT automatically saves translations every 3 minutes as well as when you close the project or quit OmegaT.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T132017Z" creationid="suzume" creationdate="20210110T132017Z">
+        <seg>OmegaT enregistre automatiquement vos traductions toutes les 3 minutes ainsi que lorsque vous fermez le projet ou quittez OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT automatically selects a tokenizer for the source and the target language according to the language settings of the project.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130528T130141Z">
@@ -35726,6 +35758,14 @@ happen should you file a bug report.</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130421T002355Z">
         <seg>Ouvre un projet pré-existant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Opens a project package in the MED format defined by the EU Directorate-General for Translation.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T132239Z" creationid="suzume" creationdate="20210110T132239Z">
+        <seg>Ouvre un fichier au format MED définit par la direction générale de la traduction de l'Union européenne.</seg>
       </tuv>
     </tu>
     <tu>
