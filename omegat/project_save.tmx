@@ -33781,6 +33781,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Of course, pressing &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;5&lt;/k3&gt; &lt;/k1&gt; will have no effect, if there is no match #5.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T132601Z" creationid="suzume" creationdate="20210110T132601Z">
+        <seg>Bien sûr, s'il n'existe pas de correspondance n° 5, appuyer sur &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;5&lt;/k3&gt; &lt;/k1&gt; n'aura aucun effet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Of course, the commands you use may
 be called something other than `show w' and `show c'; they could even be
 mouse-clicks or menu items--whatever suits your program.</seg>
@@ -41180,6 +41188,14 @@ La recherche port par défaut sur le projet, et peut porter sur tout fichier sit
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;u0&gt;https://en.wikipedia.org/wiki/Stemming&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T132648Z" creationid="suzume" creationdate="20210110T132648Z">
+        <seg>Voir &lt;u0&gt;https://fr.wikipedia.org/wiki/Racinisation&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See Chapter 7: File Filters in the User Manual for a list of file formats that OmegaT can handle.</seg>
       </tuv>
       <tuv lang="fr" changeid="briglegrand" changedate="20120502T070615Z">
@@ -42217,6 +42233,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Setting it to &lt;g1&gt;All segments&lt;/g1&gt; shows this information for all segments and &lt;g2&gt;None&lt;/g2&gt; turns this option off.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T132501Z" creationid="suzume" creationdate="20210110T132501Z">
+        <seg>Choisir l'option &lt;g1&gt;Afficher pour tous les segments&lt;/g1&gt; permettra d'afficher ces informations pour tous les segments simultanément. Choisir &lt;g2&gt;Ne rien afficher&lt;/g2&gt; désactive cette option.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Setting it to&lt;e1&gt; All &lt;/e1&gt;shows this information for all segments and &lt;e2&gt;None&lt;/e2&gt; turns this option off.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130503T095050Z">
@@ -42437,6 +42461,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130430T123847Z">
         <seg>Si vous rencontrez des problèmes avec OmegaT, il est important d'inclure ce fichier ou la partie concernée du fichier dans le rapport de bug</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Should you lose track of your changes to the user interface, you can use &lt;g0&gt; Options → Restore the main window&lt;/g0&gt; any time to return to the original layout.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T132505Z" creationid="suzume" creationdate="20210110T132505Z">
+        <seg>Vous pouvez à tout moment aller dans &lt;g0&gt; Options → Réinitialiser la fenêtre principale&lt;/g0&gt; pour retrouver la disposition d'origine.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49051,6 +49083,14 @@ L'idée était que l'utilisation de certaines touches en dehors du segment coura
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The three matching percentages are in the following order:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T132737Z" creationid="suzume" creationdate="20210110T132737Z">
+        <seg>Les trois pourcentages de correspondances sont dans l'ordre suivant :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The title of the dialog reflects the file actually used (which depends on how many instances of OmegaT are running concurrently).</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20141202T213812Z" creationid="Didier" creationdate="20141202T213812Z">
@@ -49167,6 +49207,14 @@ L'idée était que l'utilisation de certaines touches en dehors du segment coura
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
         <seg>Le partie supérieure est dans la langue source, en caractère gras et sur un fond vert tandis que la partie inférieure correspond à la ligne d'édition et se termine par un marqueur : &lt;i0/&gt;le marqueur est&lt;l1&gt;&lt;segment nnnn&gt;&lt;/l1&gt; avec nnnn correspondant au numéro du segment dans le projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The upper part is in the source language, in bold characters with a green background color, the lower part is the editing field, ended by a marker: the marker is &lt;l0&gt;&lt;segment nnnn&gt;&lt;/l0&gt; where nnnn is a number of the segment in the project.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T132518Z" creationid="suzume" creationdate="20210110T132518Z">
+        <seg>La partie supérieure est dans la langue source, en caractère gras et sur un fond vert tandis que la partie inférieure correspond à la ligne d'édition et se termine par un marqueur : le marqueur est &lt;l0&gt;&lt;segment nnnn&gt;&lt;/l0&gt; avec nnnn correspondant au numéro du segment dans le projet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52270,6 +52318,14 @@ script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="fr" changeid="brigitte" changedate="20130712T150630Z">
         <seg>Pour utiliser un glossaire préexistant, placez-le simplement dans le dossier &lt;i0/&gt; &lt;f1&gt;/glossary&lt;/f1&gt; après avoir créé le projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To use the selected match in your translation, use &lt;g4&gt;Ctrl+R&lt;/g4&gt; to replace the target field with the match or use &lt;g5&gt;Ctrl+I &lt;/g5&gt; to insert it at the cursor position.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T132612Z" creationid="suzume" creationdate="20210110T132612Z">
+        <seg>Pour utiliser la correspondance sélectionnée dans votre traduction, appuyez sur &lt;g4&gt;Ctrl+R&lt;g5&gt; pour remplacer la ligne d'édition par la correspondance ou appuyez sur &lt;/g4&gt;Ctrl+I&lt;/g5&gt; pour l'insérer à l'emplacement du curseur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57968,6 +58024,14 @@ paragraph of section 11).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You may select a different match by pressing &lt;g0&gt;Ctrl+2, 3, 4, or 5&lt;/g0&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T132535Z" creationid="suzume" creationdate="20210110T132535Z">
+        <seg>Vous pouvez sélectionner une correspondance différente en appuyant sur &lt;g0&gt;Ctrl+2, 3, 4, ou 5&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You may select a different match by pressing &lt;g0&gt;Ctrl+2, 3, 4, or 5&lt;/g0&gt;.&lt;i1/&gt; Of course, pressing &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;5&lt;/k4&gt; &lt;/k2&gt; will have no effect, if there is no match #5.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130528T124945Z">
@@ -61252,6 +61316,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T104617Z">
         <seg>https://developers.google.com/translate/v2/pricing?hl=en-US</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://en.wikipedia.org/wiki/Stemming</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T132637Z" creationid="suzume" creationdate="20210110T132637Z">
+        <seg>https://fr.wikipedia.org/wiki/Racinisation</seg>
       </tuv>
     </tu>
     <tu>
@@ -64825,6 +64897,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130412T122230Z">
         <seg>le fichier de projet OmegaT - &lt;f0&gt;omegat.project&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the percentage calculated with stemming</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T132711Z" creationid="suzume" creationdate="20210110T132711Z">
+        <seg>le pourcentage calculé avec lemmatisation</seg>
       </tuv>
     </tu>
     <tu>
