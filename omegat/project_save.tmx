@@ -2347,6 +2347,15 @@ your programs, too.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>(external search commands)</seg>
+      </tuv>
+      <tuv lang="fr">
+        <seg>(commandes pour recherches externes)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>* FOP (optional?)</seg>
       </tuv>
@@ -3962,6 +3971,17 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
         <seg>&lt;/l2&gt;Exemple :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>&lt;/repository&gt;
+&lt;/repositories&gt;</seg>
+      </tuv>
+      <tuv lang="fr">
+        <seg>&lt;/repository&gt;
+&lt;/repositories&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5858,6 +5878,14 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190305T141611Z" creationid="Didier" creationdate="20170825T091638Z">
         <seg>&lt;http://fsf.org/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;http://fsf.org/&gt;  Everyone is permitted to copy and distribute verbatim copies  of this license document, but changing it is not allowed.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T130439Z" creationid="suzume" creationdate="20210110T130439Z">
+        <seg>&lt;http://fsf.org/&gt; Chacun est autorisé à copier et distribuer des copies conformes de ce document de licence, mais toute modification en est proscrite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9897,6 +9925,15 @@ or that patent license was granted, prior to 28 March 2007.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Activate the "Show hidden files" option to make it visible.</seg>
+      </tuv>
+      <tuv lang="fr">
+        <seg>Il faut activer l'option "Afficher les fichiers cachés" pour le rendre visible.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Activating this check box will cause OmegaT to check if simple java MessageFormat tags (like {0}) are processed correctly.</seg>
       </tuv>
@@ -10396,6 +10433,15 @@ this License without regard to the additional permissions.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160427T153812Z" creationid="Didier" creationdate="20160427T153812Z">
         <seg>Aligner des fichiers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Align Files...</seg>
+      </tuv>
+      <tuv lang="fr">
+        <seg>Align Files…</seg>
       </tuv>
     </tu>
     <tu>
@@ -10920,6 +10966,15 @@ the predecessor has it or can get it with reasonable efforts.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>An OmegaT project is a folder containing files and subfolders.</seg>
+      </tuv>
+      <tuv lang="fr">
+        <seg>Un projet OmegaT est un répertoire contenant des fichiers et des sous-répertoires.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>An area for setting project folders</seg>
       </tuv>
@@ -11293,6 +11348,14 @@ know their rights.</seg>
 rights.</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130418T224747Z">
+        <seg>Et vous devez leur montrer les présentes conditions afin qu'ils aient connaissance de leurs droits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>And you must show them these terms so they know their rights.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T130455Z" creationid="suzume" creationdate="20210110T130455Z">
         <seg>Et vous devez leur montrer les présentes conditions afin qu'ils aient connaissance de leurs droits.</seg>
       </tuv>
     </tu>
@@ -12904,6 +12967,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By contrast, the GNU General Public License is intended to guarantee your freedom to share and change all versions of a program--to make sure it remains free software for all its users.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T130445Z" creationid="suzume" creationdate="20210110T130445Z">
+        <seg>A contrario, la Licence Publique Générale est destinée à garantir votre liberté de partager et de modifier les logiciels libres, et à assurer que ces logiciels soient libres pour tous leurs utilisateurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default the editor displays 2,000 of initial segments, and progressively loads more as you scroll up or down.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160718T153636Z" creationid="Didier" creationdate="20160718T153636Z">
@@ -13535,6 +13606,24 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Check &lt;g0&gt;History Completion&lt;/g0&gt; to display suggested words as soon as their first letters are entered.</seg>
+      </tuv>
+      <tuv lang="fr">
+        <seg>Cocher &lt;g0&gt;History Completion&lt;/g0&gt; pour afficher des suggestions de mots dès que leurs premières lettres sont saisies.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Check &lt;g0&gt;History Prediction&lt;/g0&gt; to display suggested words that commonly follow the word that has just been entered.</seg>
+      </tuv>
+      <tuv lang="fr">
+        <seg>Cocher &lt;g0&gt;History Prediction&lt;/g0&gt; pour afficher des suggestions de mots qui viennent habituellement en seconde position d'un couple de mots, dès que le premier mot est saisi.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Check Issues for &amp;Current Document</seg>
       </tuv>
@@ -13796,6 +13885,15 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130527T133349Z">
         <seg>Vérifiez que vos fichiers dictionnaire sont dans le bon dossier (ou à l'intérieur de ce dossier dans un sous-dossier).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Check the &lt;g0&gt;Use Fuzzy Matching for Dictionary Entries&lt;/g0&gt; option if you want dictionaries to display words that have the same root.</seg>
+      </tuv>
+      <tuv lang="fr">
+        <seg>Cocher l'option &lt;g0&gt;Use Fuzzy Matching for Dictionary Entries&lt;/g0&gt; pour que les dictionnaires affichent les mots qui ont la même racine.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14220,6 +14318,15 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130528T125416Z">
         <seg>Cliquez sur le lien pour aller directement au segment dans le volet Éditeur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Click the &lt;g0&gt;Edit&lt;/g0&gt; tab on the Wikipedia page.</seg>
+      </tuv>
+      <tuv lang="fr">
+        <seg>Cliquer sur l'onglet &lt;g0&gt;Edit&lt;/g0&gt; de la page Wikipedia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15277,6 +15384,15 @@ Une liste blanche en expression régulière des fichiers source à traiter.</seg
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Converts the current project into a MED package.</seg>
+      </tuv>
+      <tuv lang="fr">
+        <seg>Permet de transformer le projet en fichier MED.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Converts translation memories in TMX format generated by Wordfast to a form which can be read by OmegaT.</seg>
       </tuv>
@@ -15370,11 +15486,29 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Copy the URL of the page (ending with &lt;g0&gt;action=edit&lt;/g0&gt;) and paste it into &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="fr">
+        <seg>Copier l'url de la page (se terminant par &lt;g0&gt;action=edit&lt;/g0&gt;) et la coller dans &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Copy the documents, you need the translation memory for, into the source folder of the project.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130507T085351Z">
         <seg>Copiez les documents pour lesquels vous avez besoin de mémoires de traduction dans le dossier source du projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Copy the text and paste it into the translated version of the Wikipedia page.</seg>
+      </tuv>
+      <tuv lang="fr">
+        <seg>Copier le texte, puis le coller dans la version traduite de la page Wikipedia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16758,6 +16892,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Definitions.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T130555Z" creationid="suzume" creationdate="20210110T130555Z">
+        <seg>Définitions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Degree thesis by Sébastien Guillardeau, 2010 (in German).</seg>
       </tuv>
       <tuv lang="fr">
@@ -16987,6 +17129,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
 giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210110T125350Z" creationid="suzume" creationdate="20210110T125350Z">
+        <seg>Nous protégeons vos droits en deux étapes : (1) nous sommes titulaires des droits d'auteur du logiciel, et (2) nous vous délivrons cette licence, qui vous donne l'autorisation légale de copier, distribuer et/ou modifier le logiciel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Developers that use the GNU GPL protect your rights with two steps: (1) assert copyright on the software, and (2) offer you this License giving you legal permission to copy, distribute and/or modify it.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T130456Z" creationid="suzume" creationdate="20210110T130456Z">
         <seg>Nous protégeons vos droits en deux étapes : (1) nous sommes titulaires des droits d'auteur du logiciel, et (2) nous vous délivrons cette licence, qui vous donne l'autorisation légale de copier, distribuer et/ou modifier le logiciel.</seg>
       </tuv>
     </tu>
@@ -20652,6 +20802,14 @@ patents.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Finally, every program is threatened constantly by software patents.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T130526Z" creationid="suzume" creationdate="20210110T130526Z">
+        <seg>En définitive, tous les programmes sont à la merci des brevets de logiciels.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Finally, save the changes with &lt;e0&gt;File - Save.&lt;/e0&gt;</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130419T163802Z">
@@ -20989,6 +21147,14 @@ authors of previous versions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For both users' and authors' sake, the GPL requires that modified versions be marked as changed, so that their problems will not be attributed erroneously to authors of previous versions.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T130457Z" creationid="suzume" creationdate="20210110T130457Z">
+        <seg>Si le logiciel est modifié par quelqu'un d'autre puis transmis à des tiers, nous voulons que les destinataires soient mis au courant que ce qu'ils ont reçu n'est pas le logiciel d'origine, de sorte que tout problème introduit par d'autres ne puisse entacher la réputation de l'auteur originel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For confidentiality reasons, you may want to not send all the segments to the Machine Translation engine.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20200118T110311Z" creationid="suzume" creationdate="20200118T110311Z">
@@ -21149,6 +21315,14 @@ know their rights.</seg>
       </tuv>
       <tuv lang="fr" changeid="jchelary" changedate="20130526T131601Z">
         <seg>Par exemple, si vous distribuez des exemplaires d’un tel programme, que ce soit à titre gratuit ou onéreux, vous devez transférer aux destinataires les mêmes libertés que celles reçues. Vous devez vous assurer qu’eux aussi reçoivent ou peuvent recevoir le code source. Et vous devez leur montrer ces stipulations afin qu’ils connaissent leurs droits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, if you distribute copies of such a program, whether gratis or for a fee, you must pass on to the recipients the same freedoms that you received.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T130453Z" creationid="suzume" creationdate="20210110T130453Z">
+        <seg>Par exemple, si vous distribuez des copies d'un tel programme, à titre gratuit ou contre une rémunération, vous devez accorder aux destinataires tous les droits dont vous disposez.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21510,6 +21684,14 @@ authors of previous versions.</seg>
       </tuv>
       <tuv lang="fr" changeid="jchelary" changedate="20130526T131635Z">
         <seg>Pour la protection des développeurs et des auteurs, la GPL stipule clairement qu’aucune garantie n’accompagne ce logiciel libre. Pour le bien des utilisa- teurs et des auteurs, la GPL requiert que les versions modifiées soient marquées comme telles, afin que leurs problèmes ne soient pas attribués de façon erronée aux auteurs des versions précédentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For the developers' and authors' protection, the GPL clearly explains that there is no warranty for this free software.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T130457Z" creationid="suzume" creationdate="20210110T130457Z">
+        <seg>En outre, pour la protection de chaque auteur ainsi que la nôtre, nous voulons nous assurer que chacun comprenne que ce logiciel libre ne fait l'objet d'aucune garantie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23677,6 +23859,15 @@ sections when you distribute them as separate works.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>If &lt;l0&gt;automatic searching in dictionaries&lt;/l0&gt; is disabled, this function allows you to search for the selected word in the dictionaries.</seg>
+      </tuv>
+      <tuv lang="fr">
+        <seg>Dans le cas où la &lt;l0&gt;recherche automatique dans les dictionnaires&lt;/l0&gt; est désactivée, cette fonction permet de rechercher un mot dans les dictionnaires, après l'avoir sélectionné.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>If &lt;l1&gt;warn&lt;/l1&gt; is specified, the tag validator will process all segments and write warnings about any segments with invalid tags into the file specified.</seg>
       </tuv>
@@ -23899,6 +24090,15 @@ circumstances.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>If checked, the separations between paragraphs in the source document are indicated visually.</seg>
+      </tuv>
+      <tuv lang="fr">
+        <seg>Si coché, les différents paragraphes du document source sont séparés visuellement.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>If checked, the translated segments will be marked in yellow.</seg>
       </tuv>
@@ -23920,6 +24120,15 @@ circumstances.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20141202T180627Z" creationid="Didier" creationdate="20141202T180627Z">
         <seg>S'il est coché, les caractères d'espacement seront affichés avec un petit point.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>If commands to perform external searches have been defined in the &lt;l0&gt;Preferences&lt;/l0&gt;, they are listed and accessible here.</seg>
+      </tuv>
+      <tuv lang="fr">
+        <seg>Si des commandes pour effectuer des recherches externes ont été définies dans les &lt;l0&gt;préférences&lt;/l0&gt;, elles sont listées et accessibles ici.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25971,6 +26180,15 @@ click on that shortcut.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>In a team project, this folder contains a versioned copy of the project tree structure linked directly to the remote server.</seg>
+      </tuv>
+      <tuv lang="fr">
+        <seg>Dans le cas d'un projet en équipe, ce répertoire contient une copie versionnée de l'arborescence du projet, en liaison directe avec le serveur distant.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>In addition to the plain text format, TBX format &lt;i0/&gt; is also supported as a read-only glossary format.</seg>
       </tuv>
@@ -26331,6 +26549,15 @@ the scope of this License.</seg>
       </tuv>
       <tuv lang="fr">
         <seg>Cependant, il y a aussi des domaines qui exigent un certain degré de coordination.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>In some operating systems, this folder is not displayed by default.</seg>
+      </tuv>
+      <tuv lang="fr">
+        <seg>Dans certains systèmes d'exploitation, ce répertoire n'est pas affiché par défaut.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32173,6 +32400,15 @@ as the Applications folder.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>New translation memories placed in the &lt;f0&gt;/tm&lt;/f0&gt; folder while translating are loaded automatically as soon as the cursor moves from one segment to another.</seg>
+      </tuv>
+      <tuv lang="fr">
+        <seg>La prise en compte de nouvelles mémoires de traduction (placées dans &lt;f0&gt;/tm&lt;/f0&gt;) en cours de traduction s'effectue automatiquement, dès que le curseur change de segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>New users of OmegaT are encouraged to make any suggestions here.</seg>
       </tuv>
@@ -35260,6 +35496,15 @@ happen should you file a bug report.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Open the &lt;f0&gt;.UTF8&lt;/f0&gt; file generated in the &lt;f1&gt;/target&lt;/f1&gt; folder.</seg>
+      </tuv>
+      <tuv lang="fr">
+        <seg>Ouvrir le fichier .&lt;f0&gt;UTF8&lt;/f0&gt; généré dans &lt;f1&gt;/target&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Open the Search and replace window with &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;K&lt;/k2&gt; &lt;/k0&gt; and enter the word or expression you wish to replace in the &lt;e3&gt;Search for&lt;/e3&gt; box.</seg>
       </tuv>
@@ -35881,6 +36126,14 @@ if you want it, that you can change the software or use pieces of it
 in new free programs; and that you know you can do these things.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130503T075745Z">
+        <seg>Nos licences publiques générales sont conçues pour vous donner l'assurance d'être libres de distribuer des copies des logiciels libres (et de facturer ce service, si vous le souhaitez), de recevoir le code source ou de pouvoir l'obtenir si vous le souhaitez, de pouvoir modifier les logiciels ou en utiliser des éléments dans de nouveaux programmes libres et de savoir que vous pouvez le faire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Our General Public Licenses are designed to make sure that you have the freedom to distribute copies of free software (and charge for them if you wish), that you receive source code or can get it if you want it, that you can change the software or use pieces of it in new free programs, and that you know you can do these things.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T130450Z" creationid="suzume" creationdate="20210110T130450Z">
         <seg>Nos licences publiques générales sont conçues pour vous donner l'assurance d'être libres de distribuer des copies des logiciels libres (et de facturer ce service, si vous le souhaitez), de recevoir le code source ou de pouvoir l'obtenir si vous le souhaitez, de pouvoir modifier les logiciels ou en utiliser des éléments dans de nouveaux programmes libres et de savoir que vous pouvez le faire.</seg>
       </tuv>
     </tu>
@@ -42786,6 +43039,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source Code.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T130622Z" creationid="suzume" creationdate="20210110T130622Z">
+        <seg>Code source.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source File Encoding</seg>
       </tuv>
       <tuv lang="fr">
@@ -43372,6 +43633,14 @@ patents cannot be used to render the program non-free.</seg>
       </tuv>
       <tuv lang="fr" changeid="jchelary" changedate="20130526T131706Z">
         <seg>Les États ne devraient pas autoriser les brevets à restreindre le développement et l’utilisation des logiciels sur des ordinateurs à usage général ; mais au sein de ceux qui l’autorisent, nous souhaitons éviter le danger particulier que les brevets appliqués à un programme libre puissent le rendre en réalité propriétaire. Pour empêcher ceci, la GPL assure que les brevets ne puissent être utilisés pour rendre le programme non-libre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>States should not allow patents to restrict development and use of software on general-purpose computers, but in those that do, we wish to avoid the special danger that patents applied to a free program could make it effectively proprietary.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T130542Z" creationid="suzume" creationdate="20210110T130542Z">
+        <seg>Les États ne devraient pas autoriser les brevets à restreindre le développement et l’utilisation des logiciels sur des ordinateurs à usage général ; mais au sein de ceux qui l’autorisent, nous souhaitons éviter le danger particulier que les brevets appliqués à un programme libre puissent le rendre en réalité propriétaire.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45171,6 +45440,14 @@ form of a work.</seg>
       </tuv>
       <tuv lang="fr" changeid="jchelary" changedate="20130526T134247Z">
         <seg>Le « code source » d’une création désigne la forme de la création préférée pour faire des modifications sur celle-ci. Le « Code objet » désigne toute forme de la création qui n’est pas le code source.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The "source code" for a work means the preferred form of the work for making modifications to it.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T130624Z" creationid="suzume" creationdate="20210110T130624Z">
+        <seg>Le code source d'un ouvrage désigne la forme favorite pour travailler à des modifications de cet ouvrage.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47183,6 +47460,14 @@ your programs, too.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The licenses for most software and other practical works are designed to take away your freedom to share and change the works.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T130444Z" creationid="suzume" creationdate="20210110T130444Z">
+        <seg>Les licences de la plupart des logiciels sont conçues pour vous enlever toute liberté de les partager et de les modifier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The licenses for most software are designed to take away your
 freedom to share and change it.</seg>
       </tuv>
@@ -47744,6 +48029,14 @@ an access to the hard drive of the computer.</seg>
 modification follow.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
+        <seg>Les termes exacts et les conditions de copie, distribution et modification sont les suivants :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The precise terms and conditions for copying, distribution and modification follow.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T130548Z" creationid="suzume" creationdate="20210110T130548Z">
         <seg>Les termes exacts et les conditions de copie, distribution et modification sont les suivants :</seg>
       </tuv>
     </tu>
@@ -49243,6 +49536,14 @@ certain responsibilities if you distribute copies of the software, or if
 you modify it: responsibilities to respect the freedom of others.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210110T125159Z" creationid="suzume" creationdate="20210110T125159Z">
+        <seg>Certaines responsabilités vous incombent en raison de ces limitations si vous distribuez des copies de ces logiciels, ou si vous les modifiez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Therefore, you have certain responsibilities if you distribute copies of the software, or if you modify it: responsibilities to respect the freedom of others.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T130452Z" creationid="suzume" creationdate="20210110T130452Z">
         <seg>Certaines responsabilités vous incombent en raison de ces limitations si vous distribuez des copies de ces logiciels, ou si vous les modifiez.</seg>
       </tuv>
     </tu>
@@ -51571,6 +51872,14 @@ as a Source Forge user.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To prevent this, the GPL assures that patents cannot be used to render the program non-free.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T130544Z" creationid="suzume" creationdate="20210110T130544Z">
+        <seg>Pour empêcher ceci, la GPL assure que les brevets ne puissent être utilisés pour rendre le programme non-libre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To prevent this, we have made it clear that any
 patent must be licensed for everyone's free use or not licensed at all.</seg>
       </tuv>
@@ -51613,6 +51922,14 @@ you modify it: responsibilities to respect the freedom of others.</seg>
       </tuv>
       <tuv lang="fr" changeid="jchelary" changedate="20130526T131555Z">
         <seg>Pour protéger vos droits, nous avons besoin d’empêcher que d’autres vous en privent ou vous demandent de leur abandonner. En conséquence, vous avez cer- tains devoirs si vous distribuez des exemplaires du logiciel ou si vous le modifiez : devoirs de respecter la liberté des autres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To protect your rights, we need to prevent others from denying you these rights or asking you to surrender the rights.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T130451Z" creationid="suzume" creationdate="20210110T130451Z">
+        <seg>Pour protéger vos droits, il nous est nécessaire d'imposer des limitations qui interdisent à quiconque de vous refuser ces droits ou de vous demander d'y renoncer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51782,6 +52099,15 @@ read:</seg>
       </tuv>
       <tuv lang="fr" changeid="brigitte" changedate="20130715T202337Z">
         <seg>Pour traduire l'interface utilisateur, le guide ou d'autres documents, lisez :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>To translate the contents of a Wikipedia page (for example):</seg>
+      </tuv>
+      <tuv lang="fr">
+        <seg>Pour traduire le contenu d'une page Wikipedia (par exemple) :</seg>
       </tuv>
     </tu>
     <tu>
@@ -54928,6 +55254,14 @@ any other work released this way by its authors.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>We, the Free Software Foundation, use the GNU General Public License for most of our software; it applies also to any other work released this way by its authors.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T130446Z" creationid="suzume" creationdate="20210110T130446Z">
+        <seg>La présente Licence Publique Générale s'applique à la plupart des logiciels de la Free Software Foundation, ainsi qu'à tout autre programme pour lequel ses auteurs s'engagent à l'utiliser.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Web Start</seg>
       </tuv>
       <tuv lang="fr" changeid="briglegrand" changedate="20110126T123506Z">
@@ -55376,6 +55710,14 @@ free programs, and that you know you can do these things.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When we speak of free software, we are referring to freedom, not price.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T130448Z" creationid="suzume" creationdate="20210110T130448Z">
+        <seg>Quand nous parlons de logiciels libres, nous parlons de liberté, non de prix.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When working on a team project, this window allows you to define the mapping between remote folders and local folders (see examples &lt;l0&gt;here&lt;/l0&gt;).</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20200724T172428Z" creationid="briac" creationdate="20200724T172428Z">
@@ -55441,6 +55783,15 @@ for which you have or can give appropriate copyright permission.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130528T132010Z">
         <seg>Quand vous quittez le projet,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>When you have finished your translation, to import it into Wikipedia:</seg>
+      </tuv>
+      <tuv lang="fr">
+        <seg>Ensuite, pour intégrer la traduction dans Wikipedia :</seg>
       </tuv>
     </tu>
     <tu>
@@ -56704,6 +57055,14 @@ your programs, too.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can apply it to your programs, too.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T130447Z" creationid="suzume" creationdate="20210110T130447Z">
+        <seg>Vous pouvez aussi l'appliquer aux programmes qui sont les vôtres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can ask the user group for advice if you have problems.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130507T084116Z">
@@ -56989,6 +57348,15 @@ installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130502T115404Z">
         <seg>Vous pouvez lancer OmegaT à partir de la ligne de commande avec un script qui comprend des options de démarrage ou cliquer sur &lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.jar&lt;/e0&gt; pour le lancer directement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>You can make changes to remote files (e.g. deleting a file) using this folder and a Git or SVN client.</seg>
+      </tuv>
+      <tuv lang="fr">
+        <seg>Des opérations sur les fichiers distants (par exemple, la suppression d'un fichier) peuvent s'effectuer à partir de ce répertoire à l'aide d'un client Git ou SVN.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57518,6 +57886,14 @@ or can get the source code.</seg>
 source code.</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130418T224732Z">
+        <seg>Vous devez vous assurer qu'eux aussi reçoivent ou puissent disposer du code source.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You must make sure that they, too, receive or can get the source code.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T130454Z" creationid="suzume" creationdate="20210110T130454Z">
         <seg>Vous devez vous assurer qu'eux aussi reçoivent ou puissent disposer du code source.</seg>
       </tuv>
     </tu>
