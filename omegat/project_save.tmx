@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.0_0_d32f93c4e" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_d87c48795" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -21964,6 +21964,14 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossary &amp;layout:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T094052Z" creationid="suzume" creationdate="20210110T094052Z">
+        <seg>Présentation des g&amp;lossaires :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossary Files Folder</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20120306T143050Z">
@@ -22060,6 +22068,14 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossary note</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T094148Z" creationid="suzume" creationdate="20210110T094148Z">
+        <seg>Note</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossary pane</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130430T090058Z">
@@ -22072,6 +22088,22 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z" creationid="Didier" creationdate="20160323T093133Z">
         <seg>Volet Glossaires : les fichiers déposés disposant d'extensions connues (&lt;f0&gt;.txt&lt;/f0&gt;, &lt;f1&gt;.tab&lt;/f1&gt;, etc.) seront copiés dans le dossier &lt;f2&gt;glossary&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossary source</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T094156Z" creationid="suzume" creationdate="20210110T094139Z">
+        <seg>Terme source du glossaire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossary translation</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T094143Z" creationid="suzume" creationdate="20210110T094143Z">
+        <seg>Traduction</seg>
       </tuv>
     </tu>
     <tu>
@@ -30857,6 +30889,14 @@ impose that choice.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Merge alternate definitions for the same term</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T094112Z" creationid="suzume" creationdate="20210110T094112Z">
+        <seg>Fusionner des différentes définitions d'un même terme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Merriam Webster dictionary - use</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130412T134548Z">
@@ -36262,6 +36302,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20120420T210807Z">
         <seg>Veuillez entrer le nom d'utilisateur/mot de passe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please enter username/password for {0}</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T094121Z" creationid="suzume" creationdate="20210110T094121Z">
+        <seg>Veuillez entrer le nom d'utilisateur/mot de passe pour {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -55563,6 +55611,14 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20120420T211012Z">
         <seg>Nom d'utilisateur/mot de passe incorrects</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wrong username/password for {0}</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T094127Z" creationid="suzume" creationdate="20210110T094127Z">
+        <seg>Nom d'utilisateur/mot de passe incorrects pour {0}</seg>
       </tuv>
     </tu>
     <tu>
