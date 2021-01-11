@@ -24844,6 +24844,14 @@ when it starts in an interactive mode:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the project uses specific filters and segmentation parameters, both the &lt;f0&gt;filters.xml&lt;/f0&gt; and &lt;f1&gt;segmentation.conf&lt;/f1&gt; files must be added to the versioning system and published on the server.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210111T102415Z" creationid="suzume" creationdate="20210111T102415Z">
+        <seg>Si le project utilise des filtres ou paramètres de segmentation spécifiques, les fichiers &lt;f0&gt;filters.xml&lt;/f0&gt; et &lt;f1&gt;segmentation.conf&lt;/f1&gt; doivent être ajoutés au système de et êtres publiés sur le serveur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the rule matches, either the cursor moves on without inserting a segment break (for an exception rule) or a new segment break is created at the current cursor position (for the break rule).</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130528T084547Z">
