@@ -24846,8 +24846,8 @@ when it starts in an interactive mode:</seg>
       <tuv lang="en">
         <seg>If the project uses specific filters and segmentation parameters, both the &lt;f0&gt;filters.xml&lt;/f0&gt; and &lt;f1&gt;segmentation.conf&lt;/f1&gt; files must be added to the versioning system and published on the server.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210111T102415Z" creationid="suzume" creationdate="20210111T102415Z">
-        <seg>Si le project utilise des filtres ou paramètres de segmentation spécifiques, les fichiers &lt;f0&gt;filters.xml&lt;/f0&gt; et &lt;f1&gt;segmentation.conf&lt;/f1&gt; doivent être ajoutés au système de et êtres publiés sur le serveur.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210111T102442Z" creationid="suzume" creationdate="20210111T102415Z">
+        <seg>Si le project utilise des filtres ou paramètres de segmentation spécifiques, les fichiers &lt;f0&gt;filters.xml&lt;/f0&gt; et &lt;f1&gt;segmentation.conf&lt;/f1&gt; doivent être ajoutés au système de gestion de version et êtres publiés sur le serveur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44056,6 +44056,14 @@ patents cannot be used to render the program non-free.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210110T165328Z" creationid="suzume" creationdate="20210110T165328Z">
         <seg>Étape 1 : créer un projet vide sur un serveur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Step 2: Add files to translate and other resources</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210111T102514Z" creationid="suzume" creationdate="20210111T102514Z">
+        <seg>Étape 2 : Ajouter les fichiers à traduire et autres ressources</seg>
       </tuv>
     </tu>
     <tu>
