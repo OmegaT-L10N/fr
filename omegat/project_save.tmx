@@ -24711,6 +24711,14 @@ authors' reputations.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the translator attempts to modify them, they will go back to their original state whenever the project is opened, closed, saved or reloaded.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210111T145535Z" creationid="suzume" creationdate="20210111T145535Z">
+        <seg>Si le traducteur tente de les modifier, ils seront remis dans leur état initial à chaque fois que le projet est ouvert, fermé, enregistré ou rechargé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the value is &lt;l1&gt;abort&lt;/l1&gt;, then on tag errors the errors are printed and the program stops.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130502T142924Z">
