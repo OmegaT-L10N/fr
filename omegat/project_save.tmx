@@ -5762,6 +5762,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Project&lt;/g0&gt; &lt;g1&gt;New...&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T165537Z" creationid="suzume" creationdate="20210110T165537Z">
+        <seg>&lt;g0&gt;Projet&lt;/g0&gt; &lt;g1&gt;Nouveau...&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;html&gt;</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130511T165238Z">
@@ -10084,6 +10092,14 @@ covered by this License; they are outside its scope.</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130423T201143Z">
         <seg>Ajouter les masques &lt;e0&gt;Avant&lt;/e0&gt; et&lt;e1&gt; Après&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add the new OmegaT project to the versioning system (&lt;c0&gt;add&lt;/c0&gt; with SVN and Git)</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T165626Z" creationid="suzume" creationdate="20210110T165626Z">
+        <seg>Ajouter le nouveau projet OmegaT au système de contrôle de version (&lt;c0&gt;add&lt;/c0&gt; avec SVN et Git)</seg>
       </tuv>
     </tu>
     <tu>
@@ -33462,6 +33478,14 @@ Rajout d'une partie approriée, afin que la note de bas de page ne se retrouve p
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note: If the project was created with the command line in step 3, this step has already been done by the program.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T165718Z" creationid="suzume" creationdate="20210110T165642Z">
+        <seg>Note : si le projet a été créé à la ligne de commande à l'étape 3, ceci a déjà été accompli par le programme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note: Items that are found in most applications (copy/cut/paste) are not displayed in this menu, but are available using your system shortcuts.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
@@ -38439,6 +38463,14 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
       </tuv>
       <tuv lang="fr">
         <seg>Publicité</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Publish the new OmegaT project on the server (&lt;c0&gt;commit&lt;/c0&gt; with SVN, &lt;c1&gt;commit&lt;/c1&gt; followed by &lt;c2&gt;push&lt;/c2&gt; with Git).</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T165808Z" creationid="suzume" creationdate="20210110T165808Z">
+        <seg>Publier le nouveau projet OmegaT sur le serveur (&lt;c0&gt;commit&lt;/c0&gt; avec SVN, &lt;c1&gt;commit&lt;/c1&gt; suivi de &lt;c2&gt;push&lt;/c2&gt; avec Git).</seg>
       </tuv>
     </tu>
     <tu>
@@ -43658,6 +43690,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130416T153540Z">
         <seg>Des comportements spécifiques peuvent être mis en place dans les filtres de fichiers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Specific parameters</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210111T102231Z" creationid="suzume" creationdate="20210111T102231Z">
+        <seg>Paramètres spécifiques</seg>
       </tuv>
     </tu>
     <tu>
@@ -50391,6 +50431,14 @@ under the terms of this General Public License.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
         <seg>Cela peut être effectué de deux façons :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This can be done in two ways:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T165526Z" creationid="suzume" creationdate="20210110T165526Z">
+        <seg>On peut faire ceci de deux manières :</seg>
       </tuv>
     </tu>
     <tu>
@@ -63639,6 +63687,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210110T133241Z" creationid="suzume" creationdate="20210110T133241Z">
         <seg>omegat.project (fichier)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>on the command line: &lt;c0&gt;java -jar OmegaT.jar team init [lang1] [lang2]&lt;/c0&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210110T165555Z" creationid="suzume" creationdate="20210110T165555Z">
+        <seg>à la ligne de commande : &lt;c0&gt;java -jar OmegaT.jar team init [lang1] [lang2]&lt;/c0&gt;</seg>
       </tuv>
     </tu>
     <tu>
