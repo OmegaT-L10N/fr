@@ -24743,6 +24743,14 @@ authors' reputations.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If there are any differences, check that the &lt;f0&gt;filters.xml&lt;/f0&gt; and &lt;f1&gt;segmentation.conf&lt;/f1&gt; files are under version control.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210116T153243Z" creationid="suzume" creationdate="20210116T153243Z">
+        <seg>S'il existe des différences, il faut vérifier si les fichiers &lt;f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If there are other files named test.html in other folders, they will be ignored.</seg>
       </tuv>
       <tuv lang="fr" changeid="jchelary" changedate="20130526T125528Z">
@@ -46198,6 +46206,14 @@ software and other kinds of works.</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130426T143726Z">
         <seg>La fenêtre Fichiers du projet liste les fichiers du projet et affiche d'autres informations relatives au projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Project Manager should check with the translator that the statistics are identical on both sides (server side and translator side).</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210116T153118Z" creationid="suzume" creationdate="20210116T153118Z">
+        <seg>Le gestionnaire de project doit s'assurer avec le traducteur que les statistiques sont identiques des deux côtés (côté serveur et côté traducteur).</seg>
       </tuv>
     </tu>
     <tu>
