@@ -13962,6 +13962,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Checking statistics</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210116T153038Z" creationid="suzume" creationdate="20210116T153038Z">
+        <seg>Vérification des statistiques</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Checks for language errors (style, grammar, etc.).</seg>
       </tuv>
       <tuv lang="fr" changeid="briglegrand" changedate="20120622T171544Z">
@@ -26220,6 +26228,14 @@ the scope of this License.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130421T134509Z">
         <seg>Dans tous les autres cas, aucune validation des balises n'est effectuée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In both cases, the project manager must send the translator their ID and password to access the repository.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210116T153027Z" creationid="suzume" creationdate="20210116T152957Z">
+        <seg>Dans les deux cas, le gestionnaire de projet doit envoyer au traducteur sont identifiant et son mot de passe pour avoir accès au dépôt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48401,6 +48417,14 @@ modification follow.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The reference to the URL is specified as below (here to a Git repository):</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210116T152930Z" creationid="suzume" creationdate="20210116T152930Z">
+        <seg>La référence à l'URL est spécifiée de la manière suivante (il s'agit ici d'un dépôt Git) :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The regular expressions (or regex for short) used in searches and segmentation rules are those supported by Java.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130506T122453Z">
@@ -64473,6 +64497,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130421T172623Z">
         <seg>sélectionnez la sauvegarde de la mémoire de traduction qui contient le plus probablement les données que vous cherchez</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>sending an &lt;f0&gt;omegat.project&lt;/f0&gt; file containing a reference to the URL and asking the translator to copy it into a dedicated folder and open it with OmegaT.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210116T152858Z" creationid="suzume" creationdate="20210116T152858Z">
+        <seg>en envoyant un fichier &lt;f0&gt;omegat.projet&lt;/f0&gt; qui contient une référence à l'URL et en demandant au traducteur de la copier dans un dossier spécifique pour ouvrir celui-ci dans OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
