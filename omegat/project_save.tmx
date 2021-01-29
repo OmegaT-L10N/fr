@@ -9984,6 +9984,14 @@ covered by this License; they are outside its scope.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add patterns using wildcards (Apache Ant style): *, ?, **.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210129T104105Z" creationid="suzume" creationdate="20210129T104026Z">
+        <seg>Masques consitués de jokers (style Apache Ant) : *, ?, **.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add terms to a glossary whilst translating in OmegaT</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20170403T154936Z" creationid="briac" creationdate="20170403T154936Z">
@@ -32308,6 +32316,22 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130425T200754Z">
         <seg>Nom de la TMX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Name of the local folder or file, relative to the root of the OmegaT project.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210129T103945Z" creationid="suzume" creationdate="20210129T103911Z">
+        <seg>Nom du dossier ou fichier local, par rapport à la racine du projet OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Name of the remote folder or file, relative to the repository url.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210129T103940Z" creationid="suzume" creationdate="20210129T103940Z">
+        <seg>Non du dossier ou fichier distant, par rapport à l'URL du dépôt.</seg>
       </tuv>
     </tu>
     <tu>
