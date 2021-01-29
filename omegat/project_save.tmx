@@ -8836,8 +8836,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="en">
         <seg>&lt;repository type="svn" url="https://repo_for_OmegaT_team_project"&gt;</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20200119T142633Z" creationid="suzume" creationdate="20200119T142633Z">
-        <seg>&lt;repository type="svn" url="https://repo_for_OmegaT_team_project"&gt;</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210129T121328Z" creationid="suzume" creationdate="20200119T142633Z">
+        <seg>&lt;repository type="svn" url="https://dépôt_du_projet_OmegaT_en_équipe"&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10550,8 +10550,8 @@ rights of fair use or other equivalent, as provided by copyright law.</seg>
       <tuv lang="en">
         <seg>All the contents of &lt;f0&gt;https://repo_for_OmegaT_team_project&lt;/f0&gt; are mapped to the local OmegaT project</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210129T121240Z" creationid="suzume" creationdate="20210129T121240Z">
-        <seg>La totalité du contenu du &lt;f0&gt;https://repo_for_OmegaT_team_project&lt;/f0&gt; est mise en correspondance avec le projet OmegaT local.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210129T121339Z" creationid="suzume" creationdate="20210129T121240Z">
+        <seg>La totalité du contenu du &lt;f0&gt;https://dépôt_du_projet_OmegaT_en_équipe&lt;/f0&gt; est mise en correspondance avec le projet OmegaT local.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30928,6 +30928,14 @@ impose that choice.</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130419T191952Z">
         <seg>De nombreuses personnes ont fait de généreuses contributions au large spectre de logiciels distribués par ce système en se fiant à l'application cohérente de ce système ; il appartient à chaque auteur/donateur de décider si il ou elle veut distribuer du logiciel par l'intermédiaire d'un quelconque autre système et un concessionaire ne peut imposer ce choix.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mapping for projects in a subdirectory of the repository:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210129T121412Z" creationid="suzume" creationdate="20210129T121412Z">
+        <seg>Mise en correspondance de projets dans un sous-dossier du dépôt :</seg>
       </tuv>
     </tu>
     <tu>
