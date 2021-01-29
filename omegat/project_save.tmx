@@ -11639,6 +11639,14 @@ provoquer des comportements inattendus, mais corrects.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As above.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210129T104335Z" creationid="suzume" creationdate="20210129T104335Z">
+        <seg>Comme ci-dessus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As elsewhere in the OmegaT project, the work of programming OmegaT is done by volunteers, and in keeping with the project philosophy, the developments and improvements they make to OmegaT are ultimately at their discretion.</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20170403T094531Z" creationid="OmegaT Aligner" creationdate="20170329T123429Z">
@@ -19873,6 +19881,22 @@ The FSF strongly urges you not to use this translation as the official distribu-
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
         <seg>Exemple :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Example: &lt;u0&gt;**/*.docx&lt;/u0&gt; to add all .docx files, wherever they are located in the project, even in excluded folders</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210129T104436Z" creationid="suzume" creationdate="20210129T104436Z">
+        <seg>Exemple : &lt;u0&gt;**/*.docx&lt;/u0&gt; pour ajouter tous les fichiers .docx, où qu'ils soient placés dans le projet, même dans les dossiers exclus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Example: &lt;u0&gt;**/excludedfolder/**;*.txt&lt;/u0&gt; excludes files that have /excludedfolder/ in the path, and files with .txt extension.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210129T104324Z" creationid="suzume" creationdate="20210129T104324Z">
+        <seg>Exemple : &lt;u0&gt;**/fichiers_exclus/**;*.txt&lt;/u0&gt; exclus les fichiers qui ont un dossier /fichiers_exclus/ dans leur chemin ainsi que les fichiers avec l'extension .txt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42133,6 +42157,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130423T154610Z">
         <seg>Segmentation au niveau des phrases</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Separate different patterns with a semicolon.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210129T104133Z" creationid="suzume" creationdate="20210129T104133Z">
+        <seg>Séparer les différents masques à l'aide d'un point-virgule.</seg>
       </tuv>
     </tu>
     <tu>
