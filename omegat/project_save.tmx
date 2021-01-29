@@ -24745,8 +24745,8 @@ authors' reputations.</seg>
       <tuv lang="en">
         <seg>If there are any differences, check that the &lt;f0&gt;filters.xml&lt;/f0&gt; and &lt;f1&gt;segmentation.conf&lt;/f1&gt; files are under version control.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210116T154315Z" creationid="suzume" creationdate="20210116T153243Z">
-        <seg>S'il existe des différences, il faut vérifier si les fichiers </seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210129T085044Z" creationid="suzume" creationdate="20210116T153243Z">
+        <seg>S'il existe des différences, il faut vérifier si les fichiers &lt;f0&gt;filters.xml&lt;/f0&gt; et &lt;f1&gt;segmentation.conf&lt;/f1&gt; sont inclus dans le contrôle de version.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26863,6 +26863,14 @@ patent against the party.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In this case, the procedure is the same, but the project manager does not add (all) files to version-controlled project.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210129T085418Z" creationid="suzume" creationdate="20210129T085418Z">
+        <seg>Dans ce cas, la procédure est la même mais le gestionnaire de project n'ajoute pas (tous) les fihciers au projet sous contrôle de version.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In this dialog one can define the font used by &lt;a0&gt;OmegaT&lt;/a0&gt; in the following windows:</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
@@ -27551,6 +27559,14 @@ exécutez simplement le programme d'installation.</seg>
       </tuv>
       <tuv lang="fr">
         <seg>Pour commencer tout de suite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Instead, the translators copy the files themselves, or add mappings to synchronize files from other locations.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210129T085507Z" creationid="suzume" creationdate="20210129T085444Z">
+        <seg>À la place, les traducteurs vont copier eux-mêmes les fichiers, ou ajouter des mappages pour synchroniser les fichiers à partir d'autres emplacements.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34761,6 +34777,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20200724T173112Z" creationid="briac" creationdate="20200724T173112Z">
         <seg>Équipe OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT team projects can also be set up in a different way, where several translators share the project_save.tmx file but not (all of) the (source) files.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210129T085332Z" creationid="suzume" creationdate="20210129T085332Z">
+        <seg>Les projects OmegaT peuvent également être paramétrés de manière différente pour que les participants partagent le fichier project_save.tmx mais pas (tous) les autres fichiers (source).</seg>
       </tuv>
     </tu>
     <tu>
@@ -43518,6 +43542,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Special case: minimal sharing</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210129T085055Z" creationid="suzume" creationdate="20210129T085055Z">
+        <seg>Cas spécial : partage minimal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Specific behavior can be set up in the file filters.</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130416T153540Z">
@@ -47812,6 +47844,14 @@ freedom to share and change it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The mappings can be added by editing &lt;f0&gt;omegat.project&lt;/f0&gt; or via the UI: &lt;m1&gt; &lt;g2&gt;Project&lt;/g2&gt; &lt;g3&gt;Properties&lt;/g3&gt; &lt;g4&gt;Repository Mapping&lt;/g4&gt; &lt;/m1&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210129T085625Z" creationid="suzume" creationdate="20210129T085625Z">
+        <seg>Les mappages peuvent être ajoutés en modifiant &lt;f0&gt;omegat.project&lt;/f0&gt; où par l'intermédiaire de l'interface utilisateurs : &lt;m1&gt; &lt;g2&gt;Projet&lt;/g2&gt; &lt;g3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The match statistics are accessed via&lt;g0&gt;Tools&gt;Match Statistics.&lt;/g0&gt; The evaluation is rather CPU intensive and can be time-consuming, so a progress bar is shown during the calculation.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130528T125549Z">
@@ -48293,6 +48333,14 @@ modification follow.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20200118T152441Z" creationid="suzume" creationdate="20200118T152441Z">
         <seg>Les procédures pour configurer l'accès aux services Microsoft Translator et Google Translate sont décrits &lt;u0&gt;ici&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The process above describes the usual case, where the project manager wants to have full control of the project and where the files (and the statistics) are identical on both sides (server side and translator side).</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210129T085206Z" creationid="suzume" creationdate="20210129T085206Z">
+        <seg>Le processus ci-dessus décrit le cas type, quand le gestionnaire de project veut avoir le contrôle total sur le projet et où les fichiers (et les statistiques) sont identiques du côté du serveur et du côté du traducteur.</seg>
       </tuv>
     </tu>
     <tu>
