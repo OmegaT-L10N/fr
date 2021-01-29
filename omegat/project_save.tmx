@@ -31004,6 +31004,14 @@ impose that choice.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mapping for extra source files from the web: &lt;repository type="http" url="https://github.com/omegat-org/omegat/raw/master/"&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210129T133223Z" creationid="suzume" creationdate="20210129T133223Z">
+        <seg>Mappage de fichiers source supplémentaires à partir du Web : &lt;repository type="http" url="https://github.com/omegat-org/omegat/raw/master/"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mapping for projects in a subdirectory of the repository:</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210129T121412Z" creationid="suzume" creationdate="20210129T121412Z">
@@ -31014,8 +31022,8 @@ impose that choice.</seg>
       <tuv lang="en">
         <seg>Mapping of Local Folders to Remote Folders in Repositories</seg>
       </tuv>
-      <tuv lang="fr" changeid="Didier" changedate="20160427T150412Z" creationid="Didier" creationdate="20160427T150412Z">
-        <seg>Mappage des dossiers locaux avec les dossiers distants des référentiels</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210129T133112Z" creationid="Didier" creationdate="20160427T150412Z">
+        <seg>Mise en correspondance des dossiers locaux avec les dossiers distants des référentiels</seg>
       </tuv>
     </tu>
     <tu>
@@ -45338,8 +45346,8 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       <tuv lang="en">
         <seg>Team Mode Repository Mapping</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20201212T112159Z" creationid="suzume" creationdate="20201212T112130Z">
-        <seg>Mappage des référentiels en mode équipe</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210129T133103Z" creationid="suzume" creationdate="20201212T112130Z">
+        <seg>Mise en correspondance des référentiels en mode équipe</seg>
       </tuv>
     </tu>
     <tu>
