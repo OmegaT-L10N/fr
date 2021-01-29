@@ -12959,6 +12959,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By default, all files that are not excluded are included.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210129T104458Z" creationid="suzume" creationdate="20210129T104458Z">
+        <seg>Par défaut, tous les fichiers qui ne sont pas exclus sont inclus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default, it is not possible to select words in the source segment using the keyboard rather than the mouse.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160726T132740Z" creationid="Didier" creationdate="20160726T132740Z">
@@ -16875,6 +16883,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Default project mapping:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210129T104652Z" creationid="suzume" creationdate="20210129T104652Z">
+        <seg>Mappage par défaut du projet :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Default shortcut</seg>
       </tuv>
       <tuv lang="fr" changeid="laurieetclémentine" changedate="20130411T133019Z">
@@ -19873,6 +19889,14 @@ The FSF strongly urges you not to use this translation as the official distribu-
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z" creationid="Didier" creationdate="20140706T175057Z">
         <seg>Exemple : recherche et remplacement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Example mappings</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210129T104642Z" creationid="suzume" creationdate="20210129T104642Z">
+        <seg>Exemples de mappages</seg>
       </tuv>
     </tu>
     <tu>
@@ -58294,6 +58318,14 @@ source code.</seg>
       </tuv>
       <tuv lang="fr">
         <seg>Vous devez mettre à jour votre JDK 1.6 vers la dernière version, ou simplement retirer les fichiers jaxb-*.jar du répertoire d'OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You only need to specify this to override some exclusions.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210129T104635Z" creationid="suzume" creationdate="20210129T104527Z">
+        <seg>L'inclusion n'est nécessaire que lorsque vous souhaitez créer des dérogations à certaines exclusions.</seg>
       </tuv>
     </tu>
     <tu>
