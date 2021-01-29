@@ -33223,6 +33223,14 @@ Diminue les sorties sur stdout de la ligne de commande.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note about omegat.project and mappings</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210129T152912Z" creationid="suzume" creationdate="20210129T152912Z">
+        <seg>Note au sujet d'omegat.project et des correspondances</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note also that some fonts behave better for some language pairs than for others.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130506T073234Z">
@@ -56308,6 +56316,14 @@ for which you have or can give appropriate copyright permission.</seg>
       </tuv>
       <tuv lang="fr" changeid="jchelary" changedate="20130526T135724Z">
         <seg>Quand vous transmettez un exemplaire d’une création régie, vous pouvez à votre convenance supprimer toute permission additionnelle sur cet exemplaire, ou sur n’importe quelle partie de celui-ci. (Des permissions additionnelles peuvent être rédigées afin de requérir leur propre suppression dans certains cas lorsque vous modifiez la création). Vous pouvez stipuler des permissions additionnelles sur une contribution, ajoutée par vos soins à une création régie, sur laquelle vous disposez des droits d’auteur ou des permissions adéquates pour ce faire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you create a new project and commit that to a repository, the &lt;f0&gt;omegat.project&lt;/f0&gt; file doesn't contain any mapping.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210129T152937Z" creationid="suzume" creationdate="20210129T152937Z">
+        <seg>Quand vous créez un nouveau projet et que vous le </seg>
       </tuv>
     </tu>
     <tu>
