@@ -5618,6 +5618,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;excludes&gt;**/*.bak&lt;/excludes&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210129T121657Z" creationid="suzume" creationdate="20210129T121657Z">
+        <seg>&lt;excludes&gt;**/*.bak&lt;/excludes&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;f0&gt;&lt;i1/&gt;tm&lt;/f0&gt; folder</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130506T141258Z">
@@ -5798,6 +5806,14 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
       <tuv lang="fr" changeid="brigitte" changedate="20130713T084150Z">
         <seg>&lt;i2/&gt;Dans ce cas, les options de démarrage du programme sont lues depuis le fichier &lt;e3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt;.l4J.ini &lt;/e3&gt; qui se trouve dans le même dossier que le fichier exe. Ce fichier peut être modifié afin d'être adapté à votre installation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;includes&gt;readme.bak&lt;/includes&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210129T121700Z" creationid="suzume" creationdate="20210129T121700Z">
+        <seg>&lt;includes&gt;readme.bak&lt;/includes&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6590,6 +6606,22 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210111T143801Z" creationid="suzume" creationdate="20210111T143801Z">
         <seg>&lt;mapping local="" repository=""/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;mapping local="" repository="En-US_DE_project"/&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210129T121453Z" creationid="suzume" creationdate="20210129T121453Z">
+        <seg>&lt;mapping local="" repository="Projet_En-US_FR"/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;mapping local="source/subdir" repository=""&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210129T121654Z" creationid="suzume" creationdate="20210129T121654Z">
+        <seg>&lt;mapping local="source/subdir" repository=""&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8826,10 +8858,18 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;repository type="svn" url="https://repo_for_All_OmegaT_team_project_sources"&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210129T121650Z" creationid="suzume" creationdate="20210129T121650Z">
+        <seg>&lt;repository type="svn" url="https://dépôt_des_sources_de_tous_les_projets_OmegaT_en_équipe"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;repository type="svn" url="https://repo_for_All_OmegaT_team_projects"&gt;</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20200119T142639Z" creationid="suzume" creationdate="20200119T142639Z">
-        <seg>&lt;repository type="svn" url="https://repo_for_All_OmegaT_team_projects"&gt;</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210129T121437Z" creationid="suzume" creationdate="20200119T142639Z">
+        <seg>&lt;repository type="svn" url="https://dépôt_de_tous_les_projets_OmegaT_en_équipe"&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10544,6 +10584,14 @@ rights of fair use or other equivalent, as provided by copyright law.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130506T093511Z">
         <seg>Tous les groupes de règles de segmentation s'appliquant à un masque de langue sont actifs et sont appliqués dans l'ordre de priorité donné, de sorte que les règles spécifiques à la langue pratiquée passent avant les règles par défaut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All the contents of &lt;f0&gt;https://repo_for_All_OmegaT_team_projects/En-US_DE_project&lt;/f0&gt; are mapped to the local OmegaT project.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210129T121529Z" creationid="suzume" creationdate="20210129T121529Z">
+        <seg>La totalité du contenu du &lt;f0&gt;https://dépôt_de_tous_les_projets_OmegaT_en_équipe/Projet_En-US_FR&lt;/f0&gt; est mise en correspondance avec le projet OmegaT local.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30928,6 +30976,14 @@ impose that choice.</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130419T191952Z">
         <seg>De nombreuses personnes ont fait de généreuses contributions au large spectre de logiciels distribués par ce système en se fiant à l'application cohérente de ce système ; il appartient à chaque auteur/donateur de décider si il ou elle veut distribuer du logiciel par l'intermédiaire d'un quelconque autre système et un concessionaire ne peut imposer ce choix.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mapping for additional sources from remote repository, with filters:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210129T121602Z" creationid="suzume" creationdate="20210129T121602Z">
+        <seg>Mise en correspondance de sources supplémentaires en provenance de dépiots distants, avec des filtres :</seg>
       </tuv>
     </tu>
     <tu>
