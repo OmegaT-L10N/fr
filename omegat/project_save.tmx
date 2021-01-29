@@ -3878,6 +3878,14 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>&lt;/mapping&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210129T121702Z" creationid="suzume" creationdate="20210129T121702Z">
+        <seg>&lt;/mapping&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;/repository&gt;
@@ -10584,6 +10592,14 @@ rights of fair use or other equivalent, as provided by copyright law.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130506T093511Z">
         <seg>Tous les groupes de règles de segmentation s'appliquant à un masque de langue sont actifs et sont appliqués dans l'ordre de priorité donné, de sorte que les règles spécifiques à la langue pratiquée passent avant les règles par défaut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All the contents of &lt;f0&gt;https://repo_for_All_OmegaT_team_project_sources&lt;/f0&gt; are mapped to the local OmegaT project source folder, except all *.bak files but readme.bak.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210129T121803Z" creationid="suzume" creationdate="20210129T121803Z">
+        <seg>La totalité du contenu du &lt;f0&gt;https://dépôt_des_sources_de_tous_les_projets_OmegaT_en_équipe&lt;/f0&gt; est mise en correspondance avec le dossier source du projet OmegaT local, à l'exception des fichiers *.bak, sauf le fichier readme.bak.</seg>
       </tuv>
     </tu>
     <tu>
