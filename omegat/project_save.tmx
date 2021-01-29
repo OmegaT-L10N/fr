@@ -38998,6 +38998,14 @@ ces mots : « pas de page »...</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remote location or directory of the files to translate.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210129T094850Z" creationid="suzume" creationdate="20210129T094850Z">
+        <seg>Emplacement distant ou dossier des fichiers à traduire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remote repository network communication error: {0}</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z" creationid="Didier" creationdate="20180919T153801Z">
@@ -50303,6 +50311,14 @@ under the terms of this General Public License.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210110T165526Z" creationid="suzume" creationdate="20210110T165526Z">
         <seg>On peut faire ceci de deux manières :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This can be either http (which includes https), svn, git or file.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210129T094745Z" creationid="suzume" creationdate="20210129T094745Z">
+        <seg>Peut être http (https), svn, git ou file.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64329,6 +64345,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210111T143954Z" creationid="suzume" creationdate="20210111T143954Z">
         <seg>type de référentiel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>repository url</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210129T094750Z" creationid="suzume" creationdate="20210129T094750Z">
+        <seg>URL du référentiel</seg>
       </tuv>
     </tu>
     <tu>
