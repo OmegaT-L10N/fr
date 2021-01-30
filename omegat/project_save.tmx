@@ -50817,6 +50817,14 @@ under the terms of this General Public License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This feature is intended for gathering source files, but you're not restricted to source files.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210130T061031Z" creationid="suzume" creationdate="20210130T060844Z">
+        <seg>Cette fonction est conçue pour rassembler les fichiers source mais n'est pas limitée aux fichiers source.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This feature, however, is not implemented in OmegaT.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130528T131904Z">
@@ -55770,8 +55778,8 @@ searchable without subscription:</seg>
       <tuv lang="en">
         <seg>Warning: if a file does not exist, the project won't load.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210130T060749Z" creationid="suzume" creationdate="20210130T060749Z">
-        <seg>Avertissement : si un fichier n'existe pas le projet ne se</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210130T060807Z" creationid="suzume" creationdate="20210130T060749Z">
+        <seg>Avertissement : si un fichier n'existe pas le projet ne sera pas chargé.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57476,8 +57484,8 @@ this License.</seg>
       <tuv lang="en">
         <seg>You can add as many mappings as you want, but only in the context of a team project, i.e. one of the mappings includes omegat.project.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210129T152851Z" creationid="suzume" creationdate="20210129T152851Z">
-        <seg>Vous pouvez ajouter autant de correspondances que vous le souhaitez, mais exclusivement dans le contexte d'un projet en équipe, c'est à dire qu'une des correspondances doit inclure omegat.project.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210130T060821Z" creationid="suzume" creationdate="20210129T152851Z">
+        <seg>Vous pouvez ajouter autant de correspondances que vous le souhaitez, mais exclusivement dans le contexte d'un projet en équipe, c'est-à-dire qu'une des correspondances doit inclure omegat.project.</seg>
       </tuv>
     </tu>
     <tu>
