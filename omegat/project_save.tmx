@@ -55768,6 +55768,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Warning: if a file does not exist, the project won't load.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210130T060749Z" creationid="suzume" creationdate="20210130T060749Z">
+        <seg>Avertissement : si un fichier n'existe pas le projet ne se</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Warning: in Microsoft Open XML formats (docx, xlsx, etc.), if all tags are displayed, DO NOT place any text before the first tag – it is a technical tag that must always begin the segment.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20200128T142050Z" creationid="suzume" creationdate="20200128T142050Z">
