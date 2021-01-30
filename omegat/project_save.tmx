@@ -48767,6 +48767,22 @@ modification follow.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The remote file &lt;f0&gt;https://github.com/omegat-org/omegat/raw/master/release/readme.txt&lt;/f0&gt; is mapped to the local file &lt;f1&gt;source/readme_tr.txt&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210130T060110Z" creationid="suzume" creationdate="20210130T060110Z">
+        <seg>Le fichier distant &lt;f0&gt;https://github.com/omegat-org/omegat/raw/master/release/readme.txt&lt;/f0&gt; est mis en correspondance avec le fichier local &lt;f1&gt;source/readme_tr.txt&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The remote file &lt;f0&gt;https://github.com/omegat-org/omegat/raw/master/src/org/omegat/Bundle.properties&lt;/f0&gt; is mapped to the local file &lt;f1&gt;source/Bundle.properties&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210130T060026Z" creationid="suzume" creationdate="20210130T060000Z">
+        <seg>Le fichier distant &lt;f0&gt;https://github.com/omegat-org/omegat/raw/master/src/org/omegat/Bundle.properties&lt;/f0&gt; est mise en correspondance avec le fichier local &lt;f1&gt;source/Bundle.properties&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The repository is empty at this moment.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130429T121047Z">
@@ -51192,6 +51208,14 @@ this version will not interfere with it.</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20170331T131926Z" creationid="briac" creationdate="20170331T131926Z">
         <seg>Cette liste de diffusion est destinée aux localisateurs d'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This makes it possible to rename the file to be translated.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210130T060122Z" creationid="suzume" creationdate="20210130T060122Z">
+        <seg>Ceci permet le renommage du fichier à traduire.</seg>
       </tuv>
     </tu>
     <tu>
