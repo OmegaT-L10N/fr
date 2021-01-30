@@ -8898,8 +8898,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="en">
         <seg>&lt;repository type="git" url="https://repo_for_OmegaT_team_project.git"&gt;</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210129T130328Z" creationid="suzume" creationdate="20200119T142631Z">
-        <seg>&lt;repository type="git" url="https://dépôt_du_projet_OmegaT_en_équipe.git"&gt;</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210130T103348Z" creationid="suzume" creationdate="20200119T142631Z">
+        <seg>&lt;repository type="git" url="https://référentiel_du_projet_OmegaT_en_équipe.git"&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8914,24 +8914,24 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="en">
         <seg>&lt;repository type="svn" url="https://repo_for_All_OmegaT_team_project_sources"&gt;</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210129T121650Z" creationid="suzume" creationdate="20210129T121650Z">
-        <seg>&lt;repository type="svn" url="https://dépôt_des_sources_de_tous_les_projets_OmegaT_en_équipe"&gt;</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210130T103434Z" creationid="suzume" creationdate="20210129T121650Z">
+        <seg>&lt;repository type="svn" url="https://référentiel_des_sources_de_tous_les_projets_OmegaT_en_équipe"&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;repository type="svn" url="https://repo_for_All_OmegaT_team_projects"&gt;</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210129T121437Z" creationid="suzume" creationdate="20200119T142639Z">
-        <seg>&lt;repository type="svn" url="https://dépôt_de_tous_les_projets_OmegaT_en_équipe"&gt;</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210130T103423Z" creationid="suzume" creationdate="20200119T142639Z">
+        <seg>&lt;repository type="svn" url="https://référentiel_de_tous_les_projets_OmegaT_en_équipe"&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;repository type="svn" url="https://repo_for_OmegaT_team_project"&gt;</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210129T121328Z" creationid="suzume" creationdate="20200119T142633Z">
-        <seg>&lt;repository type="svn" url="https://dépôt_du_projet_OmegaT_en_équipe"&gt;</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210130T103405Z" creationid="suzume" creationdate="20200119T142633Z">
+        <seg>&lt;repository type="svn" url="https://référentiel_du_projet_OmegaT_en_équipe"&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10596,6 +10596,14 @@ this License without regard to the additional permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All other files will be replaced by the files in the remote repository.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210130T103315Z" creationid="suzume" creationdate="20210130T103225Z">
+        <seg>Tous les autres fichiers seront remplacés par les fichiers dans le référentiel distant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All other local changes to the project are reverted.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210130T093122Z" creationid="suzume" creationdate="20210130T093011Z">
@@ -10652,24 +10660,24 @@ rights of fair use or other equivalent, as provided by copyright law.</seg>
       <tuv lang="en">
         <seg>All the contents of &lt;f0&gt;https://repo_for_All_OmegaT_team_project_sources&lt;/f0&gt; are mapped to the local OmegaT project source folder, except all *.bak files but readme.bak.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210129T121803Z" creationid="suzume" creationdate="20210129T121803Z">
-        <seg>La totalité du contenu du &lt;f0&gt;https://dépôt_des_sources_de_tous_les_projets_OmegaT_en_équipe&lt;/f0&gt; est mise en correspondance avec le dossier source du projet OmegaT local, à l'exception des fichiers *.bak, sauf le fichier readme.bak.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210130T103442Z" creationid="suzume" creationdate="20210129T121803Z">
+        <seg>La totalité du contenu du &lt;f0&gt;https://référentiel_des_sources_de_tous_les_projets_OmegaT_en_équipe&lt;/f0&gt; est mise en correspondance avec le dossier source du projet OmegaT local, à l'exception des fichiers *.bak, sauf le fichier readme.bak.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>All the contents of &lt;f0&gt;https://repo_for_All_OmegaT_team_projects/En-US_DE_project&lt;/f0&gt; are mapped to the local OmegaT project.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210129T121529Z" creationid="suzume" creationdate="20210129T121529Z">
-        <seg>La totalité du contenu du &lt;f0&gt;https://dépôt_de_tous_les_projets_OmegaT_en_équipe/Projet_En-US_FR&lt;/f0&gt; est mise en correspondance avec le projet OmegaT local.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210130T103429Z" creationid="suzume" creationdate="20210129T121529Z">
+        <seg>La totalité du contenu du &lt;f0&gt;https://référentiel_de_tous_les_projets_OmegaT_en_équipe/Projet_En-US_FR&lt;/f0&gt; est mise en correspondance avec le projet OmegaT local.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>All the contents of &lt;f0&gt;https://repo_for_OmegaT_team_project&lt;/f0&gt; are mapped to the local OmegaT project</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210129T121339Z" creationid="suzume" creationdate="20210129T121240Z">
-        <seg>La totalité du contenu du &lt;f0&gt;https://dépôt_du_projet_OmegaT_en_équipe&lt;/f0&gt; est mise en correspondance avec le projet OmegaT local.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210130T103413Z" creationid="suzume" creationdate="20210129T121240Z">
+        <seg>La totalité du contenu du &lt;f0&gt;https://référentiel_du_projet_OmegaT_en_équipe&lt;/f0&gt; est mise en correspondance avec le projet OmegaT local.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15985,8 +15993,8 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       <tuv lang="en">
         <seg>Create a local copy of the repository (&lt;c0&gt;check out&lt;/c0&gt; with SVN, &lt;c1&gt;clone&lt;/c1&gt; with Git).</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210110T165513Z" creationid="suzume" creationdate="20210110T165443Z">
-        <seg>Créer une copie locale du dépôt (&lt;c0&gt;checkout&lt;/c0&gt; avec SVN, &lt;c1&gt;clone&lt;/c1&gt; avec Git).</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210130T103329Z" creationid="suzume" creationdate="20210110T165443Z">
+        <seg>Créer une copie locale du référentiel (&lt;c0&gt;checkout&lt;/c0&gt; avec SVN, &lt;c1&gt;clone&lt;/c1&gt; avec Git).</seg>
       </tuv>
     </tu>
     <tu>
@@ -16001,8 +16009,8 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       <tuv lang="en">
         <seg>Create a new, empty OmegaT project in the local repository.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210110T165507Z" creationid="suzume" creationdate="20210110T165507Z">
-        <seg>Créer un nouveau projet OmegaT vide dans le dépôt local.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210130T103337Z" creationid="suzume" creationdate="20210110T165507Z">
+        <seg>Créer un nouveau projet OmegaT vide dans le référentiel local.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26456,8 +26464,8 @@ the scope of this License.</seg>
       <tuv lang="en">
         <seg>In both cases, the project manager must send the translator their ID and password to access the repository.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210116T153027Z" creationid="suzume" creationdate="20210116T152957Z">
-        <seg>Dans les deux cas, le gestionnaire de projet doit envoyer au traducteur sont identifiant et son mot de passe pour avoir accès au dépôt.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210130T103354Z" creationid="suzume" creationdate="20210116T152957Z">
+        <seg>Dans les deux cas, le gestionnaire de projet doit envoyer au traducteur sont identifiant et son mot de passe pour avoir accès au référentiel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31108,8 +31116,8 @@ impose that choice.</seg>
       <tuv lang="en">
         <seg>Mapping for projects in a subdirectory of the repository:</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210129T121412Z" creationid="suzume" creationdate="20210129T121412Z">
-        <seg>Mise en correspondance de projets dans un sous-dossier du dépôt :</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210130T103417Z" creationid="suzume" creationdate="20210129T121412Z">
+        <seg>Mise en correspondance de projets dans un sous-dossier du référentiel :</seg>
       </tuv>
     </tu>
     <tu>
@@ -32576,8 +32584,8 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>Name of the remote folder or file, relative to the repository url.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210129T103940Z" creationid="suzume" creationdate="20210129T103940Z">
-        <seg>Non du dossier ou fichier distant, par rapport à l'URL du dépôt.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210130T103358Z" creationid="suzume" creationdate="20210129T103940Z">
+        <seg>Non du dossier ou fichier distant, par rapport à l'URL du référentiel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48833,8 +48841,8 @@ modification follow.</seg>
       <tuv lang="en">
         <seg>The reference to the URL is specified as below (here to a Git repository):</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210116T152930Z" creationid="suzume" creationdate="20210116T152930Z">
-        <seg>La référence à l'URL est spécifiée de la manière suivante (il s'agit ici d'un dépôt Git) :</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210130T103341Z" creationid="suzume" creationdate="20210116T152930Z">
+        <seg>La référence à l'URL est spécifiée de la manière suivante (il s'agit ici d'un référentiel Git) :</seg>
       </tuv>
     </tu>
     <tu>
@@ -56474,8 +56482,8 @@ for which you have or can give appropriate copyright permission.</seg>
       <tuv lang="en">
         <seg>When you create a new project and commit that to a repository, the &lt;f0&gt;omegat.project&lt;/f0&gt; file doesn't contain any mapping.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210129T153043Z" creationid="suzume" creationdate="20210129T152937Z">
-        <seg>Quand vous créez un nouveau projet et que vous l'envoyer à un dépôt, le fichier &lt;f0&gt;omegat.project&lt;/f0&gt; ne contient aucune mise en correspondance.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210130T103448Z" creationid="suzume" creationdate="20210129T152937Z">
+        <seg>Quand vous créez un nouveau projet et que vous l'envoyer à un référentiel, le fichier &lt;f0&gt;omegat.project&lt;/f0&gt; ne contient aucune mise en correspondance.</seg>
       </tuv>
     </tu>
     <tu>
