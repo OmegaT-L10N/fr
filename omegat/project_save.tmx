@@ -10596,6 +10596,14 @@ this License without regard to the additional permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All other local changes to the project are reverted.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210130T093011Z" creationid="suzume" creationdate="20210130T093011Z">
+        <seg>Toutes les autres modifications locales du projet sont </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All other non-permissive additional terms are considered "further
 restrictions" within the meaning of section 10. If the Program as you
 received it, or any part of it, contains a notice stating that it is
@@ -24720,6 +24728,14 @@ countries not thus excluded.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the file doesn't contain mappings, the existing local mappings are re-applied, and only those.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210130T092950Z" creationid="suzume" creationdate="20210130T092950Z">
+        <seg>Si le fichier ne contient pas de mises en correspondance, les correspondances locales existantes sont appliquées de nouveau et seulement celles-ci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the files to be translated are parts of a tree structure (as in a website), you need only specify the top-level subfolder and OmegaT will maintain the entire contents, while keeping the tree structure intact.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130527T135624Z">
@@ -33464,6 +33480,14 @@ Rajout d'une partie approriée, afin que la note de bas de page ne se retrouve p
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210111T143336Z">
         <seg>Remarquez que cette clé se compose de 38 caractères.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note that the omegat.project file in the repository is not changed automatically and still doesn't contain the mappings.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210130T092748Z" creationid="suzume" creationdate="20210130T092740Z">
+        <seg>Remarquez que le fichier omegat.project dans ce dépôt n'a pas été modifié de manière automatique et qu'il ne contient toujours pas les mises en correspondance.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56437,6 +56461,14 @@ for which you have or can give appropriate copyright permission.</seg>
       </tuv>
       <tuv lang="fr" changeid="brigitte" changedate="20130712T164436Z">
         <seg>Lorsqu'OmegaT prend connaissance des fichiers que vous voulez traduire, il recherche les fichiers qu'il reconnaît sur la base de règles de filtrage de fichier, reconnaît les parties textuelles, sépare les groupes de texte en suivant les règles de segmentation, et affiche les segments un par un pour vous permettre de procéder à la traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you load a project, all changes in the repository are copied to the local project, including the &lt;f0&gt;omegat.project&lt;/f0&gt; file with project settings.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210130T092904Z" creationid="suzume" creationdate="20210130T092904Z">
+        <seg>Lorsque vous chargez un project, toutes les modifications du dépôt sont copiées dans le projet local, à l'inclusion du fichier &lt;f0&gt;omegat.project&lt;/f0&gt; qui contient les paramètres du projet.</seg>
       </tuv>
     </tu>
     <tu>
