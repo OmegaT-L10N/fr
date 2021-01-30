@@ -10598,8 +10598,8 @@ this License without regard to the additional permissions.</seg>
       <tuv lang="en">
         <seg>All other local changes to the project are reverted.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210130T093011Z" creationid="suzume" creationdate="20210130T093011Z">
-        <seg>Toutes les autres modifications locales du projet sont </seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210130T093122Z" creationid="suzume" creationdate="20210130T093011Z">
+        <seg>Toutes les autres modifications locales du projet sont annulées.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24724,6 +24724,14 @@ countries not thus excluded.</seg>
       </tuv>
       <tuv lang="fr" changeid="brigitte" changedate="20130712T151709Z">
         <seg>Si le fichier existe déjà, il n'y a pas de vérification du format ou du jeu caractères du fichier : les nouvelles entrées sont toujours présentées sous format texte séparé par des tabulations et en UTF-8.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the file does contain mappings, then local changes to mappings are lost.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210130T093148Z" creationid="suzume" creationdate="20210130T093148Z">
+        <seg>Si le fichier contient des mises en correspondance, les modifications locales sont perdues.</seg>
       </tuv>
     </tu>
     <tu>
