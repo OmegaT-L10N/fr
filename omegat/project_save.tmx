@@ -8888,6 +8888,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;repository type="file" url="/home/me/myfiles"&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210130T060204Z" creationid="suzume" creationdate="20210130T060204Z">
+        <seg>&lt;repository type="file" url="/utilisateurs/moi/mesfichiers"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;repository type="git" url="https://repo_for_OmegaT_team_project.git"&gt;</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210129T130328Z" creationid="suzume" creationdate="20200119T142631Z">
@@ -47966,6 +47974,14 @@ freedom to share and change it.</seg>
       </tuv>
       <tuv lang="fr" changeid="pingouin" changedate="20130426T133132Z">
         <seg>La ligne contenant le pourcentage de correspondances inclut aussi le nom de la mémoire de traduction&lt;i1/&gt; qui contient la correspondance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The local file &lt;f0&gt;/home/me/myfiles/my/file.txt&lt;/f0&gt; is mapped to the local file &lt;f1&gt;source/file.txt&lt;/f1&gt; and &lt;f2&gt;/home/me/myfiles/some/file.txt&lt;/f2&gt; is mapped to the local file &lt;f3&gt;source/file2.txt&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210130T060620Z" creationid="suzume" creationdate="20210130T060620Z">
+        <seg>Le fichier local &lt;f0&gt;/utilisateurs/moi/mesfichiers/mon/fichier.txt&lt;/f0&gt; est mis en correspondance avec le fichier local &lt;f1&gt;source/fichier.txt&lt;/f1&gt; et &lt;f2&gt;/utilisateurs/moi/mesfichiers/un_autre/fichier.txt&lt;/f2&gt; est mis en correspondance avec le fichier local &lt;f3&gt;source/fichier2.txt&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
