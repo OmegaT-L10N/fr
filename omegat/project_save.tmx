@@ -12207,8 +12207,8 @@ provoquer des comportements inattendus, mais corrects.</seg>
       <tuv lang="en">
         <seg>Automatic saving</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210130T102840Z" creationid="suzume" creationdate="20210130T102840Z">
-        <seg>Sauv</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210130T102848Z" creationid="suzume" creationdate="20210130T102840Z">
+        <seg>Sauvegarde automatique</seg>
       </tuv>
     </tu>
     <tu>
@@ -19925,6 +19925,14 @@ personne ne vous entend pleurer...</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
         <seg>Évènement : modification du projet - « {0} »</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Every 3 minutes (by default), the local project is synchronised with the remote repository so that the project manager or other translators can see and use translations added during that period.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210130T102959Z" creationid="suzume" creationdate="20210130T102959Z">
+        <seg>Le projet local est synchronisé par défaut toutes les 3 minutes avec le dépôt distant pour que le gestionnaire du projet et les autres traducteurs puissent voir et utiliser les traductions ajoutées pendant cette période.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44726,6 +44734,14 @@ address new problems or concerns.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Synchronised files</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210130T103102Z" creationid="suzume" creationdate="20210130T103102Z">
+        <seg>Fichiers synchronisés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Synchronization error</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20120420T211458Z">
@@ -47903,6 +47919,14 @@ in the quick launch area.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20200126T091638Z" creationid="suzume" creationdate="20200126T091638Z">
         <seg>Le programme d'installation peut créer des raccourcis pour vous dans le menu démarrer, sur le bureau ou dans la zone de lancement rapide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The interval of 3 minutes can be changed in &lt;l0&gt;&lt;m1&gt; &lt;g2&gt;Options&lt;/g2&gt; &lt;g3&gt;Preferences&lt;/g3&gt; &lt;g4&gt;Saving and Output&lt;/g4&gt; &lt;/m1&gt;&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210130T103051Z" creationid="suzume" creationdate="20210130T103033Z">
+        <seg>L'intervalle de 3 minutes peut ietre modifié dans &lt;l0&gt;&lt;m1&gt; &lt;g2&gt;Options&lt;/g2&gt;&lt;g3&gt;Préférences &lt;/g3&gt; &lt;g4&gt;Enregistrement et exécution&lt;/g4&gt; &lt;/m1&gt;&lt;/l0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56557,6 +56581,14 @@ for which you have or can give appropriate copyright permission.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130429T080224Z">
         <seg>Si vous souhaitez réutiliser le filtre, re-cochez simplement la case correspondante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Whenever the project is automatically saved, but also when it is opened, closed and reloaded, only two files are actually synchronised:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210130T103148Z" creationid="suzume" creationdate="20210130T103148Z">
+        <seg>Quand un projet est sauvegardé automatiquement, mais également quand il est ouvert, fermé et rechargé, seulement deux fichiers sont en fait synchronisés :</seg>
       </tuv>
     </tu>
     <tu>
