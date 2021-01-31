@@ -3170,6 +3170,14 @@ Comportement du lemmatiseur source ou cible à utiliser (remplace les paramètre
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--config-file=&lt;p2&gt;/path/to/config-file/&lt;/p2&gt; \</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210131T124249Z" creationid="suzume" creationdate="20210131T124249Z">
+        <seg>--config-file=&lt;p2&gt;/chemin/du/fichier de configuration/&lt;/p2&gt;\</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--config-file=&lt;path&gt;
 		A Java .properties file from which to load default settings.</seg>
       </tuv>
@@ -3226,6 +3234,14 @@ Do not attempt to lock the project's omegat.project file.</seg>
       <tuv lang="fr" changeid="Didier" changedate="20160115T134425Z" creationid="Didier" creationdate="20160115T134425Z">
         <seg>--disable-project-locking
 Ne pas essayer de verrouiller le fichier omegat.project du projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--mode=&lt;p3&gt;console-translate|console-createpseudotranslatetmx|console-align&lt;/p3&gt; \</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210131T124300Z" creationid="suzume" creationdate="20210131T124300Z">
+        <seg>--mode=&lt;p3&gt;console-translate|console-createpseudotranslatetmx|console-align&lt;/p3&gt;\</seg>
       </tuv>
     </tu>
     <tu>
@@ -3416,6 +3432,22 @@ A script file to be executed on project events.</seg>
       <tuv lang="fr" changeid="Didier" changedate="20160115T135057Z" creationid="Didier" creationdate="20160115T135057Z">
         <seg>--script=&lt;chemin&gt;
 Un fichier script à exécuter lors d'événements survenant dans le projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--source-pattern=&lt;p0&gt;regexp&lt;/p0&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210131T124357Z" creationid="suzume" creationdate="20210131T124357Z">
+        <seg>--source-pattern=&lt;p0&gt;expression régulière&lt;/p0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--source-pattern=&lt;p4&gt;regexp&lt;/p4&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210131T124311Z" creationid="suzume" creationdate="20210131T124311Z">
+        <seg>--source-pattern=&lt;p4&gt;expression régulière&lt;/p4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -33503,6 +33535,14 @@ Diminue les sorties sur stdout de la ligne de commande.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note that all parameters start with a double &lt;l0&gt;-&lt;/l0&gt; character.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210131T124332Z" creationid="suzume" creationdate="20210131T124332Z">
+        <seg>Notez que tous les paramètres commencent par un tiret &lt;l0&gt;-&lt;/l0&gt; double.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note that all the tmx files in the /tm repository are parsed when the project is opened, so putting all different TMs you may have on hand into this folder may unnecessarily slow OmegaT down.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210111T143529Z">
@@ -54689,6 +54729,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Usage: &lt;l0&gt;java -jar OmegaT.jar /path/to/project --mode=console-translate --quiet&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210131T124415Z" creationid="suzume" creationdate="20210131T124415Z">
+        <seg>Utilisation : &lt;l0&gt;java -jar OmegaT.jar /chemin/du/projet --mode=console-translate --quiet&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Usage: java -jar OmegaT.jar [&lt;options&gt;] [&lt;project path&gt;]</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T020202Z" creationid="Didier" creationdate="20160115T133220Z">
@@ -61430,6 +61478,22 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>gradlew assembleDist</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210131T124433Z" creationid="suzume" creationdate="20210131T124433Z">
+        <seg>gradlew assembleDist</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>gradlew run</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210131T124441Z" creationid="suzume" creationdate="20210131T124441Z">
+        <seg>gradlew run</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>greedy quantifiers will match as much as they can.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130506T132200Z">
@@ -62158,6 +62222,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>https://git.code.sf.net/p/omegat/code</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210131T124420Z" creationid="suzume" creationdate="20210131T124420Z">
+        <seg>https://git.code.sf.net/p/omegat/code</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>https://groups.yahoo.com/neo/groups/OmegaT/info</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20171103T085906Z" creationid="Didier" creationdate="20171103T085906Z">
@@ -62242,6 +62314,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130511T164230Z">
         <seg>https://sourceforge.net/p/omegat/bugs/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://sourceforge.net/p/omegat/code/ci/master/tarball?path=</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210131T124423Z" creationid="suzume" creationdate="20210131T124423Z">
+        <seg>https://sourceforge.net/p/omegat/code/ci/master/tarball?path=</seg>
       </tuv>
     </tu>
     <tu>
