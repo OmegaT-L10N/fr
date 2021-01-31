@@ -4410,6 +4410,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;-Duser.country=&lt;p1&gt;XX&lt;/p1&gt;&lt;/e0&gt; Besides the language, you can also specify the country, for example &lt;l2&gt;CN&lt;/l2&gt; or &lt;l3&gt;TW&lt;/l3&gt; in case of the Chinese language.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210131T123747Z" creationid="suzume" creationdate="20210131T123747Z">
+        <seg>&lt;e0&gt;-Duser.country=&lt;p1&gt;XX&lt;/p1&gt;&lt;/e0&gt; En plus de la langue, vous pouvez choisir le pays, par exemple &lt;l2&gt;CN&lt;/l2&gt; ou &lt;l3&gt;TW&lt;/l3&gt; pour la langue chinoise.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;-Duser.country=XX&lt;/e0&gt;&lt;i1/&gt; Besides the language, you can also specify the country, for example CN or TW in case of the Chinese language.</seg>
       </tuv>
       <tuv lang="fr" changeid="brigitte" changedate="20130714T131332Z">
@@ -4582,6 +4590,14 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
       <tuv lang="fr" changeid="brigitte" changedate="20130714T133421Z">
         <seg>&lt;e0&gt;&lt;l1&gt;--mode&lt;/l1&gt;=...-&lt;/e0&gt; &lt;a2&gt;OmegaT&lt;/a2&gt; démarre en mode console pour effectuer automatiquement un des services suivants :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Xmx&lt;p2&gt;??&lt;/p2&gt;M&lt;/l1&gt;&lt;/e0&gt;This command assigns more memory to &lt;a3&gt;OmegaT&lt;/a3&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210131T123854Z" creationid="suzume" creationdate="20210131T123854Z">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Xmx&lt;p2&gt;??&lt;/p2&gt;M&lt;/l1&gt;&lt;/e0&gt; Tette commande attribue plus de mémoire à &lt;a3&gt;OmegaT&lt;/a3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13089,6 +13105,14 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160718T153636Z" creationid="Didier" creationdate="20160718T153636Z">
         <seg>Par défaut, l'éditeur affiche 2000µ segments initiaux, et en charge progressivement davantage lorsque vous faites défiler l'affichage vers le haut ou vers le bas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By default, 1024 MB are assigned, so there is no advantage in assigning less than this figure.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210131T123859Z" creationid="suzume" creationdate="20210131T123859Z">
+        <seg>1024 Mo lui sont attribués par défaut. Il n'y a donc aucun intérêt à lui en attribuer moins.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35529,6 +35553,14 @@ disponible dans MacPorts sous le nom « py27-pysvn ».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>On macOS</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210131T123649Z" creationid="suzume" creationdate="20210131T123649Z">
+        <seg>Sur macos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>On systems other than Windows you can let pip install this as a dependency of
 kolteki later.</seg>
       </tuv>
@@ -51225,6 +51257,14 @@ under the terms of this General Public License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This is necessary even if there's only one combination available, like &lt;l4&gt;pt_BR&lt;/l4&gt; in case of Brazilian Portuguese.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210131T123803Z" creationid="suzume" creationdate="20210131T123803Z">
+        <seg>Ceci est nécessaire, même s'il n'y a qu'une seule combinaison possible (ex. : &lt;l4&gt;pt_BR&lt;/l4&gt; dans le cas du portugais / Brésil).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This is necessary even if there's only one combination available, like pt_BR in case of Portuguese / Brazil.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
@@ -60102,10 +60142,26 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>cd &lt;p0&gt;&lt;OmegaT.app location&gt;&lt;/p0&gt;/OmegaT.app/Contents/Resources/Java/</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210131T123656Z" creationid="suzume" creationdate="20210131T123656Z">
+        <seg>cd &lt;p0&gt;&lt;OmegaT.app location&gt;&lt;/p0&gt;/OmegaT.app/Contents/Resources/Java/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>cd C:\Program Files\&lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T104516Z">
         <seg>cd C:\Program Files\&lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>cd C:\Program Files\OmegaT</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210131T123643Z" creationid="suzume" creationdate="20210131T123643Z">
+        <seg>cd C:\Program Files\OmegaT</seg>
       </tuv>
     </tu>
     <tu>
