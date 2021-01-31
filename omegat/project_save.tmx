@@ -10674,6 +10674,14 @@ rights of fair use or other equivalent, as provided by copyright law.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All the changes will be synchronised the next time a connection is available.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210131T123412Z" creationid="suzume" creationdate="20210131T123412Z">
+        <seg>Toutes les modifications seront synchronisées lorsque la connexion sera de nouveau disponible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All the contents of &lt;f0&gt;https://repo_for_All_OmegaT_team_project_sources&lt;/f0&gt; are mapped to the local OmegaT project source folder, except all *.bak files but readme.bak.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210130T103442Z" creationid="suzume" creationdate="20210129T121803Z">
@@ -17591,6 +17599,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160929T152452Z" creationid="Didier" creationdate="20160929T152452Z">
         <seg>Désactiver la règle « {0} »</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Disconnect from the network before opening the project,</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210131T123452Z" creationid="suzume" creationdate="20210131T123452Z">
+        <seg>Déconnectez-vous du réseau avant l'ouverture du projet,</seg>
       </tuv>
     </tu>
     <tu>
@@ -52975,6 +52991,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To work offline:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210131T123417Z" creationid="suzume" creationdate="20210131T123417Z">
+        <seg>Travailler hors connexion :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Toggle Selected</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160427T154136Z" creationid="Didier" creationdate="20160427T154136Z">
@@ -64421,6 +64445,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T100134Z">
         <seg>or</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>or open the project with the command line using the &lt;c0&gt;--no-team&lt;/c0&gt; option.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210131T123522Z" creationid="suzume" creationdate="20210131T123522Z">
+        <seg>ou bien ouvrez le projet à la ligne de commande à l'aide de l'option &lt;c0&gt;--no-teams&lt;/c0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
