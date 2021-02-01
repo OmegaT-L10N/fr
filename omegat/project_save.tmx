@@ -5010,10 +5010,26 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Install over the existing installation.&lt;/e0&gt; To do this, simply select the same installation folder as the existing installation when installing the new version.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210201T120018Z" creationid="suzume" creationdate="20210201T120018Z">
+        <seg>&lt;e0&gt;Une installation par-dessus l'installation déjà existante.&lt;/e0&gt; Pour ce faire, il suffit de sélectionner le même dossier d'installation que celui de l'installation existante lorsque vous installez la nouvelle version.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Install to a new folder.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130502T095319Z">
         <seg>&lt;e0&gt;Une installation dans un nouveau dossier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;Install to a new folder.&lt;/e0&gt; This will enable you to keep both versions side-by-side, which you may wish to do until you feel comfortable with the new version.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210201T120043Z" creationid="suzume" creationdate="20210201T120043Z">
+        <seg>&lt;e0&gt;Une installation dans un nouveau dossier.&lt;/e0&gt; Cela vous permet de conserver les deux versions côte à côte, ce qui peut être utile jusqu'à ce que vous soyez à l'aise avec la nouvelle version.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22425,6 +22441,14 @@ authors of previous versions.</seg>
       </tuv>
       <tuv lang="fr" changeid="brigitte" changedate="20130714T095338Z">
         <seg>Il est possible que GNOME n'arrive pas à afficher les fichiers d'icône dans les formats disponibles et, qu'au départ, il semble s'attendre à un fichier SVG. Toutefois, si le dossier est sélectionné, les fichiers devraient apparaître et &lt;a4&gt;OmegaT&lt;/a4&gt;.png peut être sélectionné.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GNOME may fail to display the icon files in the available formats and initially appear to expect an SVG file, but if the folder is selected, the files should appear and &lt;f4&gt;OmegaT.png&lt;/f4&gt; can be selected.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210201T120107Z" creationid="suzume" creationdate="20210201T120107Z">
+        <seg>Il est possible que GNOME n'arrive pas à afficher les fichiers d'icône dans les formats disponibles et, qu'au départ, il semble s'attendre à un fichier SVG. Toutefois, si le dossier est sélectionné, les fichiers devraient apparaître et &lt;f4&gt;OmegaT.png&lt;/f4&gt; peut être sélectionné.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47827,6 +47851,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The following example for the INI file reserves 1 GB of memory, requests French as the user language and Canada as the country:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210201T115946Z" creationid="suzume" creationdate="20210201T115946Z">
+        <seg>L'exemple suivant du fichier INI utilise 1 Go de mémoire, choisit le français comme langue utilisateur et le Canada comme pays :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The following example for the INI file reserves 1GB of memory, requests French as the user language and Canada as the country:</seg>
       </tuv>
       <tuv lang="fr" changeid="brigitte" changedate="20130713T084206Z">
@@ -48715,6 +48747,14 @@ sure this has not already been reported.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The options for the program start-up in this case will be read from the &lt;f1&gt;OmegaT.l4J.ini&lt;/f1&gt; file, which resides in the same folder as the exe file and which you can edit to reflect your setup.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210201T115931Z" creationid="suzume" creationdate="20210201T115931Z">
+        <seg>Dans ce cas, les options de démarrage du programme sont lues depuis le fichier &lt;f1&gt;OmegaT.l4J.ini&lt;/f1&gt; qui se trouve dans le même dossier que le fichier exe. Ce fichier peut être modifié afin d'être adapté à votre installation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The original document is not changed; rather, a new document is created based on the content of an existing one.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130412T091443Z">
@@ -49449,6 +49489,14 @@ protocols for communication across the network.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20141202T170926Z" creationid="Didier" creationdate="20141202T170926Z">
         <seg>Les raccourcis &lt;k2&gt;Ctrl+A&lt;/k2&gt; et &lt;k3&gt;Ctrl+C&lt;/k3&gt; fonctionnent dans les volets, permettant ainsi de copier toutes les informations ou une partie seulement dans le presse-papiers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The simplest way to launch OmegaT, however, is to execute the &lt;f0&gt;OmegaT.exe&lt;/f0&gt; program.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210201T115908Z" creationid="suzume" creationdate="20210201T115908Z">
+        <seg>La façon la plus simple de lancer OmegaT reste toutefois d'exécuter le programme &lt;f0&gt;OmegaT.exe&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
