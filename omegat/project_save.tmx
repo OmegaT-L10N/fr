@@ -5612,16 +5612,16 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;add the copied files to the local version of the repository:&lt;/e0&gt; right-click on the local checkout folder and select &lt;g1&gt;TortoiseSVN &gt; Add.&lt;/g1&gt; In the dialog that opens, leave all options as per default and click&lt;g2&gt; OK&lt;/g2&gt;.</seg>
       </tuv>
-      <tuv lang="fr" changeid="brigitte" changedate="20130715T190717Z">
-        <seg>&lt;e0&gt;Ajout des fichiers copiés dans la version locale du référentiel :&lt;/e0&gt; faites un clic droit sur le dossier d'extraction local et sélectionnez &lt;g1&gt;TortoiseSVN &gt; Add&lt;/g1&gt;(Ajouter). Une boîte de dialogue s'ouvre, laissez toutes les options telles qu'elles sont réglées par défaut et cliquez sur&lt;g2&gt; OK&lt;/g2&gt;.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210201T140310Z">
+        <seg>&lt;e0&gt;Ajout des fichiers copiés dans la version locale du dépôt :&lt;/e0&gt; faites un clic droit sur le dossier d'extraction local et sélectionnez &lt;g1&gt;TortoiseSVN &gt; Add&lt;/g1&gt;(Ajouter). Une boîte de dialogue s'ouvre, laissez toutes les options telles qu'elles sont réglées par défaut et cliquez sur&lt;g2&gt; OK&lt;/g2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;e0&gt;administrator: &lt;/e0&gt;the person responsible for the creation and maintaining of the repository, i.e. taking care of the server side of the task.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
-        <seg>&lt;e0&gt;administrateur : &lt;/e0&gt;la personne responsable de la création et de l'entretien du référentiel, c.-à-d. qui s'occupe de la partie serveur.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210201T140310Z">
+        <seg>&lt;e0&gt;administrateur : &lt;/e0&gt;la personne responsable de la création et de l'entretien du dépôt, c.-à-d. qui s'occupe de la partie serveur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5636,8 +5636,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;checkout:&lt;/e0&gt; the operation that creates a working copy from the repository to your local computer.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
-        <seg>&lt;e0&gt;extraction : &lt;/e0&gt; opération qui crée une copie du travail depuis le référentiel sur l'ordinateur local.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210201T140310Z">
+        <seg>&lt;e0&gt;extraction : &lt;/e0&gt; opération qui crée une copie du travail depuis le dépôt sur l'ordinateur local.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5652,8 +5652,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;commit: &lt;/e0&gt;once a new local version of the checked-out material is ready, it can be committed to the repository and thus made available to the rest of the team.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
-        <seg>&lt;e0&gt;validation :&lt;/e0&gt; lorsqu'une nouvelle version locale du matériel extrait est prête, elle peut être enregistrée dans le référentiel et ainsi être mise à la disposition du reste de l'équipe.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210201T140310Z">
+        <seg>&lt;e0&gt;validation :&lt;/e0&gt; lorsqu'une nouvelle version locale du matériel extrait est prête, elle peut être enregistrée dans le dépôt et ainsi être mise à la disposition du reste de l'équipe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5700,8 +5700,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;repository: &lt;/e0&gt;the place where the shared material is saved and maintained, either on a local access network or in Internet.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
-        <seg>&lt;e0&gt;référentiel :&lt;/e0&gt; l'endroit dans lequel le matériel partagé est sauvegardé et maintenu, que ce soit sur un réseau d'accès local ou sur internet.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210201T140310Z">
+        <seg>&lt;e0&gt;dépôt :&lt;/e0&gt; l'endroit dans lequel le matériel partagé est sauvegardé et maintenu, que ce soit sur un réseau d'accès local ou sur internet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5732,8 +5732,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;update local files from the local repository copy&lt;/e0&gt; - the changes received from the server repository reside within the .svn subfolder but not yet in the files and folders themselves.</seg>
       </tuv>
-      <tuv lang="fr" changeid="brigitte" changedate="20130715T190827Z">
-        <seg>&lt;e0&gt;Mise à jour les fichiers locaux à partir de la copie locale du référentiel&lt;/e0&gt; : les modifications reçues depuis le référentiel du serveur sont dans le sous-dossier .svn mais pas encore dans les fichiers et dans les dossiers.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210201T140310Z">
+        <seg>&lt;e0&gt;Mise à jour les fichiers locaux à partir de la copie locale du dépôt&lt;/e0&gt; : les modifications reçues depuis le dépôt du serveur sont dans le sous-dossier .svn mais pas encore dans les fichiers et dans les dossiers.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5868,8 +5868,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="en">
         <seg>&lt;html&gt;Repository URL:&lt;/html&gt;</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z" creationid="Didier" creationdate="20170728T150913Z">
-        <seg>&lt;html&gt;URL du référentiel :&lt;/html&gt;</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210201T140310Z" creationid="Didier" creationdate="20170728T150913Z">
+        <seg>&lt;html&gt;URL du dépôt :&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8650,8 +8650,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="en">
         <seg>&lt;p0&gt;Team projects&lt;/p0&gt; &lt;s1&gt;Creating SVN repository&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="fr" changeid="Clementine" changedate="20130429T114000Z">
-        <seg>&lt;p0&gt;Projets en équipe&lt;/p0&gt; &lt;s1&gt;Création d'un référentiel SVN&lt;/s1&gt;</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210201T140310Z">
+        <seg>&lt;p0&gt;Projets en équipe&lt;/p0&gt; &lt;s1&gt;Création d'un dépôt SVN&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9026,8 +9026,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="en">
         <seg>&lt;repository type="git" url="https://repo_for_OmegaT_team_project.git"&gt;</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210130T103348Z" creationid="suzume" creationdate="20200119T142631Z">
-        <seg>&lt;repository type="git" url="https://référentiel_du_projet_OmegaT_en_équipe.git"&gt;</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210201T140310Z" creationid="suzume" creationdate="20200119T142631Z">
+        <seg>&lt;repository type="git" url="https://dépôt_du_projet_OmegaT_en_équipe.git"&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9042,24 +9042,24 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="en">
         <seg>&lt;repository type="svn" url="https://repo_for_All_OmegaT_team_project_sources"&gt;</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210130T103434Z" creationid="suzume" creationdate="20210129T121650Z">
-        <seg>&lt;repository type="svn" url="https://référentiel_des_sources_de_tous_les_projets_OmegaT_en_équipe"&gt;</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210201T140310Z" creationid="suzume" creationdate="20210129T121650Z">
+        <seg>&lt;repository type="svn" url="https://dépôt_des_sources_de_tous_les_projets_OmegaT_en_équipe"&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;repository type="svn" url="https://repo_for_All_OmegaT_team_projects"&gt;</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210130T103423Z" creationid="suzume" creationdate="20200119T142639Z">
-        <seg>&lt;repository type="svn" url="https://référentiel_de_tous_les_projets_OmegaT_en_équipe"&gt;</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210201T140310Z" creationid="suzume" creationdate="20200119T142639Z">
+        <seg>&lt;repository type="svn" url="https://dépôt_de_tous_les_projets_OmegaT_en_équipe"&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;repository type="svn" url="https://repo_for_OmegaT_team_project"&gt;</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210130T103405Z" creationid="suzume" creationdate="20200119T142633Z">
-        <seg>&lt;repository type="svn" url="https://référentiel_du_projet_OmegaT_en_équipe"&gt;</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210201T140310Z" creationid="suzume" creationdate="20200119T142633Z">
+        <seg>&lt;repository type="svn" url="https://dépôt_du_projet_OmegaT_en_équipe"&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10429,8 +10429,8 @@ this License without regard to the additional permissions.</seg>
       <tuv lang="en">
         <seg>After copying the required files into the checkout folder you will notice that its icon has changed: the green OK badge has changed to a red exclamation sign, signifying the change in the local copy of the repository.</seg>
       </tuv>
-      <tuv lang="fr" changeid="brigitte" changedate="20130714T143946Z">
-        <seg>Après avoir copié les fichiers requis dans le dossier d'extraction, vous remarquerez que l'icône a changé : le signe vert OK est remplacé par un point d'exclamation rouge, ce qui indique le changement effectué dans la copie locale du référentiel.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210201T140310Z">
+        <seg>Après avoir copié les fichiers requis dans le dossier d'extraction, vous remarquerez que l'icône a changé : le signe vert OK est remplacé par un point d'exclamation rouge, ce qui indique le changement effectué dans la copie locale du dépôt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10742,8 +10742,8 @@ this License without regard to the additional permissions.</seg>
       <tuv lang="en">
         <seg>All other files will be replaced by the files in the remote repository.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210130T103315Z" creationid="suzume" creationdate="20210130T103225Z">
-        <seg>Tous les autres fichiers seront remplacés par les fichiers dans le référentiel distant.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210201T140310Z" creationid="suzume" creationdate="20210130T103225Z">
+        <seg>Tous les autres fichiers seront remplacés par les fichiers dans le dépôt distant.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10812,24 +10812,24 @@ rights of fair use or other equivalent, as provided by copyright law.</seg>
       <tuv lang="en">
         <seg>All the contents of &lt;f0&gt;https://repo_for_All_OmegaT_team_project_sources&lt;/f0&gt; are mapped to the local OmegaT project source folder, except all *.bak files but readme.bak.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210130T103442Z" creationid="suzume" creationdate="20210129T121803Z">
-        <seg>La totalité du contenu du &lt;f0&gt;https://référentiel_des_sources_de_tous_les_projets_OmegaT_en_équipe&lt;/f0&gt; est mise en correspondance avec le dossier source du projet OmegaT local, à l'exception des fichiers *.bak, sauf le fichier readme.bak.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210201T140310Z" creationid="suzume" creationdate="20210129T121803Z">
+        <seg>La totalité du contenu du &lt;f0&gt;https://dépôt_des_sources_de_tous_les_projets_OmegaT_en_équipe&lt;/f0&gt; est mise en correspondance avec le dossier source du projet OmegaT local, à l'exception des fichiers *.bak, sauf le fichier readme.bak.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>All the contents of &lt;f0&gt;https://repo_for_All_OmegaT_team_projects/En-US_DE_project&lt;/f0&gt; are mapped to the local OmegaT project.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210130T103429Z" creationid="suzume" creationdate="20210129T121529Z">
-        <seg>La totalité du contenu du &lt;f0&gt;https://référentiel_de_tous_les_projets_OmegaT_en_équipe/Projet_En-US_FR&lt;/f0&gt; est mise en correspondance avec le projet OmegaT local.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210201T140310Z" creationid="suzume" creationdate="20210129T121529Z">
+        <seg>La totalité du contenu du &lt;f0&gt;https://dépôt_de_tous_les_projets_OmegaT_en_équipe/Projet_En-US_FR&lt;/f0&gt; est mise en correspondance avec le projet OmegaT local.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>All the contents of &lt;f0&gt;https://repo_for_OmegaT_team_project&lt;/f0&gt; are mapped to the local OmegaT project</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210130T103413Z" creationid="suzume" creationdate="20210129T121240Z">
-        <seg>La totalité du contenu du &lt;f0&gt;https://référentiel_du_projet_OmegaT_en_équipe&lt;/f0&gt; est mise en correspondance avec le projet OmegaT local.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210201T140310Z" creationid="suzume" creationdate="20210129T121240Z">
+        <seg>La totalité du contenu du &lt;f0&gt;https://dépôt_du_projet_OmegaT_en_équipe&lt;/f0&gt; est mise en correspondance avec le projet OmegaT local.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12463,8 +12463,8 @@ provoquer des comportements inattendus, mais corrects.</seg>
       <tuv lang="en">
         <seg>Avoid in any case adding &lt;f6&gt;bak&lt;/f6&gt; files, &lt;f7&gt;project_stats.txt&lt;/f7&gt; and &lt;f8&gt;project_stats_match.txt&lt;/f8&gt;, in the &lt;f9&gt;omegat&lt;/f9&gt; subfolder, as they would without any need or profit just bloat the repository.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Clementine" changedate="20130429T122917Z">
-        <seg>Dans tous les cas, évitez d'ajouter les fichiers &lt;f6&gt;bak&lt;/f6&gt; , &lt;f7&gt;project_stats.txt&lt;/f7&gt; et &lt;f8&gt;project_stats_match.txt&lt;/f8&gt; dans le sous-dossier &lt;f9&gt;omegat&lt;/f9&gt;  car ils ne feraient qu'encombrer le référentiel sans rien apporter au projet.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210201T140310Z">
+        <seg>Dans tous les cas, évitez d'ajouter les fichiers &lt;f6&gt;bak&lt;/f6&gt; , &lt;f7&gt;project_stats.txt&lt;/f7&gt; et &lt;f8&gt;project_stats_match.txt&lt;/f8&gt; dans le sous-dossier &lt;f9&gt;omegat&lt;/f9&gt;  car ils ne feraient qu'encombrer le dépôt sans rien apporter au projet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14194,8 +14194,8 @@ software--to make sure the software is free for all its users.</seg>
       <tuv lang="en">
         <seg>Check the contents of the folder to confirm that the local copy of the repository and the corresponding files and folders correspond to the latest server version:</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
-        <seg>Vérifiez le contenu du dossier pour confirmer que la copie locale du référentiel et les fichiers et dossiers correspondants sont conformes à la dernière version du serveur :</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210201T140310Z">
+        <seg>Vérifiez le contenu du dossier pour confirmer que la copie locale du dépôt et les fichiers et dossiers correspondants sont conformes à la dernière version du serveur :</seg>
       </tuv>
     </tu>
     <tu>
@@ -14354,8 +14354,8 @@ software--to make sure the software is free for all its users.</seg>
       <tuv lang="en">
         <seg>Choose SVN repository to perform cleanup</seg>
       </tuv>
-      <tuv lang="fr" changeid="Didier" changedate="20140706T175604Z" creationid="Didier" creationdate="20140706T175604Z">
-        <seg>Choisir le référentiel SVN sur lequel effectuer le nettoyage</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210201T140310Z" creationid="Didier" creationdate="20140706T175604Z">
+        <seg>Choisir le dépôt SVN sur lequel effectuer le nettoyage</seg>
       </tuv>
     </tu>
     <tu>
@@ -16161,16 +16161,16 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       <tuv lang="en">
         <seg>Create a folder (a "repository folder") in a convenient location on your hard drive for the translation memories for a particular customer or subject.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Clementine" changedate="20130507T081417Z">
-        <seg>Créez un dossier (un « dossier référentiel ») à un emplacement pratique de votre disque dur qui soit destiné aux mémoires de traduction qui concernent un client ou un sujet en particulier.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210201T140310Z">
+        <seg>Créez un dossier (un « dossier dépôt ») à un emplacement pratique de votre disque dur qui soit destiné aux mémoires de traduction qui concernent un client ou un sujet en particulier.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Create a local copy of the repository (&lt;c0&gt;check out&lt;/c0&gt; with SVN, &lt;c1&gt;clone&lt;/c1&gt; with Git).</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210130T103329Z" creationid="suzume" creationdate="20210110T165443Z">
-        <seg>Créer une copie locale du référentiel (&lt;c0&gt;checkout&lt;/c0&gt; avec SVN, &lt;c1&gt;clone&lt;/c1&gt; avec Git).</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210201T140310Z" creationid="suzume" creationdate="20210110T165443Z">
+        <seg>Créer une copie locale du dépôt (&lt;c0&gt;checkout&lt;/c0&gt; avec SVN, &lt;c1&gt;clone&lt;/c1&gt; avec Git).</seg>
       </tuv>
     </tu>
     <tu>
@@ -16185,8 +16185,8 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       <tuv lang="en">
         <seg>Create a new, empty OmegaT project in the local repository.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210130T103337Z" creationid="suzume" creationdate="20210110T165507Z">
-        <seg>Créer un nouveau projet OmegaT vide dans le référentiel local.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210201T140310Z" creationid="suzume" creationdate="20210110T165507Z">
+        <seg>Créer un nouveau projet OmegaT vide dans le dépôt local.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16345,8 +16345,8 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       <tuv lang="en">
         <seg>Creating a repository</seg>
       </tuv>
-      <tuv lang="fr" changeid="Clementine" changedate="20130412T114255Z">
-        <seg>Création d'un référentiel</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210201T140310Z">
+        <seg>Création d'un dépôt</seg>
       </tuv>
     </tu>
     <tu>
@@ -19352,8 +19352,8 @@ pas de page...</seg>
       <tuv lang="en">
         <seg>Empty repository URL in the mapping</seg>
       </tuv>
-      <tuv lang="fr" changeid="Didier" changedate="20160427T150540Z" creationid="Didier" creationdate="20160427T150540Z">
-        <seg>URL de référentiel vide dans le mappage</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210201T140310Z" creationid="Didier" creationdate="20160427T150540Z">
+        <seg>URL de dépôt vide dans le mappage</seg>
       </tuv>
     </tu>
     <tu>
@@ -19688,8 +19688,8 @@ pas de page...</seg>
       <tuv lang="en">
         <seg>Enter the URL, provided by ProjectLocker, into the field &lt;e0&gt;URL of repository&lt;/e0&gt;.</seg>
       </tuv>
-      <tuv lang="fr" changeid="JC Helary" changedate="20130505T104132Z">
-        <seg>Entrez l'URL fournie par ProjectLocker dans le champ &lt;e0&gt;URL of repository&lt;/e0&gt; (URL du référentiel).</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210201T140310Z">
+        <seg>Entrez l'URL fournie par ProjectLocker dans le champ &lt;e0&gt;URL of repository&lt;/e0&gt; (URL du dépôt).</seg>
       </tuv>
     </tu>
     <tu>
@@ -19803,8 +19803,8 @@ personne ne vous entend pleurer...</seg>
       <tuv lang="en">
         <seg>Error checking out the project from remote repository:</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
-        <seg>Erreur durant l'extraction du projet à partir du référentiel distant :</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210201T140310Z">
+        <seg>Erreur durant l'extraction du projet à partir du dépôt distant :</seg>
       </tuv>
     </tu>
     <tu>
@@ -19971,8 +19971,8 @@ personne ne vous entend pleurer...</seg>
       <tuv lang="en">
         <seg>Error updating repository.</seg>
       </tuv>
-      <tuv lang="fr" changeid="briac" changedate="20190706T170350Z" creationid="briac" creationdate="20190706T170350Z">
-        <seg>Erreur lors de la mise à jour du référentiel.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210201T140310Z" creationid="briac" creationdate="20190706T170350Z">
+        <seg>Erreur lors de la mise à jour du dépôt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20131,8 +20131,8 @@ personne ne vous entend pleurer...</seg>
       <tuv lang="en">
         <seg>Every 3 minutes (by default), the local project is synchronised with the remote repository so that the project manager or other translators can see and use translations added during that period.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210130T103509Z" creationid="suzume" creationdate="20210130T102959Z">
-        <seg>Le projet local est synchronisé par défaut toutes les 3 minutes avec le référentiel distant pour que le gestionnaire du projet et les autres traducteurs puissent voir et utiliser les traductions ajoutées pendant cette période.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210201T140310Z" creationid="suzume" creationdate="20210130T102959Z">
+        <seg>Le projet local est synchronisé par défaut toutes les 3 minutes avec le dépôt distant pour que le gestionnaire du projet et les autres traducteurs puissent voir et utiliser les traductions ajoutées pendant cette période.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20416,8 +20416,8 @@ dommage...</seg>
       <tuv lang="en">
         <seg>Existing source files can be modified, but the commit operation must be carried out before an automatic save and before the project is reloaded or closed.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210131T123037Z" creationid="suzume" creationdate="20210131T123037Z">
-        <seg>Les fichiers source existants peuvent être modifiés mais l'ajout au référentiel doit être effectué avant une sauvegarde automatique ou avant que le projet soit rechargé ou fermé.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210201T140310Z" creationid="suzume" creationdate="20210131T123037Z">
+        <seg>Les fichiers source existants peuvent être modifiés mais l'ajout au dépôt doit être effectué avant une sauvegarde automatique ou avant que le projet soit rechargé ou fermé.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22095,8 +22095,8 @@ authors of previous versions.</seg>
       <tuv lang="en">
         <seg>For the example shown here we decided for the one OmegaT project - one single repository for the simplicity reasons.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Clementine" changedate="20130429T120806Z">
-        <seg>Pour cet exemple, nous avons choisi, pour des raisons de simplicité, de ne donner qu'un référentiel au projet OmegaT.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210201T140310Z">
+        <seg>Pour cet exemple, nous avons choisi, pour des raisons de simplicité, de ne donner qu'un dépôt au projet OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26492,8 +26492,8 @@ click on that shortcut.</seg>
       <tuv lang="en">
         <seg>Importing the project to SVN repository - Windows</seg>
       </tuv>
-      <tuv lang="fr" changeid="Clementine" changedate="20130415T074714Z">
-        <seg>Importation du projet sur le référentiel SVN  (pour Windows)</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210201T140310Z">
+        <seg>Importation du projet sur le dépôt SVN  (pour Windows)</seg>
       </tuv>
     </tu>
     <tu>
@@ -26688,8 +26688,8 @@ the scope of this License.</seg>
       <tuv lang="en">
         <seg>In both cases, the project manager must send the translator their ID and password to access the repository.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210130T103354Z" creationid="suzume" creationdate="20210116T152957Z">
-        <seg>Dans les deux cas, le gestionnaire de projet doit envoyer au traducteur sont identifiant et son mot de passe pour avoir accès au référentiel.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210201T140310Z" creationid="suzume" creationdate="20210116T152957Z">
+        <seg>Dans les deux cas, le gestionnaire de projet doit envoyer au traducteur sont identifiant et son mot de passe pour avoir accès au dépôt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28187,8 +28187,8 @@ exécutez simplement le programme d'installation.</seg>
       <tuv lang="en">
         <seg>Invalid repository type: {0}</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z" creationid="Didier" creationdate="20160427T150501Z">
-        <seg>Type de référentiel non valide : {0}</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210201T140310Z" creationid="Didier" creationdate="20160427T150501Z">
+        <seg>Type de dépôt non valide : {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -28874,8 +28874,8 @@ dans le dossier de configuration.</seg>
       <tuv lang="en">
         <seg>It will first commit the current contents to the server repository and then update the local copy of the repository - i.e. the contents of .svn subfolder - so that it is up to date with the latest repository version.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Didier" changedate="20130527T132219Z">
-        <seg>Elle validera d'abord les contenus actuels dans le référentiel du serveur puis elle mettra à jour la copie locale du référentiel - soit, le contenu du sous-dossier .svn  - afin qu'elle soit à jour par rapport à la dernière version du référentiel.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210201T140310Z">
+        <seg>Elle validera d'abord les contenus actuels dans le dépôt du serveur puis elle mettra à jour la copie locale du dépôt - soit, le contenu du sous-dossier .svn  - afin qu'elle soit à jour par rapport à la dernière version du dépôt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30709,8 +30709,8 @@ automatically download and install it.</seg>
       <tuv lang="en">
         <seg>Localization TMX repository</seg>
       </tuv>
-      <tuv lang="fr">
-        <seg>Référentiel TMX</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210201T140310Z">
+        <seg>dépôt TMX</seg>
       </tuv>
     </tu>
     <tu>
@@ -31340,16 +31340,16 @@ impose that choice.</seg>
       <tuv lang="en">
         <seg>Mapping for projects in a subdirectory of the repository:</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210130T103417Z" creationid="suzume" creationdate="20210129T121412Z">
-        <seg>Mise en correspondance de projets dans un sous-dossier du référentiel :</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210201T140310Z" creationid="suzume" creationdate="20210129T121412Z">
+        <seg>Mise en correspondance de projets dans un sous-dossier du dépôt :</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Mapping of Local Folders to Remote Folders in Repositories</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210129T133112Z" creationid="Didier" creationdate="20160427T150412Z">
-        <seg>Mise en correspondance des dossiers locaux avec les dossiers distants des référentiels</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210201T140310Z" creationid="Didier" creationdate="20160427T150412Z">
+        <seg>Mise en correspondance des dossiers locaux avec les dossiers distants des dépôts</seg>
       </tuv>
     </tu>
     <tu>
@@ -32808,8 +32808,8 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>Name of the remote folder or file, relative to the repository url.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210130T103358Z" creationid="suzume" creationdate="20210129T103940Z">
-        <seg>Non du dossier ou fichier distant, par rapport à l'URL du référentiel.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210201T140310Z" creationid="suzume" creationdate="20210129T103940Z">
+        <seg>Non du dossier ou fichier distant, par rapport à l'URL du dépôt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33481,8 +33481,8 @@ Diminue les sorties sur stdout de la ligne de commande.</seg>
       <tuv lang="en">
         <seg>Not to mention his care and diligence, keeping repositories intact and in good order.</seg>
       </tuv>
-      <tuv lang="fr" changeid="etudiant_local" changedate="20130410T121559Z">
-        <seg>Sans parler des soins et du zèle dont il a fait preuve pour protéger les référentiels et les tenir en ordre.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210201T140310Z">
+        <seg>Sans parler des soins et du zèle dont il a fait preuve pour protéger les dépôts et les tenir en ordre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33585,8 +33585,8 @@ Diminue les sorties sur stdout de la ligne de commande.</seg>
       <tuv lang="en">
         <seg>Note that all the tmx files in the /tm repository are parsed when the project is opened, so putting all different TMs you may have on hand into this folder may unnecessarily slow OmegaT down.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210111T143529Z">
-        <seg>Remarquez que tous les fichiers TMX localisés dans le référentiel /tm sont analysés lorsque le projet est ouvert. Placer toutes les mémoires de traduction dont vous disposez dans ce dossier risque donc de ralentir OmegaT inutilement.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210201T140310Z">
+        <seg>Remarquez que tous les fichiers TMX localisés dans le dépôt /tm sont analysés lorsque le projet est ouvert. Placer toutes les mémoires de traduction dont vous disposez dans ce dossier risque donc de ralentir OmegaT inutilement.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33734,8 +33734,8 @@ Rajout d'une partie approriée, afin que la note de bas de page ne se retrouve p
       <tuv lang="en">
         <seg>Note that the creator of the repository has implicitly the administrator rights for the repository created.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210111T143501Z">
-        <seg>Remarquez que le créateur du référentiel reçoit implicitement les droits d'administrateur du référentiel créé.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210201T140310Z">
+        <seg>Remarquez que le créateur du dépôt reçoit implicitement les droits d'administrateur du dépôt créé.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33750,8 +33750,8 @@ Rajout d'une partie approriée, afin que la note de bas de page ne se retrouve p
       <tuv lang="en">
         <seg>Note that the omegat.project file in the repository is not changed automatically and still doesn't contain the mappings.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210130T103455Z" creationid="suzume" creationdate="20210130T092740Z">
-        <seg>Remarquez que le fichier omegat.project dans ce référentiel n'a pas été modifié de manière automatique et qu'il ne contient toujours pas les mises en correspondance.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210201T140310Z" creationid="suzume" creationdate="20210130T092740Z">
+        <seg>Remarquez que le fichier omegat.project dans ce dépôt n'a pas été modifié de manière automatique et qu'il ne contient toujours pas les mises en correspondance.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37255,8 +37255,8 @@ mirage, pas de page...</seg>
       <tuv lang="en">
         <seg>Perform SVN cleanup on current project or any local SVN repository</seg>
       </tuv>
-      <tuv lang="fr" changeid="Didier" changedate="20140706T175547Z" creationid="Didier" creationdate="20140706T175547Z">
-        <seg>Effectue un nettoyage SVN sur le projet actuel ou sur n'importe quel référentiel local</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210201T140310Z" creationid="Didier" creationdate="20140706T175547Z">
+        <seg>Effectue un nettoyage SVN sur le projet actuel ou sur n'importe quel dépôt local</seg>
       </tuv>
     </tu>
     <tu>
@@ -38667,8 +38667,8 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
       <tuv lang="en">
         <seg>Project members connect with it via their VCS client.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Clementine" changedate="20130415T074017Z">
-        <seg>Les membres du projet se connectent au référentiel par le biais du client de leur logiciel de gestion de versions.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210201T140310Z">
+        <seg>Les membres du projet se connectent au dépôt par le biais du client de leur logiciel de gestion de versions.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39566,8 +39566,8 @@ ces mots : « pas de page »...</seg>
       <tuv lang="en">
         <seg>Remote Repositories</seg>
       </tuv>
-      <tuv lang="fr" changeid="Didier" changedate="20160427T163210Z" creationid="Didier" creationdate="20160427T163210Z">
-        <seg>Référentiels distants</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210201T140310Z" creationid="Didier" creationdate="20160427T163210Z">
+        <seg>dépôts distants</seg>
       </tuv>
     </tu>
     <tu>
@@ -39582,8 +39582,8 @@ ces mots : « pas de page »...</seg>
       <tuv lang="en">
         <seg>Remote repository network communication error: {0}</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z" creationid="Didier" creationdate="20180919T153801Z">
-        <seg>Erreur de communication réseau du référentiel distant : {0}</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210201T140310Z" creationid="Didier" creationdate="20180919T153801Z">
+        <seg>Erreur de communication réseau du dépôt distant : {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -40128,16 +40128,16 @@ ces mots : « pas de page »...</seg>
       <tuv lang="en">
         <seg>Repository</seg>
       </tuv>
-      <tuv lang="fr" changeid="Didier" changedate="20160427T150416Z" creationid="Didier" creationdate="20160427T150416Z">
-        <seg>Référentiel</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210201T140310Z" creationid="Didier" creationdate="20160427T150416Z">
+        <seg>dépôt</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Repository Credentials</seg>
       </tuv>
-      <tuv lang="fr" changeid="Didier" changedate="20160427T163912Z" creationid="Didier" creationdate="20160427T152629Z">
-        <seg>Informations d'identification du référentiel</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210201T140310Z" creationid="Didier" creationdate="20160427T152629Z">
+        <seg>Informations d'identification du dépôt</seg>
       </tuv>
     </tu>
     <tu>
@@ -40152,8 +40152,8 @@ ces mots : « pas de page »...</seg>
       <tuv lang="en">
         <seg>Repository Mapping...</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210129T094302Z" creationid="Didier" creationdate="20160427T150144Z">
-        <seg>Mappage des référentiels...</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210201T140310Z" creationid="Didier" creationdate="20160427T150144Z">
+        <seg>Mappage des dépôts...</seg>
       </tuv>
     </tu>
     <tu>
@@ -40176,16 +40176,16 @@ ces mots : « pas de page »...</seg>
       <tuv lang="en">
         <seg>Repository {0} is already present</seg>
       </tuv>
-      <tuv lang="fr" changeid="Didier" changedate="20160427T150515Z" creationid="Didier" creationdate="20160427T150515Z">
-        <seg>Le référentiel {0} est déjà présent</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210201T140310Z" creationid="Didier" creationdate="20160427T150515Z">
+        <seg>Le dépôt {0} est déjà présent</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Repository {0} unknown</seg>
       </tuv>
-      <tuv lang="fr" changeid="Didier" changedate="20160427T150524Z" creationid="Didier" creationdate="20160427T150524Z">
-        <seg>Le référentiel {0} est inconnu</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210201T140310Z" creationid="Didier" creationdate="20160427T150524Z">
+        <seg>Le dépôt {0} est inconnu</seg>
       </tuv>
     </tu>
     <tu>
@@ -43305,8 +43305,8 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       <tuv lang="en">
         <seg>Similar as in the case of OmegaT projects, you will need to have separate repositories for different language pairs.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Didier" changedate="20130607T095338Z">
-        <seg>Comme pour les projets OmegaT, vous devrez avoir des référentiels séparés pour les différentes paires de langues.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210201T140310Z">
+        <seg>Comme pour les projets OmegaT, vous devrez avoir des dépôts séparés pour les différentes paires de langues.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44992,8 +44992,8 @@ address new problems or concerns.</seg>
       <tuv lang="en">
         <seg>Synchronisation of repositories</seg>
       </tuv>
-      <tuv lang="fr" changeid="Didier" changedate="20170428T151720Z" creationid="Didier" creationdate="20170428T151720Z">
-        <seg>Synchronisation des référentiels</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210201T140310Z" creationid="Didier" creationdate="20170428T151720Z">
+        <seg>Synchronisation des dépôts</seg>
       </tuv>
     </tu>
     <tu>
@@ -45752,8 +45752,8 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       <tuv lang="en">
         <seg>Team Mode Repository Mapping</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210129T133103Z" creationid="suzume" creationdate="20201212T112130Z">
-        <seg>Mise en correspondance des référentiels en mode équipe</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210201T140310Z" creationid="suzume" creationdate="20201212T112130Z">
+        <seg>Mise en correspondance des dépôts en mode équipe</seg>
       </tuv>
     </tu>
     <tu>
@@ -47047,8 +47047,8 @@ Program (independent of having been made by running the Program).</seg>
       <tuv lang="en">
         <seg>The alternative is to have one single repository with subfolders &lt;l0&gt;Project1&lt;/l0&gt;, &lt;l1&gt;Project2&lt;/l1&gt;, etc., and share the common material via common &lt;l2&gt;tm&lt;/l2&gt;, &lt;l3&gt;glossary&lt;/l3&gt; and &lt;l4&gt;dictionary&lt;/l4&gt; folders.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Clementine" changedate="20130429T120600Z">
-        <seg>Il est également possible d'avoir un seul référentiel avec des sous dossiers&lt;l0&gt;Projet1&lt;/l0&gt;, &lt;l1&gt;Projet2&lt;/l1&gt;, etc., et de partager le matériel commun par le biais de dossiers communs tels que &lt;l2&gt;tm&lt;/l2&gt;, &lt;l3&gt;glossary&lt;/l3&gt; et &lt;l4&gt;dictionary&lt;/l4&gt;.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210201T140310Z">
+        <seg>Il est également possible d'avoir un seul dépôt avec des sous dossiers&lt;l0&gt;Projet1&lt;/l0&gt;, &lt;l1&gt;Projet2&lt;/l1&gt;, etc., et de partager le matériel commun par le biais de dossiers communs tels que &lt;l2&gt;tm&lt;/l2&gt;, &lt;l3&gt;glossary&lt;/l3&gt; et &lt;l4&gt;dictionary&lt;/l4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48484,8 +48484,8 @@ freedom to share and change it.</seg>
       <tuv lang="en">
         <seg>The mappings can be added by editing &lt;f0&gt;omegat.project&lt;/f0&gt; or via the UI: &lt;m1&gt; &lt;g2&gt;Project&lt;/g2&gt; &lt;g3&gt;Properties&lt;/g3&gt; &lt;g4&gt;Repository Mapping&lt;/g4&gt; &lt;/m1&gt;</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210129T094225Z" creationid="suzume" creationdate="20210129T085625Z">
-        <seg>Les mappages peuvent être ajoutés en modifiant &lt;f0&gt;omegat.project&lt;/f0&gt; où par l'intermédiaire de l'interface utilisateurs : &lt;m1&gt; &lt;g2&gt;Projet&lt;/g2&gt; &lt;g3&gt;Propriétés...&lt;/g3&gt; &lt;g4&gt;Mappage des référentiels&lt;/g4&gt; &lt;/m1&gt;</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210201T140310Z" creationid="suzume" creationdate="20210129T085625Z">
+        <seg>Les mappages peuvent être ajoutés en modifiant &lt;f0&gt;omegat.project&lt;/f0&gt; où par l'intermédiaire de l'interface utilisateurs : &lt;m1&gt; &lt;g2&gt;Projet&lt;/g2&gt; &lt;g3&gt;Propriétés...&lt;/g3&gt; &lt;g4&gt;Mappage des dépôts&lt;/g4&gt; &lt;/m1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -49129,8 +49129,8 @@ modification follow.</seg>
       <tuv lang="en">
         <seg>The reference to the URL is specified as below (here to a Git repository):</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210130T103341Z" creationid="suzume" creationdate="20210116T152930Z">
-        <seg>La référence à l'URL est spécifiée de la manière suivante (il s'agit ici d'un référentiel Git) :</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210201T140310Z" creationid="suzume" creationdate="20210116T152930Z">
+        <seg>La référence à l'URL est spécifiée de la manière suivante (il s'agit ici d'un dépôt Git) :</seg>
       </tuv>
     </tu>
     <tu>
@@ -49177,8 +49177,8 @@ modification follow.</seg>
       <tuv lang="en">
         <seg>The repository is empty at this moment.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Clementine" changedate="20130429T121047Z">
-        <seg>Pour l'instant, le référentiel est vide.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210201T140310Z">
+        <seg>Pour l'instant, le dépôt est vide.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51315,16 +51315,16 @@ under the terms of this General Public License.</seg>
       <tuv lang="en">
         <seg>This is a Git repository.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Didier" changedate="20140617T181912Z" creationid="Didier" creationdate="20140617T181838Z">
-        <seg>Il s'agit d'un référentiel Git.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210201T140310Z" creationid="Didier" creationdate="20140617T181838Z">
+        <seg>Il s'agit d'un dépôt Git.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>This is a Subversion repository.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Didier" changedate="20140617T181858Z" creationid="Didier" creationdate="20140617T181858Z">
-        <seg>Il s'agit d'un référentiel Subversion.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210201T140310Z" creationid="Didier" creationdate="20140617T181858Z">
+        <seg>Il s'agit d'un dépôt Subversion.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54035,8 +54035,8 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       <tuv lang="en">
         <seg>Type the name and description of the repository.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Clementine" changedate="20130412T114932Z">
-        <seg>Saisissez le nom et la description du référentiel.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210201T140310Z">
+        <seg>Saisissez le nom et la description du dépôt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56813,8 +56813,8 @@ free programs, and that you know you can do these things.</seg>
       <tuv lang="en">
         <seg>When you begin a new project on the same subject or for the same customer, navigate to the repository folder in the &lt;g0&gt;Project &gt; Properties &gt; Edit Project dialog&lt;/g0&gt; and select it as the translation memory folder.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Clementine" changedate="20130507T082207Z">
-        <seg>Lorsque vous commencez un nouveau projet sur le même sujet ou pour le même client, allez dans &lt;g0&gt;Projet &gt; Propriétés &gt; Modifier le projet&lt;/g0&gt; et sélectionnez le dossier référentiel en tant que « dossier des mémoires de traduction ».</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210201T140310Z">
+        <seg>Lorsque vous commencez un nouveau projet sur le même sujet ou pour le même client, allez dans &lt;g0&gt;Projet &gt; Propriétés &gt; Modifier le projet&lt;/g0&gt; et sélectionnez le dossier dépôt en tant que « dossier des mémoires de traduction ».</seg>
       </tuv>
     </tu>
     <tu>
@@ -56834,8 +56834,8 @@ for which you have or can give appropriate copyright permission.</seg>
       <tuv lang="en">
         <seg>When you create a new project and commit that to a repository, the &lt;f0&gt;omegat.project&lt;/f0&gt; file doesn't contain any mapping.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210130T103448Z" creationid="suzume" creationdate="20210129T152937Z">
-        <seg>Quand vous créez un nouveau projet et que vous l'envoyer à un référentiel, le fichier &lt;f0&gt;omegat.project&lt;/f0&gt; ne contient aucune mise en correspondance.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210201T140310Z" creationid="suzume" creationdate="20210129T152937Z">
+        <seg>Quand vous créez un nouveau projet et que vous l'envoyer à un dépôt, le fichier &lt;f0&gt;omegat.project&lt;/f0&gt; ne contient aucune mise en correspondance.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56899,8 +56899,8 @@ for which you have or can give appropriate copyright permission.</seg>
       <tuv lang="en">
         <seg>When you load a project, all changes in the repository are copied to the local project, including the &lt;f0&gt;omegat.project&lt;/f0&gt; file with project settings.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210130T103503Z" creationid="suzume" creationdate="20210130T092904Z">
-        <seg>Lorsque vous chargez un project, toutes les modifications du référentiel sont copiées dans le projet local, à l'inclusion du fichier &lt;f0&gt;omegat.project&lt;/f0&gt; qui contient les paramètres du projet.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210201T140310Z" creationid="suzume" creationdate="20210130T092904Z">
+        <seg>Lorsque vous chargez un project, toutes les modifications du dépôt sont copiées dans le projet local, à l'inclusion du fichier &lt;f0&gt;omegat.project&lt;/f0&gt; qui contient les paramètres du projet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56955,8 +56955,8 @@ for which you have or can give appropriate copyright permission.</seg>
       <tuv lang="en">
         <seg>Whenever you finish a project, copy one of the three "export" translation memory files from the root folder of the project to the repository folder.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Clementine" changedate="20130507T081638Z">
-        <seg>Quand vous finissez un projet, copiez dans le dossier référentiel un des trois fichiers « exportés » de la mémoire de traduction (ceux-ci sont localisés dans le dossier racine du projet).</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210201T140310Z">
+        <seg>Quand vous finissez un projet, copiez dans le dossier dépôt un des trois fichiers « exportés » de la mémoire de traduction (ceux-ci sont localisés dans le dossier racine du projet).</seg>
       </tuv>
     </tu>
     <tu>
@@ -57386,8 +57386,8 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       <tuv lang="en">
         <seg>Within a given language pair it is best to keep different subjects and/or clients as separate repositories as well.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Clementine" changedate="20130506T071354Z">
-        <seg>Au sein d'une paire de langues donnée, il est également préférable d'avoir des référentiels séparés pour les différents sujets et/ou clients.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210201T140310Z">
+        <seg>Au sein d'une paire de langues donnée, il est également préférable d'avoir des dépôts séparés pour les différents sujets et/ou clients.</seg>
       </tuv>
     </tu>
     <tu>
