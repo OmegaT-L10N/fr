@@ -21616,6 +21616,14 @@ authors of previous versions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, &lt;l2&gt;user.language=ja&lt;/l2&gt; (without the &lt;l3&gt;#&lt;/l3&gt;) will launch &lt;a4&gt;OmegaT&lt;/a4&gt; with the user interface in Japanese.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210201T125129Z" creationid="suzume" creationdate="20210201T125129Z">
+        <seg>Par exemple, &lt;l2&gt;user.language=ja&lt;/l2&gt; (sans le &lt;l3&gt;#&lt;/l3&gt;) lancera &lt;a4&gt;OmegaT&lt;/a4&gt; avec l'interface utilisateur en japonais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, anyone is free to make changes to OmegaT's program code and to submit these changes to the development team.</seg>
       </tuv>
       <tuv lang="fr">
@@ -52381,6 +52389,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20161116T095841Z" creationid="Didier" creationdate="20161116T095841Z">
         <seg>Pour modifier la quantité de mémoire disponible, modifiez le fichier &lt;e0&gt;OmegaT.app/Contents/Info.plist&lt;/e0&gt; et changez le contenu de &lt;string&gt;-Xmx1024M&lt;/string&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To change the amount of memory available, edit &lt;e0&gt;OmegaT.app/Contents/Info.plist&lt;/e0&gt; file and un-comment the line &lt;l1&gt;&lt;!-- &lt;string&gt;-Xmx6g&lt;/string&gt; --&gt;&lt;/l1&gt; by removing the &lt;l2&gt;&lt;!--&lt;/l2&gt; and &lt;l3&gt;--&gt;&lt;/l3&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210201T125504Z" creationid="suzume" creationdate="20210201T125504Z">
+        <seg>Pour modifier la quantité de mémoire disponible, modifiez le fichier &lt;e0&gt;OmegaT.app/Contents/Info.plist&lt;/e0&gt; et retirez les marques de commentaire &lt;l2&gt;&lt;!--&lt;/l2&gt; et &lt;l3&gt;--&gt;&lt;/l3&gt; de la ligne &lt;l1&gt;&lt;!-- &lt;string&gt;-Xmx6g&lt;/string&gt; --&gt;&lt;/l1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
