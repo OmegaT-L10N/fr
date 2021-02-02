@@ -5762,6 +5762,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;f0&gt;OmegaT.app&lt;/f0&gt; can make use of macOS Services.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210202T064736Z" creationid="suzume" creationdate="20210202T064736Z">
+        <seg>&lt;f0&gt;OmegaT.app&lt;/f0&gt; peut utiliser les Services de macos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;f0&gt;alignDir &lt;/f0&gt;must contain a translation in the target language of the project.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130528T133502Z">
@@ -28507,8 +28515,8 @@ exécutez simplement le programme d'installation.</seg>
       <tuv lang="en">
         <seg>It is a tool intended for professional translators.</seg>
       </tuv>
-      <tuv lang="fr" changeid="briac" changedate="20190328T152026Z">
-        <seg>qui fonctionne sous Windows, macOS ou Linux.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210202T064653Z">
+        <seg>qui fonctionne sous Windows, macos ou Linux.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48442,6 +48450,14 @@ freedom to share and change it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The macOS equivalent is the application Terminal located in &lt;f0&gt;Applications/Utilities&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210202T064831Z" creationid="suzume" creationdate="20210202T064831Z">
+        <seg>Sur macos, son équivalent est l'application Terminal située dans &lt;f0&gt;Applications/Utilitaires&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The machine translation pane, when opened, contains the suggestions by machine translation tools for the current segment.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130507T123232Z">
@@ -55157,6 +55173,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20141202T175513Z" creationid="Didier" creationdate="20141202T175513Z">
         <seg>Utilisez le fichier &lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.jar&lt;/e0&gt; situé dans &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.app/Contents/MacOS/Java/&lt;/e2&gt; pour lancer &lt;a4&gt;OmegaT&lt;/a4&gt; à partir de la ligne de commande.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the &lt;f0&gt;OmegaT.jar&lt;/f0&gt; file located in &lt;f1&gt;OmegaT.app/Contents/MacOS/Java/&lt;/f1&gt; to launch &lt;a2&gt;OmegaT&lt;/a2&gt; from the command line.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210202T064619Z" creationid="suzume" creationdate="20210202T064619Z">
+        <seg>Utilisez le fichier &lt;f0&gt;OmegaT&lt;/f0&gt;.jar situé dans &lt;f1&gt;OmegaT.app/Contents/MacOS/Java/&lt;/f1&gt; pour lancer &lt;a2&gt;OmegaT&lt;/a2&gt; à partir de la ligne de commande.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63795,16 +63819,16 @@ de créer son dossier de configuration.</seg>
       <tuv lang="en">
         <seg>macOS Notarized</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210110T133645Z" creationid="suzume" creationdate="20210110T133645Z">
-        <seg>macOS Notarié</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210202T064656Z" creationid="suzume" creationdate="20210110T133645Z">
+        <seg>macos Notarié</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>macOS Unsigned</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210110T133658Z" creationid="suzume" creationdate="20210110T133658Z">
-        <seg>macOS Non signé</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210202T064700Z" creationid="suzume" creationdate="20210110T133658Z">
+        <seg>macos Non signé</seg>
       </tuv>
     </tu>
     <tu>
@@ -63813,6 +63837,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210110T122929Z" creationid="suzume" creationdate="20210110T122929Z">
         <seg>Utilisateurs macos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>macOS goodies</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210202T064713Z" creationid="suzume" creationdate="20210202T064713Z">
+        <seg>Bonus macos</seg>
       </tuv>
     </tu>
     <tu>
