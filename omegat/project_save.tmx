@@ -9008,6 +9008,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;p3&gt;XX&lt;/p3&gt; in the command stands for the two-digit code of the desired language.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210202T072842Z" creationid="suzume" creationdate="20210202T072842Z">
+        <seg>Dans la commande, &lt;p3&gt;XX&lt;/p3&gt; représente le code à deux chiffres correspondant à la langue désirée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;p4&gt;??&lt;/p4&gt; stands for the amount of memory assigned, in megabytes.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210131T123913Z" creationid="suzume" creationdate="20210131T123913Z">
@@ -46609,6 +46617,14 @@ form of a work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;l0&gt;-Duser.language=&lt;p1&gt;XX&lt;/p1&gt;&lt;/l0&gt; argument causes &lt;a2&gt;OmegaT&lt;/a2&gt; to use the language specified rather than the language of the user's operating system.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210202T072837Z" creationid="suzume" creationdate="20210202T072837Z">
+        <seg>L'argument &lt;l0&gt;-Duser.language=&lt;p1&gt;XX&lt;/p1&gt;&lt;/l0&gt; oblige &lt;a2&gt;OmegaT&lt;/a2&gt; à utiliser la langue spécifiée plutôt que la langue du système d'exploitation de l'utilisateur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;E&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Project&lt;/g5&gt; &lt;g6&gt;Properties...&lt;/g6&gt; &lt;/m0&gt; dialog is used to define and modify the project folders and languages.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130528T131925Z">
@@ -48778,6 +48794,14 @@ freedom to share and change it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The most important is &lt;l1&gt;/path/to/project&lt;/l1&gt;, and optionally &lt;l2&gt;--config-dir=&lt;p3&gt;/path/to/config-files/&lt;/p3&gt;&lt;/l2&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210202T072954Z" creationid="suzume" creationdate="20210202T072954Z">
+        <seg>Le plus important est &lt;l1&gt;/chemin/du/projet&lt;/l1&gt;, et, facultativement, &lt;l2&gt; --config-dir=&lt;p3&gt;/chemin/du/dossier_de_configuration&lt;/p3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The most important is &lt;l1&gt;&lt;project-dir&gt;&lt;/l1&gt;, and optionally&lt;l2&gt; --config-dir=&lt;config-dir&gt;.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130502T135537Z">
@@ -49331,6 +49355,14 @@ modification follow.</seg>
       </tuv>
       <tuv lang="fr" changeid="brigitte" changedate="20130714T145255Z">
         <seg>Les fichiers importants &lt;l2&gt;filters.conf&lt;/l2&gt; et &lt;l3&gt;segmentation.conf&lt;/l3&gt; sont situés dans le dossier personnel de l'utilisateur (soit dans &lt;l4&gt;C:\Documents and Settings\%User%\&lt;a5&gt;OmegaT&lt;/a5&gt;&lt;/l4&gt; sous Windows, et &lt;l6&gt;%user%/.omegat/&lt;/l6&gt; sous Linux)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The relevant files are &lt;f2&gt;filters.conf&lt;/f2&gt; and &lt;f3&gt;segmentation.conf&lt;/f3&gt; and can be found in the user home folder (e.g. &lt;f4&gt;C:\Documents and Settings\&lt;p5&gt;user&lt;/p5&gt;\OmegaT&lt;/f4&gt; under Windows, &lt;f6&gt;~/.omegat/&lt;/f6&gt; under Linux).</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210202T072907Z" creationid="suzume" creationdate="20210202T072907Z">
+        <seg>Les fichiers importants sont &lt;f2&gt;filters.conf&lt;/f2&gt; et &lt;f3&gt;segmentation.conf&lt;/f3&gt; et sont situés dans le dossier personnel de l'utilisateur (soit dans &lt;f4&gt;C:\Documents and Settings\%User%\&lt;p5&gt;OmegaT&lt;/p5&gt;&lt;/f4&gt; sous Windows, &lt;f6&gt;%user%/.omegat/&lt;/f6&gt; sous Linux).</seg>
       </tuv>
     </tu>
     <tu>
@@ -52977,6 +53009,14 @@ as a Source Forge user.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
         <seg>Pour lancer &lt;a2&gt;OmegaT&lt;/a2&gt; avec une interface en français (pour un système d'exploitation russe par exemple), la commande serait donc :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To launch &lt;a4&gt;OmegaT&lt;/a4&gt; with a French interface (for example on a Russian operating system), the command would therefore be:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210202T072847Z" creationid="suzume" creationdate="20210202T072847Z">
+        <seg>Pour lancer &lt;a4&gt;OmegaT&lt;/a4&gt; avec une interface en français (pour un système d'exploitation russe par exemple), la commande serait donc :</seg>
       </tuv>
     </tu>
     <tu>
