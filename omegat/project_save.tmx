@@ -13831,8 +13831,8 @@ software--to make sure the software is free for all its users.</seg>
       <tuv lang="en">
         <seg>Check "Command line launching" below for more information.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Clementine" changedate="20130502T115652Z">
-        <seg>Voir « Lancement des lignes de commandes » ci-dessous pour plus d'informations.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210202T071729Z">
+        <seg>Voir « Lancement par la ligne de commande » ci-dessous pour plus d'informations.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24051,6 +24051,14 @@ parties remain in full compliance.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>IBM provides JREs for Linux PowerPC at &lt;u0/&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210202T065130Z" creationid="suzume" creationdate="20210202T065130Z">
+        <seg>IBM fournit des environnements d'exécution Java JRE pour Linux PowerPC à l'adresse &lt;u0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>IBM provides JREs for Linux PowerPC at &lt;u0&gt;http://www.ibm.com/developerworks/java/jdk/linux/download.htm&lt;/u0&gt;</seg>
       </tuv>
       <tuv lang="fr" changeid="brigitte" changedate="20130714T125221Z">
@@ -31253,6 +31261,14 @@ La version Mac intègre un JRE.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Make sure that your &lt;v2&gt;PATH&lt;/v2&gt; settings are correct and that &lt;f3&gt;.jar&lt;/f3&gt; files are properly associated with a Java launcher.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210202T065241Z" creationid="suzume" creationdate="20210202T065241Z">
+        <seg>Assurez-vous que vos paramètres &lt;v2&gt;PATH&lt;/v2&gt; sont corrects et que les fichiers&lt;f3&gt;.jar &lt;/f3&gt; sont correctement associés à un lanceur Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Make sure the field &lt;e1&gt;Checkout directory&lt;/e1&gt; is correct, i.e. specifies the empty folder you have created, and press &lt;e2&gt;OK&lt;/e2&gt;.</seg>
       </tuv>
       <tuv lang="fr" changeid="brigitte" changedate="20130714T145418Z">
@@ -35802,6 +35818,14 @@ kolteki later.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Once &lt;a0&gt;OmegaT&lt;/a0&gt; is installed, you can launch it directly from the command line, you can create a script that includes launch parameters for the command line or you can click on &lt;f1&gt;OmegaT.jar&lt;/f1&gt; to launch it directly.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210202T065229Z" creationid="suzume" creationdate="20210202T065229Z">
+        <seg>Une fois &lt;a0&gt;OmegaT&lt;/a0&gt; installé, vous pouvez le lancer directement à partir de la ligne de commande, créer un script qui contient les paramètres de lancement de la ligne de commande ou encore cliquer sur &lt;f1&gt;OmegaT.jar&lt;/f1&gt; pour le lancer directement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Once Auto-completer is open, use &lt;e1&gt;Ctrl+Space&lt;/e1&gt; again to switch successively from &lt;e2&gt;Glossaries entries&lt;/e2&gt;, &lt;e3&gt;Auto-text entries,&lt;/e3&gt; &lt;e4&gt;Missing tags&lt;/e4&gt; and &lt;e5&gt;Character table&lt;/e5&gt; options.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160322T165150Z" creationid="Didier" creationdate="20160322T165027Z">
@@ -36611,6 +36635,14 @@ Afficher des informations sur l'utilisation.</seg>
       </tuv>
       <tuv lang="fr" changeid="jchelary" changedate="20130526T125140Z">
         <seg>Oracle fournit des environnements d'exécution Java JRE pour Solaris SPARC/x86 (Java 1.6) et pour Linux x64, Solaris x64, Windows x64 (Java 1.6) à l'adresse &lt;u0&gt;http://www.oracle.com/technetwork/java/archive-139210.html&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Oracle provides JREs for Solaris SPARC/x86 (Java 8) and for Linux x64, Solaris x64, Windows x64 (Java 8) at &lt;u0/&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210202T065117Z" creationid="suzume" creationdate="20210202T065117Z">
+        <seg>Oracle fournit des environnements d'exécution Java JRE pour Solaris SPARC/x86 (Java 8) et pour Linux x64, Solaris x64, Windows x64 (Java 8) à l'adresse &lt;u0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51129,6 +51161,14 @@ under the terms of this General Public License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This creates an &lt;f2&gt;./OmegaT_4.n.n_Without_JRE/&lt;/f2&gt; folder in the working folder with all the files necessary to run &lt;a3&gt;OmegaT&lt;/a3&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210202T065202Z" creationid="suzume" creationdate="20210202T065202Z">
+        <seg>Ceci crée un dossier &lt;f2&gt;./OmegaT_4.n.n_Without_JRE/&lt;/f2&gt; dans le dossier de travail en cours avec tous les fichiers nécessaires à l'exécution d'&lt;a3&gt;OmegaT&lt;/a3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This dialog enables you to set up the source filename patterns of files to be processed by the filter, customize the filenames of translated files, and select which encodings should be used for loading the file and saving its translated counterpart.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130429T090152Z">
@@ -52776,6 +52816,14 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
       </tuv>
       <tuv lang="fr" changeid="jchelary" changedate="20130526T125149Z">
         <seg>Pour installer &lt;a0&gt;OmegaT&lt;/a0&gt;, il suffit de décompresser le fichier &lt;e1&gt;OmegaT_3.n.n_Without_JRE.zip&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To install &lt;a0&gt;OmegaT&lt;/a0&gt;, simply unpack the &lt;f1&gt;OmegaT_4.n.n_Without_JRE.zip&lt;/f1&gt; file.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210202T065149Z" creationid="suzume" creationdate="20210202T065149Z">
+        <seg>Pour installer &lt;a0&gt;OmegaT&lt;/a0&gt;, il suffit de décompresser le fichier &lt;f1&gt;OmegaT_4.n.n_Without_JRE.zip&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
