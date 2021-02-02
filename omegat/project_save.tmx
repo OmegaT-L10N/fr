@@ -42975,6 +42975,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Selects the previous, the next or the Nth fuzzy match displayed in the fuzzy match pane to replace or insert it to the segment.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210202T122133Z" creationid="suzume" creationdate="20210202T122133Z">
+        <seg>Sélectionne la correspondance précédente, suivante ou nième affichée dans la fenêtre des Correspondances pour vous permettre d'effectuer un remplacement ou une insertion dans le segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Self-paced online training course in English (for purchase)</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20170918T110908Z" creationid="briac" creationdate="20170918T110908Z">
@@ -51339,8 +51347,8 @@ under the terms of this General Public License.</seg>
       <tuv lang="en">
         <seg>This can apply also to &lt;g0&gt;Target term&lt;/g0&gt; and &lt;g1&gt;Comment &lt;/g1&gt;fields if new selections are made and &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;Shift&lt;/k4&gt; &lt;k5&gt;G&lt;/k5&gt; &lt;/k2&gt; pressed again.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210202T121911Z" creationid="suzume" creationdate="20210202T121911Z">
-        <seg>Ceci s'applique également aux champs &lt;g0&gt;Terme cible&lt;/g0&gt; et &lt;g1&gt;Commentaire&lt;/g1&gt; si de nouvelles sélections sont faites et &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;Shift&lt;/k4&gt; &lt;k5&gt;G&lt;/k5&gt; &lt;/k2&gt; est pressé de nouveau.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210202T122020Z" creationid="suzume" creationdate="20210202T121911Z">
+        <seg>Ceci s'applique également aux champs &lt;g0&gt;Terme cible&lt;/g0&gt; et &lt;g1&gt;Commentaire&lt;/g1&gt; si de nouvelles sélections sont faites et si vous appuyez de nouveau sur &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;Shift&lt;/k4&gt; &lt;k5&gt;G&lt;/k5&gt; &lt;/k2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
