@@ -4682,6 +4682,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Duser.language=&lt;p2&gt;XX&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; Normally, i.e. when &lt;a3&gt;OmegaT&lt;/a3&gt; is launched without any arguments, the program first detects the language of the user's operating system.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210202T072028Z" creationid="suzume" creationdate="20210202T072028Z">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Duser.language=&lt;p2&gt;XX&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; : normalement, c'est-à-dire lorsqu'&lt;a3&gt;OmegaT&lt;/a3&gt; est lancé sans arguments, le programme détecte la langue du système d'exploitation de l'utilisateur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;&lt;l1&gt;-Xmx&lt;p2&gt;??&lt;/p2&gt;M&lt;/l1&gt;&lt;/e0&gt;This command assigns more memory to &lt;a3&gt;OmegaT&lt;/a3&gt;.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210131T123854Z" creationid="suzume" creationdate="20210131T123854Z">
@@ -10515,6 +10523,14 @@ this License without regard to the additional permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>After the initial installation you can, of course, also use &lt;f3&gt;OmegaT.jnlp&lt;/f3&gt; also when you are offline.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210202T071825Z" creationid="suzume" creationdate="20210202T071825Z">
+        <seg>Après l'installation initiale, il est bien entendu également possible d'utiliser &lt;f3&gt;OmegaT.jnlp&lt;/f3&gt; lorsque vous êtes hors ligne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>After the source file has loaded in the Editor pane, you can close the Project files dialog.</seg>
       </tuv>
       <tuv lang="fr" changeid="briglegrand" changedate="20120501T184623Z">
@@ -11893,6 +11909,14 @@ void, and will automatically terminate your rights under this License.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20161227T172037Z" creationid="Didier" creationdate="20161227T172037Z">
         <seg>Êtes-vous sûr de vouloir réinitialiser le mot de passe principal ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Arguments are added after the initial &lt;c0&gt;java&lt;/c0&gt;, and before the &lt;l1&gt;-jar OmegaT.jar&lt;/l1&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210202T071943Z" creationid="suzume" creationdate="20210202T071943Z">
+        <seg>Les arguments sont ajoutés après le premier &lt;c0&gt;java&lt;/c0&gt;, et avant &lt;l1&gt;-jar OmegaT.jar&lt;/l1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22181,6 +22205,14 @@ authors of previous versions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For this reason, the two commands described above are contained in a file (a "script", also called a "&lt;f0&gt;.bat&lt;/f0&gt; file" on Windows systems).</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210202T071927Z" creationid="suzume" creationdate="20210202T071927Z">
+        <seg>C'est pour cela que les deux commandes décrites ci-dessus sont contenues dans un fichier (un « script », aussi appelé un « fichier &lt;f0&gt;.bat&lt;/f0&gt; » sur les systèmes Windows).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For this to happen, there should be a break rule for "?", when followed by spaces and a capitalized word.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021618Z">
@@ -24428,6 +24460,14 @@ need not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If a user interface in this language is available, &lt;a4&gt;OmegaT&lt;/a4&gt; uses it.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210202T072033Z" creationid="suzume" creationdate="20210202T072033Z">
+        <seg>Si une interface utilisateur est disponible dans cette langue, &lt;a4&gt;OmegaT&lt;/a4&gt; l'utilise.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If an &lt;a0&gt;OmegaT&lt;/a0&gt; project contains one or more glossaries, any terms in the glossary which are also found in the current segment will be automatically displayed in the Glossary viewer.</seg>
       </tuv>
       <tuv lang="fr" changeid="brigitte" changedate="20130712T143413Z">
@@ -25068,6 +25108,14 @@ countries not thus excluded.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130502T132400Z">
         <seg>Si la langue du système de l'utilisateur n'est pas disponible, &lt;a6&gt;OmegaT&lt;/a6&gt; s'affiche en anglais (langue par défaut).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the language of the user's system is not available, &lt;a7&gt;OmegaT&lt;/a7&gt; defaults to English.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210202T072050Z" creationid="suzume" creationdate="20210202T072050Z">
+        <seg>Si la langue du système de l'utilisateur n'est pas disponible, &lt;a7&gt;OmegaT&lt;/a7&gt; s'affiche en anglais (langue par défaut).</seg>
       </tuv>
     </tu>
     <tu>
@@ -26978,6 +27026,14 @@ the scope of this License.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20201203T090606Z" creationid="suzume" creationdate="20201203T090606Z">
         <seg>Pour choisir le type de segmentation, allez dans &lt;m1&gt; &lt;g2&gt;Projet&lt;/g2&gt; &lt;g3&gt;Propriétés...&lt;/g3&gt; &lt;/m1&gt; et cochez ou décochez la case « Activer la segmentation par phrase ».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In other platforms, you can modify &lt;f3&gt;Configuration.properties&lt;/f3&gt; file on the Mac, or &lt;f4&gt;OmegaT&lt;/f4&gt; launcher under Linux to do the same.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210202T072002Z" creationid="suzume" creationdate="20210202T072002Z">
+        <seg>Sur les autres plateformes, vous pouvez modifier le fichier &lt;f3&gt;Configuration.properties&lt;/f3&gt; sur le Mac, ou le lanceur &lt;f4&gt;OmegaT&lt;/f4&gt; sous Linux pour effectuer la même tâche.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33711,6 +33767,14 @@ Diminue les sorties sur stdout de la ligne de commande.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note that in Windows you can change the &lt;f2&gt;OmegaT.l4J.ini&lt;/f2&gt; file to reflect your preferences.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210202T071949Z" creationid="suzume" creationdate="20210202T071949Z">
+        <seg>Notez que dans Windows, vous pouvez modifier le fichier &lt;f2&gt;OmegaT.l4J.ini&lt;/f2&gt; selon vos préférences.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note that in Windows you can change the &lt;f3&gt;OmegaT.l4J.ini&lt;/f3&gt; file to reflect your preferences.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20150313T150840Z" creationid="Didier" creationdate="20150313T150840Z">
@@ -37273,6 +37337,14 @@ mirage, pas de page...</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130502T131303Z">
         <seg>Faites très attention aux majuscules. Pour les systèmes d'exploitation autres que Windows, le programme ne démarrera pas si vous entrez &lt;e0&gt;omegat&lt;/e0&gt; à la place de &lt;e1&gt;OmegaT &lt;/e1&gt;!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pay attention to the capitalization - in OS other than Windows, the program will not start, if you enter &lt;l0&gt;omegat&lt;/l0&gt; instead of &lt;l1&gt;OmegaT&lt;/l1&gt;!</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210202T071907Z" creationid="suzume" creationdate="20210202T071907Z">
+        <seg>Faites très attention aux majuscules. Pour les systèmes d'exploitation autres que Windows, le programme ne démarrera pas si vous entrez &lt;l0&gt;omegat&lt;/l0&gt; à la place de &lt;l1&gt;OmegaT&lt;/l1&gt; !</seg>
       </tuv>
     </tu>
     <tu>
@@ -43655,6 +43727,14 @@ Traduction supprimée car ne concerne pas le français.</note>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130502T132325Z">
         <seg>Ainsi, si le système d'exploitation de l'utilisateur est en russe et qu'&lt;a4&gt;OmegaT&lt;/a4&gt;a été traduit en russe, &lt;a5&gt;OmegaT&lt;/a5&gt; est affiché avec une interface utilisateur en russe, des menus en russe, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>So, if the user's operating system is Russian and &lt;a5&gt;OmegaT&lt;/a5&gt; has been localized in Russian, &lt;a6&gt;OmegaT&lt;/a6&gt; is displayed with a Russian user interface, Russian menus, etc.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210202T072045Z" creationid="suzume" creationdate="20210202T072045Z">
+        <seg>Ainsi, si le système d'exploitation de l'utilisateur est en russe et qu'&lt;a5&gt;OmegaT&lt;/a5&gt;a été traduit en russe, &lt;a6&gt;OmegaT&lt;/a6&gt; est affiché avec une interface utilisateur en russe, des menus en russe, etc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60550,6 +60630,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>cd &lt;p0&gt;folder&lt;/p0&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210202T071832Z" creationid="suzume" creationdate="20210202T071832Z">
+        <seg>cd &lt;p0&gt;dossier&lt;/p0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>cd C:\Program Files\&lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T104516Z">
@@ -67063,6 +67151,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130418T231622Z">
         <seg>lorsqu'on l'exécute, vous devez, quand il commence son exécution pour ladite utilisation </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>where &lt;p0&gt;folder&lt;/p0&gt; is the name of the folder, with complete path, in which your &lt;a1&gt;OmegaT&lt;/a1&gt; program - specifically, the file &lt;f2&gt;OmegaT.jar&lt;/f2&gt; - is located.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210202T071850Z" creationid="suzume" creationdate="20210202T071850Z">
+        <seg>avec  &lt;p0&gt;dossier&lt;/p0&gt; qui est le nom du dossier (ainsi que son chemin complet) dans lequel votre programme &lt;a1&gt;OmegaT&lt;/a1&gt; est situé - et plus particulièrement le fichier &lt;f2&gt;OmegaT.jar&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
