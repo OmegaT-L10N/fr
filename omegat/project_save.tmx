@@ -3156,8 +3156,8 @@ Comportement du lemmatiseur source ou cible à utiliser (remplace les paramètre
       <tuv lang="en">
         <seg>--config-dir=&lt;p1&gt;/path/to/config-files/&lt;/p1&gt; \</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210131T124217Z" creationid="suzume" creationdate="20210131T124217Z">
-        <seg>--config-dir=&lt;p1&gt;/chemin/du/dossier de configuration/&lt;/p1&gt;\</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210202T073029Z" creationid="suzume" creationdate="20210131T124217Z">
+        <seg>--config-dir=&lt;p1&gt;/chemin/du/dossier_de_configuration/&lt;/p1&gt;\</seg>
       </tuv>
     </tu>
     <tu>
@@ -3172,8 +3172,8 @@ Comportement du lemmatiseur source ou cible à utiliser (remplace les paramètre
       <tuv lang="en">
         <seg>--config-file=&lt;p2&gt;/path/to/config-file/&lt;/p2&gt; \</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210131T124249Z" creationid="suzume" creationdate="20210131T124249Z">
-        <seg>--config-file=&lt;p2&gt;/chemin/du/fichier de configuration/&lt;/p2&gt;\</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210202T073037Z" creationid="suzume" creationdate="20210131T124249Z">
+        <seg>--config-file=&lt;p2&gt;/chemin/du/fichier_de_configuration/&lt;/p2&gt;\</seg>
       </tuv>
     </tu>
     <tu>
@@ -3330,6 +3330,14 @@ Désactiver la fonctionnalité de projets en équipe.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130502T142123Z">
         <seg>--output-tag-validation-={expression régulière}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--pseudotranslatetmx=&lt;p0&gt;allsegments.tmx&lt;/p0&gt; --pseudotranslatetype=&lt;p1&gt;equal|empty&lt;/p1&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210202T073320Z" creationid="suzume" creationdate="20210202T073320Z">
+        <seg>--pseudotranslatetmx=&lt;p0&gt;allsegments.tmx&lt;/p0&gt; --pseudotranslatetype=&lt;p1&gt;equal|empty&lt;/p1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4654,6 +4662,14 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
       <tuv lang="fr" changeid="brigitte" changedate="20130714T133421Z">
         <seg>&lt;e0&gt;&lt;l1&gt;--mode&lt;/l1&gt;=...-&lt;/e0&gt; &lt;a2&gt;OmegaT&lt;/a2&gt; démarre en mode console pour effectuer automatiquement un des services suivants :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;&lt;l1&gt;--mode=&lt;p2&gt;...&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; &lt;a3&gt;OmegaT&lt;/a3&gt; starts in console mode to perform one of the following services automatically</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210202T073247Z" creationid="suzume" creationdate="20210202T073247Z">
+        <seg>&lt;e0&gt;&lt;l1&gt;--mode=&lt;p2&gt;...&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; &lt;a3&gt;OmegaT&lt;/a3&gt; démarre en mode console pour effectuer automatiquement un des services suivants :</seg>
       </tuv>
     </tu>
     <tu>
@@ -6618,10 +6634,26 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt;--config-dir=&lt;p1&gt;/path/to/config-files/&lt;/p1&gt;&lt;/l0&gt; tells &lt;a2&gt;OmegaT&lt;/a2&gt; in which folder the configuration files are stored.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210202T073122Z" creationid="suzume" creationdate="20210202T073122Z">
+        <seg>&lt;l0&gt;--config-dir=&lt;p1&gt;/chemin/du/dossier_de_configuration&lt;/p1&gt;&lt;/l0&gt; dit à &lt;a2&gt;OmegaT&lt;/a2&gt; dans quel dossier sont conservés les fichiers de configuration.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt;--config-file=&lt;config-file&gt;&lt;/l0&gt; tells &lt;a1&gt;OmegaT&lt;/a1&gt; what configuration file to use.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160322T170245Z" creationid="Didier" creationdate="20160322T170245Z">
         <seg>&lt;l0&gt;--config-file=&lt;config-file&gt;&lt;/l0&gt; spécifie à &lt;a1&gt;OmegaT&lt;/a1&gt; le fichier de configuration à utiliser.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;--config-file=&lt;p1&gt;/path/to/config-file/&lt;/p1&gt;&lt;/l0&gt; tells &lt;a2&gt;OmegaT&lt;/a2&gt; what configuration file to use.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210202T073225Z" creationid="suzume" creationdate="20210202T073225Z">
+        <seg>&lt;l0&gt;--config-file=&lt;p1&gt;/chemin/du/fichier_de_configuration&lt;/p1&gt;&lt;/l0&gt; spécifie à &lt;a2&gt;OmegaT&lt;/a2&gt; le fichier de configuration à utiliser.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6702,6 +6734,14 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130506T080559Z">
         <seg>Les fichiers &lt;l0&gt;.utf8&lt;/l0&gt; sont interprétés par &lt;a1&gt;OmegaT&lt;/a1&gt; comme étant encodés en UTF-8 (un encodage qui couvre presque toutes les langues du monde).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;/path/to/project&lt;/l0&gt; tells &lt;a1&gt;OmegaT&lt;/a1&gt; where to find the project to translate.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210202T073101Z" creationid="suzume" creationdate="20210202T073101Z">
+        <seg>&lt;l0&gt;/chemin/du/projet&lt;/l0&gt; dit à &lt;a1&gt;OmegaT&lt;/a1&gt; où trouver le projet à traduire.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24861,6 +24901,14 @@ tous les paramètres reprendront leur valeur par défaut,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If not given, &lt;a3&gt;OmegaT&lt;/a3&gt; reverts to default values (&lt;a4&gt;OmegaT&lt;/a4&gt; folder under user home or, if unavailable, the current working folder).</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210202T073130Z" creationid="suzume" creationdate="20210202T073130Z">
+        <seg>Si ce paramètre n'est pas donné, &lt;a3&gt;OmegaT&lt;/a3&gt; retourne aux valeurs par défaut (dossier &lt;a4&gt;OmegaT&lt;/a4&gt; dans le dossier personnel de l'utilisateur ou, s'il n'est pas disponible, dans le dossier de travail actuel).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If not specified, OmegaT reverts to default values (the OmegaT folder in the user home folder, or if not available: the current working folder).</seg>
       </tuv>
       <tuv lang="fr" changeid="jchelary" changedate="20130526T130555Z">
@@ -27481,6 +27529,14 @@ patent against the party.</seg>
       </tuv>
       <tuv lang="fr" changeid="brigitte" changedate="20130714T133439Z">
         <seg>Dans ce mode, OmegaT tente de traduire les fichiers du dossier /source/ avec les mémoires de traduction disponibles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In this mode, OmegaT will attempt to translate the files in &lt;f0&gt;/source/&lt;/f0&gt; with the available translation memories.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210202T073258Z" creationid="suzume" creationdate="20210202T073258Z">
+        <seg>Dans ce mode, OmegaT tente de traduire les fichiers du dossier &lt;f0&gt;/source/&lt;/f0&gt; avec les mémoires de traduction disponibles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33984,6 +34040,14 @@ Rajout d'une partie approriée, afin que la note de bas de page ne se retrouve p
       </tuv>
       <tuv lang="fr" changeid="brigitte" changedate="20130714T135052Z">
         <seg>Notez qu'Apache Ant (&lt;e0&gt;http://ant.apache.org/bindownload.cgi&lt;/e0&gt;) est nécessaire pour créer votre propre version d'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note the double &lt;l5&gt;-&lt;/l5&gt; character.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210202T073147Z" creationid="suzume" creationdate="20210202T073147Z">
+        <seg>Notez bien les caractères &lt;l5&gt;-&lt;/l5&gt; doubles.</seg>
       </tuv>
     </tu>
     <tu>
