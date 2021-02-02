@@ -33393,8 +33393,8 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>No action is taken, if no Machine Translation service has been activated (in &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Machine Translate&lt;/g2&gt; &lt;/m0&gt;).</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210202T120617Z" creationid="suzume" creationdate="20210202T120617Z">
-        <seg>Ne produit aucun effet si aucun service de traduction automatique n'a été activé (dans &lt;m0&gt;&lt;g1&gt;Options&lt;/g1&gt; ci-dessous).</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210202T120638Z" creationid="suzume" creationdate="20210202T120617Z">
+        <seg>Ne produit aucun effet si aucun service de traduction automatique n'a été activé (dans &lt;m0&gt;&lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Traduction automatique&lt;/g2&gt;&lt;/m0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -51333,6 +51333,14 @@ under the terms of this General Public License.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210111T113523Z" creationid="suzume" creationdate="20210111T113523Z">
         <seg>On peut faire ceci depuis OmegaT :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This can apply also to &lt;g0&gt;Target term&lt;/g0&gt; and &lt;g1&gt;Comment &lt;/g1&gt;fields if new selections are made and &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;Shift&lt;/k4&gt; &lt;k5&gt;G&lt;/k5&gt; &lt;/k2&gt; pressed again.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210202T121911Z" creationid="suzume" creationdate="20210202T121911Z">
+        <seg>Ceci s'applique également aux champs &lt;g0&gt;Terme cible&lt;/g0&gt; et &lt;g1&gt;Commentaire&lt;/g1&gt; si de nouvelles sélections sont faites et &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;Shift&lt;/k4&gt; &lt;k5&gt;G&lt;/k5&gt; &lt;/k2&gt; est pressé de nouveau.</seg>
       </tuv>
     </tu>
     <tu>
