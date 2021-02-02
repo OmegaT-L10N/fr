@@ -3132,8 +3132,8 @@ Comportement du lemmatiseur source ou cible à utiliser (remplace les paramètre
       <tuv lang="en">
         <seg>--alignDir=&lt;p0&gt;&lt;location of translated files&gt;&lt;/p0&gt;</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20201203T090001Z" creationid="suzume" creationdate="20201203T090001Z">
-        <seg>[参考] --alignDir={emplacement des fichiers traduits}</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210202T072556Z" creationid="suzume" creationdate="20201203T090001Z">
+        <seg>--alignDir=&lt;p0&gt;&lt;emplacement des fichiers traduits&gt;&lt;/p0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14274,8 +14274,8 @@ software--to make sure the software is free for all its users.</seg>
       <tuv lang="en">
         <seg>Check this option in case &lt;a0&gt;OmegaT&lt;/a0&gt; does not display some glyphs properly (even if the fonts containing the relevant glyphs are installed on your machine).</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210110T132451Z" creationid="suzume" creationdate="20210110T132451Z">
-        <seg>Cochez cette option si OmegaT n'affiche par certains glyphes correctement (même si les polices contenant les glyphes appropriés sont installées sur votre machine).</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210202T072645Z" creationid="suzume" creationdate="20210110T132451Z">
+        <seg>Cochez cette option si &lt;a0&gt;OmegaT&lt;/a0&gt; n'affiche par certains glyphes correctement (même si les polices contenant les glyphes appropriés sont installées sur votre machine).</seg>
       </tuv>
     </tu>
     <tu>
@@ -52267,8 +52267,8 @@ be a consequence of the rest of this License.</seg>
       <tuv lang="en">
         <seg>This will launch OmegaT with 6 GB of memory; change the &lt;l4&gt;6g&lt;/l4&gt; to the desired amount.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210201T140114Z" creationid="suzume" creationdate="20210201T140114Z">
-        <seg>Ceci lancera OmegaT avec une mémoire de 6 Go ; modifiez  et une interface utilisateur en japonais.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210202T072538Z" creationid="suzume" creationdate="20210201T140114Z">
+        <seg>Ceci lancera OmegaT avec une mémoire de 6 Go ; modifiez la valeur &lt;l4&gt;6g&lt;/l4&gt; avec la valeur que vous désirez.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53410,8 +53410,8 @@ script with ./linux-install.sh.</seg>
       <tuv lang="en">
         <seg>To use the selected match in your translation, use &lt;g4&gt;Ctrl+R&lt;/g4&gt; to replace the target field with the match or use &lt;g5&gt;Ctrl+I &lt;/g5&gt; to insert it at the cursor position.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210110T132612Z" creationid="suzume" creationdate="20210110T132612Z">
-        <seg>Pour utiliser la correspondance sélectionnée dans votre traduction, appuyez sur &lt;g4&gt;Ctrl+R&lt;g5&gt; pour remplacer la ligne d'édition par la correspondance ou appuyez sur &lt;/g4&gt;Ctrl+I&lt;/g5&gt; pour l'insérer à l'emplacement du curseur.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210202T072701Z" creationid="suzume" creationdate="20210110T132612Z">
+        <seg>Pour utiliser la correspondance sélectionnée dans votre traduction, appuyez sur &lt;g4&gt;Ctrl+R&lt;/g4&gt; pour remplacer la ligne d'édition par la correspondance ou appuyez sur &lt;g5&gt;Ctrl+I&lt;/g5&gt; pour l'insérer à l'emplacement du curseur.</seg>
       </tuv>
     </tu>
     <tu>
