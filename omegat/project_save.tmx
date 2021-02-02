@@ -6690,6 +6690,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt;--tag-validation=&lt;p1&gt;abort|warn&lt;/p1&gt;&lt;/l0&gt; &lt;p2&gt;outputFileName&lt;/p2&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210202T073826Z" creationid="suzume" creationdate="20210202T073826Z">
+        <seg>&lt;l0&gt;--tag-validation=&lt;p1&gt;abort|warn&lt;/p1&gt;&lt;/l0&gt;&lt;p2&gt; outputFileName&lt;/p2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt;--tag-validation=[abort|warn] &lt;/l0&gt; On abort, the program is aborted when tag validation finds errors.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130503T135454Z">
@@ -10788,6 +10796,14 @@ this License without regard to the additional permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All HTML files will be translated - note that the period in the usual &lt;l0&gt;*.html&lt;/l0&gt; has to be escaped (&lt;l1&gt;\.&lt;/l1&gt;) as specified by the rules for regular expressions</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210202T073754Z" creationid="suzume" creationdate="20210202T073754Z">
+        <seg>Tous les fichiers HTML seront traduits. Notez que le point généralement présent dans les fichiers &lt;l0&gt;*.html&lt;/l0&gt; doit être neutralisé (&lt;l1&gt;\.&lt;/l1&gt;) comme le précisent les règles utilisées pour les expressions régulières</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All collections (public and private) will be queried for the source and target language.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20141202T221748Z" creationid="Didier" creationdate="20141202T221748Z">
@@ -13417,6 +13433,14 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130415T181001Z">
         <seg>Par défaut, l'encodage du fichier traduit est le même que celui du fichier source.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By default, under Windows, &lt;f1&gt;omegat.project&lt;/f1&gt; is locked, and an error message is received when trying to open a project already opened in another instance of OmegaT.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210202T073836Z" creationid="suzume" creationdate="20210202T073836Z">
+        <seg>Par défaut, sous Windows, &lt;f1&gt;omegat.project&lt;/f1&gt; est verrouillé et un message d'erreur est reçu lors d'une tentative d'ouverture d'un projet déjà ouvert dans une autre instance d'OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22028,6 +22052,14 @@ know their rights.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For instance, if the project is EN-to-FR, &lt;f1&gt;alignDir&lt;/f1&gt; must contain a bundle ending with &lt;l2&gt;_fr&lt;/l2&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210202T073655Z" creationid="suzume" creationdate="20210202T073655Z">
+        <seg>Par exemple, si la paire de langues du projet est EN-&gt;FR, &lt;f1&gt;alignDir&lt;/f1&gt; doit contenir un paquet finissant par &lt;l2&gt;_fr&lt;/l2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For instance, plain text files.</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130415T090106Z">
@@ -24372,6 +24404,14 @@ sections when you distribute them as separate works.</seg>
         <seg>If &lt;l0&gt;abort &lt;/l0&gt;is selected, the tag validator will stop on the first invalid segment.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130527T151432Z">
+        <seg>Si &lt;l0&gt;abort&lt;/l0&gt; est sélectionné, le validateur de balises s'arrêtera au premier segment invalide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If &lt;l0&gt;abort&lt;/l0&gt; is selected, the tag validator will stop on the first invalid segment.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210202T073831Z" creationid="suzume" creationdate="20210202T073831Z">
         <seg>Si &lt;l0&gt;abort&lt;/l0&gt; est sélectionné, le validateur de balises s'arrêtera au premier segment invalide.</seg>
       </tuv>
     </tu>
@@ -36252,6 +36292,14 @@ install virtualenv</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Only the file &lt;f0&gt;test.html&lt;/f0&gt; in the folder &lt;f1&gt;dir-10&lt;/f1&gt; will be processed.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210202T073806Z" creationid="suzume" creationdate="20210202T073806Z">
+        <seg>Seul le fichier &lt;f0&gt;test.html&lt;/f0&gt; dans le dossier &lt;f1&gt;dir-10&lt;/f1&gt; sera traité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Only the file test.html at the root of the source folder will be translated.</seg>
       </tuv>
       <tuv lang="fr" changeid="brigitte" changedate="20130714T144941Z">
@@ -43902,8 +43950,8 @@ of the GPL, as needed to protect the freedom of users.</seg>
       <tuv lang="en">
         <seg>Some supported filters: ILIAS Language File, Java(TM) Resource Bundles, Key=Value Text, Magento CE Locale CSV, MoodlePHP, Mozilla DTD, Mozilla FTL, PO, RC, SubRip Subtitles, Windows Resources</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210202T073604Z" creationid="suzume" creationdate="20210202T073516Z">
-        <seg>Quelques filtres pris en charge : Fichier de langue ILIAS, Paquets de ressources Java, Texte clé=valeur, Localisation CSV Magento CE, MoodlePHP, Mozilla DTD, Mozilla FTL, PO, RC, SubRip Subtitles, Windows Resources</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210202T073640Z" creationid="suzume" creationdate="20210202T073516Z">
+        <seg>Quelques filtres pris en charge : Fichier de langue ILIAS, Paquets de ressources Java, Texte clé=valeur, Localisation CSV Magento CE, MoodlePHP, DTD Mozilla, FTL Mozilla, PO, RC, Sous-titres SubRip, Ressources Windows</seg>
       </tuv>
     </tu>
     <tu>
@@ -49517,6 +49565,14 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The resulting TMX is stored in the &lt;f3&gt;omegat&lt;/f3&gt; folder under the name &lt;f4&gt;align.tmx&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210202T073733Z" creationid="suzume" creationdate="20210202T073720Z">
+        <seg>Le TMX produit est stocké dans le dossier &lt;f3&gt;omegat&lt;/f3&gt; sous le nom &lt;f4&gt;align.tmx&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The resulting tmx is stored in the &lt;l1&gt;omegat &lt;/l1&gt;folder under the name &lt;f2&gt;align.tmx&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130506T072401Z">
@@ -49914,6 +49970,14 @@ making modifications to it.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130415T090450Z">
         <seg>Le texte source</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The sources of the current version can be retrieved with a Git client from the repository &lt;u0/&gt; or directly on &lt;u1&gt;SourceForge&lt;/u1&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210202T073959Z" creationid="suzume" creationdate="20210202T073959Z">
+        <seg>Les sources de la version actuelle peuvent être récupérées à l'aide d'un client Git à partir du dépôt &lt;u0/&gt; ou directement sur &lt;u1&gt;Sourceforge&lt;/u1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
