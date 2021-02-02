@@ -17553,6 +17553,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Detailed instructions on building are in the docs_devel &lt;u0&gt;readme&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210202T074546Z" creationid="suzume" creationdate="20210202T074437Z">
+        <seg>Les informations détaillées pour construire l'applicatif sont dans le fichier &lt;u0&gt;readme&lt;/u0&gt; do dossier docs_devel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Detailed technical discussion of changes is best conducted directly with OmegaT's developers.</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20170403T094623Z" creationid="briac" creationdate="20170403T094623Z">
@@ -36084,8 +36092,8 @@ kolteki later.</seg>
       <tuv lang="en">
         <seg>Once the code is downloaded, open a command in the source folder and type:</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210202T074300Z" creationid="suzume" creationdate="20210202T074300Z">
-        <seg>Une fois le code téléchargé, ouvrez un terminal dans le dossier du code source et </seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210202T074326Z" creationid="suzume" creationdate="20210202T074300Z">
+        <seg>Une fois le code téléchargé, ouvrez un terminal dans le dossier du code source et entrez la commande :</seg>
       </tuv>
     </tu>
     <tu>
@@ -52401,6 +52409,14 @@ be a consequence of the rest of this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This will create a full distribution of OmegaT in the &lt;f0&gt;./build/distributions&lt;/f0&gt; folder, where you will find a zip containing everything needed to run &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210202T074355Z" creationid="suzume" creationdate="20210202T074355Z">
+        <seg>Cela créera une distribution complète d'OmegaT dans le dossier &lt;f0&gt;./build/distributions&lt;/f0&gt; dans lequel vous trouverez tous les fichiers nécessaires à l'exécution d'&lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This will create an &lt;f0&gt;omegat/&lt;/f0&gt; folder in the working folder in which you will find all the files needed to run &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210110T122720Z" creationid="suzume" creationdate="20210110T122720Z">
@@ -58583,6 +58599,14 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20200126T091643Z" creationid="suzume" creationdate="20200126T091643Z">
         <seg>Vous également pouvez faire glisser le fichier OmegaT.exe dans le menu démarrer, sur le bureau ou dans la zone de lancement rapide afin d'y créer un raccourci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also run directly the application with the following command:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210202T074417Z" creationid="suzume" creationdate="20210202T074417Z">
+        <seg>Vous pouvez également lancer directement l'application avec la commande suivante :</seg>
       </tuv>
     </tu>
     <tu>
