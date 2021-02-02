@@ -25045,6 +25045,14 @@ tous les paramètres reprendront leur valeur par défaut,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If several translation engines are selected, then &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; is also used to switch between them and insert the last one selected.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210202T122241Z" creationid="suzume" creationdate="20210202T122207Z">
+        <seg>Si plusiers moteurs de traduction sont slélectionnés, &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;M&lt;/k2&gt;&lt;/k0&gt; est également utilisé pour passer de l'un à l'autre et insérer le moteur sélectionné en dernier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If some texts are selected within the fuzzy match, only this selection will be inserted at the cursor position.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160322T170549Z" creationid="Didier" creationdate="20160322T170549Z">
@@ -36703,6 +36711,14 @@ happen should you file a bug report.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Opens the &lt;l0&gt;File Filters&lt;/l0&gt; options in the Preferences dialog.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210202T122350Z" creationid="suzume" creationdate="20210202T122350Z">
+        <seg>Ouvre l'option &lt;l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Opens the &lt;l0&gt;Preferences&lt;/l0&gt; dialog.</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20200724T173234Z" creationid="briac" creationdate="20200724T173234Z">
@@ -42571,6 +42587,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130326T170849Z">
         <seg>Choisir la correspondance &amp;précédente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select &lt;g0&gt;Taas Terminology Lookup&lt;/g0&gt; to activate this lookup.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210202T122332Z" creationid="suzume" creationdate="20210202T122258Z">
+        <seg>Sélectionner &lt;g0&gt;Recherche de terminologie TAAS&lt;/g0&gt; pour activer cette recherche.</seg>
       </tuv>
     </tu>
     <tu>
