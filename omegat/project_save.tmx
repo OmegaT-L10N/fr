@@ -27517,6 +27517,14 @@ patent against the party.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In this mode, OmegaT will align files found in the &lt;f0&gt;/source/&lt;/f0&gt; folder of the project with the contents found at the specified location.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210202T073334Z" creationid="suzume" creationdate="20210202T073334Z">
+        <seg>Dans ce mode, OmegaT aligne les fichiers de propriétés Java trouvés dans le dossier &lt;f0&gt;/source/ &lt;/f0&gt; du projet sur le contenu présent à un emplacement spécifié.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In this mode, OmegaT will align the Java properties files found in the&lt;l0&gt; /source/ &lt;/l0&gt;folder of the project to the contents found at the specified location.</seg>
       </tuv>
       <tuv lang="fr" changeid="brigitte" changedate="20130714T133756Z">
@@ -43892,6 +43900,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Some supported filters: ILIAS Language File, Java(TM) Resource Bundles, Key=Value Text, Magento CE Locale CSV, MoodlePHP, Mozilla DTD, Mozilla FTL, PO, RC, SubRip Subtitles, Windows Resources</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210202T073604Z" creationid="suzume" creationdate="20210202T073516Z">
+        <seg>Quelques filtres pris en charge : Fichier de langue ILIAS, Paquets de ressources Java, Texte clé=valeur, Localisation CSV Magento CE, MoodlePHP, Mozilla DTD, Mozilla FTL, PO, RC, SubRip Subtitles, Windows Resources</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Some tag manipulations are necessary and are benign, others will cause problems when the translated document is created.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130502T073427Z">
@@ -57349,6 +57365,14 @@ for which you have or can give appropriate copyright permission.</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130418T225853Z">
         <seg>La validité de ce qui précède dépend de ce que fait le Programme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Which files are used for alignment depends on if the file filter supports it.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210202T073458Z" creationid="suzume" creationdate="20210202T073458Z">
+        <seg>Les fichiers utilisés pour l'alignement sont ceux pris en charge par les filtres.</seg>
       </tuv>
     </tu>
     <tu>
