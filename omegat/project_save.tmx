@@ -36711,10 +36711,18 @@ happen should you file a bug report.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Opens the &lt;l0&gt;Editor&lt;/l0&gt; options in the Preferences dialog.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210202T122539Z" creationid="suzume" creationdate="20210202T122539Z">
+        <seg>Ouvre l'option &lt;l0&gt;Éditeur&lt;/l0&gt; dans le dialogue des préférences.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Opens the &lt;l0&gt;File Filters&lt;/l0&gt; options in the Preferences dialog.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210202T122350Z" creationid="suzume" creationdate="20210202T122350Z">
-        <seg>Ouvre l'option &lt;l0&gt;</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210202T122500Z" creationid="suzume" creationdate="20210202T122350Z">
+        <seg>Ouvre l'option &lt;l0&gt;Filtres de fichiers&lt;/l0&gt; dans le dialogue des préférences.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36723,6 +36731,14 @@ happen should you file a bug report.</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20200724T173234Z" creationid="briac" creationdate="20200724T173234Z">
         <seg>Ouvre le dialogue des &lt;l0&gt;préférences&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Opens the &lt;l0&gt;Segmentation Setup&lt;/l0&gt; options in the Preferences dialog.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210202T122525Z" creationid="suzume" creationdate="20210202T122457Z">
+        <seg>Ouvre l'option &lt;l0&gt;Configuration de la segmentation&lt;/l0&gt; dans le dialogue des préférences.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36739,6 +36755,14 @@ happen should you file a bug report.</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130421T233601Z">
         <seg>Ouvre la fenêtre de validation des balises.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Opens the local directory where OmegaT configuration files are stored (depends on the Operating system).</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210202T122615Z" creationid="suzume" creationdate="20210202T122615Z">
+        <seg>Ouvre le dossier local où les fichiers de configuration d'OmegaT sont stockées (son emplacement dépend du système d'exploitation).</seg>
       </tuv>
     </tu>
     <tu>
@@ -50936,6 +50960,14 @@ distribute copies of the software, or if you modify it.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130503T075815Z">
         <seg>Certaines responsabilités vous incombent en raison de ces limitations si vous distribuez des copies de ces logiciels, ou si vous les modifiez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These settings apply to OmegaT level, to all projects.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210202T122448Z" creationid="suzume" creationdate="20210202T122448Z">
+        <seg>Ces paramètres s'appliquent au niveau global, à tous les projets.</seg>
       </tuv>
     </tu>
     <tu>
