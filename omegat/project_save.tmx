@@ -16439,6 +16439,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Creates the target documents based on your translation.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210203T153855Z" creationid="suzume" creationdate="20210203T153855Z">
+        <seg>Crée les documents cible sur la base de votre traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Creates the translated documents in the project's Target folder and creates translation memory files (level1, level2 and omegat tmx files) in the project's root folder.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130527T153312Z">
@@ -22413,6 +22421,14 @@ authors of previous versions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Four types of issues are detected:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210203T154129Z" creationid="suzume" creationdate="20210203T154129Z">
+        <seg>Il détecte quatre types de problèmes :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Fragment(s) that should be removed from the translation regular expression</seg>
       </tuv>
       <tuv lang="fr" changeid="jchelary" changedate="20130526T122429Z">
@@ -22836,6 +22852,14 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20141202T175643Z" creationid="Didier" creationdate="20141202T175643Z">
         <seg>Donner accès au cinq derniers projets modifiés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Give access to the ten last edited projects.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210203T153640Z" creationid="suzume" creationdate="20210203T153640Z">
+        <seg>Donner accès au dix derniers projets modifiés.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36735,6 +36759,14 @@ happen should you file a bug report.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Opens the &lt;l0&gt;Project files window&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210203T154025Z" creationid="suzume" creationdate="20210203T153909Z">
+        <seg>Ouvre la fenêtre &lt;l0&gt;Fichiers du projet&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Opens the &lt;l0&gt;Segmentation Setup&lt;/l0&gt; options in the Preferences dialog.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210202T122525Z" creationid="suzume" creationdate="20210202T122457Z">
@@ -39321,6 +39353,14 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Quality assurance tool that carries out all the automatic checks in one go and displays the results in a window.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210203T154105Z" creationid="suzume" creationdate="20210203T154105Z">
+        <seg>Outils d'assurance de qualité qui effectue toutes les vérifications automatiques en une fois et affiche les résultats dans une fenêtre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>QuarkXPress CopyFlow Gold</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130531T094019Z">
@@ -39800,6 +39840,14 @@ ces mots : « pas de page »...</seg>
       </tuv>
       <tuv lang="fr" changeid="laurieetclémentine" changedate="20130411T133448Z">
         <seg>Recharger</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Reloads the project to take external changes in source files and project settings into account.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210203T153701Z" creationid="suzume" creationdate="20210203T153701Z">
+        <seg>Recharge le projet pour prendre en compte les changements extérieurs affectant les fichiers sources et les paramètres du projet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42062,6 +42110,14 @@ La recherche port par défaut sur le projet, et peut porter sur tout fichier sit
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130527T130100Z">
         <seg>Voir &lt;l0&gt;Annexe Personnalisation des raccourcis&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See &lt;l0&gt;How to use a team project&lt;/l0&gt; for details.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210203T153630Z" creationid="suzume" creationdate="20210203T153630Z">
+        <seg>Voir &lt;l0&gt;Utiliser un projet en équipe&lt;/l0&gt; pour en savoir plus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51729,6 +51785,14 @@ under the terms of this General Public License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This function is specific to team projects.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210203T153802Z" creationid="suzume" creationdate="20210203T153802Z">
+        <seg>Cette fonction est spécifique aux projets en équipe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This hands-off approach is described by the current OmegaT project co-ordinator as "delegated anarchy".</seg>
       </tuv>
       <tuv lang="fr">
@@ -55293,6 +55357,22 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20120708T144836Z">
         <seg>L'écriture a été désactivée parce que le référentiel est en mode lecture seule</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Uploads to the repository the files that have been added or modified locally in the &lt;f0&gt;source&lt;/f0&gt; directory.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210203T153831Z" creationid="suzume" creationdate="20210203T153748Z">
+        <seg>Envoie au dépôt les fichiers qui ont été ajoutés ou modifiés localement dans le dossier &lt;f0&gt;source&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Uploads to the repository the files that have been created locally in the &lt;f0&gt;target&lt;/f0&gt; directory.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210203T153825Z" creationid="suzume" creationdate="20210203T153825Z">
+        <seg>Envoie au dépôt les fichiers qui ont été créés localement dans le dossier &lt;f0&gt;target&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
