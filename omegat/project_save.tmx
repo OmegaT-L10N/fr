@@ -28936,6 +28936,14 @@ implemented by public license practices.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is possible to modify the sort order of the three percentages but not which is used to select the fuzzy matches.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210204T064314Z" creationid="suzume" creationdate="20210204T064314Z">
+        <seg>Il est possible de modifier l'ordre des trois pourcentages, mais pas de modifier celui qui est utilisé pour les correspondances partielles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is possible to move from one pane to another (for instance, from the Editor to the Fuzzy Matches pane) using &lt;k0&gt;Ctrl+Tab&lt;/k0&gt;.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20141202T170816Z" creationid="Didier" creationdate="20141202T170816Z">
@@ -60702,6 +60710,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>and ignoring tags and numbers (generally the highest)</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210204T064108Z" creationid="suzume" creationdate="20210204T064108Z">
+        <seg>et sans les balises ni les nombres (en général le pourcentage le plus haut)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>and many, many more very helpful people</seg>
       </tuv>
       <tuv lang="fr">
@@ -66951,6 +66967,22 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210110T132711Z" creationid="suzume" creationdate="20210110T132711Z">
         <seg>le pourcentage calculé avec lemmatisation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the percentage calculated with the full text, including tags and numbers (generally the lowest)</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210204T064226Z" creationid="suzume" creationdate="20210204T064226Z">
+        <seg>le pourcentage calculé avec le texte complet, y compris les balises et nombres (en général le plus bas)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the percentage calculated without stemming and still ignoring tags and numbers (generally slightly lower)</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210204T064147Z" creationid="suzume" creationdate="20210204T064147Z">
+        <seg>le pourcentage calculé sans lemmatisation, sans balises ni nombres (en général légèrement inférieur)</seg>
       </tuv>
     </tu>
     <tu>
