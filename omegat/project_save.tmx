@@ -12221,6 +12221,14 @@ provoquer des comportements inattendus, mais corrects.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>At the bottom of the window, right-click on a free number and select &lt;g0&gt;Add Script&lt;/g0&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210204T030014Z" creationid="suzume" creationdate="20210204T030004Z">
+        <seg>Faites un clic-droit sur un numéro libre au bas de la fenêtre et choisissez &lt;g0&gt;Ajouter le script&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>At the end of your translation, OmegaT exports three translation memories called "level1", "level2" and "omegat" to your project folder.</seg>
       </tuv>
       <tuv lang="fr" changeid="briglegrand" changedate="20120502T113849Z">
@@ -43095,6 +43103,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select the script you want from the list on the left</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210204T025933Z" creationid="suzume" creationdate="20210204T025933Z">
+        <seg>Sélectionnez le script à associer dans la liste à gauche</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select the two files to be aligned (the source file and its translation) and click OK to open the &lt;l0&gt;&lt;g1&gt;Align&lt;/g1&gt; window&lt;/l0&gt;.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210204T015135Z" creationid="suzume" creationdate="20210204T015135Z">
@@ -52304,6 +52320,14 @@ this version will not interfere with it.</seg>
       </tuv>
       <tuv lang="fr" changeid="brigitte" changedate="20130715T192948Z">
         <seg>Cependant, ce guide n'aurait pas pu voir le jour sans l'aide et le soutien d'un grand nombre de personnes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This marking has priority over &lt;g0&gt;Mark Translated Segments&lt;/g0&gt; and &lt;g1&gt;Mark Untranslated Segments&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210204T030016Z" creationid="suzume" creationdate="20210204T030016Z">
+        <seg>[参考] OmegaT marque en priorité les segments traduits et les segments non traduits.</seg>
       </tuv>
     </tu>
     <tu>
