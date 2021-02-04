@@ -52970,6 +52970,14 @@ file type is associated with Java on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This window is displayed automatically when OmegaT loads a project, and at any time by pressing &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Project Files...&lt;/g2&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210204T130950Z" creationid="suzume" creationdate="20210204T130926Z">
+        <seg>Cette fenêtre s'affiche automatiquement lorsqu'OmegaT charge un projet et à fois que l'on sélectionne &lt;m0&gt; &lt;g1&gt;Projet&lt;/g1&gt; &lt;g2&gt;&lt;/g2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This works even if the keys are not in the same order in the two files, and/or if the two files do not contain the same amount of information.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210204T075012Z" creationid="suzume" creationdate="20210204T075012Z">
@@ -57655,8 +57663,8 @@ add Python to your Path.</seg>
       <tuv lang="en">
         <seg>When the two columns are sufficiently aligned, click &lt;g0&gt;Save TMX...&lt;/g0&gt; to create the resulting translation memory.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210204T130813Z" creationid="suzume" creationdate="20210204T130813Z">
-        <seg>Quand les deux colonnes sont suffisament alignées, cliquez sur &lt;g0&gt;&lt;/g0&gt; pour créer la mémoire de traduction résultante.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210204T130825Z" creationid="suzume" creationdate="20210204T130813Z">
+        <seg>Quand les deux colonnes sont suffisament alignées, cliquez sur &lt;g0&gt;Enregistrer la TMX...&lt;/g0&gt; pour créer la mémoire de traduction résultante.</seg>
       </tuv>
     </tu>
     <tu>
