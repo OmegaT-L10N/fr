@@ -26834,10 +26834,26 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In &lt;g0&gt;Heapwise&lt;/g0&gt; mode, the texts are evaluated globally.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210204T073913Z" creationid="suzume" creationdate="20210204T073847Z">
+        <seg>En mode &lt;g0&gt;Globale&lt;/g0&gt;, les textes sont évalués dans leur ensemble.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In &lt;g0&gt;Options &gt; External TMXs&lt;/g0&gt;, a number of variables allow to configure the display of the match pane:</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
         <seg>Dans &lt;g0&gt;Options &gt; TMX externes...&lt;/g0&gt;, un certain nombre de variables permettent de configurer l'affichage du volet correspondances :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In &lt;g1&gt;Parsewise&lt;/g1&gt; mode, they are evaluated segment by segment.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210204T073947Z" creationid="suzume" creationdate="20210204T073922Z">
+        <seg>En more &lt;g1&gt;Par segments&lt;/g1&gt;, ils sont évalués segment par segment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55797,6 +55813,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130507T123759Z">
         <seg>Utilisez &lt;g0&gt;Ctrl+L&lt;i1/&gt;&lt;/g0&gt; pour ouvrir cette fenêtre et &lt;k2&gt;Echap&lt;/k2&gt; pour la fermer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;g0&gt;ID comparison&lt;/g0&gt; mode to align Key=Value texts.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210204T074207Z" creationid="suzume" creationdate="20210204T074207Z">
+        <seg>Utilisez le mode &lt;g0&gt;</seg>
       </tuv>
     </tu>
     <tu>
