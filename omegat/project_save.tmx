@@ -12069,6 +12069,14 @@ provoquer des comportements inattendus, mais corrects.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As above, but only for the document currently displayed in the Editor pane.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210204T014204Z" creationid="suzume" creationdate="20210204T014204Z">
+        <seg>Comme ci-dessus, mais seulement pour le document actif dans le volet Éditeur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As above.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210129T104335Z" creationid="suzume" creationdate="20210129T104335Z">
@@ -14043,6 +14051,14 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160926T150332Z" creationid="Didier" creationdate="20160926T143228Z">
         <seg>Afficher les erreurs pour le &amp;document actuel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check Issues for Current Document</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210204T014131Z" creationid="suzume" creationdate="20210204T014131Z">
+        <seg>Afficher les erreurs pour le document actuel</seg>
       </tuv>
     </tu>
     <tu>
@@ -18151,6 +18167,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z" creationid="Didier" creationdate="20141202T211936Z">
         <seg>Affiche les Statistiques des correspondances pour chaque fichier du projet : le nombre de répétitions, de correspondances exactes, de correspondances partielles et d'absences de correspondances pour les segments, les mots et les caractères.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Displays the Match Statistics for the project: the number of repetitions, exact matches, fuzzy matches and no-matches for segments, words and characters.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210204T015006Z" creationid="suzume" creationdate="20210204T015006Z">
+        <seg>Affiche les Statistiques des correspondances du projet : le nombre de répétitions, de correspondances exactes, de correspondances partielles et d'absences de correspondances pour les segments, les mots et les caractères.</seg>
       </tuv>
     </tu>
     <tu>
