@@ -10595,6 +10595,14 @@ this License without regard to the additional permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>After the automatic process, the alignment of two files generally requires manual corrections.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210204T075302Z" creationid="suzume" creationdate="20210204T075302Z">
+        <seg>Après le traitement automatique, l'alignement des deux fichiers va en général demander des corrections manuelles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>After the initial installation you can, of course, also use &lt;e5&gt;&lt;a6&gt;OmegaT&lt;/a6&gt;.jnlp&lt;/e5&gt; also when you are offline.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130502T125603Z">
@@ -14568,6 +14576,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Choose the one that provides the best results.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210204T075205Z" creationid="suzume" creationdate="20210204T075205Z">
+        <seg>Choisissez celui qui fournit les meilleurs résultats.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Choose...</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160427T153832Z" creationid="Didier" creationdate="20160427T153832Z">
@@ -14676,6 +14692,14 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20141202T215408Z" creationid="Didier" creationdate="20141202T215305Z">
         <seg>Cliquez sur &lt;e2&gt;Remplacer suivant&lt;/e2&gt; ou &lt;e3&gt;Ignorer&lt;/e3&gt;, puis mettez un terme à la session de remplacement avec &lt;e4&gt;Terminer&lt;/e4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;g0&gt;Continue&lt;/g0&gt; to access the next step.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210204T075232Z" creationid="suzume" creationdate="20210204T075232Z">
+        <seg>CLiquez sur &lt;g0&gt;Continuer&lt;/g0&gt; pour passer à l'étape suivante.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38663,6 +38687,14 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Press the space bar (shortcut for &lt;m0&gt; &lt;g1&gt;Edit&lt;/g1&gt; &lt;g2&gt;Start Pinpoint Align&lt;/g2&gt; &lt;/m0&gt;).</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210204T075423Z" creationid="suzume" creationdate="20210204T075423Z">
+        <seg>Pressez la barre d'espace (raccourci pour &lt;m0&gt; &lt;g1&gt;Edit&lt;/g1&gt; &lt;g2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Pressing &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;F&lt;/k3&gt; &lt;/k0&gt; displays the last already opened Search window (instead of opening a new one).</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160718T155012Z" creationid="Didier" creationdate="20160718T155012Z">
@@ -43167,6 +43199,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select the first segment.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210204T075355Z" creationid="suzume" creationdate="20210204T075355Z">
+        <seg>Sélectionnez le premier segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select the location of the language checker.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20201203T090848Z" creationid="suzume" creationdate="20201203T090848Z">
@@ -47075,8 +47115,8 @@ form of a work.</seg>
       <tuv lang="en">
         <seg>The &lt;g0&gt;Viterbi&lt;/g0&gt; and &lt;g1&gt;Forward-Backward&lt;/g1&gt; algorithms are two different calculation methods.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210204T075120Z" creationid="suzume" creationdate="20210204T075120Z">
-        <seg>Les algorithmes &lt;g0&gt;Viterbi&lt;/g0&gt; et &lt;g1&gt;</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210204T075144Z" creationid="suzume" creationdate="20210204T075120Z">
+        <seg>Les algorithmes &lt;g0&gt;Viterbi&lt;/g0&gt; et &lt;g1&gt;Avant-Arrière&lt;/g1&gt; sont deux manières de calcul différentes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53159,6 +53199,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To align two segments on the same line:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210204T075346Z" creationid="suzume" creationdate="20210204T075346Z">
+        <seg>Pour aligner deux segments sur la même ligne :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To associate a script with a number:</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210204T025800Z" creationid="suzume" creationdate="20210204T025800Z">
@@ -54765,6 +54813,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="fr">
         <seg>Variante d'unité de traduction trouvée en dehors d'une unité de traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translation units are located in cells in the two last columns.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210204T075326Z" creationid="suzume" creationdate="20210204T075326Z">
+        <seg>Les unités de traductions sont placées dans des cellules des deux dernières colonnes.</seg>
       </tuv>
     </tu>
     <tu>
