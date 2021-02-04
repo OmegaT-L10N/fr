@@ -174,6 +174,14 @@ License. Each licensee is addressed as "you". "Licensees" and
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>#</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210204T133940Z" creationid="suzume" creationdate="20210204T133940Z">
+        <seg>#</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg># MyMemory email</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160718T161748Z" creationid="Didier" creationdate="20160718T161748Z">
@@ -9240,6 +9248,30 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;&lt;s1&gt;Close:&lt;/s1&gt;&lt;/s0&gt; close the window without any change.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210204T133937Z" creationid="suzume" creationdate="20210204T133937Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;Fermer :&lt;/s1&gt;&lt;/s0&gt; ferme la fenêtre sans aucune modification.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s0&gt;&lt;s1&gt;Replace All:&lt;/s1&gt;&lt;/s0&gt; operates replacement of all occurrences (after displaying a confirmation window where the number of occurrences is shown).</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210204T133828Z" creationid="suzume" creationdate="20210204T133828Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;Remplacer tout :&lt;/s1&gt;&lt;/s0&gt; effectue le remplacement de toutes les occurrences (après l'affichage d'une fenêtre de confirmation où le nombre d'occurrences est affiché).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s0&gt;&lt;s1&gt;Replace:&lt;/s1&gt;&lt;/s0&gt; operates a "one by one" replacement, by the mean of buttons in the &lt;s2&gt;&lt;s3&gt;header of the Editor pane&lt;/s3&gt;&lt;/s2&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210204T133901Z" creationid="suzume" creationdate="20210204T133832Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;Remplacer :&lt;/s1&gt;&lt;/s0&gt; effectue les remplacements les uns après les autres, à l'aide de boutons dans l'&lt;s2&gt;&lt;s3&gt;en-tête de l'Éditeur&lt;/s3&gt;&lt;/s2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;Linux users&lt;/s0&gt;: most Linux distributions are supplied with a Java Runtime Environment, but some open-source implementations do not work properly with OmegaT (although this may not be immediately apparent).</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20170911T161451Z" creationid="briac" creationdate="20170911T161451Z">
@@ -14784,6 +14816,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Click &lt;s4&gt;&lt;e5&gt;Replace Next&lt;/e5&gt;&lt;/s4&gt; or &lt;s6&gt;&lt;e7&gt;Skip&lt;/e7&gt;&lt;/s6&gt;, then end the replacement session with &lt;s8&gt;&lt;e9&gt;Finish&lt;/e9&gt;&lt;/s8&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210204T133927Z" creationid="suzume" creationdate="20210204T133927Z">
+        <seg>Cliquez sur &lt;s4&gt;&lt;e5&gt;Remplacer suivant&lt;/e5&gt;&lt;/s4&gt; ou &lt;s6&gt;&lt;e7&gt;Ignorer&lt;/e7&gt;&lt;/s6&gt;, puis mettez un terme à la session de remplacement avec &lt;s8&gt;&lt;e9&gt;Terminer&lt;/e9&gt;&lt;/s8&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Click in the other column on the translation corresponding to the first segment.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210204T075512Z" creationid="suzume" creationdate="20210204T075512Z">
@@ -20038,6 +20078,14 @@ pas de page...</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enter the new word or phrase (regular expressions are not supported) in the &lt;s0&gt;&lt;e1&gt;Replace with&lt;/e1&gt;&lt;/s0&gt; box, then click one of the following options:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210204T133817Z" creationid="suzume" creationdate="20210204T133817Z">
+        <seg>Entrez le nouveau mot ou la nouvelle expression (les expressions régulières ne sont pas prises en charge) dans la case &lt;s0&gt;&lt;e1&gt;Remplacer par&lt;/e1&gt;&lt;/s0&gt;, puis cliquez sur l'une des options suivantes :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enter the segment number:</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
@@ -20615,6 +20663,14 @@ The FSF strongly urges you not to use this translation as the official distribu-
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z" creationid="Didier" creationdate="20141202T215552Z">
         <seg>Exceptée celle-ci : cochez&lt;e0&gt;Non traduits&lt;/e0&gt; pour effectuer une recherche et remplacement également sur les segments qui ne sont pas encore traduits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Except one: check &lt;s0&gt;&lt;s1&gt;Untranslated&lt;/s1&gt;&lt;/s0&gt; in order to operate Search and replace also on segments that have not been translated yet.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210204T134019Z" creationid="suzume" creationdate="20210204T134019Z">
+        <seg>Exceptée celle-ci : cochez &lt;s0&gt;&lt;s1&gt;Non traduits&lt;/s1&gt;&lt;/s0&gt; pour effectuer une recherche et remplacement également sur les segments qui ne sont pas encore traduits.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42274,6 +42330,14 @@ La recherche port par défaut sur le projet, et peut porter sur tout fichier sit
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Search options are similar to the ones displayed in &lt;a0&gt;Search window&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210204T134002Z" creationid="suzume" creationdate="20210204T134002Z">
+        <seg>Les options de recherche sont similaires à celles affichées dans la &lt;a0&gt;fenêtre de Recherche&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Search options are similar to the ones displayed in &lt;l0&gt;Search window&lt;/l0&gt;.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20141202T215454Z" creationid="Didier" creationdate="20141202T215454Z">
@@ -51134,6 +51198,14 @@ the [Help] menu after starting OmegaT.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20141202T214906Z" creationid="Didier" creationdate="20141202T214906Z">
         <seg>Cliquez ensuite sur le bouton &lt;e0&gt;Rechercher&lt;/e0&gt; pour afficher toutes les occurrences correspondantes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Then click on &lt;s0&gt;&lt;e1&gt;Search&lt;/e1&gt;&lt;/s0&gt; button to display all the corresponding occurrences.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210204T133802Z" creationid="suzume" creationdate="20210204T133802Z">
+        <seg>Cliquez ensuite sur le bouton &lt;s0&gt;&lt;e1&gt;Rechercher&lt;/e1&gt;&lt;/s0&gt; pour afficher toutes les occurrences correspondantes.</seg>
       </tuv>
     </tu>
     <tu>
