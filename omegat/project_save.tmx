@@ -47073,6 +47073,14 @@ form of a work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;g0&gt;Viterbi&lt;/g0&gt; and &lt;g1&gt;Forward-Backward&lt;/g1&gt; algorithms are two different calculation methods.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210204T075120Z" creationid="suzume" creationdate="20210204T075120Z">
+        <seg>Les algorithmes &lt;g0&gt;Viterbi&lt;/g0&gt; et &lt;g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;g1&gt;Tag Issues&lt;/g1&gt; option is always selected.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210204T011917Z" creationid="suzume" creationdate="20210204T011855Z">
@@ -52580,6 +52588,14 @@ this version will not interfere with it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This option only appears if both the selected files are recognised as Key=Value files.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210204T075050Z" creationid="suzume" creationdate="20210204T075050Z">
+        <seg>Cette option n'apparait que si les deux fichiers sélectionnés sont reconnus comme étant de la forme Clé=Valeur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This package can be used on any platform where a Java 1.5 JRE compatible JRE is installed.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130528T131804Z">
@@ -52886,6 +52902,14 @@ file type is associated with Java on your system.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210110T133446Z" creationid="suzume" creationdate="20210110T133424Z">
         <seg>Cette fenêtre peut être ouverte en sélectionnant &lt;m0&gt; &lt;g1&gt;Outils&lt;/g1&gt; &lt;g2&gt;Scripts...&lt;/g2&gt; &lt;/m0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This works even if the keys are not in the same order in the two files, and/or if the two files do not contain the same amount of information.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210204T075012Z" creationid="suzume" creationdate="20210204T075012Z">
+        <seg>Ceci fonction même si les clés ne sont pas dans le même ordre dans les deux fichiers, et si même si les fichiers ne contiennent pas le même contenu d'information.</seg>
       </tuv>
     </tu>
     <tu>
