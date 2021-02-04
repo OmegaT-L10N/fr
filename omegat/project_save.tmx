@@ -9112,6 +9112,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;r0&gt;Note:&lt;/r0&gt; it is possible to inhibit the window displaying at opening, by setting &lt;e1&gt;project_files_show_on_load&lt;/e1&gt; to &lt;e2&gt;false&lt;/e2&gt; in &lt;f3&gt;omegat.prefs&lt;/f3&gt; file (accessible by &lt;m4&gt; &lt;g5&gt;Options&lt;/g5&gt; &lt;g6&gt;Access Configuration Folder&lt;/g6&gt; &lt;/m4&gt; menu).</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210204T132959Z" creationid="suzume" creationdate="20210204T132959Z">
+        <seg>&lt;r0&gt;Note :&lt;/r0&gt; il est possible d'empêcher cette fenêtre des Fichiers du projet de s'afficher, en définissant &lt;e1&gt;project_files_show_on_load&lt;/e1&gt; à &lt;e2&gt;false&lt;/e2&gt; dans le fichier &lt;f3&gt;omegat.prefs&lt;/f3&gt; (accessible par le menu &lt;m4&gt;Options&lt;g5&gt; &lt;/g5&gt;Accéder au dossier de configuration&lt;g6&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;r0&gt;Note:&lt;/r0&gt; it is possible to inhibit this Project Files window displaying, by setting &lt;e1&gt;project_files_show_on_load&lt;/e1&gt; to &lt;e2&gt;false&lt;/e2&gt; in &lt;f3&gt;omegat.prefs&lt;/f3&gt; file (accessible by Options / Access Configuration Folder menu).</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z" creationid="Didier" creationdate="20160323T093920Z">
@@ -52972,8 +52980,8 @@ file type is associated with Java on your system.</seg>
       <tuv lang="en">
         <seg>This window is displayed automatically when OmegaT loads a project, and at any time by pressing &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Project Files...&lt;/g2&gt; &lt;/m0&gt;.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210204T130950Z" creationid="suzume" creationdate="20210204T130926Z">
-        <seg>Cette fenêtre s'affiche automatiquement lorsqu'OmegaT charge un projet et à fois que l'on sélectionne &lt;m0&gt; &lt;g1&gt;Projet&lt;/g1&gt; &lt;g2&gt;&lt;/g2&gt;</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210204T131004Z" creationid="suzume" creationdate="20210204T130926Z">
+        <seg>Cette fenêtre s'affiche automatiquement lorsqu'OmegaT charge un projet et à fois que l'on sélectionne &lt;m0&gt; &lt;g1&gt;Projet&lt;/g1&gt; &lt;g2&gt;Fichiers du projet...&lt;/g2&gt; &lt;/m0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
