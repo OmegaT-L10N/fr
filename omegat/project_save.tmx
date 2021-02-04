@@ -47863,6 +47863,14 @@ shown below.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The colours are displayed as long as the &lt;l1&gt;&lt;g2&gt;Save auto-populated status&lt;/g2&gt;&lt;/l1&gt; option is checked.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210204T064020Z" creationid="suzume" creationdate="20210204T064020Z">
+        <seg>Les couleurs sont affichées si l'option &lt;l1&gt;&lt;g2&gt;Enregistrer l'état des traductions issues du dossier auto&lt;/g2&gt;&lt;/l1&gt; est cochée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The command must include "{target}", which will be replaced with the search text.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20170106T154815Z" creationid="Didier" creationdate="20170106T154815Z">
@@ -52326,8 +52334,8 @@ this version will not interfere with it.</seg>
       <tuv lang="en">
         <seg>This marking has priority over &lt;g0&gt;Mark Translated Segments&lt;/g0&gt; and &lt;g1&gt;Mark Untranslated Segments&lt;/g1&gt;.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210204T030016Z" creationid="suzume" creationdate="20210204T030016Z">
-        <seg>[参考] OmegaT marque en priorité les segments traduits et les segments non traduits.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210204T043243Z" creationid="suzume" creationdate="20210204T043204Z">
+        <seg>Ce marquage a la priorité sur &lt;g0&gt;Marquer les segments traduits&lt;/g0&gt; et &lt;g1&gt;Marquer les segments non traduits&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
