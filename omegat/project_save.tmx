@@ -4746,6 +4746,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Adding files to the project: &lt;/e0&gt;You can add source files to the project by clicking on the "&lt;g1&gt;Import Source Files..."&lt;/g1&gt; button.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210204T133220Z" creationid="suzume" creationdate="20210204T133220Z">
+        <seg>&lt;e0&gt;Ajouter des fichiers au projet : &lt;/e0&gt;Il est possible d'ajouter des fichiers source au projet en cliquant sur « &lt;g1&gt;Importer des fichiers source...&lt;/g1&gt; ».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Aggregate tags&lt;/e0&gt;: if checked, tags with no translatable text between them will be aggregated into a single tag.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20201203T062236Z" creationid="suzume" creationdate="20201203T062236Z">
@@ -31019,6 +31027,14 @@ automatically download and install it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Load a script into the editor by clicking its name in the list in the left-hand panel.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210204T133314Z" creationid="suzume" creationdate="20210204T133314Z">
+        <seg>Chargez un script dans le volet d'édition en cliquant sur son nom dans la liste qui apparaît dans le panneau de gauche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Load a script into the editor by clicking on its name in the list on the left panel.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130412T090142Z">
@@ -41106,6 +41122,14 @@ ces mots : « pas de page »...</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130416T175323Z">
         <seg>Les langues qui se lisent de droite à gauche</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click a button from &lt;g0&gt;&lt;1&gt;&lt;/g0&gt; to &lt;g1&gt;&lt;12&gt;&lt;/g1&gt; in the bottom panel and select &lt;g2&gt;Add Script&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210204T133400Z" creationid="suzume" creationdate="20210204T133347Z">
+        <seg>Faites un clic droit sur un des boutons allant de &lt;g0&gt;&lt;1&gt;&lt;/g0&gt; à &lt;g1&gt;&lt;12&gt;&lt;/g1&gt; dans le panneau inférieur et sélectionnez &lt;g2&gt;Ajouter le script&lt;/g2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51889,6 +51913,14 @@ under the terms of this General Public License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This copies the selected files to the &lt;f2&gt;source&lt;/f2&gt; folder and reloads the project to import the new files.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210204T133230Z" creationid="suzume" creationdate="20210204T133230Z">
+        <seg>Ceci copie les fichiers sélectionnés dans le dossier &lt;f2&gt;source&lt;/f2&gt; et recharge le projet pour importer les nouveaux fichiers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This copies the selected files to the &lt;f3&gt;source&lt;/f3&gt; folder and reloads the project to import the new files.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130507T125432Z">
@@ -55035,6 +55067,14 @@ Les recherches exactes correspondent à l'ensemble de la chaîne recherchée.</s
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Typing any text will open a &lt;g0&gt;Filter&lt;/g0&gt; field where parts of filenames can be entered.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210204T133116Z" creationid="suzume" creationdate="20210204T133116Z">
+        <seg>Taper un texte quelconque ouvrira un champ de &lt;g0&gt;filtrage&lt;/g0&gt; dans lequel il est possible d'entrer des noms de fichiers partiels.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Typing any text will open a Filter field where parts of filenames can be entered.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160323T094007Z" creationid="Didier" creationdate="20160323T094007Z">
@@ -57921,6 +57961,14 @@ for which you have or can give appropriate copyright permission.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When you left-click the number, the selected script will run.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210204T133404Z" creationid="suzume" creationdate="20210204T133404Z">
+        <seg>Un clic gauche sur un des chiffres lance le script sélectionné correspondant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When you let OmegaT know the files that you need to translate, it looks for the files it understands based on file filtering rules, recognizes the textual parts within them, splits up the text groups according to the segmentation rules, and displays the segments one by one so that you can proceed with the translation.</seg>
       </tuv>
       <tuv lang="fr" changeid="brigitte" changedate="20130712T164436Z">
@@ -59075,6 +59123,14 @@ you think will help the developers with finding and fixing your bug.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also add source files from Internet pages, written in MediaWiki, by clicking on&lt;g3&gt; "Import from MediaWiki"&lt;/g3&gt; button and providing the corresponding URL.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210204T133255Z" creationid="suzume" creationdate="20210204T133255Z">
+        <seg>Il est également possible d'ajouter des fichiers source provenant de pages internet (MediaWiki) en cliquant sur « &lt;g3&gt;Importer depuis MediaWiki&lt;/g3&gt; » et en saisissant l'URL correspondant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can also add source files from Internet pages, written in MediaWiki, by clicking on&lt;g4&gt; "Import from MediaWiki"&lt;/g4&gt; button and providing the corresponding URL.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130507T125514Z">
@@ -59626,6 +59682,14 @@ installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160323T094115Z" creationid="Didier" creationdate="20160323T094115Z">
         <seg>Il est possible de sélectionner un fichier avec les touches fléchées &lt;k0&gt;Haut&lt;/k0&gt; et &lt;k1&gt;Bas&lt;/k1&gt; et de l'ouvrir dans l'Éditeur en appuyant sur &lt;k2&gt;Entrée&lt;/k2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can select a file with &lt;k1&gt;Up&lt;/k1&gt; and &lt;k2&gt;Down&lt;/k2&gt; keys, and open it for translation by pressing &lt;k3&gt;Enter&lt;/k3&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210204T133141Z" creationid="suzume" creationdate="20210204T133141Z">
+        <seg>Il est possible de sélectionner un fichier avec les touches fléchées &lt;k1&gt;Haut&lt;/k1&gt; et &lt;k2&gt;Bas&lt;/k2&gt; et de l'ouvrir dans l'Éditeur en appuyant sur &lt;k3&gt;Entrée&lt;/k3&gt;</seg>
       </tuv>
     </tu>
     <tu>
