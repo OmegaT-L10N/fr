@@ -10597,8 +10597,8 @@ this License without regard to the additional permissions.</seg>
       <tuv lang="en">
         <seg>After several of these operations, select &lt;m0&gt; &lt;g1&gt;Edit&lt;/g1&gt; &lt;g2&gt;Realign pending&lt;/g2&gt; &lt;/m0&gt; to update the alignment of the other segments.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210204T075732Z" creationid="suzume" creationdate="20210204T075732Z">
-        <seg>Après avoir répété cette opération un certain nombre de fois, sélectionnez &lt;m0&gt; &lt;g1&gt;</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210204T075813Z" creationid="suzume" creationdate="20210204T075732Z">
+        <seg>Après avoir répété cette opération un certain nombre de fois, sélectionnez &lt;m0&gt; &lt;g1&gt;Modifier&lt;/g1&gt; &lt;g2&gt;Réaligner les éléments en attente&lt;/g2&gt; &lt;/m0&gt; pour mettre à jour l'alignement des autres segments.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36516,6 +36516,14 @@ install virtualenv</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Only rows with the &lt;g0&gt;Keep&lt;/g0&gt; box ticked in the first column will be included when the translation memory is created.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210204T080118Z" creationid="suzume" creationdate="20210204T080018Z">
+        <seg>Seules les lignes avec la case &lt;g0&gt;Conserver&lt;/g0&gt; cochée dans la première colonne seront incluses quand la mémoire de traduction sera créée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Only the file &lt;f0&gt;test.html&lt;/f0&gt; in the folder &lt;f1&gt;dir-10&lt;/f1&gt; will be processed.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210202T073806Z" creationid="suzume" creationdate="20210202T073806Z">
@@ -53801,6 +53809,14 @@ as a Source Forge user.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20200128T142224Z" creationid="suzume" creationdate="20200128T142224Z">
         <seg>Pour modifier ces options, sélectionnez le filtre dans la liste et cliquez sur &lt;e0&gt;Options...&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To modify the position of one or more segments individually, select the segment(s) and press &lt;u0&gt;U&lt;/u0&gt; (&lt;g1&gt;Move Up&lt;/g1&gt;) or &lt;u2&gt;D&lt;/u2&gt; (&lt;g3&gt;Move Down&lt;/g3&gt;).</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210204T080003Z" creationid="suzume" creationdate="20210204T075852Z">
+        <seg>Pour modifier la position d'un ou de plusieurs segments de manière individuelle, sélectionnez le(s) segment(s) et pressez &lt;u0&gt;U&lt;/u0&gt; (&lt;g1&gt;Glisser vers le haut&lt;/g1&gt;) ou &lt;u2&gt;D&lt;/u2&gt; (&lt;g3&gt;Glisser vers le bas&lt;/g3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
