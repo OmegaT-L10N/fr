@@ -37087,6 +37087,14 @@ Afficher des informations sur l'utilisation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Orphan segments (match #2) describe segments in the default project translation memory that have no corresponding source segment.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210204T064340Z" creationid="suzume" creationdate="20210204T064340Z">
+        <seg>Segments orphelins (la correspondance n° 2) décrit des segments de la mémoire de traduction par défaut du projet qui n'ont pas de segments source correspondants.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Orphan segments&lt;i2/&gt; (the match #2) describe segments in the default project translation memory that have no corresponding source segment.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130528T125040Z">
@@ -48934,6 +48942,14 @@ freedom to share and change it.</seg>
       </tuv>
       <tuv lang="fr" changeid="pingouin" changedate="20130426T133132Z">
         <seg>La ligne contenant le pourcentage de correspondances inclut aussi le nom de la mémoire de traduction&lt;i1/&gt; qui contient la correspondance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The line with the matching percentage also includes the name of the translation memory containing the match.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210204T064331Z" creationid="suzume" creationdate="20210204T064331Z">
+        <seg>La ligne contenant le pourcentage de correspondances inclut aussi le nom de la mémoire de traduction qui contient la correspondance.</seg>
       </tuv>
     </tu>
     <tu>
