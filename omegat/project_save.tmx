@@ -10796,6 +10796,14 @@ this License without regard to the additional permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Alignment involves creating a bilingual translation memory from monolingual documents that have already been translated.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210204T064730Z" creationid="suzume" creationdate="20210204T064730Z">
+        <seg>Un alignement consiste à créer une mémoire de traduction bilingue à partir de documents monolingues qui ont déjà été traduits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160926T143801Z" creationid="Didier" creationdate="20160926T143801Z">
@@ -22072,6 +22080,14 @@ know their rights.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130528T133937Z">
         <seg>Par exemple (si le paramètre par défaut est configuré), la traduction de la mémoire de traduction secondaire est acceptée et porte le préfixe &lt;e3&gt;[correspondance]&lt;/e3&gt;, afin que le traducteur puisse revoir les traductions à un stade ultérieur et vérifier que les segments ainsi marqués ont été traduits correctement (voir chapitre &lt;l4&gt;Ligne d'édition&lt;/l4&gt;) &lt;m5&gt; &lt;g6&gt;.&lt;/g6&gt; &lt;/m5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For instance (if the default is accepted), the translation from the ancillary TM is accepted and prefixed with&lt;e3&gt; [fuzzy]&lt;/e3&gt;, so that the translator can review the translations at a later stage and check whether the segments tagged this way, have been translated correctly&lt;m4&gt; &lt;g5&gt;.&lt;/g5&gt; &lt;/m4&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210204T064606Z" creationid="suzume" creationdate="20210204T064606Z">
+        <seg>Par exemple (si le paramètre par défaut est configuré), la traduction de la mémoire de traduction secondaire est acceptée et porte le préfixe &lt;e3&gt;[correspondance]&lt;/e3&gt;, afin que le traducteur puisse revoir les traductions à un stade ultérieur et vérifier que les segments ainsi marqués ont été traduits correctement.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42222,6 +42238,22 @@ La recherche port par défaut sur le projet, et peut porter sur tout fichier sit
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130527T130100Z">
         <seg>Voir &lt;l0&gt;Annexe Personnalisation des raccourcis&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See &lt;l0&gt;Dictionaries&lt;/l0&gt; for more on this subject.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210204T064624Z" creationid="suzume" creationdate="20210204T064624Z">
+        <seg>Voir le &lt;l0&gt;Dictionnaires&lt;/l0&gt; pour plus d'informations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See &lt;l0&gt;Glossaries&lt;/l0&gt; for more on this subject.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210204T064631Z" creationid="suzume" creationdate="20210204T064631Z">
+        <seg>Voir &lt;l0&gt;Glossaires&lt;/l0&gt; pour plus d'informations.</seg>
       </tuv>
     </tu>
     <tu>
