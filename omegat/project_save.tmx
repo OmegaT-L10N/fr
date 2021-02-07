@@ -22260,6 +22260,14 @@ know their rights.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For instance (if the default is accepted), the translation from the ancillary TM is accepted and prefixed with&lt;e3&gt; [fuzzy]&lt;/e3&gt;, so that the translator can review the translations at a later stage and check whether the segments tagged this way, have been translated correctly.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210207T055214Z" creationid="suzume" creationdate="20210207T055214Z">
+        <seg>Par exemple (si le paramètre par défaut est configuré), la traduction de la mémoire de traduction secondaire est acceptée et porte le préfixe &lt;e3&gt;[correspondance]&lt;/e3&gt;, afin que le traducteur puisse revoir les traductions à un stade ultérieur et vérifier que les segments ainsi marqués ont été traduits correctement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For instance (if the default is accepted), the translation from the ancillary TM is accepted and prefixed with&lt;e3&gt; [fuzzy]&lt;/e3&gt;, so that the translator can review the translations at a later stage and check whether the segments tagged this way, have been translated correctly&lt;m4&gt; &lt;g5&gt;.&lt;/g5&gt; &lt;/m4&gt;</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210204T064606Z" creationid="suzume" creationdate="20210204T064606Z">
@@ -27018,6 +27026,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In &lt;g0&gt;Heapwise&lt;/g0&gt; comparison mode, the texts are evaluated globally.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210207T055232Z" creationid="suzume" creationdate="20210207T055232Z">
+        <seg>En mode de comparaison &lt;g0&gt;Globale&lt;/g0&gt;, les textes sont évalués dans leur ensemble.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In &lt;g0&gt;Heapwise&lt;/g0&gt; mode, the texts are evaluated globally.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210204T073913Z" creationid="suzume" creationdate="20210204T073847Z">
@@ -27030,6 +27046,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
         <seg>Dans &lt;g0&gt;Options &gt; TMX externes...&lt;/g0&gt;, un certain nombre de variables permettent de configurer l'affichage du volet correspondances :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In &lt;g1&gt;Parsewise&lt;/g1&gt; comparison mode, they are evaluated segment by segment.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210207T055241Z" creationid="suzume" creationdate="20210207T055241Z">
+        <seg>En more de comparaison &lt;g1&gt;Par segments&lt;/g1&gt;, ils sont évalués segment par segment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37127,6 +37151,14 @@ happen should you file a bug report.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Opens the &lt;l0&gt;Project files&lt;/l0&gt; window.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210207T055210Z" creationid="suzume" creationdate="20210207T055210Z">
+        <seg>Ouvre la fenêtre &lt;l0&gt;Fichiers du projet&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Opens the &lt;l0&gt;Segmentation Setup&lt;/l0&gt; options in the Preferences dialog.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210202T122525Z" creationid="suzume" creationdate="20210202T122457Z">
@@ -42534,6 +42566,14 @@ La recherche port par défaut sur le projet, et peut porter sur tout fichier sit
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20141202T213936Z" creationid="Didier" creationdate="20141202T213936Z">
         <seg>Voir l'&lt;l0&gt;annexe sur les lemmatiseurs&lt;/l0&gt; pour plus de détails.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See &lt;l0&gt;Use a team project&lt;/l0&gt; for details.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210207T055201Z" creationid="suzume" creationdate="20210207T055201Z">
+        <seg>Voir &lt;l0&gt;Utiliser un projet en équipe&lt;/l0&gt; pour en savoir plus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49727,6 +49767,14 @@ sure this has not already been reported.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130527T134342Z">
         <seg>Cette option permet à OmegaT de remplacer la spécification dans l'en-tête du fichier PO et d'utiliser la valeur par défaut pour la langue cible sélectionnée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The option only appears when such a selection is possible.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210207T055305Z" creationid="suzume" creationdate="20210207T055305Z">
+        <seg>Cette option n'apparaît que quand sa sélection est possible.</seg>
       </tuv>
     </tu>
     <tu>
