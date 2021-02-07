@@ -14085,6 +14085,22 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check "&lt;l3/&gt;" below for more information.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210207T055520Z" creationid="suzume" creationdate="20210207T055520Z">
+        <seg>Voir « &lt;l3/&gt; » ci-dessous pour plus d'informations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check "&lt;l4/&gt;" below for more information.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210207T055535Z" creationid="suzume" creationdate="20210207T055535Z">
+        <seg>Voir « &lt;l4/&gt; » ci-dessous pour plus d'informations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check "Command line launching" below for more information.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210202T071729Z">
@@ -45052,6 +45068,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Special case: selective sharing</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210207T055336Z" creationid="suzume" creationdate="20210207T055336Z">
+        <seg>Cas spécial : partage sélectif</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Specific behavior can be set up in the file filters.</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130416T153540Z">
@@ -49478,6 +49502,14 @@ freedom to share and change it.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210201T140310Z" creationid="suzume" creationdate="20210129T085625Z">
         <seg>Les mappages peuvent être ajoutés en modifiant &lt;f0&gt;omegat.project&lt;/f0&gt; où par l'intermédiaire de l'interface utilisateurs : &lt;m1&gt; &lt;g2&gt;Projet&lt;/g2&gt; &lt;g3&gt;Propriétés...&lt;/g3&gt; &lt;g4&gt;Mappage des dépôts&lt;/g4&gt; &lt;/m1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The mappings can be added via the UI: &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Properties&lt;/g2&gt; &lt;g3&gt;Repository Mapping&lt;/g3&gt; &lt;/m0&gt; or by editing &lt;f4&gt;omegat.project&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210207T055506Z" creationid="suzume" creationdate="20210207T055506Z">
+        <seg>Les mises en correspondances peuvent être ajoutées en modifiant &lt;f4&gt;omegat.project&lt;/f4&gt; où par l'intermédiaire de l'interface utilisateurs : &lt;m0&gt; &lt;g1&gt;Projet&lt;/g1&gt; &lt;g2&gt;Propriétés...&lt;/g2&gt; &lt;g3&gt;Mappage des dépôts&lt;/g3&gt; &lt;/m0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56421,6 +56453,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210202T064619Z" creationid="suzume" creationdate="20210202T064619Z">
         <seg>Utilisez le fichier &lt;f0&gt;OmegaT&lt;/f0&gt;.jar situé dans &lt;f1&gt;OmegaT.app/Contents/MacOS/Java/&lt;/f1&gt; pour lancer &lt;a2&gt;OmegaT&lt;/a2&gt; à partir de la ligne de commande.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the &lt;g0&gt;ID&lt;/g0&gt; comparison mode to align Key=Value texts.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210207T055324Z" creationid="suzume" creationdate="20210207T055324Z">
+        <seg>Utilisez le mode de comparaison par &lt;g0&gt;ID&lt;/g0&gt; pour aligner les textes de la forme Clé=Valeur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63698,6 +63738,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T104617Z">
         <seg>https://developers.google.com/translate/v2/pricing?hl=en-US</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://docs.oracle.com/javase/8/docs/api/java/util/regex/Pattern.html</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210207T055328Z" creationid="suzume" creationdate="20210207T055328Z">
+        <seg>https://docs.oracle.com/javase/8/docs/api/java/util/regex/Pattern.html</seg>
       </tuv>
     </tu>
     <tu>
