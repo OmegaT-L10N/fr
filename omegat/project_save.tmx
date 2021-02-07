@@ -4236,8 +4236,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="en">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; users and Google Translate</seg>
       </tuv>
-      <tuv lang="fr" changeid="Clementine" changedate="20130421T080310Z">
-        <seg>Utilisateurs &lt;a0&gt;OmegaT&lt;/a0&gt;  et Google Translate</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210207T052636Z">
+        <seg>Utilisateurs &lt;a0&gt;OmegaT&lt;/a0&gt; et Google Translate</seg>
       </tuv>
     </tu>
     <tu>
@@ -4444,8 +4444,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="en">
         <seg>&lt;c0&gt;&lt;event&gt;&lt;/c0&gt; can be: &lt;e1&gt;typed&lt;/e1&gt;, &lt;e2&gt;pressed&lt;/e2&gt;, &lt;e3&gt;released&lt;/e3&gt;</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
-        <seg>&lt;c0&gt;&lt;événement&gt;&lt;/c0&gt; peut être : &lt;e1&gt;typed&lt;/e1&gt;(saisi), &lt;e2&gt;pressed&lt;/e2&gt;(enfoncé), &lt;e3&gt;released&lt;/e3&gt;(relâché)</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210207T053316Z">
+        <seg>&lt;c0&gt;&lt;événement&gt;&lt;/c0&gt; peut être : &lt;e1&gt;typed&lt;/e1&gt; (saisi), &lt;e2&gt;pressed&lt;/e2&gt; (enfoncé), &lt;e3&gt;released&lt;/e3&gt; (relâché)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4700,8 +4700,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;&lt;l1&gt;-Dgoogle.api.key=&lt;p2&gt;A123456789B123456789C123456789D12345678&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; If you have signed up for the Google Translate services, enter your private Google API key here.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210131T124055Z" creationid="suzume" creationdate="20210131T124055Z">
-        <seg>&lt;e0&gt;&lt;l1&gt;-Dgoogle.api.key=&lt;p2&gt;A123456789B123456789C123456789D12345678&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; Si vous vous êtes inscrit sur le service Google Traduction, saisissez votre clé API Google privée ici.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210207T052844Z" creationid="suzume" creationdate="20210131T124055Z">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Dgoogle.api.key=&lt;p2&gt;A123456789B123456789C123456789D12345678&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; Si vous êtes inscrit sur le service Google Traduction, saisissez votre clé API Google privée ici.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7850,8 +7850,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="en">
         <seg>&lt;p0&gt;Project files&lt;/p0&gt; &lt;s1&gt;ignored_words and learned_words&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="fr" changeid="Clementine" changedate="20130430T120921Z">
-        <seg>&lt;p0&gt;Les fichiers projet&lt;/p0&gt; &lt;s1&gt;ignored_words (mots ignorés)  et learned_words (mots appris)&lt;/s1&gt;</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210207T052541Z">
+        <seg>&lt;p0&gt;Les fichiers projet&lt;/p0&gt; &lt;s1&gt;ignored_words (mots ignorés) et learned_words (mots appris)&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9154,8 +9154,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="en">
         <seg>&lt;r0&gt;Note:&lt;/r0&gt; it is possible to inhibit the window displaying at opening, by setting &lt;e1&gt;project_files_show_on_load&lt;/e1&gt; to &lt;e2&gt;false&lt;/e2&gt; in &lt;f3&gt;omegat.prefs&lt;/f3&gt; file (accessible by &lt;m4&gt; &lt;g5&gt;Options&lt;/g5&gt; &lt;g6&gt;Access Configuration Folder&lt;/g6&gt; &lt;/m4&gt; menu).</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210204T132959Z" creationid="suzume" creationdate="20210204T132959Z">
-        <seg>&lt;r0&gt;Note :&lt;/r0&gt; il est possible d'empêcher cette fenêtre des Fichiers du projet de s'afficher, en définissant &lt;e1&gt;project_files_show_on_load&lt;/e1&gt; à &lt;e2&gt;false&lt;/e2&gt; dans le fichier &lt;f3&gt;omegat.prefs&lt;/f3&gt; (accessible par le menu &lt;m4&gt;Options&lt;g5&gt; &lt;/g5&gt;Accéder au dossier de configuration&lt;g6&gt;).</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210207T053522Z" creationid="suzume" creationdate="20210204T132959Z">
+        <seg>&lt;r0&gt;Note :&lt;/r0&gt; il est possible d'empêcher cette fenêtre des Fichiers du projet de s'afficher, en définissant &lt;e1&gt;project_files_show_on_load&lt;/e1&gt; à &lt;e2&gt;false&lt;/e2&gt; dans le fichier &lt;f3&gt;omegat.prefs&lt;/f3&gt; (accessible par le menu &lt;m4&gt;&lt;g5&gt;Options&lt;/g5&gt; &lt;g6&gt;Accéder au dossier de configuration&lt;/g6&gt;&lt;/m4&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -9617,8 +9617,8 @@ this License.</seg>
       <tuv lang="en">
         <seg>A digit: [0-9]</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
-        <seg>Un chifffre : équivalent à  [0-9]</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210207T052417Z">
+        <seg>Un chifffre : équivalent à [0-9]</seg>
       </tuv>
     </tu>
     <tu>
@@ -12157,9 +12157,9 @@ void, and will automatically terminate your rights under this License.</seg>
 all settings will be at their defaults, due to which you
 may experience unexpected, but correct behaviour.</seg>
       </tuv>
-      <tuv lang="fr">
+      <tuv lang="fr" changeid="suzume" changedate="20210207T052350Z">
         <seg>Par conséquent, tous
-les paramètres auront leur valeur par défaut, ce qui pourra 
+les paramètres auront leur valeur par défaut, ce qui pourra
 provoquer des comportements inattendus, mais corrects.</seg>
       </tuv>
     </tu>
@@ -12719,8 +12719,8 @@ provoquer des comportements inattendus, mais corrects.</seg>
       <tuv lang="en">
         <seg>Avoid in any case adding &lt;f6&gt;bak&lt;/f6&gt; files, &lt;f7&gt;project_stats.txt&lt;/f7&gt; and &lt;f8&gt;project_stats_match.txt&lt;/f8&gt;, in the &lt;f9&gt;omegat&lt;/f9&gt; subfolder, as they would without any need or profit just bloat the repository.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210201T140310Z">
-        <seg>Dans tous les cas, évitez d'ajouter les fichiers &lt;f6&gt;bak&lt;/f6&gt; , &lt;f7&gt;project_stats.txt&lt;/f7&gt; et &lt;f8&gt;project_stats_match.txt&lt;/f8&gt; dans le sous-dossier &lt;f9&gt;omegat&lt;/f9&gt;  car ils ne feraient qu'encombrer le dépôt sans rien apporter au projet.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210207T052449Z">
+        <seg>Dans tous les cas, évitez d'ajouter les fichiers &lt;f6&gt;bak&lt;/f6&gt;, &lt;f7&gt;project_stats.txt&lt;/f7&gt; et &lt;f8&gt;project_stats_match.txt&lt;/f8&gt; dans le sous-dossier &lt;f9&gt;omegat&lt;/f9&gt; car ils ne feraient qu'encombrer le dépôt sans rien apporter au projet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24421,8 +24421,8 @@ parties remain in full compliance.</seg>
       <tuv lang="en">
         <seg>I was not sure&lt;/e0&gt;." should be split into two segments.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Clementine" changedate="20130506T092608Z">
-        <seg>Je n'étais pas sûr&lt;/e0&gt;. »  doit être divisé en deux segments.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210207T052520Z">
+        <seg>Je n'étais pas sûr&lt;/e0&gt;. » doit être divisé en deux segments.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25148,9 +25148,9 @@ compelled to copy the source along with the object code.</seg>
 that location will be used and all settings will return to
 their defaults as a result of the location change.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20190421T022628Z">
+      <tuv lang="fr" changeid="suzume" changedate="20210207T052400Z">
         <seg>Si un accès à l'emplacement souhaité
-est accordé plus tard, cet emplacement sera utilisé et 
+est accordé plus tard, cet emplacement sera utilisé et
 tous les paramètres reprendront leur valeur par défaut,
 à cause du changement d'emplacement.</seg>
       </tuv>
@@ -27004,8 +27004,8 @@ click on that shortcut.</seg>
       <tuv lang="en">
         <seg>Importing the project to SVN repository - Windows</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210201T140310Z">
-        <seg>Importation du projet sur le dépôt SVN  (pour Windows)</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210207T052436Z">
+        <seg>Importation du projet sur le dépôt SVN (pour Windows)</seg>
       </tuv>
     </tu>
     <tu>
@@ -29442,8 +29442,8 @@ dans le dossier de configuration.</seg>
       <tuv lang="en">
         <seg>It will first commit the current contents to the server repository and then update the local copy of the repository - i.e. the contents of .svn subfolder - so that it is up to date with the latest repository version.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210201T140310Z">
-        <seg>Elle validera d'abord les contenus actuels dans le dépôt du serveur puis elle mettra à jour la copie locale du dépôt - soit, le contenu du sous-dossier .svn  - afin qu'elle soit à jour par rapport à la dernière version du dépôt.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210207T052500Z">
+        <seg>Elle validera d'abord les contenus actuels dans le dépôt du serveur puis elle mettra à jour la copie locale du dépôt - soit, le contenu du sous-dossier .svn - afin qu'elle soit à jour par rapport à la dernière version du dépôt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31301,8 +31301,8 @@ automatically download and install it.</seg>
       <tuv lang="en">
         <seg>Localization TMX repository</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210201T140310Z">
-        <seg>dépôt TMX</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210207T053130Z">
+        <seg>dépôt des TMX de localisation</seg>
       </tuv>
     </tu>
     <tu>
@@ -31519,8 +31519,8 @@ automatically download and install it.</seg>
       <tuv lang="en">
         <seg>Mac OS X users, note: use &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; shortcut and &lt;e4&gt;not &lt;/e4&gt;cmd+Ctrl+O.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
-        <seg>Remarque pour les utilisateurs de Mac OS X  : utilisez le raccourci &lt;k0&gt; &lt;k1&gt;Maj&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; et &lt;e4&gt;pas &lt;/e4&gt;cmd+Ctrl+O.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210207T052552Z">
+        <seg>Remarque pour les utilisateurs de Mac OS X : utilisez le raccourci &lt;k0&gt; &lt;k1&gt;Maj&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; et &lt;e4&gt;pas &lt;/e4&gt;cmd+Ctrl+O.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34105,8 +34105,8 @@ Diminue les sorties sur stdout de la ligne de commande.</seg>
       <tuv lang="en">
         <seg>Note &lt;e0&gt;interesar&lt;/e0&gt; and&lt;e1&gt; navegar&lt;/e1&gt; in Spanish, are correctly translated as the verbs interest and sail respectively.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Clementine" changedate="20130503T124104Z">
-        <seg>Notez que &lt;e0&gt;interesar&lt;/e0&gt; et&lt;e1&gt; navegar&lt;/e1&gt; en espagnol sont correctement traduits respectivement par les verbes « intéresser » et  « naviguer ».</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210207T052647Z">
+        <seg>Notez que &lt;e0&gt;interesar&lt;/e0&gt; et&lt;e1&gt; navegar&lt;/e1&gt; en espagnol sont correctement traduits respectivement par les verbes « intéresser » et « naviguer ».</seg>
       </tuv>
     </tu>
     <tu>
@@ -34494,8 +34494,8 @@ Rajout d'une partie approriée, afin que la note de bas de page ne se retrouve p
       <tuv lang="en">
         <seg>Note: DocBook files are recognized not only by file extension, but they also must have a DOCTYPE declaration: &lt;!DOCTYPE book PUBLIC \"-//OASIS//DTD DocBook XML... for DocBook 4, or a Namespace: xmlns="http://docbook.org/ns/docbook" for DocBook 5</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
-        <seg>Note : les fichiers DocBook sont reconnus non seulement par l'extension de fichier .xml, mais doivent également avoir une déclaration DOCTYPE : &lt;!DOCTYPE book PUBLIC \"-//OASIS//DTD DocBook XML... pour DocBook 4, ou un espace de nom : xmlns="http://docbook.org/ns/docbook"  pour DocBook 5.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210207T052315Z">
+        <seg>Note : les fichiers DocBook sont reconnus non seulement par l'extension de fichier .xml, mais doivent également avoir une déclaration DOCTYPE : &lt;!DOCTYPE book PUBLIC \"-//OASIS//DTD DocBook XML... pour DocBook 4, ou un espace de nom : xmlns="http://docbook.org/ns/docbook" pour DocBook 5.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36873,8 +36873,8 @@ happen should you file a bug report.</seg>
       <tuv lang="en">
         <seg>Open the Search window with &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt; and enter the word or phrase you wish to search for in the &lt;e3&gt;Search for&lt;/e3&gt; box.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Didier" changedate="20141202T224152Z" creationid="Didier" creationdate="20141202T215810Z">
-        <seg>Ouvrez la fenêtre de Recherche textuelle en utilisant  &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt; &gt; et saisissez dans le champ &lt;e3&gt;Rechercher&lt;/e3&gt; le mot ou l'expression que vous souhaitez trouver.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210207T052750Z" creationid="Didier" creationdate="20141202T215810Z">
+        <seg>Ouvrez la fenêtre de Recherche textuelle en utilisant &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt; &gt; et saisissez dans le champ &lt;e3&gt;Rechercher&lt;/e3&gt; le mot ou l'expression que vous souhaitez trouver.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42060,8 +42060,8 @@ La recherche port par défaut sur le projet, et peut porter sur tout fichier sit
       <tuv lang="en">
         <seg>Script for extracting text for translation from plain-text files (e.g. computer source code) for translation in OmegaT.</seg>
       </tuv>
-      <tuv lang="fr" changeid="briac" changedate="20170403T153504Z" creationid="briac" creationdate="20170403T153504Z">
-        <seg>Stripper Script pour l'extraction de texte à partir de fichiers de texte brut (par ex. code source informatique) permettant la traduction avec OmegaT – </seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210207T052138Z" creationid="briac" creationdate="20170403T153504Z">
+        <seg>Script pour l'extraction de texte à partir de fichiers de texte brut (par ex. code source informatique) permettant la traduction avec OmegaT - </seg>
       </tuv>
     </tu>
     <tu>
@@ -43809,16 +43809,16 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       <tuv lang="en">
         <seg>Several filters (Text files, XHTML files, HTML and XHTML files, OpenDocument files and Microsoft Open XML files) have one or more specific options.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Clementine" changedate="20130429T081039Z">
-        <seg>Certains filtres (Fichiers textes,  XHTML, HTML, XHTML, OpenDocument et Microsoft Open XML) disposent d'une ou plusieurs options spécifiques.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210207T052528Z">
+        <seg>Certains filtres (Fichiers textes, XHTML, HTML, XHTML, OpenDocument et Microsoft Open XML) disposent d'une ou plusieurs options spécifiques.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Several filters (text files, XHTML files, HTML and XHTML files, OpenDocument files and Microsoft Open XML files) have one or more specific options.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20200128T142216Z" creationid="suzume" creationdate="20200128T142216Z">
-        <seg>Certains filtres (Fichiers textes,  XHTML, HTML, XHTML, OpenDocument et Microsoft Open XML) disposent d'une ou plusieurs options spécifiques.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210207T052506Z" creationid="suzume" creationdate="20200128T142216Z">
+        <seg>Certains filtres (Fichiers textes, XHTML, HTML, XHTML, OpenDocument et Microsoft Open XML) disposent d'une ou plusieurs options spécifiques.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48380,8 +48380,8 @@ utilisé à la place.</seg>
         <seg>The current folder will be used
 instead.</seg>
       </tuv>
-      <tuv lang="fr">
-        <seg>Le dossier actuel sera utilisé 
+      <tuv lang="fr" changeid="suzume" changedate="20210207T052355Z">
+        <seg>Le dossier actuel sera utilisé
 à la place.</seg>
       </tuv>
     </tu>
@@ -48637,8 +48637,8 @@ instead.</seg>
       <tuv lang="en">
         <seg>The escape character ('\u001B')</seg>
       </tuv>
-      <tuv lang="fr" changeid="Didier" changedate="20130528T083156Z">
-        <seg>Le caractère d'échappement  (« \u001B »)</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210207T052410Z">
+        <seg>Le caractère d'échappement (« \u001B »)</seg>
       </tuv>
     </tu>
     <tu>
@@ -49548,8 +49548,8 @@ freedom to share and change it.</seg>
       <tuv lang="en">
         <seg>The most important is &lt;l1&gt;/path/to/project&lt;/l1&gt;, and optionally &lt;l2&gt;--config-dir=&lt;p3&gt;/path/to/config-files/&lt;/p3&gt;&lt;/l2&gt;.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210202T072954Z" creationid="suzume" creationdate="20210202T072954Z">
-        <seg>Le plus important est &lt;l1&gt;/chemin/du/projet&lt;/l1&gt;, et, facultativement, &lt;l2&gt; --config-dir=&lt;p3&gt;/chemin/du/dossier_de_configuration&lt;/p3&gt;.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210207T053353Z" creationid="suzume" creationdate="20210202T072954Z">
+        <seg>Le plus important est &lt;l1&gt;/chemin/du/projet&lt;/l1&gt;, et, facultativement, &lt;l2&gt; --config-dir=&lt;p3&gt;/chemin/du/dossier_de_configuration&lt;/p3&gt;&lt;/l2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49797,8 +49797,8 @@ sure this has not already been reported.</seg>
       <tuv lang="en">
         <seg>The permissions you give to this version (which may appear as "unrestricted access to the computer") are identical to the permissions you give to the local version, i.e., they allow access to the hard drive of the computer.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Didier" changedate="20130527T150342Z">
-        <seg>Les autorisations que vous donnez à cette version (qui peuvent s'afficher comme  « accès illimité à l'ordinateur ») sont identiques aux autorisations que vous donnez aux versions locales. C'est-à-dire qu'elles donnent accès au disque dur de l'ordinateur.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210207T052621Z">
+        <seg>Les autorisations que vous donnez à cette version (qui peuvent s'afficher comme « accès illimité à l'ordinateur ») sont identiques aux autorisations que vous donnez aux versions locales. C'est-à-dire qu'elles donnent accès au disque dur de l'ordinateur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51473,8 +51473,8 @@ the Program or works based on it.</seg>
         <seg>Therefore, the location of OmegaT's
 configuration folder cannot be reliably determined.</seg>
       </tuv>
-      <tuv lang="fr">
-        <seg>L'emplacement du fichier 
+      <tuv lang="fr" changeid="suzume" changedate="20210207T052339Z">
+        <seg>L'emplacement du fichier
 de configuration d'OmegaT ne peut donc pas être déterminé de façon sûre.</seg>
       </tuv>
     </tu>
@@ -52976,8 +52976,8 @@ Seule la licence en langue anglaise est légalement valable. Vous pouvez trouver
       <tuv lang="en">
         <seg>This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20190305T142139Z">
-        <seg>Ce programme est libre. Vous pouvez le redistribuer et le modifier selon les termes de la Licence  Publique Générale GNU publiée par la Free Software Foundation. La licence applicable est la version 3 ou bien une version plus récente à votre choix.
+      <tuv lang="fr" changeid="suzume" changedate="20210207T052329Z">
+        <seg>Ce programme est libre. Vous pouvez le redistribuer et le modifier selon les termes de la Licence Publique Générale GNU publiée par la Free Software Foundation. La licence applicable est la version 3 ou bien une version plus récente à votre choix.
 
 Seule la licence en langue anglaise est légalement valable. Vous pouvez trouver des traductions françaises qui peuvent servir de référence mais qui en aucun cas ne peuvent remplacer la licence originale GNU General Public License, Free Software Foundation, version 3 ou plus récente.</seg>
       </tuv>
@@ -58219,8 +58219,8 @@ for which you have or can give appropriate copyright permission.</seg>
       <tuv lang="en">
         <seg>Where circumstances permit, unifying used fonts, font sizes, colors, etc. should be considered, as it could simplify the translation and reduce the potential for tag errors.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Clementine" changedate="20130502T074052Z">
-        <seg>Si les circonstances le permettent,  unifiez les polices, les tailles des caractères, les couleurs, etc. afin de simplifier la traduction et de réduire les possibilités d'erreurs de balises.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210207T052558Z">
+        <seg>Si les circonstances le permettent, unifiez les polices, les tailles des caractères, les couleurs, etc. afin de simplifier la traduction et de réduire les possibilités d'erreurs de balises.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59277,8 +59277,8 @@ you think will help the developers with finding and fixing your bug.</seg>
       <tuv lang="en">
         <seg>You can also &lt;c3&gt;cd&lt;/c3&gt; there directly from the command line and open &lt;f4&gt;Configuration.properties&lt;/f4&gt; in a command line editor like emacs or vi.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210110T124238Z" creationid="suzume" creationdate="20210110T124238Z">
-        <seg>Vous pouvez également utiliser la commande Unix « cd » directement à partir de la ligne de commande et ouvrir Configuration.properties dans un éditeur en ligne de commande comme emacs ou vi.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210207T053341Z" creationid="suzume" creationdate="20210110T124238Z">
+        <seg>Vous pouvez également utiliser la commande Unix &lt;c3&gt;cd&lt;/c3&gt; directement à partir de la ligne de commande et ouvrir &lt;f4&gt;Configuration.properties&lt;/f4&gt; dans un éditeur en ligne de commande comme emacs ou vi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61784,8 +61784,8 @@ de créer son dossier de configuration.</seg>
       <tuv lang="en">
         <seg>clicking a column header changes the sort order for the column,</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210204T013342Z" creationid="suzume" creationdate="20210204T013342Z">
-        <seg>un clic sur un en-tête de colonne modifie l'ordre de la colonne, </seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210207T052052Z" creationid="suzume" creationdate="20210204T013342Z">
+        <seg>un clic sur un en-tête de colonne modifie l'ordre de la colonne,</seg>
       </tuv>
     </tu>
     <tu>
@@ -66621,8 +66621,8 @@ de créer son dossier de configuration.</seg>
       <tuv lang="en">
         <seg>rename the current &lt;f0&gt;project_save.tmx &lt;/f0&gt;file (e.g. to &lt;f1&gt;project_save.tmx.temporary&lt;/f1&gt;)</seg>
       </tuv>
-      <tuv lang="fr" changeid="Didier" changedate="20130528T070912Z">
-        <seg>renommez le fichier actuel  &lt;f0&gt;project_save.tmx&lt;/f0&gt; (par exemple &lt;f1&gt;project_save.tmx.temporaire&lt;/f1&gt;)</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210207T052614Z">
+        <seg>renommez le fichier actuel &lt;f0&gt;project_save.tmx&lt;/f0&gt; (par exemple &lt;f1&gt;project_save.tmx.temporaire&lt;/f1&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -66813,8 +66813,8 @@ de créer son dossier de configuration.</seg>
       <tuv lang="en">
         <seg>search for “is”, not “this” or “isn't” etc.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Didier" changedate="20130528T083720Z">
-        <seg>recherche  « is », pas  « this » ou  « isn't », etc.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210207T052430Z">
+        <seg>recherche « is », pas « this » ou « isn't », etc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67661,8 +67661,8 @@ de créer son dossier de configuration.</seg>
       <tuv lang="en">
         <seg>tmx folders - location and purpose</seg>
       </tuv>
-      <tuv lang="fr" changeid="Clementine" changedate="20130502T083151Z">
-        <seg>dossiers TMX -  emplacement et but</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210207T052755Z">
+        <seg>dossiers TMX - emplacement et but</seg>
       </tuv>
     </tu>
     <tu>
@@ -68269,8 +68269,8 @@ de créer son dossier de configuration.</seg>
       <tuv lang="en">
         <seg>where &lt;p0&gt;folder&lt;/p0&gt; is the name of the folder, with complete path, in which your &lt;a1&gt;OmegaT&lt;/a1&gt; program - specifically, the file &lt;f2&gt;OmegaT.jar&lt;/f2&gt; - is located.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210202T071850Z" creationid="suzume" creationdate="20210202T071850Z">
-        <seg>avec  &lt;p0&gt;dossier&lt;/p0&gt; qui est le nom du dossier (ainsi que son chemin complet) dans lequel votre programme &lt;a1&gt;OmegaT&lt;/a1&gt; est situé - et plus particulièrement le fichier &lt;f2&gt;OmegaT.jar&lt;/f2&gt;.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210207T052628Z" creationid="suzume" creationdate="20210202T071850Z">
+        <seg>avec &lt;p0&gt;dossier&lt;/p0&gt; qui est le nom du dossier (ainsi que son chemin complet) dans lequel votre programme &lt;a1&gt;OmegaT&lt;/a1&gt; est situé - et plus particulièrement le fichier &lt;f2&gt;OmegaT.jar&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
