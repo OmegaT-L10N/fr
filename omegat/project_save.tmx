@@ -4340,8 +4340,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="en">
         <seg>&lt;b0&gt;Formatting &lt;b1&gt;one&lt;/b0&gt; &lt;/b1&gt;is very messed up now.&lt;segment 0001&gt;</seg>
       </tuv>
-      <tuv lang="fr" changeid="Didier" changedate="20130527T142142Z">
-        <seg>&lt;b0&gt;Le formatage &lt;b1&gt;un&lt;/b0&gt; &lt;/b1&gt; est à présent complètement chamboulé.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210313T141209Z">
+        <seg>&lt;b0&gt;Le formatage &lt;b1&gt;un&lt;/b0&gt; &lt;/b1&gt; est à présent complètement chamboulé.&lt;segment 0001&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5492,8 +5492,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;TaaS Terminology Lookup&lt;/e0&gt;: when checked, will allow querying TaaS data on a segment by segment basis.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Didier" changedate="20141202T221726Z" creationid="Didier" creationdate="20141202T221726Z">
-        <seg>&lt;e0&gt;Recherche terminologique TaaS&lt;/e0&gt;: si cochée, permettra d'interroger les données de TaaS segment par segment.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210313T140956Z" creationid="Didier" creationdate="20141202T221726Z">
+        <seg>&lt;e0&gt;Recherche terminologique TaaS&lt;/e0&gt; : si cochée, permettra d'interroger les données de TaaS segment par segment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50179,8 +50179,8 @@ modification follow.</seg>
       <tuv lang="en">
         <seg>The regular expressions (or regex for short) used in searches and segmentation rules are those supported by Java.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Clementine" changedate="20130506T122453Z">
-        <seg>Les expressions régulières (ou regex) utilisées dans les recherches et les règles de segmentation sont celles prises en charge par Java..</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210313T140938Z">
+        <seg>Les expressions régulières (ou regex) utilisées dans les recherches et les règles de segmentation sont celles prises en charge par Java.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50195,8 +50195,8 @@ modification follow.</seg>
       <tuv lang="en">
         <seg>The relevant files are &lt;f2&gt;filters.conf&lt;/f2&gt; and &lt;f3&gt;segmentation.conf&lt;/f3&gt; and can be found in the user home folder (e.g. &lt;f4&gt;C:\Documents and Settings\&lt;p5&gt;user&lt;/p5&gt;\OmegaT&lt;/f4&gt; under Windows, &lt;f6&gt;~/.omegat/&lt;/f6&gt; under Linux).</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210202T072907Z" creationid="suzume" creationdate="20210202T072907Z">
-        <seg>Les fichiers importants sont &lt;f2&gt;filters.conf&lt;/f2&gt; et &lt;f3&gt;segmentation.conf&lt;/f3&gt; et sont situés dans le dossier personnel de l'utilisateur (soit dans &lt;f4&gt;C:\Documents and Settings\%User%\&lt;p5&gt;OmegaT&lt;/p5&gt;&lt;/f4&gt; sous Windows, &lt;f6&gt;%user%/.omegat/&lt;/f6&gt; sous Linux).</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210313T141140Z" creationid="suzume" creationdate="20210202T072907Z">
+        <seg>Les fichiers importants sont &lt;f2&gt;filters.conf&lt;/f2&gt; et &lt;f3&gt;segmentation.conf&lt;/f3&gt; et sont situés dans le dossier personnel de l'utilisateur (soit dans &lt;f4&gt;C:\Documents and Settings\&lt;p5&gt;user&lt;/p5&gt;\OmegaT&lt;/f4&gt; sous Windows, &lt;f6&gt;~/.omegat/&lt;/f6&gt; sous Linux).</seg>
       </tuv>
     </tu>
     <tu>
