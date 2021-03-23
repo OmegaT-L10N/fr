@@ -29675,6 +29675,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Its name and location can be modified in the project properties dialog but its extension must be &lt;f0&gt;.txt&lt;/f0&gt; or &lt;f1&gt;.utf8&lt;/f1&gt; and its location must be contained in the &lt;f2&gt;/glossary&lt;/f2&gt; project folder.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210323T161812Z" creationid="suzume" creationdate="20210323T161633Z">
+        <seg>Son nom et son emplacement peuvent être modifiés dans le dialogue des propriétés du projet mais son extension doit être &lt;f0&gt;.txt&lt;/f0&gt; ou &lt;f1&gt;.utf8&lt;/f1&gt; et il doit être situé à l'intérieur du dossier &lt;f2&gt;glossary&lt;/f2&gt; du projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Its purpose is to develop, distribute and support the use of OmegaT, an open-source translation memory software application.</seg>
       </tuv>
       <tuv lang="fr">
@@ -53669,6 +53677,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210130T153413Z" creationid="suzume" creationdate="20210130T153413Z">
         <seg>Pour ajouter de nouveaux fichiers source :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To add a new term to the writable glossary use &lt;g0&gt;Edit&lt;/g0&gt; &gt; &lt;g1&gt;Create Glossary Entry&lt;/g1&gt; (&lt;k2&gt;Ctrl+Shift+G&lt;/k2&gt;).</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210323T161853Z" creationid="suzume" creationdate="20210323T161853Z">
+        <seg>Pour ajouter un nouveau terme au glossaire modifiable, utilisez &lt;g0&gt;Édition&lt;/g0&gt; &gt; &lt;g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
