@@ -9671,6 +9671,14 @@ this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A given project can have any number of reference glossaries, but only one glossary, the project default glossary, will be directly writable from the OmegaT user interface.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210323T160849Z" creationid="suzume" creationdate="20210323T160849Z">
+        <seg>Un projet donné peut avoir un nombre indéfini de glossaires de référence mais seulement un glossaire, le glossaire par défaut du projet, pourra être modifiable de l'interface utilisateur d'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A given source segment may require several different translations, depending on the context.</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130426T132740Z">
@@ -17570,6 +17578,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Default glossary</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210323T160901Z" creationid="suzume" creationdate="20210323T160901Z">
+        <seg>Glossaire par défaut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Default is &lt;l0&gt;${filename}&lt;/l0&gt;– full filename of the source file with extension: in this case the name of the translated file is the same as that of the source file.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
@@ -23221,6 +23237,22 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130417T085200Z">
         <seg>Les glossaires sont des fichiers créés et mis à jour manuellement pour être utilisés dans &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossaries are terminology files.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210323T160718Z" creationid="suzume" creationdate="20210323T160718Z">
+        <seg>Les glossaires sont des fichiers de terminologie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossaries located in nested folders are also recognized.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210323T160705Z" creationid="suzume" creationdate="20210323T160705Z">
+        <seg>Les glossaires situés dans des sous-dossiers sont également reconnus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51821,6 +51853,14 @@ pas de page...</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130415T142653Z">
         <seg>Ce sont les fichiers que vous utilisez quotidiennement pour vos traductions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They can be created and updated manually or imported from other projects.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210323T160744Z" creationid="suzume" creationdate="20210323T160744Z">
+        <seg>Ils peuvent être créés et mis à jour manuellement ou être importés d'autres projets.</seg>
       </tuv>
     </tu>
     <tu>
