@@ -25505,6 +25505,14 @@ countries not thus excluded.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the file already exists, no attempt is done to verify the format or the character set of the file: the new entries will always be in tab-separated format and the file will be saved in UTF-8 encoding.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210323T160251Z" creationid="suzume" creationdate="20210323T160251Z">
+        <seg>Si le fichier existe déjà, il n'y a pas de vérification du format ou du jeu caractères du fichier : les nouvelles entrées sont toujours présentées sous format texte séparé par des tabulations et le fichier sera enregistré en encodage UTF-8.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the file does contain mappings, then local changes to mappings are lost.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210130T093148Z" creationid="suzume" creationdate="20210130T093148Z">
@@ -27483,6 +27491,14 @@ the scope of this License.</seg>
       </tuv>
       <tuv lang="fr" changeid="briglegrand" changedate="20110128T194715Z">
         <seg>L'installation de la version Web Start requiert Java 1.3 ou ultérieur sur votre ordinateur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In order to install the Web start version, you must already have Java version 1.8 or later installed on your computer.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210323T160122Z" creationid="suzume" creationdate="20210323T160122Z">
+        <seg>L'installation de la version Web Start requiert Java 1.8 ou ultérieur sur votre ordinateur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38099,6 +38115,14 @@ mirage, pas de page...</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20170403T144758Z" creationid="briac" creationdate="20170403T144758Z">
         <seg>Des compilations périodiques sont disponibles sur CloudBees.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Periodic builds are available on SourceForge.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210323T160148Z" creationid="suzume" creationdate="20210323T160148Z">
+        <seg>Des compilations périodiques sont disponibles sur SourceForge.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48797,6 +48821,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The file does not need to exist when setting it, it will be created when adding the first glossary entry.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210323T160226Z" creationid="suzume" creationdate="20210323T160226Z">
+        <seg>Il n'est pas nécessaire que le fichier existe au moment de la configuration, il sera créé au moment de l'ajout de la première entrée de glossaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The files appear in the /script subfolder in the OmegaT user files folder, and include:</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
@@ -56874,6 +56906,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="fr">
         <seg>les utilisateurs peuvent télécharger gratuitement le logiciel et sont libres de l'utiliser.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Users in a hurry can use the Unsigned version instead; if you have difficulty launching the app, see &lt;a0&gt;how to open an app from an unidentified developer&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210323T160106Z" creationid="suzume" creationdate="20210323T160106Z">
+        <seg>Les utilisateurs pressés peuvent utiliser la version non signée ; si vous rencontrez des difficultés à lancer l'application, consultez l'article &lt;a0&gt;Comment ouvrir une application d'un développeur non identifié&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
