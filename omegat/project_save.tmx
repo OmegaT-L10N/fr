@@ -9925,6 +9925,14 @@ or that patent license was granted, prior to 28 March 2007.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A third possible format is the "TBX" (TermBase eXchange) ISO standard.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210323T231148Z" creationid="suzume" creationdate="20210323T231148Z">
+        <seg>Une troisième possibilité est le standard ISO TBX (TermBase eXchange).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A tokenizer package adapted from the Lucene project is distributed as an OmegaT plug-in at http://sourceforge.net/projects/omegat-plugins/files/.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130429T071248Z">
@@ -38375,6 +38383,14 @@ l'ensemble.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130430T071704Z">
         <seg>Les fichiers texte brut contiennent uniquement du texte, de sorte que pour effectuer leur traduction il suffit de taper celle-ci dans le logiciel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Plain text glossaries can be "tab separated values" (TSV) files or "comma separated values" (CSV) files.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210323T231115Z" creationid="suzume" creationdate="20210323T231115Z">
+        <seg>Les glossaires en texte brut peuvent être des fichiers « tab separated values » (TSV, ou « valeurs séparées par des tabulations »), ou des « comma separated values » (CSV, ou « valeurs séparées par des virgules »).</seg>
       </tuv>
     </tu>
     <tu>
