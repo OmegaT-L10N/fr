@@ -23265,6 +23265,14 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossaries are read in an encoding that depends on the file extension:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210323T231239Z" creationid="suzume" creationdate="20210323T231239Z">
+        <seg>Les glossaires sont lus dans un encodage qui dépend de leur extension de fichier :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossaries are terminology files.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210323T160718Z" creationid="suzume" creationdate="20210323T160718Z">
@@ -50317,6 +50325,14 @@ modification follow.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20120131T094735Z">
         <seg>Le projet ne peut pas être vérifié</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The project default writable glossary is always a TSV file saved in UTF-8 encoding.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210323T231215Z" creationid="suzume" creationdate="20210323T231215Z">
+        <seg>Le glossaire modifiable par défaut du projet est toujours un fichier TSV enregistré dans l'encodage UTF-8.</seg>
       </tuv>
     </tu>
     <tu>
