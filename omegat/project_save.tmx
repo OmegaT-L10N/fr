@@ -35615,6 +35615,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT glossary files are simple plain text three-column lists with the source term in the first column, an optional target term in the second column and an optional comment in the third column.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210323T230938Z" creationid="suzume" creationdate="20210323T230938Z">
+        <seg>Les fichiers glossaire d'OmegaT sont de simples fichiers texte brut contenant trois colonnes, avec le terme source dans la première colonne, le terme cible optionnel dans la deuxième colonne et un commentaire optionnel dans la troisième colonne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT has a built-in spell checker based on the &lt;l0&gt;spelling checker&lt;/l0&gt; used in Apache OpenOffice, LibreOffice, Firefox and Thunderbird.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20201203T090757Z" creationid="suzume" creationdate="20201203T090757Z">
@@ -41524,6 +41532,14 @@ ces mots : « pas de page »...</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210110T122838Z" creationid="suzume" creationdate="20210110T122838Z">
         <seg>faites un clic droit sur le panneau - &lt;e0&gt;Ajouter un nouveau Lanceur&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click on the underlined term and select a target term to insert it at the cursor location in the target part of the segment.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210323T230809Z" creationid="suzume" creationdate="20210323T230809Z">
+        <seg>Faites un clic-droit sur le terme souligné et sélectionnez un terme cible pour l'insérer à l'emplacement du curseur dans la partie cible du segment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54649,8 +54665,8 @@ read:</seg>
       <tuv lang="en">
         <seg>To underline matching terms in the source part of the segment use &lt;g0&gt;View&lt;/g0&gt; &gt; &lt;g1&gt;Mark Glossary Matches&lt;/g1&gt;.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210323T230656Z" creationid="suzume" creationdate="20210323T230656Z">
-        <seg>Pour souligner les termes avec correspondances dans la partie source du segment, utilisez &lt;g0&gt;</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210323T230727Z" creationid="suzume" creationdate="20210323T230656Z">
+        <seg>Pour souligner les termes avec correspondances dans la partie source du segment, utilisez &lt;g0&gt;Affichage&lt;/g0&gt; &gt; &lt;g1&gt;Marquer les correspondances de glossaire&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
