@@ -47030,8 +47030,8 @@ material under section 10.</seg>
       <tuv lang="en">
         <seg>Terms from the reference glossaries are displayed in normal face.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210323T162525Z" creationid="suzume" creationdate="20210323T162525Z">
-        <seg>Les termes provenant des glossaires de référence sont affichés en gras.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210323T162701Z" creationid="suzume" creationdate="20210323T162525Z">
+        <seg>Les termes provenant des glossaires de référence sont affichés en normale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54055,6 +54055,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130430T140430Z">
         <seg>Pour supprimer des groupes de balises, il suffit de les retirer du segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To display the &lt;g0&gt;Autocompletion&lt;/g0&gt; contextual menu for the glossary matches, hit the OS dependant key (&lt;k1&gt;Escape&lt;/k1&gt; for macOS, &lt;k2&gt;Ctrl+Space&lt;/k2&gt; for the other platforms).</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210323T162750Z" creationid="suzume" creationdate="20210323T162729Z">
+        <seg>Pour afficher le menu contextuel &lt;g0&gt;Saisie automatique</seg>
       </tuv>
     </tu>
     <tu>
