@@ -15470,6 +15470,14 @@ kolekti -b C:\[...]\trunk\doc_src2 publish [-j JOB] -l fr,en C:\[...]\trunk\doc_
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Comments are displayed after a number and each on a separate line.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210323T162256Z" creationid="suzume" creationdate="20210323T162256Z">
+        <seg>Les commentaires sont affichés après un nombre est chacun sur une ligne séparée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Comments by the author in PO files, or the name of the attribute being translated (in XHTML)</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130528T132025Z">
@@ -17532,8 +17540,8 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       <tuv lang="en">
         <seg>Deactivate &lt;g0&gt;Use stemming for glossary entries&lt;/g0&gt; in the OmegaT global preferences to only find exact matches for a term.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210323T162147Z" creationid="suzume" creationdate="20210323T162147Z">
-        <seg>Désactivez &lt;g0&gt;</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210323T162212Z" creationid="suzume" creationdate="20210323T162147Z">
+        <seg>Désactivez &lt;g0&gt;Utiliser la lemmatisation pour les entrées de glossaire&lt;/g0&gt; dans les préférences globales d'OmegaT pour ne trouver que des correspondances exactes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47012,6 +47020,22 @@ material under section 10.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Terms from the project writable glossary are displayed in bold face.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210323T162316Z" creationid="suzume" creationdate="20210323T162316Z">
+        <seg>Les termes provenant du glossaire modifiable du projet sont affichés en gras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Terms from the reference glossaries are displayed in normal face.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210323T162525Z" creationid="suzume" creationdate="20210323T162525Z">
+        <seg>Les termes provenant des glossaires de référence sont affichés en gras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Terms in the current segment which &lt;a2&gt;OmegaT&lt;/a2&gt; finds in the glossary file(s) are displayed in the Glossary pane:</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20190516T185601Z" creationid="briac" creationdate="20190516T185601Z">
@@ -50884,6 +50908,14 @@ making modifications to it.</seg>
       </tuv>
       <tuv lang="fr" changeid="brigitte" changedate="20130712T151139Z">
         <seg>Un terme source ne doit pas nécessairement être un mot seul. Comme dans cet exemple :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The source term is displayed before the " = " sign and the target terms after.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210323T162236Z" creationid="suzume" creationdate="20210323T162236Z">
+        <seg>Le terme source est affiché avant le signe " = " et le terme cible après.</seg>
       </tuv>
     </tu>
     <tu>
