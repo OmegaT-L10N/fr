@@ -34224,6 +34224,14 @@ Diminue les sorties sur stdout de la ligne de commande.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Notarized vs Unsigned</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210323T161056Z" creationid="suzume" creationdate="20210323T161056Z">
+        <seg>Notarié et non-signé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130423T201516Z">
@@ -35555,6 +35563,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210313T131314Z" creationid="briac" creationdate="20170403T161329Z">
         <seg>OmegaT pour macOS est disponible en version signée et non signée ; elles sont fonctionnellement identiques, mais la version signée est préférée car elle est reconnue par le système comme étant publiée par un développeur connu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT for macOS is available in both Notarized and Unsigned versions; they are functionally identical, but the Notarized version is preferred as it is recognized by the system as being a) published by a known developer, and b) scanned by Apple.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210323T161223Z" creationid="suzume" creationdate="20210323T161223Z">
+        <seg>OmegaT pour macOS est disponible en version notariée et en version non-signée ; les deux versions sont fonctionnellement identiques, mais la version notarié est préférée car elle est reconnue par le système comme étant a) publiée par un développeur connu et b) scannée par Apple.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48289,6 +48305,14 @@ shown below.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The certificate is signed by OmegaT's lead developer.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210323T161252Z" creationid="suzume" creationdate="20210323T161252Z">
+        <seg>Le certificat est signé par le développeur principal d'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The changes are displayed.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160718T155731Z" creationid="Didier" creationdate="20160718T155731Z">
@@ -51592,6 +51616,14 @@ the [Help] menu after starting OmegaT.</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20170403T161332Z" creationid="briac" creationdate="20170403T161332Z">
         <seg>Il peut y avoir un délai dans la publication des versions signées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There may be a delay in publishing the Notarized version.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210323T161232Z" creationid="suzume" creationdate="20210323T161232Z">
+        <seg>Il peut y avoir un délai dans la publication des versions notariées.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65367,6 +65399,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210202T064713Z" creationid="suzume" creationdate="20210202T064713Z">
         <seg>Bonus macos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>macOS tries to increase security by making it difficult to run unverified programs.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210323T161127Z" creationid="suzume" creationdate="20210323T161127Z">
+        <seg>macOS tente d'augmenter la sécurité en rendant plus dure l'exécution de programmes non vérifiés.</seg>
       </tuv>
     </tu>
     <tu>
