@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_621520e02" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_5899b4458" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2371,7 +2371,6 @@ your programs, too.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>(external search commands)</seg>
       </tuv>
@@ -3982,7 +3981,6 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;/repository&gt;
 &lt;/repositories&gt;</seg>
@@ -10300,7 +10298,6 @@ or that patent license was granted, prior to 28 March 2007.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Activate the "Show hidden files" option to make it visible.</seg>
       </tuv>
@@ -10859,7 +10856,6 @@ this License without regard to the additional permissions.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Align Files...</seg>
       </tuv>
@@ -11461,7 +11457,6 @@ the predecessor has it or can get it with reasonable efforts.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>An OmegaT project is a folder containing files and subfolders.</seg>
       </tuv>
@@ -14213,7 +14208,6 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Check &lt;g0&gt;History Completion&lt;/g0&gt; to display suggested words as soon as their first letters are entered.</seg>
       </tuv>
@@ -14222,7 +14216,6 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Check &lt;g0&gt;History Prediction&lt;/g0&gt; to display suggested words that commonly follow the word that has just been entered.</seg>
       </tuv>
@@ -14511,7 +14504,6 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Check the &lt;g0&gt;Use Fuzzy Matching for Dictionary Entries&lt;/g0&gt; option if you want dictionaries to display words that have the same root.</seg>
       </tuv>
@@ -14992,7 +14984,6 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Click the &lt;g0&gt;Edit&lt;/g0&gt; tab on the Wikipedia page.</seg>
       </tuv>
@@ -16172,7 +16163,6 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Copy the URL of the page (ending with &lt;g0&gt;action=edit&lt;/g0&gt;) and paste it into &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
@@ -16197,7 +16187,6 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Copy the text and paste it into the translated version of the Wikipedia page.</seg>
       </tuv>
@@ -24833,7 +24822,6 @@ sections when you distribute them as separate works.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>If &lt;l0&gt;automatic searching in dictionaries&lt;/l0&gt; is disabled, this function allows you to search for the selected word in the dictionaries.</seg>
       </tuv>
@@ -25088,7 +25076,6 @@ circumstances.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>If checked, the separations between paragraphs in the source document are indicated visually.</seg>
       </tuv>
@@ -25121,7 +25108,6 @@ circumstances.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>If commands to perform external searches have been defined in the &lt;l0&gt;Preferences&lt;/l0&gt;, they are listed and accessible here.</seg>
       </tuv>
@@ -27290,7 +27276,6 @@ click on that shortcut.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>In a team project, this folder contains a versioned copy of the project tree structure linked directly to the remote server.</seg>
       </tuv>
@@ -27694,7 +27679,6 @@ the scope of this License.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>In some operating systems, this folder is not displayed by default.</seg>
       </tuv>
@@ -32387,6 +32371,14 @@ impose that choice.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mark unknown words</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210415T055446Z" creationid="suzume" creationdate="20210415T055446Z">
+        <seg>Marquer les mots inconnus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Marshallese</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130411T085247Z">
@@ -33726,7 +33718,6 @@ as the Applications folder.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>New translation memories placed in the &lt;f0&gt;/tm&lt;/f0&gt; folder while translating are loaded automatically as soon as the cursor moves from one segment to another.</seg>
       </tuv>
@@ -37055,7 +37046,6 @@ happen should you file a bug report.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Open the &lt;f0&gt;.UTF8&lt;/f0&gt; file generated in the &lt;f1&gt;/target&lt;/f1&gt; folder.</seg>
       </tuv>
@@ -54685,7 +54675,6 @@ read:</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>To translate the contents of a Wikipedia page (for example):</seg>
       </tuv>
@@ -58529,7 +58518,6 @@ for which you have or can give appropriate copyright permission.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>When you have finished your translation, to import it into Wikipedia:</seg>
       </tuv>
@@ -60174,7 +60162,6 @@ installation script (linux-install.sh).</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>You can make changes to remote files (e.g. deleting a file) using this folder and a Git or SVN client.</seg>
       </tuv>
@@ -64817,7 +64804,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>java -Duser.language=fr -jar OmegaT.jar</seg>
       </tuv>
