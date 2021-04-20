@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_5899b4458" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_a05f7eb96" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -42951,6 +42951,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See Options &gt; File filters for a list of supported file formats.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210420T214906Z" creationid="suzume" creationdate="20210420T214906Z">
+        <seg>Voir Options &gt; Filtres de fichiers pour une liste des formats de fichier pris en charge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See above.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130416T100131Z">
@@ -53803,6 +53811,22 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130415T160845Z">
         <seg>Pour y ajouter du contenu, sélectionnez&lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;D&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Projet&lt;/g5&gt; &lt;g6&gt;Créer les documents traduits&lt;/g6&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To add files to the project you can
+- drag and drop files on this Editor pane
+- use Project &gt; Copy Files to Source Folder...
+- click on Copy Files to Source Folder... in the Project Files window
+- copy files to the project's 'source' folder with your file manager, and then reload the project with Project &gt; Reload.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210420T215151Z" creationid="suzume" creationdate="20210420T215011Z">
+        <seg>Pour ajouter des fichiers à votre projet vous pouvez
+- glisser-déposer des fichiers dans ce volet Éditeur
+- utiliser Projet &gt; Copier des fichiers dans le dossier source
+- cliquer sur 'Copier des fichiers dans le dossier source' dans la fenêtre Fichiers du projet
+- copier des dans le dossier 'source' du projet avec votre gestionnaire de fichier, puis recharger votre projet avec Projet &gt; Recharger.</seg>
       </tuv>
     </tu>
     <tu>
