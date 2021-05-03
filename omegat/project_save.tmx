@@ -15810,9 +15810,9 @@ Le fichier TMX résultant contenant une pseudo-traduction.</seg>
 	--source-pattern=&lt;pattern&gt;
 		A regex whitelist of source files to process.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z" creationid="Didier" creationdate="20160212T145556Z">
+      <tuv lang="fr" changeid="suzume" changedate="20210503T233509Z" creationid="Didier" creationdate="20160212T145556Z">
         <seg>Mode console-translate :
-	--source-pattern=&lt;modèle&gt;
+	--source-pattern=&lt;masque&gt;
 		Une liste blanche en expression régulière des fichiers source à traiter.</seg>
       </tuv>
     </tu>
