@@ -5015,11 +5015,12 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>pourquoi ajouter project/ ? ce nom/préfixe est arbitraire</note>
       <tuv lang="en">
         <seg>&lt;e0&gt;Hint:&lt;/e0&gt; the set of segmentation rules for a given project is stored as &lt;f1&gt;project/omegat/segmentation.conf.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
-        <seg>&lt;e0&gt;Astuce :&lt;/e0&gt; l'ensemble des règles de segmentation spécifiques à un projet est sauvegardé dans le fichier &lt;f1&gt;project/omegat/segmentation.conf.&lt;/f1&gt;</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210503T232642Z">
+        <seg>&lt;e0&gt;Astuce :&lt;/e0&gt; l'ensemble des règles de segmentation spécifiques à un projet est sauvegardé dans le fichier &lt;f1&gt;./omegat/segmentation.conf.&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -18443,8 +18444,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="en">
         <seg>Displays the dictionary entries found in the dictionary files located in the /dictionary/ folder if they are present in the source segment.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Didier" changedate="20120307T083918Z">
-        <seg>Affiche les entrées de dictionnaires trouvées dans les fichiers dictionnaire situés dans le dossier /dictionary/ si ces entrées sont présentes dans le segment source.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210503T232358Z">
+        <seg>Affiche les entrées de dictionnaires trouvées dans les fichiers dictionnaire situés dans le dossier ./dictionary si ces entrées sont présentes dans le segment source.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18467,8 +18468,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="en">
         <seg>Displays the glossary entries found in the glossary files located in the /glossary/ folder if they are present in the source segment.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Didier" changedate="20120307T083817Z">
-        <seg>Affiche les entrées de glossaires trouvées dans les fichiers glossaire situés dans le dossier /glossary/ si ces entrées sont présentes dans le segment source.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210503T232316Z">
+        <seg>Affiche les entrées de glossaires trouvées dans les fichiers glossaire situés dans le dossier ./glossary si ces entrées sont présentes dans le segment source.</seg>
       </tuv>
     </tu>
     <tu>
