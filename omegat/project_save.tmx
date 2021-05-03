@@ -13603,8 +13603,8 @@ software--to make sure the software is free for all its users.</seg>
       <tuv lang="en">
         <seg>By default, the /tm folder is below the project's root folder (e.g. ...&lt;e0&gt;/MyProject/tm&lt;/e0&gt;), but you can choose a different folder in the project properties dialog if you wish.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Didier" changedate="20130528T123359Z">
-        <seg>Par défaut, le dossier /tm est localisé dans le dossier racine du projet (par exemple ...&lt;e0&gt;/MonProjet/tm&lt;/e0&gt;), mais il est toujours possible de choisir un dossier différent dans la boîte de dialogue de propriétés du projet.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210503T231815Z">
+        <seg>Par défaut, le dossier ./tm est localisé dans le dossier racine du projet (par exemple ...&lt;e0&gt;/MonProjet/tm&lt;/e0&gt;), mais il est toujours possible de choisir un dossier différent dans la boîte de dialogue de propriétés du projet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34379,8 +34379,8 @@ Diminue les sorties sur stdout de la ligne de commande.</seg>
       <tuv lang="en">
         <seg>Note that all the tmx files in the /tm repository are parsed when the project is opened, so putting all different TMs you may have on hand into this folder may unnecessarily slow OmegaT down.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210201T140310Z">
-        <seg>Remarquez que tous les fichiers TMX localisés dans le dépôt /tm sont analysés lorsque le projet est ouvert. Placer toutes les mémoires de traduction dont vous disposez dans ce dossier risque donc de ralentir OmegaT inutilement.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210503T231821Z">
+        <seg>Remarquez que tous les fichiers TMX localisés dans le dépôt ./tm sont analysés lorsque le projet est ouvert. Placer toutes les mémoires de traduction dont vous disposez dans ce dossier risque donc de ralentir OmegaT inutilement.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46779,8 +46779,8 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       <tuv lang="en">
         <seg>Take particular care when making changes to the files in &lt;l0&gt;/source&lt;/l0&gt; while in the middle of a project.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Clementine" changedate="20130506T074554Z">
-        <seg>Faites particulièrement attention si vous apportez des modifications aux fichiers du dossier &lt;l0&gt;/source&lt;/l0&gt; alors que vous êtes au milieu d'un projet.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210503T231949Z">
+        <seg>Faites particulièrement attention si vous apportez des modifications aux fichiers du dossier &lt;l0&gt;./source&lt;/l0&gt; alors que vous êtes au milieu d'un projet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49032,8 +49032,8 @@ instead.</seg>
       <tuv lang="en">
         <seg>The files appear in the /script subfolder in the OmegaT user files folder, and include:</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
-        <seg>Les fichiers apparaissent dans le sous-dossier /script situé dans le dossier de fichiers utilisateur d'OmegaT et comprennent :</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210503T231756Z">
+        <seg>Les fichiers apparaissent dans le sous-dossier ./script situé dans le dossier de fichiers utilisateur d'OmegaT et comprennent :</seg>
       </tuv>
     </tu>
     <tu>
@@ -60776,11 +60776,12 @@ source code.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>version du JDK à modifier</note>
       <tuv lang="en">
         <seg>You need to update your JDK 1.6 to the latest version, or just remove the jaxb-*.jar files from the OmegaT /lib dir</seg>
       </tuv>
-      <tuv lang="fr">
-        <seg>Vous devez mettre à jour votre JDK 1.6 vers la dernière version, ou simplement retirer les fichiers jaxb-*.jar du répertoire d'OmegaT</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210503T231746Z">
+        <seg>Vous devez mettre à jour votre JDK 1.6 vers la dernière version, ou simplement retirer les fichiers jaxb-*.jar du répertoire /lib d'OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -62289,8 +62290,8 @@ de créer son dossier de configuration.</seg>
       <tuv lang="en">
         <seg>copy the files to the &lt;f0&gt;/source&lt;/f0&gt; folder</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210111T113535Z" creationid="suzume" creationdate="20210111T113535Z">
-        <seg>copier les fichiers dans le dossier &lt;f0&gt;source&lt;/f0&gt;</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210503T231958Z" creationid="suzume" creationdate="20210111T113535Z">
+        <seg>copier les fichiers dans le dossier &lt;f0&gt;./source&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -64707,8 +64708,8 @@ de créer son dossier de configuration.</seg>
       <tuv lang="en">
         <seg>is not copied in /target folder during the translated files creation process.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Didier" changedate="20141202T214523Z" creationid="Didier" creationdate="20141202T214523Z">
-        <seg>n'est pas copié dans le dossier /target durant le processus de création des fichiers traduits.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210503T231801Z" creationid="Didier" creationdate="20141202T214523Z">
+        <seg>n'est pas copié dans le dossier ./target durant le processus de création des fichiers traduits.</seg>
       </tuv>
     </tu>
     <tu>
