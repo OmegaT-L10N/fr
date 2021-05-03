@@ -5010,8 +5010,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;Hint:&lt;/e0&gt; the set of file filters for a given project is stored as &lt;f1&gt;project/omegat/filters.xml.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
-        <seg>&lt;e0&gt;Astuce :&lt;/e0&gt; l'ensemble des filtres de fichiers d'un projet donné est sauvegardé dans le fichier &lt;f1&gt;project/omegat/filters.xml.&lt;/f1&gt;</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210503T232646Z">
+        <seg>&lt;e0&gt;Astuce :&lt;/e0&gt; l'ensemble des filtres de fichiers d'un projet donné est sauvegardé dans le fichier &lt;f1&gt;./omegat/filters.xml.&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -31915,8 +31915,8 @@ La version Mac intègre un JRE.</seg>
       <tuv lang="en">
         <seg>Make regular copies of the file /omegat/project_save.tmx to backup media, such as CD or DVD.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Didier" changedate="20130528T070937Z">
-        <seg>faites régulièrement des copies du fichier /omegat/project_save.tmx sur des supports de sauvegarde comme des CD ou des DVD.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210503T232652Z">
+        <seg>faites régulièrement des copies du fichier ./omegat/project_save.tmx sur des supports de sauvegarde comme des CD ou des DVD.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48640,8 +48640,8 @@ utilisé à la place.</seg>
       <tuv lang="en">
         <seg>The contents of the target subfolder will reflect the current state of the translation, as present in the project translation memory, saved in the current &lt;e8&gt;/omegat/project_save.tmx&lt;/e8&gt;.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Clementine" changedate="20130430T123141Z">
-        <seg>Le contenu du sous-dossier target (cible) montre l'état actuel de la traduction, telle qu'on la trouve dans la mémoire de traduction du projet (qui est sauvegardée dans le fichier&lt;e8&gt;/omegat/project_save.tmx&lt;/e8&gt; en cours).</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210503T232717Z">
+        <seg>Le contenu du sous-dossier target (cible) montre l'état actuel de la traduction, telle qu'on la trouve dans la mémoire de traduction du projet (qui est sauvegardée dans le fichier&lt;e8&gt;./omegat/project_save.tmx&lt;/e8&gt; en cours).</seg>
       </tuv>
     </tu>
     <tu>
@@ -50532,8 +50532,8 @@ protocols for communication across the network.</seg>
       <tuv lang="en">
         <seg>The resulting TMX is stored in the &lt;f1&gt;/omegat/&lt;/f1&gt; folder under the name &lt;f2&gt;align.tmx&lt;/f2&gt;.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Clementine" changedate="20130502T141346Z">
-        <seg>Le TMX ainsi produit est conservé dans le dossier &lt;f1&gt;/omegat/&lt;/f1&gt; sous le nom &lt;f2&gt;align.tmx&lt;/f2&gt;.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210503T232707Z">
+        <seg>Le TMX ainsi produit est conservé dans le dossier &lt;f1&gt;./omegat&lt;/f1&gt; sous le nom &lt;f2&gt;align.tmx&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
