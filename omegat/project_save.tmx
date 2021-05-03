@@ -28066,8 +28066,8 @@ patent against the party.</seg>
       <tuv lang="en">
         <seg>In this mode, OmegaT will attempt to translate the files in &lt;f0&gt;/source/&lt;/f0&gt; with the available translation memories.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210503T230608Z" creationid="suzume" creationdate="20210202T073258Z">
-        <seg>Dans ce mode, OmegaT tente de traduire les fichiers du dossier &lt;f0&gt;/source&lt;/f0&gt; avec les mémoires de traduction disponibles.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210503T231000Z" creationid="suzume" creationdate="20210202T073258Z">
+        <seg>Dans ce mode, OmegaT tente de traduire les fichiers du dossier &lt;f0&gt;./source&lt;/f0&gt; avec les mémoires de traduction disponibles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36363,8 +36363,8 @@ with exactly the same structure, including copies of any non-supported files.</s
       <tuv lang="en">
         <seg>OmegaT will then copy the selected files to the &lt;f2&gt;/source/&lt;/f2&gt; subfolder of your newly created project.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210503T230622Z">
-        <seg>OmegaT copie le fichier sélectionné dans le dossier &lt;f2&gt;/source&lt;/f2&gt; du projet que vous venez de créer.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210503T231002Z">
+        <seg>OmegaT copie le fichier sélectionné dans le dossier &lt;f2&gt;./source&lt;/f2&gt; du projet que vous venez de créer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38326,6 +38326,7 @@ mirage, pas de page...</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Je pense qu'on peut standardiser sur ./[nom du dossier]</note>
       <tuv lang="en">
         <seg>Place source files in ./source and supplemental
 material in ./tm, ./glossary, and ./dictionary as required, then commit
@@ -51871,8 +51872,8 @@ prohibited by law if you do not accept this License.</seg>
       <tuv lang="en">
         <seg>These are the files present in the /source folder in a format that OmegaT is able to recognize.</seg>
       </tuv>
-      <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210503T191247Z" creationid="Didier" creationdate="20141202T222659Z">
-        <seg>Il s'agit de tous les fichiers présents dans le dossier /source qui sont écrits dans un format qu'OmegaT est en mesure de traiter.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210503T231021Z" creationid="Didier" creationdate="20141202T222659Z">
+        <seg>Il s'agit de tous les fichiers présents dans le dossier ./source qui sont écrits dans un format qu'OmegaT est en mesure de traiter.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59722,11 +59723,12 @@ you think will help the developers with finding and fixing your bug.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Il faudra modifier la syntaxe dans le fichier d'origine, pas besoin des guillemets</note>
       <tuv lang="en">
         <seg>You can also add source files from Internet pages, written in MediaWiki, by clicking on&lt;g3&gt; "Import from MediaWiki"&lt;/g3&gt; button and providing the corresponding URL.</seg>
       </tuv>
-      <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210503T201823Z" creationid="suzume" creationdate="20210204T133255Z">
-        <seg>Il est également possible d'ajouter des fichiers source provenant de pages internet , écrits dans MediaWiki, en cliquant sur &lt;g3&gt; « Importer depuis MediaWiki » &lt;/g3&gt;» et en saisissant l'URL correspondant.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210503T230940Z" creationid="suzume" creationdate="20210204T133255Z">
+        <seg>Il est également possible d'ajouter des fichiers source provenant de pages internet , écrits dans MediaWiki, en cliquant sur &lt;g3&gt;Importer depuis MediaWiki&lt;/g3&gt;» et en saisissant l'URL correspondant.</seg>
       </tuv>
     </tu>
     <tu>
