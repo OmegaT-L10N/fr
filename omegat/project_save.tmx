@@ -998,8 +998,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Files</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20130328T172854Z">
-        <seg>les fichier&amp;s</seg>
+      <tuv lang="FR" changeid="AlexandraAnselmi57" changedate="20210504T111228Z">
+        <seg>Les fichier&amp;s</seg>
       </tuv>
     </tu>
     <tu>
@@ -1078,8 +1078,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Glossaries</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20140414T131203Z" creationid="Didier" creationdate="20140414T130233Z">
-        <seg>les glossa&amp;ires</seg>
+      <tuv lang="FR" changeid="AlexandraAnselmi57" changedate="20210504T111147Z" creationid="Didier" creationdate="20140414T130233Z">
+        <seg>Les glossa&amp;ires</seg>
       </tuv>
     </tu>
     <tu>
@@ -2059,13 +2059,15 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
     </tu>
     <tu>
+      <note>
+</note>
       <tuv lang="EN">
         <seg>'*' matches zero or more characters ('run*' matches 'run', 'runs', and'running', etc.)
 '?' matches exactly one character ('run?' matches 'runs' and 'rung', but not 'run' or 'running').</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20151111T095802Z" creationid="Didier" creationdate="20151111T095802Z">
+      <tuv lang="FR" changeid="AlexandraAnselmi57" changedate="20210504T111318Z" creationid="Didier" creationdate="20151111T095802Z">
         <seg>Le caractère « * » correspond à zéro ou plusieurs caractères. La recherche sur « mon* » donnera par exemple les résultats « mon », « monde », « monter ».
-Le caractère « ? » correspond à un seul caractère. La recherche sur « mon? » donnera par exemple le résultat « mont ».</seg>
+Le caractère « ? » correspond à un seul caractère. La recherche sur « mon ? » donnera par exemple le résultat « mont ».</seg>
       </tuv>
     </tu>
     <tu>
@@ -39274,8 +39276,8 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
       <tuv lang="EN">
         <seg>Pro&amp;ject</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20130328T172036Z">
-        <seg>le pro&amp;jet</seg>
+      <tuv lang="FR" changeid="AlexandraAnselmi57" changedate="20210504T111252Z">
+        <seg>Le pro&amp;jet</seg>
       </tuv>
     </tu>
     <tu>
@@ -46215,8 +46217,8 @@ address new problems or concerns.</seg>
       <tuv lang="EN">
         <seg>T&amp;Ms</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20140414T131136Z" creationid="Didier" creationdate="20140414T130225Z">
-        <seg>les &amp;MT</seg>
+      <tuv lang="FR" changeid="AlexandraAnselmi57" changedate="20210504T111128Z" creationid="Didier" creationdate="20140414T130225Z">
+        <seg>Les &amp;MT</seg>
       </tuv>
     </tu>
     <tu>
@@ -63046,8 +63048,8 @@ de créer son dossier de configuration.</seg>
       <tuv lang="EN">
         <seg>file names</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20140709T133353Z" creationid="Didier" creationdate="20140709T133353Z">
-        <seg>les noms de fichier</seg>
+      <tuv lang="FR" changeid="AlexandraAnselmi57" changedate="20210504T111205Z" creationid="Didier" creationdate="20140709T133353Z">
+        <seg>Les noms de fichier</seg>
       </tuv>
     </tu>
     <tu>
