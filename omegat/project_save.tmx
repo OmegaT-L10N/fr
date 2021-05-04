@@ -34685,8 +34685,8 @@ Rajout d'une partie approriée, afin que la note de bas de page ne se retrouve p
       <tuv lang="EN">
         <seg>Note: DocBook files are recognized not only by file extension, but they also must have a DOCTYPE declaration: &lt;!DOCTYPE book PUBLIC \"-//OASIS//DTD DocBook XML... for DocBook 4, or a Namespace: xmlns="http://docbook.org/ns/docbook" for DocBook 5</seg>
       </tuv>
-      <tuv lang="FR" changeid="suzume" changedate="20210207T052315Z">
-        <seg>Note : les fichiers DocBook sont reconnus non seulement par l'extension de fichier .xml, mais doivent également avoir une déclaration DOCTYPE : &lt;!DOCTYPE book PUBLIC \"-//OASIS//DTD DocBook XML... pour DocBook 4, ou un espace de nom : xmlns="http://docbook.org/ns/docbook" pour DocBook 5.</seg>
+      <tuv lang="FR" changeid="AlexandraAnselmi57" changedate="20210504T112539Z">
+        <seg>Note : les fichiers DocBook sont reconnus non seulement par l'extension de fichier.xml, mais doivent également avoir une déclaration DOCTYPE : &lt; !DOCTYPE book PUBLIC \"-//OASIS//DTD DocBook XML... pour DocBook 4, ou un espace de nom : xmlns="http://docbook.org/ns/docbook" pour DocBook 5.</seg>
       </tuv>
     </tu>
     <tu>
