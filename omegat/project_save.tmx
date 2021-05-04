@@ -3412,9 +3412,9 @@ Le contenu à inclure dans la TMX pseudo-traduite.</seg>
 	--config-dir=&lt;path&gt;
 		The directory to read/write OmegaT configuration files from/to.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20160212T145150Z" creationid="Didier" creationdate="20160212T145150Z">
+      <tuv lang="FR" changeid="AlexandraAnselmi57" changedate="20210504T104752Z" creationid="Didier" creationdate="20160212T145150Z">
         <seg>--resource-bundle=&lt;chemin&gt;
-		Un fichier .properties Java à utiliser pour les textes de l'interface utilisateur
+		Un fichier.properties Java à utiliser pour les textes de l'interface utilisateur
 	--config-dir=&lt;chemin&gt;
 		Le répertoire à partir duquel lire et écrire les fichiers de configuration d'OmegaT.</seg>
       </tuv>
@@ -10120,8 +10120,8 @@ or that patent license was granted, prior to 28 March 2007.</seg>
       <tuv lang="EN">
         <seg>Abort: Exit with an error if tags invalid.</seg>
       </tuv>
-      <tuv lang="FR" changeid="suzume" changedate="20190421T020623Z" creationid="Didier" creationdate="20160115T135126Z">
-        <seg>abort : quitter avec une erreur s'il y a des balises non valides.</seg>
+      <tuv lang="FR" changeid="AlexandraAnselmi57" changedate="20210504T104836Z" creationid="Didier" creationdate="20160115T135126Z">
+        <seg>Abort : quitter avec une erreur s'il y a des balises non valides.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57864,8 +57864,8 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>Warn: Report invalid tags to stdout.</seg>
       </tuv>
-      <tuv lang="FR" changeid="suzume" changedate="20190421T021512Z" creationid="Didier" creationdate="20160115T135142Z">
-        <seg>warn : signaler les balises non valides sur stdout.</seg>
+      <tuv lang="FR" changeid="AlexandraAnselmi57" changedate="20210504T104841Z" creationid="Didier" creationdate="20160115T135142Z">
+        <seg>Warn : signaler les balises non valides sur stdout.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64663,8 +64663,8 @@ de créer son dossier de configuration.</seg>
         <seg>init &lt;source language&gt; &lt;target language&gt;
 		Initialize a minimal team project with the specified languages.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20160718T150852Z" creationid="Didier" creationdate="20160718T150852Z">
-        <seg>init &lt;langue source&gt; &lt;langue cible&gt;
+      <tuv lang="FR" changeid="AlexandraAnselmi57" changedate="20210504T104908Z" creationid="Didier" creationdate="20160718T150852Z">
+        <seg>Init &lt;langue source&gt; &lt;langue cible&gt;
 		Créer un projet en équipe minimal avec les langues spécifiées.</seg>
       </tuv>
     </tu>
