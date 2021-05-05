@@ -5959,8 +5959,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="en">
         <seg>&lt;html&gt;Add patterns using wildcards (Apache Ant style): &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;?&lt;/code&gt;, &lt;code&gt;**&lt;/code&gt;&lt;br&gt;Example: &lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
       </tuv>
-      <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210504T125844Z" creationid="Didier" creationdate="20160427T152822Z">
-        <seg>&lt;html&gt;Ajouter des masques en utilisant des caractères joker (de type Apache Ant) : &lt;code&gt;*&lt;/code&gt;, &lt;code&gt; ? &lt;/code&gt;, &lt;code&gt;**&lt;/code&gt;&lt;br&gt;Example : &lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210505T045926Z" creationid="Didier" creationdate="20160427T152822Z">
+        <seg>&lt;html&gt;Ajouter des masques en utilisant des caractères joker (de type Apache Ant) : &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;?&lt;/code&gt;, &lt;code&gt;**&lt;/code&gt;&lt;br&gt;Exemple : &lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -35896,9 +35896,9 @@ published by the Free Software Foundation, either version 3 of the License, or
 the name of your OS and/or the system property containing
 your home folder.</seg>
       </tuv>
-      <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210504T124215Z">
+      <tuv lang="fr" changeid="suzume" changedate="20210505T045819Z">
         <seg>L'accès à la propriété système contenant
-le nom de votre système d'exploitation ou à la propriété système
+le nom de votre système d'exploitation ou celle
 contenant votre dossier de base est refusé à OmegaT.</seg>
       </tuv>
     </tu>
@@ -38737,8 +38737,8 @@ language you would like to translate to.</seg>
       <tuv lang="en">
         <seg>Please translate this plural as plural form #{0}.</seg>
       </tuv>
-      <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210504T124331Z">
-        <seg>Veuillez traduire ce pluriel sous la forme plurielle #{0}.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210505T045832Z">
+        <seg>Traduisez ce pluriel sous la forme plurielle #{0}.</seg>
       </tuv>
     </tu>
     <tu>
