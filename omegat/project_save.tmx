@@ -21280,12 +21280,14 @@ dommage...</seg>
       </tuv>
     </tu>
     <tu>
-      <note>« .recover »</note>
+      <note>« .recover »
+
+-&gt; je pense qu'on peut conserver l'original '.recover'</note>
       <tuv lang="en">
         <seg>Fatal error encountered - saving project file with '.recover' backup extension.</seg>
       </tuv>
-      <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210504T110332Z">
-        <seg>Erreur majeure. Le projet est sauvegardé avec l'extension «.recover».</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210505T235934Z">
+        <seg>Erreur majeure. Le projet est sauvegardé avec l'extension '.recover'.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37934,7 +37936,9 @@ of promoting the sharing and reuse of software generally.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Je ne comprends pas pourquoi page brumeuse ne correspond pas </note>
+      <note>Je ne comprends pas pourquoi page brumeuse ne correspond pas 
+
+-&gt; Je pense que c'est à cause du saut de ligne. Ce sont des messages d'erreur qui n'apparaissent plus. Ils sont ici depuis 20 ans. Si vous voulez vous entrainer à traduire de la poésie, allez-y !</note>
       <tuv lang="en">
         <seg>Page slips through fingers
 Pulse pounding hard and frantic
