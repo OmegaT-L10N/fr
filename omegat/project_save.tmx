@@ -12523,8 +12523,8 @@ provoquer des comportements inattendus, mais corrects.</seg>
       <tuv lang="en">
         <seg>Auto replace 'nplurals=INTEGER; &amp;plural=EXPRESSION;' in header</seg>
       </tuv>
-      <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210504T111914Z">
-        <seg>&amp;Remplacer automatiquement « nplurals=INTEGER ; plural=EXPRESSION ; » dans l'en-tête</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210505T045327Z">
+        <seg>&amp;Remplacer automatiquement 'nplurals=INTEGER; &amp;plural=EXPRESSION;' dans l'en-tête</seg>
       </tuv>
     </tu>
     <tu>
@@ -47838,8 +47838,8 @@ software and other kinds of works.</seg>
       <tuv lang="en">
         <seg>The Java Resource Bundles filter threw an exception:</seg>
       </tuv>
-      <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210504T112120Z" creationid="Didier" creationdate="20140224T151345Z">
-        <seg>Le filtre paquets de ressources Java a généré une exception :</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210505T045348Z" creationid="Didier" creationdate="20140224T151345Z">
+        <seg>Le filtre pour paquets de ressources Java a généré une exception :</seg>
       </tuv>
     </tu>
     <tu>
@@ -55704,8 +55704,8 @@ Les recherches exactes correspondent à l'ensemble de la chaîne recherchée.</s
       <tuv lang="en">
         <seg>Typo3 l10nmgr</seg>
       </tuv>
-      <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210504T112255Z">
-        <seg>L10nmgr Typo3</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210505T045407Z">
+        <seg>Typo3 l10nmgr</seg>
       </tuv>
     </tu>
     <tu>
@@ -69526,6 +69526,16 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210503T233544Z" creationid="brigitte" creationdate="20130715T202711Z">
         <seg>Installation et démarrage d'OmegaT » dans le Manuel de l'utilisateur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Bundle.properties</prop>
+      <prop type="id">PM_ERROR_SAVE</prop>
+      <tuv lang="en">
+        <seg>Preferences system save operation failed!</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210505T045252Z" creationid="suzume" creationdate="20210505T045205Z">
+        <seg>Impossible d'enregistrer les préférences !</seg>
       </tuv>
     </tu>
     <tu>
