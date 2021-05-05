@@ -18475,8 +18475,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="en">
         <seg>Displays the glossary entries found in the glossary files located in the /glossary/ folder if they are present in the source segment.</seg>
       </tuv>
-      <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210504T123947Z">
-        <seg>Affiche les entrées de glossaires trouvées dans les fichiers du glossaire situés dans le dossier./glossary si ces entrées sont présentes dans le segment source.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210505T045627Z">
+        <seg>Affiche les entrées de glossaires trouvées dans les fichiers du glossaire situés dans le dossier ./glossary si ces entrées sont présentes dans le segment source.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34688,8 +34688,8 @@ Rajout d'une partie approriée, afin que la note de bas de page ne se retrouve p
       <tuv lang="en">
         <seg>Note: DocBook files are recognized not only by file extension, but they also must have a DOCTYPE declaration: &lt;!DOCTYPE book PUBLIC \"-//OASIS//DTD DocBook XML... for DocBook 4, or a Namespace: xmlns="http://docbook.org/ns/docbook" for DocBook 5</seg>
       </tuv>
-      <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210504T112539Z">
-        <seg>Note : les fichiers DocBook sont reconnus non seulement par l'extension de fichier.xml, mais doivent également avoir une déclaration DOCTYPE : &lt; !DOCTYPE book PUBLIC \"-//OASIS//DTD DocBook XML... pour DocBook 4, ou un espace de nom : xmlns="http://docbook.org/ns/docbook" pour DocBook 5.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210505T045455Z">
+        <seg>Note : les fichiers DocBook sont reconnus non seulement par l'extension de fichier.xml, mais doivent également avoir une déclaration DOCTYPE : &lt;!DOCTYPE book PUBLIC \"-//OASIS//DTD DocBook XML... pour DocBook 4, ou un espace de nom : xmlns="http://docbook.org/ns/docbook" pour DocBook 5.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53364,8 +53364,8 @@ Seule la licence en langue anglaise est légalement valable. Vous pouvez trouver
       <tuv lang="en">
         <seg>This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.</seg>
       </tuv>
-      <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210504T122703Z">
-        <seg>Ce programme est libre. Vous pouvez le redistribuer et le modifier selon les termes de la Licence Publique Générale GNU publiée par la Fondation du Logiciel Libre. La licence applicable est la version 3 ou bien une version plus récente à votre choix.
+      <tuv lang="fr" changeid="suzume" changedate="20210505T045550Z">
+        <seg>Ce programme est libre. Vous pouvez le redistribuer et le modifier selon les termes de la Licence Publique Générale GNU publiée par la Free Software Foundation. La licence applicable est la version 3 ou bien une version plus récente à votre choix.
 
 Seule la licence en langue anglaise est légalement valable. Vous pouvez trouver des traductions françaises qui peuvent servir de référence mais qui en aucun cas ne peuvent remplacer la licence originale GNU General Public License, Free Software Foundation, version 3 ou plus récente.</seg>
       </tuv>
@@ -60017,8 +60017,8 @@ your programs, too.</seg>
       <tuv lang="en">
         <seg>You can create glossary entries with Create Glossary Entry in the Edit menu.</seg>
       </tuv>
-      <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210504T123752Z" creationid="Didier" creationdate="20130925T162451Z">
-        <seg>Vous pouvez créer des entrées de glossaire avec créer une entrée de glossaire dans le menu Edition.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210505T045717Z" creationid="Didier" creationdate="20130925T162451Z">
+        <seg>Vous pouvez créer des entrées de glossaire avec Créer une entrée de glossaire dans le menu Edition.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63443,8 +63443,8 @@ de créer son dossier de configuration.</seg>
       <tuv lang="en">
         <seg>h&amp;reflang (language of links)</seg>
       </tuv>
-      <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210504T123455Z">
-        <seg>H&amp;reflang (langue des liens)</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210505T045612Z">
+        <seg>h&amp;reflang (langue des liens)</seg>
       </tuv>
     </tu>
     <tu>
@@ -63571,8 +63571,8 @@ de créer son dossier de configuration.</seg>
       <tuv lang="en">
         <seg>href (URL of &amp;links)</seg>
       </tuv>
-      <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210504T123340Z">
-        <seg>Href (URL des &amp;liens)</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210505T045559Z">
+        <seg>href (URL des &amp;liens)</seg>
       </tuv>
     </tu>
     <tu>
@@ -64981,16 +64981,16 @@ de créer son dossier de configuration.</seg>
       <tuv lang="en">
         <seg>jsch-agent-proxy (jsch-agent-proxy License)</seg>
       </tuv>
-      <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210504T122136Z" creationid="Didier" creationdate="20160427T150626Z">
-        <seg>Jsch-agent-proxy (licence jsch-agent-proxy License)</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210505T045503Z" creationid="Didier" creationdate="20160427T150626Z">
+        <seg>jsch-agent-proxy (jsch-agent-proxy License)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>juniversalchardet (GPL)</seg>
       </tuv>
-      <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210504T122318Z" creationid="Didier" creationdate="20160718T151955Z">
-        <seg>Juniversalchardet (GPL)</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210505T045508Z" creationid="Didier" creationdate="20160718T151955Z">
+        <seg>juniversalchardet (GPL)</seg>
       </tuv>
     </tu>
     <tu>
@@ -65293,8 +65293,8 @@ de créer son dossier de configuration.</seg>
       <tuv lang="en">
         <seg>lan&amp;g (language attribute)</seg>
       </tuv>
-      <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210504T123434Z">
-        <seg>Lan&amp;g (attribut de langue)</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210505T045610Z">
+        <seg>lan&amp;g (attribut de langue)</seg>
       </tuv>
     </tu>
     <tu>
@@ -65565,8 +65565,8 @@ de créer son dossier de configuration.</seg>
       <tuv lang="en">
         <seg>mALIGNa (MIT License)</seg>
       </tuv>
-      <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210504T122338Z" creationid="Didier" creationdate="20160427T150705Z">
-        <seg>MALIGNa (licence MIT)</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210505T045509Z" creationid="Didier" creationdate="20160427T150705Z">
+        <seg>mALIGNa (MIT License)</seg>
       </tuv>
     </tu>
     <tu>
@@ -67423,8 +67423,8 @@ de créer son dossier de configuration.</seg>
       <tuv lang="en">
         <seg>slf4j (MIT License)</seg>
       </tuv>
-      <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210504T122258Z" creationid="Didier" creationdate="20140725T163342Z">
-        <seg>Slf4j (licence MIT)</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210505T045506Z" creationid="Didier" creationdate="20140725T163342Z">
+        <seg>slf4j (MIT License)</seg>
       </tuv>
     </tu>
     <tu>
@@ -67599,8 +67599,8 @@ de créer son dossier de configuration.</seg>
       <tuv lang="en">
         <seg>src (URL of &amp;images)</seg>
       </tuv>
-      <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210504T123401Z">
-        <seg>Src (URL des &amp;images)</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210505T045605Z">
+        <seg>src (URL des &amp;images)</seg>
       </tuv>
     </tu>
     <tu>
@@ -68303,16 +68303,16 @@ de créer son dossier de configuration.</seg>
       <tuv lang="en">
         <seg>trie4j (Apache License 2.0)</seg>
       </tuv>
-      <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210504T122401Z" creationid="Didier" creationdate="20160718T152005Z">
-        <seg>Trie4j (licence Apache 2.0)</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210505T045511Z" creationid="Didier" creationdate="20160718T152005Z">
+        <seg>trie4j (Apache License 2.0)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>trilead-ssh2 (Trilead SSH license)</seg>
       </tuv>
-      <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210504T122206Z" creationid="Didier" creationdate="20160718T151852Z">
-        <seg>Trilead-ssh2 (licence Trilead SSH)</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210505T045505Z" creationid="Didier" creationdate="20160718T151852Z">
+        <seg>trilead-ssh2 (Trilead SSH license)</seg>
       </tuv>
     </tu>
     <tu>
@@ -68535,8 +68535,8 @@ de créer son dossier de configuration.</seg>
       <tuv lang="en">
         <seg>value (of button, &amp;submit and reset input)</seg>
       </tuv>
-      <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210504T123659Z">
-        <seg>Value (des button, &amp;submit et reset imput)</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210505T045614Z">
+        <seg>value (des button, &amp;submit et reset imput)</seg>
       </tuv>
     </tu>
     <tu>
