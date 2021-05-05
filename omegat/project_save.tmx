@@ -16190,6 +16190,7 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>(ex : Applications).</note>
       <tuv lang="EN">
         <seg>Copy the folder to a suitable folder (e.g. Applications).</seg>
       </tuv>
@@ -53966,6 +53967,8 @@ public, and in some countries other activities as well.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>?
+</note>
       <tuv lang="EN">
         <seg>To change the amount of memory available, edit &lt;e0&gt;OmegaT.app/Contents/Info.plist&lt;/e0&gt; file and un-comment the line &lt;l1&gt;&lt;!-- &lt;string&gt;-Xmx6g&lt;/string&gt; --&gt;&lt;/l1&gt; by removing the &lt;l2&gt;&lt;!--&lt;/l2&gt; and &lt;l3&gt;--&gt;&lt;/l3&gt;.</seg>
       </tuv>
