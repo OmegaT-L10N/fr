@@ -55057,7 +55057,8 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Total des caractères</note>
+      <note>Total des caractères
+-&gt; OK, à vous !</note>
       <tuv lang="en">
         <seg>Total Characters (including spaces)</seg>
       </tuv>
@@ -65545,6 +65546,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>*bug*
+Ce segment et le suivant sont des messages d'erreur dans XMLStreamReader.java:
+L659: 
+        if (blk.numAttributes() &gt; 0) {
+            data += OStrings.getString("XSR_ERROR_LOADED") + blk.numAttributes()
+                    + OStrings.getString("XSR_ERROR_ATTRIBUTES");
+        }
+C'est très moche et on ne devrait pas avoir à séparer deux mots pour faire une phrase</note>
       <tuv lang="en">
         <seg>loaded</seg>
       </tuv>
