@@ -24982,7 +24982,9 @@ need not be entered.)</seg>
       </tuv>
     </tu>
     <tu>
-      <note>interface d'utilisation</note>
+      <note>interface d'utilisation
+
+-&gt; J'ai le sentiment qu'on a "interface utilisateur" dans le reste de manuel.</note>
       <tuv lang="en">
         <seg>If a user interface in this language is available, &lt;a4&gt;OmegaT&lt;/a4&gt; uses it.</seg>
       </tuv>
@@ -49170,7 +49172,9 @@ instead.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>langue d'utilisation</note>
+      <note>langue d'utilisation
+
+-&gt; je ne trouve pas le terme dans le reste du projet, vous avez des références ?</note>
       <tuv lang="en">
         <seg>The following example for the INI file reserves 1 GB of memory, requests French as the user language and Canada as the country:</seg>
       </tuv>
