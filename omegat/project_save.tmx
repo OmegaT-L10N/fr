@@ -5970,7 +5970,8 @@ la configuration actuelle est de {0} Mo.</seg>
 
 -&gt; il s'agit ici de codes qui sont automatiquement remplacés par &gt;
 
-&amp;gt; = "greater than"</note>
+&amp;gt; = "greater than"
+Ok.</note>
       <tuv lang="EN">
         <seg>&lt;html&gt;&lt;i&gt;Preferences&lt;/i&gt; &amp;gt; &lt;i&gt;General&lt;/i&gt; &amp;gt; &lt;i&gt;Use TAB to Advance&lt;/i&gt; is checked&lt;/html&gt;</seg>
       </tuv>
@@ -60854,12 +60855,13 @@ source code.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>* version du JDK à modifier</note>
+      <note>* version du JDK à modifier
+Ok.</note>
       <tuv lang="EN">
         <seg>You need to update your JDK 1.6 to the latest version, or just remove the jaxb-*.jar files from the OmegaT /lib dir</seg>
       </tuv>
-      <tuv lang="FR" changeid="suzume" changedate="20210503T231746Z">
-        <seg>Vous devez mettre à jour votre JDK 1.6 vers la dernière version, ou simplement retirer les fichiers jaxb-*.jar du répertoire /lib d'OmegaT</seg>
+      <tuv lang="FR" changeid="AlexandraAnselmi57" changedate="20210506T102033Z">
+        <seg>Vous devez mettre à jour votre version du JDK à modifier vers la dernière version, ou simplement retirer les fichiers jaxb-*.jar du répertoire /lib d'OmegaT</seg>
       </tuv>
     </tu>
     <tu>
