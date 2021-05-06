@@ -5037,7 +5037,8 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>pourquoi ajouter project/ ? ce nom/préfixe est arbitraire</note>
+      <note>pourquoi ajouter project/ ? ce nom/préfixe est arbitraire
+Il faut donc que j'enlève le mot projet ?</note>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Hint:&lt;/e0&gt; the set of segmentation rules for a given project is stored as &lt;f1&gt;project/omegat/segmentation.conf.&lt;/f1&gt;</seg>
       </tuv>
@@ -69201,12 +69202,13 @@ de créer son dossier de configuration.</seg>
 
 https://fr.wiktionary.org/wiki/LTR
 
-Il est peut-être préférable de remettre l'abréviation acceptée dans le texte.</note>
+Il est peut-être préférable de remettre l'abréviation acceptée dans le texte.
+Ok.</note>
       <tuv lang="EN">
         <seg>{0} toggles orientation between LTR, RTL, and language-dependent</seg>
       </tuv>
-      <tuv lang="FR" changeid="suzume" changedate="20210506T001445Z" creationid="Didier" creationdate="20170307T143635Z">
-        <seg>{0} bascule l'orientation entre les modes gauche à droite (LTR), droite à gauche (RTL) et dépendants des langues</seg>
+      <tuv lang="FR" changeid="AlexandraAnselmi57" changedate="20210506T102252Z" creationid="Didier" creationdate="20170307T143635Z">
+        <seg>{0} bascule l'orientation entre les modes LTR, RTL et dépendants des langues</seg>
       </tuv>
     </tu>
     <tu>
