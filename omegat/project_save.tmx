@@ -1076,7 +1076,16 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Les glossa&amp;ires</note>
+      <note>Les glossa&amp;ires
+
+-&gt; il s'agit de l'interface de recherche:
+
+"Rechercher dans
+○ le projet
+□ les mémoires..."
+
+etc.
+</note>
       <tuv lang="en">
         <seg>&amp;Glossaries</seg>
       </tuv>
@@ -2062,7 +2071,8 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <note>L'espace fine ici est correct
-</note>
+
+-&gt; Oui, je pense, mais comme elle n'apparait pas dans OmegaT on ne sait pas si elle y est ou pas :-)</note>
       <tuv lang="en">
         <seg>'*' matches zero or more characters ('run*' matches 'run', 'runs', and'running', etc.)
 '?' matches exactly one character ('run?' matches 'runs' and 'rung', but not 'run' or 'running').</seg>
@@ -39291,7 +39301,9 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Le projet</note>
+      <note>Le projet
+
+-&gt; voir note 0482</note>
       <tuv lang="en">
         <seg>Pro&amp;ject</seg>
       </tuv>
