@@ -38372,15 +38372,16 @@ mirage, pas de page...</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Je pense qu'on peut standardiser sur ./[nom du dossier]</note>
+      <note>Je pense qu'on peut standardiser sur ./[nom du dossier]
+Ok.</note>
       <tuv lang="EN">
         <seg>Place source files in ./source and supplemental
 material in ./tm, ./glossary, and ./dictionary as required, then commit
 everything.</seg>
       </tuv>
-      <tuv lang="FR" changeid="AlexandraAnselmi57" changedate="20210504T123025Z" creationid="Didier" creationdate="20160718T151255Z">
-        <seg>Placez les fichiers sources dans ./source et les matériels supplémentaires dans
-./tm, ./glossary et ./dictionary selon les besoins, puis validez (commit)
+      <tuv lang="FR" changeid="AlexandraAnselmi57" changedate="20210506T095415Z" creationid="Didier" creationdate="20160718T151255Z">
+        <seg>Placez les fichiers sources dans ./[ source] et les matériels supplémentaires dans
+./[tm], ./[glossary] et ./[dictionary] selon les besoins, puis validez (commit)
 l'ensemble.</seg>
       </tuv>
     </tu>
@@ -59792,7 +59793,8 @@ you think will help the developers with finding and fixing your bug.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Il faudra modifier la syntaxe dans le fichier d'origine, pas besoin des guillemets</note>
+      <note>Il faudra modifier la syntaxe dans le fichier d'origine, pas besoin des guillemets
+Ok.</note>
       <tuv lang="EN">
         <seg>You can also add source files from Internet pages, written in MediaWiki, by clicking on&lt;g3&gt; "Import from MediaWiki"&lt;/g3&gt; button and providing the corresponding URL.</seg>
       </tuv>
