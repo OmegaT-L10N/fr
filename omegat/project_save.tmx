@@ -189,7 +189,9 @@ License. Each licensee is addressed as "you". "Licensees" and
       </tuv>
     </tu>
     <tu>
-      <note>Cette partie n'est pas traduite</note>
+      <note>Cette partie n'est pas traduite
+
+-&gt; parce qu'il s'agit d'un extrait d'un fichier de paramétrage qui n'est pas traduit</note>
       <tuv lang="en">
         <seg># OmegaT.exe runtime configuration
 # To use a parameter, remove the '#' before the '-'
@@ -16201,7 +16203,9 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>(ex : Applications).</note>
+      <note>(ex : Applications).
+
+-&gt; le segment n'est pas traduit. À vous !</note>
       <tuv lang="en">
         <seg>Copy the folder to a suitable folder (e.g. Applications).</seg>
       </tuv>
@@ -41581,7 +41585,9 @@ ces mots : « pas de page »...</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Faites</note>
+      <note>Faites
+
+-&gt; après un " : " ?</note>
       <tuv lang="en">
         <seg>Right-click on the panel - &lt;e0&gt;Add New Launcher&lt;/e0&gt;.</seg>
       </tuv>
@@ -53993,7 +53999,8 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <note>?
-</note>
+
+-&gt; problème ?</note>
       <tuv lang="en">
         <seg>To change the amount of memory available, edit &lt;e0&gt;OmegaT.app/Contents/Info.plist&lt;/e0&gt; file and un-comment the line &lt;l1&gt;&lt;!-- &lt;string&gt;-Xmx6g&lt;/string&gt; --&gt;&lt;/l1&gt; by removing the &lt;l2&gt;&lt;!--&lt;/l2&gt; and &lt;l3&gt;--&gt;&lt;/l3&gt;.</seg>
       </tuv>
