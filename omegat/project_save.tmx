@@ -29859,8 +29859,6 @@ itself on the first run.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>
-</note>
       <tuv lang="en">
         <seg>Java Web Start technology (part of Java 8 and above) can be used to deploy standalone Java software applications with a single click over the network.</seg>
       </tuv>
@@ -36556,7 +36554,9 @@ disponible dans MacPorts sous le nom « py27-pysvn ».</seg>
       </tuv>
     </tu>
     <tu>
-      <note>?</note>
+      <note>?
+
+-&gt; Il va falloir corriger ça pour que ça corresponde aux nouvelles versions de Windows...</note>
       <tuv lang="en">
         <seg>On Windows it is called an "MS-DOS window" and is available from the Start Menu, inside Programs, through the "MS-DOS" item.</seg>
       </tuv>
