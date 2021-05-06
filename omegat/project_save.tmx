@@ -58276,7 +58276,8 @@ you have just discovered.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>peut-être : de la vue de la saisie automatique du glossaire </note>
+      <note>peut-être : de la vue de la saisie automatique du glossaire 
+-&gt; Essayer d'identifier le lieu dans l'interface où se trouve ce segment. Il faudra prendre une décision basée sur ça.</note>
       <tuv lang="en">
         <seg>When checked, the items in the glossary auto-completer view will contain the source text, too.</seg>
       </tuv>
@@ -60867,7 +60868,7 @@ source code.</seg>
     <tu>
       <note>* version du JDK à modifier
 Ok.
--&gt; mettez une note dans le dépôt internship pour la seconde partie du stage.</note>
+-&gt; mettez une note dans le dépôt internship pour la seconde partie du stage. Effacez ce mommentaire quand c'est fait.</note>
       <tuv lang="en">
         <seg>You need to update your JDK 1.6 to the latest version, or just remove the jaxb-*.jar files from the OmegaT /lib dir</seg>
       </tuv>
@@ -69221,7 +69222,8 @@ C'est très moche et on ne devrait pas avoir à séparer deux mots pour faire un
 https://fr.wiktionary.org/wiki/LTR
 
 Il est peut-être préférable de remettre l'abréviation acceptée dans le texte.
-Ok.</note>
+Ok.
+-&gt; Les abréviations étant anglaises, on peut mettre (droite à gauche), etc. entre parenthèses.</note>
       <tuv lang="en">
         <seg>{0} toggles orientation between LTR, RTL, and language-dependent</seg>
       </tuv>
