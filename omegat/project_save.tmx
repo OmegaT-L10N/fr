@@ -18639,12 +18639,11 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Java 8 (JRE)</note>
       <tuv lang="en">
         <seg>Do you have a Java implementation compatible with Oracle's Java 8 JRE?</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210110T122424Z" creationid="suzume" creationdate="20210110T122424Z">
-        <seg>Avez-vous une implémentation Java compatible avec l'environnement d'exécution Java (JRE) 8 distribué par Oracle ?</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210506T001552Z" creationid="suzume" creationdate="20210110T122424Z">
+        <seg>Avez-vous une implémentation Java compatible avec l'environnement d'exécution Java 8 (JRE) distribué par Oracle ?</seg>
       </tuv>
     </tu>
     <tu>
@@ -69163,12 +69162,18 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>"gauche à droite"</note>
+      <note>"gauche à droite"
+
+-&gt; Il s'agit ici des modes d'écriture RTL (arabe par ex.) et LTR (français par ex)
+
+https://fr.wiktionary.org/wiki/LTR
+
+Il est peut-être préférable de remettre l'abréviation acceptée dans le texte.</note>
       <tuv lang="en">
         <seg>{0} toggles orientation between LTR, RTL, and language-dependent</seg>
       </tuv>
-      <tuv lang="fr" changeid="Didier" changedate="20170307T143635Z" creationid="Didier" creationdate="20170307T143635Z">
-        <seg>{0} bascule l'orientation entre les modes gauche à droite, droite à gauche et dépendants des langues</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210506T001445Z" creationid="Didier" creationdate="20170307T143635Z">
+        <seg>{0} bascule l'orientation entre les modes gauche à droite (LTR), droite à gauche (RTL) et dépendants des langues</seg>
       </tuv>
     </tu>
     <tu>
