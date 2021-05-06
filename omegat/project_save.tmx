@@ -1089,6 +1089,7 @@ java -jar OmegaT.jar $*</seg>
 □ les mémoires..."
 
 etc.
+Ok.
 </note>
       <tuv lang="EN">
         <seg>&amp;Glossaries</seg>
@@ -2076,7 +2077,8 @@ etc.
     <tu>
       <note>L'espace fine ici est correct
 
--&gt; Oui, je pense, mais comme elle n'apparait pas dans OmegaT on ne sait pas si elle y est ou pas :-)</note>
+-&gt; Oui, je pense, mais comme elle n'apparait pas dans OmegaT on ne sait pas si elle y est ou pas :-)
+Ok.</note>
       <tuv lang="EN">
         <seg>'*' matches zero or more characters ('run*' matches 'run', 'runs', and'running', etc.)
 '?' matches exactly one character ('run?' matches 'runs' and 'rung', but not 'run' or 'running').</seg>
@@ -39318,7 +39320,8 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
     <tu>
       <note>Le projet
 
--&gt; voir note 0482</note>
+-&gt; voir note 0482
+Ok.</note>
       <tuv lang="EN">
         <seg>Pro&amp;ject</seg>
       </tuv>
@@ -53420,7 +53423,8 @@ Seule la licence en langue anglaise est légalement valable. Vous pouvez trouver
 
 -&gt; La Free Software Foundation est le nom propre d'un organisme, on va dont le conserver comme tel.
 
-Le second paragraphe est ici pour rappeler le nom d'origine de la license.</note>
+Le second paragraphe est ici pour rappeler le nom d'origine de la license.
+Ok.</note>
       <tuv lang="EN">
         <seg>This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.</seg>
       </tuv>
