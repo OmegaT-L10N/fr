@@ -28114,13 +28114,13 @@ patent against the party.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>
+      <note>/source/ et ./source alors qu'il faudrait mettre ./source/ 
 </note>
       <tuv lang="EN">
         <seg>In this mode, OmegaT will attempt to translate the files in &lt;f0&gt;/source/&lt;/f0&gt; with the available translation memories.</seg>
       </tuv>
-      <tuv lang="FR" changeid="suzume" changedate="20210503T231000Z" creationid="suzume" creationdate="20210202T073258Z">
-        <seg>Dans ce mode, OmegaT tente de traduire les fichiers du dossier &lt;f0&gt;./source&lt;/f0&gt; avec les mémoires de traduction disponibles.</seg>
+      <tuv lang="FR" changeid="AlexandraAnselmi57" changedate="20210507T154244Z" creationid="suzume" creationdate="20210202T073258Z">
+        <seg>Dans ce mode, OmegaT tente de traduire les fichiers du dossier &lt;f0&gt;./source/&lt;/f0&gt; avec les mémoires de traduction disponibles.</seg>
       </tuv>
     </tu>
     <tu>
