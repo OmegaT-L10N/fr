@@ -22334,6 +22334,7 @@ know their rights.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>macOS</note>
       <tuv lang="en">
         <seg>For installation on Mac OS X.</seg>
       </tuv>
@@ -26118,6 +26119,7 @@ that you install an OmegaT version with JRE included.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>macOS</note>
       <tuv lang="en">
         <seg>If you are on a Mac and you want to add a &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Command&lt;/k2&gt; &lt;k3&gt;S&lt;/k3&gt; &lt;/k0&gt; shortcut to &lt;m4&gt; &lt;g5&gt;Tools&lt;/g5&gt; &lt;g6&gt;Statistics&lt;/g6&gt; &lt;/m4&gt;, add the following line to your &lt;f7&gt;MainMenuShortcuts.properties&lt;/f7&gt;:</seg>
       </tuv>
@@ -26768,11 +26770,12 @@ OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>-&gt; changer dans l'original OSX = macOS</note>
       <tuv lang="en">
         <seg>If you uncheck this option, machine translations will be fetched only when you press &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; (&lt;k3&gt; &lt;k4&gt;Cmd&lt;/k4&gt; &lt;k5&gt;M&lt;/k5&gt; &lt;/k3&gt; on OS X) in the current segment.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20200118T125241Z" creationid="suzume" creationdate="20200118T125241Z">
-        <seg>En décochant cette option, les traductions automatiques seront récupérées uniquement lors de l'utilisation de &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; (&lt;k3&gt; &lt;k4&gt;Cmd&lt;/k4&gt; &lt;k5&gt;M&lt;/k5&gt; &lt;/k3&gt;sur OS X) sur le segment actuel.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210507T112752Z" creationid="suzume" creationdate="20200118T125241Z">
+        <seg>En décochant cette option, les traductions automatiques seront récupérées uniquement lors de l'utilisation de &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; (&lt;k3&gt; &lt;k4&gt;Cmd&lt;/k4&gt; &lt;k5&gt;M&lt;/k5&gt; &lt;/k3&gt;sur macOS) sur le segment actuel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31672,6 +31675,7 @@ automatically download and install it.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>macOS</note>
       <tuv lang="en">
         <seg>Mac OS X</seg>
       </tuv>
@@ -31712,6 +31716,7 @@ automatically download and install it.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>macOS</note>
       <tuv lang="en">
         <seg>Mac OS X users, note: use &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; shortcut and &lt;e4&gt;not &lt;/e4&gt;cmd+Ctrl+O.</seg>
       </tuv>
@@ -35714,6 +35719,7 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
     </tu>
     <tu>
+      <note>macOS</note>
       <tuv lang="en">
         <seg>OmegaT has been successfully installed on Windows (all versions from 98 onwards), Macintosh OS X and Linux.</seg>
       </tuv>
@@ -48781,6 +48787,7 @@ instead.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>macOS</note>
       <tuv lang="en">
         <seg>The default OmegaT shortcuts for the Mac are also available from Sourceforge, they all use "meta" instead of "ctrl": &lt;u0&gt;Default OmegaT Shortcuts for the Mac&lt;/u0&gt;</seg>
       </tuv>
