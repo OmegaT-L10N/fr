@@ -69250,12 +69250,13 @@ https://fr.wiktionary.org/wiki/LTR
 
 Il est peut-être préférable de remettre l'abréviation acceptée dans le texte.
 Ok.
--&gt; Les abréviations étant anglaises, on peut mettre (droite à gauche), etc. entre parenthèses.</note>
+-&gt; Les abréviations étant anglaises, on peut mettre (droite à gauche), etc. entre parenthèses.
+Ok.</note>
       <tuv lang="EN">
         <seg>{0} toggles orientation between LTR, RTL, and language-dependent</seg>
       </tuv>
-      <tuv lang="FR" changeid="AlexandraAnselmi57" changedate="20210506T102252Z" creationid="Didier" creationdate="20170307T143635Z">
-        <seg>{0} bascule l'orientation entre les modes LTR, RTL et dépendants des langues</seg>
+      <tuv lang="FR" changeid="AlexandraAnselmi57" changedate="20210507T161031Z" creationid="Didier" creationdate="20170307T143635Z">
+        <seg>{0} bascule l'orientation entre les modes LTR (gauche à droite), RTL (droite à gauche) et dépendants des langues</seg>
       </tuv>
     </tu>
     <tu>
