@@ -12549,7 +12549,8 @@ provoquer des comportements inattendus, mais corrects.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Je ne vois pas où se trouve l'espace fine.</note>
+      <note>Je ne vois pas où se trouve l'espace fine.
+-&gt; moi non plus...</note>
       <tuv lang="en">
         <seg>Auto replace 'nplurals=INTEGER; &amp;plural=EXPRESSION;' in header</seg>
       </tuv>
@@ -55086,8 +55087,8 @@ Ok.
       <tuv lang="en">
         <seg>Total Characters (including spaces)</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210505T233610Z">
-        <seg>Total caractères (avec espaces)</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210508T004747Z">
+        <seg>Total des caractères (avec espaces)</seg>
       </tuv>
     </tu>
     <tu>
@@ -55097,8 +55098,8 @@ Ok.</note>
       <tuv lang="en">
         <seg>Total Characters (without spaces)</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210505T233607Z">
-        <seg>Total caractères (sans espaces)</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210508T004752Z">
+        <seg>Total des caractères (sans espaces)</seg>
       </tuv>
     </tu>
     <tu>
