@@ -2641,7 +2641,8 @@ le programme d'installation peut créer des raccourcis pour vous dans le menu d�
       </tuv>
     </tu>
     <tu>
-      <note>Je ne vois pas où placer l'espace</note>
+      <note>Je ne vois pas où placer l'espace
+-&gt; En regardant le contenu du fichier Bundle.properties (il se trouve dans le /source de votre projet local, consultez le quand vous avez le temps) j'ai l'impression qu'il est préférable de laisser la chaîne comme elle était</note>
       <tuv lang="en">
         <seg>,</seg>
       </tuv>
