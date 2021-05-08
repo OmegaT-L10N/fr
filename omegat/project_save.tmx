@@ -3640,7 +3640,8 @@ Valider les balises.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Il n'y a pourtant pas d'espace ici.</note>
+      <note>Il n'y a pourtant pas d'espace ici.
+-&gt; le vérificateur dit qu'il en veut, après le "."</note>
       <tuv lang="en">
         <seg>.*\.html</seg>
       </tuv>
@@ -9155,7 +9156,8 @@ Il faut donc que j'enlève le mot projet ?
       </tuv>
     </tu>
     <tu>
-      <note>peut-être ajouter une virgule : représente la quantité de mémoire attribuée, en mégaoctets. </note>
+      <note>peut-être ajouter une virgule : représente la quantité de mémoire attribuée, en mégaoctets. 
+-&gt; pourquoi pas.</note>
       <tuv lang="en">
         <seg>&lt;p4&gt;??&lt;/p4&gt; stands for the amount of memory assigned, in megabytes.</seg>
       </tuv>
@@ -28115,7 +28117,7 @@ patent against the party.</seg>
     </tu>
     <tu>
       <note>/source/ dans la version anglaise, alors qu'il faudrait mettre ./source 
-</note>
+-&gt; bonne remarque</note>
       <tuv lang="en">
         <seg>In this mode, OmegaT will attempt to translate the files in &lt;f0&gt;/source/&lt;/f0&gt; with the available translation memories.</seg>
       </tuv>
@@ -36820,7 +36822,8 @@ install virtualenv</seg>
     </tu>
     <tu>
       <note>Il faudra indiquer dans le manuel la nomenclature fixée et faire une liste des dossiers référencés dans les documents
-Ok.</note>
+Ok.
+-&gt; ajoutez cette remarque dans le ticket des modifications à faire au manuel anglais.</note>
       <tuv lang="en">
         <seg>Once you have made certain that there are no tag errors in your translation, press &lt;k0&gt;Ctrl+D&lt;/k0&gt; to generate the target files, which will be created in the &lt;f1&gt;/target/&lt;/f1&gt; subfolder of your project folder.</seg>
       </tuv>
@@ -54248,7 +54251,8 @@ Pour l'espace fine, il râle à cause de "&lt;!--" et il veut en faire "&lt; ! -
       </tuv>
     </tu>
     <tu>
-      <note>Pourquoi ne pas mettre guide à la place de tutoriel ? </note>
+      <note>Pourquoi ne pas mettre guide à la place de tutoriel ? 
+-&gt; parce qu'il y a un tutoriel *dans* le guide et que c'est de ça qu'il s'agit</note>
       <tuv lang="en">
         <seg>To display the instant start guide in the desired language, you need to specify both the language and the country.</seg>
       </tuv>
@@ -59859,7 +59863,8 @@ you think will help the developers with finding and fixing your bug.</seg>
     </tu>
     <tu>
       <note>Il faudra modifier la syntaxe dans le fichier d'origine, pas besoin des guillemets
-Ok.</note>
+Ok.
+-&gt; enregistrez ça dans un commentaire du ticket de modification du manuel anglais</note>
       <tuv lang="en">
         <seg>You can also add source files from Internet pages, written in MediaWiki, by clicking on&lt;g3&gt; "Import from MediaWiki"&lt;/g3&gt; button and providing the corresponding URL.</seg>
       </tuv>
@@ -64953,8 +64958,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>
-</note>
       <tuv lang="en">
         <seg>java -Dswing.aatext=true -Duser.language=pt -Duser.country=BR -Xmx2048M -Dhttp.proxyHost=192.168.1.1 -Dhttp.proxyport=3128 -jar -OmegaT.jar</seg>
       </tuv>
