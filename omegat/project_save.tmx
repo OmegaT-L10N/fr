@@ -19208,7 +19208,8 @@ Ajouter C:\Program Files (x86)\Prince\Engine\bin dans le Path.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>peut-être mettre : Glisser-déplacer ou double-cliquer pour ouvrir un projet</note>
+      <note>peut-être mettre : Glisser-déplacer ou double-cliquer pour ouvrir un projet
+-&gt; Oui mais comme on est dans le contexte de l'ouverture d'un projet c'est peut-être redondant. En tout cas, il faut retirer "espace"</note>
       <tuv lang="en">
         <seg>Drag and drop</seg>
       </tuv>
@@ -29881,7 +29882,8 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <note>peut-être mettre : (proposée dans Java numéro 8 et les versions ultérieures)
-peut-être mettre également : applications logicielles de Java </note>
+peut-être mettre également : applications logicielles de Java 
+-&gt; même remarque que plus haut. Faites une recherche et faites vous une opinion. Un client sera content de voir que votre opinion se base sur une recherche solide</note>
       <tuv lang="en">
         <seg>Java Web Start technology (part of Java 8 and above) can be used to deploy standalone Java software applications with a single click over the network.</seg>
       </tuv>
