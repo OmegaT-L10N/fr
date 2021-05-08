@@ -5115,7 +5115,8 @@ Il faut donc que j'enlève le mot projet ?
       </tuv>
     </tu>
     <tu>
-      <note>Peut-être rajouter une virgule : les deux versions, côte à côte,</note>
+      <note>Peut-être rajouter une virgule : les deux versions, côte à côte,
+-&gt; OK, allez-y</note>
       <tuv lang="en">
         <seg>&lt;e0&gt;Install to a new folder.&lt;/e0&gt; This will enable you to keep both versions side-by-side, which you may wish to do until you feel comfortable with the new version.</seg>
       </tuv>
@@ -26541,7 +26542,10 @@ OmegaT is to use Java Web Start.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Peut-être mettre : un fichier ./bat au lieu de .bat</note>
+      <note>Peut-être mettre : un fichier ./bat au lieu de .bat
+-&gt; Bonne remarque, mais il se trouve que le nom du fichier est effectivement ".bat" et que ce "." est un vrai point, pas un point qui veut dire n'importe quel caractère en expression régulière, ou un point qui veut dire "le dossier courant" comme je vous avais expliqué l'autre jour.
+Si vous trouvez que c'est bien complexe, vous n'êtes pas la seule...
+En général, les fichiers dont le nom commencent par un "." sont invisible dans le gestionnaire de fichier d'un ordinateur. C'est une convention qui date d'il y a longtemps. En général ce sont des fichiers de configuration que l'utilisateur ne doit pas trop toucher.</note>
       <tuv lang="en">
         <seg>If you have made changes to your &lt;f0&gt;OmegaT.l4J.ini&lt;/f0&gt; file and/or are using a .bat file, you must copy these over.</seg>
       </tuv>
