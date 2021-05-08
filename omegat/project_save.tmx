@@ -5971,12 +5971,6 @@ Il faut donc que j'enlève le mot projet ?</note>
       </tuv>
     </tu>
     <tu>
-      <note>gt ; gt ; 
-
--&gt; il s'agit ici de codes qui sont automatiquement remplacés par &gt;
-
-&amp;gt; = "greater than"
-Ok.</note>
       <tuv lang="en">
         <seg>&lt;html&gt;&lt;i&gt;Preferences&lt;/i&gt; &amp;gt; &lt;i&gt;General&lt;/i&gt; &amp;gt; &lt;i&gt;Use TAB to Advance&lt;/i&gt; is checked&lt;/html&gt;</seg>
       </tuv>
@@ -5985,8 +5979,6 @@ Ok.</note>
       </tuv>
     </tu>
     <tu>
-      <note>
-</note>
       <tuv lang="en">
         <seg>&lt;html&gt;Add patterns using wildcards (Apache Ant style): &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;?&lt;/code&gt;, &lt;code&gt;**&lt;/code&gt;&lt;br&gt;Example: &lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
       </tuv>
