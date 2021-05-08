@@ -193,8 +193,7 @@ License. Each licensee is addressed as "you". "Licensees" and
 
 -&gt; parce qu'il s'agit d'un extrait d'un fichier de paramétrage qui n'est pas traduit
 Pourquoi ne faut-il pas le traduire ? 
-
-</note>
+-&gt; Bonne question. Parce que le fichier auquel le document fait référence (ini) existe en un seul exemplaire et les commentaires y sont écrit en anglais. Cette partie du manuel explique comment l'utiliser en explicitant les champs à modifier.</note>
       <tuv lang="en">
         <seg># OmegaT.exe runtime configuration
 # To use a parameter, remove the '#' before the '-'
