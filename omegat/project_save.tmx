@@ -14057,7 +14057,8 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Peut-être modifier et ajouter : Les modifications de cette commande impliquent l'ajout « d'arguments » à cette dernière. </note>
+      <note>Peut-être modifier et ajouter : Les modifications de cette commande impliquent l'ajout « d'arguments » à cette dernière. 
+-&gt; bonne idée, à vous.</note>
       <tuv lang="en">
         <seg>Changes to this command involve the addition of "arguments" to it.</seg>
       </tuv>
@@ -24992,8 +24993,7 @@ need not be entered.)</seg>
       </tuv>
     </tu>
     <tu>
-      <note>
-interface d'utilisation
+      <note>interface d'utilisation
 
 -&gt; J'ai le sentiment qu'on a "interface utilisateur" dans le reste de manuel.
 Ok.</note>
@@ -44779,7 +44779,8 @@ Traduction supprimée car ne concerne pas le français.</note>
 
 -&gt; cf 3401
 Ok.
-Pourquoi mettre en russe au lieu de russe ? </note>
+Pourquoi mettre en russe au lieu de russe ? 
+-&gt; parce que le système ou l'interface peuvent être affichés dans une autre langue. Comme on dit "un texte *en* français".</note>
       <tuv lang="en">
         <seg>So, if the user's operating system is Russian and &lt;a5&gt;OmegaT&lt;/a5&gt; has been localized in Russian, &lt;a6&gt;OmegaT&lt;/a6&gt; is displayed with a Russian user interface, Russian menus, etc.</seg>
       </tuv>
