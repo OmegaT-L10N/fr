@@ -18504,7 +18504,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Il n'y a pas le . et il y a un / en trop dans la version anglaise, cela devrait donc peut-être être ainsi :  ./glossary. </note>
+      <note>Il n'y a pas le . et il y a un / en trop dans la version anglaise, cela devrait donc peut-être être ainsi :  ./glossary. 
+-&gt; tout à fait. À enregistrer dans le ticket correspondant si vous ne l'avez pas déjà fait (numéro du segment, commentaire, etc. pour qu'on puisse comprendre de quoi il s'agit en juin et plus tard)</note>
       <tuv lang="en">
         <seg>Displays the glossary entries found in the glossary files located in the /glossary/ folder if they are present in the source segment.</seg>
       </tuv>
@@ -55625,7 +55626,14 @@ Ok.</note>
       </tuv>
     </tu>
     <tu>
-      <note>Commentaires du traducteur </note>
+      <note>Commentaires du traducteur 
+-&gt; Dans le panneau "Commentaires", vous voyez qu'il s'agit de:
+POFILTER_TRANSLATOR_COMMENTS
+
+Il s'agit de ceci:
+https://www.gnu.org/software/gettext/manual/html_node/Modifying-Comments.html
+
+Donc effectivement votre proposition est correct., À vous de corriger !</note>
       <tuv lang="en">
         <seg>Translator comments:</seg>
       </tuv>
