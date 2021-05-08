@@ -53353,7 +53353,9 @@ this version will not interfere with it.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>peut-être mettre: Java numéro 8</note>
+      <note>peut-être mettre: Java numéro 8
+-&gt; pas nécessaire parce que ça n'est pas dans l'original *et* parce que c'est un nom propre.
+quand vous avez un doute comme ça, n'hésitez pas à faire une recherche internet: est ce-que vous trouvez beaucoup de "java numéro 8" ? Si oui, vous avez peut-être raison, si non vous avez peut-être tort. À vérifier.</note>
       <tuv lang="en">
         <seg>This package can be used on any platform where a Java 8 compatible JRE is installed.</seg>
       </tuv>
