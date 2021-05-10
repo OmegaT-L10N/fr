@@ -206,9 +206,8 @@ Ok.</note>
       </tuv>
     </tu>
     <tu>
-      <note>peut-être mettre : (proposée dans Java numéro 8 et les versions ultérieures)
-peut-être mettre également : applications logicielles de Java 
--&gt; même remarque que plus haut. Faites une recherche et faites vous une opinion. Un client sera content de voir que votre opinion se base sur une recherche solide</note>
+      <note>
+</note>
       <tuv lang="EN">
         <seg>Java Web Start technology (part of Java 8 and above) can be used to deploy standalone Java software applications with a single click over the network.</seg>
       </tuv>
@@ -246,11 +245,6 @@ peut-être mettre également : applications logicielles de Java
       </tuv>
     </tu>
     <tu>
-      <note>?
-
--&gt; Il va falloir corriger ça pour que ça corresponde aux nouvelles versions de Windows...
-Je ne vois pas l'espace fine qui ne va pas.
--&gt; elle manque après "«" et avant "»"</note>
       <tuv lang="EN">
         <seg>On Windows it is called an "MS-DOS window" and is available from the Start Menu, inside Programs, through the "MS-DOS" item.</seg>
       </tuv>
@@ -284,13 +278,11 @@ Pourquoi mettre en russe au lieu de russe ?
       </tuv>
     </tu>
     <tu>
-      <note>peut-être mettre : l'application nommée Terminal
--&gt; ou peut être des guillemets</note>
       <tuv lang="EN">
         <seg>The macOS equivalent is the application Terminal located in &lt;f0&gt;Applications/Utilities&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="FR" changeid="suzume" changedate="20210507T112439Z" creationid="suzume" creationdate="20210202T064831Z">
-        <seg>Sur macOS, son équivalent est l'application Terminal située dans &lt;f0&gt;Applications/Utilitaires&lt;/f0&gt;.</seg>
+      <tuv lang="FR" changeid="AlexandraAnselmi57" changedate="20210510T100055Z" creationid="suzume" creationdate="20210202T064831Z">
+        <seg>Sur macOS, son équivalent est l'application « Terminal » située dans &lt;f0&gt;Applications/Utilitaires&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
