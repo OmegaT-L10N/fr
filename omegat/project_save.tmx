@@ -259,6 +259,12 @@ Ok.</note>
       </tuv>
     </tu>
     <tu>
+      <note>Segment non traduit : mettre : caractères restants (incluant les espaces)</note>
+      <tuv lang="EN">
+        <seg>Remaining Characters (including spaces)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>So, if the user's operating system is Russian and &lt;a5&gt;OmegaT&lt;/a5&gt; has been localized in Russian, &lt;a6&gt;OmegaT&lt;/a6&gt; is displayed with a Russian user interface, Russian menus, etc.</seg>
       </tuv>
@@ -317,9 +323,7 @@ Pour l'espace fine, il râle à cause de "&lt;!--" et il veut en faire "&lt; ! -
       </tuv>
     </tu>
     <tu>
-      <note>Total des caractères
--&gt; OK, à vous !
-Ok.
+      <note>=
 </note>
       <tuv lang="EN">
         <seg>Total Characters (including spaces)</seg>
@@ -329,9 +333,6 @@ Ok.
       </tuv>
     </tu>
     <tu>
-      <note>Total des caractères 
--&gt; Ok, bien sûr. À vous ! La chaîne apparaît dans Outil &gt; Statistiques
-Ok.</note>
       <tuv lang="EN">
         <seg>Total Characters (without spaces)</seg>
       </tuv>
@@ -356,9 +357,6 @@ Donc effectivement votre proposition est correcte. À vous de corriger !</note>
       </tuv>
     </tu>
     <tu>
-      <note>Il faudra modifier la syntaxe dans le fichier d'origine, pas besoin des guillemets
-Ok.
--&gt; enregistrez ça dans un commentaire du ticket de modification du manuel anglais</note>
       <tuv lang="EN">
         <seg>You can also add source files from Internet pages, written in MediaWiki, by clicking on&lt;g3&gt; "Import from MediaWiki"&lt;/g3&gt; button and providing the corresponding URL.</seg>
       </tuv>
@@ -393,10 +391,6 @@ Ok. </note>
       </tuv>
     </tu>
     <tu>
-      <note>-&gt; besoin de changer la page du site correspondante: download.html
-ce n'est plus osx mais macos
-
--&gt; Oui mais il faut que le site web soit modifié sinon cette chaine va créer un lien erroné, j'ai donc remis à la version d'origine.</note>
       <tuv lang="EN">
         <seg>osx</seg>
       </tuv>
