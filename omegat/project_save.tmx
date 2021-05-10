@@ -257,6 +257,16 @@ Faut-il également traduire les segments suivants ou doit-on les laisser en angl
       </tuv>
     </tu>
     <tu>
+      <note>« » à la place de " " Fait. 
+Segment non traduit Fait </note>
+      <tuv lang="EN">
+        <seg>This information applies only to the "Traditional" Windows versions of OmegaT.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="AlexandraAnselmi57" changedate="20210510T121408Z" creationid="AlexandraAnselmi57" creationdate="20210510T121408Z">
+        <seg>Ces informations s'appliquent uniquement aux versions Windows «traditionnelles» d'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>This package can be used on any platform where a Java 8 compatible JRE is installed.</seg>
       </tuv>
