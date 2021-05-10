@@ -53,13 +53,12 @@ Ok.</note>
       </tuv>
     </tu>
     <tu>
-      <note>Il n'y a pourtant pas d'espace ici.
--&gt; le vérificateur dit qu'il en veut, après le "."</note>
+      <note>Fait</note>
       <tuv lang="EN">
         <seg>.*\.html</seg>
       </tuv>
-      <tuv lang="FR" changeid="JC Helary" changedate="20130505T104543Z">
-        <seg>.*\.html</seg>
+      <tuv lang="FR" changeid="AlexandraAnselmi57" changedate="20210510T100424Z">
+        <seg>. *\.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -106,13 +105,12 @@ Il faut donc que j'enlève le mot projet ?
       </tuv>
     </tu>
     <tu>
-      <note>peut-être ajouter une virgule : représente la quantité de mémoire attribuée, en mégaoctets. 
--&gt; pourquoi pas.</note>
+      <note>Fait</note>
       <tuv lang="EN">
         <seg>&lt;p4&gt;??&lt;/p4&gt; stands for the amount of memory assigned, in megabytes.</seg>
       </tuv>
-      <tuv lang="FR" changeid="suzume" changedate="20210131T123913Z" creationid="suzume" creationdate="20210131T123913Z">
-        <seg>&lt;p4&gt;??&lt;/p4&gt; représente la quantité de mémoire attribuée en mégaoctets.</seg>
+      <tuv lang="FR" changeid="AlexandraAnselmi57" changedate="20210510T100312Z" creationid="suzume" creationdate="20210131T123913Z">
+        <seg>&lt;p4&gt;??&lt;/p4&gt; représente la quantité de mémoire attribuée, en mégaoctets.</seg>
       </tuv>
     </tu>
     <tu>
@@ -196,7 +194,8 @@ Ok.</note>
     </tu>
     <tu>
       <note>/source/ dans la version anglaise, alors qu'il faudrait mettre ./source 
--&gt; bonne remarque</note>
+-&gt; bonne remarque
+Ok.</note>
       <tuv lang="EN">
         <seg>In this mode, OmegaT will attempt to translate the files in &lt;f0&gt;/source/&lt;/f0&gt; with the available translation memories.</seg>
       </tuv>
@@ -252,9 +251,6 @@ Ok.</note>
       </tuv>
     </tu>
     <tu>
-      <note>Il faudra indiquer dans le manuel la nomenclature fixée et faire une liste des dossiers référencés dans les documents
-Ok.
--&gt; ajoutez cette remarque dans le ticket des modifications à faire au manuel anglais.</note>
       <tuv lang="EN">
         <seg>Once you have made certain that there are no tag errors in your translation, press &lt;k0&gt;Ctrl+D&lt;/k0&gt; to generate the target files, which will be created in the &lt;f1&gt;/target/&lt;/f1&gt; subfolder of your project folder.</seg>
       </tuv>
@@ -263,12 +259,6 @@ Ok.
       </tuv>
     </tu>
     <tu>
-      <note>interface d'utilisation
-
--&gt; cf 3401
-Ok.
-Pourquoi mettre en russe au lieu de russe ? 
--&gt; parce que le système ou l'interface peuvent être affichés dans une autre langue. Comme on dit "un texte *en* français".</note>
       <tuv lang="EN">
         <seg>So, if the user's operating system is Russian and &lt;a5&gt;OmegaT&lt;/a5&gt; has been localized in Russian, &lt;a6&gt;OmegaT&lt;/a6&gt; is displayed with a Russian user interface, Russian menus, etc.</seg>
       </tuv>
@@ -319,8 +309,6 @@ Pour l'espace fine, il râle à cause de "&lt;!--" et il veut en faire "&lt; ! -
       </tuv>
     </tu>
     <tu>
-      <note>Pourquoi ne pas mettre guide à la place de tutoriel ? 
--&gt; parce qu'il y a un tutoriel *dans* le guide et que c'est de ça qu'il s'agit</note>
       <tuv lang="EN">
         <seg>To display the instant start guide in the desired language, you need to specify both the language and the country.</seg>
       </tuv>
