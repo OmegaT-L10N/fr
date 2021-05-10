@@ -33,8 +33,6 @@ Ok.</note>
       </tuv>
     </tu>
     <tu>
-      <note>Je ne vois pas où placer l'espace
--&gt; En regardant le contenu du fichier Bundle.properties (il se trouve dans le /source de votre projet local, consultez le quand vous avez le temps) j'ai l'impression qu'il est préférable de laisser la chaîne comme elle était</note>
       <tuv lang="EN">
         <seg>,</seg>
       </tuv>
@@ -70,9 +68,6 @@ Ok.</note>
       </tuv>
     </tu>
     <tu>
-      <note>pourquoi ajouter project/ ? ce nom/préfixe est arbitraire
-Il faut donc que j'enlève le mot projet ?
--&gt; j'ai l'impression que je l'ai fait avant vous...</note>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Hint:&lt;/e0&gt; the set of segmentation rules for a given project is stored as &lt;f1&gt;project/omegat/segmentation.conf.&lt;/f1&gt;</seg>
       </tuv>
@@ -139,8 +134,6 @@ Il faut donc que j'enlève le mot projet ?
       </tuv>
     </tu>
     <tu>
-      <note>Il n'y a pas le . et il y a un / en trop dans la version anglaise, cela devrait donc peut-être être ainsi :  ./glossary. 
--&gt; tout à fait. À enregistrer dans le ticket correspondant si vous ne l'avez pas déjà fait (numéro du segment, commentaire, etc. pour qu'on puisse comprendre de quoi il s'agit en juin et plus tard)</note>
       <tuv lang="EN">
         <seg>Displays the glossary entries found in the glossary files located in the /glossary/ folder if they are present in the source segment.</seg>
       </tuv>
@@ -339,19 +332,11 @@ Pour l'espace fine, il râle à cause de "&lt;!--" et il veut en faire "&lt; ! -
       </tuv>
     </tu>
     <tu>
-      <note>Commentaires du traducteur 
--&gt; Dans le panneau "Commentaires", vous voyez qu'il s'agit de:
-POFILTER_TRANSLATOR_COMMENTS
-
-Il s'agit de ceci:
-https://www.gnu.org/software/gettext/manual/html_node/Modifying-Comments.html
-
-Donc effectivement votre proposition est correcte. À vous de corriger !</note>
       <tuv lang="EN">
         <seg>Translator comments:</seg>
       </tuv>
-      <tuv lang="FR" changeid="suzume" changedate="20190421T021512Z">
-        <seg>Commentaires traducteur :</seg>
+      <tuv lang="FR" changeid="AlexandraAnselmi57" changedate="20210510T102741Z">
+        <seg>Commentaires du traducteur :</seg>
       </tuv>
     </tu>
     <tu>
