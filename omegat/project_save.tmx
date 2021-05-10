@@ -293,6 +293,15 @@ Faut-il également traduire les segments suivants ou doit-on les laisser en angl
       </tuv>
     </tu>
     <tu>
+      <note>Segment non traduit : Fait. </note>
+      <tuv lang="EN">
+        <seg>This includes preferences set from within OmegaT, any changes you have made to your &lt;f1&gt;OmegaT.l4J.ini&lt;/f1&gt; file, and also your launch script (&lt;f2&gt;.bat&lt;/f2&gt; file), if you are using one.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="AlexandraAnselmi57" changedate="20210510T122901Z" creationid="AlexandraAnselmi57" creationdate="20210510T122901Z">
+        <seg>Cela inclut les préférences définies dans OmegaT, toutes les modifications que vous avez apportées à votre fichier &lt;f1&gt; OmegaT.l4J.ini &lt;/f1&gt;, ainsi que votre script de lancement (fichier &lt;f2&gt; .bat &lt;/f2&gt;), si vous en utiliser un.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>« » à la place de " " Fait. 
 Segment non traduit Fait </note>
       <tuv lang="EN">
