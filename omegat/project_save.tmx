@@ -234,7 +234,7 @@
       </tuv>
     </tu>
     <tu>
-      <note>Segment non traduit : mettre : caractères restants (incluant les espaces)</note>
+      <note>Segment non traduit : mettre : caractères restants (avec espaces)</note>
       <tuv lang="EN">
         <seg>Remaining Characters (including spaces)</seg>
       </tuv>
@@ -294,7 +294,7 @@ Pour l'espace fine, il râle à cause de "&lt;!--" et il veut en faire "&lt; ! -
       </tuv>
     </tu>
     <tu>
-      <note>=
+      <note>
 </note>
       <tuv lang="EN">
         <seg>Total Characters (including spaces)</seg>
