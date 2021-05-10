@@ -376,6 +376,15 @@ Pour l'espace fine, il râle à cause de "&lt;!--" et il veut en faire "&lt; ! -
       </tuv>
     </tu>
     <tu>
+      <note>Segment non traduit : Fait. </note>
+      <tuv lang="EN">
+        <seg>With this method, you may also download the "Windows without JRE" version, since the new installation will use your existing JRE.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="AlexandraAnselmi57" changedate="20210510T123218Z" creationid="AlexandraAnselmi57" creationdate="20210510T123218Z">
+        <seg>Avec cette méthode, vous pouvez également télécharger la version « Windows sans JRE », car la nouvelle installation utilisera votre JRE existant..</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>You can also add source files from Internet pages, written in MediaWiki, by clicking on&lt;g3&gt; "Import from MediaWiki"&lt;/g3&gt; button and providing the corresponding URL.</seg>
       </tuv>
