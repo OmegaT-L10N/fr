@@ -53979,20 +53979,6 @@ public, and in some countries other activities as well.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>?
-
--&gt; problème ?
-Je ne vois pas de quel ordre il s'agit, ni l'espace fine.
--&gt; Ah, il s'agit des balises qui sont dans le désordre. Regardez, dans l'anglais on a :
-&lt;e0&gt;...&lt;/e0&gt; ... &lt;l1&gt;...&lt;/l1&gt; ... &lt;l2&gt;...&lt;/l2&gt; ... &lt;l3&gt;...&lt;/l3&gt;
-
-et dans le français on a :
-&lt;e0&gt;...&lt;/e0&gt; ... &lt;l2&gt;...&lt;/l2&gt; .... &lt;l3&gt;...&lt;/l3&gt; ....&lt;l1&gt;...&lt;/l1&gt;
-Faut-il garder cet ordre ou mettre le même qu'en anglais ? 
-
-et c'est normal parce que les balises encadrent des mots qui se sont déplacés à cause de la différence d'ordre des mots en anglais et en français.
-
-Pour l'espace fine, il râle à cause de "&lt;!--" et il veut en faire "&lt; ! --", mais il faut ignorer ici parce que cette partie est du code XML (on verra ça plus tard).</note>
       <tuv lang="EN">
         <seg>To change the amount of memory available, edit &lt;e0&gt;OmegaT.app/Contents/Info.plist&lt;/e0&gt; file and un-comment the line &lt;l1&gt;&lt;!-- &lt;string&gt;-Xmx6g&lt;/string&gt; --&gt;&lt;/l1&gt; by removing the &lt;l2&gt;&lt;!--&lt;/l2&gt; and &lt;l3&gt;--&gt;&lt;/l3&gt;.</seg>
       </tuv>
