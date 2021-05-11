@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_6152c1d73" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg># OmegaT.exe runtime configuration
 # To use a parameter, remove the '#' before the '-'
 # Memory
@@ -15,7 +15,7 @@
 # Country
 -Duser.country=CA</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20171125T165411Z" creationid="Didier" creationdate="20171125T165411Z">
+      <tuv lang="fr" changeid="Didier" changedate="20171125T165411Z" creationid="Didier" creationdate="20171125T165411Z">
         <seg># OmegaT.exe runtime configuration
 # To use a parameter, remove the '#' before the '-'
 # Memory
@@ -27,191 +27,200 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>,</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20160926T143901Z" creationid="Didier" creationdate="20160926T143901Z">
+      <tuv lang="fr" changeid="Didier" changedate="20160926T143901Z" creationid="Didier" creationdate="20160926T143901Z">
         <seg>,</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]
 		Specify a mode other than default (GUI).</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20160212T145033Z" creationid="Didier" creationdate="20160212T145033Z">
+      <tuv lang="fr" changeid="Didier" changedate="20160212T145033Z" creationid="Didier" creationdate="20160212T145033Z">
         <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]
 		Spécifier un mode différent du mode par défaut (interface utilisateur).</seg>
       </tuv>
     </tu>
     <tu>
       <note>Fait</note>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>.*\.html</seg>
       </tuv>
-      <tuv lang="FR" changeid="AlexandraAnselmi57" changedate="20210510T100424Z">
+      <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210510T100424Z">
         <seg>. *\.html</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>&lt;e0&gt;&lt;l1&gt;-Xmx&lt;p2&gt;??&lt;/p2&gt;M&lt;/l1&gt;&lt;/e0&gt;This command assigns more memory to &lt;a3&gt;OmegaT&lt;/a3&gt;.</seg>
       </tuv>
-      <tuv lang="FR" changeid="AlexandraAnselmi57" changedate="20210507T153019Z" creationid="suzume" creationdate="20210131T123854Z">
+      <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210507T153019Z" creationid="suzume" creationdate="20210131T123854Z">
         <seg>&lt;e0&gt;&lt;l1&gt;-Xmx&lt;p2&gt;??&lt;/p2&gt;M&lt;/l1&gt;&lt;/e0&gt; Cette commande attribue plus de mémoire à &lt;a3&gt;OmegaT&lt;/a3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>&lt;e0&gt;Hint:&lt;/e0&gt; the set of segmentation rules for a given project is stored as &lt;f1&gt;project/omegat/segmentation.conf.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="FR" changeid="suzume" changedate="20210503T232642Z">
+      <tuv lang="fr" changeid="suzume" changedate="20210503T232642Z">
         <seg>&lt;e0&gt;Astuce :&lt;/e0&gt; l'ensemble des règles de segmentation spécifiques à un projet est sauvegardé dans le fichier &lt;f1&gt;./omegat/segmentation.conf.&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <note>Segment non traduit : Fait. </note>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>&lt;e0&gt;Install over the existing installation.&lt;/e0&gt; To do this, simply select the same installation folder as the existing installation when installing the new version.</seg>
       </tuv>
-      <tuv lang="FR" changeid="AlexandraAnselmi57" changedate="20210510T123403Z" creationid="AlexandraAnselmi57" creationdate="20210510T121944Z">
+      <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210510T123403Z" creationid="AlexandraAnselmi57" creationdate="20210510T121944Z">
         <seg>&lt;e0&gt; Installer sur l'installation existante. &lt;/e0&gt; Pour ce faire, sélectionnez simplement le même dossier d'installation que l'installation existante lors de l'installation de la nouvelle version.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>&lt;e0&gt;Install to a new folder.&lt;/e0&gt; This will enable you to keep both versions side-by-side, which you may wish to do until you feel comfortable with the new version.</seg>
       </tuv>
-      <tuv lang="FR" changeid="AlexandraAnselmi57" changedate="20210510T094557Z" creationid="suzume" creationdate="20210201T120043Z">
+      <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210510T094557Z" creationid="suzume" creationdate="20210201T120043Z">
         <seg>&lt;e0&gt;Une installation dans un nouveau dossier.&lt;/e0&gt; Cela vous permet de conserver les deux versions, côte à côte, ce qui peut être utile jusqu'à ce que vous soyez à l'aise avec la nouvelle version.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>&lt;html&gt;&lt;i&gt;Preferences&lt;/i&gt; &amp;gt; &lt;i&gt;General&lt;/i&gt; &amp;gt; &lt;i&gt;Use TAB to Advance&lt;/i&gt; is checked&lt;/html&gt;</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20170307T143611Z" creationid="Didier" creationdate="20170307T143611Z">
+      <tuv lang="fr" changeid="Didier" changedate="20170307T143611Z" creationid="Didier" creationdate="20170307T143611Z">
         <seg>&lt;html&gt;&lt;i&gt;Préférences&lt;/i&gt; &amp;gt; &lt;i&gt;Générales&lt;/i&gt; &amp;gt; &lt;i&gt;Utiliser TAB pour valider&lt;/i&gt; est cochée&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>&lt;html&gt;Add patterns using wildcards (Apache Ant style): &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;?&lt;/code&gt;, &lt;code&gt;**&lt;/code&gt;&lt;br&gt;Example: &lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
       </tuv>
-      <tuv lang="FR" changeid="suzume" changedate="20210505T045926Z" creationid="Didier" creationdate="20160427T152822Z">
+      <tuv lang="fr" changeid="suzume" changedate="20210505T045926Z" creationid="Didier" creationdate="20160427T152822Z">
         <seg>&lt;html&gt;Ajouter des masques en utilisant des caractères joker (de type Apache Ant) : &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;?&lt;/code&gt;, &lt;code&gt;**&lt;/code&gt;&lt;br&gt;Exemple : &lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <note>Fait</note>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>&lt;p4&gt;??&lt;/p4&gt; stands for the amount of memory assigned, in megabytes.</seg>
       </tuv>
-      <tuv lang="FR" changeid="AlexandraAnselmi57" changedate="20210510T100312Z" creationid="suzume" creationdate="20210131T123913Z">
+      <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210510T100312Z" creationid="suzume" creationdate="20210131T123913Z">
         <seg>&lt;p4&gt;??&lt;/p4&gt; représente la quantité de mémoire attribuée, en mégaoctets.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Auto replace 'nplurals=INTEGER; &amp;plural=EXPRESSION;' in header</seg>
       </tuv>
-      <tuv lang="FR" changeid="suzume" changedate="20210505T045327Z">
+      <tuv lang="fr" changeid="suzume" changedate="20210505T045327Z">
         <seg>&amp;Remplacer automatiquement 'nplurals=INTEGER; &amp;plural=EXPRESSION;' dans l'en-tête</seg>
       </tuv>
     </tu>
     <tu>
       <note>Fait</note>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Changes to this command involve the addition of "arguments" to it.</seg>
       </tuv>
-      <tuv lang="FR" changeid="AlexandraAnselmi57" changedate="20210510T100208Z">
+      <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210510T100208Z">
         <seg>Les modifications de cette commande impliquent l'ajout « d'arguments » à cette dernière.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Displays the dictionary entries found in the dictionary files located in the /dictionary/ folder if they are present in the source segment.</seg>
       </tuv>
-      <tuv lang="FR" changeid="suzume" changedate="20210505T233726Z">
+      <tuv lang="fr" changeid="suzume" changedate="20210505T233726Z">
         <seg>Affiche les entrées de dictionnaires trouvées dans les fichiers dictionnaires situés dans le dossier ./dictionary si ces entrées sont présentes dans le segment source.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Displays the glossary entries found in the glossary files located in the /glossary/ folder if they are present in the source segment.</seg>
       </tuv>
-      <tuv lang="FR" changeid="suzume" changedate="20210505T045627Z">
+      <tuv lang="fr" changeid="suzume" changedate="20210505T045627Z">
         <seg>Affiche les entrées de glossaires trouvées dans les fichiers du glossaire situés dans le dossier ./glossary si ces entrées sont présentes dans le segment source.</seg>
       </tuv>
     </tu>
     <tu>
       <note>Fait</note>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Drag and drop</seg>
       </tuv>
-      <tuv lang="FR" changeid="AlexandraAnselmi57" changedate="20210510T095629Z" creationid="Didier" creationdate="20160322T170057Z">
+      <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210510T095629Z" creationid="Didier" creationdate="20160322T170057Z">
         <seg>Glisser-déplacer</seg>
       </tuv>
     </tu>
     <tu>
       <note>macOS
 </note>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>For installation on Mac OS X.</seg>
       </tuv>
-      <tuv lang="FR" changeid="suzume" changedate="20210507T112439Z" creationid="briac" creationdate="20170329T130551Z">
+      <tuv lang="fr" changeid="suzume" changedate="20210507T112439Z" creationid="briac" creationdate="20170329T130551Z">
         <seg>Installation sur macOS.</seg>
       </tuv>
     </tu>
     <tu>
       <note>Segment non traduit : Fait.</note>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>If you already have a version of OmegaT installed on your PC and wish to upgrade to a more recent version, you have two options:</seg>
       </tuv>
-      <tuv lang="FR" changeid="AlexandraAnselmi57" changedate="20210510T121813Z" creationid="AlexandraAnselmi57" creationdate="20210510T121813Z">
+      <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210510T121813Z" creationid="AlexandraAnselmi57" creationdate="20210510T121813Z">
         <seg>Si vous avez déjà une version d'OmegaT installée sur votre PC et que vous souhaitez passer à une version plus récente, vous avez deux options :</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>If you have made changes to your &lt;f0&gt;OmegaT.l4J.ini&lt;/f0&gt; file and/or are using a .bat file, you must copy these over.</seg>
       </tuv>
-      <tuv lang="FR" changeid="suzume" changedate="20210110T122652Z" creationid="suzume" creationdate="20210110T122652Z">
+      <tuv lang="fr" changeid="suzume" changedate="20210110T122652Z" creationid="suzume" creationdate="20210110T122652Z">
         <seg>Si vous avez apporté des modifications à votre fichier&lt;f0&gt; OmegaT.l4J.ini &lt;/f0&gt; ou si vous utilisez un fichier .bat, vous devrez le(s) copier dans le nouveau dossier.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <note>-&gt; changer dans l'original OSX = macOS</note>
+      <tuv lang="en">
+        <seg>If you uncheck this option, machine translations will be fetched only when you press &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; (&lt;k3&gt; &lt;k4&gt;Cmd&lt;/k4&gt; &lt;k5&gt;M&lt;/k5&gt; &lt;/k3&gt; on OS X) in the current segment.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210510T035158Z" creationid="suzume" creationdate="20210510T035158Z">
+        <seg>En décochant cette option, les traductions automatiques seront récupérées uniquement lors de l'utilisation de &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; (&lt;k3&gt; &lt;k4&gt;Cmd&lt;/k4&gt; &lt;k5&gt;M&lt;/k5&gt; &lt;/k3&gt;sur macOS) sur le segment actuel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If your existing OmegaT installation is a "Windows with JRE" version, the new version must also be a "Windows with JRE" version.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130502T095922Z">
+      <tuv lang="fr" changeid="Clementine" changedate="20130502T095922Z">
         <seg>Si l'installation OmegaT dont vous disposez est une version « Windows avec JRE », la nouvelle version doit également être une version « Windows avec JRE ».</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>In this mode, OmegaT will attempt to translate the files in &lt;f0&gt;/source/&lt;/f0&gt; with the available translation memories.</seg>
       </tuv>
-      <tuv lang="FR" changeid="AlexandraAnselmi57" changedate="20210507T161509Z" creationid="suzume" creationdate="20210202T073258Z">
+      <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210507T161509Z" creationid="suzume" creationdate="20210202T073258Z">
         <seg>Dans ce mode, OmegaT tente de traduire les fichiers du dossier &lt;f0&gt;./source&lt;/f0&gt; avec les mémoires de traduction disponibles.</seg>
       </tuv>
     </tu>
     <tu>
       <note>Segment non traduit : Fait.</note>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>It does not apply to the Web Start versions, which are upgraded automatically, nor to cross-platform versions installed on Windows.</seg>
       </tuv>
-      <tuv lang="FR" changeid="AlexandraAnselmi57" changedate="20210510T121548Z" creationid="AlexandraAnselmi57" creationdate="20210510T121548Z">
+      <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210510T121548Z" creationid="AlexandraAnselmi57" creationdate="20210510T121548Z">
         <seg>Elles ne s'appliquent pas aux versions de Web Start, qui sont mises à niveau automatiquement, ni aux versions multiplateformes installées sous Windows.</seg>
       </tuv>
     </tu>
     <tu>
       <note>
 </note>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Java Web Start technology (part of Java 8 and above) can be used to deploy standalone Java software applications with a single click over the network.</seg>
       </tuv>
-      <tuv lang="FR" changeid="suzume" changedate="20210202T071736Z" creationid="suzume" creationdate="20210202T071736Z">
+      <tuv lang="fr" changeid="suzume" changedate="20210202T071736Z" creationid="suzume" creationdate="20210202T071736Z">
         <seg>La technologie Java Web Start (proposée dans Java 8 et les versions ultérieures) peut être utilisée pour déployer des applications logicielles Java autonomes grâce à un simple clic sur le réseau.</seg>
       </tuv>
     </tu>
@@ -219,103 +228,103 @@
       <note>macOS
 
 </note>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Mac OS X</seg>
       </tuv>
-      <tuv lang="FR" changeid="suzume" changedate="20210507T112439Z">
+      <tuv lang="fr" changeid="suzume" changedate="20210507T112439Z">
         <seg>macOS</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Memor&amp;y</seg>
       </tuv>
-      <tuv lang="FR" changeid="suzume" changedate="20210505T233617Z" creationid="Didier" creationdate="20140414T130222Z">
+      <tuv lang="fr" changeid="suzume" changedate="20210505T233617Z" creationid="Didier" creationdate="20140414T130222Z">
         <seg>la mém&amp;oire</seg>
       </tuv>
     </tu>
     <tu>
       <note>macOS
 </note>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>OmegaT has been successfully installed on Windows (all versions from 98 onwards), Macintosh OS X and Linux.</seg>
       </tuv>
-      <tuv lang="FR" changeid="suzume" changedate="20210507T112439Z">
+      <tuv lang="fr" changeid="suzume" changedate="20210507T112439Z">
         <seg>L'installation d'OmegaT a été concluante sur toutes les plateformes Windows (à partir de Windows 98), macOS et Linux.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>On Windows it is called an "MS-DOS window" and is available from the Start Menu, inside Programs, through the "MS-DOS" item.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130502T130602Z">
+      <tuv lang="fr" changeid="Clementine" changedate="20130502T130602Z">
         <seg>Sur Windows, on l'appelle « fenêtre MS-DOS » et elle est accessible via le Menu Démarrer -&gt; Programmes -&gt; élément « MS-DOS ».</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Once you have made certain that there are no tag errors in your translation, press &lt;k0&gt;Ctrl+D&lt;/k0&gt; to generate the target files, which will be created in the &lt;f1&gt;/target/&lt;/f1&gt; subfolder of your project folder.</seg>
       </tuv>
-      <tuv lang="FR" changeid="suzume" changedate="20210503T232105Z">
+      <tuv lang="fr" changeid="suzume" changedate="20210503T232105Z">
         <seg>Après avoir vérifié que votre traduction ne contient pas d'erreur de balises, générez les fichiers cibles (raccourci clavier &lt;k0&gt;Ctrl+D&lt;/k0&gt;) dans le dossier &lt;f1&gt;./target&lt;/f1&gt; du projet.</seg>
       </tuv>
     </tu>
     <tu>
       <note>Segment non traduit : mettre : caractères restants (avec espaces)
 Faut-il également traduire les segments suivants ou doit-on les laisser en anglais ? </note>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Remaining Characters (including spaces)</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>So, if the user's operating system is Russian and &lt;a5&gt;OmegaT&lt;/a5&gt; has been localized in Russian, &lt;a6&gt;OmegaT&lt;/a6&gt; is displayed with a Russian user interface, Russian menus, etc.</seg>
       </tuv>
-      <tuv lang="FR" changeid="suzume" changedate="20210202T072045Z" creationid="suzume" creationdate="20210202T072045Z">
+      <tuv lang="fr" changeid="suzume" changedate="20210202T072045Z" creationid="suzume" creationdate="20210202T072045Z">
         <seg>Ainsi, si le système d'exploitation de l'utilisateur est en russe et qu'&lt;a5&gt;OmegaT&lt;/a5&gt;a été traduit en russe, &lt;a6&gt;OmegaT&lt;/a6&gt; est affiché avec une interface utilisateur en russe, des menus en russe, etc.</seg>
       </tuv>
     </tu>
     <tu>
       <note>Segment non traduit : Fait. </note>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>The "old" version of OmegaT will be overwritten, but any settings from it will be retained.</seg>
       </tuv>
-      <tuv lang="FR" changeid="AlexandraAnselmi57" changedate="20210510T123753Z" creationid="AlexandraAnselmi57" creationdate="20210510T122151Z">
+      <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210510T123753Z" creationid="AlexandraAnselmi57" creationdate="20210510T122151Z">
         <seg>L'« ancienne » version d'OmegaT sera écrasée, mais tous ses paramètres seront conservés.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>The macOS equivalent is the application Terminal located in &lt;f0&gt;Applications/Utilities&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="FR" changeid="AlexandraAnselmi57" changedate="20210510T100055Z" creationid="suzume" creationdate="20210202T064831Z">
+      <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210510T100055Z" creationid="suzume" creationdate="20210202T064831Z">
         <seg>Sur macOS, son équivalent est l'application « Terminal » située dans &lt;f0&gt;Applications/Utilitaires&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
       <note>Segment non traduit : Fait. </note>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>This includes preferences set from within OmegaT, any changes you have made to your &lt;f1&gt;OmegaT.l4J.ini&lt;/f1&gt; file, and also your launch script (&lt;f2&gt;.bat&lt;/f2&gt; file), if you are using one.</seg>
       </tuv>
-      <tuv lang="FR" changeid="AlexandraAnselmi57" changedate="20210510T122901Z" creationid="AlexandraAnselmi57" creationdate="20210510T122901Z">
+      <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210510T122901Z" creationid="AlexandraAnselmi57" creationdate="20210510T122901Z">
         <seg>Cela inclut les préférences définies dans OmegaT, toutes les modifications que vous avez apportées à votre fichier &lt;f1&gt; OmegaT.l4J.ini &lt;/f1&gt;, ainsi que votre script de lancement (fichier &lt;f2&gt; .bat &lt;/f2&gt;), si vous en utiliser un.</seg>
       </tuv>
     </tu>
     <tu>
       <note>« » à la place de " " Fait. 
 Segment non traduit Fait </note>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>This information applies only to the "Traditional" Windows versions of OmegaT.</seg>
       </tuv>
-      <tuv lang="FR" changeid="AlexandraAnselmi57" changedate="20210510T123538Z" creationid="AlexandraAnselmi57" creationdate="20210510T121408Z">
+      <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210510T123538Z" creationid="AlexandraAnselmi57" creationdate="20210510T121408Z">
         <seg>Ces informations s'appliquent uniquement aux versions Windows « traditionnelles » d'OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>This package can be used on any platform where a Java 8 compatible JRE is installed.</seg>
       </tuv>
-      <tuv lang="FR" changeid="suzume" changedate="20210202T064945Z" creationid="suzume" creationdate="20210202T064945Z">
+      <tuv lang="fr" changeid="suzume" changedate="20210202T064945Z" creationid="suzume" creationdate="20210202T064945Z">
         <seg>Ce paquet peut être utilisé par toutes les plateformes sur lesquelles un environnement d'exécution Java 8 compatible Oracle est installé.</seg>
       </tuv>
     </tu>
@@ -334,69 +343,69 @@ Faut-il garder cet ordre ou mettre le même qu'en anglais ?
 et c'est normal parce que les balises encadrent des mots qui se sont déplacés à cause de la différence d'ordre des mots en anglais et en français.
 
 Pour l'espace fine, il râle à cause de "&lt;!--" et il veut en faire "&lt; ! --", mais il faut ignorer ici parce que cette partie est du code XML (on verra ça plus tard).</note>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>To change the amount of memory available, edit &lt;e0&gt;OmegaT.app/Contents/Info.plist&lt;/e0&gt; file and un-comment the line &lt;l1&gt;&lt;!-- &lt;string&gt;-Xmx6g&lt;/string&gt; --&gt;&lt;/l1&gt; by removing the &lt;l2&gt;&lt;!--&lt;/l2&gt; and &lt;l3&gt;--&gt;&lt;/l3&gt;.</seg>
       </tuv>
-      <tuv lang="FR" changeid="suzume" changedate="20210201T125504Z" creationid="suzume" creationdate="20210201T125504Z">
+      <tuv lang="fr" changeid="suzume" changedate="20210201T125504Z" creationid="suzume" creationdate="20210201T125504Z">
         <seg>Pour modifier la quantité de mémoire disponible, modifiez le fichier &lt;e0&gt;OmegaT.app/Contents/Info.plist&lt;/e0&gt; et retirez les marques de commentaire &lt;l2&gt;&lt;!--&lt;/l2&gt; et &lt;l3&gt;--&gt;&lt;/l3&gt; de la ligne &lt;l1&gt;&lt;!-- &lt;string&gt;-Xmx6g&lt;/string&gt; --&gt;&lt;/l1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>To display the instant start guide in the desired language, you need to specify both the language and the country.</seg>
       </tuv>
-      <tuv lang="FR" changeid="brigitte" changedate="20130714T131417Z">
+      <tuv lang="fr" changeid="brigitte" changedate="20130714T131417Z">
         <seg>Pour afficher le tutoriel de prise en main dans la langue désirée, vous devez spécifier à la fois la langue et le pays.</seg>
       </tuv>
     </tu>
     <tu>
       <note>
 </note>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Total Characters (including spaces)</seg>
       </tuv>
-      <tuv lang="FR" changeid="suzume" changedate="20210508T004747Z">
+      <tuv lang="fr" changeid="suzume" changedate="20210508T004747Z">
         <seg>Total des caractères (avec espaces)</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Total Characters (without spaces)</seg>
       </tuv>
-      <tuv lang="FR" changeid="suzume" changedate="20210508T004752Z">
+      <tuv lang="fr" changeid="suzume" changedate="20210508T004752Z">
         <seg>Total des caractères (sans espaces)</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Translator comments:</seg>
       </tuv>
-      <tuv lang="FR" changeid="AlexandraAnselmi57" changedate="20210510T102741Z">
+      <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210510T102741Z">
         <seg>Commentaires du traducteur :</seg>
       </tuv>
     </tu>
     <tu>
       <note>Segment non traduit : Fait. </note>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>With this method, you may also download the "Windows without JRE" version, since the new installation will use your existing JRE.</seg>
       </tuv>
-      <tuv lang="FR" changeid="AlexandraAnselmi57" changedate="20210510T124009Z" creationid="AlexandraAnselmi57" creationdate="20210510T123218Z">
+      <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210510T124009Z" creationid="AlexandraAnselmi57" creationdate="20210510T123218Z">
         <seg>Avec cette méthode, vous pouvez également télécharger la version « Windows sans JRE », car la nouvelle installation utilisera votre JRE existant.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>You can also add source files from Internet pages, written in MediaWiki, by clicking on&lt;g3&gt; "Import from MediaWiki"&lt;/g3&gt; button and providing the corresponding URL.</seg>
       </tuv>
-      <tuv lang="FR" changeid="suzume" changedate="20210503T230940Z" creationid="suzume" creationdate="20210204T133255Z">
+      <tuv lang="fr" changeid="suzume" changedate="20210503T230940Z" creationid="suzume" creationdate="20210204T133255Z">
         <seg>Il est également possible d'ajouter des fichiers source provenant de pages internet , écrits dans MediaWiki, en cliquant sur &lt;g3&gt;Importer depuis MediaWiki&lt;/g3&gt;» et en saisissant l'URL correspondant.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>You need to update your JDK 1.6 to the latest version, or just remove the jaxb-*.jar files from the OmegaT /lib dir</seg>
       </tuv>
-      <tuv lang="FR" changeid="AlexandraAnselmi57" changedate="20210506T102033Z">
+      <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210506T102033Z">
         <seg>Vous devez mettre à jour votre version du JDK à modifier vers la dernière version, ou simplement retirer les fichiers jaxb-*.jar du répertoire /lib d'OmegaT</seg>
       </tuv>
     </tu>
@@ -411,26 +420,26 @@ L659:
 C'est très moche et on ne devrait pas avoir à séparer deux mots pour faire une phrase
 -&gt; à noter sur le dépôt pour modifier dans la source d'OmegaT
 Ok. </note>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>loaded</seg>
       </tuv>
-      <tuv lang="FR" changeid="suzume" changedate="20210505T233658Z">
+      <tuv lang="fr" changeid="suzume" changedate="20210505T233658Z">
         <seg>chargé</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>osx</seg>
       </tuv>
-      <tuv lang="FR" changeid="suzume" changedate="20210508T013039Z" creationid="briac" creationdate="20170329T130543Z">
+      <tuv lang="fr" changeid="suzume" changedate="20210508T013039Z" creationid="briac" creationdate="20170329T130543Z">
         <seg>osx</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>{0} toggles orientation between LTR, RTL, and language-dependent</seg>
       </tuv>
-      <tuv lang="FR" changeid="AlexandraAnselmi57" changedate="20210507T161031Z" creationid="Didier" creationdate="20170307T143635Z">
+      <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210507T161031Z" creationid="Didier" creationdate="20170307T143635Z">
         <seg>{0} bascule l'orientation entre les modes LTR (gauche à droite), RTL (droite à gauche) et dépendants des langues</seg>
       </tuv>
     </tu>
