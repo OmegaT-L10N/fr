@@ -189,11 +189,6 @@ License. Each licensee is addressed as "you". "Licensees" and
       </tuv>
     </tu>
     <tu>
-      <note>Cette partie n'est pas traduite
-
--&gt; parce qu'il s'agit d'un extrait d'un fichier de paramétrage qui n'est pas traduit
-Pourquoi ne faut-il pas le traduire ? 
--&gt; Bonne question. Parce que le fichier auquel le document fait référence (ini) existe en un seul exemplaire et les commentaires y sont écrit en anglais. Cette partie du manuel explique comment l'utiliser en explicitant les champs à modifier.</note>
       <tuv lang="en">
         <seg># OmegaT.exe runtime configuration
 # To use a parameter, remove the '#' before the '-'
@@ -2649,8 +2644,6 @@ le programme d'installation peut créer des raccourcis pour vous dans le menu d�
       </tuv>
     </tu>
     <tu>
-      <note>Je ne vois pas où placer l'espace
--&gt; En regardant le contenu du fichier Bundle.properties (il se trouve dans le /source de votre projet local, consultez le quand vous avez le temps) j'ai l'impression qu'il est préférable de laisser la chaîne comme elle était</note>
       <tuv lang="en">
         <seg>,</seg>
       </tuv>
@@ -3647,12 +3640,8 @@ Valider les balises.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Il n'y a pourtant pas d'espace ici.
--&gt; le vérificateur dit qu'il en veut, après le "."</note>
+      <note>Fait</note>
       <tuv lang="en">
-        <seg>.*\.html</seg>
-      </tuv>
-      <tuv lang="fr" changeid="JC Helary" changedate="20130505T104543Z">
         <seg>.*\.html</seg>
       </tuv>
     </tu>
@@ -5048,9 +5037,6 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>pourquoi ajouter project/ ? ce nom/préfixe est arbitraire
-Il faut donc que j'enlève le mot projet ?
--&gt; j'ai l'impression que je l'ai fait avant vous...</note>
       <tuv lang="en">
         <seg>&lt;e0&gt;Hint:&lt;/e0&gt; the set of segmentation rules for a given project is stored as &lt;f1&gt;project/omegat/segmentation.conf.&lt;/f1&gt;</seg>
       </tuv>
@@ -5107,11 +5093,12 @@ Il faut donc que j'enlève le mot projet ?
       </tuv>
     </tu>
     <tu>
+      <note>Segment non traduit : Fait. </note>
       <tuv lang="en">
         <seg>&lt;e0&gt;Install over the existing installation.&lt;/e0&gt; To do this, simply select the same installation folder as the existing installation when installing the new version.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210201T120018Z" creationid="suzume" creationdate="20210201T120018Z">
-        <seg>&lt;e0&gt;Une installation par-dessus l'installation déjà existante.&lt;/e0&gt; Pour ce faire, il suffit de sélectionner le même dossier d'installation que celui de l'installation existante lorsque vous installez la nouvelle version.</seg>
+      <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210510T123403Z" creationid="AlexandraAnselmi57" creationdate="20210510T121944Z">
+        <seg>&lt;e0&gt; Installer sur l'installation existante. &lt;/e0&gt; Pour ce faire, sélectionnez simplement le même dossier d'installation que l'installation existante lors de l'installation de la nouvelle version.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5123,13 +5110,11 @@ Il faut donc que j'enlève le mot projet ?
       </tuv>
     </tu>
     <tu>
-      <note>Peut-être rajouter une virgule : les deux versions, côte à côte,
--&gt; OK, allez-y</note>
       <tuv lang="en">
         <seg>&lt;e0&gt;Install to a new folder.&lt;/e0&gt; This will enable you to keep both versions side-by-side, which you may wish to do until you feel comfortable with the new version.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210201T120043Z" creationid="suzume" creationdate="20210201T120043Z">
-        <seg>&lt;e0&gt;Une installation dans un nouveau dossier.&lt;/e0&gt; Cela vous permet de conserver les deux versions côte à côte, ce qui peut être utile jusqu'à ce que vous soyez à l'aise avec la nouvelle version.</seg>
+      <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210510T094557Z" creationid="suzume" creationdate="20210201T120043Z">
+        <seg>&lt;e0&gt;Une installation dans un nouveau dossier.&lt;/e0&gt; Cela vous permet de conserver les deux versions, côte à côte, ce qui peut être utile jusqu'à ce que vous soyez à l'aise avec la nouvelle version.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9163,13 +9148,12 @@ Il faut donc que j'enlève le mot projet ?
       </tuv>
     </tu>
     <tu>
-      <note>peut-être ajouter une virgule : représente la quantité de mémoire attribuée, en mégaoctets. 
--&gt; pourquoi pas.</note>
+      <note>Fait</note>
       <tuv lang="en">
         <seg>&lt;p4&gt;??&lt;/p4&gt; stands for the amount of memory assigned, in megabytes.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210131T123913Z" creationid="suzume" creationdate="20210131T123913Z">
-        <seg>&lt;p4&gt;??&lt;/p4&gt; représente la quantité de mémoire attribuée en mégaoctets.</seg>
+      <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210510T100312Z" creationid="suzume" creationdate="20210131T123913Z">
+        <seg>&lt;p4&gt;??&lt;/p4&gt; représente la quantité de mémoire attribuée, en mégaoctets.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12552,8 +12536,6 @@ provoquer des comportements inattendus, mais corrects.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Je ne vois pas où se trouve l'espace fine.
--&gt; moi non plus...</note>
       <tuv lang="en">
         <seg>Auto replace 'nplurals=INTEGER; &amp;plural=EXPRESSION;' in header</seg>
       </tuv>
@@ -14066,13 +14048,12 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Peut-être modifier et ajouter : Les modifications de cette commande impliquent l'ajout « d'arguments » à cette dernière. 
--&gt; bonne idée, à vous.</note>
+      <note>Fait</note>
       <tuv lang="en">
         <seg>Changes to this command involve the addition of "arguments" to it.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Clementine" changedate="20130502T131807Z">
-        <seg>La modification de cette commande implique l'ajout « d'arguments ».</seg>
+      <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210510T100208Z">
+        <seg>Les modifications de cette commande impliquent l'ajout « d'arguments » à cette dernière.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18508,8 +18489,6 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Il n'y a pas le . et il y a un / en trop dans la version anglaise, cela devrait donc peut-être être ainsi :  ./glossary. 
--&gt; tout à fait. À enregistrer dans le ticket correspondant si vous ne l'avez pas déjà fait (numéro du segment, commentaire, etc. pour qu'on puisse comprendre de quoi il s'agit en juin et plus tard)</note>
       <tuv lang="en">
         <seg>Displays the glossary entries found in the glossary files located in the /glossary/ folder if they are present in the source segment.</seg>
       </tuv>
@@ -19218,13 +19197,12 @@ Ajouter C:\Program Files (x86)\Prince\Engine\bin dans le Path.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>peut-être mettre : Glisser-déplacer ou double-cliquer pour ouvrir un projet
--&gt; Oui mais comme on est dans le contexte de l'ouverture d'un projet c'est peut-être redondant. En tout cas, il faut retirer "espace"</note>
+      <note>Fait</note>
       <tuv lang="en">
         <seg>Drag and drop</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210216T081319Z" creationid="Didier" creationdate="20160322T170057Z">
-        <seg>Glisser-déplacer espace</seg>
+      <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210510T095629Z" creationid="Didier" creationdate="20160322T170057Z">
+        <seg>Glisser-déplacer</seg>
       </tuv>
     </tu>
     <tu>
@@ -26047,11 +26025,12 @@ Public License instead of this License.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Segment non traduit : Fait.</note>
       <tuv lang="en">
         <seg>If you already have a version of OmegaT installed on your PC and wish to upgrade to a more recent version, you have two options:</seg>
       </tuv>
-      <tuv lang="fr" changeid="Didier" changedate="20130528T131756Z">
-        <seg>Si vous possédez déjà une version d'OmegaT sur votre PC et que vous souhaitez obtenir une version plus récente, il existe deux options :</seg>
+      <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210510T121813Z" creationid="AlexandraAnselmi57" creationdate="20210510T121813Z">
+        <seg>Si vous avez déjà une version d'OmegaT installée sur votre PC et que vous souhaitez passer à une version plus récente, vous avez deux options :</seg>
       </tuv>
     </tu>
     <tu>
@@ -26552,10 +26531,6 @@ OmegaT is to use Java Web Start.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Peut-être mettre : un fichier ./bat au lieu de .bat
--&gt; Bonne remarque, mais il se trouve que le nom du fichier est effectivement ".bat" et que ce "." est un vrai point, pas un point qui veut dire n'importe quel caractère en expression régulière, ou un point qui veut dire "le dossier courant" comme je vous avais expliqué l'autre jour.
-Si vous trouvez que c'est bien complexe, vous n'êtes pas la seule...
-En général, les fichiers dont le nom commencent par un "." sont invisible dans le gestionnaire de fichier d'un ordinateur. C'est une convention qui date d'il y a longtemps. En général ce sont des fichiers de configuration que l'utilisateur ne doit pas trop toucher.</note>
       <tuv lang="en">
         <seg>If you have made changes to your &lt;f0&gt;OmegaT.l4J.ini&lt;/f0&gt; file and/or are using a .bat file, you must copy these over.</seg>
       </tuv>
@@ -26926,8 +26901,6 @@ installation program can create shortcuts to launch OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Comment mettre l'espace fine ici ?
--&gt; je ne sais pas comment faire ça sur Windows, cherchez sur internet</note>
       <tuv lang="en">
         <seg>If your existing OmegaT installation is a "Windows with JRE" version, the new version must also be a "Windows with JRE" version.</seg>
       </tuv>
@@ -28123,8 +28096,6 @@ patent against the party.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>/source/ dans la version anglaise, alors qu'il faudrait mettre ./source 
--&gt; bonne remarque</note>
       <tuv lang="en">
         <seg>In this mode, OmegaT will attempt to translate the files in &lt;f0&gt;/source/&lt;/f0&gt; with the available translation memories.</seg>
       </tuv>
@@ -29209,11 +29180,12 @@ exécutez simplement le programme d'installation.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Segment non traduit : Fait.</note>
       <tuv lang="en">
         <seg>It does not apply to the Web Start versions, which are upgraded automatically, nor to cross-platform versions installed on Windows.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Didier" changedate="20130528T131747Z">
-        <seg>Elles ne s'appliquent ni aux versions Web Start, qui se mettent automatiquement à niveau, ni aux versions mutliplateformes installées sur Windows.</seg>
+      <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210510T121548Z" creationid="AlexandraAnselmi57" creationdate="20210510T121548Z">
+        <seg>Elles ne s'appliquent pas aux versions de Web Start, qui sont mises à niveau automatiquement, ni aux versions multiplateformes installées sous Windows.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29890,9 +29862,8 @@ itself on the first run.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>peut-être mettre : (proposée dans Java numéro 8 et les versions ultérieures)
-peut-être mettre également : applications logicielles de Java 
--&gt; même remarque que plus haut. Faites une recherche et faites vous une opinion. Un client sera content de voir que votre opinion se base sur une recherche solide</note>
+      <note>
+</note>
       <tuv lang="en">
         <seg>Java Web Start technology (part of Java 8 and above) can be used to deploy standalone Java software applications with a single click over the network.</seg>
       </tuv>
@@ -36594,11 +36565,6 @@ disponible dans MacPorts sous le nom « py27-pysvn ».</seg>
       </tuv>
     </tu>
     <tu>
-      <note>?
-
--&gt; Il va falloir corriger ça pour que ça corresponde aux nouvelles versions de Windows...
-Je ne vois pas l'espace fine qui ne va pas.
--&gt; elle manque après "«" et avant "»"</note>
       <tuv lang="en">
         <seg>On Windows it is called an "MS-DOS window" and is available from the Start Menu, inside Programs, through the "MS-DOS" item.</seg>
       </tuv>
@@ -36826,9 +36792,6 @@ install virtualenv</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Il faudra indiquer dans le manuel la nomenclature fixée et faire une liste des dossiers référencés dans les documents
-Ok.
--&gt; ajoutez cette remarque dans le ticket des modifications à faire au manuel anglais.</note>
       <tuv lang="en">
         <seg>Once you have made certain that there are no tag errors in your translation, press &lt;k0&gt;Ctrl+D&lt;/k0&gt; to generate the target files, which will be created in the &lt;f1&gt;/target/&lt;/f1&gt; subfolder of your project folder.</seg>
       </tuv>
@@ -44783,12 +44746,6 @@ Traduction supprimée car ne concerne pas le français.</note>
       </tuv>
     </tu>
     <tu>
-      <note>interface d'utilisation
-
--&gt; cf 3401
-Ok.
-Pourquoi mettre en russe au lieu de russe ? 
--&gt; parce que le système ou l'interface peuvent être affichés dans une autre langue. Comme on dit "un texte *en* français".</note>
       <tuv lang="en">
         <seg>So, if the user's operating system is Russian and &lt;a5&gt;OmegaT&lt;/a5&gt; has been localized in Russian, &lt;a6&gt;OmegaT&lt;/a6&gt; is displayed with a Russian user interface, Russian menus, etc.</seg>
       </tuv>
@@ -47537,11 +47494,12 @@ produce the work, or an object code interpreter used to run it.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Segment non traduit : Fait. </note>
       <tuv lang="en">
         <seg>The "old" version of OmegaT will be overwritten, but any settings from it will be retained.</seg>
       </tuv>
-      <tuv lang="fr" changeid="brigitte" changedate="20130713T084745Z">
-        <seg>L'ancienne version d'OmegaT sera écrasée mais tous ses paramètres seront conservés.</seg>
+      <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210510T123753Z" creationid="AlexandraAnselmi57" creationdate="20210510T122151Z">
+        <seg>L'« ancienne » version d'OmegaT sera écrasée, mais tous ses paramètres seront conservés.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49809,13 +49767,11 @@ freedom to share and change it.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>peut-être mettre : l'application nommée Terminal
--&gt; ou peut être des guillemets</note>
       <tuv lang="en">
         <seg>The macOS equivalent is the application Terminal located in &lt;f0&gt;Applications/Utilities&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210507T112439Z" creationid="suzume" creationdate="20210202T064831Z">
-        <seg>Sur macOS, son équivalent est l'application Terminal située dans &lt;f0&gt;Applications/Utilitaires&lt;/f0&gt;.</seg>
+      <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210510T100055Z" creationid="suzume" creationdate="20210202T064831Z">
+        <seg>Sur macOS, son équivalent est l'application « Terminal » située dans &lt;f0&gt;Applications/Utilitaires&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52810,11 +52766,12 @@ under the terms of this General Public License.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Segment non traduit : Fait. </note>
       <tuv lang="en">
         <seg>This includes preferences set from within OmegaT, any changes you have made to your &lt;f1&gt;OmegaT.l4J.ini&lt;/f1&gt; file, and also your launch script (&lt;f2&gt;.bat&lt;/f2&gt; file), if you are using one.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210110T122639Z" creationid="suzume" creationdate="20210110T122639Z">
-        <seg>Cela inclut les préférences définies dans OmegaT, ainsi que tous les changements effectués sur votre fichier &lt;f1&gt; OmegaT.l4J.ini&lt;/f1&gt; et votre script de lancement (fichier &lt;f2&gt;.bat&lt;/f2&gt;), si vous en utilisez un.</seg>
+      <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210510T122901Z" creationid="AlexandraAnselmi57" creationdate="20210510T122901Z">
+        <seg>Cela inclut les préférences définies dans OmegaT, toutes les modifications que vous avez apportées à votre fichier &lt;f1&gt; OmegaT.l4J.ini &lt;/f1&gt;, ainsi que votre script de lancement (fichier &lt;f2&gt; .bat &lt;/f2&gt;), si vous en utiliser un.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52826,11 +52783,13 @@ under the terms of this General Public License.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>« » à la place de " " Fait. 
+Segment non traduit Fait </note>
       <tuv lang="en">
         <seg>This information applies only to the "Traditional" Windows versions of OmegaT.</seg>
       </tuv>
-      <tuv lang="fr" changeid="brigitte" changedate="20130713T084539Z">
-        <seg>Ces informations ne s'appliquent qu'aux versions Windows « classiques » d'OmegaT.</seg>
+      <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210510T123538Z" creationid="AlexandraAnselmi57" creationdate="20210510T121408Z">
+        <seg>Ces informations s'appliquent uniquement aux versions Windows « traditionnelles » d'OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53365,9 +53324,6 @@ this version will not interfere with it.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>peut-être mettre: Java numéro 8
--&gt; pas nécessaire parce que ça n'est pas dans l'original *et* parce que c'est un nom propre.
-quand vous avez un doute comme ça, n'hésitez pas à faire une recherche internet: est ce-que vous trouvez beaucoup de "java numéro 8" ? Si oui, vous avez peut-être raison, si non vous avez peut-être tort. À vérifier.</note>
       <tuv lang="en">
         <seg>This package can be used on any platform where a Java 8 compatible JRE is installed.</seg>
       </tuv>
@@ -54068,6 +54024,7 @@ Je ne vois pas de quel ordre il s'agit, ni l'espace fine.
 
 et dans le français on a :
 &lt;e0&gt;...&lt;/e0&gt; ... &lt;l2&gt;...&lt;/l2&gt; .... &lt;l3&gt;...&lt;/l3&gt; ....&lt;l1&gt;...&lt;/l1&gt;
+Faut-il garder cet ordre ou mettre le même qu'en anglais ? 
 
 et c'est normal parce que les balises encadrent des mots qui se sont déplacés à cause de la différence d'ordre des mots en anglais et en français.
 
@@ -54256,8 +54213,6 @@ Pour l'espace fine, il râle à cause de "&lt;!--" et il veut en faire "&lt; ! -
       </tuv>
     </tu>
     <tu>
-      <note>Pourquoi ne pas mettre guide à la place de tutoriel ? 
--&gt; parce qu'il y a un tutoriel *dans* le guide et que c'est de ça qu'il s'agit</note>
       <tuv lang="en">
         <seg>To display the instant start guide in the desired language, you need to specify both the language and the country.</seg>
       </tuv>
@@ -55103,9 +55058,7 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Total des caractères
--&gt; OK, à vous !
-Ok.
+      <note>
 </note>
       <tuv lang="en">
         <seg>Total Characters (including spaces)</seg>
@@ -55115,9 +55068,6 @@ Ok.
       </tuv>
     </tu>
     <tu>
-      <note>Total des caractères 
--&gt; Ok, bien sûr. À vous ! La chaîne apparaît dans Outil &gt; Statistiques
-Ok.</note>
       <tuv lang="en">
         <seg>Total Characters (without spaces)</seg>
       </tuv>
@@ -55648,19 +55598,11 @@ Ok.</note>
       </tuv>
     </tu>
     <tu>
-      <note>Commentaires du traducteur 
--&gt; Dans le panneau "Commentaires", vous voyez qu'il s'agit de:
-POFILTER_TRANSLATOR_COMMENTS
-
-Il s'agit de ceci:
-https://www.gnu.org/software/gettext/manual/html_node/Modifying-Comments.html
-
-Donc effectivement votre proposition est correcte. À vous de corriger !</note>
       <tuv lang="en">
         <seg>Translator comments:</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
-        <seg>Commentaires traducteur :</seg>
+      <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210510T102741Z">
+        <seg>Commentaires du traducteur :</seg>
       </tuv>
     </tu>
     <tu>
@@ -59184,11 +59126,12 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       </tuv>
     </tu>
     <tu>
+      <note>Segment non traduit : Fait. </note>
       <tuv lang="en">
         <seg>With this method, you may also download the "Windows without JRE" version, since the new installation will use your existing JRE.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Didier" changedate="20130527T144841Z">
-        <seg>Avec cette méthode, vous pouvez également télécharger la version « Windows sans JRE », puisque la nouvelle installation utilisera le JRE dont vous disposez.</seg>
+      <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210510T124009Z" creationid="AlexandraAnselmi57" creationdate="20210510T123218Z">
+        <seg>Avec cette méthode, vous pouvez également télécharger la version « Windows sans JRE », car la nouvelle installation utilisera votre JRE existant.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59867,9 +59810,6 @@ you think will help the developers with finding and fixing your bug.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Il faudra modifier la syntaxe dans le fichier d'origine, pas besoin des guillemets
-Ok.
--&gt; enregistrez ça dans un commentaire du ticket de modification du manuel anglais</note>
       <tuv lang="en">
         <seg>You can also add source files from Internet pages, written in MediaWiki, by clicking on&lt;g3&gt; "Import from MediaWiki"&lt;/g3&gt; button and providing the corresponding URL.</seg>
       </tuv>
@@ -66815,10 +66755,6 @@ Ok. </note>
       </tuv>
     </tu>
     <tu>
-      <note>-&gt; besoin de changer la page du site correspondante: download.html
-ce n'est plus osx mais macos
-
--&gt; Oui mais il faut que le site web soit modifié sinon cette chaine va créer un lien erroné, j'ai donc remis à la version d'origine.</note>
       <tuv lang="en">
         <seg>osx</seg>
       </tuv>
