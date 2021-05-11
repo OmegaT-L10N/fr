@@ -5077,7 +5077,6 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Segment non traduit : Fait. </note>
       <tuv lang="en">
         <seg>&lt;e0&gt;Install over the existing installation.&lt;/e0&gt; To do this, simply select the same installation folder as the existing installation when installing the new version.</seg>
       </tuv>
@@ -9132,7 +9131,6 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Fait</note>
       <tuv lang="en">
         <seg>&lt;p4&gt;??&lt;/p4&gt; stands for the amount of memory assigned, in megabytes.</seg>
       </tuv>
@@ -14032,7 +14030,6 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Fait</note>
       <tuv lang="en">
         <seg>Changes to this command involve the addition of "arguments" to it.</seg>
       </tuv>
@@ -19183,7 +19180,6 @@ Ajouter C:\Program Files (x86)\Prince\Engine\bin dans le Path.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Fait</note>
       <tuv lang="en">
         <seg>Drag and drop</seg>
       </tuv>
@@ -26005,7 +26001,6 @@ Public License instead of this License.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Segment non traduit : Fait.</note>
       <tuv lang="en">
         <seg>If you already have a version of OmegaT installed on your PC and wish to upgrade to a more recent version, you have two options:</seg>
       </tuv>
@@ -26880,7 +26875,7 @@ installation program can create shortcuts to launch OmegaT.</seg>
     </tu>
     <tu>
       <note>Il faut garder l'espace fine.
-</note>
+-&gt; s'il en manque, merci de les insérer</note>
       <tuv lang="en">
         <seg>If your existing OmegaT installation is a "Windows with JRE" version, the new version must also be a "Windows with JRE" version.</seg>
       </tuv>
@@ -47458,7 +47453,6 @@ produce the work, or an object code interpreter used to run it.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Segment non traduit : Fait. </note>
       <tuv lang="en">
         <seg>The "old" version of OmegaT will be overwritten, but any settings from it will be retained.</seg>
       </tuv>
@@ -52725,12 +52719,11 @@ under the terms of this General Public License.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Segment non traduit : Fait. </note>
       <tuv lang="en">
         <seg>This includes preferences set from within OmegaT, any changes you have made to your &lt;f1&gt;OmegaT.l4J.ini&lt;/f1&gt; file, and also your launch script (&lt;f2&gt;.bat&lt;/f2&gt; file), if you are using one.</seg>
       </tuv>
-      <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210510T122901Z" creationid="AlexandraAnselmi57" creationdate="20210510T122901Z">
-        <seg>Cela inclut les préférences définies dans OmegaT, toutes les modifications que vous avez apportées à votre fichier &lt;f1&gt; OmegaT.l4J.ini &lt;/f1&gt;, ainsi que votre script de lancement (fichier &lt;f2&gt; .bat &lt;/f2&gt;), si vous en utiliser un.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210511T154722Z" creationid="AlexandraAnselmi57" creationdate="20210510T122901Z">
+        <seg>Cela inclut les préférences définies dans OmegaT, toutes les modifications que vous avez apportées à votre fichier &lt;f1&gt; OmegaT.l4J.ini &lt;/f1&gt;, ainsi que votre script de lancement (fichier &lt;f2&gt; .bat &lt;/f2&gt;), si vous en utilisez un.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59066,7 +59059,6 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       </tuv>
     </tu>
     <tu>
-      <note>Segment non traduit : Fait. </note>
       <tuv lang="en">
         <seg>With this method, you may also download the "Windows without JRE" version, since the new installation will use your existing JRE.</seg>
       </tuv>
