@@ -16186,7 +16186,7 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <note>"exemple :" ou "ex :" ? 
- </note>
+ -&gt; si c'est non ambigu, le plus court est le mieux</note>
       <tuv lang="en">
         <seg>Copy the folder to a suitable folder (e.g. Applications).</seg>
       </tuv>
@@ -36533,7 +36533,8 @@ disponible dans MacPorts sous le nom « py27-pysvn ».</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Peut-être : Démarrer, à l'intérieur de Programmes, dans le point « MS-DOS ». Comme pour la structure anglaise.</note>
+      <note>Peut-être : Démarrer, à l'intérieur de Programmes, dans le point « MS-DOS ». Comme pour la structure anglaise.
+-&gt; Tant que les instructions sont correctes, ça me va. Vous avez testé ?</note>
       <tuv lang="en">
         <seg>On Windows it is called an "MS-DOS window" and is available from the Start Menu, inside Programs, through the "MS-DOS" item.</seg>
       </tuv>
@@ -68740,7 +68741,8 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Pourquoi mettre des parenthèses ici alors qu'en anglais ce sont des virgules ?</note>
+      <note>Pourquoi mettre des parenthèses ici alors qu'en anglais ce sont des virgules ?
+-&gt; merci de corriger</note>
       <tuv lang="en">
         <seg>where &lt;p0&gt;folder&lt;/p0&gt; is the name of the folder, with complete path, in which your &lt;a1&gt;OmegaT&lt;/a1&gt; program - specifically, the file &lt;f2&gt;OmegaT.jar&lt;/f2&gt; - is located.</seg>
       </tuv>
