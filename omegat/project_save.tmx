@@ -67354,11 +67354,12 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Pourquoi ne pas traduire pop-up ? J'ai également l'impression que la phrase traduite contient des informations supplémentaires non -indiquées en anglais comme "à l'extrémité droite" et également des informations manquantes comme 'ignoring the error" j'ai donc traduit cela en français par "ignorance des erreurs". </note>
       <tuv lang="EN">
         <seg>selecting or moving the mouse over a row displays a pop-up menu icon in the last column containing actions for correcting or ignoring the error.</seg>
       </tuv>
-      <tuv lang="FR" changeid="suzume" changedate="20210204T014124Z" creationid="suzume" creationdate="20210204T014124Z">
-        <seg>sélectionner ou déplacer la souris sur une ligne va afficher une icône à l'extrémité droite de la ligne qui propose un menu déroulant où les actions de correction possibles sont présentées.</seg>
+      <tuv lang="FR" changeid="AlexandraAnselmi57" changedate="20210512T115411Z" creationid="suzume" creationdate="20210204T014124Z">
+        <seg>sélectionner ou déplacer la souris sur une ligne va afficher une icône à l'extrémité droite de la ligne qui propose un menu déroulant où les actions de correction possibles ou d'ignorance des erreurs sont présentées.</seg>
       </tuv>
     </tu>
     <tu>
