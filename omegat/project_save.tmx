@@ -3626,6 +3626,14 @@ Valider les balises.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>.*\.html</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210512T160227Z" creationid="suzume" creationdate="20210512T160205Z">
+        <seg>.*\.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>... matches the following</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130506T123656Z">
@@ -11250,7 +11258,7 @@ rights of fair use or other equivalent, as provided by copyright law.</seg>
     </tu>
     <tu>
       <note>Pourquoi pas de majuscules à Traduction Automatique ? 
--&gt; parce que c'est un nom commun, je ne pense pas qu'elle est nécessaire en anglais</note>
+-&gt; parce que c'est un nom commun, je ne pense pas qu'elles sont nécessaires en anglais</note>
       <tuv lang="en">
         <seg>Allows you to activate/deactivate the Machine Translation tools offered.</seg>
       </tuv>
@@ -33323,7 +33331,8 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <note>Enlever les parenthèses et mettre la même structure qu'en anglais : Fait. 
-Pourquoi avoir ajouté "non traduit" ? </note>
+Pourquoi avoir ajouté "non traduit" ? 
+-&gt; bonne question, je ne pense pas que cette explication supplémentaire soit nécessaire</note>
       <tuv lang="en">
         <seg>Moves to the next segment that has no equivalent in the translation memory.</seg>
       </tuv>
