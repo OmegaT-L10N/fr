@@ -16187,7 +16187,8 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <note>"exemple :" ou "ex :" ? 
- -&gt; si c'est non ambigu, le plus court est le mieux</note>
+ -&gt; si c'est non ambigu, le plus court est le mieux
+Ok.</note>
       <tuv lang="EN">
         <seg>Copy the folder to a suitable folder (e.g. Applications).</seg>
       </tuv>
@@ -36537,13 +36538,12 @@ disponible dans MacPorts sous le nom « py27-pysvn ».</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Peut-être : Démarrer, à l'intérieur de Programmes, dans le point « MS-DOS ». Comme pour la structure anglaise.
--&gt; Tant que les instructions sont correctes, ça me va. Vous avez testé ?</note>
+      <note>Fait.</note>
       <tuv lang="EN">
         <seg>On Windows it is called an "MS-DOS window" and is available from the Start Menu, inside Programs, through the "MS-DOS" item.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130502T130602Z">
-        <seg>Sur Windows, on l'appelle « fenêtre MS-DOS » et elle est accessible via le Menu Démarrer -&gt; Programmes -&gt; élément « MS-DOS ».</seg>
+      <tuv lang="FR" changeid="AlexandraAnselmi57" changedate="20210512T123647Z">
+        <seg>Sur Windows, on l'appelle « fenêtre MS-DOS » et elle est accessible via le Menu Démarrer, à l'intérieur de Programmes, dans le point « MS-DOS ».</seg>
       </tuv>
     </tu>
     <tu>
@@ -68752,13 +68752,12 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Pourquoi mettre des parenthèses ici alors qu'en anglais ce sont des virgules ?
--&gt; merci de corriger</note>
+      <note>Fait.</note>
       <tuv lang="EN">
         <seg>where &lt;p0&gt;folder&lt;/p0&gt; is the name of the folder, with complete path, in which your &lt;a1&gt;OmegaT&lt;/a1&gt; program - specifically, the file &lt;f2&gt;OmegaT.jar&lt;/f2&gt; - is located.</seg>
       </tuv>
-      <tuv lang="FR" changeid="suzume" changedate="20210207T052628Z" creationid="suzume" creationdate="20210202T071850Z">
-        <seg>avec &lt;p0&gt;dossier&lt;/p0&gt; qui est le nom du dossier (ainsi que son chemin complet) dans lequel votre programme &lt;a1&gt;OmegaT&lt;/a1&gt; est situé - et plus particulièrement le fichier &lt;f2&gt;OmegaT.jar&lt;/f2&gt;.</seg>
+      <tuv lang="FR" changeid="AlexandraAnselmi57" changedate="20210512T123726Z" creationid="suzume" creationdate="20210202T071850Z">
+        <seg>avec &lt;p0&gt;dossier&lt;/p0&gt; qui est le nom du dossier, ainsi que son chemin complet, dans lequel votre programme &lt;a1&gt;OmegaT&lt;/a1&gt; est situé - et plus particulièrement le fichier &lt;f2&gt;OmegaT.jar&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
