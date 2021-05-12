@@ -14038,7 +14038,6 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Fait</note>
       <tuv lang="en">
         <seg>Changes to this command involve the addition of "arguments" to it.</seg>
       </tuv>
@@ -16194,14 +16193,11 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>"exemple :" ou "ex :" ? 
- -&gt; si c'est non ambigu, le plus court est le mieux
-Ok.</note>
       <tuv lang="en">
         <seg>Copy the folder to a suitable folder (e.g. Applications).</seg>
       </tuv>
-      <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210506T093226Z" creationid="suzume" creationdate="20210201T121112Z">
-        <seg>Copiez le dossier dans un dossier approprié (ex : Applications).</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210512T155012Z" creationid="suzume" creationdate="20210201T121112Z">
+        <seg>Copiez le dossier dans un dossier approprié (p. ex. : Applications).</seg>
       </tuv>
     </tu>
     <tu>
@@ -19190,7 +19186,6 @@ Ajouter C:\Program Files (x86)\Prince\Engine\bin dans le Path.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Fait</note>
       <tuv lang="en">
         <seg>Drag and drop</seg>
       </tuv>
@@ -52739,12 +52734,11 @@ under the terms of this General Public License.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Segment non traduit : Fait. </note>
       <tuv lang="en">
         <seg>This includes preferences set from within OmegaT, any changes you have made to your &lt;f1&gt;OmegaT.l4J.ini&lt;/f1&gt; file, and also your launch script (&lt;f2&gt;.bat&lt;/f2&gt; file), if you are using one.</seg>
       </tuv>
-      <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210510T122901Z" creationid="AlexandraAnselmi57" creationdate="20210510T122901Z">
-        <seg>Cela inclut les préférences définies dans OmegaT, toutes les modifications que vous avez apportées à votre fichier &lt;f1&gt; OmegaT.l4J.ini &lt;/f1&gt;, ainsi que votre script de lancement (fichier &lt;f2&gt; .bat &lt;/f2&gt;), si vous en utiliser un.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210512T154911Z" creationid="AlexandraAnselmi57" creationdate="20210510T122901Z">
+        <seg>Cela inclut les préférences définies dans OmegaT, toutes les modifications que vous avez apportées à votre fichier &lt;f1&gt; OmegaT.l4J.ini &lt;/f1&gt;, ainsi que votre script de lancement (fichier &lt;f2&gt; .bat &lt;/f2&gt;), si vous en utilisez un.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53983,20 +53977,6 @@ public, and in some countries other activities as well.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>?
-
--&gt; problème ?
-Je ne vois pas de quel ordre il s'agit, ni l'espace fine.
--&gt; Ah, il s'agit des balises qui sont dans le désordre. Regardez, dans l'anglais on a :
-&lt;e0&gt;...&lt;/e0&gt; ... &lt;l1&gt;...&lt;/l1&gt; ... &lt;l2&gt;...&lt;/l2&gt; ... &lt;l3&gt;...&lt;/l3&gt;
-
-et dans le français on a :
-&lt;e0&gt;...&lt;/e0&gt; ... &lt;l2&gt;...&lt;/l2&gt; .... &lt;l3&gt;...&lt;/l3&gt; ....&lt;l1&gt;...&lt;/l1&gt;
-Faut-il garder cet ordre ou mettre le même qu'en anglais ? 
-
-et c'est normal parce que les balises encadrent des mots qui se sont déplacés à cause de la différence d'ordre des mots en anglais et en français.
-
-Pour l'espace fine, il râle à cause de "&lt;!--" et il veut en faire "&lt; ! --", mais il faut ignorer ici parce que cette partie est du code XML (on verra ça plus tard).</note>
       <tuv lang="en">
         <seg>To change the amount of memory available, edit &lt;e0&gt;OmegaT.app/Contents/Info.plist&lt;/e0&gt; file and un-comment the line &lt;l1&gt;&lt;!-- &lt;string&gt;-Xmx6g&lt;/string&gt; --&gt;&lt;/l1&gt; by removing the &lt;l2&gt;&lt;!--&lt;/l2&gt; and &lt;l3&gt;--&gt;&lt;/l3&gt;.</seg>
       </tuv>
@@ -59096,7 +59076,6 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       </tuv>
     </tu>
     <tu>
-      <note>Segment non traduit : Fait. </note>
       <tuv lang="en">
         <seg>With this method, you may also download the "Windows without JRE" version, since the new installation will use your existing JRE.</seg>
       </tuv>
@@ -68781,7 +68760,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Fait.</note>
       <tuv lang="en">
         <seg>where &lt;p0&gt;folder&lt;/p0&gt; is the name of the folder, with complete path, in which your &lt;a1&gt;OmegaT&lt;/a1&gt; program - specifically, the file &lt;f2&gt;OmegaT.jar&lt;/f2&gt; - is located.</seg>
       </tuv>
