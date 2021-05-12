@@ -5081,12 +5081,13 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Segment non traduit : Fait. </note>
+      <note>Segment non traduit : Fait. 
+-&gt; ça fait beaucoup d'installations. J'aimerai bien qu'on réfléchisse à un truc plus élégant, quite à modifier l'anglais éventuellement</note>
       <tuv lang="en">
         <seg>&lt;e0&gt;Install over the existing installation.&lt;/e0&gt; To do this, simply select the same installation folder as the existing installation when installing the new version.</seg>
       </tuv>
-      <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210510T123403Z" creationid="AlexandraAnselmi57" creationdate="20210510T121944Z">
-        <seg>&lt;e0&gt; Installer sur l'installation existante. &lt;/e0&gt; Pour ce faire, sélectionnez simplement le même dossier d'installation que l'installation existante lors de l'installation de la nouvelle version.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210512T154804Z" creationid="AlexandraAnselmi57" creationdate="20210510T121944Z">
+        <seg>&lt;e0&gt;Installer sur l'installation existante.&lt;/e0&gt; Pour ce faire, sélectionnez simplement le même dossier d'installation que l'installation existante lors de l'installation de la nouvelle version.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26013,7 +26014,6 @@ Public License instead of this License.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Segment non traduit : Fait.</note>
       <tuv lang="en">
         <seg>If you already have a version of OmegaT installed on your PC and wish to upgrade to a more recent version, you have two options:</seg>
       </tuv>
@@ -29166,7 +29166,6 @@ exécutez simplement le programme d'installation.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Segment non traduit : Fait.</note>
       <tuv lang="en">
         <seg>It does not apply to the Web Start versions, which are upgraded automatically, nor to cross-platform versions installed on Windows.</seg>
       </tuv>
@@ -47471,7 +47470,8 @@ produce the work, or an object code interpreter used to run it.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Segment non traduit : Fait. </note>
+      <note>Segment non traduit : Fait. 
+-&gt; là aussi, "old" devrait être un truc comme "existing"</note>
       <tuv lang="en">
         <seg>The "old" version of OmegaT will be overwritten, but any settings from it will be retained.</seg>
       </tuv>
