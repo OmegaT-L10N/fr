@@ -50924,7 +50924,8 @@ protocols for communication across the network.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>"Aligné sur" au lieu de "aligné avec" : Fait. </note>
+      <note>"Aligné sur" au lieu de "aligné avec" : Fait. 
+-&gt; intéressant, là il s'agit d'aligner 2 fichiers donc j'ai le sentiment qu'"avec" est plus approprié</note>
       <tuv lang="en">
         <seg>The source and target files can have different formats (for example, a &lt;f0&gt;.docx&lt;/f0&gt; file can be aligned with a &lt;f1&gt;.pdf&lt;/f1&gt; file).</seg>
       </tuv>
@@ -67373,7 +67374,8 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Pourquoi ne pas traduire pop-up ? J'ai également l'impression que la phrase traduite contient des informations supplémentaires non -indiquées en anglais comme "à l'extrémité droite" et également des informations manquantes comme 'ignoring the error" j'ai donc traduit cela en français par "ignorance des erreurs". </note>
+      <note>Pourquoi ne pas traduire pop-up ? J'ai également l'impression que la phrase traduite contient des informations supplémentaires non -indiquées en anglais comme "à l'extrémité droite" et également des informations manquantes comme 'ignoring the error" j'ai donc traduit cela en français par "ignorance des erreurs". 
+-&gt; pop up c'est "menu déroulant", l'extrémité droite c'est "the last column", ignorance des erreur, c'est pas très joli...</note>
       <tuv lang="en">
         <seg>selecting or moving the mouse over a row displays a pop-up menu icon in the last column containing actions for correcting or ignoring the error.</seg>
       </tuv>
