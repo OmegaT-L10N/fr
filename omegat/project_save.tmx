@@ -22310,8 +22310,6 @@ know their rights.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>macOS
-</note>
       <tuv lang="en">
         <seg>For installation on Mac OS X.</seg>
       </tuv>
@@ -31646,8 +31644,7 @@ automatically download and install it.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>macOS
-
+      <note>
 </note>
       <tuv lang="en">
         <seg>Mac OS X</seg>
@@ -33837,7 +33834,9 @@ Pourquoi avoir ajouté "non traduit" ?
       </tuv>
     </tu>
     <tu>
-      <note>Dois-je mettre des majuscules aux noms comme en anglais ? </note>
+      <note>Dois-je mettre des majuscules aux noms comme en anglais ? 
+-&gt; Il s'agit d'un menu, il faut vérifier dans l'interface avec une recherche
+</note>
       <tuv lang="en">
         <seg>Next Translated Segment</seg>
       </tuv>
@@ -35693,8 +35692,6 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
     </tu>
     <tu>
-      <note>macOS
-</note>
       <tuv lang="en">
         <seg>OmegaT has been successfully installed on Windows (all versions from 98 onwards), Macintosh OS X and Linux.</seg>
       </tuv>
@@ -39293,7 +39290,7 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
     </tu>
     <tu>
       <note>Pourquoi ne pas mettre une majuscule à Pro&amp;jet comme en anglais ? 
-</note>
+-&gt; parce que dans l'interface de recherche on a "chercher dans..."</note>
       <tuv lang="en">
         <seg>Pro&amp;ject</seg>
       </tuv>
