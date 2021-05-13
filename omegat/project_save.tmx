@@ -59779,12 +59779,13 @@ you think will help the developers with finding and fixing your bug.</seg>
       <note>Correction de la virgule, Fait. 
 Il y a un guillemet français à la fin, mais pas au début, j'ai également l'impression qu'il est mal placé par rapport à l'anglais :
 en cliquant sur &lt;g3&gt;Importer depuis MediaWiki&lt;/g3&gt;» et en saisissant l'URL correspondant.&lt;segment 4091&gt;
+-&gt; Le guillement n'est pas nécessaire non plus en anglais. C'est une partie de l'interface qui devrait être identifiée autrement.
 </note>
       <tuv lang="en">
         <seg>You can also add source files from Internet pages, written in MediaWiki, by clicking on&lt;g3&gt; "Import from MediaWiki"&lt;/g3&gt; button and providing the corresponding URL.</seg>
       </tuv>
-      <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210513T120511Z" creationid="suzume" creationdate="20210204T133255Z">
-        <seg>Il est également possible d'ajouter des fichiers source provenant de pages internet, écrits dans MediaWiki, en cliquant sur &lt;g3&gt;Importer depuis MediaWiki&lt;/g3&gt;» et en saisissant l'URL correspondant.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210513T233058Z" creationid="suzume" creationdate="20210204T133255Z">
+        <seg>Il est également possible d'ajouter des fichiers source provenant de pages internet, écrits dans MediaWiki, en cliquant sur &lt;g3&gt;Importer depuis MediaWiki&lt;/g3&gt; et en saisissant l'URL correspondant.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69321,7 +69322,8 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Je ne vois pourtant aucun espace. </note>
+      <note>Je ne vois pourtant aucun espace. 
+-&gt; Effectivement. Je pense que c'est peut-être dû à la manière dont le segment apparaît ici. Il y a peut-être une espace (attention "espace" dans ce sens est féminin) en début de segment, mais OmegaT ne l'affiche pas, alors qu'il envoit le segment entier au vérificateur... Bug, à enregistrer dans un ticket séparé</note>
       <tuv lang="en">
         <seg>}</seg>
       </tuv>
