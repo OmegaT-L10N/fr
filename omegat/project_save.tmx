@@ -11259,7 +11259,8 @@ rights of fair use or other equivalent, as provided by copyright law.</seg>
     </tu>
     <tu>
       <note>Pourquoi pas de majuscules à Traduction Automatique ? 
--&gt; parce que c'est un nom commun, je ne pense pas qu'elles sont nécessaires en anglais</note>
+-&gt; parce que c'est un nom commun, je ne pense pas qu'elles sont nécessaires en anglais
+Ok.</note>
       <tuv lang="EN">
         <seg>Allows you to activate/deactivate the Machine Translation tools offered.</seg>
       </tuv>
@@ -37069,12 +37070,13 @@ happen should you file a bug report.</seg>
     </tu>
     <tu>
       <note>Peut-être mettre : Ouvrir le fichier.&lt;f0&gt;UTF8&lt;/f0&gt; généré dans &lt;f1&gt;./target&lt;/f1&gt; (sans l'espace)
--&gt; Non, parce qu'ici il s'agit de l'extension du nom de fichier, et même je mettrait le point à l'intérieur des balises en anglais.</note>
+-&gt; Non, parce qu'ici il s'agit de l'extension du nom de fichier, et même je mettrait le point à l'intérieur des balises en anglais.
+Fait.</note>
       <tuv lang="EN">
         <seg>Open the &lt;f0&gt;.UTF8&lt;/f0&gt; file generated in the &lt;f1&gt;/target&lt;/f1&gt; folder.</seg>
       </tuv>
-      <tuv lang="FR" changeid="suzume" changedate="20210503T232110Z">
-        <seg>Ouvrir le fichier .&lt;f0&gt;UTF8&lt;/f0&gt; généré dans &lt;f1&gt;./target&lt;/f1&gt;</seg>
+      <tuv lang="FR" changeid="AlexandraAnselmi57" changedate="20210513T092150Z">
+        <seg>Ouvrir le fichier &lt;f0&gt;.UTF8&lt;/f0&gt; généré dans &lt;f1&gt;./target&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -57201,7 +57203,8 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <note>Pourquoi pas Guide de l'Utilisateur avec majuscules ?
--&gt; En général on met une majuscule au premier mot</note>
+-&gt; En général on met une majuscule au premier mot
+Ok.</note>
       <tuv lang="EN">
         <seg>User's Manual...</seg>
       </tuv>
@@ -65777,13 +65780,12 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Peut-être : les balises manquantes ou mal placées,
--&gt; pourquoi pas</note>
+      <note>Fait.</note>
       <tuv lang="EN">
         <seg>missing or displaced tags, including &lt;l0&gt;custom tags&lt;/l0&gt;.</seg>
       </tuv>
-      <tuv lang="FR" changeid="suzume" changedate="20210204T011845Z" creationid="suzume" creationdate="20210204T011738Z">
-        <seg>les balises manquantes, mal placées, y compris les &lt;l0&gt;balises personnalisées&lt;/l0&gt;.</seg>
+      <tuv lang="FR" changeid="AlexandraAnselmi57" changedate="20210513T092222Z" creationid="suzume" creationdate="20210204T011738Z">
+        <seg>les balises manquantes ou mal placées, y compris les &lt;l0&gt;balises personnalisées&lt;/l0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
