@@ -62264,13 +62264,12 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Peut-être : "cliquer" comme en anglais au lieu de "un clic",  et oublie de traduction de "sort" order, il faudrait donc mettre "ordre de tri".
--&gt; pourquoi pas</note>
+      <note>Fait. </note>
       <tuv lang="EN">
         <seg>clicking a column header changes the sort order for the column,</seg>
       </tuv>
-      <tuv lang="FR" changeid="suzume" changedate="20210207T052052Z" creationid="suzume" creationdate="20210204T013342Z">
-        <seg>un clic sur un en-tête de colonne modifie l'ordre de la colonne,</seg>
+      <tuv lang="FR" changeid="AlexandraAnselmi57" changedate="20210513T092340Z" creationid="suzume" creationdate="20210204T013342Z">
+        <seg>cliquer sur un en-tête de colonne modifie l'ordre de tri de la colonne,</seg>
       </tuv>
     </tu>
     <tu>
@@ -67376,7 +67375,9 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <note>Pourquoi ne pas traduire pop-up ? J'ai également l'impression que la phrase traduite contient des informations supplémentaires non -indiquées en anglais comme "à l'extrémité droite" et également des informations manquantes comme 'ignoring the error" j'ai donc traduit cela en français par "ignorance des erreurs". 
--&gt; pop up c'est "menu déroulant", l'extrémité droite c'est "the last column", ignorance des erreur, c'est pas très joli...</note>
+-&gt; pop up c'est "menu déroulant", l'extrémité droite c'est "the last column", ignorance des erreur, c'est pas très joli...
+Ok.
+On ne traduit donc pas "ignoring the error" ? </note>
       <tuv lang="EN">
         <seg>selecting or moving the mouse over a row displays a pop-up menu icon in the last column containing actions for correcting or ignoring the error.</seg>
       </tuv>
