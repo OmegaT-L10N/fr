@@ -14247,6 +14247,7 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Peut-être : vérifier les erreurs </note>
       <tuv lang="EN">
         <seg>Check Issues for Current Document</seg>
       </tuv>
@@ -50924,13 +50925,12 @@ protocols for communication across the network.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>"Aligné sur" au lieu de "aligné avec" : Fait. 
--&gt; intéressant, là il s'agit d'aligner 2 fichiers donc j'ai le sentiment qu'"avec" est plus approprié</note>
+      <note>Fait.</note>
       <tuv lang="EN">
         <seg>The source and target files can have different formats (for example, a &lt;f0&gt;.docx&lt;/f0&gt; file can be aligned with a &lt;f1&gt;.pdf&lt;/f1&gt; file).</seg>
       </tuv>
-      <tuv lang="FR" changeid="AlexandraAnselmi57" changedate="20210512T115636Z" creationid="suzume" creationdate="20210204T015841Z">
-        <seg>Les fichiers source et cible peuvent être dans des formats différents, (par exemple, un fichier &lt;f0&gt;.docx&lt;/f0&gt; peut être aligné sur un fichier &lt;f1&gt;.pdf&lt;/f1&gt;).</seg>
+      <tuv lang="FR" changeid="AlexandraAnselmi57" changedate="20210513T092639Z" creationid="suzume" creationdate="20210204T015841Z">
+        <seg>Les fichiers source et cible peuvent être dans des formats différents, (par exemple, un fichier &lt;f0&gt;.docx&lt;/f0&gt; peut être aligné avec un fichier &lt;f1&gt;.pdf&lt;/f1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
