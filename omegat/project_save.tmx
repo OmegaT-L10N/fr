@@ -5720,11 +5720,13 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>C'est-à-dire, Fait. 
+J'ai l'impression qu'il manque des informations dans la version anglaise "respecter la casse" et "majuscule,minuscule". </note>
       <tuv lang="EN">
         <seg>&lt;e0&gt;case sensitive&lt;/e0&gt;: the search will be performed for the exact string specified; i.e. capitalization is observed.</seg>
       </tuv>
-      <tuv lang="FR" changeid="suzume" changedate="20190421T021512Z">
-        <seg>&lt;e0&gt;Respecter la casse&lt;/e0&gt; : la recherche sera effectuée pour la chaîne de caractères exactement spécifiée, c'est à dire que la recherche tient compte de la casse (majuscule, minuscule).</seg>
+      <tuv lang="FR" changeid="AlexandraAnselmi57" changedate="20210513T160806Z">
+        <seg>&lt;e0&gt;Respecter la casse&lt;/e0&gt; : la recherche sera effectuée pour la chaîne de caractères exactement spécifiée, c'est-à-dire que la recherche tient compte de la casse (majuscule, minuscule).</seg>
       </tuv>
     </tu>
     <tu>
