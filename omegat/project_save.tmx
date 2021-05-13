@@ -59765,7 +59765,10 @@ you think will help the developers with finding and fixing your bug.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Correction de la virgule, Fait. </note>
+      <note>Correction de la virgule, Fait. 
+Il y a un guillemet français à la fin, mais pas au début, j'ai également l'impression qu'il est mal placé par rapport à l'anglais :
+en cliquant sur &lt;g3&gt;Importer depuis MediaWiki&lt;/g3&gt;» et en saisissant l'URL correspondant.&lt;segment 4091&gt;
+</note>
       <tuv lang="EN">
         <seg>You can also add source files from Internet pages, written in MediaWiki, by clicking on&lt;g3&gt; "Import from MediaWiki"&lt;/g3&gt; button and providing the corresponding URL.</seg>
       </tuv>
