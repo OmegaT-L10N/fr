@@ -20154,12 +20154,13 @@ pas de page...</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Peut-être supprimer "la nouvelle" pour éviter la répétition,</note>
+      <note>Peut-être supprimer "la nouvelle" pour éviter la répétition,
+-&gt; j'ai mis "groupe de mots", mais l'anglais gagnerait à être plus simple</note>
       <tuv lang="en">
         <seg>Enter the new word or phrase (regular expressions are not supported) in the &lt;e0&gt;Replace with&lt;/e0&gt; box, then click one of the following options:</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z" creationid="Didier" creationdate="20141202T215000Z">
-        <seg>Entrez le nouveau mot ou la nouvelle expression (les expressions régulières ne sont pas prises en charge) dans la case &lt;e0&gt;Remplacer par&lt;/e0&gt;, puis cliquez sur l'une des options suivantes :</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210513T233807Z" creationid="Didier" creationdate="20141202T215000Z">
+        <seg>Entrez le nouveau mot ou groupe de mots (les expressions régulières ne sont pas prises en charge) dans la case &lt;e0&gt;Remplacer par&lt;/e0&gt;, puis cliquez sur l'une des options suivantes :</seg>
       </tuv>
     </tu>
     <tu>
