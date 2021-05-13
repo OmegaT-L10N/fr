@@ -51908,7 +51908,8 @@ prohibited by law if you do not accept this License.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>/source en anglais n'est pas ./source </note>
+      <note>/source en anglais n'est pas ./source 
+-&gt; Exact. C'est dû aux modifications que nous avons apporté la semaines dernière. Il faudra rendre l'anglais plus uniforme.</note>
       <tuv lang="en">
         <seg>These are the files present in the /source folder in a format that OmegaT is able to recognize.</seg>
       </tuv>
@@ -68004,7 +68005,8 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Peut-être enlever les parenthèses de (présents dans l'ensemble du projet)</note>
+      <note>Peut-être enlever les parenthèses de (présents dans l'ensemble du projet)
+-&gt; effectivement, je ne vois pas l'utilité des parenthèses</note>
       <tuv lang="en">
         <seg>the total number of segments, the number of unique segments in the whole project, and the number of unique segments already translated are shown at the bottom</seg>
       </tuv>
