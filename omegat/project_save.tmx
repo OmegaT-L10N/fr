@@ -21,6 +21,7 @@
       </tuv>
     </tu>
     <tu>
+      <note> \"/\" et « / » ne sont pas pareils. </note>
       <tuv lang="EN">
         <seg>"Cannot launch from folder that contains a \"/\" in its name.";</seg>
       </tuv>
@@ -109,6 +110,7 @@ License. Each licensee is addressed as "you". "Licensees" and
       </tuv>
     </tu>
     <tu>
+      <note>les contenus </note>
       <tuv lang="EN">
         <seg>"Unable to enumerate Java directory contents.";</seg>
       </tuv>
