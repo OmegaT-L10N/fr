@@ -5721,7 +5721,8 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <note>C'est-à-dire, Fait. 
-J'ai l'impression qu'il manque des informations dans la version anglaise "respecter la casse" et "majuscule,minuscule". </note>
+J'ai l'impression qu'il manque des informations dans la version anglaise "respecter la casse" et "majuscule,minuscule". 
+-&gt; Oui, mais ce qui n'est pas en majuscule et forcément en minuscule, donc il n'y a pas de pb de sens.</note>
       <tuv lang="en">
         <seg>&lt;e0&gt;case sensitive&lt;/e0&gt;: the search will be performed for the exact string specified; i.e. capitalization is observed.</seg>
       </tuv>
@@ -30217,7 +30218,8 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <note>peut-être : mot-clé, ... sont similaires à une recherche (comme en anglais)
-Pourquoi "Google" est-il séparé de "équivalent au « ET » logique" ? </note>
+Pourquoi "Google" est-il séparé de "équivalent au « ET » logique" ? 
+-&gt; je ne sais pas, mais en français, ça ne me choque pas, par contre "suivant" me parait superflu.</note>
       <tuv lang="en">
         <seg>Keyword searches are similar to a search "with all of the words" in an Internet search engine such as Google (AND logic).</seg>
       </tuv>
