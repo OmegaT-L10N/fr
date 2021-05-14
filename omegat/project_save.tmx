@@ -5725,7 +5725,7 @@ la configuration actuelle est de {0} Mo.</seg>
     <tu>
       <note>C'est-à-dire, Fait. 
 J'ai l'impression qu'il manque des informations dans la version anglaise "respecter la casse" et "majuscule,minuscule". 
--&gt; Oui, mais ce qui n'est pas en majuscule et forcément en minuscule, donc il n'y a pas de pb de sens.</note>
+-&gt; Oui, mais ce qui n'est pas en majuscule *est* forcément en minuscule, donc il n'y a pas de pb de sens.</note>
       <tuv lang="en">
         <seg>&lt;e0&gt;case sensitive&lt;/e0&gt;: the search will be performed for the exact string specified; i.e. capitalization is observed.</seg>
       </tuv>
@@ -22382,9 +22382,6 @@ know their rights.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Peut-être mettre au conditionnel là aussi. 
--&gt; je pense que l'utilisation du "would" anglais n'est pas systématiquement équivalent à un conditionnel en français.
-Ok.</note>
       <tuv lang="en">
         <seg>For instance, &lt;l0&gt;'run?'&lt;/l0&gt; would match the word &lt;l1&gt;'runs'&lt;/l1&gt; and &lt;l2&gt;'runn'&lt;/l2&gt; in the word &lt;l3&gt;'running'&lt;/l3&gt;.</seg>
       </tuv>
@@ -27817,9 +27814,6 @@ the limitation as if written in the body of this License.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>peut-être : raccourcis-clavier 
--&gt; Antidote indique que "raccourci clavier" est majoritaire à 97%
-Ok. </note>
       <tuv lang="en">
         <seg>In the Search window, you can use standard shortcuts (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;N&lt;/k2&gt; &lt;/k0&gt;, &lt;k3&gt; &lt;k4&gt;Ctrl&lt;/k4&gt; &lt;k5&gt;P&lt;/k5&gt; &lt;/k3&gt;) to move from one segment to another.</seg>
       </tuv>
@@ -30233,7 +30227,7 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <note>peut-être :  sont similaires à une recherche (comme en anglais)
-</note>
+-&gt; oui mais j'aime bien l'accord entre le pluriel du début et ce pluriel.</note>
       <tuv lang="en">
         <seg>Keyword searches are similar to a search "with all of the words" in an Internet search engine such as Google (AND logic).</seg>
       </tuv>
@@ -35869,7 +35863,8 @@ translation leveraging into updated projects.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Peut-être : le logiciel Free Software Foundation </note>
+      <note>Peut-être : le logiciel Free Software Foundation
+-&gt; il s'agit de la license utilisateur</note>
       <tuv lang="en">
         <seg>OmegaT is available under the terms of the GNU General Public License as
 published by the Free Software Foundation, either version 3 of the License, or
@@ -42549,7 +42544,6 @@ La recherche port par défaut sur le projet, et peut porter sur tout fichier sit
       </tuv>
     </tu>
     <tu>
-      <note>Fait. </note>
       <tuv lang="en">
         <seg>Search for segments containing all keywords you specified, in any order.</seg>
       </tuv>
@@ -54898,7 +54892,8 @@ install.sh.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Peut-être éviter la répétition de "change folder to the folder" dans la version anglaise </note>
+      <note>Peut-être éviter la répétition de "change folder to the folder" dans la version anglaise
+-&gt; à noter dans le ticket #5</note>
       <tuv lang="en">
         <seg>To use this script, open a terminal
 window (console), change folder to the folder containing OmegaT.jar and the
@@ -61728,7 +61723,8 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Oubli de traduire "helpful"  et "very"</note>
+      <note>Oubli de traduire "helpful"  et "very"
+-&gt; oui mais je trouve trouve qu'il y a un rythme dans la phrase française qui se tient. On est limite dans la langue parlée ici.</note>
       <tuv lang="en">
         <seg>and many, many more very helpful people</seg>
       </tuv>
