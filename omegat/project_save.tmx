@@ -20166,7 +20166,8 @@ pas de page...</seg>
     <tu>
       <note>Peut-être supprimer "la nouvelle" pour éviter la répétition,
 -&gt; j'ai mis "groupe de mots", mais l'anglais gagnerait à être plus simple
-Ok.</note>
+Ok.
+-&gt; à mettre dans le ticket #5</note>
       <tuv lang="en">
         <seg>Enter the new word or phrase (regular expressions are not supported) in the &lt;e0&gt;Replace with&lt;/e0&gt; box, then click one of the following options:</seg>
       </tuv>
@@ -50714,9 +50715,6 @@ protocols for communication across the network.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>peut-être : "correspondrait" au conditionnel comme en anglais 
--&gt; sauf qu'elle correspondra vraiment (au sens du futur). Il n'y a pas de condition dans cette correspondance.
-Ok.</note>
       <tuv lang="en">
         <seg>The search term &lt;l0&gt;'run*'&lt;/l0&gt; for example would match words &lt;l1&gt;'run'&lt;/l1&gt;, &lt;l2&gt;'runs'&lt;/l2&gt; and &lt;l3&gt;'running'&lt;/l3&gt;.</seg>
       </tuv>
@@ -69351,7 +69349,7 @@ de créer son dossier de configuration.</seg>
       <note>Je ne vois pourtant aucun espace. 
 -&gt; Effectivement. Je pense que c'est peut-être dû à la manière dont le segment apparaît ici. Il y a peut-être une espace (attention "espace" dans ce sens est féminin) en début de segment, mais OmegaT ne l'affiche pas, alors qu'il envoit le segment entier au vérificateur... Bug, à enregistrer dans un ticket séparé
 Ok.
--&gt; il s'agit probablement de la p.27 et effectivement il y a des tabulations avant } qui sont </note>
+-&gt; il s'agit de la p.27 et effectivement il y a des tabulations avant } qui sont probablement passées au vérificateur *avant* que le segment ne soit affiché, ce qui ammène ce paradoxe. Merci d'avoir enregistré ça dans le ticket #6. Vous pouvez effacer maintenant.</note>
       <tuv lang="en">
         <seg>}</seg>
       </tuv>
