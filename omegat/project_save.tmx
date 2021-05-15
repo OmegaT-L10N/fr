@@ -38532,7 +38532,8 @@ pour déterminer la source de l'erreur et faites une nouvelle tentative.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Peut-être : Veuillez contacter </note>
+      <note>Peut-être : Veuillez contacter 
+-&gt; L'impératif français est plus soft que l'anglais</note>
       <tuv lang="en">
         <seg>Please contact the &lt;a0&gt;webmaster&lt;/a0&gt; for any point regarding specifically the website.</seg>
       </tuv>
@@ -51454,7 +51455,8 @@ L'idée était que l'utilisation de certaines touches en dehors du segment coura
       </tuv>
     </tu>
     <tu>
-      <note>Peut-être : pour OmegaT</note>
+      <note>Peut-être : pour OmegaT
+-&gt; Peut-être, mais là on est dans le site internet, et plus dans le manuel. On pourra voir ça éventuellement quand on aura fini le PDF.</note>
       <tuv lang="en">
         <seg>The user manual for OmegaT in PDF format ({{ site.data.versions.standard.name }}).</seg>
       </tuv>
