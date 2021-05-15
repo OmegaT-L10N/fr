@@ -16073,7 +16073,8 @@ Une liste blanche en expression régulière des fichiers source à traiter.</seg
       </tuv>
     </tu>
     <tu>
-      <note>Dans le projet ou du projet ? </note>
+      <note>Dans le projet ou du projet ? 
+-&gt; c'est équivalent</note>
       <tuv lang="en">
         <seg>Converting all .DOCX in the project...</seg>
       </tuv>
@@ -69273,7 +69274,8 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Deux points d'interrogation ? </note>
+      <note>Deux points d'interrogation ? 
+-&gt; exclamation, à mettre dans le ticket #5</note>
       <tuv lang="en">
         <seg>{0}:	cleanup done!!</seg>
       </tuv>
