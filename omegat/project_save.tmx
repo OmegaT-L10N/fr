@@ -11266,7 +11266,8 @@ rights of fair use or other equivalent, as provided by copyright law.</seg>
     <tu>
       <note>Pourquoi pas de majuscules à Traduction Automatique ? 
 -&gt; parce que c'est un nom commun, je ne pense pas qu'elles sont nécessaires en anglais
-Ok.</note>
+Ok.
+-&gt; à indiquer dans le ticket #5</note>
       <tuv lang="en">
         <seg>Allows you to activate/deactivate the Machine Translation tools offered.</seg>
       </tuv>
@@ -14260,7 +14261,7 @@ software--to make sure the software is free for all its users.</seg>
       <note>Peut-être : vérifier les erreurs 
 -&gt; Oui, mais je pense que ce qui est utile à l'utilisateur ce n'est pas la vérification mais l'affichage, peut-être à modifier dans l'anglais
 Ok.
-</note>
+-&gt; à noter dans le ticket #5</note>
       <tuv lang="en">
         <seg>Check Issues for Current Document</seg>
       </tuv>
@@ -47495,7 +47496,8 @@ produce the work, or an object code interpreter used to run it.</seg>
     <tu>
       <note>Segment non traduit : Fait. 
 -&gt; là aussi, "old" devrait être un truc comme "existing"
-Ok.</note>
+Ok.
+-&gt; à noter dans le ticket #5</note>
       <tuv lang="en">
         <seg>The "old" version of OmegaT will be overwritten, but any settings from it will be retained.</seg>
       </tuv>
@@ -48868,10 +48870,7 @@ instead.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Peut-être comme en anglais :
-La différence est minime : nous appelons « fenêtre » une fenêtre qui peut rester ouverte auprès de l'éditeur et interagir avec lui, et un « dialogue » une fenêtre d'où vous devez sélectionner des paramètres avant de la fermer et de poursuivre votre traduction. 
--&gt; Il n'est pas nécessaire de se coller à la structure de l'anglais. Le français doit être avant tout agréable à lire.
-Ok.
+      <note>
 </note>
       <tuv lang="en">
         <seg>The difference is thin: we call "Window" a window that can stay open next to the editor and interact with it, and "dialog" a window where you must select parameters before closing it and pursuing your translation activity.</seg>
@@ -52791,7 +52790,8 @@ under the terms of this General Public License.</seg>
       <note>« » à la place de " " Fait. 
 Segment non traduit Fait 
 -&gt; il faudra vérifier dans le reste du projet s'il y a d'autres références à "Traditional", moi je préférerais le modifier dans l'anglais.
-Ok.</note>
+Ok.
+-&gt; noté dans le ticket #5 donc vous pouvez effacer cette note</note>
       <tuv lang="en">
         <seg>This information applies only to the "Traditional" Windows versions of OmegaT.</seg>
       </tuv>
@@ -57238,9 +57238,6 @@ searchable without subscription:</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Pourquoi pas Guide de l'Utilisateur avec majuscules ?
--&gt; En général on met une majuscule au premier mot
-Ok.</note>
       <tuv lang="en">
         <seg>User's Manual...</seg>
       </tuv>
