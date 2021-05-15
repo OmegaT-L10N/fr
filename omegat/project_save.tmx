@@ -21,7 +21,8 @@
       </tuv>
     </tu>
     <tu>
-      <note> \"/\" et « / » ne sont pas pareils. </note>
+      <note> \"/\" et « / » ne sont pas pareils. 
+-&gt; c'est pour une raison technique. Dans ce fichier (Localizable.strings), les " sont interpétés d'une manière particulière, il est donc nécessaire de les "désactiver" en ajoutant \ avant eux pour obtenir "\" dans le texte. Par contre, en français, les guillements « » n'ont pas d'effet special, ils n'ont donc pas besoin de traitement spécial pour qu'au final apparaisse « \ ».</note>
       <tuv lang="en">
         <seg>"Cannot launch from folder that contains a \"/\" in its name.";</seg>
       </tuv>
