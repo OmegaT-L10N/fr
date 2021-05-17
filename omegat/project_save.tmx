@@ -12352,6 +12352,7 @@ provoquer des comportements inattendus, mais corrects.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Peut-être : Ajouter virgule avant "rules" en anglais, et mettre des virgules à la place des parenthèses en français, "patterns" puis "pattern", </note>
       <tuv lang="EN">
         <seg>At each cursor position rules, consisting of a &lt;e0&gt;Before &lt;/e0&gt;and &lt;e1&gt;After &lt;/e1&gt;pattern, are applied in their given order to see if any of the&lt;e2&gt; Before&lt;/e2&gt; patterns are valid for the text on the left and the corresponding &lt;e3&gt;After&lt;/e3&gt; pattern for the text on the right of the cursor.</seg>
       </tuv>
@@ -35870,8 +35871,6 @@ translation leveraging into updated projects.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Peut-être : le logiciel Free Software Foundation
--&gt; il s'agit de la license utilisateur</note>
       <tuv lang="EN">
         <seg>OmegaT is available under the terms of the GNU General Public License as
 published by the Free Software Foundation, either version 3 of the License, or
