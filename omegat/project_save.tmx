@@ -43964,6 +43964,7 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
     </tu>
     <tu>
+      <note>Il faudrait enlever l'espace après le point japonais en anglais</note>
       <tuv lang="EN">
         <seg>Set a segment after "。" (Japanese period)</seg>
       </tuv>
