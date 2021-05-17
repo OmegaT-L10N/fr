@@ -22,7 +22,8 @@
     </tu>
     <tu>
       <note> \"/\" et « / » ne sont pas pareils. 
--&gt; c'est pour une raison technique. Dans ce fichier (Localizable.strings), les " sont interpétés d'une manière particulière, il est donc nécessaire de les "désactiver" en ajoutant \ avant eux pour obtenir "\" dans le texte. Par contre, en français, les guillements « » n'ont pas d'effet special, ils n'ont donc pas besoin de traitement spécial pour qu'au final apparaisse « \ ».</note>
+-&gt; c'est pour une raison technique. Dans ce fichier (Localizable.strings), les " sont interpétés d'une manière particulière, il est donc nécessaire de les "désactiver" en ajoutant \ avant eux pour obtenir "\" dans le texte. Par contre, en français, les guillements « » n'ont pas d'effet special, ils n'ont donc pas besoin de traitement spécial pour qu'au final apparaisse « \ ».
+Ok.</note>
       <tuv lang="EN">
         <seg>"Cannot launch from folder that contains a \"/\" in its name.";</seg>
       </tuv>
@@ -112,7 +113,8 @@ License. Each licensee is addressed as "you". "Licensees" and
     </tu>
     <tu>
       <note>les contenus 
--&gt; le singulier français "contenu" est parfois équivalent au pluriel anglais</note>
+-&gt; le singulier français "contenu" est parfois équivalent au pluriel anglais
+Ok.</note>
       <tuv lang="EN">
         <seg>"Unable to enumerate Java directory contents.";</seg>
       </tuv>
@@ -130,7 +132,8 @@ License. Each licensee is addressed as "you". "Licensees" and
     </tu>
     <tu>
       <note>Pourquoi "a" en anglais ? 
--&gt; parce qu'il peut y en avoir plusieurs sur la machine et qu'il en suffit d'un</note>
+-&gt; parce qu'il peut y en avoir plusieurs sur la machine et qu'il en suffit d'un
+Ok.</note>
       <tuv lang="EN">
         <seg>"Unable to load a Java %d Runtime Environment.";</seg>
       </tuv>
@@ -38586,8 +38589,6 @@ additional steps need to be taken.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>traduction de  "Oracle.com" par "www.java.com" en français. 
--&gt; à noter dans le ticket #5</note>
       <tuv lang="EN">
         <seg>Please download and install the latest Java JDK from Oracle.com and try again.";</seg>
       </tuv>
@@ -61700,7 +61701,8 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <note>Oubli de traduire "helpful"  et "very"
--&gt; oui mais je trouve trouve qu'il y a un rythme dans la phrase française qui se tient. On est limite dans la langue parlée ici.</note>
+-&gt; oui mais je trouve trouve qu'il y a un rythme dans la phrase française qui se tient. On est limite dans la langue parlée ici.
+Ok.</note>
       <tuv lang="EN">
         <seg>and many, many more very helpful people</seg>
       </tuv>
