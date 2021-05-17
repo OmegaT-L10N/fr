@@ -40898,11 +40898,12 @@ ces mots : « pas de page »...</seg>
       </tuv>
     </tu>
     <tu>
+      <note>une balise : Fait.</note>
       <tuv lang="EN">
         <seg>Removing an entire tag remains possible in that case, by using Ctrl+Backspace/Delete or by selecting it completely (Ctrl+Shift+Left/Right) then deleting it (Delete or Ctrl+X).</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20141202T171956Z" creationid="Didier" creationdate="20141202T171956Z">
-        <seg>Supprimmer une balises entière reste possible dans ce cas, en utilisant Ctrl+Retour arrière/Suppr ou en la sélectionnant entièrement (Ctrl+Maj+Gauche/Droite) puis en la supprimant (Suppr ou Ctrl+X).</seg>
+      <tuv lang="FR" changeid="AlexandraAnselmi57" changedate="20210517T145754Z" creationid="Didier" creationdate="20141202T171956Z">
+        <seg>Supprimmer une balise entière reste possible dans ce cas, en utilisant Ctrl+Retour arrière/Suppr ou en la sélectionnant entièrement (Ctrl+Maj+Gauche/Droite) puis en la supprimant (Suppr ou Ctrl+X).</seg>
       </tuv>
     </tu>
     <tu>
@@ -49087,6 +49088,7 @@ instead.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Il faudrait écrire ./script en anglais </note>
       <tuv lang="EN">
         <seg>The files appear in the /script subfolder in the OmegaT user files folder, and include:</seg>
       </tuv>
