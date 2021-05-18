@@ -22205,7 +22205,8 @@ know their rights.</seg>
     <tu>
       <note>Peut-être : pour vous permettre de vérifier 
 -&gt; il me semble que ça alourdi un peu la phrase.
-Ok.</note>
+Ok.
+-&gt; effacez la note</note>
       <tuv lang="en">
         <seg>For example, if you enter &lt;u0&gt;\d+&lt;/u0&gt; into the &lt;g1&gt;Regular expression for custom tags&lt;/g1&gt; field, all numbers will be considered as tags, enabling you to check that numbers have not been changed by mistake during translation.</seg>
       </tuv>
@@ -43963,7 +43964,8 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
     <tu>
       <note>Il faudrait enlever l'espace après le point japonais en anglais
 -&gt; il n'y en a pas. le caractère lui-même contient cet espace. Essayez de sélectionner le caractère et vous verrez qu'il n'y en a qu'un
-Ok.</note>
+Ok.
+-&gt; effacez la note</note>
       <tuv lang="en">
         <seg>Set a segment after "。" (Japanese period)</seg>
       </tuv>
@@ -48076,7 +48078,8 @@ software and other kinds of works.</seg>
     <tu>
       <note>Deux points à la suite ? 
 -&gt; Le point ici a une valeur différente, dans le doute (je doute) s'abstenir et faire une recherche sur les "programmin variables" et leur syntaxe.
-Ok.</note>
+Ok.
+-&gt; conclusion ?</note>
       <tuv lang="en">
         <seg>The PO filter already handles %..</seg>
       </tuv>
@@ -52917,7 +52920,8 @@ under the terms of this General Public License.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>peut-être : virgule (par exemple, ... , etc.) et non "etc)." </note>
+      <note>peut-être : virgule (par exemple, ... , etc.) et non "etc)." 
+-&gt; je ne comprends pas votre remarque, par contre, il faut toujours un "." à "etc."</note>
       <tuv lang="en">
         <seg>This is especially useful when dealing with texts where inline formatting is not really useful (e.g., OCRed PDF, bad converted .odt or .docx, etc.) In a normal case it should always be possible to open the target documents, as only inline tags are removed.</seg>
       </tuv>
