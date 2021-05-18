@@ -4146,7 +4146,8 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Oubli de traduction de "sentence segmentation"</note>
+      <note>Oubli de traduction de "sentence segmentation"
+-&gt; l'anglais est maladroit</note>
       <tuv lang="en">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; has two ways to segment a text: by paragraph or by sentence segmentation (also referred to as “rule-based segmentation”).</seg>
       </tuv>
@@ -12360,12 +12361,13 @@ provoquer des comportements inattendus, mais corrects.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Peut-être : Ajouter virgule avant "rules" en anglais, et mettre des virgules à la place des parenthèses en français, "patterns" puis "pattern", </note>
+      <note>Peut-être : Ajouter virgule avant "rules" en anglais, et mettre des virgules à la place des parenthèses en français, "patterns" puis "pattern", 
+-&gt; je trouve que l'anglais gagnerait à être simplifié</note>
       <tuv lang="en">
         <seg>At each cursor position rules, consisting of a &lt;e0&gt;Before &lt;/e0&gt;and &lt;e1&gt;After &lt;/e1&gt;pattern, are applied in their given order to see if any of the&lt;e2&gt; Before&lt;/e2&gt; patterns are valid for the text on the left and the corresponding &lt;e3&gt;After&lt;/e3&gt; pattern for the text on the right of the cursor.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Didier" changedate="20130528T084531Z">
-        <seg>A chaque position du curseur, des règles (consistant en masques &lt;e0&gt;Avant &lt;/e0&gt;et &lt;e1&gt;Après &lt;/e1&gt;) sont appliquées dans leur ordre donné pour voir si les masques &lt;e2&gt; Avant&lt;/e2&gt; sont valides pour le texte à gauche du curseur et si les masques &lt;e3&gt;Après&lt;/e3&gt; correspondant le sont pour le texte situé à sa droite.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210518T011354Z">
+        <seg>A chaque position du curseur, des règles (consistant en masques &lt;e0&gt;Avant&lt;/e0&gt; et &lt;e1&gt;Après&lt;/e1&gt;) sont appliquées dans leur ordre donné pour voir si les masques &lt;e2&gt;Avant&lt;/e2&gt; sont valides pour le texte à gauche du curseur et si les masques &lt;e3&gt;Après&lt;/e3&gt; correspondant le sont pour le texte situé à sa droite.</seg>
       </tuv>
     </tu>
     <tu>
