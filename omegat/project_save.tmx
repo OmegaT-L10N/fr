@@ -64096,6 +64096,8 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>
+</note>
       <tuv lang="EN">
         <seg>https://ant.apache.org/manual/dirtasks.html#patterns</seg>
       </tuv>
@@ -64762,6 +64764,7 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Il faudrait mettre ./target dans la version anglaise</note>
       <tuv lang="EN">
         <seg>is not copied in /target folder during the translated files creation process.</seg>
       </tuv>
