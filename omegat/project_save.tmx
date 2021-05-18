@@ -174,7 +174,8 @@ Ok.</note>
       </tuv>
     </tu>
     <tu>
-      <note>espaces blancs ou espace blanc, mettre une virgule avant etc.</note>
+      <note>espaces blancs ou espace blanc, mettre une virgule avant etc.
+-&gt; je ne suis pas certain qu'on utilise "blanc" en français... À vérifier !</note>
       <tuv lang="en">
         <seg>"\s" means any white space character (space, tab, new page etc.)</seg>
       </tuv>
@@ -11521,7 +11522,7 @@ the predecessor has it or can get it with reasonable efforts.</seg>
     </tu>
     <tu>
       <note>Il n' y a pas d'information à propos du nom de la ligne en anglais. 
-</note>
+-&gt; effectivement. Que faire ?</note>
       <tuv lang="en">
         <seg>An empty line will appear at the bottom of the upper table (you may have to scroll down to see it).</seg>
       </tuv>
@@ -43992,7 +43993,8 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
     </tu>
     <tu>
-      <note>suivi au lieu de suivit et une espace au lieu d'un espace </note>
+      <note>suivi au lieu de suivit et une espace au lieu d'un espace 
+-&gt; à vous !</note>
       <tuv lang="en">
         <seg>Set the segment start after a period ('.') followed by a space, tab ...</seg>
       </tuv>
