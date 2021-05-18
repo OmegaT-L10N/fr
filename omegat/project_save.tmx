@@ -29874,8 +29874,6 @@ itself on the first run.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>
-</note>
       <tuv lang="en">
         <seg>Java Web Start technology (part of Java 8 and above) can be used to deploy standalone Java software applications with a single click over the network.</seg>
       </tuv>
@@ -34428,7 +34426,8 @@ Diminue les sorties sur stdout de la ligne de commande.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Il faudrait mettre ./tm dans la version anglaise </note>
+      <note>Il faudrait mettre ./tm dans la version anglaise 
+-&gt; exact</note>
       <tuv lang="en">
         <seg>Note that all the tmx files in the /tm repository are parsed when the project is opened, so putting all different TMs you may have on hand into this folder may unnecessarily slow OmegaT down.</seg>
       </tuv>
@@ -49847,7 +49846,8 @@ freedom to share and change it.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Peut-être ajouter : "provenant à la fois de la mémoire interne ..." pour alléger la phrase </note>
+      <note>Peut-être ajouter : "provenant à la fois de la mémoire interne ..." pour alléger la phrase 
+-&gt; vous voulez dire "retirer 'de traduction' " ?</note>
       <tuv lang="en">
         <seg>The match viewer shows the most similar segments from translation memories, both from internal project translation memory created in real time as you translate your project and from ancillary translation memories you have imported from your earlier jobs, or received from your client or translation agency.</seg>
       </tuv>
@@ -59970,7 +59970,8 @@ your programs, too.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Espace avant le point : Fait.</note>
+      <note>Espace avant le point : Fait.
+-&gt; effacez la note</note>
       <tuv lang="en">
         <seg>You can ask the user group for advice if you have problems.</seg>
       </tuv>
@@ -67190,7 +67191,8 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Peut-être : ajout de "existing" dans la version anglaise </note>
+      <note>Peut-être : ajout de "existing" dans la version anglaise 
+-&gt; ou le retirer du français</note>
       <tuv lang="en">
         <seg>restores the layout before the maximizing step</seg>
       </tuv>
@@ -67945,7 +67947,8 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>les parenthèses sont peut-être inutiles (dans la paire de langues sélectionnée), enlever la virgule entre "for the files" et "you have copied" </note>
+      <note>les parenthèses sont peut-être inutiles (dans la paire de langues sélectionnée), enlever la virgule entre "for the files" et "you have copied" 
+-&gt; c'est la raison pour laquelle cette partie doit être réécrite, elle n'est pas très claire en anglais...</note>
       <tuv lang="en">
         <seg>the TMX files in the main project folder (see above) now contain the translations in the selected language pair, for the files, you have copied into the source folder.</seg>
       </tuv>
