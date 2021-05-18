@@ -13640,7 +13640,9 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <note>Il faudrait mettre ./tm dans la version anglaise 
-"below" signifie "en-dessous" et non "localisé dans" </note>
+"below" signifie "en-dessous" et non "localisé dans" 
+-&gt; oui, mais en anglais on utilise une métaphore verticale (on pourrait dire "within" ou "inside" et ça voudrait dire exactement la même chose.
+Dans les deux cas il s'agit de métaphores, parce que la structure d'un dossier sur un disque dur n'a rien à voir avec du vertical ou du contenant. Je vous explique ça ce soir.</note>
       <tuv lang="en">
         <seg>By default, the /tm folder is below the project's root folder (e.g. ...&lt;e0&gt;/MyProject/tm&lt;/e0&gt;), but you can choose a different folder in the project properties dialog if you wish.</seg>
       </tuv>
@@ -31959,7 +31961,8 @@ La version Mac intègre un JRE.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Il faudrait mettre ./omegat/project_save.tmx dans la version anglaise </note>
+      <note>Il faudrait mettre ./omegat/project_save.tmx dans la version anglaise 
+-&gt; exact</note>
       <tuv lang="en">
         <seg>Make regular copies of the file /omegat/project_save.tmx to backup media, such as CD or DVD.</seg>
       </tuv>
