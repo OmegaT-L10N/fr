@@ -69347,10 +69347,6 @@ Ok.</note>
       </tuv>
     </tu>
     <tu>
-      <note>Je ne vois pourtant aucun espace. 
--&gt; Effectivement. Je pense que c'est peut-être dû à la manière dont le segment apparaît ici. Il y a peut-être une espace (attention "espace" dans ce sens est féminin) en début de segment, mais OmegaT ne l'affiche pas, alors qu'il envoit le segment entier au vérificateur... Bug, à enregistrer dans un ticket séparé
-Ok.
--&gt; il s'agit de la p.27 et effectivement il y a des tabulations avant } qui sont probablement passées au vérificateur *avant* que le segment ne soit affiché, ce qui ammène ce paradoxe. Merci d'avoir enregistré ça dans le ticket #6. Vous pouvez effacer maintenant.</note>
       <tuv lang="EN">
         <seg>}</seg>
       </tuv>
