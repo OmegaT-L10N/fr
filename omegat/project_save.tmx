@@ -14951,8 +14951,6 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Vue Glossaire de la Saisie Automatique 
--&gt; pas sûr...</note>
       <tuv lang="EN">
         <seg>Click on &lt;g0&gt;Glossary...&lt;/g0&gt; to configure the Auto-completer Glossary View.</seg>
       </tuv>
@@ -43970,7 +43968,8 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
     </tu>
     <tu>
       <note>Il faudrait enlever l'espace après le point japonais en anglais
--&gt; il n'y en a pas. le caractère lui-même contient cet espace. Essayez de sélectionner le caractère et vous verrez qu'il n'y en a qu'un</note>
+-&gt; il n'y en a pas. le caractère lui-même contient cet espace. Essayez de sélectionner le caractère et vous verrez qu'il n'y en a qu'un
+Ok.</note>
       <tuv lang="EN">
         <seg>Set a segment after "。" (Japanese period)</seg>
       </tuv>
@@ -54113,7 +54112,6 @@ public, and in some countries other activities as well.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>à changer dans le manuel anglais </note>
       <tuv lang="EN">
         <seg>To create one, right-click in a segment, and select "&lt;e2&gt;Set empty translation&lt;/e2&gt;".</seg>
       </tuv>
