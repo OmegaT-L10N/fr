@@ -22204,7 +22204,8 @@ know their rights.</seg>
     </tu>
     <tu>
       <note>Peut-être : pour vous permettre de vérifier 
--&gt; il me semble que ça alourdi un peu la phrase.</note>
+-&gt; il me semble que ça alourdi un peu la phrase.
+Ok.</note>
       <tuv lang="EN">
         <seg>For example, if you enter &lt;u0&gt;\d+&lt;/u0&gt; into the &lt;g1&gt;Regular expression for custom tags&lt;/g1&gt; field, all numbers will be considered as tags, enabling you to check that numbers have not been changed by mistake during translation.</seg>
       </tuv>
@@ -48079,7 +48080,8 @@ software and other kinds of works.</seg>
     </tu>
     <tu>
       <note>Deux points à la suite ? 
--&gt; Le point ici a une valeur différente, dans le doute (je doute) s'abstenir et faire une recherche sur les "programmin variables" et leur syntaxe.</note>
+-&gt; Le point ici a une valeur différente, dans le doute (je doute) s'abstenir et faire une recherche sur les "programmin variables" et leur syntaxe.
+Ok.</note>
       <tuv lang="EN">
         <seg>The PO filter already handles %..</seg>
       </tuv>
@@ -49093,8 +49095,6 @@ instead.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Il faudrait écrire ./script en anglais 
--&gt; exact</note>
       <tuv lang="EN">
         <seg>The files appear in the /script subfolder in the OmegaT user files folder, and include:</seg>
       </tuv>
@@ -54532,13 +54532,11 @@ as a Source Forge user.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>plutôt : 100 % avec espace 
--&gt; à vous !</note>
       <tuv lang="EN">
         <seg>To obtain more literal matches closer to 100%, select the &lt;g0&gt;Full text, including tags and numbers&lt;/g0&gt; option.</seg>
       </tuv>
-      <tuv lang="FR" changeid="suzume" changedate="20210110T094908Z" creationid="suzume" creationdate="20210110T094908Z">
-        <seg>Pour avoir des correspondances plus littérales et proches de 100%, sélectionner plutôt l'option &lt;g0&gt;Texte complet, y compris balises et nombres&lt;/g0&gt;.</seg>
+      <tuv lang="FR" changeid="AlexandraAnselmi57" changedate="20210518T120602Z" creationid="suzume" creationdate="20210110T094908Z">
+        <seg>Pour avoir des correspondances plus littérales et proches de 100 %, sélectionner plutôt l'option &lt;g0&gt;Texte complet, y compris balises et nombres&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61710,8 +61708,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Peut-être commencer une nouvelle phrase à "Cette fonction ..."
--&gt; si vous regardez le PDF, vous verrez que le point qui précède cette partie n'est pas un point de ponctuation, donc pas de majuscule ici.</note>
       <tuv lang="EN">
         <seg>and Java™ Resource Bundle filter already handles {#} tags, so you only need this for other file types.</seg>
       </tuv>
