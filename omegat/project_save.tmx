@@ -34419,6 +34419,7 @@ Diminue les sorties sur stdout de la ligne de commande.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Il faudrait mettre ./tm dans la version anglaise </note>
       <tuv lang="EN">
         <seg>Note that all the tmx files in the /tm repository are parsed when the project is opened, so putting all different TMs you may have on hand into this folder may unnecessarily slow OmegaT down.</seg>
       </tuv>
@@ -58546,6 +58547,7 @@ free programs, and that you know you can do these things.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Peut-être les guillemets ici ne sont pas nécessaires </note>
       <tuv lang="EN">
         <seg>When you begin a new project on the same subject or for the same customer, navigate to the repository folder in the &lt;g0&gt;Project &gt; Properties &gt; Edit Project dialog&lt;/g0&gt; and select it as the translation memory folder.</seg>
       </tuv>
