@@ -4147,8 +4147,7 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Oubli de traduction de "sentence segmentation"
--&gt; l'anglais est maladroit</note>
+      <note>Ok.</note>
       <tuv lang="EN">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; has two ways to segment a text: by paragraph or by sentence segmentation (also referred to as “rule-based segmentation”).</seg>
       </tuv>
@@ -11012,13 +11011,11 @@ this License without regard to the additional permissions.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Plutôt : Eux-mêmes
--&gt; à vous !</note>
       <tuv lang="EN">
         <seg>All other characters represent themselves.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130429T091149Z">
-        <seg>Tous les autres caractères ne correspondent qu'à eux-même.</seg>
+      <tuv lang="FR" changeid="AlexandraAnselmi57" changedate="20210518T114830Z">
+        <seg>Tous les autres caractères ne correspondent qu'à eux-mêmes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12361,7 +12358,8 @@ provoquer des comportements inattendus, mais corrects.</seg>
     </tu>
     <tu>
       <note>Peut-être : Ajouter virgule avant "rules" en anglais, et mettre des virgules à la place des parenthèses en français, "patterns" puis "pattern", 
--&gt; je trouve que l'anglais gagnerait à être simplifié</note>
+-&gt; je trouve que l'anglais gagnerait à être simplifié
+Ok.</note>
       <tuv lang="EN">
         <seg>At each cursor position rules, consisting of a &lt;e0&gt;Before &lt;/e0&gt;and &lt;e1&gt;After &lt;/e1&gt;pattern, are applied in their given order to see if any of the&lt;e2&gt; Before&lt;/e2&gt; patterns are valid for the text on the left and the corresponding &lt;e3&gt;After&lt;/e3&gt; pattern for the text on the right of the cursor.</seg>
       </tuv>
