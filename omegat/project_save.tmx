@@ -4142,7 +4142,8 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Ok.</note>
+      <note>Ok.
+-&gt; effacez la note quand vous l'avez traitée</note>
       <tuv lang="en">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; has two ways to segment a text: by paragraph or by sentence segmentation (also referred to as “rule-based segmentation”).</seg>
       </tuv>
@@ -12357,7 +12358,8 @@ provoquer des comportements inattendus, mais corrects.</seg>
     <tu>
       <note>Peut-être : Ajouter virgule avant "rules" en anglais, et mettre des virgules à la place des parenthèses en français, "patterns" puis "pattern", 
 -&gt; je trouve que l'anglais gagnerait à être simplifié
-Ok.</note>
+Ok.
+-&gt; à noter dans le ticket correspondant</note>
       <tuv lang="en">
         <seg>At each cursor position rules, consisting of a &lt;e0&gt;Before &lt;/e0&gt;and &lt;e1&gt;After &lt;/e1&gt;pattern, are applied in their given order to see if any of the&lt;e2&gt; Before&lt;/e2&gt; patterns are valid for the text on the left and the corresponding &lt;e3&gt;After&lt;/e3&gt; pattern for the text on the right of the cursor.</seg>
       </tuv>
@@ -45136,6 +45138,7 @@ of the GPL, as needed to protect the freedom of users.</seg>
     </tu>
     <tu>
       <note>Modifier la balise fermante dans le manuel anglais, espace avant "Searches" 
+-&gt; à noter dans le ticket correspondant
 </note>
       <tuv lang="en">
         <seg>Source filename patterns use wild card characters similar to those used in &lt;e2&gt;Searches.</seg>
