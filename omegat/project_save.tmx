@@ -22207,7 +22207,8 @@ know their rights.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Peut-être : pour vous permettre de vérifier </note>
+      <note>Peut-être : pour vous permettre de vérifier 
+-&gt; il me semble que ça alourdi un peu la phrase.</note>
       <tuv lang="en">
         <seg>For example, if you enter &lt;u0&gt;\d+&lt;/u0&gt; into the &lt;g1&gt;Regular expression for custom tags&lt;/g1&gt; field, all numbers will be considered as tags, enabling you to check that numbers have not been changed by mistake during translation.</seg>
       </tuv>
@@ -54543,7 +54544,8 @@ as a Source Forge user.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>plutôt : 100 % avec espace </note>
+      <note>plutôt : 100 % avec espace 
+-&gt; à vous !</note>
       <tuv lang="en">
         <seg>To obtain more literal matches closer to 100%, select the &lt;g0&gt;Full text, including tags and numbers&lt;/g0&gt; option.</seg>
       </tuv>
