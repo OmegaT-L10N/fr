@@ -43976,7 +43976,8 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
     </tu>
     <tu>
-      <note>Il faudrait enlever l'espace après le point japonais en anglais</note>
+      <note>Il faudrait enlever l'espace après le point japonais en anglais
+-&gt; il n'y en a pas. le caractère lui-même contient cet espace. Essayez de sélectionner le caractère et vous verrez qu'il n'y en a qu'un</note>
       <tuv lang="en">
         <seg>Set a segment after "。" (Japanese period)</seg>
       </tuv>
