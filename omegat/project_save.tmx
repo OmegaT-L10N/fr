@@ -170,7 +170,8 @@ License. Each licensee is addressed as "you". "Licensees" and
     <tu>
       <note>espaces blancs ou espace blanc, mettre une virgule avant etc.
 -&gt; je ne suis pas certain qu'on utilise "blanc" en français... À vérifier !
-On utilise juste caractères espaces. </note>
+On utilise juste caractères espaces. 
+-&gt; parfait, effacez la note</note>
       <tuv lang="en">
         <seg>"\s" means any white space character (space, tab, new page etc.)</seg>
       </tuv>
@@ -11516,7 +11517,8 @@ the predecessor has it or can get it with reasonable efforts.</seg>
     <tu>
       <note>Il n' y a pas d'information à propos du nom de la ligne en anglais. 
 -&gt; effectivement. Que faire ?
-L'ajouter dans la version anglaise ? </note>
+L'ajouter dans la version anglaise ? 
+-&gt; est-ce que ça vous parrait nécessaire quand vous regardez l'intervace ? Si oui, alors ajoutez ça au ticket correspondant</note>
       <tuv lang="en">
         <seg>An empty line will appear at the bottom of the upper table (you may have to scroll down to see it).</seg>
       </tuv>
