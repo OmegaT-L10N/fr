@@ -6681,7 +6681,8 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <note>Peut-être : dans de différents masques 
--&gt; en regardant à quoi ça correspond (lisez le manuel et identifiez vous-même la partie de l'interface), on voit que la traduction n'est pas la bonne. Vérifiez l'interface et proposez-moi quelque chose.</note>
+-&gt; en regardant à quoi ça correspond (lisez le manuel et identifiez vous-même la partie de l'interface), on voit que la traduction n'est pas la bonne. Vérifiez l'interface et proposez-moi quelque chose.
+mettre time patterns en anglais, les différents masques de temps en français </note>
       <tuv lang="EN">
         <seg>&lt;l0&gt;${timestamp-????}&lt;/l0&gt; – system date time at generation time in various patterns</seg>
       </tuv>
