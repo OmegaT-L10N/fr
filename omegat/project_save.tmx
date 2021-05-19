@@ -6680,14 +6680,12 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Peut-être : dans de différents masques 
--&gt; en regardant à quoi ça correspond (lisez le manuel et identifiez vous-même la partie de l'interface), on voit que la traduction n'est pas la bonne. Vérifiez l'interface et proposez-moi quelque chose.
-mettre time patterns en anglais, les différents masques de temps en français </note>
+      <note> </note>
       <tuv lang="EN">
         <seg>&lt;l0&gt;${timestamp-????}&lt;/l0&gt; – system date time at generation time in various patterns</seg>
       </tuv>
-      <tuv lang="FR" changeid="samsung" changedate="20130415T191438Z">
-        <seg>&lt;l0&gt;${timestamp-????}&lt;/l0&gt; – date et heure du système au moment de la génération des différents masques</seg>
+      <tuv lang="FR" changeid="AlexandraAnselmi57" changedate="20210519T101130Z">
+        <seg>&lt;l0&gt;${timestamp-????}&lt;/l0&gt; – date et heure du système au moment de la génération des différents masques de temps</seg>
       </tuv>
     </tu>
     <tu>
@@ -45116,8 +45114,6 @@ of the GPL, as needed to protect the freedom of users.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Modifier la balise fermante dans le manuel anglais, espace avant "Searches" 
--&gt; à noter dans le ticket correspondant</note>
       <tuv lang="EN">
         <seg>Source filename patterns use wild card characters similar to those used in &lt;e2&gt;Searches.</seg>
       </tuv>
