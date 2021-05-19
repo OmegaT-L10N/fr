@@ -52884,7 +52884,8 @@ under the terms of this General Public License.</seg>
     </tu>
     <tu>
       <note>peut-être : virgule (par exemple, ... , etc.) et non "etc)." 
--&gt; je ne comprends pas votre remarque, par contre, il faut toujours un "." à "etc."</note>
+-&gt; je ne comprends pas votre remarque, par contre, il faut toujours un "." à "etc."
+Je parlais de mettre une virgule après "par exemple" et inverser le "etc)." en "etc.)" la parenthèse devrait être après le point. </note>
       <tuv lang="EN">
         <seg>This is especially useful when dealing with texts where inline formatting is not really useful (e.g., OCRed PDF, bad converted .odt or .docx, etc.) In a normal case it should always be possible to open the target documents, as only inline tags are removed.</seg>
       </tuv>
@@ -57361,9 +57362,6 @@ searchable without subscription:</seg>
       </tuv>
     </tu>
     <tu>
-      <note>peut-être : En utilisant un vérificateur linguistique différent de celui fourni avec OmegaT sur votre machine, ...
--&gt; je ne suis pas certain de la pertinence de l'anglais. le vérificateur pourrait tout aussi bien être en ligne.
-A modifier dans l'anglais</note>
       <tuv lang="EN">
         <seg>Using a different language checker on your local machine than the one supplied with OmegaT gives you the option of personalising the verification rules.</seg>
       </tuv>
