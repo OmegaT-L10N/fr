@@ -21,9 +21,6 @@
       </tuv>
     </tu>
     <tu>
-      <note> \"/\" et « / » ne sont pas pareils. 
--&gt; c'est pour une raison technique. Dans ce fichier (Localizable.strings), les " sont interpétés d'une manière particulière, il est donc nécessaire de les "désactiver" en ajoutant \ avant eux pour obtenir "\" dans le texte. Par contre, en français, les guillements « » n'ont pas d'effet special, ils n'ont donc pas besoin de traitement spécial pour qu'au final apparaisse « \ ».
-Ok.</note>
       <tuv lang="EN">
         <seg>"Cannot launch from folder that contains a \"/\" in its name.";</seg>
       </tuv>
@@ -168,10 +165,6 @@ License. Each licensee is addressed as "you". "Licensees" and
       </tuv>
     </tu>
     <tu>
-      <note>espaces blancs ou espace blanc, mettre une virgule avant etc.
--&gt; je ne suis pas certain qu'on utilise "blanc" en français... À vérifier !
-On utilise juste caractères espaces. 
--&gt; parfait, effacez la note</note>
       <tuv lang="EN">
         <seg>"\s" means any white space character (space, tab, new page etc.)</seg>
       </tuv>
@@ -4143,8 +4136,6 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Ok.
--&gt; effacez la note quand vous l'avez traitée</note>
       <tuv lang="EN">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; has two ways to segment a text: by paragraph or by sentence segmentation (also referred to as “rule-based segmentation”).</seg>
       </tuv>
@@ -4929,9 +4920,6 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Oubli de traduction de "box"
--&gt; pas vraiment puisqu'on a "indiquées" et qu'on fait référence à l'interface que l'utilisateur regarde.
-Ok.</note>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Do not translate the content attribute of meta-tags ...:&lt;/e0&gt; The meta-tags in the box will not be translated.</seg>
       </tuv>
@@ -5460,9 +5448,6 @@ Ok.</note>
       </tuv>
     </tu>
     <tu>
-      <note>Oubli de traduction de "any"
--&gt; pas vraiment, "le" détermine "texte correspondant à l'expression régulière choisie" et donc on obtient le même sens.
-Ok.</note>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Skip text matching regular expression&lt;/e0&gt;: any text matching the regular expression is skipped.</seg>
       </tuv>
@@ -12358,10 +12343,6 @@ provoquer des comportements inattendus, mais corrects.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Peut-être : Ajouter virgule avant "rules" en anglais, et mettre des virgules à la place des parenthèses en français, "patterns" puis "pattern", 
--&gt; je trouve que l'anglais gagnerait à être simplifié
-Ok.
--&gt; à noter dans le ticket correspondant</note>
       <tuv lang="EN">
         <seg>At each cursor position rules, consisting of a &lt;e0&gt;Before &lt;/e0&gt;and &lt;e1&gt;After &lt;/e1&gt;pattern, are applied in their given order to see if any of the&lt;e2&gt; Before&lt;/e2&gt; patterns are valid for the text on the left and the corresponding &lt;e3&gt;After&lt;/e3&gt; pattern for the text on the right of the cursor.</seg>
       </tuv>
@@ -43961,10 +43942,6 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
     </tu>
     <tu>
-      <note>Il faudrait enlever l'espace après le point japonais en anglais
--&gt; il n'y en a pas. le caractère lui-même contient cet espace. Essayez de sélectionner le caractère et vous verrez qu'il n'y en a qu'un
-Ok.
--&gt; effacez la note</note>
       <tuv lang="EN">
         <seg>Set a segment after "。" (Japanese period)</seg>
       </tuv>
@@ -48075,10 +48052,6 @@ software and other kinds of works.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Deux points à la suite ? 
--&gt; Le point ici a une valeur différente, dans le doute (je doute) s'abstenir et faire une recherche sur les "programmin variables" et leur syntaxe.
-Ok.
--&gt; conclusion ?</note>
       <tuv lang="EN">
         <seg>The PO filter already handles %..</seg>
       </tuv>
