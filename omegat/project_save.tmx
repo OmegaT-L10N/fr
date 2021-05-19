@@ -49803,7 +49803,8 @@ freedom to share and change it.</seg>
     </tu>
     <tu>
       <note>Peut-être ajouter : "provenant à la fois de la mémoire interne ..." pour alléger la phrase 
--&gt; vous voulez dire "retirer 'de traduction' " ?</note>
+-&gt; vous voulez dire "retirer 'de traduction' " ?
+Non, ajouter "à la fois"  dans la version française, pour une meilleure compréhension, comme "both" est déja écrit dans la version anglaise</note>
       <tuv lang="EN">
         <seg>The match viewer shows the most similar segments from translation memories, both from internal project translation memory created in real time as you translate your project and from ancillary translation memories you have imported from your earlier jobs, or received from your client or translation agency.</seg>
       </tuv>
@@ -67140,13 +67141,11 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Peut-être : ajout de "existing" dans la version anglaise 
--&gt; ou le retirer du français</note>
       <tuv lang="EN">
         <seg>restores the layout before the maximizing step</seg>
       </tuv>
-      <tuv lang="FR" changeid="pingouin" changedate="20130426T124055Z">
-        <seg>restaure la mise en page qui existait avant l'étape d'agrandissement</seg>
+      <tuv lang="FR" changeid="AlexandraAnselmi57" changedate="20210519T102649Z">
+        <seg>restaure la mise en page avant l'étape d'agrandissement</seg>
       </tuv>
     </tu>
     <tu>
