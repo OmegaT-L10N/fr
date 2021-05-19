@@ -47578,7 +47578,7 @@ form of a work.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>il manque une espace entre sous-dossier et omegat</note>
+      <note>il manque une espace entre sous-dossier et &lt;e0&gt;omegat&lt;/e0&gt;</note>
       <tuv lang="EN">
         <seg>The &lt;e0&gt;omegat&lt;/e0&gt; subfolder contains at least one and possibly several other files.</seg>
       </tuv>
@@ -49896,6 +49896,7 @@ Non, ajouter "à la fois"  dans la version française, pour une meilleure compr�
       </tuv>
     </tu>
     <tu>
+      <note>pourquoi y-t-il &lt;/f1&gt; entre la virgule et le point ? Cela cause un espace dans le PDF.</note>
       <tuv lang="EN">
         <seg>The most important file here is the &lt;f1&gt;project_save.tmx, &lt;/f1&gt;that is the working translation memory for the project.</seg>
       </tuv>
