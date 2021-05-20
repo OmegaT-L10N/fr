@@ -34395,6 +34395,7 @@ Diminue les sorties sur stdout de la ligne de commande.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>mettre ./tm en anglais </note>
       <tuv lang="EN">
         <seg>Note that all the tmx files in the /tm repository are parsed when the project is opened, so putting all different TMs you may have on hand into this folder may unnecessarily slow OmegaT down.</seg>
       </tuv>
