@@ -25264,7 +25264,8 @@ compelled to copy the source along with the object code.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>peut-être enlever l'espace entre dossier et  &lt;e0&gt; tm/auto&lt;/e0&gt; et également entre de et &lt;e1&gt; [correspondance]&lt;/e1&gt;</note>
+      <note>peut-être enlever l'espace entre dossier et  &lt;e0&gt; tm/auto&lt;/e0&gt; et également entre de et &lt;e1&gt; [correspondance]&lt;/e1&gt;
+-&gt; tout à fait</note>
       <tuv lang="en">
         <seg>If it is clear from the very start, that translations in a given TM (or TMs) are all correct, one can put them into the&lt;e0&gt; tm/auto&lt;/e0&gt; folder and avoid confirming a lot of&lt;e1&gt; [fuzzy]&lt;/e1&gt; cases.</seg>
       </tuv>
@@ -39935,7 +39936,8 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>mettre ./tm/auto dans les deux versions </note>
+      <note>mettre ./tm/auto dans les deux versions 
+-&gt; oui</note>
       <tuv lang="en">
         <seg>Put the TMX in /tm/auto.</seg>
       </tuv>
@@ -39944,7 +39946,8 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>mettre ./tm/enforce dans les deux versions </note>
+      <note>mettre ./tm/enforce dans les deux versions 
+-&gt; oui</note>
       <tuv lang="en">
         <seg>Put the TMX in /tm/enforce.</seg>
       </tuv>
@@ -47577,7 +47580,8 @@ form of a work.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>il manque une espace entre sous-dossier et &lt;e0&gt;omegat&lt;/e0&gt;</note>
+      <note>il manque une espace entre sous-dossier et &lt;e0&gt;omegat&lt;/e0&gt;
+-&gt; oui</note>
       <tuv lang="en">
         <seg>The &lt;e0&gt;omegat&lt;/e0&gt; subfolder contains at least one and possibly several other files.</seg>
       </tuv>
@@ -48658,7 +48662,8 @@ utilisé à la place.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>peut-être une espace entre fichier et &lt;e8&gt;./omegat/project_save.tmx</note>
+      <note>peut-être une espace entre fichier et &lt;e8&gt;./omegat/project_save.tmx
+-&gt; excellent</note>
       <tuv lang="en">
         <seg>The contents of the target subfolder will reflect the current state of the translation, as present in the project translation memory, saved in the current &lt;e8&gt;/omegat/project_save.tmx&lt;/e8&gt;.</seg>
       </tuv>
@@ -49896,7 +49901,8 @@ Non, ajouter "à la fois"  dans la version française, pour une meilleure compr�
       </tuv>
     </tu>
     <tu>
-      <note>pourquoi y-t-il &lt;/f1&gt; entre la virgule et le point ? Cela cause un espace dans le PDF.</note>
+      <note>pourquoi y-t-il &lt;/f1&gt; entre la virgule et le point ? Cela cause un espace dans le PDF.
+-&gt; ça doit être un sédiment d'une version qui n'avait pas de point</note>
       <tuv lang="en">
         <seg>The most important file here is the &lt;f1&gt;project_save.tmx, &lt;/f1&gt;that is the working translation memory for the project.</seg>
       </tuv>
@@ -62509,7 +62515,8 @@ La phrase précédente est un lien de Wikipédia.
       </tuv>
     </tu>
     <tu>
-      <note>Dictionary </note>
+      <note>Dictionary 
+-&gt; non, cf. plus haut</note>
       <tuv lang="en">
         <seg>dictionary</seg>
       </tuv>
@@ -63278,7 +63285,8 @@ La phrase précédente est un lien de Wikipédia.
       </tuv>
     </tu>
     <tu>
-      <note>Glossary </note>
+      <note>Glossary 
+-&gt; non, cf. plus haut</note>
       <tuv lang="en">
         <seg>glossary</seg>
       </tuv>
@@ -66292,7 +66300,8 @@ La phrase précédente est un lien de Wikipédia.
       </tuv>
     </tu>
     <tu>
-      <note>Omegat</note>
+      <note>Omegat
+-&gt; non, cf. plus haut</note>
       <tuv lang="en">
         <seg>omegat</seg>
       </tuv>
@@ -68080,7 +68089,8 @@ peut-être: sélectionnez la mémoire de traduction de sauvegarde la plus suscep
       </tuv>
     </tu>
     <tu>
-      <note>Tm</note>
+      <note>Tm
+-&gt; non, voir plus haut au sujet de "Source"</note>
       <tuv lang="en">
         <seg>tm</seg>
       </tuv>
@@ -68089,7 +68099,8 @@ peut-être: sélectionnez la mémoire de traduction de sauvegarde la plus suscep
       </tuv>
     </tu>
     <tu>
-      <note>Tm/auto</note>
+      <note>Tm/auto
+-&gt; pareil</note>
       <tuv lang="en">
         <seg>tm/auto</seg>
       </tuv>
@@ -68106,7 +68117,8 @@ peut-être: sélectionnez la mémoire de traduction de sauvegarde la plus suscep
       </tuv>
     </tu>
     <tu>
-      <note>Tm/enforce</note>
+      <note>Tm/enforce
+-&gt; non, cf plus haut</note>
       <tuv lang="en">
         <seg>tm/enforce</seg>
       </tuv>
@@ -68123,7 +68135,8 @@ peut-être: sélectionnez la mémoire de traduction de sauvegarde la plus suscep
       </tuv>
     </tu>
     <tu>
-      <note>Tm/mt</note>
+      <note>Tm/mt
+-&gt; non, cf. plus haut</note>
       <tuv lang="en">
         <seg>tm/mt</seg>
       </tuv>
@@ -68140,7 +68153,8 @@ peut-être: sélectionnez la mémoire de traduction de sauvegarde la plus suscep
       </tuv>
     </tu>
     <tu>
-      <note>Tm/penalty-xxx</note>
+      <note>Tm/penalty-xxx
+-&gt; non, cf. plus haut</note>
       <tuv lang="en">
         <seg>tm/penalty-xxx</seg>
       </tuv>
