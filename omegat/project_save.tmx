@@ -13616,8 +13616,6 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Il faudrait mettre ./tm dans la version anglaise 
--&gt; à noter</note>
       <tuv lang="EN">
         <seg>By default, the /tm folder is below the project's root folder (e.g. ...&lt;e0&gt;/MyProject/tm&lt;/e0&gt;), but you can choose a different folder in the project properties dialog if you wish.</seg>
       </tuv>
@@ -64730,8 +64728,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Il faudrait mettre ./target dans la version anglaise
--&gt; exact. on gérera ça en juin</note>
       <tuv lang="EN">
         <seg>is not copied in /target folder during the translated files creation process.</seg>
       </tuv>
