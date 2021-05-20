@@ -13617,11 +13617,12 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>il faudrait mettre ./tm dans la version anglaise </note>
       <tuv lang="EN">
         <seg>By default, the /tm folder is below the project's root folder (e.g. ...&lt;e0&gt;/MyProject/tm&lt;/e0&gt;), but you can choose a different folder in the project properties dialog if you wish.</seg>
       </tuv>
-      <tuv lang="FR" changeid="suzume" changedate="20210503T231815Z">
-        <seg>Par défaut, le dossier ./tm est localisé dans le dossier racine du projet (par exemple ...&lt;e0&gt;/MonProjet/tm&lt;/e0&gt;), mais il est toujours possible de choisir un dossier différent dans la boîte de dialogue de propriétés du projet.</seg>
+      <tuv lang="FR" changeid="AlexandraAnselmi57" changedate="20210520T154833Z">
+        <seg>Par défaut, le dossier ./tm est localisé dans le dossier racine du projet (par exemple, ...&lt;e0&gt;/MonProjet/tm&lt;/e0&gt;), mais il est toujours possible de choisir un dossier différent dans la boîte de dialogue de propriétés du projet.</seg>
       </tuv>
     </tu>
     <tu>
