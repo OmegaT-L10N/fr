@@ -25265,13 +25265,11 @@ compelled to copy the source along with the object code.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>peut-être enlever l'espace entre dossier et  &lt;e0&gt; tm/auto&lt;/e0&gt; et également entre de et &lt;e1&gt; [correspondance]&lt;/e1&gt;
--&gt; tout à fait</note>
       <tuv lang="EN">
         <seg>If it is clear from the very start, that translations in a given TM (or TMs) are all correct, one can put them into the&lt;e0&gt; tm/auto&lt;/e0&gt; folder and avoid confirming a lot of&lt;e1&gt; [fuzzy]&lt;/e1&gt; cases.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20130528T100658Z">
-        <seg>S'il est certain dès le début que toutes les traductions d'une ou de plusieurs mémoires de traduction sont correctes, les placer dans le dossier &lt;e0&gt; tm/auto&lt;/e0&gt; permet d'éviter de devoir confirmer de nombreux cas de &lt;e1&gt; [correspondance]&lt;/e1&gt;.</seg>
+      <tuv lang="FR" changeid="AlexandraAnselmi57" changedate="20210520T094937Z">
+        <seg>S'il est certain dès le début que toutes les traductions d'une ou de plusieurs mémoires de traduction sont correctes, les placer dans le dossier  &lt;e0&gt; tm/auto&lt;/e0&gt; permet d'éviter de devoir confirmer de nombreux cas de  &lt;e1&gt; [correspondance]&lt;/e1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48663,13 +48661,11 @@ utilisé à la place.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>peut-être une espace entre fichier et &lt;e8&gt;./omegat/project_save.tmx
--&gt; excellent</note>
       <tuv lang="EN">
         <seg>The contents of the target subfolder will reflect the current state of the translation, as present in the project translation memory, saved in the current &lt;e8&gt;/omegat/project_save.tmx&lt;/e8&gt;.</seg>
       </tuv>
-      <tuv lang="FR" changeid="suzume" changedate="20210503T232717Z">
-        <seg>Le contenu du sous-dossier target (cible) montre l'état actuel de la traduction, telle qu'on la trouve dans la mémoire de traduction du projet (qui est sauvegardée dans le fichier&lt;e8&gt;./omegat/project_save.tmx&lt;/e8&gt; en cours).</seg>
+      <tuv lang="FR" changeid="AlexandraAnselmi57" changedate="20210520T094840Z">
+        <seg>Le contenu du sous-dossier target (cible) montre l'état actuel de la traduction, telle qu'on la trouve dans la mémoire de traduction du projet (qui est sauvegardée dans le fichier &lt;e8&gt;./omegat/project_save.tmx&lt;/e8&gt; en cours).</seg>
       </tuv>
     </tu>
     <tu>
@@ -68091,8 +68087,6 @@ peut-être: sélectionnez la mémoire de traduction de sauvegarde la plus suscep
       </tuv>
     </tu>
     <tu>
-      <note>Tm
--&gt; non, voir plus haut au sujet de "Source"</note>
       <tuv lang="EN">
         <seg>tm</seg>
       </tuv>
@@ -68101,8 +68095,6 @@ peut-être: sélectionnez la mémoire de traduction de sauvegarde la plus suscep
       </tuv>
     </tu>
     <tu>
-      <note>Tm/auto
--&gt; pareil</note>
       <tuv lang="EN">
         <seg>tm/auto</seg>
       </tuv>
@@ -68119,8 +68111,6 @@ peut-être: sélectionnez la mémoire de traduction de sauvegarde la plus suscep
       </tuv>
     </tu>
     <tu>
-      <note>Tm/enforce
--&gt; non, cf plus haut</note>
       <tuv lang="EN">
         <seg>tm/enforce</seg>
       </tuv>
