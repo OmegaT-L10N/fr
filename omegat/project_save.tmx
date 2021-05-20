@@ -39928,23 +39928,19 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>mettre ./tm/auto dans les deux versions 
--&gt; oui</note>
       <tuv lang="EN">
         <seg>Put the TMX in /tm/auto.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20160718T160054Z" creationid="Didier" creationdate="20160718T155712Z">
-        <seg>Placez la TMX dans /tm/auto.</seg>
+      <tuv lang="FR" changeid="AlexandraAnselmi57" changedate="20210520T144318Z" creationid="Didier" creationdate="20160718T155712Z">
+        <seg>Placez la TMX dans ./tm/auto.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>mettre ./tm/enforce dans les deux versions 
--&gt; oui</note>
       <tuv lang="EN">
         <seg>Put the TMX in /tm/enforce.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20160718T160107Z" creationid="Didier" creationdate="20160718T155919Z">
-        <seg>Placez la TMX dans /tm/enforce.</seg>
+      <tuv lang="FR" changeid="AlexandraAnselmi57" changedate="20210520T144458Z" creationid="Didier" creationdate="20160718T155919Z">
+        <seg>Placez la TMX dans ./tm/enforce.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49797,15 +49793,11 @@ freedom to share and change it.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Peut-être ajouter : "provenant à la fois de la mémoire interne ..." pour alléger la phrase 
--&gt; vous voulez dire "retirer 'de traduction' " ?
-Non, ajouter "à la fois"  dans la version française, pour une meilleure compréhension, comme "both" est déja écrit dans la version anglaise
--&gt; pourquoi pas</note>
       <tuv lang="EN">
         <seg>The match viewer shows the most similar segments from translation memories, both from internal project translation memory created in real time as you translate your project and from ancillary translation memories you have imported from your earlier jobs, or received from your client or translation agency.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Didier" changedate="20130528T124840Z">
-        <seg>Le volet Correspondances affiche les segments les plus proches provenant de la mémoire de traduction interne au projet qui est créée en temps réel au cours de votre traduction et des mémoires de traduction secondaires que vous avez importées depuis vos travaux précédents ou que vous avez reçues de la part de votre client ou de votre agence de traduction.</seg>
+      <tuv lang="FR" changeid="AlexandraAnselmi57" changedate="20210520T144145Z">
+        <seg>Le volet Correspondances affiche les segments les plus proches provenant de la mémoire de traduction, à la fois interne au projet qui est créée en temps réel au cours de votre traduction, et des mémoires de traduction secondaires que vous avez importées depuis vos travaux précédents ou que vous avez reçues de la part de votre client ou de votre agence de traduction.</seg>
       </tuv>
     </tu>
     <tu>
