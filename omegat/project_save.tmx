@@ -3625,7 +3625,6 @@ Valider les balises.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Fait</note>
       <tuv lang="en">
         <seg>.*\.html</seg>
       </tuv>
@@ -5081,7 +5080,6 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Segment non traduit : Fait. </note>
       <tuv lang="en">
         <seg>&lt;e0&gt;Install over the existing installation.&lt;/e0&gt; To do this, simply select the same installation folder as the existing installation when installing the new version.</seg>
       </tuv>
@@ -9136,7 +9134,6 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Fait</note>
       <tuv lang="en">
         <seg>&lt;p4&gt;??&lt;/p4&gt; stands for the amount of memory assigned, in megabytes.</seg>
       </tuv>
@@ -13125,9 +13122,6 @@ documentation.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Peut-être : pages de blog 
--&gt; il faut voir le contenu
--&gt; ceci est une page du site web, pas du manuel</note>
       <tuv lang="en">
         <seg>Blog pages on OmegaT.</seg>
       </tuv>
@@ -13441,7 +13435,8 @@ entire whole, and thus to each and every part regardless of who wrote it.</seg>
       <note>peut-être : "De" au lieu de "par"
 -&gt; Oui, mais on pourra voir tout ça quand on aura fini le manuel :-)
 Ok.
--&gt; ceci est une page du site web, pas du manuel</note>
+-&gt; ceci est une page du site web, pas du manuel
+-&gt; à noter dans les commentaires du ticket correspondant, si ça n'est pas déjà fait</note>
       <tuv lang="en">
         <seg>By Marco Cevoli and Sergio Alasia.</seg>
       </tuv>
@@ -14049,7 +14044,6 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Fait</note>
       <tuv lang="en">
         <seg>Changes to this command involve the addition of "arguments" to it.</seg>
       </tuv>
@@ -19202,7 +19196,6 @@ Ajouter C:\Program Files (x86)\Prince\Engine\bin dans le Path.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Fait</note>
       <tuv lang="en">
         <seg>Drag and drop</seg>
       </tuv>
@@ -26028,7 +26021,6 @@ Public License instead of this License.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Segment non traduit : Fait.</note>
       <tuv lang="en">
         <seg>If you already have a version of OmegaT installed on your PC and wish to upgrade to a more recent version, you have two options:</seg>
       </tuv>
@@ -29181,7 +29173,8 @@ exécutez simplement le programme d'installation.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Segment non traduit : Fait.</note>
+      <note>Segment non traduit : Fait.
+-&gt; je ne comprends pas votre "segment non  traduit", parce que le segment a l'air très traduit de mon côté...</note>
       <tuv lang="en">
         <seg>It does not apply to the Web Start versions, which are upgraded automatically, nor to cross-platform versions installed on Windows.</seg>
       </tuv>
@@ -31668,9 +31661,6 @@ automatically download and install it.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>macOS
-
-</note>
       <tuv lang="en">
         <seg>Mac OS X</seg>
       </tuv>
@@ -47484,7 +47474,6 @@ produce the work, or an object code interpreter used to run it.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Segment non traduit : Fait. </note>
       <tuv lang="en">
         <seg>The "old" version of OmegaT will be overwritten, but any settings from it will be retained.</seg>
       </tuv>
@@ -49913,7 +49902,7 @@ freedom to share and change it.</seg>
     </tu>
     <tu>
       <note>pourquoi y-t-il &lt;/f1&gt; entre la virgule et le point ? Cela cause un espace dans le PDF.
--&gt; ça doit être un sédiment d'une version qui n'avait pas de point</note>
+-&gt; ça doit être un sédiment d'une version qui n'avait pas de point, à corriger</note>
       <tuv lang="en">
         <seg>The most important file here is the &lt;f1&gt;project_save.tmx, &lt;/f1&gt;that is the working translation memory for the project.</seg>
       </tuv>
@@ -52757,7 +52746,6 @@ under the terms of this General Public License.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Segment non traduit : Fait. </note>
       <tuv lang="en">
         <seg>This includes preferences set from within OmegaT, any changes you have made to your &lt;f1&gt;OmegaT.l4J.ini&lt;/f1&gt; file, and also your launch script (&lt;f2&gt;.bat&lt;/f2&gt; file), if you are using one.</seg>
       </tuv>
@@ -52774,8 +52762,6 @@ under the terms of this General Public License.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>« » à la place de " " Fait. 
-Segment non traduit Fait </note>
       <tuv lang="en">
         <seg>This information applies only to the "Traditional" Windows versions of OmegaT.</seg>
       </tuv>
@@ -59111,7 +59097,6 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       </tuv>
     </tu>
     <tu>
-      <note>Segment non traduit : Fait. </note>
       <tuv lang="en">
         <seg>With this method, you may also download the "Windows without JRE" version, since the new installation will use your existing JRE.</seg>
       </tuv>
