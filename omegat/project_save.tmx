@@ -13611,8 +13611,6 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>il faudrait mettre ./tm dans la version anglaise 
--&gt; ok</note>
       <tuv lang="EN">
         <seg>By default, the /tm folder is below the project's root folder (e.g. ...&lt;e0&gt;/MyProject/tm&lt;/e0&gt;), but you can choose a different folder in the project properties dialog if you wish.</seg>
       </tuv>
@@ -58674,7 +58672,8 @@ for which you have or can give appropriate copyright permission.</seg>
     </tu>
     <tu>
       <note>Peut-être enlever les parenthèses en français
--&gt; pourquoi pas, faites une proposition</note>
+-&gt; pourquoi pas, faites une proposition
+Mettre une virgule à la place. </note>
       <tuv lang="EN">
         <seg>Whenever you finish a project, copy one of the three "export" translation memory files from the root folder of the project to the repository folder.</seg>
       </tuv>
