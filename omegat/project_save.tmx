@@ -10447,7 +10447,8 @@ covered by this License; they are outside its scope.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>peut-être : ajout de masques </note>
+      <note>peut-être : ajout de masques 
+-&gt; l'anglais ne devrait pas avoir "add" puisque la ligne décrit le contenu du champ</note>
       <tuv lang="en">
         <seg>Add patterns using wildcards (Apache Ant style): *, ?, **.</seg>
       </tuv>
@@ -20741,7 +20742,8 @@ The FSF strongly urges you not to use this translation as the official distribu-
       </tuv>
     </tu>
     <tu>
-      <note>oubli du terme "folder" dans la version anglaise </note>
+      <note>oubli du terme "folder" dans la version anglaise 
+-&gt; pas exactement, le "chemin" c'est ici la chaine de caractères qui donne l'adresse du fichier, on voir ça ce soir !</note>
       <tuv lang="en">
         <seg>Example: &lt;u0&gt;**/excludedfolder/**;*.txt&lt;/u0&gt; excludes files that have /excludedfolder/ in the path, and files with .txt extension.</seg>
       </tuv>
