@@ -11079,8 +11079,6 @@ rights of fair use or other equivalent, as provided by copyright law.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Pourquoi y a-t-il des énormes espaces entre les mots de cette phrase dans le pdf ? 
--&gt; c'est moche mais c'est une question de mise en page automatique du PDF</note>
       <tuv lang="EN">
         <seg>All the contents of &lt;f0&gt;https://repo_for_All_OmegaT_team_project_sources&lt;/f0&gt; are mapped to the local OmegaT project source folder, except all *.bak files but readme.bak.</seg>
       </tuv>
@@ -16559,8 +16557,6 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
     </tu>
     <tu>
-      <note>checkout et non check out ? 
--&gt; c'est le nom d'une commande "svn checkout ..." comme on a fait hier "git clone ..."</note>
       <tuv lang="EN">
         <seg>Create a local copy of the repository (&lt;c0&gt;check out&lt;/c0&gt; with SVN, &lt;c1&gt;clone&lt;/c1&gt; with Git).</seg>
       </tuv>
@@ -34395,8 +34391,6 @@ Diminue les sorties sur stdout de la ligne de commande.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>mettre ./tm en anglais 
--&gt; ok</note>
       <tuv lang="EN">
         <seg>Note that all the tmx files in the /tm repository are parsed when the project is opened, so putting all different TMs you may have on hand into this folder may unnecessarily slow OmegaT down.</seg>
       </tuv>
@@ -50501,8 +50495,6 @@ modification follow.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Pourquoi y a t-il plusieurs espaces en trop au début de cette phrase "Le fichier distant" du pdf ? 
--&gt; parce que le chemin du fichier "https://..." est trop long donc la mise en page automatique du PDF crée des espaces pour équilibrer la page.</note>
       <tuv lang="EN">
         <seg>The remote file &lt;f0&gt;https://github.com/omegat-org/omegat/raw/master/src/org/omegat/Bundle.properties&lt;/f0&gt; is mapped to the local file &lt;f1&gt;source/Bundle.properties&lt;/f1&gt;.</seg>
       </tuv>
@@ -53969,20 +53961,6 @@ public, and in some countries other activities as well.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>?
-
--&gt; problème ?
-Je ne vois pas de quel ordre il s'agit, ni l'espace fine.
--&gt; Ah, il s'agit des balises qui sont dans le désordre. Regardez, dans l'anglais on a :
-&lt;e0&gt;...&lt;/e0&gt; ... &lt;l1&gt;...&lt;/l1&gt; ... &lt;l2&gt;...&lt;/l2&gt; ... &lt;l3&gt;...&lt;/l3&gt;
-
-et dans le français on a :
-&lt;e0&gt;...&lt;/e0&gt; ... &lt;l2&gt;...&lt;/l2&gt; .... &lt;l3&gt;...&lt;/l3&gt; ....&lt;l1&gt;...&lt;/l1&gt;
-Faut-il garder cet ordre ou mettre le même qu'en anglais ? 
-
-et c'est normal parce que les balises encadrent des mots qui se sont déplacés à cause de la différence d'ordre des mots en anglais et en français.
-
-Pour l'espace fine, il râle à cause de "&lt;!--" et il veut en faire "&lt; ! --", mais il faut ignorer ici parce que cette partie est du code XML (on verra ça plus tard).</note>
       <tuv lang="EN">
         <seg>To change the amount of memory available, edit &lt;e0&gt;OmegaT.app/Contents/Info.plist&lt;/e0&gt; file and un-comment the line &lt;l1&gt;&lt;!-- &lt;string&gt;-Xmx6g&lt;/string&gt; --&gt;&lt;/l1&gt; by removing the &lt;l2&gt;&lt;!--&lt;/l2&gt; and &lt;l3&gt;--&gt;&lt;/l3&gt;.</seg>
       </tuv>
