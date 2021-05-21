@@ -10444,8 +10444,6 @@ covered by this License; they are outside its scope.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>peut-être : ajout de masques 
--&gt; l'anglais ne devrait pas avoir "add" puisque la ligne décrit le contenu du champ</note>
       <tuv lang="EN">
         <seg>Add patterns using wildcards (Apache Ant style): *, ?, **.</seg>
       </tuv>
@@ -52418,13 +52416,11 @@ under the terms of this General Public License.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>mettre : "cela peut-être" et préciser : (qui inclus https)
--&gt; je préfère sans "peut être" et (inclut https)</note>
       <tuv lang="EN">
         <seg>This can be either http (which includes https), svn, git or file.</seg>
       </tuv>
-      <tuv lang="FR" changeid="suzume" changedate="20210129T094745Z" creationid="suzume" creationdate="20210129T094745Z">
-        <seg>Peut être http (https), svn, git ou file.</seg>
+      <tuv lang="FR" changeid="AlexandraAnselmi57" changedate="20210521T093049Z" creationid="suzume" creationdate="20210129T094745Z">
+        <seg>Http (qui inclut https), svn, git ou file.</seg>
       </tuv>
     </tu>
     <tu>
