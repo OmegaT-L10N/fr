@@ -16758,7 +16758,8 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
     </tu>
     <tu>
       <note>Majuscule 
--&gt; je ne suis pas certain que la majuscule soit toujours nécessaire après ":", à vérifier</note>
+-&gt; je ne suis pas certain que la majuscule soit toujours nécessaire après ":", à vérifier
+Les autres 'créer" en dessous ont une majuscule, du coup j'ai pensé que cette phrase aussi devrait peut-être en avoir une.</note>
       <tuv lang="EN">
         <seg>Creating an empty project on a server</seg>
       </tuv>
@@ -29159,7 +29160,8 @@ exécutez simplement le programme d'installation.</seg>
     </tu>
     <tu>
       <note>Segment non traduit : Fait.
--&gt; je ne comprends pas votre "segment non  traduit", parce que le segment a l'air très traduit de mon côté...</note>
+-&gt; je ne comprends pas votre "segment non  traduit", parce que le segment a l'air très traduit de mon côté...
+Il me semble que c'est parce que je l'avais traduit. </note>
       <tuv lang="EN">
         <seg>It does not apply to the Web Start versions, which are upgraded automatically, nor to cross-platform versions installed on Windows.</seg>
       </tuv>
@@ -66316,8 +66318,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Majuscule
--&gt; à vérifier après un ":"</note>
       <tuv lang="EN">
         <seg>on the command line: &lt;c0&gt;java -jar OmegaT.jar team init [lang1] [lang2]&lt;/c0&gt;</seg>
       </tuv>
