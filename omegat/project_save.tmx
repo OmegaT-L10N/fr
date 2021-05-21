@@ -16572,7 +16572,8 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
     </tu>
     <tu>
-      <note>checkout et non check out ? </note>
+      <note>checkout et non check out ? 
+-&gt; c'est le nom d'une commande "svn checkout ..." comme on a fait hier "git clone ..."</note>
       <tuv lang="en">
         <seg>Create a local copy of the repository (&lt;c0&gt;check out&lt;/c0&gt; with SVN, &lt;c1&gt;clone&lt;/c1&gt; with Git).</seg>
       </tuv>
@@ -52430,7 +52431,8 @@ under the terms of this General Public License.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>mettre : "cela peut-être" et préciser : (qui inclus https)</note>
+      <note>mettre : "cela peut-être" et préciser : (qui inclus https)
+-&gt; je préfère sans "peut être" et (inclut https)</note>
       <tuv lang="en">
         <seg>This can be either http (which includes https), svn, git or file.</seg>
       </tuv>
@@ -62353,7 +62355,8 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>il faudrait mettre ./source en anglais </note>
+      <note>il faudrait mettre ./source en anglais 
+-&gt; ok</note>
       <tuv lang="en">
         <seg>copy the files to the &lt;f0&gt;/source&lt;/f0&gt; folder</seg>
       </tuv>
@@ -66366,7 +66369,8 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Majuscule</note>
+      <note>Majuscule
+-&gt; à vérifier après un ":"</note>
       <tuv lang="en">
         <seg>on the command line: &lt;c0&gt;java -jar OmegaT.jar team init [lang1] [lang2]&lt;/c0&gt;</seg>
       </tuv>
