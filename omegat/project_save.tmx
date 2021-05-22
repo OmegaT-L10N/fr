@@ -3625,6 +3625,7 @@ Valider les balises.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Fait</note>
       <tuv lang="en">
         <seg>.*\.html</seg>
       </tuv>
@@ -5080,6 +5081,7 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Segment non traduit : Fait. </note>
       <tuv lang="en">
         <seg>&lt;e0&gt;Install over the existing installation.&lt;/e0&gt; To do this, simply select the same installation folder as the existing installation when installing the new version.</seg>
       </tuv>
@@ -9134,6 +9136,7 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Fait</note>
       <tuv lang="en">
         <seg>&lt;p4&gt;??&lt;/p4&gt; stands for the amount of memory assigned, in megabytes.</seg>
       </tuv>
@@ -14033,6 +14036,7 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Fait</note>
       <tuv lang="en">
         <seg>Changes to this command involve the addition of "arguments" to it.</seg>
       </tuv>
@@ -19185,6 +19189,7 @@ Ajouter C:\Program Files (x86)\Prince\Engine\bin dans le Path.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Fait</note>
       <tuv lang="en">
         <seg>Drag and drop</seg>
       </tuv>
@@ -22315,6 +22320,8 @@ know their rights.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>macOS
+</note>
       <tuv lang="en">
         <seg>For installation on Mac OS X.</seg>
       </tuv>
@@ -26011,6 +26018,7 @@ Public License instead of this License.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Segment non traduit : Fait.</note>
       <tuv lang="en">
         <seg>If you already have a version of OmegaT installed on your PC and wish to upgrade to a more recent version, you have two options:</seg>
       </tuv>
@@ -29163,6 +29171,7 @@ exécutez simplement le programme d'installation.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Segment non traduit : Fait.</note>
       <tuv lang="en">
         <seg>It does not apply to the Web Start versions, which are upgraded automatically, nor to cross-platform versions installed on Windows.</seg>
       </tuv>
@@ -31649,6 +31658,9 @@ automatically download and install it.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>macOS
+
+</note>
       <tuv lang="en">
         <seg>Mac OS X</seg>
       </tuv>
@@ -35693,6 +35705,8 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
     </tu>
     <tu>
+      <note>macOS
+</note>
       <tuv lang="en">
         <seg>OmegaT has been successfully installed on Windows (all versions from 98 onwards), Macintosh OS X and Linux.</seg>
       </tuv>
@@ -44305,8 +44319,8 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       <tuv lang="en">
         <seg>Should you wish to reuse a translation memory from a previous project (for example because the new project is similar to the previous project, or uses terminology which might have been used before), you can use these translation memories as "input translation memories", i.e. for import into your new project.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Didier" changedate="20130528T123324Z">
-        <seg>Si vous désirez réutiliser la mémoire de traduction d'un projet précédent (par ex, parce que le nouveau projet ressemble au projet précédent ou parce qu'il utilise une terminologie qui a déjà été rencontrée), il est possible d'utiliser ces mémoires de traduction en tant « qu'importation des mémoires de traduction », c'est-à-dire de les importer dans votre nouveau projet.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210522T132753Z">
+        <seg>Si vous désirez réutiliser la mémoire de traduction d'un projet précédent (par ex., parce que le nouveau projet ressemble au projet précédent ou parce qu'il utilise une terminologie qui a déjà été rencontrée), il est possible d'utiliser ces mémoires de traduction en tant « qu'importation des mémoires de traduction », c'est-à-dire de les importer dans votre nouveau projet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47464,6 +47478,7 @@ produce the work, or an object code interpreter used to run it.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Segment non traduit : Fait. </note>
       <tuv lang="en">
         <seg>The "old" version of OmegaT will be overwritten, but any settings from it will be retained.</seg>
       </tuv>
@@ -52730,6 +52745,7 @@ under the terms of this General Public License.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Segment non traduit : Fait. </note>
       <tuv lang="en">
         <seg>This includes preferences set from within OmegaT, any changes you have made to your &lt;f1&gt;OmegaT.l4J.ini&lt;/f1&gt; file, and also your launch script (&lt;f2&gt;.bat&lt;/f2&gt; file), if you are using one.</seg>
       </tuv>
@@ -52746,6 +52762,8 @@ under the terms of this General Public License.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>« » à la place de " " Fait. 
+Segment non traduit Fait </note>
       <tuv lang="en">
         <seg>This information applies only to the "Traditional" Windows versions of OmegaT.</seg>
       </tuv>
@@ -53970,6 +53988,20 @@ public, and in some countries other activities as well.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>?
+
+-&gt; problème ?
+Je ne vois pas de quel ordre il s'agit, ni l'espace fine.
+-&gt; Ah, il s'agit des balises qui sont dans le désordre. Regardez, dans l'anglais on a :
+&lt;e0&gt;...&lt;/e0&gt; ... &lt;l1&gt;...&lt;/l1&gt; ... &lt;l2&gt;...&lt;/l2&gt; ... &lt;l3&gt;...&lt;/l3&gt;
+
+et dans le français on a :
+&lt;e0&gt;...&lt;/e0&gt; ... &lt;l2&gt;...&lt;/l2&gt; .... &lt;l3&gt;...&lt;/l3&gt; ....&lt;l1&gt;...&lt;/l1&gt;
+Faut-il garder cet ordre ou mettre le même qu'en anglais ? 
+
+et c'est normal parce que les balises encadrent des mots qui se sont déplacés à cause de la différence d'ordre des mots en anglais et en français.
+
+Pour l'espace fine, il râle à cause de "&lt;!--" et il veut en faire "&lt; ! --", mais il faut ignorer ici parce que cette partie est du code XML (on verra ça plus tard).</note>
       <tuv lang="en">
         <seg>To change the amount of memory available, edit &lt;e0&gt;OmegaT.app/Contents/Info.plist&lt;/e0&gt; file and un-comment the line &lt;l1&gt;&lt;!-- &lt;string&gt;-Xmx6g&lt;/string&gt; --&gt;&lt;/l1&gt; by removing the &lt;l2&gt;&lt;!--&lt;/l2&gt; and &lt;l3&gt;--&gt;&lt;/l3&gt;.</seg>
       </tuv>
@@ -59071,6 +59103,7 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       </tuv>
     </tu>
     <tu>
+      <note>Segment non traduit : Fait. </note>
       <tuv lang="en">
         <seg>With this method, you may also download the "Windows without JRE" version, since the new installation will use your existing JRE.</seg>
       </tuv>
@@ -65489,6 +65522,16 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>*bug*
+Ce segment et le suivant sont des messages d'erreur dans XMLStreamReader.java:
+L659: 
+        if (blk.numAttributes() &gt; 0) {
+            data += OStrings.getString("XSR_ERROR_LOADED") + blk.numAttributes()
+                    + OStrings.getString("XSR_ERROR_ATTRIBUTES");
+        }
+C'est très moche et on ne devrait pas avoir à séparer deux mots pour faire une phrase
+-&gt; à noter sur le dépôt pour modifier dans la source d'OmegaT
+Ok. </note>
       <tuv lang="en">
         <seg>loaded</seg>
       </tuv>
