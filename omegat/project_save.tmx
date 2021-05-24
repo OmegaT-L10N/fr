@@ -16564,8 +16564,8 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       <tuv lang="EN">
         <seg>Create a local copy of the repository (&lt;c0&gt;check out&lt;/c0&gt; with SVN, &lt;c1&gt;clone&lt;/c1&gt; with Git).</seg>
       </tuv>
-      <tuv lang="FR" changeid="suzume" changedate="20210201T140310Z" creationid="suzume" creationdate="20210110T165443Z">
-        <seg>Créer une copie locale du dépôt (&lt;c0&gt;checkout&lt;/c0&gt; avec SVN, &lt;c1&gt;clone&lt;/c1&gt; avec Git).</seg>
+      <tuv lang="FR" changeid="AlexandraAnselmi57" changedate="20210524T094838Z" creationid="suzume" creationdate="20210110T165443Z">
+        <seg>créer une copie locale du dépôt (&lt;c0&gt;checkout&lt;/c0&gt; avec SVN, &lt;c1&gt;clone&lt;/c1&gt; avec Git).</seg>
       </tuv>
     </tu>
     <tu>
@@ -16580,8 +16580,8 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       <tuv lang="EN">
         <seg>Create a new, empty OmegaT project in the local repository.</seg>
       </tuv>
-      <tuv lang="FR" changeid="suzume" changedate="20210201T140310Z" creationid="suzume" creationdate="20210110T165507Z">
-        <seg>Créer un nouveau projet OmegaT vide dans le dépôt local.</seg>
+      <tuv lang="FR" changeid="AlexandraAnselmi57" changedate="20210524T094849Z" creationid="suzume" creationdate="20210110T165507Z">
+        <seg>créer un nouveau projet OmegaT vide dans le dépôt local.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16596,8 +16596,8 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       <tuv lang="EN">
         <seg>Create an SVN or Git repository on a server that will be accessible by the translators.</seg>
       </tuv>
-      <tuv lang="FR" changeid="FABRI" changedate="20210503T114751Z" creationid="suzume" creationdate="20210110T165409Z">
-        <seg>Créer un dépôt SVN ou Git sur un serveur qui sera accessible aux traducteurs.</seg>
+      <tuv lang="FR" changeid="AlexandraAnselmi57" changedate="20210524T094834Z" creationid="suzume" creationdate="20210110T165409Z">
+        <seg>créer un dépôt SVN ou Git sur un serveur qui sera accessible aux traducteurs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16761,10 +16761,6 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
     </tu>
     <tu>
-      <note>Majuscule 
--&gt; je ne suis pas certain que la majuscule soit toujours nécessaire après ":", à vérifier
-Les autres 'créer" en dessous ont une majuscule, du coup j'ai pensé que cette phrase aussi devrait peut-être en avoir une.
--&gt; vérifiez s'il faut adapter les autres</note>
       <tuv lang="EN">
         <seg>Creating an empty project on a server</seg>
       </tuv>
@@ -26018,7 +26014,6 @@ Public License instead of this License.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Segment non traduit : Fait.</note>
       <tuv lang="EN">
         <seg>If you already have a version of OmegaT installed on your PC and wish to upgrade to a more recent version, you have two options:</seg>
       </tuv>
@@ -29171,7 +29166,6 @@ exécutez simplement le programme d'installation.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Segment non traduit : Fait.</note>
       <tuv lang="EN">
         <seg>It does not apply to the Web Start versions, which are upgraded automatically, nor to cross-platform versions installed on Windows.</seg>
       </tuv>
@@ -34525,13 +34519,11 @@ Rajout d'une partie approriée, afin que la note de bas de page ne se retrouve p
       </tuv>
     </tu>
     <tu>
-      <note>paire de langues "donnée" et non "donné" ?  
--&gt; oui</note>
       <tuv lang="EN">
         <seg>Note that only one TMX for a given language pair is possible, so if several translation memories should be involved, you will need to merge them all into the XX_YY.tmx.</seg>
       </tuv>
-      <tuv lang="FR" changeid="suzume" changedate="20210111T143327Z">
-        <seg>Remarquez qu'une seule TMX est utilisable pour une paire de langues donné. Si plusieurs mémoires de traduction sont impliquées dans le projet, vous devrez donc les fusionner dans le fichier XX_YY.tmx.</seg>
+      <tuv lang="FR" changeid="AlexandraAnselmi57" changedate="20210524T094759Z">
+        <seg>Remarquez qu'une seule TMX est utilisable pour une paire de langues donnée. Si plusieurs mémoires de traduction sont impliquées dans le projet, vous devrez donc les fusionner dans le fichier XX_YY.tmx.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52762,8 +52754,6 @@ under the terms of this General Public License.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>« » à la place de " " Fait. 
-Segment non traduit Fait </note>
       <tuv lang="EN">
         <seg>This information applies only to the "Traditional" Windows versions of OmegaT.</seg>
       </tuv>
@@ -58692,15 +58682,11 @@ for which you have or can give appropriate copyright permission.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Peut-être enlever les parenthèses en français
--&gt; pourquoi pas, faites une proposition
-Mettre une virgule à la place. 
--&gt; allez-y</note>
       <tuv lang="EN">
         <seg>Whenever you finish a project, copy one of the three "export" translation memory files from the root folder of the project to the repository folder.</seg>
       </tuv>
-      <tuv lang="FR" changeid="suzume" changedate="20210201T140310Z">
-        <seg>Quand vous finissez un projet, copiez dans le dossier dépôt un des trois fichiers « exportés » de la mémoire de traduction (ceux-ci sont localisés dans le dossier racine du projet).</seg>
+      <tuv lang="FR" changeid="AlexandraAnselmi57" changedate="20210524T094744Z">
+        <seg>Quand vous finissez un projet, copiez dans le dossier dépôt un des trois fichiers « exportés » de la mémoire de traduction, ceux-ci sont localisés dans le dossier racine du projet.</seg>
       </tuv>
     </tu>
     <tu>
