@@ -3625,7 +3625,6 @@ Valider les balises.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Fait</note>
       <tuv lang="EN">
         <seg>.*\.html</seg>
       </tuv>
@@ -5081,7 +5080,6 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Segment non traduit : Fait. </note>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Install over the existing installation.&lt;/e0&gt; To do this, simply select the same installation folder as the existing installation when installing the new version.</seg>
       </tuv>
@@ -9136,7 +9134,6 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Fait</note>
       <tuv lang="EN">
         <seg>&lt;p4&gt;??&lt;/p4&gt; stands for the amount of memory assigned, in megabytes.</seg>
       </tuv>
@@ -14036,7 +14033,6 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Fait</note>
       <tuv lang="EN">
         <seg>Changes to this command involve the addition of "arguments" to it.</seg>
       </tuv>
@@ -19185,7 +19181,6 @@ Ajouter C:\Program Files (x86)\Prince\Engine\bin dans le Path.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Fait</note>
       <tuv lang="EN">
         <seg>Drag and drop</seg>
       </tuv>
@@ -21885,8 +21880,6 @@ patents.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>peut-être mettre ./docx
--&gt; ici ça veux dire "avec l'extension docx" donc c'est correct, mais il faut que l'utilisateur soit habitué à cette nomenclature. à ajouter dans le manuel anglais</note>
       <tuv lang="EN">
         <seg>For .docx files, a number of changes are however done automatically:</seg>
       </tuv>
@@ -47470,7 +47463,6 @@ produce the work, or an object code interpreter used to run it.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Segment non traduit : Fait. </note>
       <tuv lang="EN">
         <seg>The "old" version of OmegaT will be overwritten, but any settings from it will be retained.</seg>
       </tuv>
@@ -52737,7 +52729,6 @@ under the terms of this General Public License.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Segment non traduit : Fait. </note>
       <tuv lang="EN">
         <seg>This includes preferences set from within OmegaT, any changes you have made to your &lt;f1&gt;OmegaT.l4J.ini&lt;/f1&gt; file, and also your launch script (&lt;f2&gt;.bat&lt;/f2&gt; file), if you are using one.</seg>
       </tuv>
@@ -53978,20 +53969,6 @@ public, and in some countries other activities as well.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>?
-
--&gt; problème ?
-Je ne vois pas de quel ordre il s'agit, ni l'espace fine.
--&gt; Ah, il s'agit des balises qui sont dans le désordre. Regardez, dans l'anglais on a :
-&lt;e0&gt;...&lt;/e0&gt; ... &lt;l1&gt;...&lt;/l1&gt; ... &lt;l2&gt;...&lt;/l2&gt; ... &lt;l3&gt;...&lt;/l3&gt;
-
-et dans le français on a :
-&lt;e0&gt;...&lt;/e0&gt; ... &lt;l2&gt;...&lt;/l2&gt; .... &lt;l3&gt;...&lt;/l3&gt; ....&lt;l1&gt;...&lt;/l1&gt;
-Faut-il garder cet ordre ou mettre le même qu'en anglais ? 
-
-et c'est normal parce que les balises encadrent des mots qui se sont déplacés à cause de la différence d'ordre des mots en anglais et en français.
-
-Pour l'espace fine, il râle à cause de "&lt;!--" et il veut en faire "&lt; ! --", mais il faut ignorer ici parce que cette partie est du code XML (on verra ça plus tard).</note>
       <tuv lang="EN">
         <seg>To change the amount of memory available, edit &lt;e0&gt;OmegaT.app/Contents/Info.plist&lt;/e0&gt; file and un-comment the line &lt;l1&gt;&lt;!-- &lt;string&gt;-Xmx6g&lt;/string&gt; --&gt;&lt;/l1&gt; by removing the &lt;l2&gt;&lt;!--&lt;/l2&gt; and &lt;l3&gt;--&gt;&lt;/l3&gt;.</seg>
       </tuv>
@@ -58656,13 +58633,11 @@ for which you have or can give appropriate copyright permission.</seg>
       </tuv>
     </tu>
     <tu>
-      <note> &lt;l4&gt;./omegat&lt;/l4&gt; du projet ? 
--&gt; exact</note>
       <tuv lang="EN">
         <seg>When you translate your files, &lt;a2&gt;OmegaT&lt;/a2&gt; stores all your progress in the translation memory &lt;l3&gt;project_save.tmx&lt;/l3&gt; that resides in the project's &lt;l4&gt;/omegat&lt;/l4&gt; subfolder.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Clementine" changedate="20130506T073711Z">
-        <seg>Lorsque vous traduisez vos fichiers, &lt;a2&gt;OmegaT&lt;/a2&gt; conserve toutes les évolutions du projet dans la mémoire de traduction &lt;l3&gt;project_save.tmx&lt;/l3&gt; qui se trouve dans le sous-dossier &lt;l4&gt;/omegat&lt;/l4&gt; du projet.</seg>
+      <tuv lang="FR" changeid="AlexandraAnselmi57" changedate="20210524T095446Z">
+        <seg>Lorsque vous traduisez vos fichiers, &lt;a2&gt;OmegaT&lt;/a2&gt; conserve toutes les évolutions du projet dans la mémoire de traduction &lt;l3&gt;project_save.tmx&lt;/l3&gt; qui se trouve dans le sous-dossier &lt;l4&gt;./omegat&lt;/l4&gt; du projet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59089,7 +59064,6 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       </tuv>
     </tu>
     <tu>
-      <note>Segment non traduit : Fait. </note>
       <tuv lang="EN">
         <seg>With this method, you may also download the "Windows without JRE" version, since the new installation will use your existing JRE.</seg>
       </tuv>
@@ -65509,16 +65483,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>*bug*
-Ce segment et le suivant sont des messages d'erreur dans XMLStreamReader.java:
-L659: 
-        if (blk.numAttributes() &gt; 0) {
-            data += OStrings.getString("XSR_ERROR_LOADED") + blk.numAttributes()
-                    + OStrings.getString("XSR_ERROR_ATTRIBUTES");
-        }
-C'est très moche et on ne devrait pas avoir à séparer deux mots pour faire une phrase
--&gt; à noter sur le dépôt pour modifier dans la source d'OmegaT
-Ok. </note>
       <tuv lang="EN">
         <seg>loaded</seg>
       </tuv>
