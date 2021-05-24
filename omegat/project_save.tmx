@@ -22311,8 +22311,6 @@ know their rights.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>macOS
-</note>
       <tuv lang="en">
         <seg>For installation on Mac OS X.</seg>
       </tuv>
@@ -31649,9 +31647,6 @@ automatically download and install it.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>macOS
-
-</note>
       <tuv lang="en">
         <seg>Mac OS X</seg>
       </tuv>
@@ -35694,8 +35689,6 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
     </tu>
     <tu>
-      <note>macOS
-</note>
       <tuv lang="en">
         <seg>OmegaT has been successfully installed on Windows (all versions from 98 onwards), Macintosh OS X and Linux.</seg>
       </tuv>
@@ -52751,8 +52744,6 @@ under the terms of this General Public License.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>« » à la place de " " Fait. 
-Segment non traduit Fait </note>
       <tuv lang="en">
         <seg>This information applies only to the "Traditional" Windows versions of OmegaT.</seg>
       </tuv>
@@ -60316,7 +60307,8 @@ installation script (linux-install.sh).</seg>
       <note>tmx en minuscule en anglais, TMX en majuscule en français
 -&gt; il faut vérifier dans des guides d'écriture ce qui est correct.
 -&gt; conclusion ?
-Je vois TMX dans le reste des segments traduits mais tmx en anglais.</note>
+Je vois TMX dans le reste des segments traduits mais tmx en anglais.
+-&gt; ça n'est pas une conclusion, c'est une observation.</note>
       <tuv lang="en">
         <seg>You can regard these three tmx files (&lt;f2&gt;-omegat.tmx&lt;/f2&gt;, &lt;f3&gt;-level1.tmx&lt;/f3&gt; and &lt;f4&gt;-level2.tmx&lt;/f4&gt;) as an "export translation memory", i.e. as an export of your current project's content in bilingual form.</seg>
       </tuv>
