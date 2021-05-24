@@ -27244,7 +27244,8 @@ click on that shortcut.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Pourquoi "..." après Orthographe et Parcourir ? </note>
+      <note>Pourquoi "..." après Orthographe et Parcourir ? 
+-&gt; À vérifier, mais je pense que c'est parce que l'interface est définie ainsi</note>
       <tuv lang="en">
         <seg>In OmegaT, select &lt;g0&gt;Options &gt; Spell Checking&lt;/g0&gt;, then click &lt;g1&gt;Choose &lt;/g1&gt; beside the Dictionary file folder field.</seg>
       </tuv>
@@ -52436,7 +52437,8 @@ under the terms of this General Public License.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Oubli de "variants" en français </note>
+      <note>Oubli de "variants" en français
+-&gt; oui mais la fonction n'est pas limitée aux "variants" donc à coriger en anglais</note>
       <tuv lang="en">
         <seg>This chapter is intended for advanced users, who need to define their own variants of segmentation rules or devise more complex and powerful key search items.</seg>
       </tuv>
@@ -52943,7 +52945,8 @@ Segment non traduit Fait </note>
       </tuv>
     </tu>
     <tu>
-      <note>plutôt : "de sorte qu'ils ne correspondent qu'à eux-mêmes" ?  </note>
+      <note>plutôt : "de sorte qu'ils ne correspondent qu'à eux-mêmes" ? 
+-&gt; *un* des métacaractères</note>
       <tuv lang="en">
         <seg>This is required if you would like to enter any of the meta characters !$()*+.&lt;&gt;?[\]^{|} to match as themselves.</seg>
       </tuv>
