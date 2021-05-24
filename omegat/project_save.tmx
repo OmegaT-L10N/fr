@@ -4280,6 +4280,7 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Je vois parfois glossaire et glossaires </note>
       <tuv lang="EN">
         <seg>&lt;a1&gt;OmegaT&lt;/a1&gt; automatically detects glossary files in this folder when a project is opened.</seg>
       </tuv>
@@ -35640,6 +35641,7 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
     </tu>
     <tu>
+      <note>peut-être mettre "un terme cible optionnel"</note>
       <tuv lang="EN">
         <seg>OmegaT glossary files are simple plain text three-column lists with the source term in the first column, an optional target term in the second column and an optional comment in the third column.</seg>
       </tuv>
