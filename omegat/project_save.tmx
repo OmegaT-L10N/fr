@@ -20723,14 +20723,11 @@ The FSF strongly urges you not to use this translation as the official distribu-
       </tuv>
     </tu>
     <tu>
-      <note>oubli du terme "folder" dans la version anglaise 
--&gt; pas exactement, le "chemin" c'est ici la chaine de caractères qui donne l'adresse du fichier, on voir ça ce soir !
--&gt; mes excuses, on voit ça lundi !</note>
       <tuv lang="EN">
         <seg>Example: &lt;u0&gt;**/excludedfolder/**;*.txt&lt;/u0&gt; excludes files that have /excludedfolder/ in the path, and files with .txt extension.</seg>
       </tuv>
-      <tuv lang="FR" changeid="suzume" changedate="20210129T104324Z" creationid="suzume" creationdate="20210129T104324Z">
-        <seg>Exemple : &lt;u0&gt;**/fichiers_exclus/**;*.txt&lt;/u0&gt; exclus les fichiers qui ont un dossier /fichiers_exclus/ dans leur chemin ainsi que les fichiers avec l'extension .txt.</seg>
+      <tuv lang="FR" changeid="AlexandraAnselmi57" changedate="20210525T120822Z" creationid="suzume" creationdate="20210129T104324Z">
+        <seg>Exemple : &lt;u0&gt;**/fichiers_exclus/**;*.txt&lt;/u0&gt; exclus les fichiers qui ont /fichiers_exclus/ dans leur chemin ainsi que les fichiers avec l'extension .txt.</seg>
       </tuv>
     </tu>
     <tu>
