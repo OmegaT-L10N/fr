@@ -35639,13 +35639,11 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
     </tu>
     <tu>
-      <note>peut-être mettre "un terme cible optionnel"
--&gt; pourquoi pas</note>
       <tuv lang="EN">
         <seg>OmegaT glossary files are simple plain text three-column lists with the source term in the first column, an optional target term in the second column and an optional comment in the third column.</seg>
       </tuv>
-      <tuv lang="FR" changeid="suzume" changedate="20210323T230938Z" creationid="suzume" creationdate="20210323T230938Z">
-        <seg>Les fichiers glossaire d'OmegaT sont de simples fichiers texte brut contenant trois colonnes, avec le terme source dans la première colonne, le terme cible optionnel dans la deuxième colonne et un commentaire optionnel dans la troisième colonne.</seg>
+      <tuv lang="FR" changeid="AlexandraAnselmi57" changedate="20210525T111646Z" creationid="suzume" creationdate="20210323T230938Z">
+        <seg>Les fichiers glossaire d'OmegaT sont de simples fichiers texte brut contenant trois colonnes, avec le terme source dans la première colonne, un terme cible optionnel dans la deuxième colonne et un commentaire optionnel dans la troisième colonne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39300,8 +39298,6 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Majuscule à Glossaires ou non ? 
--&gt; en anglais c'est juste un qualificatif, en français c'est le nom du volet</note>
       <tuv lang="EN">
         <seg>Problem: In the glossary pane, some characters are not displayed properly</seg>
       </tuv>
@@ -52430,8 +52426,6 @@ under the terms of this General Public License.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Oubli de "variants" en français
--&gt; oui mais la fonction n'est pas limitée aux "variants" donc à coriger en anglais</note>
       <tuv lang="EN">
         <seg>This chapter is intended for advanced users, who need to define their own variants of segmentation rules or devise more complex and powerful key search items.</seg>
       </tuv>
@@ -62950,7 +62944,8 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <note>etc... 
--&gt; je ne sais pas si c'est nécessaire même en anglais</note>
+-&gt; je ne sais pas si c'est nécessaire même en anglais
+Il faut l'enlever en anglais alors ? </note>
       <tuv lang="EN">
         <seg>etc...</seg>
       </tuv>
