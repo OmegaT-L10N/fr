@@ -4280,8 +4280,6 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Je vois parfois glossaire et glossaires
--&gt; il faut s'accorder sur la syntaxe </note>
       <tuv lang="EN">
         <seg>&lt;a1&gt;OmegaT&lt;/a1&gt; automatically detects glossary files in this folder when a project is opened.</seg>
       </tuv>
@@ -60297,13 +60295,6 @@ installation script (linux-install.sh).</seg>
       </tuv>
     </tu>
     <tu>
-      <note>tmx en minuscule en anglais, TMX en majuscule en français
--&gt; il faut vérifier dans des guides d'écriture ce qui est correct.
--&gt; conclusion ?
-Je vois TMX dans le reste des segments traduits mais tmx en anglais.
--&gt; ça n'est pas une conclusion, c'est une observation.
-Peut-être qu'en français il faut mettre des majuscules ? 
-Mettre dans un ticket.</note>
       <tuv lang="EN">
         <seg>You can regard these three tmx files (&lt;f2&gt;-omegat.tmx&lt;/f2&gt;, &lt;f3&gt;-level1.tmx&lt;/f3&gt; and &lt;f4&gt;-level2.tmx&lt;/f4&gt;) as an "export translation memory", i.e. as an export of your current project's content in bilingual form.</seg>
       </tuv>
