@@ -23678,6 +23678,22 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Got unexpected HTTP response {0}</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210620T144945Z" creationid="suzume" creationdate="20210620T144945Z">
+        <seg>Réponse HTTP {0} inattendue</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Got unexpected MIME TYPE {0}</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210620T144936Z" creationid="suzume" creationdate="20210620T144936Z">
+        <seg>TYPE MIME {0} inattendu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Goto &amp;Line...</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160427T151347Z" creationid="Didier" creationdate="20160427T151347Z">
@@ -35367,6 +35383,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT Default</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210620T145157Z" creationid="suzume" creationdate="20210620T145157Z">
+        <seg>Standard OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT Download Selector</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20170331T122758Z" creationid="briac" creationdate="20170331T122758Z">
@@ -40530,6 +40554,14 @@ ces mots : « pas de page »...</seg>
         <seg>Remaining Characters (including spaces)</seg>
       </tuv>
       <tuv lang="fr">
+        <seg>Caractères restants (avec espaces)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remaining Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210620T144817Z" creationid="suzume" creationdate="20210620T144817Z">
         <seg>Caractères restants (avec espaces)</seg>
       </tuv>
     </tu>
@@ -55069,6 +55101,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Total Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210620T144808Z" creationid="suzume" creationdate="20210620T144808Z">
+        <seg>Total des caractères (avec espaces)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Total Characters (w/o spaces)</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210620T144701Z" creationid="suzume" creationdate="20210620T144701Z">
@@ -56153,6 +56193,14 @@ Les recherches exactes correspondent à l'ensemble de la chaîne recherchée.</s
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unique Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210620T144823Z" creationid="suzume" creationdate="20210620T144823Z">
+        <seg>Caractères uniques (avec espaces)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unique Characters (w/o spaces)</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210620T144736Z" creationid="suzume" creationdate="20210620T144736Z">
@@ -56172,6 +56220,14 @@ Les recherches exactes correspondent à l'ensemble de la chaîne recherchée.</s
         <seg>Unique Remaining Characters (including spaces)</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20100713T065029Z">
+        <seg>Caractères uniques restants (avec espaces)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unique Remaining Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210620T144830Z" creationid="suzume" creationdate="20210620T144830Z">
         <seg>Caractères uniques restants (avec espaces)</seg>
       </tuv>
     </tu>
