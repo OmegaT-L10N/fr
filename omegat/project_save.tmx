@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.6.0_0_ce056a995" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_a1fd6a4d" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -25301,8 +25301,8 @@ compelled to copy the source along with the object code.</seg>
       <tuv lang="en">
         <seg>If it is clear from the very start, that translations in a given TM (or TMs) are all correct, one can put them into the&lt;e0&gt; tm/auto&lt;/e0&gt; folder and avoid confirming a lot of&lt;e1&gt; [fuzzy]&lt;/e1&gt; cases.</seg>
       </tuv>
-      <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210520T094937Z">
-        <seg>S'il est certain dès le début que toutes les traductions d'une ou de plusieurs mémoires de traduction sont correctes, les placer dans le dossier  &lt;e0&gt; tm/auto&lt;/e0&gt; permet d'éviter de devoir confirmer de nombreux cas de  &lt;e1&gt; [correspondance]&lt;/e1&gt;.</seg>
+      <tuv lang="fr" changeid="FABRI" changedate="20210625T131324Z">
+        <seg>S'il est certain dès le début que toutes les traductions d'une ou de plusieurs mémoires de traduction sont correctes, les placer dans le dossier &lt;e0&gt; tm/auto&lt;/e0&gt; permet d'éviter de devoir confirmer de nombreux cas de &lt;e1&gt; [correspondance]&lt;/e1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53936,8 +53936,8 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="en">
         <seg>To add contents to it, select &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;D&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Project&lt;/g5&gt; &lt;g6&gt;Create Translated Documents&lt;/g6&gt; &lt;/m0&gt;.</seg>
       </tuv>
-      <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210601T123128Z">
-        <seg>Pour y ajouter du contenu, sélectionnez &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt;&lt;/k2&gt; &lt;k4&gt;D&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Projet&lt;/g5&gt; &lt;g6&gt;Créer les documents traduits&lt;/g6&gt; &lt;/m0&gt;.</seg>
+      <tuv lang="fr" changeid="FABRI" changedate="20210625T101306Z">
+        <seg>Pour y ajouter du contenu, sélectionnez &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;D&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Projet&lt;/g5&gt; &lt;g6&gt;Créer les documents traduits&lt;/g6&gt; &lt;/m0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
