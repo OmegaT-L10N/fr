@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_a1fd6a4d" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.6.0_0_ea9819992" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -18480,8 +18480,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="en">
         <seg>Displays the dictionary entries found in the dictionary files located in the /dictionary/ folder if they are present in the source segment.</seg>
       </tuv>
-      <tuv lang="fr" changeid="FABRI" changedate="20210715T130742Z">
-        <seg>wwwAffiche les entrées de dictionnaires trouvées dans les fichiers dictionnaires situés dans le dossier ./dictionary si ces entrées sont présentes dans le segment source.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210505T233726Z">
+        <seg>Affiche les entrées de dictionnaires trouvées dans les fichiers dictionnaires situés dans le dossier ./dictionary si ces entrées sont présentes dans le segment source.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37576,11 +37576,12 @@ happen should you file a bug report.</seg>
 	team
 		Team project tool.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20190421T020222Z" creationid="Didier" creationdate="20160718T150600Z">
+      <tuv lang="fr" changeid="suzume" changedate="20210718T030151Z" creationid="Didier" creationdate="20160718T150600Z">
         <seg>Options :
-	Aucune : lancer l'interface utilisateur
-	Chemin du projet uniquement : lancer l'interface utilisateur et charger
-	le projet en équipe spécifié
+	Aucune : lancer l'interface graphique
+	Chemin du projet : lancer l'interface graphique
+		            et charger le projet en équipe spécifié
+	team
 		Outil de création de projet en équipe.</seg>
       </tuv>
     </tu>
