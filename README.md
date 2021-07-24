@@ -1,1 +1,1 @@
-# French OmegaT Localisation
+# Projet de localisation française d'OmegaT
