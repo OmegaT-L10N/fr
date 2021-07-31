@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.6.0_0_ea9819992" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_a1fd6a4d" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -37576,7 +37576,7 @@ happen should you file a bug report.</seg>
 	team
 		Team project tool.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210718T030237Z" creationid="Didier" creationdate="20160718T150600Z">
+      <tuv lang="fr" changeid="suzume" changedate="20210725T025336Z" creationid="Didier" creationdate="20160718T150600Z">
         <seg>Options :
 	Aucune : lancer l'interface graphique
 	Chemin du projet : lancer l'interface graphique
