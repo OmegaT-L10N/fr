@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_a1fd6a4d" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.6.0_0_ea81bd18e" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -40560,6 +40560,14 @@ ces mots : « pas de page »...</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Reload the current project to apply these changes</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210731T155043Z" creationid="suzume" creationdate="20210731T155043Z">
+        <seg>Recharger le projet pour appliquer ces modifications</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Reloads the project to take external changes in source files and project settings into account.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210203T153701Z" creationid="suzume" creationdate="20210203T153701Z">
@@ -41446,6 +41454,14 @@ ces mots : « pas de page »...</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20170327T132546Z" creationid="briac" creationdate="20170327T132546Z">
         <seg>Ressources</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Restart OmegaT to apply these changes</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210731T155030Z" creationid="suzume" creationdate="20210731T155030Z">
+        <seg>Redémarrer OmegaT pour appliquer ces modifications</seg>
       </tuv>
     </tu>
     <tu>
