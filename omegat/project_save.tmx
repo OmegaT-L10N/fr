@@ -17358,8 +17358,8 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       <tuv lang="en">
         <seg>Cursor unlocked</seg>
       </tuv>
-      <tuv lang="fr" changeid="briac" changedate="20190514T202957Z" creationid="briac" creationdate="20190514T202957Z">
-        <seg>Cursor unlocked</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210917T073209Z" creationid="briac" creationdate="20190514T202957Z">
+        <seg>Curseur libre</seg>
       </tuv>
     </tu>
     <tu>
@@ -24696,6 +24696,7 @@ POSSIBILITY OF SUCH DAMAGES.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>INS = INSERTION</note>
       <tuv lang="en">
         <seg>INS</seg>
       </tuv>
@@ -28395,8 +28396,8 @@ patent against the party.</seg>
       <tuv lang="en">
         <seg>Insert Mode</seg>
       </tuv>
-      <tuv lang="fr" changeid="briac" changedate="20190512T080039Z" creationid="briac" creationdate="20190512T080025Z">
-        <seg>Mode insertion</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210917T073242Z" creationid="briac" creationdate="20190512T080025Z">
+        <seg>Insertion</seg>
       </tuv>
     </tu>
     <tu>
@@ -30416,6 +30417,7 @@ itself on the first run.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>VER = VERROUILLÉ</note>
       <tuv lang="en">
         <seg>LCK</seg>
       </tuv>
@@ -35155,6 +35157,7 @@ combination as such.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>ECR = ÉCRASEMENT</note>
       <tuv lang="en">
         <seg>OVR</seg>
       </tuv>
@@ -37904,8 +37907,8 @@ of promoting the sharing and reuse of software generally.</seg>
       <tuv lang="en">
         <seg>Overwrite Mode</seg>
       </tuv>
-      <tuv lang="fr" changeid="briac" changedate="20190512T080108Z" creationid="briac" creationdate="20190512T080032Z">
-        <seg>Mode remplacement</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210917T073222Z" creationid="briac" creationdate="20190512T080032Z">
+        <seg>Écrasement</seg>
       </tuv>
     </tu>
     <tu>
@@ -55889,11 +55892,12 @@ Les recherches exactes correspondent à l'ensemble de la chaîne recherchée.</s
       </tuv>
     </tu>
     <tu>
+      <note>LIB = LIBRE</note>
       <tuv lang="en">
         <seg>UNL</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210917T072945Z" creationid="briac" creationdate="20190514T203000Z">
-        <seg>OUV</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210917T073336Z" creationid="briac" creationdate="20190514T203000Z">
+        <seg>LIB</seg>
       </tuv>
     </tu>
     <tu>
