@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.6.0_0_2804e3b62" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.0_0_4b5603ad5" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2071,9 +2071,9 @@ java -jar OmegaT.jar $*</seg>
         <seg>'*' matches zero or more characters ('run*' matches 'run', 'runs', and'running', etc.)
 '?' matches exactly one character ('run?' matches 'runs' and 'rung', but not 'run' or 'running').</seg>
       </tuv>
-      <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210504T111318Z" creationid="Didier" creationdate="20151111T095802Z">
+      <tuv lang="fr" changeid="suzume" changedate="20211024T040835Z" creationid="Didier" creationdate="20151111T095802Z">
         <seg>Le caractère « * » correspond à zéro ou plusieurs caractères. La recherche sur « mon* » donnera par exemple les résultats « mon », « monde », « monter ».
-Le caractère « ? » correspond à un seul caractère. La recherche sur « mon ? » donnera par exemple le résultat « mont ».</seg>
+Le caractère « ? » correspond à un seul caractère. La recherche sur « mon? » donnera par exemple le résultat « mont ».</seg>
       </tuv>
     </tu>
     <tu>
@@ -12622,8 +12622,8 @@ provoquer des comportements inattendus, mais corrects.</seg>
       <tuv lang="en">
         <seg>Auto-sync with Editor</seg>
       </tuv>
-      <tuv lang="fr" changeid="Didier" changedate="20150525T144835Z" creationid="Didier" creationdate="20150525T144835Z">
-        <seg>Synchronisation automatique avec l'Éditeur</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20211024T040858Z" creationid="Didier" creationdate="20150525T144835Z">
+        <seg>Synchronisation automatique avec l'éditeur</seg>
       </tuv>
     </tu>
     <tu>
@@ -19944,6 +19944,7 @@ pas de page...</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Note just for testing.</note>
       <tuv lang="en">
         <seg>Enable them in &lt;b&gt;Preferences &gt; Saving and Output...&lt;/b&gt;.&lt;/html&gt;</seg>
       </tuv>
