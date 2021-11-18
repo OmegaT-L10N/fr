@@ -19439,6 +19439,14 @@ http://pysvn.tigris.org/project_downloads.html
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Download the file - it should be a tarball archive (extension &lt;f0&gt;tar.bz&lt;/f0&gt; or &lt;f1&gt;tar.bz2&lt;/f1&gt;).</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211118T124858Z" creationid="suzume" creationdate="20211118T124858Z">
+        <seg>Téléchargez le fichier. Ce devrait être un fichier d'archive tarball (extension &lt;f0&gt;tar.bz&lt;/f0&gt; ou &lt;f1&gt;tar.bz2&lt;/f1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Download the file &lt;f0&gt;OmegaT.jnlp&lt;/f0&gt; and then click on it.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210202T071744Z" creationid="suzume" creationdate="20210202T071744Z">
@@ -23734,6 +23742,14 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossaries must be located in the &lt;f0&gt;glossary&lt;/f0&gt; project folder.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211118T125034Z" creationid="suzume" creationdate="20211118T125034Z">
+        <seg>Les glossares doivent être situés dans le dossier &lt;f0&gt;glossary&lt;/f0&gt; du projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossaries, Glossary pane</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130430T090049Z">
@@ -25728,6 +25744,14 @@ compelled to copy the source along with the object code.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130412T135116Z">
         <seg>S'il s'agit de&lt;e0&gt;tar.bz&lt;/e0&gt;, cela signifie que vous avez oublié de le décompresser (désarchiver).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If it is &lt;f0&gt;tar.bz&lt;/f0&gt;, you have forgotten to unpack (untar) it.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211118T124953Z" creationid="suzume" creationdate="20211118T124953Z">
+        <seg>S'il s'agit de &lt;f0&gt;tar.bz&lt;/f0&gt;, cela signifie que vous avez oublié de le décompresser (désarchiver).</seg>
       </tuv>
     </tu>
     <tu>
@@ -30408,6 +30432,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Its name and location can be modified in the project properties dialog but its extension must be &lt;f0&gt;.txt&lt;/f0&gt; or &lt;f1&gt;.utf8&lt;/f1&gt; and its location must be contained in the &lt;f2&gt;glossary&lt;/f2&gt; project folder.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211118T125014Z" creationid="suzume" creationdate="20211118T125014Z">
+        <seg>Son nom et son emplacement peuvent être modifiés dans le dialogue des propriétés du projet mais son extension doit être &lt;f0&gt;.txt&lt;/f0&gt; ou &lt;f1&gt;.utf8&lt;/f1&gt; et il doit être situé à l'intérieur du dossier &lt;f2&gt;glossary&lt;/f2&gt; du projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Its purpose is to develop, distribute and support the use of OmegaT, an open-source translation memory software application.</seg>
       </tuv>
       <tuv lang="fr">
@@ -34706,6 +34738,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No glossary file found in the &lt;f0&gt;glossary&lt;/f0&gt; folder.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211118T145129Z" creationid="suzume" creationdate="20211118T145129Z">
+        <seg>Aucun fichier glossaire n'a été trouvé dans le dossier &lt;f0&gt;glossary&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No match:</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
@@ -36230,6 +36270,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210313T130159Z" creationid="briac" creationdate="20170331T131829Z">
         <seg>OmegaT possède également des listes de discussion et des systèmes de suivi, hébergés sur Sourceforge :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT automatically detects glossary files in this folder when a project is opened.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211118T125027Z" creationid="suzume" creationdate="20211118T125027Z">
+        <seg>OmegaT détecte automatiquement les fichiers glossaire présents dans ce dossier lorsqu'un projet est ouvert.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49898,6 +49946,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The default writable glossary is located in the the &lt;f0&gt;glossary&lt;/f0&gt; project folder and is called &lt;f1&gt;glossary.txt&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211118T125002Z" creationid="suzume" creationdate="20211118T125002Z">
+        <seg>Le glossaire modifiable par défaut est situé dans le dossier &lt;f0&gt;glossary&lt;/f0&gt; du projet et est nommé &lt;f1&gt;glossary.txt&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The dialog allows to enable or disable the following options:</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z" creationid="Didier" creationdate="20141202T172757Z">
@@ -53065,6 +53121,14 @@ the [Help] menu after starting OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>There should be three files, with extensions &lt;f2&gt;dz, idx &lt;/f2&gt;and &lt;f3&gt;ifo&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211118T124944Z" creationid="suzume" creationdate="20211118T124944Z">
+        <seg>Trois fichiers comportant les extensions &lt;f2&gt;dz, idx&lt;/f2&gt; et &lt;f3&gt;ifo&lt;/f3&gt; doivent s'y trouver.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There was an error initializing LanguageTool.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160929T152215Z" creationid="Didier" creationdate="20160929T152215Z">
@@ -56223,6 +56287,14 @@ script with ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To use an existing glossary, simply place it in the &lt;f0&gt;glossary&lt;/f0&gt; folder after creating the project.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211118T125021Z" creationid="suzume" creationdate="20211118T125021Z">
+        <seg>Pour utiliser un glossaire existant, placez-le simplement dans le dossier &lt;f0&gt;glossary&lt;/f0&gt; après avoir créé le projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To use an existing glossary, simply place it in the&lt;i0/&gt; &lt;f1&gt;/glossary&lt;/f1&gt; folder after creating the project.</seg>
       </tuv>
       <tuv lang="fr" changeid="brigitte" changedate="20130712T150630Z">
@@ -58439,6 +58511,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130503T113227Z">
         <seg>Utilisez cette fonction lorsque vous avez détaché, déplacé ou caché un ou plusieurs composants et que vous êtes incapables de les restaurer de la façon dont vous le souhaitez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use untar utility (or its equivalent, for instance&lt;f0&gt; winrar&lt;/f0&gt; in Windows) to extract its contents into the &lt;f1&gt;dictionary&lt;/f1&gt; project folder.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211118T124921Z" creationid="suzume" creationdate="20211118T124921Z">
+        <seg>Utilisez l'utilitaire de désarchivage « untar » (ou l'un de ses équivalents, par exemple&lt;f0&gt;winrar&lt;/f0&gt; pour Windows) pour extraire le contenu du fichier dans le dossier &lt;f1&gt;dictionary&lt;/f1&gt; du projet.</seg>
       </tuv>
     </tu>
     <tu>
