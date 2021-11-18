@@ -4330,6 +4330,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;auto&gt; leaves the choice of encoding to OmegaT.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T074349Z" creationid="suzume" creationdate="20211117T074349Z">
+        <seg>&lt;auto&gt; laisse le choix de l'encodage à OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;auto&gt; leaves the encoding choice to &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130415T181406Z">
@@ -4714,6 +4722,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;&lt;l1&gt;--mode=&lt;p2&gt;...&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; OmegaT starts in console mode to perform one of the following services automatically</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T145322Z" creationid="suzume" creationdate="20211117T145322Z">
+        <seg>&lt;e0&gt;&lt;l1&gt;--mode=&lt;p2&gt;...&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; OmegaT démarre en mode console pour effectuer automatiquement un des services suivants :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;&lt;l1&gt;-Dgoogle.api.key=&lt;p2&gt;A123456789B123456789C123456789D12345678&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; If you have signed up for the Google Translate services, enter your private Google API key here.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210207T052844Z" creationid="suzume" creationdate="20210131T124055Z">
@@ -4746,10 +4762,26 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Duser.language=&lt;p2&gt;XX&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; Normally, i.e. when OmegaT is launched without any arguments, the program first detects the language of the user's operating system.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T131302Z" creationid="suzume" creationdate="20211117T131302Z">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Duser.language=&lt;p2&gt;XX&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; : normalement, c'est-à-dire lorsqu'OmegaT est lancé sans arguments, le programme détecte la langue du système d'exploitation de l'utilisateur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;&lt;l1&gt;-Xmx&lt;p2&gt;??&lt;/p2&gt;M&lt;/l1&gt;&lt;/e0&gt;This command assigns more memory to &lt;a3&gt;OmegaT&lt;/a3&gt;.</seg>
       </tuv>
       <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210507T153019Z" creationid="suzume" creationdate="20210131T123854Z">
         <seg>&lt;e0&gt;&lt;l1&gt;-Xmx&lt;p2&gt;??&lt;/p2&gt;M&lt;/l1&gt;&lt;/e0&gt; Cette commande attribue plus de mémoire à &lt;a3&gt;OmegaT&lt;/a3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Xmx&lt;p2&gt;??&lt;/p2&gt;M&lt;/l1&gt;&lt;/e0&gt;This command assigns more memory to OmegaT.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T145000Z" creationid="suzume" creationdate="20211117T145000Z">
+        <seg>&lt;p2&gt;-Xmx&lt;/p2&gt;??&lt;/l1&gt;M&lt;e0&gt;&lt;l1&gt;&lt;/e0&gt; Cette commande attribue plus de mémoire à OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5347,6 +5379,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Privacy&lt;/e0&gt;: OmegaT Java Web Start does not save any of your information beyond the computer on which you are running it.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T131133Z" creationid="suzume" creationdate="20211117T131133Z">
+        <seg>&lt;e0&gt;Confidentialité&lt;/e0&gt; : OmegaT Java Web Start ne sauvegarde aucune de vos informations ailleurs que sur l'ordinateur sur lequel vous l'exécutez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Project properties&lt;/e0&gt;, &lt;e1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt; Files and Folders:&lt;/e1&gt; a project in the context of OmegaT is the piece of work that OmegaT as a CAT tool is able to handle.</seg>
       </tuv>
       <tuv lang="fr" changeid="brigitte" changedate="20130712T170124Z">
@@ -5891,6 +5931,30 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Add or rewrite encoding declaration in HTML and XHTML files&lt;/g0&gt;: the target files often need to have a different character set encoding from the one in the source file (whether it is explicitly defined or implied).</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T074206Z" creationid="suzume" creationdate="20211117T074206Z">
+        <seg>&lt;g0&gt;Ajouter ou réécrire une déclaration d'encodage dans les fichiers HTML et XHTML&lt;/g0&gt; : généralement, les fichiers cibles doivent posséder un jeu de caractères d'encodage différent de celui présent dans le fichier source (que cela soit défini explicitement ou implicitement).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Aggregate tags&lt;/g0&gt;: if checked, tags with no translatable text between them will be aggregated into a single tag.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T074156Z" creationid="suzume" creationdate="20211117T074156Z">
+        <seg>&lt;g0&gt;Agréger les balises&lt;/g0&gt; : si cette case est cochée, les balises qui ne contiennent pas de texte traductible entre elles seront rassemblées en une seule balise.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Compress whitespace in translated document&lt;/g0&gt;: multiple continuous whitespace characters will be converted into one single whitespace in the translated document.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T074238Z" creationid="suzume" creationdate="20211117T074238Z">
+        <seg>&lt;g0&gt;Compresser les espaces dans le document traduit&lt;/g0&gt; : les caractères d'espacement contigus seront convertis en un seul caractère d'espacement dans le document traduit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Ctrl+Shift+V&lt;/g0&gt;: Checks for missing or displaced tags in formatted files.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z" creationid="Didier" creationdate="20141202T211900Z">
@@ -5907,10 +5971,34 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Do not translate the content attribute of meta-tags ...:&lt;/g0&gt; The meta-tags in the box will not be translated.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T074220Z" creationid="suzume" creationdate="20211117T074220Z">
+        <seg>&lt;g0&gt;Ne pas traduire l'attribut content des balises méta ... :&lt;/g0&gt; les balises méta indiquées ne seront pas traduites.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Do not translate the content of tags with the following attribute key-value pairs (separate with commas)&lt;/g0&gt;: if a tag matches the list of key-value pairs, its content will be ignored.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T074235Z" creationid="suzume" creationdate="20211117T074235Z">
+        <seg>&lt;g0&gt;Ne pas traduire le contenu des balises comportant les paires de clé-valeur d'attribut suivantes (séparées par des virgules)&lt;/g0&gt; : si une balise correspond à un élément de la liste des paires de clé-valeur, son contenu sera ignoré.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;LanguageTool Issues&lt;/g0&gt; (optional).</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210204T012250Z" creationid="suzume" creationdate="20210204T012250Z">
         <seg>&lt;g0&gt;Erreurs LanguageTool&lt;/g0&gt; (optionnel)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Preserve spaces for all tags&lt;/g0&gt;: if checked, "white space" (i.e. spaces and newlines) will be preserved, even if this option is not defined in the document.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T074159Z" creationid="suzume" creationdate="20211117T074159Z">
+        <seg>&lt;g0&gt;Préserver les espaces pour toutes les balises&lt;/g0&gt; : si cette case est cochée, les « caractères d'espacement » (c.-à-d. les espaces et les sauts de ligne) seront préservés, même s'ils ne sont pas définis techniquement dans le document.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5923,6 +6011,22 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Remove HTML comments in translated document&lt;/g0&gt;: commented parts (between &lt;!-- and --&gt;) will not be copied into the translated document.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T074248Z" creationid="suzume" creationdate="20211117T074248Z">
+        <seg>&lt;g0&gt;Supprimer les commentaires HTML dans le document traduit&lt;/g0&gt; : les parties commentées (entre &lt;!-- et --&gt;) ne seront pas copiées dans le document traduit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Skip text matching regular expression&lt;/g0&gt;: any text matching the regular expression is skipped.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T074217Z" creationid="suzume" creationdate="20211117T074217Z">
+        <seg>&lt;g0&gt;Ignorer le texte correspondant à une expression régulière&lt;/g0&gt; : le texte correspondant à l'expression régulière choisie est ignoré.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Spelling Issues&lt;/g0&gt; (optional).</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210204T011946Z" creationid="suzume" creationdate="20210204T011933Z">
@@ -5931,10 +6035,26 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Start a new paragraph on&lt;/g0&gt;: the &lt;br&gt; HTML tag will constitute a paragraph break for segmentation purposes.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T074215Z" creationid="suzume" creationdate="20211117T074215Z">
+        <seg>&lt;g0&gt;Commencer un nouveau paragraphe sur&lt;/g0&gt; : &lt;br&gt; (rupture de ligne), cette balise HTML créera un saut de paragraphe du point de vue de la segmentation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Terminology Issues&lt;/g0&gt; (optional).</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210204T012028Z" creationid="suzume" creationdate="20210204T012028Z">
         <seg>&lt;g0&gt;Problèmes de terminologie&lt;/g0&gt; (optionnel).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Translate the following attributes&lt;/g0&gt;: the selected attributes will appear as segments in the Editor window.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T074211Z" creationid="suzume" creationdate="20211117T074211Z">
+        <seg>&lt;g0&gt;Traduire les attributs suivants&lt;/g0&gt; : les attributs sélectionnés apparaîtront en tant que segments dans la fenêtre de l'Éditeur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6677,8 +6797,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="en">
         <seg>&lt;l0&gt;${targetLocaleLCID}&lt;/l0&gt; - Microsoft target locale</seg>
       </tuv>
-      <tuv lang="fr" changeid="JC Helary" changedate="20130519T102445Z">
-        <seg>&lt;l0&gt;${targetLocaleLCID)&lt;/l0&gt; - paramètres locaux cible Microsoft</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T151042Z">
+        <seg>&lt;l0&gt;${targetLocaleLCID}&lt;/l0&gt; - paramètres locaux cible Microsoft</seg>
       </tuv>
     </tu>
     <tu>
@@ -6723,6 +6843,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt;--config-dir=&lt;p1&gt;/path/to/config-files/&lt;/p1&gt;&lt;/l0&gt; tells OmegaT in which folder the configuration files are stored.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T145151Z" creationid="suzume" creationdate="20211117T145151Z">
+        <seg>&lt;l0&gt;--config-dir=&lt;p1&gt;/chemin/du/dossier_de_configuration&lt;/p1&gt;&lt;/l0&gt; dit à OmegaT dans quel dossier sont conservés les fichiers de configuration.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt;--config-file=&lt;config-file&gt;&lt;/l0&gt; tells &lt;a1&gt;OmegaT&lt;/a1&gt; what configuration file to use.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160322T170245Z" creationid="Didier" creationdate="20160322T170245Z">
@@ -6735,6 +6863,14 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210202T073225Z" creationid="suzume" creationdate="20210202T073225Z">
         <seg>&lt;l0&gt;--config-file=&lt;p1&gt;/chemin/du/fichier_de_configuration&lt;/p1&gt;&lt;/l0&gt; spécifie à &lt;a2&gt;OmegaT&lt;/a2&gt; le fichier de configuration à utiliser.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;--config-file=&lt;p1&gt;/path/to/config-file/&lt;/p1&gt;&lt;/l0&gt; tells OmegaT what configuration file to use.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T145301Z" creationid="suzume" creationdate="20211117T145301Z">
+        <seg>&lt;l0&gt;--config-file=&lt;p1&gt;/chemin/du/fichier_de_configuration&lt;/p1&gt;&lt;/l0&gt; spécifie à OmegaT le fichier de configuration à utiliser.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6831,6 +6967,14 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210202T073101Z" creationid="suzume" creationdate="20210202T073101Z">
         <seg>&lt;l0&gt;/chemin/du/projet&lt;/l0&gt; dit à &lt;a1&gt;OmegaT&lt;/a1&gt; où trouver le projet à traduire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;/path/to/project&lt;/l0&gt; tells OmegaT where to find the project to translate.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T145122Z" creationid="suzume" creationdate="20211117T145122Z">
+        <seg>&lt;l0&gt;/chemin/du/projet&lt;/l0&gt; dit à OmegaT où trouver le projet à traduire.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9137,6 +9281,22 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;p2&gt;XX&lt;/p2&gt; in the command stands for the two-digit code of the desired language.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T131336Z" creationid="suzume" creationdate="20211117T131336Z">
+        <seg>Dans la commande, &lt;p2&gt;XX&lt;/p2&gt; représente le code à deux chiffres correspondant à la langue désirée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;p3&gt;??&lt;/p3&gt; stands for the amount of memory assigned, in megabytes.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T145002Z" creationid="suzume" creationdate="20211117T145002Z">
+        <seg>&lt;p3&gt;??&lt;/p3&gt; représente la quantité de mémoire attribuée, en mégaoctets.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;p3&gt;XX&lt;/p3&gt; in the command stands for the two-digit code of the desired language.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210202T072842Z" creationid="suzume" creationdate="20210202T072842Z">
@@ -10519,6 +10679,22 @@ covered by this License; they are outside its scope.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Adding OmegaT to the Dock</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T131009Z" creationid="suzume" creationdate="20211117T131009Z">
+        <seg>Ajout d'OmegaT au Dock</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Adding OmegaT to your menus (KDE) or panels (Gnome)</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T130927Z" creationid="suzume" creationdate="20211117T130927Z">
+        <seg>Ajout d'OmegaT aux menus (KDE) ou panneaux (Gnome)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Adding new source files</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210130T153354Z" creationid="suzume" creationdate="20210130T153354Z">
@@ -10716,10 +10892,26 @@ this License without regard to the additional permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>After segmenting the source file into structural units, OmegaT will segment these blocks further into sentences.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T074424Z" creationid="suzume" creationdate="20211117T074424Z">
+        <seg>Après avoir segmenté le fichier source en unités structurelles, OmegaT continue sa segmentation en segmentant les blocs en phrases.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>After several of these operations, select &lt;m0&gt; &lt;g1&gt;Edit&lt;/g1&gt; &lt;g2&gt;Realign pending&lt;/g2&gt; &lt;/m0&gt; to update the alignment of the other segments.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210204T075813Z" creationid="suzume" creationdate="20210204T075732Z">
         <seg>Après avoir répété cette opération un certain nombre de fois, sélectionnez &lt;m0&gt; &lt;g1&gt;Modifier&lt;/g1&gt; &lt;g2&gt;Réaligner les éléments en attente&lt;/g2&gt; &lt;/m0&gt; pour mettre à jour l'alignement des autres segments.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After several of these operations, select &lt;m0&gt;&lt;g1&gt;Edit&lt;/g1&gt;&lt;g2&gt;Realign pending&lt;/g2&gt; &lt;/m0&gt; to update the alignment of the other segments.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T151413Z" creationid="suzume" creationdate="20211117T151413Z">
+        <seg>Après avoir répété cette opération un certain nombre de fois, sélectionnez &lt;m0&gt;&lt;g1&gt;Modifier&lt;/g1&gt;&lt;g2&gt;Réaligner les éléments en attente&lt;/g2&gt;&lt;/m0&gt; pour mettre à jour l'alignement des autres segments.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10736,6 +10928,14 @@ this License without regard to the additional permissions.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130502T125603Z">
         <seg>Après l'installation initiale, il est bien entendu également possible d'utiliser &lt;e5&gt;&lt;a6&gt;OmegaT&lt;/a6&gt;.jnlp&lt;/e5&gt; lorsque vous êtes hors ligne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After the initial installation you can, of course, also use &lt;f2&gt;OmegaT.jnlp&lt;/f2&gt; also when you are offline.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T131131Z" creationid="suzume" creationdate="20211117T131131Z">
+        <seg>Après l'installation initiale, il est bien entendu également possible d'utiliser &lt;f2&gt;OmegaT.jnlp&lt;/f2&gt; lorsque vous êtes hors ligne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10776,6 +10976,14 @@ this License without regard to the additional permissions.</seg>
       </tuv>
       <tuv lang="fr" changeid="briglegrand" changedate="20120501T181419Z">
         <seg>Une fois le nom du projet défini, OmegaT ouvre la fenêtre Création du projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After you have translated each segment, press &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;U&lt;/k2&gt;&lt;/k0&gt; to move to the next untranslated segment (or &lt;k3&gt;&lt;k4&gt;Ctrl&lt;/k4&gt;&lt;k5&gt;Shift&lt;/k5&gt;&lt;k6&gt;U&lt;/k6&gt;&lt;/k3&gt; to move to the next translated segment).</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T145443Z" creationid="suzume" creationdate="20211117T145443Z">
+        <seg>Utilisez le raccourci clavier &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;U&lt;/k2&gt;&lt;/k0&gt; pour accéder au prochain segment non traduit (ou &lt;k3&gt;&lt;k4&gt;Ctrl&lt;/k4&gt;&lt;k5&gt;Shift&lt;/k5&gt;&lt;k6&gt;U&lt;/k6&gt;&lt;/k3&gt; pour accéder au segment traduit suivant).</seg>
       </tuv>
     </tu>
     <tu>
@@ -12168,6 +12376,14 @@ void, and will automatically terminate your rights under this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Arguments can be combined: to launch OmegaT with all the examples described above, the command would be:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T145011Z" creationid="suzume" creationdate="20211117T145011Z">
+        <seg>Les arguments peuvent être combinés. Pour lancer OmegaT avec tous les exemples décrits plus haut, la commande serait :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Armenian</seg>
       </tuv>
       <tuv lang="fr" changeid="etudiant_local" changedate="20130410T124223Z">
@@ -12568,6 +12784,14 @@ provoquer des comportements inattendus, mais corrects.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160322T172819Z" creationid="Didier" creationdate="20160322T172819Z">
         <seg>La saisie automatique s'ouvre dans le segment cible avec le raccourci &lt;e0&gt;Ctrl+Space&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Auto-completer is launched within the target segment via &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;Space&lt;/k2&gt;&lt;/k0&gt; shortcut.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T074511Z" creationid="suzume" creationdate="20211117T074511Z">
+        <seg>La saisie automatique s'ouvre dans le segment cible avec le raccourci &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;Space&lt;/k2&gt;&lt;/k0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13337,6 +13561,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Building OmegaT From Source</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T145324Z" creationid="suzume" creationdate="20211117T145324Z">
+        <seg>Version d'OmegaT à partir de la source</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Built-in (LanguageTool {0})</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160929T151952Z" creationid="Didier" creationdate="20160929T151952Z">
@@ -13624,6 +13856,14 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
       <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210520T154833Z">
         <seg>Par défaut, le dossier ./tm est localisé dans le dossier racine du projet (par exemple, ...&lt;e0&gt;/MonProjet/tm&lt;/e0&gt;), mais il est toujours possible de choisir un dossier différent dans la boîte de dialogue de propriétés du projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By default, the &lt;f0&gt;tm&lt;/f0&gt; folder is below the project's root folder (e.g. ...&lt;f1&gt;MyProject/tm&lt;/f1&gt;), but you can choose a different folder in the project properties dialog if you wish.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T130736Z" creationid="suzume" creationdate="20211117T130736Z">
+        <seg>Par défaut, le dossier &lt;f0&gt;tm&lt;/f0&gt; est localisé dans le dossier racine du projet (par exemple, ...&lt;f1&gt;MonProjet/tm&lt;/f1&gt;), mais il est toujours possible de choisir un dossier différent dans la boîte de dialogue de propriétés du projet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14157,6 +14397,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check "&lt;l2/&gt;" below for more information.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T131053Z" creationid="suzume" creationdate="20211117T131053Z">
+        <seg>Voir « &lt;l2/&gt; » ci-dessous pour plus d'informations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check "&lt;l3/&gt;" below for more information.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210207T055520Z" creationid="suzume" creationdate="20210207T055520Z">
@@ -14361,6 +14609,14 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20140604T064650Z" creationid="Didier" creationdate="20140604T064650Z">
         <seg>Cible plus longue</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check for possible Tag errors with &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;T&lt;/k2&gt;&lt;/k0&gt; and untranslated segments with &lt;k3&gt;&lt;k4&gt;Ctrl&lt;/k4&gt;&lt;k5&gt;U&lt;/k5&gt;&lt;/k3&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T130819Z" creationid="suzume" creationdate="20211117T130819Z">
+        <seg>Vérifiez les éventuelles erreurs de balise avec &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;T&lt;/k2&gt;&lt;/k0&gt;et les segments non traduits avec &lt;k3&gt;&lt;k4&gt;Ctrl&lt;/k4&gt;&lt;k5&gt;U&lt;/k5&gt;&lt;/k3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14701,6 +14957,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Checks to see whether a more recent version of OmegaT has been released.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T145847Z" creationid="suzume" creationdate="20211117T145847Z">
+        <seg>Vérifie si une version plus récente d'OmegaT est disponible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Chichewa, Chewa, Nyanja</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130519T100745Z">
@@ -14869,6 +15133,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Clic on &lt;g0&gt;Exclusions...&lt;/g0&gt; to define the files or folders that will be ignored by OmegaT.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T074801Z" creationid="suzume" creationdate="20211117T074801Z">
+        <seg>Cliquez sur &lt;g0&gt;Exclusions...&lt;/g0&gt; pour définir les fichiers ou les filtres qui seront ignorés par OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Click &lt;e0&gt;Defaults&lt;/e0&gt; to reset the file filters to the default settings.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130429T080338Z">
@@ -15001,6 +15273,14 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210110T122904Z" creationid="suzume" creationdate="20210110T122904Z">
         <seg>Cliquez sur le bouton d'icône puis sur &lt;g0&gt;Parcourir...&lt;/g0&gt; et accédez au sous-dossier &lt;f1&gt;/images&lt;/f1&gt; situé dans le dossier d'application &lt;a2&gt;OmegaT&lt;/a2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on the icon button, then hit &lt;g0&gt;Browse...&lt;/g0&gt; and navigate to the &lt;f1&gt;images&lt;/f1&gt; subfolder in the OmegaT application folder.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T130958Z" creationid="suzume" creationdate="20211117T130951Z">
+        <seg>Cliquez sur le bouton d'icône puis sur &lt;g0&gt;Parcourir...&lt;/g0&gt; et accédez au sous-dossier &lt;f1&gt;images&lt;/f1&gt; situé dans le dossier d'application OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16204,6 +16484,22 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="fr">
         <seg>Copier l'url de la page (se terminant par &lt;g0&gt;action=edit&lt;/g0&gt;) et la coller dans &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Copy the URL of the page (ending with &lt;g0&gt;action=edit&lt;/g0&gt;) and paste it into OmegaT.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T145850Z" creationid="suzume" creationdate="20211117T145850Z">
+        <seg>Copier l'url de la page (se terminant par &lt;g0&gt;action=edit&lt;/g0&gt;) et la coller dans OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Copy the documents, you need the translation memory for, into the &lt;f0&gt;source&lt;/f0&gt; folder of the project.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T130743Z" creationid="suzume" creationdate="20211117T130743Z">
+        <seg>Copiez les documents pour lesquels vous avez besoin de mémoires de traduction dans le dossier &lt;f0&gt;source&lt;/f0&gt; du projet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19373,6 +19669,14 @@ several security warnings.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>During translation, use the &lt;g11&gt;Edit&lt;/g11&gt; and &lt;g12&gt;Go To&lt;/g12&gt; menus to perform various useful functions.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T145510Z" creationid="suzume" creationdate="20211117T145510Z">
+        <seg>Les menus &lt;g11&gt;Édition&lt;/g11&gt; et &lt;g12&gt;Atteindre&lt;/g12&gt; vous donnent accès à diverses fonctions très utiles pendant le travail de traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>During translation, use the &lt;g2&gt;Edit&lt;/g2&gt; and &lt;g3&gt;Go To&lt;/g3&gt; menus to perform various useful functions.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130528T133508Z">
@@ -19849,6 +20153,14 @@ pas de page...</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Empty translations are now allowed.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T074539Z" creationid="suzume" creationdate="20211117T074539Z">
+        <seg>Les traductions vides sont maintenant permises.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enable &amp;TransTips</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20100120T133032Z">
@@ -19982,6 +20294,14 @@ pas de page...</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20200724T171625Z" creationid="briac" creationdate="20200724T171625Z">
         <seg>Affiche automatiquement une notification lorsqu'une nouvelle version d'&lt;a0&gt;OmegaT&lt;/a0&gt; est disponible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enables automatic notification of OmegaT updates.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T074755Z" creationid="suzume" creationdate="20211117T074755Z">
+        <seg>Affiche automatiquement une notification lorsqu'une nouvelle version d'OmegaT est disponible.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20154,10 +20474,26 @@ pas de page...</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enter "OmegaT" in the "Name" field; in the "Command" field, use the navigation button to find your OmegaT launch script (the file named OmegaT in the unpacked folder).</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T130948Z" creationid="suzume" creationdate="20211117T130948Z">
+        <seg>Saisissez « OmegaT » dans le champ « Nom ». Dans le champ « Commande », utilisez le bouton de navigation pour localiser le script de lancementOmegaT (le fichier nomméOmegaT dans le dossier décompréssé).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enter &lt;a2&gt;OmegaT&lt;/a2&gt; as the name of the new item.</seg>
       </tuv>
       <tuv lang="fr" changeid="brigitte" changedate="20130713T125637Z">
         <seg>Saisissez &lt;a2&gt;OmegaT&lt;/a2&gt; comme nom du nouvel élément.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enter OmegaT as the name of the new item.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T130931Z" creationid="suzume" creationdate="20211117T130931Z">
+        <seg>Saisissez OmegaT comme nom du nouvel élément.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21875,6 +22211,14 @@ patents.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Follow your system's instructions to install OmegaT shortcuts in convenient places of your choosing.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T131119Z" creationid="suzume" creationdate="20211117T131119Z">
+        <seg>Suivez les instructions de votre système pour installer des raccourcis d'OmegaT aux emplacements de votre choix.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Font</seg>
       </tuv>
       <tuv lang="fr" changeid="pingouin" changedate="20130426T122412Z">
@@ -22132,6 +22476,14 @@ authors of previous versions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, &lt;l2&gt;user.language=ja&lt;/l2&gt; (without the &lt;l3&gt;#&lt;/l3&gt;) will launch OmegaT with the user interface in Japanese.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T131013Z" creationid="suzume" creationdate="20211117T131013Z">
+        <seg>Par exemple, &lt;l2&gt;user.language=ja&lt;/l2&gt; (sans le &lt;l3&gt;#&lt;/l3&gt;) lancera OmegaT avec l'interface utilisateur en japonais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, anyone is free to make changes to OmegaT's program code and to submit these changes to the development team.</seg>
       </tuv>
       <tuv lang="fr">
@@ -22240,6 +22592,14 @@ know their rights.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, if you wish the text filter to handle readme files (&lt;l4&gt;readme, read.me&lt;/l4&gt;, and &lt;l5&gt;readme.txt&lt;/l5&gt;) you should use the pattern &lt;l6&gt;read*&lt;/l6&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T074346Z" creationid="suzume" creationdate="20211117T074346Z">
+        <seg>Par exemple, si vous souhaitez que le filtre texte traite les fichiers lisez-moi (=&lt;l4&gt;readme, read.me&lt;/l4&gt;, et &lt;l5&gt;readme.txt&lt;/l5&gt;) vous devez utiliser le masque &lt;l6&gt;read*&lt;/l6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, if you wish to create a pseudo-translation for testing purposes, OmegaT enables you to create an additional tmx file that contains all segments of the project.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130507T092717Z">
@@ -22300,6 +22660,14 @@ know their rights.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130527T135009Z">
         <seg>Par exemple, le masque &lt;l0&gt;*.xhtml &lt;/l0&gt; correspond à tous les fichiers possédant l'extension &lt;l1&gt;.xhtml&lt;/l1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, the pattern &lt;l1&gt;*.xhtml &lt;/l1&gt;matches any file with the &lt;l2&gt;.xhtml&lt;/l2&gt; extension.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T074312Z" creationid="suzume" creationdate="20211117T074312Z">
+        <seg>Par exemple, le masque &lt;l1&gt;*.xhtml &lt;/l1&gt; correspond à tous les fichiers possédant l'extension &lt;l2&gt;.xhtml&lt;/l2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22366,6 +22734,14 @@ know their rights.</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20170911T161713Z" creationid="briac" creationdate="20170911T161713Z">
         <seg>Installation sur divers autres systèmes d'exploitation (notamment FreeBSD et Solaris)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For instance (if the default is accepted), the translation from the ancillary TM is accepted and prefixed with &lt;e3&gt;[fuzzy]&lt;/e3&gt;, so that the translator can review the translations at a later stage and check whether the segments tagged this way, have been translated correctly.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T150845Z" creationid="suzume" creationdate="20211117T150845Z">
+        <seg>Par exemple (si le paramètre par défaut est configuré), la traduction de la mémoire de traduction secondaire est acceptée et porte le préfixe &lt;e3&gt;[correspondance]&lt;/e3&gt;, afin que le traducteur puisse revoir les traductions à un stade ultérieur et vérifier que les segments ainsi marqués ont été traduits correctement.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22562,6 +22938,14 @@ make exceptions for this.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210110T132444Z" creationid="suzume" creationdate="20210110T132444Z">
         <seg>Pour les détails techniques, consultez la &lt;u3&gt;demande d'amélioration&lt;/u3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For technical details, see the &lt;u4&gt;Request For Enhancement&lt;/u4&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T150503Z" creationid="suzume" creationdate="20211117T150503Z">
+        <seg>Pour les détails techniques, consultez la &lt;u4&gt;demande d'amélioration&lt;/u4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23023,6 +23407,14 @@ authors of previous versions.</seg>
       </tuv>
       <tuv lang="fr" changeid="brigitte" changedate="20130714T095338Z">
         <seg>Il est possible que GNOME n'arrive pas à afficher les fichiers d'icône dans les formats disponibles et, qu'au départ, il semble s'attendre à un fichier SVG. Toutefois, si le dossier est sélectionné, les fichiers devraient apparaître et &lt;a4&gt;OmegaT&lt;/a4&gt;.png peut être sélectionné.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GNOME may fail to display the icon files in the available formats and initially appear to expect an SVG file, but if the folder is selected, the files should appear and &lt;f3&gt;OmegaT.png&lt;/f3&gt; can be selected.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T130954Z" creationid="suzume" creationdate="20211117T130954Z">
+        <seg>Il est possible que GNOME n'arrive pas à afficher les fichiers d'icône dans les formats disponibles et, qu'au départ, il semble s'attendre à un fichier SVG. Toutefois, si le dossier est sélectionné, les fichiers devraient apparaître et &lt;f3&gt;OmegaT.png&lt;/f3&gt; peut être sélectionné.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24457,6 +24849,14 @@ parties remain in full compliance.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>However, you should take precautions against data loss when using OmegaT, just as with any other application.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T130518Z" creationid="suzume" creationdate="20211117T130518Z">
+        <seg>Cependant, lorsque vous utilisez OmegaT, soyez prudents en ce qui concerne les pertes de données (tout comme vous le seriez avec d'autres applications).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Howto - Adding a preview function to OmegaT</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20170331T122059Z" creationid="briac" creationdate="20170331T122059Z">
@@ -25026,6 +25426,14 @@ need not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If a user interface in this language is available, OmegaT uses it.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T131305Z" creationid="suzume" creationdate="20211117T131305Z">
+        <seg>Si une interface utilisateur est disponible dans cette langue, OmegaT l'utilise.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If an &lt;a0&gt;OmegaT&lt;/a0&gt; project contains one or more glossaries, any terms in the glossary which are also found in the current segment will be automatically displayed in the Glossary viewer.</seg>
       </tuv>
       <tuv lang="fr" changeid="brigitte" changedate="20130712T143413Z">
@@ -25258,6 +25666,14 @@ compelled to copy the source along with the object code.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If given, OmegaT starts in console mode and will translate the given project.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T145123Z" creationid="suzume" creationdate="20211117T145123Z">
+        <seg>Si ce paramètre est donné, OmegaT démarre en mode console et traduit le projet donné.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If in doubt, don't hesitate to ask project members directly either by sending them an e-mail from the SourceForge page or by sending a public mail to the user group.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130528T131615Z">
@@ -25304,6 +25720,14 @@ compelled to copy the source along with the object code.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130412T135116Z">
         <seg>S'il s'agit de&lt;e0&gt;tar.bz&lt;/e0&gt;, cela signifie que vous avez oublié de le décompresser (désarchiver).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If it is clear from the very start, that translations in a given TM (or TMs) are all correct, one can put them into the &lt;f0&gt;tm/auto&lt;/f0&gt; folder and avoid confirming a lot of &lt;e1&gt;[fuzzy]&lt;/e1&gt; cases.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T151118Z" creationid="suzume" creationdate="20211117T151118Z">
+        <seg>S'il est certain dès le début que toutes les traductions d'une ou de plusieurs mémoires de traduction sont correctes, les placer dans le dossier &lt;f0&gt;tm/auto&lt;/f0&gt; permet d'éviter de devoir confirmer de nombreux cas de &lt;e1&gt;[correspondance]&lt;/e1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25393,6 +25817,14 @@ tous les paramètres reprendront leur valeur par défaut,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If no text is selected, OmegaT selects the word that contains the letter immediately to the right of the cursor.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T145839Z" creationid="suzume" creationdate="20211117T145839Z">
+        <seg>Si aucun texte n'est sélectionné, OmegaT sélectionne le mot qui contient la lettre se trouvant immédiatement à la droite du curseur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If not checked, source segments will not be shown.</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130421T173720Z">
@@ -25413,6 +25845,14 @@ tous les paramètres reprendront leur valeur par défaut,
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210202T073130Z" creationid="suzume" creationdate="20210202T073130Z">
         <seg>Si ce paramètre n'est pas donné, &lt;a3&gt;OmegaT&lt;/a3&gt; retourne aux valeurs par défaut (dossier &lt;a4&gt;OmegaT&lt;/a4&gt; dans le dossier personnel de l'utilisateur ou, s'il n'est pas disponible, dans le dossier de travail actuel).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If not given, OmegaT reverts to default values (OmegaT folder under user home or, if unavailable, the current working folder).</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T145154Z" creationid="suzume" creationdate="20211117T145154Z">
+        <seg>Si ce paramètre n'est pas donné, OmegaT retourne aux valeurs par défaut (dossier OmegaT dans le dossier personnel de l'utilisateur ou, s'il n'est pas disponible, dans le dossier de travail actuel).</seg>
       </tuv>
     </tu>
     <tu>
@@ -25485,6 +25925,14 @@ tous les paramètres reprendront leur valeur par défaut,
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20200503T104113Z" creationid="briac" creationdate="20200503T104113Z">
         <seg>S'il est activé, lorsqu'un segment d'un fichier PO (qui peut représenter un paragraphe entier) n'est pas traduit, la traduction sera vide dans le fichier cible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If sentence segmentation has been selected, you can setup the rules by selecting &lt;m3&gt; &lt;g4&gt;Options&lt;/g4&gt; &lt;g5&gt;Segmentation...&lt;/g5&gt; &lt;/m3&gt;from the main menu.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T074409Z" creationid="suzume" creationdate="20211117T074409Z">
+        <seg>Si la segmentation par phrase a été choisie, vous pouvez en configurer les règles dans &lt;m3&gt; &lt;g4&gt;Options&lt;/g4&gt; &lt;g5&gt;Segmentation...&lt;/g5&gt; &lt;/m3&gt;(dans la barre des menus).</seg>
       </tuv>
     </tu>
     <tu>
@@ -25607,6 +26055,14 @@ Foundation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the current translation of the segment does not fit, the user can select &lt;m0&gt;&lt;g1&gt;Edit&lt;/g1&gt;&lt;g2&gt;Create Alternative Translation&lt;/g2&gt;&lt;/m0&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T150722Z" creationid="suzume" creationdate="20211117T150722Z">
+        <seg>Si la traduction actuelle du segment ne convient pas, l'utilisateur peut sélectionner &lt;m0&gt;&lt;g1&gt;Edition&lt;/g1&gt;&lt;g2&gt;Créer une traduction alternative&lt;/g2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the distribution and/or use of the Program is restricted in
 certain countries either by patents or by copyrighted interfaces, the
 original copyright holder who places the Program under this License
@@ -25704,6 +26160,14 @@ countries not thus excluded.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210202T072050Z" creationid="suzume" creationdate="20210202T072050Z">
         <seg>Si la langue du système de l'utilisateur n'est pas disponible, &lt;a7&gt;OmegaT&lt;/a7&gt; s'affiche en anglais (langue par défaut).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the language of the user's system is not available, OmegaT defaults to English.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T131310Z" creationid="suzume" creationdate="20211117T131310Z">
+        <seg>Si la langue du système de l'utilisateur n'est pas disponible, OmegaT s'affiche en anglais (langue par défaut).</seg>
       </tuv>
     </tu>
     <tu>
@@ -25813,6 +26277,14 @@ authors' reputations.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130506T074700Z">
         <seg>Si le fichier source est modifié après le début de la traduction, il est possible qu'&lt;a1&gt;OmegaT&lt;/a1&gt; ne parvienne plus à trouver un segment que vous avez déjà traduit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the source file is modified after you have begun translating, OmegaT may be unable to find a segment that you have already translated.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T130613Z" creationid="suzume" creationdate="20211117T130613Z">
+        <seg>Si le fichier source est modifié après le début de la traduction, il est possible qu'OmegaT ne parvienne plus à trouver un segment que vous avez déjà traduit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25929,10 +26401,26 @@ authors' reputations.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If they &lt;e0&gt;don't need&lt;/e0&gt; to stay immune from further changes, then remove the TMX from &lt;f1&gt;tm/enforce&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T151206Z" creationid="suzume" creationdate="20211117T151206Z">
+        <seg>S'il n'est &lt;e0&gt;pas nécessaire&lt;/e0&gt; qu'ils restent protégés de futurs changements, supprimez la TMX de &lt;f1&gt;tm/enforce&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If they &lt;e0&gt;need&lt;/e0&gt; to stay immune from further changes, then keep the TMX in /tm/enforce.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160718T160149Z" creationid="Didier" creationdate="20160718T160149Z">
         <seg>S'il est &lt;e0&gt;nécessaire&lt;/e0&gt; qu'ils restent protégés de futurs changements, conservez la TMX dans /tm/enforce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If they &lt;e0&gt;need&lt;/e0&gt; to stay immune from further changes, then keep the TMX in &lt;f1&gt;tm/enforce&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T151214Z" creationid="suzume" creationdate="20211117T151214Z">
+        <seg>S'il est &lt;e0&gt;nécessaire&lt;/e0&gt; qu'ils restent protégés de futurs changements, conservez la TMX dans &lt;f1&gt;tm/enforce&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26068,6 +26556,14 @@ Public License instead of this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you already have collected words you wish the spell checker to ignore / accept, you just need to copy the corresponding two files into the &lt;f0&gt;omegat&lt;/f0&gt; subfolder of your current project.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T151259Z" creationid="suzume" creationdate="20211117T151259Z">
+        <seg>Pour que le vérificateur orthographique ignore/ ajoute des mots que vous avez déjà rencontrés, il suffit de copier les deux fichiers correspondants à ces listes de mots dans le sous-dossier &lt;f0&gt;omegat&lt;/f0&gt; du projet en cours.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you already have collected words you wish the spell checker to ignore / accept, you just need to copy the corresponding two files into the &lt;f0&gt;omegat&lt;/f0&gt;subfolder of your current project.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130430T121146Z">
@@ -26123,6 +26619,14 @@ virtualenv --system-site-packages &lt;nom de l'environnement&gt;</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130527T140221Z">
         <seg>Si vous souhaitez modifier ou distribuer &lt;a1&gt;OmegaT&lt;/a1&gt;, commencez par lire ce document avec attention et assurez-vous de bien en comprendre toutes les implications avant de faire quoi que ce soit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you are interested in other settings of this dialog, you can return to it any time by pressing &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;E&lt;/k2&gt;&lt;/k0&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T145346Z" creationid="suzume" creationdate="20211117T145346Z">
+        <seg>Utilisez le raccourci clavier &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;E&lt;/k2&gt;&lt;/k0&gt; si vous avez besoin de revenir aux réglages de cette fenêtre plus tard.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26232,6 +26736,14 @@ that you install an OmegaT version with JRE included.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you can not see all the panes (be it opened or minimized), pressing &lt;m0&gt;&lt;g1&gt;Options&lt;/g1&gt;&lt;g2&gt;Restore Main Window&lt;/g2&gt;&lt;/m0&gt; will restore them to the state, defined in the installation.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T150529Z" creationid="suzume" creationdate="20211117T150529Z">
+        <seg>Si vous ne pouvez pas voir tous les volets (s'ils sont ouverts ou réduits), appuyez sur &lt;m0&gt;&lt;g1&gt;Options&lt;/g1&gt;&lt;g2&gt;Réinitialiser la fenêtre principale&lt;/g2&gt;&lt;/m0&gt; pour retrouver l'état défini dans l'installation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you can program in another language, you can write code to support the core application.</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20170403T093106Z" creationid="briac" creationdate="20170403T093106Z">
@@ -26272,6 +26784,14 @@ Explorer), change the settings so that file extensions are displayed.</seg>
       </tuv>
       <tuv lang="fr" changeid="brigitte" changedate="20130714T144919Z">
         <seg>Si vous ne pouvez pas exécuter &lt;a0&gt;OmegaT&lt;/a0&gt; normalement (s'il n'y a pas d'interface graphique disponible) : copiez les fichiers de paramétrage (provenant d'une autre installation d'&lt;a1&gt;OmegaT&lt;/a1&gt; effectuée sur une autre machine) dans un dossier spécifique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you can't run OmegaT normally (no graphical environment available): copy the settings files from some other OmegaT installation on another machine to a specific folder.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T145018Z" creationid="suzume" creationdate="20211117T145018Z">
+        <seg>Si vous ne pouvez pas exécuter OmegaT normalement (s'il n'y a pas d'interface graphique disponible) : copiez les fichiers de paramétrage (provenant d'une autre installation d'OmegaT effectuée sur une autre machine) dans un dossier spécifique.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26457,6 +26977,14 @@ free software which everyone can redistribute and change under these terms.</seg
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you enter names of folders that do not exist yet, OmegaT creates them for you.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T074800Z" creationid="suzume" creationdate="20211117T074800Z">
+        <seg>Si vous entrez le nom de dossiers qui n'existent pas encore, OmegaT les crée pour vous.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you export using the system option "Tab-delimited export", you will need to delete the first 5 columns (Seq.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130527T143150Z">
@@ -26477,6 +27005,14 @@ free software which everyone can redistribute and change under these terms.</seg
       </tuv>
       <tuv lang="fr" changeid="brigitte" changedate="20130715T191759Z">
         <seg>Si l'option TransTips est activée (&lt;g0&gt;Options → TransTips&lt;/g0&gt;), un clic droit sur le mot souligné dans le segment source permet d'ouvrir un menu contextuel qui suggère les traductions proposées par votre glossaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you have TransTips option activated (&lt;m0&gt;&lt;g1&gt;Options&lt;/g1&gt;&lt;g2&gt;TransTips&lt;/g2&gt;&lt;/m0&gt;), you can right click on the highlighted word in the source segment to open a pop-up menu with suggested translation, as offered by your glossary.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T150652Z" creationid="suzume" creationdate="20211117T150652Z">
+        <seg>Si l'option TransTips est activée (&lt;m0&gt;&lt;g1&gt;Options&lt;/g1&gt;&lt;g2&gt;TransTips&lt;/g2&gt;&lt;/m0&gt;), un clic droit sur le mot souligné dans le segment source permet d'ouvrir un menu contextuel qui suggère les traductions proposées par votre glossaire.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26584,6 +27120,14 @@ OmegaT is to use Java Web Start.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20141202T222027Z" creationid="Didier" creationdate="20141202T222027Z">
         <seg>Si vous êtes certains qu'une TMX est plus à jour que &lt;f0&gt;project_save.tmx&lt;/f0&gt; d'OmegaT, placez cette TMX dans /tm/enforce pour remplacer les traductions existantes par défaut inconditionnellement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you have no doubt that a TMX is more accurate than the &lt;f0&gt;project_save.tmx&lt;/f0&gt; of OmegaT, put this TMX in &lt;f1&gt;tm/enforce&lt;/f1&gt; to overwrite existing default translations unconditionally.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T151147Z" creationid="suzume" creationdate="20211117T151147Z">
+        <seg>Si vous êtes certains qu'une TMX est plus à jour que &lt;f0&gt;project_save.tmx&lt;/f0&gt; d'OmegaT, placez cette TMX dans &lt;f1&gt;tm/enforce&lt;/f1&gt; pour remplacer les traductions existantes par défaut inconditionnellement.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26714,6 +27258,14 @@ OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you place such translation memory files in the &lt;f6&gt;tm&lt;/f6&gt; subfolder of a project, OmegaT will automatically search them for similar segments, called "fuzzy matches".</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T145648Z" creationid="suzume" creationdate="20211117T145648Z">
+        <seg>Si vous placez des mémoires de traduction dans le dossier &lt;f6&gt;tm&lt;/f6&gt; du projet, OmegaT les analyse automatiquement à la recherche de segments semblables appelées « Correspondances ».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you place translation memory files in the /tm/ subfolder of your project folder, OmegaT will automatically search them for similar segments, called "fuzzy matches".</seg>
       </tuv>
       <tuv lang="fr" changeid="briglegrand" changedate="20120502T133226Z">
@@ -26786,6 +27338,14 @@ OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you start OmegaT in console mode, it will use the same settings.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T145016Z" creationid="suzume" creationdate="20211117T145016Z">
+        <seg>Si vous démarrez OmegaT en mode console, il utilisera les mêmes paramètres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you turn on &lt;e2&gt;&lt;i3/&gt;Advanced Options&lt;/e2&gt;, you can combine the search with the name of the author of the translation and time of the last change made.</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130422T162650Z">
@@ -26806,6 +27366,14 @@ OmegaT.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z" creationid="Didier" creationdate="20170210T103917Z">
         <seg>Si vous avez utilisé le script linux-install.sh, vous devriez pouvoir exécuter OmegaT avec :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you want the translation to be the same as the source, simply make the editing field empty by removing all the text (select all with &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;A&lt;/k2&gt;&lt;/k0&gt; and delete with &lt;k3&gt;Del&lt;/k3&gt;).</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T150610Z" creationid="suzume" creationdate="20211117T150610Z">
+        <seg>Si vous voulez que la traduction soit identique à la source, il suffit de vider la ligne d'édition en supprimant tout le texte (sélectionnez le texte avec &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;A&lt;/k2&gt;&lt;/k0&gt; et supprimez-le avec &lt;k3&gt;Suppr&lt;/k3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -27540,6 +28108,14 @@ the scope of this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In macOS, this menu item is listed in the application menu.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T150445Z" creationid="suzume" creationdate="20211117T150445Z">
+        <seg>Dans macOS, cet élément du menu est dans le menu application.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In many cases, however, it is necessary to embed LTR text in RTL text.</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130416T184436Z">
@@ -27656,6 +28232,14 @@ the scope of this License.</seg>
       </tuv>
       <tuv lang="fr" changeid="LF Aligner 4.1" changedate="20170403T155340Z" creationid="LF Aligner 4.1" creationdate="20170403T155340Z">
         <seg>L'environnement d'exécution Java (JRE) doit être installé sur votre ordinateur pour qu'OmegaT puisse fonctionner.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In order to select the type of segmentation, select &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Properties...&lt;/g2&gt; &lt;/m0&gt; from the main menu and tick or untick the check box provided.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T074401Z" creationid="suzume" creationdate="20211117T074401Z">
+        <seg>Pour choisir le type de segmentation, allez dans &lt;m0&gt; &lt;g1&gt;Projet&lt;/g1&gt; &lt;g2&gt;Propriétés...&lt;/g2&gt; &lt;/m0&gt; et cochez ou décochez la case « Activer la segmentation par phrase ».</seg>
       </tuv>
     </tu>
     <tu>
@@ -27809,6 +28393,14 @@ the limitation as if written in the body of this License.</seg>
       </tuv>
       <tuv lang="fr" changeid="brigitte" changedate="20130713T125725Z">
         <seg>Dans le champ « Commande », utilisez le bouton de navigation pour trouver votre script de lancement &lt;a0&gt;OmegaT&lt;/a0&gt; (le fichier nommé &lt;a1&gt;OmegaT&lt;/a1&gt; dans le dossier décompressé), et sélectionnez-le.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the "Command" field, use the navigation button to find your OmegaT launch script (the file named OmegaT in the unpacked folder), and select it.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T130934Z" creationid="suzume" creationdate="20211117T130934Z">
+        <seg>Dans le champ « Commande », utilisez le bouton de navigation pour trouver votre script de lancement OmegaT (le fichier nommé OmegaT dans le dossier décompressé), et sélectionnez-le.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28054,6 +28646,14 @@ patent against the party.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021550Z">
         <seg>Dans ce cas, placez la mémoire de traduction que vous voulez utiliser dans le dossier &lt;e0&gt;/tm&lt;/e0&gt; ou &lt;e1&gt;/tm&lt;/e1&gt;/auto de votre nouveau projet : dans le premier cas, vous obtiendrez des correspondances venant des mémoires de traduction dans le volet Correspondances ; dans le second cas, ces mémoires de traduction seront utilisées pour la prétraduction de votre texte source.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In this case, place the translation memories you wish to use in the &lt;f0&gt;/tm&lt;/f0&gt; or &lt;f1&gt;tm/auto&lt;/f1&gt; folder of your new project: in the former case you will get hits from these translation memories in the fuzzy matches viewer, and in the latter case these TMs will be used to pre-translate your source text.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T130708Z" creationid="suzume" creationdate="20211117T130708Z">
+        <seg>Dans ce cas, placez la mémoire de traduction que vous voulez utiliser dans le dossier &lt;f0&gt;tm&lt;/f0&gt; ou &lt;f1&gt;tm/auto&lt;/f1&gt; de votre nouveau projet : dans le premier cas, vous obtiendrez des correspondances venant des mémoires de traduction dans le volet Correspondances ; dans le second cas, ces mémoires de traduction seront utilisées pour la prétraduction de votre texte source.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28742,6 +29342,14 @@ exécutez simplement le programme d'installation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Installing and running OmegaT</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T130901Z" creationid="suzume" creationdate="20211117T130901Z">
+        <seg>Installation et exécution d'OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Installing and running OmegaT" in the User Manual.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20141101T135506Z">
@@ -29150,6 +29758,14 @@ exécutez simplement le programme d'installation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It can also be used in all the input fields found in OmegaT - in the search window, for segmentation rules etc.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T074852Z" creationid="suzume" creationdate="20211117T074852Z">
+        <seg>Il peut également être utilisé dans tous les champs de saisie présents dans OmegaT - dans la fenêtre de recherche, pour les règles de segmentation, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It can also be used when panes do not appear as expected following an OmegaT upgrade.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130527T153117Z">
@@ -29330,6 +29946,14 @@ implemented by public license practices.</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130419T191908Z">
         <seg>Cet article n'a pas pour but de vous induire à transgresser un quelconque brevet ou d'autres revendications à un droit de propriété ou à contester la validité de la moindre de ces revendications ; cet article a pour seul objectif de protéger l'intégrité du système de distribution du logiciel libre, qui est mis en oeuvre par la pratique des licenses publiques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is often useful to search for words and phrases in the source text and in your translation, so press &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;F&lt;/k2&gt;&lt;/k0&gt; for the &lt;g3&gt;Text Search&lt;/g3&gt; dialog at any time.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T145833Z" creationid="suzume" creationdate="20211117T145833Z">
+        <seg>Vous disposez également de puissantes fonctions de recherche dans la fenêtre &lt;g3&gt;Recherche textuelle&lt;/g3&gt; que vous pouvez utiliser au cours de la traduction (raccourci clavier &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;F&lt;/k2&gt;&lt;/k0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -29600,6 +30224,14 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130527T141547Z">
         <seg>Il est à noter que lorsqu'&lt;a0&gt;OmegaT&lt;/a0&gt; est en mode RTL, la source et la cible sont toutes les deux affichées en mode RTL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It should be noted that when OmegaT is in RTL mode, both source and target are displayed in RTL mode.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T074955Z" creationid="suzume" creationdate="20211117T074955Z">
+        <seg>Il est à noter que lorsqu'OmegaT est en mode RTL, la source et la cible sont toutes les deux affichées en mode RTL.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31753,6 +32385,14 @@ automatically download and install it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mac OS X users, note: use &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; shortcut and not &lt;k4&gt;&lt;k5&gt;cmd&lt;/k5&gt;&lt;k6&gt;Ctrl&lt;/k6&gt;&lt;k7&gt;O&lt;/k7&gt;&lt;/k4&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T074945Z" creationid="suzume" creationdate="20211117T074945Z">
+        <seg>Remarque pour les utilisateurs de macOS : utilisez le raccourci &lt;k0&gt; &lt;k1&gt;Maj&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; et pas &lt;k4&gt;&lt;k5&gt;cmd&lt;/k5&gt;&lt;k6&gt;Ctrl&lt;/k6&gt;&lt;k7&gt;O&lt;/k7&gt;&lt;/k4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mac users should instead use &lt;k4&gt; &lt;k5&gt;Cmd&lt;/k5&gt; &lt;k6&gt;key&lt;/k6&gt; &lt;/k4&gt; instead.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210313T131245Z">
@@ -31989,6 +32629,14 @@ La version Mac intègre un JRE.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210503T232652Z">
         <seg>faites régulièrement des copies du fichier ./omegat/project_save.tmx sur des supports de sauvegarde comme des CD ou des DVD.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Make regular copies of the file &lt;f0&gt;/omegat/project_save.tmx&lt;/f0&gt; to backup media, such as CD or DVD.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T130558Z" creationid="suzume" creationdate="20211117T130558Z">
+        <seg>faites régulièrement des copies du fichier &lt;f0&gt;omegat/project_save.tmx&lt;/f0&gt; sur des supports de sauvegarde comme des CD ou des DVD.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33802,6 +34450,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>New translation memories placed in the &lt;f0&gt;tm&lt;/f0&gt; folder while translating are loaded automatically as soon as the cursor moves from one segment to another.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T145902Z" creationid="suzume" creationdate="20211117T145902Z">
+        <seg>La prise en compte de nouvelles mémoires de traduction (placées dans &lt;f0&gt;tm&lt;/f0&gt;) en cours de traduction s'effectue automatiquement, dès que le curseur change de segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>New users of OmegaT are encouraged to make any suggestions here.</seg>
       </tuv>
       <tuv lang="fr">
@@ -34258,6 +34914,14 @@ Diminue les sorties sur stdout de la ligne de commande.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Normally, it is not necessary to start OmegaT from the command line.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T131139Z" creationid="suzume" creationdate="20211117T131139Z">
+        <seg>Normalement, il n'est pas nécessaire de démarrer OmegaT à partir de la ligne de commande.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>North Ndebele</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130411T085430Z">
@@ -34599,6 +35263,14 @@ Rajout d'une partie approriée, afin que la note de bas de page ne se retrouve p
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note that the TMX files in the &lt;f0&gt;tm&lt;/f0&gt; folder can be compressed with gzip.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T150853Z" creationid="suzume" creationdate="20211117T150853Z">
+        <seg>Remarquez que les fichiers TMX du dossier &lt;f0&gt;tm&lt;/f0&gt; peuvent être compressés par gzip.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note that the TMX files in the tm folder can be compressed with gzip.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210111T143359Z">
@@ -34719,6 +35391,14 @@ Rajout d'une partie approriée, afin que la note de bas de page ne se retrouve p
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note the double &lt;l2&gt;-&lt;/l2&gt; character.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T145156Z" creationid="suzume" creationdate="20211117T145156Z">
+        <seg>Notez bien les caractères &lt;l2&gt;-&lt;/l2&gt; doubles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note the double &lt;l5&gt;-&lt;/l5&gt; character.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210202T073147Z" creationid="suzume" creationdate="20210202T073147Z">
@@ -34827,6 +35507,22 @@ Rajout d'une partie approriée, afin que la note de bas de page ne se retrouve p
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z" creationid="Didier" creationdate="20160718T160223Z">
         <seg>Note : si la TMX est supprimée de /tm/enforce avant l'étape 3, les segments forcés ne sont pas conservés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note: if TMX is removed from &lt;f0&gt;tm/auto&lt;/f0&gt; before step 3, no extra Translation Unit is added.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T151136Z" creationid="suzume" creationdate="20211117T151136Z">
+        <seg>Note : si la TMX est supprimée de &lt;f0&gt;tm/auto&lt;/f0&gt; avant l'étape 3, aucune traduction supplémentaire n'est ajoutée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note: if TMX is removed from &lt;f0&gt;tm/enforce&lt;/f0&gt; before step 3, enforcements aren't kept at all.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T151223Z" creationid="suzume" creationdate="20211117T151223Z">
+        <seg>Note : si la TMX est supprimée de &lt;f0&gt;tm/enforce&lt;/f0&gt; avant l'étape 3, les segments forcés ne sont pas conservés.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35378,6 +36074,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT 4.3.1 - User's Guide</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T151328Z" creationid="suzume" creationdate="20211117T151328Z">
+        <seg>OmegaT 4.3.1 - Guide de l'utilisateur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT &lt;s0&gt;the free translation memory tool&lt;/s0&gt;</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20170918T110215Z" creationid="briac" creationdate="20170918T110202Z">
@@ -35634,6 +36338,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT contains the Java JRE 1.8</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T131006Z" creationid="suzume" creationdate="20211117T131006Z">
+        <seg>OmegaT contient Java 1.8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT currently requires version 1.6 of the JRE or later.</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20170403T160707Z" creationid="briac" creationdate="20170403T160707Z">
@@ -35694,6 +36406,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130429T074830Z">
         <seg>Les filtres extrêmement personnalisables d'OmegaT vous permettent de configurer de nombreuses choses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT first parses the text for structure-level segmentation.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T074421Z" creationid="suzume" creationdate="20211117T074421Z">
+        <seg>OmegaT effectue d'abord une analyse du texte pour procéder à une segmentation au niveau de la structure.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35812,6 +36532,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT has two ways to segment a text: by paragraph or by sentence segmentation (also referred to as “rule-based segmentation”).</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T074354Z" creationid="suzume" creationdate="20211117T074354Z">
+        <seg>OmegaT peut segmenter un texte de deux façons différentes : par paragraphe ou par phrase (on appelle également cela une « segmentation basée sur des règles »).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT highlights</seg>
       </tuv>
       <tuv lang="fr" changeid="etudiant_local" changedate="20130410T120835Z">
@@ -35910,6 +36638,14 @@ translation leveraging into updated projects.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT is a robust application.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T130515Z" creationid="suzume" creationdate="20211117T130515Z">
+        <seg>OmegaT est une application puissante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT is able to recognize that you have done this.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130527T133700Z">
@@ -35930,6 +36666,14 @@ translation leveraging into updated projects.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T023743Z" creationid="briac" creationdate="20170327T133619Z">
         <seg>OmegaT est un projet et une application open source.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT is available bundled with a Oracle Java JRE for Linux (Intel x86) and Windows platforms.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T131102Z" creationid="suzume" creationdate="20211117T131102Z">
+        <seg>OmegaT est fourni avec l'environnement d'exécution Java JRE distribué par Oracle pour Linux (Intel x86) et les plateformes Windows.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36200,6 +36944,14 @@ selecting, obtaining and installing it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT remembers the segments executed.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T145841Z" creationid="suzume" creationdate="20211117T145841Z">
+        <seg>OmegaT se souvient des segments déjà parcourus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT requires the Java Runtime Environment (JRE) version 1.8 or higher to be
 installed on your system.</seg>
       </tuv>
@@ -36245,6 +36997,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130527T131408Z">
         <seg>OmegaT prend en charge deux logiciels populaires de gestion des versions, &lt;u0&gt;Apache Subversion&lt;/u0&gt; (souvent abrégé SVN, d'après le nom de la commande svn) et &lt;u1&gt;Git&lt;/u1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT tags in RTL segments</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T075008Z" creationid="suzume" creationdate="20211117T075008Z">
+        <seg>OmegaT Les balises dans les segments RTL</seg>
       </tuv>
     </tu>
     <tu>
@@ -36343,6 +37103,14 @@ installed on your system.</seg>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z" creationid="Didier" creationdate="20161116T095615Z">
         <seg>OmegaT utilise les bibliothèques suivantes :
 {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT uses the following sequence of steps:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T074417Z" creationid="suzume" creationdate="20211117T074417Z">
+        <seg>OmegaT passe par les étapes suivantes :</seg>
       </tuv>
     </tu>
     <tu>
@@ -36473,6 +37241,14 @@ with exactly the same structure, including copies of any non-supported files.</s
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210503T231002Z">
         <seg>OmegaT copie le fichier sélectionné dans le dossier &lt;f2&gt;./source&lt;/f2&gt; du projet que vous venez de créer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT will then copy the selected files to the &lt;f2&gt;source&lt;/f2&gt; subfolder of your newly created project.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T145351Z" creationid="suzume" creationdate="20211117T145351Z">
+        <seg>OmegaT copie le fichier sélectionné dans le dossier &lt;f2&gt;source&lt;/f2&gt; du projet que vous venez de créer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36720,6 +37496,22 @@ kolteki later.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Once OmegaT is installed, you can click on &lt;f0&gt;OmegaT.jar&lt;/f0&gt; to launch it directly or you can launch it directly from the command line.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T130910Z" creationid="suzume" creationdate="20211117T130910Z">
+        <seg>Une fois OmegaT installé, cliquez sur &lt;f0&gt;OmegaT.jar&lt;/f0&gt; pour l'exécuter ou lancez-le directement depuis la ligne de commande.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Once OmegaT is installed, you can launch it directly from the command line, you can create a script that includes launch parameters for the command line or you can click on &lt;f0&gt;OmegaT.jar&lt;/f0&gt; to launch it directly.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T131122Z" creationid="suzume" creationdate="20211117T131122Z">
+        <seg>Une fois OmegaT installé, vous pouvez le lancer directement à partir de la ligne de commande, créer un script qui contient les paramètres de lancement de la ligne de commande ou encore cliquer sur &lt;f0&gt;OmegaT.jar&lt;/f0&gt; pour le lancer directement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Once a user has formulated a proposed change or enhancement to OmegaT, a defined procedure exists for its submission to the development team for consideration.</seg>
       </tuv>
       <tuv lang="fr">
@@ -36846,6 +37638,14 @@ install virtualenv</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210110T124138Z" creationid="suzume" creationdate="20210110T124138Z">
         <seg>Ceci fait, vous pouvez supprimer le fichier&lt;f4&gt;OmegaT_4.n.n_Mac.zip&lt;/f4&gt;, il n'est plus utile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Once you have made certain that there are no tag errors in your translation, press &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;D&lt;/k2&gt;&lt;/k0&gt; to generate the target files, which will be created in the &lt;f3&gt;target&lt;/f3&gt; subfolder of your project folder.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T145609Z" creationid="suzume" creationdate="20211117T145609Z">
+        <seg>Après avoir vérifié que votre traduction ne contient pas d'erreur de balises, générez les fichiers cibles (raccourci clavier &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;D&lt;/k2&gt;&lt;/k0&gt;) dans le dossier &lt;f3&gt;target&lt;/f3&gt; du projet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37160,6 +37960,14 @@ happen should you file a bug report.</seg>
       </tuv>
       <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210513T092150Z">
         <seg>Ouvrir le fichier &lt;f0&gt;.UTF8&lt;/f0&gt; généré dans &lt;f1&gt;./target&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open the &lt;f0&gt;.UTF8&lt;/f0&gt; file generated in the &lt;f1&gt;target&lt;/f1&gt; folder.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T145856Z" creationid="suzume" creationdate="20211117T145856Z">
+        <seg>Ouvrir le fichier &lt;f0&gt;.UTF8&lt;/f0&gt; généré dans &lt;f1&gt;target&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -37729,6 +38537,14 @@ Afficher des informations sur l'utilisation.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210110T122802Z" creationid="suzume" creationdate="20210110T122802Z">
         <seg>Autres icônes : recherchez et accédez au sous-dossier &lt;f0&gt;/images&lt;/f0&gt; situé dans le dossier d'application &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Other Icons - Browse, and navigate to the &lt;f0&gt;images&lt;/f0&gt; subfolder in the OmegaT application folder.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T130942Z" creationid="suzume" creationdate="20211117T130942Z">
+        <seg>Autres icônes : recherchez et accédez au sous-dossier &lt;f0&gt;images&lt;/f0&gt; situé dans le dossier d'application OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38929,6 +39745,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Plugins are installed in the &lt;f0&gt;plugins&lt;/f0&gt; folder under the OmegaT installation folder or the platform-specific OmegaT user preferences folder.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T074737Z" creationid="suzume" creationdate="20211117T074737Z">
+        <seg>Les modules d'extension sont installés dans le dossier &lt;f0&gt;/plugins&lt;/f0&gt; à l'intérieur du dossier d'installation d'OmegaT ou dans le dossier des préférences utilisateur d'OmegaT, spécifique à chaque plateforme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Plugins&lt;/p0&gt; &lt;s1&gt;LanguageTool</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20190429T131320Z" creationid="briac" creationdate="20190429T131320Z">
@@ -39157,6 +39981,14 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Press &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;M&lt;/k2&gt;&lt;/k0&gt; to replace the translation of the current segment with the suggested translation.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T150707Z" creationid="suzume" creationdate="20211117T150707Z">
+        <seg>Appuyer sur &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;M&lt;/k2&gt;&lt;/k0&gt; permet de remplacer la traduction du segment en cours par la traduction suggérée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Press &lt;k0&gt;Ctrl+M &lt;/k0&gt;to replace the translation of the current segment with the suggested translation.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130507T123255Z">
@@ -39217,6 +40049,14 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210204T075436Z" creationid="suzume" creationdate="20210204T075423Z">
         <seg>Pressez la barre d'espace (raccourci pour &lt;m0&gt; &lt;g1&gt;Edit&lt;/g1&gt; &lt;g2&gt;Démarrer l'alignement précis&lt;/g2&gt; &lt;/m0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Press the space bar (shortcut for &lt;m0&gt;&lt;g1&gt;Edit&lt;/g1&gt;&lt;g2&gt;Start Pinpoint Align&lt;/g2&gt; &lt;/m0&gt;).</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T151359Z" creationid="suzume" creationdate="20211117T151359Z">
+        <seg>Pressez la barre d'espace (raccourci pour &lt;m0&gt;&lt;g1&gt;Edit&lt;/g1&gt;&lt;g2&gt;Démarrer l'alignement précis&lt;/g2&gt;&lt;/m0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -40035,6 +40875,22 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
       </tuv>
       <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210520T144458Z" creationid="Didier" creationdate="20160718T155919Z">
         <seg>Placez la TMX dans ./tm/enforce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Put the TMX in &lt;f0&gt;tm/auto&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T151127Z" creationid="suzume" creationdate="20211117T151127Z">
+        <seg>Placez la TMX dans &lt;f0&gt;tm/auto&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Put the TMX in &lt;f0&gt;tm/enforce&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T151156Z" creationid="suzume" creationdate="20211117T151156Z">
+        <seg>Placez la TMX dans &lt;f0&gt;tm/enforce&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41468,6 +42324,14 @@ ces mots : « pas de page »...</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Restart</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T145910Z" creationid="suzume" creationdate="20211117T145910Z">
+        <seg>&amp;Redémarer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Restart OmegaT to apply these changes</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210731T155030Z" creationid="suzume" creationdate="20210731T155030Z">
@@ -41828,6 +42692,14 @@ ces mots : « pas de page »...</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Run OmegaT normally (with the GUI) and specify the settings.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T145015Z" creationid="suzume" creationdate="20211117T145015Z">
+        <seg>Exécutez OmegaT normalement (avec l'interface graphique) et précisez les paramètres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Run script on slot #{0}.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20111111T130150Z">
@@ -41848,6 +42720,14 @@ ces mots : « pas de page »...</seg>
       </tuv>
       <tuv lang="fr" changeid="brigitte" changedate="20130713T084054Z">
         <seg>Exécution d'&lt;a0&gt;OmegaT&lt;i1/&gt;&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Running OmegaT</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T130905Z" creationid="suzume" creationdate="20211117T130905Z">
+        <seg>Exécution d'OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -42322,6 +43202,22 @@ REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130421T112044Z">
         <seg>Enregistre le projet et ferme &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Saves the project and quits OmegaT.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T145915Z" creationid="suzume" creationdate="20211117T145915Z">
+        <seg>Enregistre le projet et ferme OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Saves the project and restarts OmegaT.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T145937Z" creationid="suzume" creationdate="20211117T145913Z">
+        <seg>Enregistre le projet et redémare OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42884,6 +43780,14 @@ La recherche port par défaut sur le projet, et peut porter sur tout fichier sit
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130507T114327Z">
         <seg>Voir &lt;e2&gt;Options de la ligne d'édition&lt;/e2&gt; pour plus de détails.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See &lt;e4&gt;Translation editing&lt;/e4&gt; for more details.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T150613Z" creationid="suzume" creationdate="20211117T150613Z">
+        <seg>Voir &lt;e4&gt;Options de la ligne d'édition&lt;/e4&gt; pour plus de détails.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43781,6 +44685,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select the &lt;f1&gt;OmegaT.png&lt;/f1&gt; icon.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T130944Z" creationid="suzume" creationdate="20211117T130944Z">
+        <seg>Choisissez l'icône &lt;f1&gt;OmegaT.png&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select the &lt;f2&gt;OmegaT.png&lt;/f2&gt; icon.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210110T122819Z" creationid="suzume" creationdate="20210110T122819Z">
@@ -44397,6 +45309,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Should you lose track of your changes to the user interface, you can use &lt;m0&gt;&lt;g1&gt;Options&lt;/g1&gt;&lt;g2&gt;Restore Main Window&lt;/g2&gt;&lt;/m0&gt; any time to return to the original layout.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T150545Z" creationid="suzume" creationdate="20211117T150545Z">
+        <seg>Vous pouvez à tout moment aller dans &lt;m0&gt;&lt;g1&gt;Options&lt;/g1&gt;&lt;g2&gt;Réinitialiser la fenêtre principale&lt;/g2&gt;&lt;/m0&gt; pour retrouver la disposition d'origine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Should you need more specific information, consult the &lt;u0&gt;Java Regex documentation&lt;/u0&gt;.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130506T122627Z">
@@ -44409,6 +45329,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130506T074810Z">
         <seg>En cas de problème, publiez un message dans le &lt;u0&gt;groupe d'utilisateurs &lt;a1&gt;OmegaT&lt;/a1&gt;&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Should you run into problems, post a message in the &lt;u0&gt;OmegaT user group&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T130626Z" creationid="suzume" creationdate="20211117T130626Z">
+        <seg>En cas de problème, publiez un message dans le &lt;u0&gt;groupe d'utilisateurs OmegaT&lt;/u0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44841,6 +45769,14 @@ Traduction supprimée car ne concerne pas le français.</note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>So, if the user's operating system is Russian and OmegaT has been localized in Russian, OmegaT is displayed with a Russian user interface, Russian menus, etc.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T131309Z" creationid="suzume" creationdate="20211117T131309Z">
+        <seg>Ainsi, si le système d'exploitation de l'utilisateur est en russe et qu'OmegaTa été traduit en russe, OmegaT est affiché avec une interface utilisateur en russe, des menus en russe, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Social Networks</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20190222T085234Z" creationid="Didier" creationdate="20190222T085234Z">
@@ -45230,6 +46166,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
       </tuv>
       <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210518T114006Z">
         <seg>Les masques de nom de fichier source utilisent des caractères génériques similaires à ceux utilisés dans &lt;e2&gt; Rechercher...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source filename patterns use wild card characters similar to those used in &lt;e3&gt;Searches&lt;/e3&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T074329Z" creationid="suzume" creationdate="20211117T074329Z">
+        <seg>Les masques de nom de fichier source utilisent des caractères génériques similaires à ceux utilisés dans &lt;e3&gt;Rechercher...&lt;/e3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -46014,6 +46958,14 @@ and then start OmegaT.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210202T071815Z" creationid="suzume" creationdate="20210202T071815Z">
         <seg>Les clics suivants sur &lt;f1&gt;OmegaT.jnlp&lt;/f1&gt; vérifieront l'existence de mises à jour, les installeront le cas échéant et démarreront ensuite &lt;a2&gt;OmegaT&lt;/a2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Subsequent clicks on &lt;f1&gt;OmegaT.jnlp&lt;/f1&gt; will check for any upgrades, install them, if there are any, and then start OmegaT.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T131124Z" creationid="suzume" creationdate="20211117T131124Z">
+        <seg>Les clics suivants sur &lt;f1&gt;OmegaT.jnlp&lt;/f1&gt; vérifieront l'existence de mises à jour, les installeront le cas échéant et démarreront ensuite OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46916,6 +47868,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Take particular care when making changes to the files in &lt;f0&gt;source&lt;/f0&gt; while in the middle of a project.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T130609Z" creationid="suzume" creationdate="20211117T130609Z">
+        <seg>Faites particulièrement attention si vous apportez des modifications aux fichiers du dossier &lt;f0&gt;source&lt;/f0&gt; alors que vous êtes au milieu d'un projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Take particular care when making changes to the files in &lt;l0&gt;/source&lt;/l0&gt; while in the middle of a project.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210503T231949Z">
@@ -47616,6 +48576,14 @@ form of a work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The '*' character matches zero or more characters.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T074335Z" creationid="suzume" creationdate="20211117T074335Z">
+        <seg>Le caractère « * » correspond à zéro, un ou plusieurs caractères.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The '?' character matches exactly one character ('run?' would match 'runs' and 'rung', for example, but not 'run' or 'running').</seg>
       </tuv>
       <tuv lang="fr">
@@ -47704,10 +48672,26 @@ form of a work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;f0&gt;omegat&lt;/f0&gt; subfolder contains at least one and possibly several other files.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T151228Z" creationid="suzume" creationdate="20211117T151228Z">
+        <seg>Le sous-dossier &lt;f0&gt;omegat&lt;/f0&gt; contient au moins un fichier (peut en contenir plus).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;f0&gt;project_stats.txt&lt;/f0&gt; located in the omegat folder of your project contains more detailed segment information, broken down by file.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130507T125128Z">
         <seg>Le fichier &lt;f0&gt;project_stats.txt&lt;/f0&gt; situé dans le dossier omegat de votre projet contient des informations plus détaillées sur les segments. Celles-ci sont séparées par fichier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f0&gt;tm&lt;/f0&gt; folder can contain any number of ancillary translation memories - i.e. tmx files.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T150832Z" creationid="suzume" creationdate="20211117T150832Z">
+        <seg>Le dossier &lt;f0&gt;tm&lt;/f0&gt; peut contenir un nombre illimité de mémoires de traduction secondaires - c'est-à-dire de fichiers TMX.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47788,6 +48772,14 @@ form of a work.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210202T072837Z" creationid="suzume" creationdate="20210202T072837Z">
         <seg>L'argument &lt;l0&gt;-Duser.language=&lt;p1&gt;XX&lt;/p1&gt;&lt;/l0&gt; oblige &lt;a2&gt;OmegaT&lt;/a2&gt; à utiliser la langue spécifiée plutôt que la langue du système d'exploitation de l'utilisateur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;l0&gt;-Duser.language=&lt;p1&gt;XX&lt;/p1&gt;&lt;/l0&gt; argument causes OmegaT to use the language specified rather than the language of the user's operating system.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T131333Z" creationid="suzume" creationdate="20211117T131333Z">
+        <seg>L'argument &lt;l0&gt;-Duser.language=&lt;p1&gt;XX&lt;/p1&gt;&lt;/l0&gt; oblige OmegaT à utiliser la langue spécifiée plutôt que la langue du système d'exploitation de l'utilisateur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48694,6 +49686,14 @@ shown below.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The command to launch OmegaT with assignment of 2048 MB (2 GB) of memory is therefore:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T145007Z" creationid="suzume" creationdate="20211117T145007Z">
+        <seg>La commande de lancement d'OmegaT lui attribuant une mémoire de 2048 Mo (2 gigaoctets) est donc :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The computer, running OmegaT, has Russian as the default language, and thus shows the characters in the Cyrillic alphabet and not in Kanji.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130506T075609Z">
@@ -48780,6 +49780,22 @@ utilisé à la place.</seg>
       </tuv>
       <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210520T094840Z">
         <seg>Le contenu du sous-dossier target (cible) montre l'état actuel de la traduction, telle qu'on la trouve dans la mémoire de traduction du projet (qui est sauvegardée dans le fichier &lt;e8&gt;./omegat/project_save.tmx&lt;/e8&gt; en cours).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The contents of the target subfolder will reflect the current state of the translation, as present in the project translation memory, saved in the current &lt;f8&gt;/omegat/project_save.tmx&lt;/f8&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T150820Z" creationid="suzume" creationdate="20211117T150820Z">
+        <seg>Le contenu du sous-dossier target (cible) montre l'état actuel de la traduction, telle qu'on la trouve dans la mémoire de traduction du projet (qui est sauvegardée dans le fichier &lt;f8&gt;/omegat/project_save.tmx&lt;/f8&gt; en cours).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The contents of translation memories in the &lt;f0&gt;tm&lt;/f0&gt; subfolder serve to generate suggestions for the text(s) to be translated.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T150840Z" creationid="suzume" creationdate="20211117T150840Z">
+        <seg>Le contenu des mémoires de traduction du sous-dossier &lt;f0&gt;tm&lt;/f0&gt; sert à créer des suggestions pour le(s) texte(s) à traduire.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49074,6 +50090,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The entry &lt;g5&gt;Remove translation&lt;/g5&gt; in the same pop up menu also allows to delete the existing translation of the current segment.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T074601Z" creationid="suzume" creationdate="20211117T074601Z">
+        <seg>Dans le même menu, l'entrée &lt;g5&gt;Supprimer la traduction&lt;/g5&gt; vous permet également de supprimer la traduction existante du segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The entry will be greyed, if there's just one translation available.</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130421T165006Z">
@@ -49086,6 +50110,14 @@ instead.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210207T052410Z">
         <seg>Le caractère d'échappement (« \u001B »)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The exported contents are copied to the file &lt;f0&gt;selection.txt&lt;/f0&gt; located in the User's preference files folder.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T145837Z" creationid="suzume" creationdate="20211117T145837Z">
+        <seg>Le contenu exporté est copié dans le fichier &lt;f0&gt;selection.txt&lt;/f0&gt; situé dans le dossier de fichiers des préférences utilisateur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49174,6 +50206,14 @@ instead.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210503T231756Z">
         <seg>Les fichiers apparaissent dans le sous-dossier ./script situé dans le dossier de fichiers utilisateur d'OmegaT et comprennent :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The files appear in the &lt;f0&gt;script&lt;/f0&gt; subfolder in the OmegaT user files folder, and include:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T074624Z" creationid="suzume" creationdate="20211117T074624Z">
+        <seg>Les fichiers apparaissent dans le sous-dossier &lt;f0&gt;script&lt;/f0&gt; situé dans le dossier de fichiers utilisateur d'OmegaT et comprennent :</seg>
       </tuv>
     </tu>
     <tu>
@@ -50017,6 +51057,22 @@ freedom to share and change it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The most important file here is the &lt;f1&gt;project_save.tmx&lt;/f1&gt;, that is the working translation memory for the project.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T151232Z" creationid="suzume" creationdate="20211117T151232Z">
+        <seg>Le fichier le plus important est &lt;f1&gt;project_save.tmx, &lt;/f1&gt; Il s'agit de la mémoire de traduction du projet actuellement travaillée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The most important is &lt;l0&gt;/path/to/project&lt;/l0&gt;, and optionally &lt;l1&gt;--config-dir=&lt;p2&gt;/path/to/config-files/&lt;/p2&gt;&lt;/l1&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T145119Z" creationid="suzume" creationdate="20211117T145119Z">
+        <seg>Le plus important est &lt;l0&gt;/chemin/du/projet&lt;/l0&gt;, et, facultativement, &lt;l1&gt; --config-dir=&lt;p2&gt;/chemin/du/dossier_de_configuration&lt;/p2&gt;&lt;/l1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The most important is &lt;l1&gt;/path/to/project&lt;/l1&gt;, and optionally &lt;l2&gt;--config-dir=&lt;p3&gt;/path/to/config-files/&lt;/p3&gt;&lt;/l2&gt;.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210207T053353Z" creationid="suzume" creationdate="20210202T072954Z">
@@ -50598,6 +51654,14 @@ modification follow.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The relevant files are &lt;f0&gt;filters.conf&lt;/f0&gt; and &lt;f1&gt;segmentation.conf&lt;/f1&gt; and can be found in the user home folder (e.g. &lt;f2&gt;C:\Documents and Settings\&lt;p3&gt;user&lt;/p3&gt;\OmegaT&lt;/f2&gt; under Windows, &lt;f4&gt;~/.omegat/&lt;/f4&gt; under Linux).</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T145111Z" creationid="suzume" creationdate="20211117T145111Z">
+        <seg>Les fichiers importants sont &lt;f0&gt;filters.conf&lt;/f0&gt; et &lt;f1&gt;segmentation.conf&lt;/f1&gt; et sont situés dans le dossier personnel de l'utilisateur (soit dans &lt;f2&gt;C:\Documents and Settings\&lt;p3&gt;user&lt;/p3&gt;\OmegaT&lt;/f2&gt; sous Windows, &lt;f4&gt;~/.omegat/&lt;/f4&gt; sous Linux).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The relevant files are &lt;f2&gt;filters.conf&lt;/f2&gt; and &lt;f3&gt;segmentation.conf&lt;/f3&gt; and can be found in the user home folder (e.g. &lt;f4&gt;C:\Documents and Settings\&lt;p5&gt;user&lt;/p5&gt;\OmegaT&lt;/f4&gt; under Windows, &lt;f6&gt;~/.omegat/&lt;/f6&gt; under Linux).</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210313T141140Z" creationid="suzume" creationdate="20210202T072907Z">
@@ -50828,6 +51892,14 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The second command is the command which actually launches OmegaT.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T131235Z" creationid="suzume" creationdate="20211117T131235Z">
+        <seg>La seconde commande est la commande qui lance vraiment OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The second of these chapters describes the various subfolders and files in a translation project and their role as well as other user and application files associated with OmegaT.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130410T140240Z">
@@ -50864,6 +51936,14 @@ protocols for communication across the network.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20141202T214001Z">
         <seg>Les paramètres de segmentation n'affectent que la façon dont les fichiers source sont traités par &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The segmentation settings only address the way the source files are handled by OmegaT.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T074757Z" creationid="suzume" creationdate="20211117T074757Z">
+        <seg>Les paramètres de segmentation n'affectent que la façon dont les fichiers source sont traités par OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51000,6 +52080,14 @@ protocols for communication across the network.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130502T093620Z">
         <seg>La façon la plus simple de lancer OmegaT reste toutefois d'exécuter le programme&lt;e0&gt; &lt;a1&gt;OmegaT&lt;/a1&gt;.exe&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The solution in our example is to copy the existing translation memory into the &lt;f0&gt;tm/tmx2source/&lt;/f0&gt; subfolder and rename it to ZH_CN.tmx to indicate the target language of the tmx.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T130855Z" creationid="suzume" creationdate="20211117T130834Z">
+        <seg>Dans cet exemple, la solution consiste à copier la mémoire de traduction déjà existante dans le sous-dossier &lt;f0&gt;tm/tmx2source/&lt;/f0&gt; et de la renommer ZH_CN.tmx pour indiquer la langue cible de la TMX.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51332,6 +52420,22 @@ L'idée était que l'utilisation de certaines touches en dehors du segment coura
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130528T131538Z">
         <seg>Cette fonction d'exportation dans des fichiers texte exporte des données depuis le projet &lt;a0&gt;OmegaT&lt;/a0&gt; en cours dans des fichiers de texte brut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The text export function exports data from within the current OmegaT project to plain text files.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T074611Z" creationid="suzume" creationdate="20211117T074611Z">
+        <seg>Cette fonction d'exportation dans des fichiers texte exporte des données depuis le projet OmegaT en cours dans des fichiers de texte brut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The text highlighted by the user, when &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;Shift&lt;/k2&gt;&lt;k3&gt;C&lt;/k3&gt;&lt;/k0&gt; is pressed or &lt;m4&gt;&lt;g5&gt;Edit&lt;/g5&gt;&lt;g6&gt;Export Selection&lt;/g6&gt;&lt;/m4&gt; is selected (&lt;f7&gt;selection.txt&lt;/f7&gt;).</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T074734Z" creationid="suzume" creationdate="20211117T074734Z">
+        <seg>Le texte mis en surbrillance par l'utilisateur lorsque les touches &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;Shift&lt;/k2&gt;&lt;k3&gt;C&lt;/k3&gt;&lt;/k0&gt; sont appuyées ou lorsque &lt;m4&gt;&lt;g5&gt;Edition&lt;/g5&gt;&lt;g6&gt;Exporter la sélection&lt;/g6&gt;&lt;/m4&gt; est sélectionné (&lt;f7&gt;selection.txt&lt;/f7&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -51881,6 +52985,14 @@ the [Help] menu after starting OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>There are two ways of launching OmegaT using the command line.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T131141Z" creationid="suzume" creationdate="20211117T131141Z">
+        <seg>Il existe deux façons de lancer OmegaT en utilisant la ligne de commande.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There is however considerable scope within the project for users to suggest improvements and influence the course of future development.</seg>
       </tuv>
       <tuv lang="fr">
@@ -51961,6 +53073,14 @@ the Program or works based on it.</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130419T190853Z">
         <seg>En conséquence, en modifiant ou distribuant le Programme (ou un ouvrage quelconque fondé sur le Programme), vous signifiez votre acceptation de la présente Licence en le faisant, et de toutes ses conditions concernant la copie, la distribution ou la modification du Programme ou d'ouvrages fondés sur lui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Therefore, press &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;Shift&lt;/k2&gt;&lt;k3&gt;V&lt;/k3&gt;&lt;/k0&gt; before you generate your translated files, to validate that your tags are correct.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T145545Z" creationid="suzume" creationdate="20211117T145545Z">
+        <seg>Par conséquent, assurez-vous que vos balises sont correctes et validez-les avant de générer les fichiers traduits (raccourci clavier &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;Shift&lt;/k2&gt;&lt;k3&gt;V&lt;/k3&gt;&lt;/k0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -52226,6 +53346,14 @@ pas de page...</seg>
       </tuv>
       <tuv lang="fr" changeid="mdesfray" changedate="20170904T102233Z" creationid="mdesfray" creationdate="20170901T145652Z">
         <seg>Ils contiennent des informations de mise en forme du texte qu'&lt;a0&gt;OmegaT&lt;/a0&gt; ne peut pas réutiliser pour créer les fichiers cible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They contain text formatting information, but such information cannot be reused by OmegaT in order to create target files.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T130858Z" creationid="suzume" creationdate="20211117T130858Z">
+        <seg>Ils contiennent des informations de mise en forme du texte qu'OmegaT ne peut pas réutiliser pour créer les fichiers cible.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52584,6 +53712,14 @@ under the terms of this General Public License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This command changes the folder to the folder containing the executable OmegaT file.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T131234Z" creationid="suzume" creationdate="20211117T131234Z">
+        <seg>Cette commande passe au dossier qui contient le fichier exécutable OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This command does not work once the modified segment has been validated.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130503T091140Z">
@@ -52644,6 +53780,14 @@ under the terms of this General Public License.</seg>
       </tuv>
       <tuv lang="fr" changeid="brigitte" changedate="20130714T145533Z">
         <seg>Ceci crée un dossier &lt;e2&gt;./OmegaT_3.n.n_Without_JRE/&lt;/e2&gt; dans le dossier de travail en cours avec tous les fichiers nécessaires à l'exécution d'&lt;a3&gt;OmegaT&lt;/a3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This creates an &lt;f1&gt;./OmegaT_4.n.n_Without_JRE/&lt;/f1&gt; folder in the working folder with all the files necessary to run OmegaT.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T131117Z" creationid="suzume" creationdate="20211117T131117Z">
+        <seg>Ceci crée un dossier &lt;f1&gt;./OmegaT_4.n.n_Without_JRE/&lt;/f1&gt; dans le dossier de travail en cours avec tous les fichiers nécessaires à l'exécution d'OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53366,6 +54510,14 @@ this version will not interfere with it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This option allows you to enter the translation without the need to remove the source text, thus saving you two keystrokes (&lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;A&lt;/k2&gt;&lt;/k0&gt; and &lt;k3&gt;Del&lt;/k3&gt;).</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T074536Z" creationid="suzume" creationdate="20211117T074536Z">
+        <seg>Cette option vous permet de saisir la traduction sans avoir besoin de supprimer le texte source, ce qui vous évite ainsi de devoir faire deux frappes de touches supplémentaires (&lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;A&lt;/k2&gt;&lt;/k0&gt; et &lt;k3&gt;Suppr&lt;/k3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This option displays &lt;u0&gt;bidirectional control characters"&lt;/u0&gt;</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20141202T180649Z" creationid="Didier" creationdate="20141202T180649Z">
@@ -53635,10 +54787,26 @@ be a consequence of the rest of this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This will create a full distribution of OmegaT in the &lt;f0&gt;./build/distributions&lt;/f0&gt; folder, where you will find a zip containing everything needed to run OmegaT.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T145330Z" creationid="suzume" creationdate="20211117T145330Z">
+        <seg>Cela créera une distribution complète d'OmegaT dans le dossier &lt;f0&gt;./build/distributions&lt;/f0&gt; dans lequel vous trouverez tous les fichiers nécessaires à l'exécution d'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This will create an &lt;f0&gt;omegat/&lt;/f0&gt; folder in the working folder in which you will find all the files needed to run &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210110T122720Z" creationid="suzume" creationdate="20210110T122720Z">
         <seg>Cela va créer un dossier &lt;f0&gt;omegat/&lt;/f0&gt; (dans le dossier de travail en cours) à l'intérieur duquel vous trouverez tous les fichiers nécessaires à l'exécution d'&lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This will create an &lt;f0&gt;omegat&lt;/f0&gt; folder in the working folder in which you will find all the files needed to run OmegaT.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T130913Z" creationid="suzume" creationdate="20211117T130913Z">
+        <seg>Cela va créer un dossier &lt;f0&gt;omegat/&lt;/f0&gt; (dans le dossier de travail en cours) à l'intérieur duquel vous trouverez tous les fichiers nécessaires à l'exécution d'OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53929,6 +55097,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To access this window, select &lt;m0&gt;&lt;g1&gt;Tools&lt;/g1&gt;&lt;g2&gt;Align Files...&lt;/g2&gt;&lt;/m0&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T151348Z" creationid="suzume" creationdate="20211117T151348Z">
+        <seg>Pour accéder à cette fenêtre, sélectionnez &lt;m0&gt;&lt;g1&gt;Outils&lt;/g1&gt;&lt;g2&gt;Aligner des fichiers...&lt;/g2&gt;&lt;/m0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To activate any of the Machine Translation services, go to &lt;g0&gt;Options &gt; Machine Translate ...&lt;/g0&gt; and activate the service desired.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130527T151603Z">
@@ -53941,6 +55117,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20201203T085114Z" creationid="suzume" creationdate="20201203T085114Z">
         <seg>Pour ajouter un nouveau masque de nom de fichier, cliquez sur &lt;e1&gt;Ajouter&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To add a new file filter pattern, click &lt;g1&gt;Add&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T074254Z" creationid="suzume" creationdate="20211117T074254Z">
+        <seg>Pour ajouter un nouveau masque de nom de fichier, cliquez sur &lt;g1&gt;Ajouter&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54145,6 +55329,14 @@ Pour l'espace fine, il râle à cause de "&lt;!--" et il veut en faire "&lt; ! -
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To check everything is as expected, you may press &lt;k6&gt;&lt;k7&gt;Ctrl&lt;/k7&gt;&lt;k8&gt;D&lt;/k8&gt;&lt;/k6&gt; to create the target documents and check their contents.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T130832Z" creationid="suzume" creationdate="20211117T130832Z">
+        <seg>Pour vérifier que tout est comme vous le souhaitez, appuyez sur &lt;k6&gt;&lt;k7&gt;Ctrl&lt;/k7&gt;&lt;k8&gt;D&lt;/k8&gt;&lt;/k6&gt; pour créer les documents cibles et vérifier leur contenu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To check their syntax and their applicability, it is advisable to use tools which allow you to see their effect directly.</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130423T201334Z">
@@ -54213,6 +55405,14 @@ Pour l'espace fine, il râle à cause de "&lt;!--" et il veut en faire "&lt; ! -
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210129T162148Z">
         <seg>Pour créer une traduction vide, faites un clic droit dans un des segments et sélectionnez « &lt;e2&gt;Enregistrer une traduction vide&lt;/e2&gt; ».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To create one, right-click in a segment, and select &lt;g4&gt;Set empty translation&lt;/g4&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T074554Z" creationid="suzume" creationdate="20211117T074554Z">
+        <seg>Pour créer une traduction vide, faites un clic droit dans un des segments et sélectionnez « &lt;g4&gt;Enregistrer une traduction vide&lt;/g4&gt; ».</seg>
       </tuv>
     </tu>
     <tu>
@@ -54444,6 +55644,22 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To install OmegaT, double-click on the program you have downloaded.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T130904Z" creationid="suzume" creationdate="20211117T130904Z">
+        <seg>Pour installer OmegaT, double-cliquez sur le programme que vous avez téléchargé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To install OmegaT, simply unpack the &lt;f0&gt;OmegaT_4.n.n_Without_JRE.zip&lt;/f0&gt; file.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T131112Z" creationid="suzume" creationdate="20211117T131112Z">
+        <seg>Pour installer OmegaT, il suffit de décompresser le fichier &lt;f0&gt;OmegaT_4.n.n_Without_JRE.zip&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To install spelling dictionaries, follow this procedure:</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
@@ -54509,10 +55725,26 @@ as a Source Forge user.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To launch OmegaT with a French interface (for example on a Russian operating system), the command would therefore be:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T144955Z" creationid="suzume" creationdate="20211117T144955Z">
+        <seg>Pour lancer OmegaT avec une interface en français (pour un système d'exploitation russe par exemple), la commande serait donc :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To launch OmegaT, you must launch this file either from the command line or from your file manager, usually by double-clicking it.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130528T131620Z">
         <seg>Pour lancer OmegaT, vous devez lancer ce fichier, soit à partir de la ligne de commande, soit à partir de votre gestionnaire de fichiers, généralement en double-cliquant dessus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To launch OmegaT, you must normally type two commands.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T131148Z" creationid="suzume" creationdate="20211117T131148Z">
+        <seg>Pour lancer OmegaT, vous ne devez normalement saisir que deux commandes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54593,6 +55825,14 @@ as a Source Forge user.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20201203T085111Z" creationid="suzume" creationdate="20201203T085111Z">
         <seg>Pour modifier un masque de filtre de fichier, modifiez directement les champs concernés ou cliquez sur &lt;e0&gt;Modifier...&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To modify a file filter pattern, either modify the fields directly or click &lt;g0&gt;Edit&lt;/g0&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T074252Z" creationid="suzume" creationdate="20211117T074252Z">
+        <seg>Pour modifier un masque de filtre de fichier, modifiez directement les champs concernés ou cliquez sur &lt;g0&gt;Modifier...&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54707,6 +55947,14 @@ you modify it: responsibilities to respect the freedom of others.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To remind yourself of the project's initial settings, open the project properties dialog by pressing &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;E&lt;/k2&gt;&lt;/k0&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T145620Z" creationid="suzume" creationdate="20211117T145620Z">
+        <seg>Vous pouvez revoir les réglages du projet dans la fenêtre Modifier le projet (raccourci clavier &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;E&lt;/k2&gt;&lt;/k0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To remind yourself of the project's initial settings, open the project properties dialog by pressing &lt;k0&gt;Ctrl+E&lt;/k0&gt;.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20141202T175533Z" creationid="Didier" creationdate="20141202T175533Z">
@@ -54747,6 +55995,14 @@ you modify it: responsibilities to respect the freedom of others.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To run OmegaT in the command line mode, a valid OmegaT project must be present.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T145014Z" creationid="suzume" creationdate="20211117T145014Z">
+        <seg>Pour exécuter OmegaT en mode ligne de commande, un projet OmegaT valide doit être présent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To run OmegaT with the tokenizer you need to specify which tokenizer you'll use for the source language and which tokenizer you'll use for the target language.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130429T071430Z">
@@ -54767,6 +56023,14 @@ you modify it: responsibilities to respect the freedom of others.</seg>
       </tuv>
       <tuv lang="fr" changeid="jchelary" changedate="20130526T124105Z">
         <seg>Vous pouvez afficher la liste des fichiers du projet dans la fenêtre &lt;g1&gt;Fichiers du projet&lt;/g1&gt; (raccourci clavier &lt;k2&gt;Ctrl+L&lt;/k2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To see a list of files in the project, open the &lt;g3&gt;Project Files&lt;/g3&gt; dialog by pressing &lt;k4&gt;&lt;k5&gt;Ctrl&lt;/k5&gt;&lt;k6&gt;L&lt;/k6&gt;&lt;/k4&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T145640Z" creationid="suzume" creationdate="20211117T145640Z">
+        <seg>Vous pouvez afficher la liste des fichiers du projet dans la fenêtre &lt;g3&gt;Fichiers du projet&lt;/g3&gt; (raccourci clavier &lt;k4&gt;&lt;k5&gt;Ctrl&lt;/k5&gt;&lt;k6&gt;L&lt;/k6&gt;&lt;/k4&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -54807,6 +56071,14 @@ you modify it: responsibilities to respect the freedom of others.</seg>
       </tuv>
       <tuv lang="fr" changeid="brigitte" changedate="20130714T125832Z">
         <seg>Pour lancer OmegaT pour la première fois avec Java Web Start, saisissez l'URL suivant dans votre navigateur :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To start OmegaT in console mode, some extra parameters have to be passed to it on startup.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T145113Z" creationid="suzume" creationdate="20211117T145113Z">
+        <seg>Pour démarrer OmegaT en mode console, des paramètres supplémentaires doivent y être ajoutés au démarrage.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54892,6 +56164,14 @@ read:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To untar the &lt;f1&gt;.tar.gz&lt;/f1&gt; file:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T130925Z" creationid="suzume" creationdate="20211117T130925Z">
+        <seg>Pour désarchiver le fichier &lt;f1&gt;.tar.gz&lt;/f1&gt; :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To untar the &lt;f2&gt;.tar.gz&lt;/f2&gt; file:</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210110T122729Z" creationid="suzume" creationdate="20210110T122729Z">
@@ -54955,6 +56235,14 @@ script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130528T124951Z">
         <seg>Pour utiliser la correspondance sélectionnée dans votre traduction, appuyez sur &lt;g5&gt;Ctrl+R&lt;/g5&gt;&lt;i6/&gt; pour remplacer la ligne d'édition par la correspondance ou appuyez sur &lt;g7&gt;Ctrl+I&lt;i8/&gt;&lt;/g7&gt; pour l'insérer à l'emplacement du curseur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To use the selected match in your translation, use &lt;k4&gt;&lt;k5&gt;Ctrl&lt;/k5&gt;&lt;k6&gt;R&lt;/k6&gt;&lt;/k4&gt; to replace the target field with the match or use &lt;k7&gt;&lt;k8&gt;Ctrl&lt;/k8&gt;&lt;k9&gt;I&lt;/k9&gt;&lt;/k7&gt; to insert it at the cursor position.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T150638Z" creationid="suzume" creationdate="20211117T150638Z">
+        <seg>Pour utiliser la correspondance sélectionnée dans votre traduction, appuyez sur &lt;k4&gt;&lt;k5&gt;Ctrl&lt;/k5&gt;&lt;k6&gt;R&lt;/k6&gt;&lt;/k4&gt; pour remplacer la ligne d'édition par la correspondance ou appuyez sur &lt;k7&gt;&lt;k8&gt;Ctrl&lt;/k8&gt;&lt;k9&gt;I&lt;/k9&gt;&lt;/k7&gt; pour l'insérer à l'emplacement du curseur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56483,6 +57771,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Until you are familiar with OmegaT, create translated files at regular intervals and check that the translated file contains the latest version of your translation.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T130602Z" creationid="suzume" creationdate="20211117T130602Z">
+        <seg>Jusqu'à ce que vous soyez familiarisés avec OmegaT, créez les fichiez traduits à intervalle régulier et vérifiez que ces fichiers contiennent la dernière version de votre traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Until you have some experience with OmegaT, it is safest to consider all settings final once the translation has started – unless of course you realize a major mistake has been made.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130506T113652Z">
@@ -56619,9 +57915,25 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Uploads to the repository the files that have been added or modified locally in the &lt;f0&gt;source&lt;/f0&gt; folder.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T145904Z" creationid="suzume" creationdate="20211117T145904Z">
+        <seg>Envoie au dépôt les fichiers qui ont été ajoutés ou modifiés localement dans le dossier &lt;f0&gt;source&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Uploads to the repository the files that have been created locally in the &lt;f0&gt;target&lt;/f0&gt; directory.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210203T153825Z" creationid="suzume" creationdate="20210203T153825Z">
+        <seg>Envoie au dépôt les fichiers qui ont été créés localement dans le dossier &lt;f0&gt;target&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Uploads to the repository the files that have been created locally in the &lt;f0&gt;target&lt;/f0&gt; folder.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T145906Z" creationid="suzume" creationdate="20211117T145906Z">
         <seg>Envoie au dépôt les fichiers qui ont été créés localement dans le dossier &lt;f0&gt;target&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
@@ -56815,6 +58127,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210110T131829Z" creationid="suzume" creationdate="20210110T131829Z">
         <seg>Utilisez &lt;k0&gt; &lt;k1&gt;Maj+&lt;/k1&gt;&lt;k2&gt;F3&lt;/k2&gt; &lt;/k0&gt; pour passer d'une option à l'autre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;L&lt;/k2&gt;&lt;/k0&gt; to open and &lt;k3&gt;Esc&lt;/k3&gt; to close it.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211118T122511Z" creationid="suzume" creationdate="20211118T122511Z">
+        <seg>Utilisez &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;L&lt;/k2&gt;&lt;/k0&gt; pour ouvrir cette fenêtre et &lt;k3&gt;Echap&lt;/k3&gt; pour la fermer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57015,6 +58335,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210507T112439Z" creationid="suzume" creationdate="20210202T064619Z">
         <seg>Utilisez le fichier &lt;f0&gt;OmegaT&lt;/f0&gt;.jar situé dans &lt;f1&gt;OmegaT.app/Contents/macOS/Java/&lt;/f1&gt; pour lancer &lt;a2&gt;OmegaT&lt;/a2&gt; à partir de la ligne de commande.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the &lt;f0&gt;OmegaT.jar&lt;/f0&gt; file located in &lt;f1&gt;OmegaT.app/Contents/MacOS/Java/&lt;/f1&gt; to launch OmegaT from the command line.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T131048Z" creationid="suzume" creationdate="20211117T131048Z">
+        <seg>Utilisez le fichier &lt;f0&gt;OmegaT&lt;/f0&gt;.jar situé dans &lt;f1&gt;OmegaT.app/Contents/macOS/Java/&lt;/f1&gt; pour lancer OmegaT à partir de la ligne de commande.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57454,6 +58782,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Users of other platforms (Linux PowerPC, Linux x64, Solaris SPARC/x86/x64, Windows x64 etc) must have a running compatible Java JRE on their system to be able to use OmegaT.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T131105Z" creationid="suzume" creationdate="20211117T131105Z">
+        <seg>Les utilisateurs d'autres plateformes (Linux PowerPC, Linux x64, Solaris SPARC/x86/x64, Windows x64 etc) doivent avoir un environnement d'exécution Java JRE compatible opérant sur leur système pour pouvoir utiliser OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Users who already have some experience with OmegaT often prefer the Latest version.</seg>
       </tuv>
       <tuv lang="fr">
@@ -57466,6 +58802,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130415T163539Z">
         <seg>Utilisateurs\&lt;Nom d'utilisateur&gt;\AppData\Roaming\&lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; causes both text input and display in OmegaT to change.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T074848Z" creationid="suzume" creationdate="20211117T074848Z">
+        <seg>Utiliser &lt;k0&gt; &lt;k1&gt;Maj&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; provoque des changements à la fois au niveau de la saisie du texte et au niveau de l'affichage dans OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57592,6 +58936,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Using the RTL mode in OmegaT has no influence whatsoever on the display mode of the translated documents created in OmegaT.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T074833Z" creationid="suzume" creationdate="20211117T074833Z">
+        <seg>L'utilisation du mode RTL (de droite à gauche) dans OmegaT n'a aucune influence sur le mode d'affichage des documents traduits dans OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Using the console mode, one can make generating a localized interface a part of the build process.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130421T082239Z">
@@ -57628,6 +58980,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130422T163131Z">
         <seg>Utilisation de caractères génériques</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Usual translations inserted from the &lt;f3&gt;auto&lt;/f3&gt; folder are displayed in orange.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T150452Z" creationid="suzume" creationdate="20211117T150452Z">
+        <seg>Les traductions habituelles insérées depuis le dossier &lt;f3&gt;auto&lt;/f3&gt; sont affichées en orange.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58358,6 +59718,14 @@ you have just discovered.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When OmegaT encounters a file in its &lt;f0&gt;source&lt;/f0&gt; folder, it attempts to select the filter based upon the file's extension.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T074306Z" creationid="suzume" creationdate="20211117T074306Z">
+        <seg>Lorsqu'OmegaT rencontre un fichier dans le dossier &lt;f0&gt;source&lt;/f0&gt;, il tente de sélectionner le filtre basé sur l'extension du fichier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When OmegaT encounters a file in its source folder, it attempts to select the filter based upon the file's extension.</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130415T152528Z">
@@ -58559,6 +59927,14 @@ add Python to your Path.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When the user exits OmegaT, this file is not emptied, in order to be consistent with usual clipboard behavior.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T145835Z" creationid="suzume" creationdate="20211117T145835Z">
+        <seg>Lorsque vous quittez OmegaT, ce fichier n'est pas vidé, de façon à assurer une cohérence avec le comportement habituel du presse-papier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When this file is executed, the commands within it are automatically carried out.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130502T131631Z">
@@ -58746,6 +60122,14 @@ for which you have or can give appropriate copyright permission.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When you create the target documents in an OmegaT project, the translation memory of the project is output in the form of three files in the root folder of your OmegaT project (see the above description).</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T130629Z" creationid="suzume" creationdate="20211117T130629Z">
+        <seg>Lorsque vous créez les documents cibles d'un projet OmegaT, la mémoire de traduction est produite sous la forme de trois fichiers localisés dans le dossier racine de votre projet OmegaT (voir description ci-dessus).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When you download the project, the project is converted to a team project locally and a default mapping is added.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210130T061336Z" creationid="suzume" creationdate="20210130T061148Z">
@@ -58834,6 +60218,14 @@ for which you have or can give appropriate copyright permission.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When you translate your files, OmegaT stores all your progress in the translation memory &lt;f0&gt;project_save.tmx&lt;/f0&gt; that resides in the project's &lt;f1&gt;omegat&lt;/f1&gt; subfolder.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T130541Z" creationid="suzume" creationdate="20211117T130541Z">
+        <seg>Lorsque vous traduisez vos fichiers, OmegaT conserve toutes les évolutions du projet dans la mémoire de traduction &lt;f0&gt;project_save.tmx&lt;/f0&gt; qui se trouve dans le sous-dossier &lt;f1&gt;omegat&lt;/f1&gt; du projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When you wish to use the filter again, just tick the check box.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130429T080224Z">
@@ -58870,6 +60262,14 @@ for which you have or can give appropriate copyright permission.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210503T232059Z">
         <seg>Si vous souhaitez obtenir un aperçu de votre traduction dans son format final, utilisez le raccourci &lt;k2&gt;Ctrl+D&lt;/k2&gt; pour générer le document traduit dans le dossier &lt;f3&gt;./target&lt;/f3&gt; du projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Whenever you want to see what your translation will look like in its final format, press &lt;k7&gt;&lt;k8&gt;Ctrl&lt;/k8&gt;&lt;k9&gt;D&lt;/k9&gt;&lt;/k7&gt; to generate the translated documents, which will be created in the &lt;f10&gt;target&lt;/f10&gt; subfolder of your project folder.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T145505Z" creationid="suzume" creationdate="20211117T145505Z">
+        <seg>Si vous souhaitez obtenir un aperçu de votre traduction dans son format final, utilisez le raccourci &lt;k7&gt;&lt;k8&gt;Ctrl&lt;/k8&gt;&lt;k9&gt;D&lt;/k9&gt;&lt;/k7&gt; pour générer le document traduit dans le dossier &lt;f10&gt;target&lt;/f10&gt; du projet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59237,6 +60637,14 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20200724T173557Z" creationid="briac" creationdate="20200724T173557Z">
         <seg>Cette commande vous permet de retourner un segment en arrière dans l'historique. Vous pourrez retrouver le segment que vous avez quitté en utilisant la commande &lt;g0&gt;Segment suivant dans l'historique...&lt;/g0&gt; ci-dessus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>With this command you can step forward to the segment, you have previously left by the &lt;g0&gt;Back in history&lt;/g0&gt;... command.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T145845Z" creationid="suzume" creationdate="20211117T145845Z">
+        <seg>Cette commande vous permet de retourner au segment que vous aviez auparavant quitté en utilisant la commande&lt;g0&gt;Segment précédent dans l'historique...&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59763,6 +61171,14 @@ can then launch the Kaptain launch script with:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You achieve the same by clearing the target segment and pressing &lt;g6&gt;Enter&lt;/g6&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T074608Z" creationid="suzume" creationdate="20211117T074608Z">
+        <seg>Vous obtiendrez le même résultat en effaçant le segment cible et en appuyant sur &lt;g6&gt;Entrée.&lt;/g6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You already have the latest version.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20180606T084450Z" creationid="Didier" creationdate="20180606T084450Z">
@@ -59864,6 +61280,22 @@ this License.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
         <seg>Vous pouvez ajouter &lt;a0&gt;OmegaT&lt;/a0&gt; à vos menus comme suit :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can add OmegaT to your menus as follows:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T130929Z" creationid="suzume" creationdate="20211117T130929Z">
+        <seg>Vous pouvez ajouter OmegaT à vos menus comme suit :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can add a new term to the glossary by pressing &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;Shift&lt;/k2&gt;&lt;k3&gt;G&lt;/k3&gt;&lt;/k0&gt;, or copy existing glossaries to the &lt;f4&gt;glossary&lt;/f4&gt; subfolder of your project folder, and OmegaT will automatically look up words in them.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T145743Z" creationid="suzume" creationdate="20211117T145743Z">
+        <seg>Vous pouvez ajouter un terme au glossaire à l'aide du raccourci clavier &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;Maj&lt;/k2&gt;&lt;k3&gt;G&lt;/k3&gt;&lt;/k0&gt;, ou copier d'autres glossaires dans le dossier &lt;f4&gt;glossary&lt;/f4&gt; du projet : OmegaT y recherche automatiquement les mots associés au segment actif.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60126,6 +61558,14 @@ your programs, too.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can browse through notes using &lt;m0&gt;&lt;g1&gt;GoTo&lt;/g1&gt;&lt;g2&gt;Next Note&lt;/g2&gt;&lt;/m0&gt; and &lt;m3&gt;&lt;g4&gt;GoTo&lt;/g4&gt;&lt;g5&gt;Previous Note&lt;/g5&gt;&lt;/m3&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T150808Z" creationid="suzume" creationdate="20211117T150808Z">
+        <seg>Il est possible de se déplacer d'une note à l'autre en cliquant sur &lt;m0&gt;&lt;g1&gt;Atteindre&lt;/g1&gt;&lt;g2&gt;Note Suivante&lt;/g2&gt;&lt;/m0&gt; et &lt;m3&gt;&lt;g4&gt;Atteindre&lt;/g4&gt;&lt;g5&gt;Note Précédente&lt;/g5&gt;&lt;/m3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can change or add filename patterns for files to be handled by each file filter.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160322T165539Z" creationid="Didier" creationdate="20160322T165539Z">
@@ -60266,6 +61706,14 @@ your programs, too.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130507T122305Z">
         <seg>Il est possible de définir l'une des alternatives - la plus probable d'entre elles par exemple - comme traduction par défaut en sélectionnant &lt;g1&gt;Edition → Utiliser comme traduction par défaut&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can define one of the alternative - for instance the most probable among them - as default translation by selecting &lt;m3&gt;&lt;g4&gt;Edit&lt;/g4&gt;&lt;g5&gt;Use as Default Translation&lt;/g5&gt;&lt;/m3&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T150740Z" creationid="suzume" creationdate="20211117T150740Z">
+        <seg>Il est possible de définir l'une des alternatives - la plus probable d'entre elles par exemple - comme traduction par défaut en sélectionnant &lt;m3&gt;&lt;g4&gt;Edition&lt;/g4&gt;&lt;g5&gt;Utiliser comme traduction par défaut&lt;/g5&gt;&lt;/m3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -60495,6 +61943,14 @@ installation script (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can regard these three tmx files (&lt;f0&gt;-omegat.tmx&lt;/f0&gt;, &lt;f1&gt;-level1.tmx&lt;/f1&gt; and &lt;f2&gt;-level2.tmx&lt;/f2&gt;) as an "export translation memory", i.e. as an export of your current project's content in bilingual form.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T130638Z" creationid="suzume" creationdate="20211117T130638Z">
+        <seg>Vous pouvez considérer ces trois fichiers TMX (&lt;f0&gt;-omegat.tmx&lt;/f0&gt;, &lt;f1&gt;-level1.tmx&lt;/f1&gt; et &lt;f2&gt;-level2.tmx&lt;/f2&gt;) comme une « exportation de la mémoire de traduction », c'est-à-dire une exportation du contenu de votre projet actuel sous forme bilingue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can regard these three tmx files (&lt;f2&gt;-omegat.tmx&lt;/f2&gt;, &lt;f3&gt;-level1.tmx&lt;/f3&gt; and &lt;f4&gt;-level2.tmx&lt;/f4&gt;) as an "export translation memory", i.e. as an export of your current project's content in bilingual form.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130528T123311Z">
@@ -60627,6 +62083,14 @@ omegat.kaptn</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can thus select a word anywhere in OmegaT and use Services to check this word, for instance in Spotlight or in Google.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T131100Z" creationid="suzume" creationdate="20211117T131100Z">
+        <seg>Ainsi, vous pouvez sélectionner n'importe quel mot dans OmegaT et utiliser Services pour rechercher ce mot (sur Spotlight ou sur Google par ex.).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can toggle between different display modes by pressing &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; (this is the letter O and not the numeral 0).</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130430T075505Z">
@@ -60672,6 +62136,14 @@ SourceForge too.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130415T154915Z">
         <seg>Vous pouvez les visionner en sélectionnant &lt;g0&gt;Outils &gt; Statistiques&lt;/g0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can view it by selecting &lt;m0&gt;&lt;g1&gt;Tools&lt;/g1&gt;&lt;g2&gt;Statistics&lt;/g2&gt;&lt;/m0&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T151254Z" creationid="suzume" creationdate="20211117T151254Z">
+        <seg>Vous pouvez les visionner en sélectionnant &lt;m0&gt;&lt;g1&gt;Outils&lt;/g1&gt;&lt;g2&gt;Statistiques&lt;/g2&gt;&lt;/m0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -62503,9 +63975,25 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>contains the latest project match statistics, generated by &lt;m0&gt;&lt;g1&gt;Tools&lt;/g1&gt;&lt;g2&gt;Match Statistics&lt;/g2&gt;&lt;/m0&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T151315Z" creationid="suzume" creationdate="20211117T151315Z">
+        <seg>contient les dernières statistiques des correspondances du projet produites par &lt;m0&gt;&lt;g1&gt;Outils&lt;/g1&gt;&lt;g2&gt;Statistiques des correspondances&lt;/g2&gt;&lt;/m0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>copy the files to the &lt;f0&gt;/source&lt;/f0&gt; folder</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210503T231958Z" creationid="suzume" creationdate="20210111T113535Z">
+        <seg>copier les fichiers dans le dossier &lt;f0&gt;./source&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>copy the files to the &lt;f0&gt;source&lt;/f0&gt; folder</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T130838Z" creationid="suzume" creationdate="20211117T130838Z">
         <seg>copier les fichiers dans le dossier &lt;f0&gt;./source&lt;/f0&gt;</seg>
       </tuv>
     </tu>
@@ -64929,6 +66417,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>is not copied in &lt;f0&gt;target&lt;/f0&gt; folder during the translated files creation process.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T074819Z" creationid="suzume" creationdate="20211117T074819Z">
+        <seg>n'est pas copié dans le dossier &lt;f0&gt;target&lt;/f0&gt; durant le processus de création des fichiers traduits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>is not displayed in the Editor pane,</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20141202T214445Z" creationid="Didier" creationdate="20141202T214445Z">
@@ -67293,6 +68789,14 @@ Ok. </note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>rename it &lt;f0&gt;project_save.tmx&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T130545Z" creationid="suzume" creationdate="20211117T130545Z">
+        <seg>renommez-le en &lt;f0&gt;project_save.tmx&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>rename it &lt;l0&gt;project_save.tmx&lt;/l0&gt;</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130528T070926Z">
@@ -68953,6 +70457,14 @@ Ok. </note>
       </tuv>
       <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210512T123726Z" creationid="suzume" creationdate="20210202T071850Z">
         <seg>avec &lt;p0&gt;dossier&lt;/p0&gt; qui est le nom du dossier, ainsi que son chemin complet, dans lequel votre programme &lt;a1&gt;OmegaT&lt;/a1&gt; est situé - et plus particulièrement le fichier &lt;f2&gt;OmegaT.jar&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>where &lt;p0&gt;folder&lt;/p0&gt; is the name of the folder, with complete path, in which your OmegaT program - specifically, the file &lt;f1&gt;OmegaT.jar&lt;/f1&gt; - is located.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211117T131232Z" creationid="suzume" creationdate="20211117T131232Z">
+        <seg>avec &lt;p0&gt;dossier&lt;/p0&gt; qui est le nom du dossier, ainsi que son chemin complet, dans lequel votre programme OmegaT est situé - et plus particulièrement le fichier &lt;f1&gt;OmegaT.jar&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
