@@ -9905,6 +9905,14 @@ this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A nice collection of useful regex cases can be found in OmegaT itself (see Options &gt; Segmentation).</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211120T090538Z" creationid="suzume" creationdate="20211120T090538Z">
+        <seg>De nombreux cas d'expressions régulières utiles peuvent être trouvés dans OmegaT même (voir Options &gt; Segmentation).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A non-digit: [^0-9]</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
@@ -23862,6 +23870,14 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossary layout</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211120T090801Z" creationid="suzume" creationdate="20211120T090801Z">
+        <seg>Présentation des glossaires</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossary matching does not use stemming or stop words, but is case-insensitive.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160322T172719Z" creationid="Didier" creationdate="20160322T172719Z">
@@ -27108,6 +27124,14 @@ OmegaT is to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you have already translated a large body of text, and then realize the target language code of the project does not match the spell checker's language code (you specified pt_BR as the language, but there are no pt_BR vocabularies, for instance) you can simply copy the two corresponding files and rename them (e.g. from &lt;f0&gt;pt_PT.aff&lt;/f0&gt; and &lt;f1&gt;pt_PT.dic&lt;/f1&gt; to &lt;f2&gt;pt_BR.aff&lt;/f2&gt; and &lt;f3&gt;pt_BR.dic&lt;/f3&gt;).</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211120T090701Z" creationid="suzume" creationdate="20211120T090701Z">
+        <seg>Si après avoir déjà traduit une grande quantité de texte, vous vous apercevez que le code de langue de la langue cible de votre projet ne correspond pas à celui du vérificateur orthographique (vous avez pt_BR en langue cible, mais il n'existe aucun lexique pt_BR, par exemple), il suffit de copier les deux fichiers correspondant et de les renommer (ex. : passez de &lt;f0&gt;pt_PT.aff&lt;/f0&gt; et &lt;f1&gt;pt_PT.dic&lt;/f1&gt; à &lt;f2&gt;pt._BR.aff&lt;/f2&gt; et &lt;f3&gt;pt_BR.dic&lt;/f3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you have an existing terminology handling system - MultiTerm for example - it is quite possible it offers the export of terminology data via TBX format.</seg>
       </tuv>
       <tuv lang="fr" changeid="brigitte" changedate="20130712T153323Z">
@@ -27390,6 +27414,14 @@ OmegaT.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210507T112752Z" creationid="suzume" creationdate="20200118T125241Z">
         <seg>En décochant cette option, les traductions automatiques seront récupérées uniquement lors de l'utilisation de &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; (&lt;k3&gt; &lt;k4&gt;Cmd&lt;/k4&gt; &lt;k5&gt;M&lt;/k5&gt; &lt;/k3&gt;sur macOS) sur le segment actuel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you uncheck this option, machine translations will be fetched only when you press &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;M&lt;/k2&gt;&lt;/k0&gt; (&lt;k3&gt;&lt;k4&gt;Cmd&lt;/k4&gt;&lt;k5&gt;M&lt;/k5&gt;&lt;/k3&gt; on OS X) in the current segment.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211120T090733Z" creationid="suzume" creationdate="20211120T090733Z">
+        <seg>En décochant cette option, les traductions automatiques seront récupérées uniquement lors de l'utilisation de &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;M&lt;/k2&gt;&lt;/k0&gt; (&lt;k3&gt;&lt;k4&gt;Cmd&lt;/k4&gt;&lt;k5&gt;M&lt;/k5&gt;&lt;/k3&gt;sur macOS) sur le segment actuel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35130,6 +35162,14 @@ Diminue les sorties sur stdout de la ligne de commande.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note that &lt;g0&gt;Remove&lt;/g0&gt; physically removes the selected vocabularies.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211120T090705Z" creationid="suzume" creationdate="20211120T090705Z">
+        <seg>Remarquez que &lt;g0&gt;Supprimer&lt;/g0&gt; supprime physiquement les lexiques sélectionnés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note that &lt;l0&gt;after&lt;/l0&gt; is empty</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130423T203722Z">
@@ -37596,6 +37636,14 @@ kolteki later.</seg>
       </tuv>
       <tuv lang="fr" changeid="laurieetclémentine" changedate="20130411T120453Z">
         <seg>Une fois le fichier &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; modifié, &lt;a1&gt;OmegaT&lt;/a1&gt; doit être redémarré afin de pouvoir prendre en compte les nouveaux raccourcis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Once the &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; file is modified, OmegaT must be relaunched to take the new shortcuts into account.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211120T090633Z" creationid="suzume" creationdate="20211120T090633Z">
+        <seg>Une fois le fichier &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; modifié, OmegaT doit être redémarré afin de pouvoir prendre en compte les nouveaux raccourcis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43226,6 +43274,14 @@ REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="fr" changeid="laurieetclémentine" changedate="20130411T132500Z">
         <seg>Enregistrez ensuite le fichier et redémarrez&lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Save then the file and relaunch OmegaT.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211120T090641Z" creationid="suzume" creationdate="20211120T090635Z">
+        <seg>Enregistrez ensuite le fichier et redémarrez OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52329,6 +52385,14 @@ making modifications to it.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
         <seg>Le vérificateur orthographique utilise le code de la langue cible pour déterminer quelle langue va être utilisée : si la langue cible est du portugais brésilien (PT_BR), le sous-dossier contenant les lexiques doit contenir les deux fichiers lexicaux appelés &lt;e0&gt;pt_br.aff&lt;/e0&gt; et &lt;e1&gt;pt_br.dic&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The spell checker uses the target language code to determine the language to be used : if the target language is Brazilian Portuguese (PT_BR), the subfolder with vocabularies must contain the two vocabulary files, called &lt;f0&gt;pt_br.aff&lt;/f0&gt; and &lt;f1&gt;pt_br.dic&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211120T090654Z" creationid="suzume" creationdate="20211120T090654Z">
+        <seg>Le vérificateur orthographique utilise le code de la langue cible pour déterminer quelle langue va être utilisée : si la langue cible est du portugais brésilien (PT_BR), le sous-dossier contenant les lexiques doit contenir les deux fichiers lexicaux appelés &lt;f0&gt;pt_br.aff&lt;/f0&gt; et &lt;f1&gt;pt_br.dic&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61678,6 +61742,14 @@ your programs, too.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can change the already assigned shortcuts and add new shortcuts by putting a shortcut definition file in your OmegaT preferences folder (accessible by &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Access Configuration Folder&lt;/g2&gt; &lt;/m0&gt; menu).</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211120T090627Z" creationid="suzume" creationdate="20211120T090627Z">
+        <seg>Vous pouvez modifier les raccourcis déjà attribués et ajouter de nouveaux raccourcis en insérant un fichier de définition de raccourcis dans votre dossier Préférences OmegaT (accessible par le menu &lt;m0&gt;&lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Accéder au dossier de configuration&lt;/g2&gt;&lt;/m0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can change the already assigned shortcuts and add new shortcuts by putting a shortcut definition file in your OmegaT preferences folder (see &lt;l0&gt;User files location&lt;/l0&gt;).</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130412T074637Z">
@@ -62533,6 +62605,14 @@ source code.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20200118T125306Z" creationid="suzume" creationdate="20200118T125306Z">
         <seg>Vous devez ensuite utiliser &lt;k6&gt; &lt;k7&gt;Ctrl&lt;/k7&gt; &lt;k8&gt;M&lt;/k8&gt; &lt;/k6&gt; une deuxième fois pour insérer la suggestion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You must then press &lt;k6&gt;&lt;k7&gt;Ctrl&lt;/k7&gt;&lt;k8&gt;M&lt;/k8&gt; &lt;/k6&gt; again to insert the suggestion.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211120T090745Z" creationid="suzume" creationdate="20211120T090745Z">
+        <seg>Vous devez ensuite utiliser &lt;k6&gt;&lt;k7&gt;Ctrl&lt;/k7&gt;&lt;k8&gt;M&lt;/k8&gt;&lt;/k6&gt; une deuxième fois pour insérer la suggestion.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68729,6 +68809,14 @@ Ok. </note>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T103755Z">
         <seg>projectReloadMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectRestartMenuItem</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211120T090649Z" creationid="suzume" creationdate="20211120T090649Z">
+        <seg>projectRestartMenuItem</seg>
       </tuv>
     </tu>
     <tu>
