@@ -4826,6 +4826,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Adding files to the project:&lt;/e0&gt; You can add source files to the project by clicking on the &lt;g1&gt;Import Source Files...&lt;/g1&gt; button.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211120T093210Z" creationid="suzume" creationdate="20211120T093210Z">
+        <seg>&lt;e0&gt;Ajouter des fichiers au projet :&lt;/e0&gt; Il est possible d'ajouter des fichiers source au projet en cliquant sur &lt;g1&gt;Importer des fichiers source...&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Aggregate tags&lt;/e0&gt;: if checked, tags with no translatable text between them will be aggregated into a single tag.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20201203T062236Z" creationid="suzume" creationdate="20201203T062236Z">
@@ -48872,6 +48880,14 @@ form of a work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;f0&gt;project_stats.txt&lt;/f0&gt; located in the &lt;f1&gt;omegat&lt;/f1&gt; folder of your project contains more detailed segment information, broken down by file.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211120T093149Z" creationid="suzume" creationdate="20211120T093149Z">
+        <seg>Le fichier &lt;f0&gt;project_stats.txt&lt;/f0&gt; situé dans le dossier &lt;f1&gt;omegat&lt;/f1&gt; de votre projet contient des informations plus détaillées sur les segments. Celles-ci sont séparées par fichier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;f0&gt;project_stats.txt&lt;/f0&gt; located in the omegat folder of your project contains more detailed segment information, broken down by file.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130507T125128Z">
@@ -52232,6 +52248,14 @@ protocols for communication across the network.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130507T124612Z">
         <seg>Le nombre de segments &lt;e0&gt;uniques &lt;/e0&gt; est calculé en soustrayant les segments doubles à la somme de tous les segments.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The set of &lt;e0&gt;Unique&lt;/e0&gt; segments is computed by taking all the segments and removing all duplicate segments.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211120T093138Z" creationid="suzume" creationdate="20211120T093138Z">
+        <seg>Le nombre de segments &lt;e0&gt;uniques&lt;/e0&gt; est calculé en soustrayant les segments doubles à la somme de tous les segments.</seg>
       </tuv>
     </tu>
     <tu>
