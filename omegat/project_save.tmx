@@ -5963,6 +5963,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Close&lt;/g0&gt;: close the window without any change.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211120T232653Z" creationid="suzume" creationdate="20211120T232653Z">
+        <seg>&lt;g0&gt;Fermer :&lt;/g0&gt; ferme la fenêtre sans aucune modification.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Compress whitespace in translated document&lt;/g0&gt;: multiple continuous whitespace characters will be converted into one single whitespace in the translated document.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20211117T074238Z" creationid="suzume" creationdate="20211117T074238Z">
@@ -6071,6 +6079,22 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20211120T090951Z" creationid="suzume" creationdate="20211120T090951Z">
         <seg>&lt;g0&gt;Supprimer les espaces en début et fin de segment dans les projets non segmentés&lt;/g0&gt; : par défaut, OmegaT supprime les caractères d'espacement de début et de fin de segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Replace All&lt;/g0&gt;: operates replacement of all occurrences (after displaying a confirmation window where the number of occurrences is shown).</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211120T232634Z" creationid="suzume" creationdate="20211120T232634Z">
+        <seg>&lt;g0&gt;Remplacer tout :&lt;/g0&gt; effectue le remplacement de toutes les occurrences (après l'affichage d'une fenêtre de confirmation où le nombre d'occurrences est affiché).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Replace:&lt;/g0&gt; operates a "one by one" replacement, by the mean of buttons in the header of the Editor pane.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211120T232642Z" creationid="suzume" creationdate="20211120T232642Z">
+        <seg>&lt;g0&gt;Remplacer :&lt;/g0&gt; effectue les remplacements les uns après les autres, à l'aide de boutons dans l'en-tête de l'Éditeur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15245,6 +15269,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Click &lt;g1&gt;Replace Next&lt;/g1&gt; or &lt;g2&gt;Skip&lt;/g2&gt;, then end the replacement session with &lt;g3&gt;Finish&lt;/g3&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211120T232650Z" creationid="suzume" creationdate="20211120T232650Z">
+        <seg>Cliquez sur &lt;g1&gt;Remplacer suivant&lt;/g1&gt; ou &lt;g2&gt;Ignorer&lt;/g2&gt;, puis mettez un terme à la session de remplacement avec &lt;g3&gt;Terminer&lt;/g3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Click &lt;s4&gt;&lt;e5&gt;Replace Next&lt;/e5&gt;&lt;/s4&gt; or &lt;s6&gt;&lt;e7&gt;Skip&lt;/e7&gt;&lt;/s6&gt;, then end the replacement session with &lt;s8&gt;&lt;e9&gt;Finish&lt;/e9&gt;&lt;/s8&gt;.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210204T133927Z" creationid="suzume" creationdate="20210204T133927Z">
@@ -21211,6 +21243,14 @@ The FSF strongly urges you not to use this translation as the official distribu-
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z" creationid="Didier" creationdate="20141202T215552Z">
         <seg>Exceptée celle-ci : cochez&lt;e0&gt;Non traduits&lt;/e0&gt; pour effectuer une recherche et remplacement également sur les segments qui ne sont pas encore traduits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Except one: check &lt;g0&gt;Untranslated&lt;/g0&gt; in order to operate Search and replace also on segments that have not been translated yet.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211120T232705Z" creationid="suzume" creationdate="20211120T232705Z">
+        <seg>Exceptée celle-ci : cochez &lt;g0&gt;Non traduits&lt;/g0&gt; pour effectuer une recherche et remplacement également sur les segments qui ne sont pas encore traduits.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38208,6 +38248,14 @@ happen should you file a bug report.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210207T052750Z" creationid="Didier" creationdate="20141202T215810Z">
         <seg>Ouvrez la fenêtre de Recherche textuelle en utilisant &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt; &gt; et saisissez dans le champ &lt;e3&gt;Rechercher&lt;/e3&gt; le mot ou l'expression que vous souhaitez trouver.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open the Search window with &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt; and enter the word or phrase you wish to search for in the &lt;g3&gt;Search for&lt;/g3&gt; box.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211120T232735Z" creationid="suzume" creationdate="20211120T232735Z">
+        <seg>Ouvrez la fenêtre de Recherche textuelle en utilisant &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;F&lt;/k2&gt;&lt;/k0&gt; et saisissez dans le champ &lt;g3&gt;Rechercher&lt;/g3&gt; le mot ou l'expression que vous souhaitez trouver.</seg>
       </tuv>
     </tu>
     <tu>
