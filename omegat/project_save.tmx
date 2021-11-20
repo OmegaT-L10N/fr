@@ -5947,6 +5947,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Allow blank translations in the target file&lt;/g0&gt;:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211120T091021Z" creationid="suzume" creationdate="20211120T091021Z">
+        <seg>&lt;g0&gt;Permet les traductions vides dans le fichier cible&lt;/g0&gt; :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Compress whitespace in translated document&lt;/g0&gt;: multiple continuous whitespace characters will be converted into one single whitespace in the translated document.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20211117T074238Z" creationid="suzume" creationdate="20211117T074238Z">
@@ -5979,6 +5987,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Do not translate the content attribute of meta-tags ...&lt;/g0&gt;: the meta-tags in the box will not be translated.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211120T091029Z" creationid="suzume" creationdate="20211120T091029Z">
+        <seg>&lt;g0&gt;Ne pas traduire l'attribut content des balises méta ... :&lt;/g0&gt; les balises méta indiquées ne seront pas traduites.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Do not translate the content of tags with the following attribute key-value pairs (separate with commas)&lt;/g0&gt;: if a tag matches the list of key-value pairs, its content will be ignored.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20211117T074235Z" creationid="suzume" creationdate="20211117T074235Z">
@@ -5987,10 +6003,26 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Ignore file context when identifying segments with alternate translations&lt;/g0&gt;: by default, OmegaT uses the source file name as part of the identification of an alternative translation.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211120T091005Z" creationid="suzume" creationdate="20211120T091005Z">
+        <seg>&lt;g0&gt;Ignorer le nom du fichier pour identifier les segments comportant des traductions alternatives&lt;/g0&gt; : par défaut, OmegaT utiliser le nom du fichier source comme partie de l'identification d'une traduction alternative.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;LanguageTool Issues&lt;/g0&gt; (optional).</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210204T012250Z" creationid="suzume" creationdate="20210204T012250Z">
         <seg>&lt;g0&gt;Erreurs LanguageTool&lt;/g0&gt; (optionnel)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Preserve spaces for all tags&lt;/g0&gt;: check this option if the source documents contain significant spaces used to control the layout that must not be ignored.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211120T090958Z" creationid="suzume" creationdate="20211120T090958Z">
+        <seg>&lt;g0&gt;Préserver les espaces pour toutes les balises&lt;/g0&gt; : cochez cette option si les documents source contiennent des espaces significatifs utilisés pour la mise en page qui ne doivent pas être ignorés.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6015,6 +6047,22 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20211117T074248Z" creationid="suzume" creationdate="20211117T074248Z">
         <seg>&lt;g0&gt;Supprimer les commentaires HTML dans le document traduit&lt;/g0&gt; : les parties commentées (entre &lt;!-- et --&gt;) ne seront pas copiées dans le document traduit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Remove leading and trailing tags&lt;/g0&gt;: uncheck this option to display all the tags, including tags at the beginning and end of the segment.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211120T090940Z" creationid="suzume" creationdate="20211120T090940Z">
+        <seg>&lt;g0&gt;Supprimer les balises en début et fin de segment&lt;/g0&gt; : décocher cette option pour afficher toutes les balises, y compris celles de début et de fin de segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Remove leading and trailing whitespace in non-segmented projects&lt;/g0&gt;: by default, OmegaT removes leading and trailing whitespace.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211120T090951Z" creationid="suzume" creationdate="20211120T090951Z">
+        <seg>&lt;g0&gt;Supprimer les espaces en début et fin de segment dans les projets non segmentés&lt;/g0&gt; : par défaut, OmegaT supprime les caractères d'espacement de début et de fin de segment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15177,6 +15225,14 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130429T115141Z">
         <seg>Cliquez sur &lt;g0&gt;Create Project&lt;/g0&gt;(créer un projet)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;g1&gt;Defaults&lt;/g1&gt; to reset the file filters to the default settings.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211120T090916Z" creationid="suzume" creationdate="20211120T090916Z">
+        <seg>Cliquez sur &lt;g1&gt;Valeurs par défaut&lt;/g1&gt; pour que les filtres de fichiers retrouvent leurs valeurs par défaut.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29790,6 +29846,14 @@ exécutez simplement le programme d'installation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It also possible to change the position of a filename, by clicking on it and pressing &lt;g0&gt;Move ...&lt;/g0&gt; buttons.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211120T092955Z" creationid="suzume" creationdate="20211120T092955Z">
+        <seg>Il est également possible de changer la position d'un nom de fichier, en cliquant dessus et en appuyant sur les boutons &lt;g0&gt;Placer/Glisser&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It builds upon the strengths of Java but has additional power features inspired by languages like Python, Ruby and Smalltalk.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130527T130838Z">
@@ -33498,6 +33562,14 @@ impose that choice.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20140203T140745Z" creationid="Didier" creationdate="20140203T140745Z">
         <seg>Fusionner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Merge alternate definition for the same term</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211120T090829Z" creationid="suzume" creationdate="20211120T090812Z">
+        <seg>Fusionner des différentes définitions d'un même terme</seg>
       </tuv>
     </tu>
     <tu>
@@ -37353,6 +37425,14 @@ with exactly the same structure, including copies of any non-supported files.</s
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130415T102721Z">
         <seg>OmegaT laissera alors de côté les fichiers appropriés lors du chargement du projet et les copiera sans les modifier lors de la création des documents cible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT will then omit the corresponding files when loading projects, and will copy them unmodified to the &lt;f0&gt;target&lt;/f0&gt; folder when creating target documents.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211120T090911Z" creationid="suzume" creationdate="20211120T090911Z">
+        <seg>OmegaT ignorera alors les fichiers correspondants lors du chargement du projet et les copiera sans les modifier dans le dossier &lt;f0&gt;target&lt;/f0&gt; lors de la création des documents cible.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48872,6 +48952,14 @@ form of a work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;g4&gt;Project Files&lt;/g4&gt; Window displays the following information:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211120T091041Z" creationid="suzume" creationdate="20211120T091041Z">
+        <seg>La fenêtre &lt;g4&gt;Fichiers du projet&lt;/g4&gt; affiche les informations suivantes :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;k4&gt; &lt;k5&gt;Shift&lt;/k5&gt; &lt;k6&gt;Ctrl&lt;/k6&gt; &lt;k7&gt;O&lt;/k7&gt; &lt;/k4&gt; toggle has three states:</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
@@ -49730,6 +49818,14 @@ shown below.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130528T131455Z">
         <seg>La traduction collaborative proposée par OmegaT fonctionne sur la base de contrôle des versions et des révisions. Cette fonction est très utilisée au sein de la communauté des créateurs de logiciels pour contrôler les changements apportés aux codes d'un programme et permettre à l'équipe de développement de collaborer sans entrave.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The collections are downloaded as TBX glossaries and stored in the current &lt;f0&gt;glossary&lt;/f0&gt; folder.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211120T090838Z" creationid="suzume" creationdate="20211120T090838Z">
+        <seg>Les collections sont téléchargées en tant que glossaires TBX et sont stockées dans le dossier &lt;f0&gt;glossary&lt;/f0&gt; du projet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52929,6 +53025,14 @@ the [Help] menu after starting OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Theme</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211120T090842Z" creationid="suzume" creationdate="20211120T090842Z">
+        <seg>Thème</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Theme:</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210620T144623Z" creationid="suzume" creationdate="20210620T144623Z">
@@ -53278,6 +53382,14 @@ prohibited by law if you do not accept this License.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210503T231021Z" creationid="Didier" creationdate="20141202T222659Z">
         <seg>Il s'agit de tous les fichiers présents dans le dossier ./source qui sont écrits dans un format qu'OmegaT est en mesure de traiter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These are the files present in the &lt;f0&gt;source&lt;/f0&gt; folder in a format that OmegaT is able to recognize.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211120T091053Z" creationid="suzume" creationdate="20211120T091053Z">
+        <seg>Il s'agit de tous les fichiers présents dans le dossier &lt;f0&gt;source&lt;/f0&gt; qui sont écrits dans un format qu'OmegaT est en mesure de traiter.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55676,6 +55788,14 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To edit the files and encodings a filter is used for, select the filter in the list and click &lt;g2&gt;Edit&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211120T090928Z" creationid="suzume" creationdate="20211120T090928Z">
+        <seg>Pour modifier le type et l'encodage des fichiers à traiter par un filtre, sélectionnez le filtre dans la liste et cliquez sur &lt;g2&gt;Modifier&lt;/g2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To edit what files in what encodings the filter will process, select the filter from the list and click Edit.</seg>
       </tuv>
       <tuv lang="fr">
@@ -55985,6 +56105,14 @@ as a Source Forge user.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20200128T142224Z" creationid="suzume" creationdate="20200128T142224Z">
         <seg>Pour modifier ces options, sélectionnez le filtre dans la liste et cliquez sur &lt;e0&gt;Options...&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To modify the options, select the filter in the list and click &lt;g0&gt;Options...&lt;/g0&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211120T091011Z" creationid="suzume" creationdate="20211120T091011Z">
+        <seg>Pour modifier ces options, sélectionnez le filtre dans la liste et cliquez sur &lt;g0&gt;Options...&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
