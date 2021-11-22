@@ -6117,16 +6117,16 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="en">
         <seg>&lt;g0&gt;Search in Files&lt;/g0&gt;: search in a single file or a folder containing a set of files.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20211122T092846Z" creationid="suzume" creationdate="20211122T092846Z">
-        <seg>Rechercher dans &lt;g0&gt;les fichiers : &lt;/g0&gt;rechercher dans un fichier unique ou dans un dossier contenant un ensemble de fichiers.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20211122T093108Z" creationid="suzume" creationdate="20211122T092846Z">
+        <seg>Rechercher dans &lt;g0&gt;les fichiers&lt;/g0&gt; : rechercher dans un fichier unique ou dans un dossier contenant un ensemble de fichiers.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;g0&gt;Search in Project&lt;/g0&gt;: check &lt;g1&gt;Memory&lt;/g1&gt; to include the project memory (&lt;f2&gt;project_save.tmx&lt;/f2&gt; file) in the search.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20211122T092732Z" creationid="suzume" creationdate="20211122T092732Z">
-        <seg>&lt;g0&gt;Rechercher dans le projet&lt;/g0&gt; : cochez &lt;g1&gt;la mémoire&lt;/g1&gt; pour inclure la mémoire du projet (fichier &lt;f2&gt;project_save.tmx&lt;/f2&gt;) dans la recherche.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20211122T093033Z" creationid="suzume" creationdate="20211122T092732Z">
+        <seg>Rechercher dans &lt;g0&gt;le projet&lt;/g0&gt; : cochez &lt;g1&gt;la mémoire&lt;/g1&gt; pour inclure la mémoire du projet (fichier &lt;f2&gt;project_save.tmx&lt;/f2&gt;) dans la recherche.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16277,6 +16277,14 @@ kolekti -b C:\[...]\trunk\doc_src2 publish [-j JOB] -l fr,en C:\[...]\trunk\doc_
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20121113T090159Z">
         <seg>Connexion disponible, le projet est en mode projet en équipe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Consequently, although OmegaT is quite able to handle &lt;f1&gt;tmx&lt;/f1&gt; files, it does not include them in the Search files search.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211122T093140Z" creationid="suzume" creationdate="20211122T093140Z">
+        <seg>En conséquence, même si OmegaT est parfaitement capable de traiter les fichiers &lt;f1&gt;tmx&lt;/f1&gt;, ceux-ci ne seront pas inclus dans les fichiers de recherche.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60226,6 +60234,14 @@ you have just discovered.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160718T155645Z" creationid="Didier" creationdate="20160718T155645Z">
         <seg>Lorsque l'option &lt;e1&gt;Ignorer la différence entre pleine et demi-largeur de caractère&lt;/e1&gt; est cochée, les recherches des formes de pleine largeur (caractères CJK) correspondront aux formes de demi-largeur et vice-versa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When &lt;g1&gt;Full/Half width char insensitive&lt;/g1&gt; option is checked, searches for fullwidth forms (CJK characters) will match halfwidth forms and vice versa.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211122T093206Z" creationid="suzume" creationdate="20211122T093206Z">
+        <seg>Lorsque l'option &lt;g1&gt;Ignorer la différence entre pleine et demi-largeur de caractère&lt;/g1&gt; est cochée, les recherches des formes de pleine largeur (caractères CJK) correspondront aux formes de demi-largeur et vice-versa.</seg>
       </tuv>
     </tu>
     <tu>
