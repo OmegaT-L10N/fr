@@ -4780,8 +4780,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;&lt;l1&gt;-Xmx&lt;p2&gt;??&lt;/p2&gt;M&lt;/l1&gt;&lt;/e0&gt;This command assigns more memory to OmegaT.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20211117T145000Z" creationid="suzume" creationdate="20211117T145000Z">
-        <seg>&lt;p2&gt;-Xmx&lt;/p2&gt;??&lt;/l1&gt;M&lt;e0&gt;&lt;l1&gt;&lt;/e0&gt; Cette commande attribue plus de mémoire à OmegaT.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20211122T095903Z" creationid="suzume" creationdate="20211117T145000Z">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Xmx&lt;p2&gt;??&lt;/p2&gt;M&lt;/l1&gt;&lt;/e0&gt; Cette commande attribue plus de mémoire à OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51403,8 +51403,8 @@ freedom to share and change it.</seg>
       <tuv lang="en">
         <seg>The mappings can be added via the UI: &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Properties&lt;/g2&gt; &lt;g3&gt;Repository Mapping&lt;/g3&gt; &lt;/m0&gt; or by editing &lt;f4&gt;omegat.project&lt;/f4&gt;.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210207T055506Z" creationid="suzume" creationdate="20210207T055506Z">
-        <seg>Les mises en correspondances peuvent être ajoutées en modifiant &lt;f4&gt;omegat.project&lt;/f4&gt; où par l'intermédiaire de l'interface utilisateurs : &lt;m0&gt; &lt;g1&gt;Projet&lt;/g1&gt; &lt;g2&gt;Propriétés...&lt;/g2&gt; &lt;g3&gt;Mappage des dépôts&lt;/g3&gt; &lt;/m0&gt;.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20211122T095815Z" creationid="suzume" creationdate="20210207T055506Z">
+        <seg>Les mises en correspondances peuvent être ajoutées en modifiant &lt;f4&gt;omegat.project&lt;/f4&gt; où par l'intermédiaire de l'interface utilisateurs : &lt;m0&gt;&lt;g1&gt;Projet&lt;/g1&gt;&lt;g2&gt;Propriétés...&lt;/g2&gt;&lt;g3&gt;Mappage des dépôts&lt;/g3&gt;&lt;/m0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
