@@ -5995,6 +5995,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Display: all matching segments&lt;/g0&gt;: if checked, all the segments are displayed one by one, even if they are present several times in the same document or in different documents.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211122T092426Z" creationid="suzume" creationdate="20211122T092426Z">
+        <seg>&lt;g0&gt;Afficher : tous les segments correspondants&lt;/g0&gt; : si cochée, tous les segments sont affichés, même s'ils sont présents à plusieurs reprises dans le même document ou dans des documents différents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Do not translate the content attribute of meta-tags ...:&lt;/g0&gt; The meta-tags in the box will not be translated.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20211117T074220Z" creationid="suzume" creationdate="20211117T074220Z">
@@ -6151,6 +6159,22 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20211122T092349Z" creationid="suzume" creationdate="20211122T092349Z">
         <seg>&lt;g0&gt;Traduits ou non traduits&lt;/g0&gt; : effectue la recherche à la fois dans les segments traduits et non traduits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Translated&lt;/g0&gt;: search only in translated segments.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211122T092358Z" creationid="suzume" creationdate="20211122T092358Z">
+        <seg>&lt;g0&gt;Traduits&lt;/g0&gt; : rechercher uniquement dans les segments traduits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Untranslated&lt;/g0&gt;: search only in untranslated segments.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211122T092410Z" creationid="suzume" creationdate="20211122T092410Z">
+        <seg>&lt;g0&gt;Non traduits&lt;/g0&gt; : rechercher uniquement dans les segments non traduits.</seg>
       </tuv>
     </tu>
     <tu>
