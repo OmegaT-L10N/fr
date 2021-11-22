@@ -6003,6 +6003,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Display: file names&lt;/g0&gt;: if checked, the name of the file where each segment is found is displayed above each result.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211122T092632Z" creationid="suzume" creationdate="20211122T092632Z">
+        <seg>&lt;g0&gt;Afficher : les noms des fichiers&lt;/g0&gt; : si cochée, le nom du fichier dans lequel chaque segment est trouvé est affiché au-dessus de chaque résultat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Do not translate the content attribute of meta-tags ...:&lt;/g0&gt; The meta-tags in the box will not be translated.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20211117T074220Z" creationid="suzume" creationdate="20211117T074220Z">
@@ -6107,6 +6115,22 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Search in Files&lt;/g0&gt;: search in a single file or a folder containing a set of files.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211122T092846Z" creationid="suzume" creationdate="20211122T092846Z">
+        <seg>Rechercher dans &lt;g0&gt;les fichiers : &lt;/g0&gt;rechercher dans un fichier unique ou dans un dossier contenant un ensemble de fichiers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Search in Project&lt;/g0&gt;: check &lt;g1&gt;Memory&lt;/g1&gt; to include the project memory (&lt;f2&gt;project_save.tmx&lt;/f2&gt; file) in the search.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211122T092732Z" creationid="suzume" creationdate="20211122T092732Z">
+        <seg>&lt;g0&gt;Rechercher dans le projet&lt;/g0&gt; : cochez &lt;g1&gt;la mémoire&lt;/g1&gt; pour inclure la mémoire du projet (fichier &lt;f2&gt;project_save.tmx&lt;/f2&gt;) dans la recherche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Skip text matching regular expression&lt;/g0&gt;: any text matching the regular expression is skipped.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20211117T074217Z" creationid="suzume" creationdate="20211117T074217Z">
@@ -6165,16 +6189,16 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="en">
         <seg>&lt;g0&gt;Translated&lt;/g0&gt;: search only in translated segments.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20211122T092358Z" creationid="suzume" creationdate="20211122T092358Z">
-        <seg>&lt;g0&gt;Traduits&lt;/g0&gt; : rechercher uniquement dans les segments traduits.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20211122T092600Z" creationid="suzume" creationdate="20211122T092358Z">
+        <seg>&lt;g0&gt;Traduits&lt;/g0&gt; : effectue la recherche uniquement dans les segments traduits.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;g0&gt;Untranslated&lt;/g0&gt;: search only in untranslated segments.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20211122T092410Z" creationid="suzume" creationdate="20211122T092410Z">
-        <seg>&lt;g0&gt;Non traduits&lt;/g0&gt; : rechercher uniquement dans les segments non traduits.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20211122T092609Z" creationid="suzume" creationdate="20211122T092410Z">
+        <seg>&lt;g0&gt;Non traduits&lt;/g0&gt; : effectue la recherche uniquement dans les segments non traduits.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14673,6 +14697,22 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
       <tuv lang="fr">
         <seg>Cocher &lt;g0&gt;History Prediction&lt;/g0&gt; pour afficher des suggestions de mots qui viennent habituellement en seconde position d'un couple de mots, dès que le premier mot est saisi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check &lt;g3&gt;TMs&lt;/g3&gt; to include the translation memories located in the &lt;f4&gt;tm&lt;/f4&gt; folder in the search.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211122T092757Z" creationid="suzume" creationdate="20211122T092757Z">
+        <seg>Cochez &lt;g3&gt;les MT&lt;/g3&gt; pour inclure les mémoires de traductions situées dans le dossier &lt;f4&gt;tm&lt;/f4&gt; dans la recherche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check &lt;g5&gt;Glossaries&lt;/g5&gt; to include the glossaries located in the &lt;f6&gt;glossary&lt;/f6&gt; folder in the search.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211122T092814Z" creationid="suzume" creationdate="20211122T092814Z">
+        <seg>Cochez &lt;g5&gt;les glossaires&lt;/g5&gt; pour inclure les glossaires situés dans le dossier&lt;f6&gt;glossary&lt;/f6&gt; dans la recherche.</seg>
       </tuv>
     </tu>
     <tu>
