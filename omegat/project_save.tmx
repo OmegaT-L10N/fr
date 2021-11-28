@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.0_0_91d272a7b" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_0c2e30eb3" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -62555,6 +62555,14 @@ installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210204T133141Z" creationid="suzume" creationdate="20210204T133141Z">
         <seg>Il est possible de sélectionner un fichier avec les touches fléchées &lt;k1&gt;Haut&lt;/k1&gt; et &lt;k2&gt;Bas&lt;/k2&gt; et de l'ouvrir dans l'Éditeur en appuyant sur &lt;k3&gt;Entrée&lt;/k3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can select a glossary pane contents layout.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211128T152548Z" creationid="suzume" creationdate="20211128T152338Z">
+        <seg>Vous pouvez sélectionner une présentation du contenu du volet glossaire.</seg>
       </tuv>
     </tu>
     <tu>
