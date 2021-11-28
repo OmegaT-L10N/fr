@@ -25690,6 +25690,14 @@ need not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If a glossary item has alternate definitions, they will be displayed on the same line.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211128T152823Z" creationid="suzume" creationdate="20211128T152823Z">
+        <seg>Si une entrée de glossaire a des définitions alternatives, elles seront affichées sur la même ligne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If a search removes duplicates, those duplicates will not be in the Editor.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20140414T135404Z" creationid="Didier" creationdate="20140414T135404Z">
@@ -31956,6 +31964,14 @@ Exécutez OmegaT de la façon suivante.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130502T072219Z">
         <seg>Lancer cette option – &lt;g0&gt;Ctrl+T&lt;i1/&gt;&lt;/g0&gt; - ouvre une fenêtre qui liste tous les segments du fichier contenant des balises qui pourraient être altérées ou fausses dans les segments traduits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Layout variations can be added as plugins.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211128T152731Z" creationid="suzume" creationdate="20211128T152719Z">
+        <seg>Les modifications de présentation peuvent être ajoutées en tant que module d'extensions.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62563,6 +62579,14 @@ installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20211128T152548Z" creationid="suzume" creationdate="20211128T152338Z">
         <seg>Vous pouvez sélectionner une présentation du contenu du volet glossaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can select a theme for OmegaT's user interface.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20211128T152846Z" creationid="suzume" creationdate="20211128T152846Z">
+        <seg>Vous pouvez sélectionner un thème pour l'interface utilisateur d'OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
