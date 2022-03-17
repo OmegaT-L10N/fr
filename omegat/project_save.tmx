@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_0c2e30eb3" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_4e69721a3" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -14188,6 +14188,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Call to external program was interrupted: {0}</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20220317T102936Z" creationid="suzume" creationdate="20220317T102936Z">
+        <seg>L'appel à un programme externe a été interrompu : {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Camtasia for Windows</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130531T094149Z">
@@ -14268,6 +14276,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cannot find GPG executable on the bash $PATH</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20220317T102849Z" creationid="suzume" creationdate="20220317T102849Z">
+        <seg>Impossible de trouver l'exécutable GPG dans le $PATH bash</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cannot install</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20150713T084107Z" creationid="Didier" creationdate="20150713T084107Z">
@@ -14296,6 +14312,14 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
       <tuv lang="fr">
         <seg>Le lien {0} ne peut pas être ouvert</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cannot prepare GPG environment properly</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20220317T102916Z" creationid="suzume" creationdate="20220317T102916Z">
+        <seg>Impossible de préparer l'environnement GPG correctement</seg>
       </tuv>
     </tu>
     <tu>
@@ -21093,6 +21117,14 @@ personne ne vous entend pleurer...</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error while getting output of external program</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20220317T102756Z" creationid="suzume" creationdate="20220317T102756Z">
+        <seg>Erreur en essayant d'obtenir la sortie d'un programme externe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error while reading MT results</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20170303T165527Z" creationid="Didier" creationdate="20170303T165527Z">
@@ -21634,6 +21666,14 @@ dommage...</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>External GPG did not return a valid signature; got: {0}</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20220317T141707Z" creationid="suzume" creationdate="20220317T141707Z">
+        <seg>Le GPG externe n'a pas retourné de signature valide ; reçu : {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>External Lin&amp;ks</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20170331T135105Z" creationid="Didier" creationdate="20170331T135105Z">
@@ -21742,6 +21782,14 @@ dommage...</seg>
       </tuv>
       <tuv lang="fr">
         <seg>Documentation externe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>External program failed({1}): {0}</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20220317T103011Z" creationid="suzume" creationdate="20220317T103011Z">
+        <seg>Un programme externe a échoué ({1}) : {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -32596,6 +32644,14 @@ automatically download and install it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Looking for a GPG executable: path {0} from $PATH is not accessible; skipping</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20220317T141524Z" creationid="suzume" creationdate="20220317T141524Z">
+        <seg>Recherche d'un exécutable GPG : le chemin {0} dans $PATH n'est pas accessible ; abandon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Losing them may affect the project's integrity and your ability to complete a job.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130415T142446Z">
@@ -34982,6 +35038,22 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20180419T151135Z" creationid="Didier" creationdate="20180419T151135Z">
         <seg>Aucun fichier .DOCX à nettoyer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No GPG executable found; set it in the Git preferences in section "Committing", or define it in the git config gpg.program</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20220317T141635Z" creationid="suzume" creationdate="20220317T141635Z">
+        <seg>Aucun exécutable GPG trouvé ; définissez-le dans la section "Committing" des préférences Git, ou définissez-le dans git config gpg.program</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No GPG key found for key ID ''{0}''; check or set git config user.signingKey</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20220317T141321Z" creationid="suzume" creationdate="20220317T141321Z">
+        <seg>Aucune clé GPG pour l'ID "{0}" ; vérifiez la clé ou bien paramétrez git config user.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59137,6 +59209,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="fr" changeid="brigitte" changedate="20130715T193534Z">
         <seg>Guide de l'utilisateur...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>User canceled signing (no passphrase provided)</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20220317T141430Z" creationid="suzume" creationdate="20220317T141430Z">
+        <seg>L'utilisateur a annulé la signature (pas de phrase d'authentification fournie)</seg>
       </tuv>
     </tu>
     <tu>
