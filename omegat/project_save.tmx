@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_4e69721a3" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_f3b2dae03" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1622,8 +1622,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Restart</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210620T144610Z" creationid="suzume" creationdate="20210620T144610Z">
-        <seg>&amp;Redémarer</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20220502T163241Z" creationid="suzume" creationdate="20210620T144610Z">
+        <seg>&amp;Redémarrer</seg>
       </tuv>
     </tu>
     <tu>
@@ -42830,8 +42830,8 @@ ces mots : « pas de page »...</seg>
       <tuv lang="en">
         <seg>Restart</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20211117T145910Z" creationid="suzume" creationdate="20211117T145910Z">
-        <seg>&amp;Redémarer</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20220502T163256Z" creationid="suzume" creationdate="20211117T145910Z">
+        <seg>&amp;Redémarrer</seg>
       </tuv>
     </tu>
     <tu>
@@ -43728,8 +43728,8 @@ REPAIR OR CORRECTION.</seg>
       <tuv lang="en">
         <seg>Saves the project and restarts OmegaT.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20211117T145937Z" creationid="suzume" creationdate="20211117T145913Z">
-        <seg>Enregistre le projet et redémare OmegaT.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20220502T163310Z" creationid="suzume" creationdate="20211117T145913Z">
+        <seg>Enregistre le projet et redémarre OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
