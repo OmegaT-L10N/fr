@@ -572,6 +572,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Apply this font size to dictionary pane</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="suzume" changedate="20220503T110304Z" creationid="suzume" creationdate="20220503T110304Z">
+        <seg>A&amp;ppliquer cette taille de police dans le volet du dictionnaire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Apply this font to tabular data (project files, statistics, etc.)</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Didier" changedate="20150514T134824Z" creationid="Didier" creationdate="20150514T134824Z">
@@ -46141,6 +46149,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Size on Dictionary pane</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="suzume" changedate="20220503T110223Z" creationid="suzume" creationdate="20220503T110223Z">
+        <seg>Taille dans le volet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Skip</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Didier" changedate="20140203T140128Z" creationid="Didier" creationdate="20140203T140128Z">
@@ -58671,6 +58687,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Didier" changedate="20180327T155924Z" creationid="Didier" creationdate="20180327T155924Z">
         <seg>Utilisez $n pour vous référer au groupe numéro n.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &amp;Condensed view</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="suzume" changedate="20220503T110209Z" creationid="suzume" creationdate="20220503T110209Z">
+        <seg>Vue condensée</seg>
       </tuv>
     </tu>
     <tu>
