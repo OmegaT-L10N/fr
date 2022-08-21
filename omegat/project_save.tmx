@@ -996,6 +996,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Export TMs</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20220821T151726Z" creationid="suzume" creationdate="20220821T151726Z">
+        <seg>&amp;Exporter les MTs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;File</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20110717T175953Z">
@@ -21698,6 +21706,14 @@ dommage...</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Export Translation Memory Folder:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20220821T151950Z" creationid="suzume" creationdate="20220821T151950Z">
+        <seg>Dossier des mémoires de traduction :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Export the segment to text files</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130527T133726Z">
@@ -42170,6 +42186,14 @@ ces mots : « pas de page »...</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remote project file lacks git setting.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20220821T151842Z" creationid="suzume" creationdate="20220821T151821Z">
+        <seg>Le fichier projet distant n'a pas de paramètre git.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remote repository network communication error: {0}</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210201T140310Z" creationid="Didier" creationdate="20180919T153801Z">
@@ -55106,6 +55130,14 @@ this version will not interfere with it.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130507T092342Z">
         <seg>Pour ne pas être embrouillé, décochez cette option.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This may be intentional, but likely an oversight.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20220821T151925Z" creationid="suzume" creationdate="20220821T151925Z">
+        <seg>C'est peut-être délibéré mais probablement un oubli.</seg>
       </tuv>
     </tu>
     <tu>
