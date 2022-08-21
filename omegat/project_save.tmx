@@ -21706,10 +21706,18 @@ dommage...</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Export Translation Memory Files Folder</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20220821T152101Z" creationid="suzume" creationdate="20220821T152101Z">
+        <seg>Dossier des mémoires de traduction exportées</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Export Translation Memory Folder:</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20220821T151950Z" creationid="suzume" creationdate="20220821T151950Z">
-        <seg>Dossier des mémoires de traduction :</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20220821T152027Z" creationid="suzume" creationdate="20220821T151950Z">
+        <seg>Dossier d'exportation des mémoires de traduction :</seg>
       </tuv>
     </tu>
     <tu>
@@ -21718,6 +21726,22 @@ dommage...</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130527T133726Z">
         <seg>Exporter le segment dans des fichiers texte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Export translation memory folder entered does not exist!</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20220821T152146Z" creationid="suzume" creationdate="20220821T152146Z">
+        <seg>Le dossier des mémoires de traduction exportées n'existe pas !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Export translation memory folder {0} does not exist.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20220821T152159Z" creationid="suzume" creationdate="20220821T152159Z">
+        <seg>Le dossier des mémoires de traduction exportées {0} n'existe pas !</seg>
       </tuv>
     </tu>
     <tu>
@@ -48020,6 +48044,22 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>TMX Level 1</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20220821T152034Z" creationid="suzume" creationdate="20220821T152034Z">
+        <seg>TMX niveau 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TMX Level 2</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20220821T152038Z" creationid="suzume" creationdate="20220821T152038Z">
+        <seg>TMX niveau 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>TMX file was created by OmegaT 1.4.x or earlier.</seg>
       </tuv>
       <tuv lang="fr">
@@ -57662,6 +57702,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
         <seg>Les mémoires de traduction peuvent également contenir des traductions de référence : les législations internationales comme celles de la Communauté européenne en sont un exemple type.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translation memories to export:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20220821T152023Z" creationid="suzume" creationdate="20220821T152023Z">
+        <seg>Mémoires de traduction à exporter :</seg>
       </tuv>
     </tu>
     <tu>
