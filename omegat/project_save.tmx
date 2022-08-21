@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_46b905de7" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_59684a671" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -31030,6 +31030,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20180607T073646Z" creationid="Didier" creationdate="20180607T073646Z">
         <seg>Jean-Christophe Helary (gestionnaire du groupe d'assistance, responsable de la localisation)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Jean-Christophe Helary is the OmegaT project manager.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20220821T151209Z" creationid="suzume" creationdate="20220821T151209Z">
+        <seg>Jean-Christophe Helary est le responsable du projet OmegaT</seg>
       </tuv>
     </tu>
     <tu>
