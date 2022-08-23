@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_59684a671" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_ab5c8d01a" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -37028,8 +37028,8 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       <tuv lang="en">
         <seg>OmegaT for macOS is available in both Notarized and Unsigned versions; they are functionally identical, but the Notarized version is preferred as it is recognized by the system as being a) published by a known developer, and b) scanned by Apple.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210507T112439Z" creationid="suzume" creationdate="20210323T161223Z">
-        <seg>OmegaT pour macOS est disponible en version notariée et en version non-signée ; les deux versions sont fonctionnellement identiques, mais la version notarié est préférée car elle est reconnue par le système comme étant a) publiée par un développeur connu et b) scannée par Apple.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20220823T211327Z" creationid="suzume" creationdate="20210323T161223Z">
+        <seg>OmegaT pour macOS est disponible en version notariée et en version non-signée ; les deux versions sont fonctionnellement identiques, mais la version notariée est préférée car elle est reconnue par le système comme étant a) publiée par un développeur connu et b) scannée par Apple.</seg>
       </tuv>
     </tu>
     <tu>
