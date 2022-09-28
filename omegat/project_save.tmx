@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_fe1a78be0" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_0ab9fb396" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -23861,7 +23861,7 @@ authors of previous versions.</seg>
       <tuv lang="en">
         <seg>Fuzzy matching</seg>
       </tuv>
-      <tuv lang="fr">
+      <tuv lang="fr" changeid="suzume" changedate="20220928T225717Z">
         <seg>Correspondances partielles</seg>
       </tuv>
     </tu>
