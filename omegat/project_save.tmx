@@ -58915,6 +58915,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Usage: java -jar [&lt;java options&gt;] OmegaT.jar [&lt;OmegaT options&gt;] [&lt;project path&gt;]</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221007T144525Z" creationid="suzume" creationdate="20221007T144525Z">
+        <seg>Syntaxe : java -jar [&lt;options java&gt;] OmegaT.jar [&lt;OmegaT options&gt;] [&lt;project path&gt;]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20141202T171231Z" creationid="Didier" creationdate="20141202T171231Z">
