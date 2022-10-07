@@ -35354,6 +35354,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No options: Launch GUI</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221007T144856Z" creationid="suzume" creationdate="20221007T144856Z">
+        <seg>Pas d'options : lancement de l'interface graphique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No project loaded.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20180419T150946Z" creationid="Didier" creationdate="20180419T150946Z">
@@ -37522,6 +37530,14 @@ be launched.</seg>
       </tuv>
       <tuv lang="fr" changeid="laurieetclémentine" changedate="20130412T125218Z">
         <seg>OmegaT sur le web</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT options:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221007T144801Z" creationid="suzume" creationdate="20221007T144801Z">
+        <seg>Options OmegaT :</seg>
       </tuv>
     </tu>
     <tu>
@@ -44660,6 +44676,14 @@ La recherche port par défaut sur le projet, et peut porter sur tout fichier sit
       </tuv>
       <tuv lang="fr" changeid="briglegrand" changedate="20120502T070615Z">
         <seg>Reportez-vous au chapitre 7 (Filtre de fichiers) du guide de l'utilisateur pour obtenir la liste des formats de fichier gérés par OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Help &gt; User's Manual for more information, including Java options.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221007T144745Z" creationid="suzume" creationdate="20221007T144745Z">
+        <seg>Consulter Aide &gt; Manuel de l'utilisateur pour des informations supplémentaires, y compris les options Java.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58917,8 +58941,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="en">
         <seg>Usage: java -jar [&lt;java options&gt;] OmegaT.jar [&lt;OmegaT options&gt;] [&lt;project path&gt;]</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20221007T144525Z" creationid="suzume" creationdate="20221007T144525Z">
-        <seg>Syntaxe : java -jar [&lt;options java&gt;] OmegaT.jar [&lt;OmegaT options&gt;] [&lt;project path&gt;]</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20221007T144727Z" creationid="suzume" creationdate="20221007T144525Z">
+        <seg>Syntaxe : java -jar [&lt;options java&gt;] OmegaT.jar [&lt;options OmegaT&gt;] [&lt;chemin du projet&gt;]</seg>
       </tuv>
     </tu>
     <tu>
