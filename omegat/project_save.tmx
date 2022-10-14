@@ -3313,6 +3313,16 @@ Un fichier .properties Java à partir duquel charger les paramètres par défaut
     <tu>
       <tuv lang="en">
         <seg>--disable-location-save
+	  Do not remember the last directory opened in the file picker.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221014T003540Z" creationid="suzume" creationdate="20221014T003540Z">
+        <seg>--disable-location-save
+	Ne pas enregistrer le dernier répertoire ouvert dans le sélecteur de fichiers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--disable-location-save
 Do not remember the last directory opened in the file picker.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160115T134612Z" creationid="Didier" creationdate="20160115T134612Z">
@@ -3328,6 +3338,16 @@ Ne pas se souvenir le dernier répertoire ouvert dans le sélecteur de fichiers.
       <tuv lang="fr" changeid="Didier" changedate="20160212T145205Z" creationid="Didier" creationdate="20160212T145205Z">
         <seg>--disable-project-locking
 		Ne pas essayer de verrouiller le fichier omegat.project du projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--disable-project-locking
+	  Do not attempt to lock the project's omegat.project file.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221014T003428Z" creationid="suzume" creationdate="20221014T003428Z">
+        <seg>--disable-project-locking
+	Ne pas essayer de verrouiller le fichier omegat.project du projet.</seg>
       </tuv>
     </tu>
     <tu>
