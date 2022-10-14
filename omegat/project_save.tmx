@@ -3196,6 +3196,19 @@ le programme d'installation peut créer des raccourcis pour vous dans le menu d�
     <tu>
       <tuv lang="en">
         <seg>--ITokenizer=&lt;classname&gt;
+	--ITokenizerTarget=&lt;classname&gt;
+	  Source- or target-language tokenizer to use (overrides project
+	  settings).</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221014T003559Z" creationid="suzume" creationdate="20221014T003559Z">
+        <seg>--ITokenizer=&lt;nom de classe&gt;
+	--ITokenizerTarget=&lt;nom de classe&gt;
+	Lemmatiseur source ou cible à utiliser (remplace les paramètres du projet).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--ITokenizer=&lt;classname&gt;
 --ITokenizerTarget=&lt;classname&gt;
 Source- or target-language tokenizer to use (overrides project
 settings).</seg>
@@ -3266,6 +3279,16 @@ Comportement du lemmatiseur source ou cible à utiliser (remplace les paramètre
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--config-dir=&lt;path&gt;
+	  The directory to read/write OmegaT configuration files from/to.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221014T003652Z" creationid="suzume" creationdate="20221014T003652Z">
+        <seg>--config-dir=&lt;chemin&gt;
+	Le répertoire à partir duquel lire et écrire les fichiers de configuration.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--config-file=/path/to/config-file/ \</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160322T170221Z" creationid="Didier" creationdate="20160322T170221Z">
@@ -3288,6 +3311,16 @@ Comportement du lemmatiseur source ou cible à utiliser (remplace les paramètre
       <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210504T104542Z" creationid="Didier" creationdate="20160212T145057Z">
         <seg>--config-file=&lt;chemin&gt;
 		Un fichier.properties Java à partir duquel charger les paramètres par défaut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--config-file=&lt;path&gt;
+	  A Java .properties file from which to load default settings.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221014T003630Z" creationid="suzume" creationdate="20221014T003630Z">
+        <seg>--config-file=&lt;chemin&gt;
+	Un fichier.properties Java à partir duquel charger les paramètres par défaut.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3366,6 +3399,16 @@ Ne pas essayer de verrouiller le fichier omegat.project du projet.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210131T124300Z" creationid="suzume" creationdate="20210131T124300Z">
         <seg>--mode=&lt;p3&gt;console-translate|console-createpseudotranslatetmx|console-align&lt;/p3&gt;\</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--mode=[console mode name]
+	  Specify a mode other than default (GUI).</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221014T003821Z" creationid="suzume" creationdate="20221014T003821Z">
+        <seg>--mode=[nom du mode console]
+	Spécifier un mode différent du mode par défaut (interface graphique).</seg>
       </tuv>
     </tu>
     <tu>
@@ -3538,6 +3581,17 @@ Le contenu à inclure dans la TMX pseudo-traduite.</seg>
 		Un fichier .properties Java à utiliser pour les textes de l'interface utilisateur
 	--config-dir=&lt;chemin&gt;
 		Le répertoire à partir duquel lire et écrire les fichiers de configuration d'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--resource-bundle=&lt;path&gt;
+	  A Java .properties file to use for interface text</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221014T003723Z" creationid="suzume" creationdate="20221014T003723Z">
+        <seg>--resource-bundle=&lt;chemin&gt;
+	Un fichier .properties Java à utiliser pour les textes de l'interface utilisateur.
+</seg>
       </tuv>
     </tu>
     <tu>
