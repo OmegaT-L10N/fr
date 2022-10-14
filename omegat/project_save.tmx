@@ -3738,6 +3738,16 @@ Un fichier script à exécuter lors d'événements survenant dans le projet.</se
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--stats-type=[xml|text][txt][json]]]
+	    Specifies the output format.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221014T042333Z" creationid="suzume" creationdate="20221014T042333Z">
+        <seg>--stats-type=[xml|text][txt][json]]]
+	    Spécifie le format de sortie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--tag-validation=[abort|warn]
 		Validate tags.</seg>
       </tuv>
@@ -18495,6 +18505,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
       <tuv lang="fr" changeid="laurieetclémentine" changedate="20130411T133019Z">
         <seg>Raccourci par défaut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Defaults to xml.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221014T013228Z" creationid="suzume" creationdate="20221014T013228Z">
+        <seg>Le format par défaut est xml.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61880,6 +61898,14 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130527T141826Z">
         <seg>À l'intérieur d'un segment, le premier groupe (unique ou double) reçoit le numéro 0, le deuxième le numéro 1, etc. (</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Without --stats-type, detects format from file extension.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221014T013206Z" creationid="suzume" creationdate="20221014T013206Z">
+        <seg>Sans --stats-type, détecte le format à partir de l'extension fichier.</seg>
       </tuv>
     </tu>
     <tu>
