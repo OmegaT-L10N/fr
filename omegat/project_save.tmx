@@ -3441,6 +3441,18 @@ Spécifier un mode différent du mode par défaut (interface utilisateur).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--mode=console-align
+	  --alignDir=&lt;path&gt;
+	    A directory containing the translated files.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221014T004036Z" creationid="suzume" creationdate="20221014T004036Z">
+        <seg>--mode=console-align
+	--alignDir=&lt;chemin&gt;
+	Un répertoire contenant les fichiers traduits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--mode=console-createpseudotranslatetmx</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T104541Z">
@@ -3449,10 +3461,50 @@ Spécifier un mode différent du mode par défaut (interface utilisateur).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--mode=console-pseudotranslatetmx
+	  --pseudotranslatetmx=&lt;path&gt;
+	    The output pseudotranslated TMX file.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221014T003955Z" creationid="suzume" creationdate="20221014T003939Z">
+        <seg>--mode=console-pseudotranslatetmx :
+	--pseudotranslatetmx=&lt;chemin&gt;
+	Le fichier TMX résultant contenant une pseudo-traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--mode=console-stats
+	  project_path
+	    The path to the project
+	  --output-file=[stats-output-file]
+	    Prints to that file, or to standard output if absent.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221014T004429Z" creationid="suzume" creationdate="20221014T004429Z">
+        <seg>--mode=console-stats
+	chemin_du_projet
+	  Le chemin du projet.
+	--output-file=[fichier-de-sortie]
+	  Envoie les informations vers ce fichier, ou vers la sortie standard si absent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--mode=console-translate</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T104533Z">
         <seg>--mode=console-translate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--mode=console-translate
+	  --source-pattern=&lt;pattern&gt;
+	    A regex whitelist of source files to process.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221014T003919Z" creationid="suzume" creationdate="20221014T003919Z">
+        <seg>--mode=console-translate
+	--source-pattern=&lt;modèle&gt;
+	Une liste en expression régulière des fichiers source à traiter.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3533,6 +3585,16 @@ Désactiver la fonctionnalité de projets en équipe.</seg>
       <tuv lang="fr" changeid="FABRI" changedate="20210625T132443Z" creationid="Didier" creationdate="20160212T145638Z">
         <seg>--pseudotranslatetype=[equal|empty]
 		Le contenu à inclure dans la TMX pseudo-traduite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--pseudotranslatetype=[equal|empty]
+	    What to fill the pseudotranslated TMX with.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221014T004008Z" creationid="suzume" creationdate="20221014T003943Z">
+        <seg>--pseudotranslatetype=[equal|empty]
+	Le contenu à inclure dans la TMX pseudo-traduite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16511,6 +16573,14 @@ kolekti -b C:\[...]\trunk\doc_src2 publish [-j JOB] -l fr,en C:\[...]\trunk\doc_
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20170403T154150Z" creationid="briac" creationdate="20170403T154034Z">
         <seg>guide d'apprentissage accompagné d'un guide du formateur et d'exercices.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Console mode names and their options:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221014T003841Z" creationid="suzume" creationdate="20221014T003841Z">
+        <seg>Noms des modes console et options :</seg>
       </tuv>
     </tu>
     <tu>
