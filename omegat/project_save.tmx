@@ -3421,6 +3421,16 @@ Spécifier un mode différent du mode par défaut (interface utilisateur).</seg>
     <tu>
       <tuv lang="en">
         <seg>--no-team
+	  Disable team project functionality.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221014T002759Z" creationid="suzume" creationdate="20221014T002759Z">
+        <seg>--no-team
+	Désactiver la fonctionnalité de projets en équipe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--no-team
 Disable team project functionality.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160115T134633Z" creationid="Didier" creationdate="20160115T134633Z">
@@ -3482,6 +3492,18 @@ Le contenu à inclure dans la TMX pseudo-traduite.</seg>
         <seg>--remote-project
 		Télécharger un fichier omegat.project depuis l'URL donnée comme &lt;chemin
 		projet&gt; et charger le projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--remote-project
+	  Download an omegat.project file from the URL given as &lt;project
+	  path&gt; and load the project.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221014T002739Z" creationid="suzume" creationdate="20221014T002739Z">
+        <seg>--remote-project
+	Télécharger un fichier omegat.project depuis l'URL donnée comme &lt;chemin
+	projet&gt; et charger le projet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3670,6 +3692,16 @@ Valider les balises.</seg>
       <tuv lang="fr" changeid="Didier" changedate="20160718T150643Z" creationid="Didier" creationdate="20160718T150643Z">
         <seg>-h, --help
 		Afficher des informations sur l'utilisation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>-h, --help
+	  Print this help message.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221014T002720Z" creationid="suzume" creationdate="20221014T002720Z">
+        <seg>-h, --help
+		Afficher ce message d'aide</seg>
       </tuv>
     </tu>
     <tu>
@@ -70529,6 +70561,16 @@ Ok. </note>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T100232Z">
         <seg>te</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>team init &lt;source language&gt; &lt;target language&gt;
+	  Team project tool.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221014T002845Z" creationid="suzume" creationdate="20221014T002845Z">
+        <seg>team init &lt;langue source&gt; &lt;langue cible&gt;
+	Outil de projet en équipe.</seg>
       </tuv>
     </tu>
     <tu>
