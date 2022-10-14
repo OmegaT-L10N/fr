@@ -26252,6 +26252,16 @@ compelled to copy the source along with the object code.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If invoked in a git working tree or svn checkout, the results
+	  will be staged/added.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221014T003411Z" creationid="suzume" creationdate="20221014T003411Z">
+        <seg>Si la commande est lancée dans un dépôt git ou svn, les résultats
+	seront mis en suivi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If issue checking is slow, try disabling some of the optional checks.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20170111T140141Z" creationid="Didier" creationdate="20170111T140141Z">
@@ -29462,6 +29472,14 @@ patent against the party.</seg>
       </tuv>
       <tuv lang="fr">
         <seg>Les informations mentionnées ci-après sont proposées sur d'autres sites et concernent diverses procédures et fonctions d'OmegaT. Elles s'adressent aux utilisateurs confirmés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Initialize a minimal team project with the specified languages.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221014T002906Z" creationid="suzume" creationdate="20221014T002906Z">
+        <seg>Initialise un projet en équipe minimal avec les langues spécifiées.</seg>
       </tuv>
     </tu>
     <tu>
