@@ -4043,6 +4043,22 @@ Valider les balises.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>1.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briglegrand" changedate="20110106T201228Z">
+        <seg>1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>10.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briglegrand" changedate="20110112T083627Z">
+        <seg>10.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>103/114</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T105223Z">
@@ -4088,10 +4104,26 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>2.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briglegrand" changedate="20110106T202322Z">
+        <seg>2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>27/27</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T105221Z">
         <seg>27/27</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>3.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briglegrand" changedate="20110107T153208Z">
+        <seg>3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4136,6 +4168,22 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>4.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briglegrand" changedate="20110107T154512Z">
+        <seg>4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>5.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briglegrand" changedate="20110108T125838Z">
+        <seg>5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>50%-74%:</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
@@ -4152,10 +4200,34 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>6.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briglegrand" changedate="20110108T181623Z">
+        <seg>6.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>7.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briglegrand" changedate="20110111T202813Z">
+        <seg>7.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>75%-84%:</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
         <seg>75 % à 84 % :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>8.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briglegrand" changedate="20110111T210401Z">
+        <seg>8.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4172,6 +4244,14 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
         <seg>85 % à 94 % :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>9.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briglegrand" changedate="20110111T215201Z">
+        <seg>9.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12708,6 +12788,14 @@ void, and will automatically terminate your rights under this License.</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20200724T172850Z" creationid="briac" creationdate="20200724T172850Z">
         <seg>Annexes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Application Folder</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221015T224400Z" creationid="suzume" creationdate="20221015T224400Z">
+        <seg>Dossier Application</seg>
       </tuv>
     </tu>
     <tu>
@@ -29996,6 +30084,14 @@ patent against the party.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Install OmegaT</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221015T224523Z" creationid="suzume" creationdate="20221015T224523Z">
+        <seg>Installation d'OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Install the latest version of Python 2.7, 32-bit (even on 64-bit PCs):
 https://www.python.org/downloads/</seg>
       </tuv>
@@ -33098,6 +33194,14 @@ automatically download and install it.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130527T135302Z">
         <seg>S'ils sont perdus, OmegaT retourne généralement à ses « paramètres d'origine ».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Lower Case</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Clementine" changedate="20130412T081028Z">
+        <seg>Basculer la casse en &gt; Minuscule</seg>
       </tuv>
     </tu>
     <tu>
@@ -37232,6 +37336,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210620T145230Z" creationid="suzume" creationdate="20210620T145230Z">
         <seg>Thème OmegaT classique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT comes in two editions:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221015T224539Z" creationid="suzume" creationdate="20221015T224539Z">
+        <seg>Il existe deux versions d'OmegaT :</seg>
       </tuv>
     </tu>
     <tu>
@@ -47628,6 +47740,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Standard: OmegaT 5.8.0</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221015T224632Z" creationid="suzume" creationdate="20221015T224632Z">
+        <seg>Version standard : OmegaT 5.8.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Start OmegaT again, download the team project, close OmegaT
 5.</seg>
       </tuv>
@@ -50500,6 +50620,14 @@ shown below.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160718T161320Z" creationid="Didier" creationdate="20160718T161320Z">
         <seg>Les méthodes et les moyens alternatifs pour télécharger et installer OmegaT sont indiqués ci-dessous.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The application folder contains the &lt;f0&gt;OmegaT.jar&lt;/f0&gt; application and a number of other important files.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221015T224508Z" creationid="suzume" creationdate="20221015T224405Z">
+        <seg>Le dossier application contient l'application &lt;f0&gt;OmegaT.jar&lt;/f0&gt; ainsi qu'un certain nombre de fichiers importants.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56169,6 +56297,14 @@ collective works based on the Program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Title Case</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Clementine" changedate="20130412T081050Z">
+        <seg>Basculer la casse en &gt; 1ère lettre des mots en majuscule</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Tmx files contain translation units, made of a number of equivalent segments in several languages.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130502T083331Z">
@@ -59177,6 +59313,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20211117T145906Z" creationid="suzume" creationdate="20211117T145906Z">
         <seg>Envoie au dépôt les fichiers qui ont été créés localement dans le dossier &lt;f0&gt;target&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Upper Case</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Clementine" changedate="20130412T081040Z">
+        <seg>Basculer la casse en &gt; Majuscule</seg>
       </tuv>
     </tu>
     <tu>
