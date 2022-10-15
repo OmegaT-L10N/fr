@@ -3609,6 +3609,16 @@ Le contenu à inclure dans la TMX pseudo-traduite.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--quiet
+	  Reduce output to command line stdout.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221015T222634Z" creationid="suzume" creationdate="20221015T222634Z">
+        <seg>--quiet
+	  Diminue les sorties sur stdout.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--remote-project
 		Download an omegat.project file from the URL given as &lt;project
 		path&gt; and load the project.</seg>
@@ -3697,6 +3707,16 @@ Le répertoire à partir duquel lire et écrire les fichiers de configuration Om
     <tu>
       <tuv lang="en">
         <seg>--script=&lt;path&gt;
+	  A script file to be executed on project events.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221015T222655Z" creationid="suzume" creationdate="20221015T222655Z">
+        <seg>--script=&lt;chemin&gt;
+	  Un fichier script à exécuter lors d'événements survenant dans le projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--script=&lt;path&gt;
 A script file to be executed on project events.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160115T135057Z" creationid="Didier" creationdate="20160115T135057Z">
@@ -3754,6 +3774,16 @@ Un fichier script à exécuter lors d'événements survenant dans le projet.</se
       <tuv lang="fr" changeid="Didier" changedate="20160212T145528Z" creationid="Didier" creationdate="20160212T145528Z">
         <seg>--tag-validation=[abort|warn]
 		Valider les balises.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--tag-validation=[abort|warn]
+	  Validate tags.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221015T222702Z" creationid="suzume" creationdate="20221015T222702Z">
+        <seg>--tag-validation=[abort|warn]
+	  Valider les balises.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59171,6 +59201,16 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221007T144727Z" creationid="suzume" creationdate="20221007T144525Z">
         <seg>Syntaxe : java -jar [&lt;options java&gt;] OmegaT.jar [&lt;options OmegaT&gt;] [&lt;chemin du projet&gt;]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Usage: team init &lt;source language&gt; &lt;target language&gt;
+	See --help</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221015T222757Z" creationid="suzume" creationdate="20221015T222726Z">
+        <seg>Utilisation : team init &lt;langue source&gt; &lt;langue cible&gt;
+	  Voir --help</seg>
       </tuv>
     </tu>
     <tu>
