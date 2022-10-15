@@ -52600,6 +52600,14 @@ modification follow.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The project conversion was failed.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221015T223712Z" creationid="suzume" creationdate="20221015T223712Z">
+        <seg>La conversion de ce projet a échoué.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The project default writable glossary is always a TSV file saved in UTF-8 encoding.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210323T231215Z" creationid="suzume" creationdate="20210323T231215Z">
@@ -62130,6 +62138,14 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20170403T153019Z" creationid="briac" creationdate="20170403T153019Z">
         <seg>Écrit en Python/Perl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wrong URL detected in Linkifier: {0}</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221015T223629Z" creationid="suzume" creationdate="20221015T223629Z">
+        <seg>URL erronée détectée dans Linkifier :{0}</seg>
       </tuv>
     </tu>
     <tu>
