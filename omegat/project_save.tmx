@@ -3200,10 +3200,10 @@ le programme d'installation peut créer des raccourcis pour vous dans le menu d�
 	  Source- or target-language tokenizer to use (overrides project
 	  settings).</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20221014T003559Z" creationid="suzume" creationdate="20221014T003559Z">
+      <tuv lang="fr" changeid="suzume" changedate="20221015T222420Z" creationid="suzume" creationdate="20221014T003559Z">
         <seg>--ITokenizer=&lt;nom de classe&gt;
-	--ITokenizerTarget=&lt;nom de classe&gt;
-	Lemmatiseur source ou cible à utiliser (remplace les paramètres du projet).</seg>
+	  --ITokenizerTarget=&lt;nom de classe&gt;
+	  Lemmatiseur source ou cible à utiliser (remplace les paramètres du projet).</seg>
       </tuv>
     </tu>
     <tu>
@@ -3282,9 +3282,9 @@ Comportement du lemmatiseur source ou cible à utiliser (remplace les paramètre
         <seg>--config-dir=&lt;path&gt;
 	  The directory to read/write OmegaT configuration files from/to.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20221014T003652Z" creationid="suzume" creationdate="20221014T003652Z">
+      <tuv lang="fr" changeid="suzume" changedate="20221015T222428Z" creationid="suzume" creationdate="20221014T003652Z">
         <seg>--config-dir=&lt;chemin&gt;
-	Le répertoire à partir duquel lire et écrire les fichiers de configuration.</seg>
+	  Le répertoire à partir duquel lire et écrire les fichiers de configuration.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3318,9 +3318,9 @@ Comportement du lemmatiseur source ou cible à utiliser (remplace les paramètre
         <seg>--config-file=&lt;path&gt;
 	  A Java .properties file from which to load default settings.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20221014T003630Z" creationid="suzume" creationdate="20221014T003630Z">
+      <tuv lang="fr" changeid="suzume" changedate="20221015T222425Z" creationid="suzume" creationdate="20221014T003630Z">
         <seg>--config-file=&lt;chemin&gt;
-	Un fichier.properties Java à partir duquel charger les paramètres par défaut.</seg>
+	  Un fichier.properties Java à partir duquel charger les paramètres par défaut.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3348,9 +3348,9 @@ Un fichier .properties Java à partir duquel charger les paramètres par défaut
         <seg>--disable-location-save
 	  Do not remember the last directory opened in the file picker.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20221014T003540Z" creationid="suzume" creationdate="20221014T003540Z">
+      <tuv lang="fr" changeid="suzume" changedate="20221015T222414Z" creationid="suzume" creationdate="20221014T003540Z">
         <seg>--disable-location-save
-	Ne pas enregistrer le dernier répertoire ouvert dans le sélecteur de fichiers.</seg>
+	  Ne pas enregistrer le dernier répertoire ouvert dans le sélecteur de fichiers.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3378,9 +3378,9 @@ Ne pas se souvenir le dernier répertoire ouvert dans le sélecteur de fichiers.
         <seg>--disable-project-locking
 	  Do not attempt to lock the project's omegat.project file.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20221014T003428Z" creationid="suzume" creationdate="20221014T003428Z">
+      <tuv lang="fr" changeid="suzume" changedate="20221015T222411Z" creationid="suzume" creationdate="20221014T003428Z">
         <seg>--disable-project-locking
-	Ne pas essayer de verrouiller le fichier omegat.project du projet.</seg>
+	  Ne pas essayer de verrouiller le fichier omegat.project du projet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3406,9 +3406,9 @@ Ne pas essayer de verrouiller le fichier omegat.project du projet.</seg>
         <seg>--mode=[console mode name]
 	  Specify a mode other than default (GUI).</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20221014T003821Z" creationid="suzume" creationdate="20221014T003821Z">
+      <tuv lang="fr" changeid="suzume" changedate="20221015T222435Z" creationid="suzume" creationdate="20221014T003821Z">
         <seg>--mode=[nom du mode console]
-	Spécifier un mode différent du mode par défaut (interface graphique).</seg>
+	  Spécifier un mode différent du mode par défaut (interface graphique).</seg>
       </tuv>
     </tu>
     <tu>
@@ -3445,10 +3445,10 @@ Spécifier un mode différent du mode par défaut (interface utilisateur).</seg>
 	  --alignDir=&lt;path&gt;
 	    A directory containing the translated files.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20221014T004036Z" creationid="suzume" creationdate="20221014T004036Z">
+      <tuv lang="fr" changeid="suzume" changedate="20221015T222459Z" creationid="suzume" creationdate="20221014T004036Z">
         <seg>--mode=console-align
-	--alignDir=&lt;chemin&gt;
-	Un répertoire contenant les fichiers traduits.</seg>
+	  --alignDir=&lt;chemin&gt;
+	  Un répertoire contenant les fichiers traduits.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3465,10 +3465,10 @@ Spécifier un mode différent du mode par défaut (interface utilisateur).</seg>
 	  --pseudotranslatetmx=&lt;path&gt;
 	    The output pseudotranslated TMX file.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20221014T003955Z" creationid="suzume" creationdate="20221014T003939Z">
+      <tuv lang="fr" changeid="suzume" changedate="20221015T222449Z" creationid="suzume" creationdate="20221014T003939Z">
         <seg>--mode=console-pseudotranslatetmx :
-	--pseudotranslatetmx=&lt;chemin&gt;
-	Le fichier TMX résultant contenant une pseudo-traduction.</seg>
+	  --pseudotranslatetmx=&lt;chemin&gt;
+	  Le fichier TMX résultant contenant une pseudo-traduction.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3479,12 +3479,12 @@ Spécifier un mode différent du mode par défaut (interface utilisateur).</seg>
 	  --output-file=[stats-output-file]
 	    Prints to that file, or to standard output if absent.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20221014T004429Z" creationid="suzume" creationdate="20221014T004429Z">
+      <tuv lang="fr" changeid="suzume" changedate="20221015T222520Z" creationid="suzume" creationdate="20221014T004429Z">
         <seg>--mode=console-stats
-	chemin_du_projet
-	  Le chemin du projet.
-	--output-file=[fichier-de-sortie]
-	  Envoie les informations vers ce fichier, ou vers la sortie standard si absent.</seg>
+	  chemin_du_projet
+	    Le chemin du projet.
+	  --output-file=[fichier-de-sortie]
+	    Envoie les informations vers ce fichier, ou vers la sortie standard si absent.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3501,10 +3501,10 @@ Spécifier un mode différent du mode par défaut (interface utilisateur).</seg>
 	  --source-pattern=&lt;pattern&gt;
 	    A regex whitelist of source files to process.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20221014T003919Z" creationid="suzume" creationdate="20221014T003919Z">
+      <tuv lang="fr" changeid="suzume" changedate="20221015T222443Z" creationid="suzume" creationdate="20221014T003919Z">
         <seg>--mode=console-translate
-	--source-pattern=&lt;modèle&gt;
-	Une liste en expression régulière des fichiers source à traiter.</seg>
+	  --source-pattern=&lt;modèle&gt;
+	  Une liste en expression régulière des fichiers source à traiter.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3538,9 +3538,9 @@ Spécifier un mode différent du mode par défaut (interface utilisateur).</seg>
         <seg>--no-team
 	  Disable team project functionality.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20221014T002759Z" creationid="suzume" creationdate="20221014T002759Z">
+      <tuv lang="fr" changeid="suzume" changedate="20221015T222351Z" creationid="suzume" creationdate="20221014T002759Z">
         <seg>--no-team
-	Désactiver la fonctionnalité de projets en équipe.</seg>
+	  Désactiver la fonctionnalité de projets en équipe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3592,9 +3592,9 @@ Désactiver la fonctionnalité de projets en équipe.</seg>
         <seg>--pseudotranslatetype=[equal|empty]
 	    What to fill the pseudotranslated TMX with.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20221014T004008Z" creationid="suzume" creationdate="20221014T003943Z">
+      <tuv lang="fr" changeid="suzume" changedate="20221015T222453Z" creationid="suzume" creationdate="20221014T003943Z">
         <seg>--pseudotranslatetype=[equal|empty]
-	Le contenu à inclure dans la TMX pseudo-traduite.</seg>
+	  Le contenu à inclure dans la TMX pseudo-traduite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3625,10 +3625,10 @@ Le contenu à inclure dans la TMX pseudo-traduite.</seg>
 	  Download an omegat.project file from the URL given as &lt;project
 	  path&gt; and load the project.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20221014T002739Z" creationid="suzume" creationdate="20221014T002739Z">
+      <tuv lang="fr" changeid="suzume" changedate="20221015T222345Z" creationid="suzume" creationdate="20221014T002739Z">
         <seg>--remote-project
-	Télécharger un fichier omegat.project depuis l'URL donnée comme &lt;chemin
-	projet&gt; et charger le projet.</seg>
+	  Télécharger un fichier omegat.project depuis l'URL donnée comme
+	  &lt;chemin projet&gt; et charger le projet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3650,9 +3650,9 @@ Le contenu à inclure dans la TMX pseudo-traduite.</seg>
         <seg>--resource-bundle=&lt;path&gt;
 	  A Java .properties file to use for interface text</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20221014T003723Z" creationid="suzume" creationdate="20221014T003723Z">
+      <tuv lang="fr" changeid="suzume" changedate="20221015T222432Z" creationid="suzume" creationdate="20221014T003723Z">
         <seg>--resource-bundle=&lt;chemin&gt;
-	Un fichier .properties Java à utiliser pour les textes de l'interface utilisateur.
+	  Un fichier .properties Java à utiliser pour les textes de l'interface utilisateur.
 </seg>
       </tuv>
     </tu>
@@ -3845,9 +3845,9 @@ Valider les balises.</seg>
         <seg>-h, --help
 	  Print this help message.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20221014T002720Z" creationid="suzume" creationdate="20221014T002720Z">
+      <tuv lang="fr" changeid="suzume" changedate="20221015T222309Z" creationid="suzume" creationdate="20221014T002720Z">
         <seg>-h, --help
-		Afficher ce message d'aide</seg>
+	  Afficher ce message d'aide</seg>
       </tuv>
     </tu>
     <tu>
@@ -16595,6 +16595,14 @@ kolekti -b C:\[...]\trunk\doc_src2 publish [-j JOB] -l fr,en C:\[...]\trunk\doc_
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Console only options:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221015T222604Z" creationid="suzume" creationdate="20221015T222604Z">
+        <seg>Options limitées à la console :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Console-align mode:
 	--alignDir=&lt;path&gt;
 		A directory containing the translated files.</seg>
@@ -26417,9 +26425,9 @@ compelled to copy the source along with the object code.</seg>
         <seg>If invoked in a git working tree or svn checkout, the results
 	  will be staged/added.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20221014T003411Z" creationid="suzume" creationdate="20221014T003411Z">
+      <tuv lang="fr" changeid="suzume" changedate="20221015T222405Z" creationid="suzume" creationdate="20221014T003411Z">
         <seg>Si la commande est lancée dans un dépôt git ou svn, les résultats
-	seront mis en suivi.</seg>
+	  seront mis en suivi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -70756,9 +70764,9 @@ Ok. </note>
         <seg>team init &lt;source language&gt; &lt;target language&gt;
 	  Team project tool.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20221014T002845Z" creationid="suzume" creationdate="20221014T002845Z">
+      <tuv lang="fr" changeid="suzume" changedate="20221015T222357Z" creationid="suzume" creationdate="20221014T002845Z">
         <seg>team init &lt;langue source&gt; &lt;langue cible&gt;
-	Outil de projet en équipe.</seg>
+	  Outil de projet en équipe.</seg>
       </tuv>
     </tu>
     <tu>
