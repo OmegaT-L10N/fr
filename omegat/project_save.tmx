@@ -19781,6 +19781,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Don't you forget a first commit?</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221015T224053Z" creationid="suzume" creationdate="20221015T224053Z">
+        <seg>Vous avez peut-être oublié le premier ajout de fichiers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Donation to OmegaT - multiplatform CAT tool</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20190222T085620Z" creationid="Didier" creationdate="20190222T085556Z">
@@ -23815,6 +23823,14 @@ authors of previous versions.</seg>
       </tuv>
       <tuv lang="fr" changeid="jchelary" changedate="20130526T100319Z">
         <seg>OmegaT affiche la traduction de tous les mots qui peuvent apparaître dans le segment que vous êtes en train de traduire et qui sont enregistrés dans le glossaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Force escaping Unicode literals as compatible to Java 8 to write</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221015T224157Z" creationid="suzume" creationdate="20221015T224157Z">
+        <seg>Forcer le codage des littéraux Unicode pour compatibilité avec Java 8</seg>
       </tuv>
     </tu>
     <tu>
@@ -40305,6 +40321,14 @@ l'ensemble.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Please check your repository has correct commits and files.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221015T224033Z" creationid="suzume" creationdate="20221015T223954Z">
+        <seg>Vérifiez que ce dépôt a des ajouts de fichiers corrects.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please close search window.</seg>
       </tuv>
       <tuv lang="fr">
@@ -43106,6 +43130,14 @@ ces mots : « pas de page »...</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210201T145653Z" creationid="Didier" creationdate="20160427T150416Z">
         <seg>Dépôt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Repository (type: {0}) URL not defined on path: {1}</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221015T223928Z" creationid="suzume" creationdate="20221015T223928Z">
+        <seg>L'URL de dépôt (type : {0}) n'est pas définie sur le chemin : {1}</seg>
       </tuv>
     </tu>
     <tu>
