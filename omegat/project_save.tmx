@@ -43574,6 +43574,14 @@ ces mots : « pas de page »...</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Represents zero or one horizontal whitespace character (this includes regular and non-breaking spaces as well as tabs, but not line break characters, which belong to the “vertical whitespace” category (\v).)</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221016T094422Z" creationid="suzume" creationdate="20221016T094209Z">
+        <seg>Un caractère d'espacement horizontal ou plus (ceci inclus les espaces normales ou insécables, les tabulations, mais pas les sauts de lignes ou les retours-chariot qui font partie de la catégorie « caractère d'espacement vertical » : \v).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Request error: {0}</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z" creationid="Didier" creationdate="20140625T073747Z">
