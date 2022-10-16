@@ -14430,8 +14430,8 @@ software--to make sure the software is free for all its users.</seg>
       <tuv lang="en">
         <seg>By default, each project contains a &lt;l0/&gt; folder to store the writable glossary and any reference glossaries you want to add to the project.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20221016T082957Z" creationid="suzume" creationdate="20221016T082957Z">
-        <seg>Par défaut, un projet contient un dossier &lt;l0/&gt; pour stocker le glossaire en écriture et les glossaires de référence que vous souhaitez ajouter au projet.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20221016T085247Z" creationid="suzume" creationdate="20221016T082957Z">
+        <seg>Par défaut, un projet contient un dossier &lt;l0/&gt; pour stocker le glossaire modifiable et les glossaires de référence que vous souhaitez ajouter au projet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30931,8 +30931,8 @@ exécutez simplement le programme d'installation.</seg>
       <tuv lang="en">
         <seg>It is called the &lt;e1&gt;writable&lt;/e1&gt; glossary for this reason.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20221016T081439Z" creationid="suzume" creationdate="20221016T081439Z">
-        <seg>C'est la raison pour laquelle il est appelé glossaire &lt;e1&gt;en écriture&lt;/e1&gt;.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20221016T085238Z" creationid="suzume" creationdate="20221016T081439Z">
+        <seg>C'est la raison pour laquelle il est appelé glossaire &lt;e1&gt;modifiable&lt;/e1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53160,6 +53160,14 @@ modification follow.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The project writable glossary is by default located in the &lt;l0/&gt; folder and called &lt;l1/&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221016T085316Z" creationid="suzume" creationdate="20221016T085132Z">
+        <seg>Le glossaire modifiable du projet est par défaut situé dans le dossier &lt;l0/&gt; et est appelé &lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The purpose of the console (i.e. command line) mode is to permit the use &lt;a0&gt;of OmegaT&lt;/a0&gt; as translation tool in a scripting environment.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130527T153456Z">
@@ -63438,6 +63446,14 @@ your programs, too.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20211117T150808Z" creationid="suzume" creationdate="20211117T150808Z">
         <seg>Il est possible de se déplacer d'une note à l'autre en cliquant sur &lt;m0&gt;&lt;g1&gt;Atteindre&lt;/g1&gt;&lt;g2&gt;Note Suivante&lt;/g2&gt;&lt;/m0&gt; et &lt;m3&gt;&lt;g4&gt;Atteindre&lt;/g4&gt;&lt;g5&gt;Note Précédente&lt;/g5&gt;&lt;/m3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can change its name and location in the &lt;l0/&gt; dialog, but you must give it a &lt;f1&gt;.txt&lt;/f1&gt; or &lt;f2&gt;.utf8&lt;/f2&gt; extension, and store it within the &lt;l3/&gt; folder or in one of its subfolders.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221016T085504Z" creationid="suzume" creationdate="20221016T085504Z">
+        <seg>Vous pouvez modifier son nom et son emplacement dans le dialogue &lt;l0/&gt;, mais vous devez lui donner une extension &lt;f1&gt;.txt&lt;/f1&gt; ou &lt;f2&gt;.utf8&lt;/f2&gt; et le mettre dans le dossier &lt;l3/&gt; ou l'un de ses sous-dossiers.</seg>
       </tuv>
     </tu>
     <tu>
