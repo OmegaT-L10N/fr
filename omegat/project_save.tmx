@@ -24638,6 +24638,14 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossaries can be “tab-separated values” (TSV) or “comma-separated values” (CSV) files or can also use the TermBase eXchange (TBX) format.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221016T090923Z" creationid="suzume" creationdate="20221016T090923Z">
+        <seg>Les glossaires peuvent être de format « valeurs séparées par des tabulations » (TSV), « valeurs séparées par des virgules » (CSV) ou de format TermBase eXchange (TBX).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossaries located in nested folders are also recognized.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210323T160705Z" creationid="suzume" creationdate="20210323T160705Z">
@@ -37616,6 +37624,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20220823T211327Z" creationid="suzume" creationdate="20210323T161223Z">
         <seg>OmegaT pour macOS est disponible en version notariée et en version non-signée ; les deux versions sont fonctionnellement identiques, mais la version notariée est préférée car elle est reconnue par le système comme étant a) publiée par un développeur connu et b) scannée par Apple.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT glossary files are simple plain text files containing three-column lists, with the source term in the first column, an optional target term in the second column, and an optional comment in the third column.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221016T090744Z" creationid="suzume" creationdate="20221016T090735Z">
+        <seg>Les fichiers glossaires d'OmegaT sont des fichiers simples en texte brut qui contiennent des listes de termes sur trois colonnes. Le terme source est en première colonne, un terme cible optionnel est en seconde colonne et un commentaire optionnel est en troisième colonne.</seg>
       </tuv>
     </tu>
     <tu>
