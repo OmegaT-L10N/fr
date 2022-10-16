@@ -31272,6 +31272,14 @@ dans le dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It will be created the first time you add an entry to the glossary.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221016T082045Z" creationid="suzume" creationdate="20221016T082045Z">
+        <seg>Il sera créé la première fois que vous y insérerez un terme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It will be used automatically by OmegaT if &lt;g0&gt;Options &gt; Language Checker&lt;/g0&gt; is checked.</seg>
       </tuv>
       <tuv lang="fr" changeid="jchelary" changedate="20130526T100459Z">
@@ -63137,6 +63145,14 @@ you think will help the developers with finding and fixing your bug.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also access it with &lt;l0/&gt;, open it in a text editor and modify it.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221016T081547Z" creationid="suzume" creationdate="20221016T081547Z">
+        <seg>Vous pouvez y avoir accès avec &lt;l0/&gt;, l'ouvrir dans un éditeur de texte et le modifier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can also add source files from Internet pages, written in MediaWiki, by clicking on &lt;g3&gt;Import from MediaWiki&lt;/g3&gt; button and providing the corresponding URL.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20211120T093235Z" creationid="suzume" creationdate="20211120T093235Z">
@@ -63988,6 +64004,14 @@ SourceForge too.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021550Z">
         <seg>Vous n'êtes pas obligé de traduire la totalité d'un paquet ; vous pouvez par exemple vous limiter à l'interface utilisateur (Bundle.properties) ou au tutoriel de prise en main.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You do not need to prepare the file in advance.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221016T081601Z" creationid="suzume" creationdate="20221016T081601Z">
+        <seg>Il n'est pas nécessaire de préparer ce fichier en avance.</seg>
       </tuv>
     </tu>
     <tu>
