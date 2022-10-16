@@ -24590,6 +24590,14 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossaries are terminology files that are stored in the &lt;l0/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221016T080643Z" creationid="suzume" creationdate="20221016T080643Z">
+        <seg>Les glossaires sont des fichiers terminologiques situés dans le dossier &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossaries are terminology files.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210323T160718Z" creationid="suzume" creationdate="20210323T160718Z">
@@ -51684,18 +51692,26 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The folder where distributed scripts are located.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221016T080544Z" creationid="suzume" creationdate="20221016T080544Z">
+        <seg>Le dossier dans lequel les scripts distribués sont situés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The folder where images used by OmegaT are stored.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20221016T075541Z" creationid="suzume" creationdate="20221016T075541Z">
-        <seg>Le dossier où les images utilisées par OmegaT sont stockées.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20221016T080455Z" creationid="suzume" creationdate="20221016T075541Z">
+        <seg>Le dossier dans lequel les images utilisées par OmegaT sont stockées.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The folder where the libraries used by OmegaT are stored.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20221016T075550Z" creationid="suzume" creationdate="20221016T075550Z">
-        <seg>Le dossier où les librairies utilisées par OmegaT sont stockées.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20221016T080502Z" creationid="suzume" creationdate="20221016T075550Z">
+        <seg>Le dossier dans lequel les librairies utilisées par OmegaT sont stockées.</seg>
       </tuv>
     </tu>
     <tu>
@@ -70829,6 +70845,14 @@ Ok. </note>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130430T123920Z">
         <seg>Le dossier script/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>scripts/</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221016T080420Z" creationid="suzume" creationdate="20221016T080420Z">
+        <seg>scripts/</seg>
       </tuv>
     </tu>
     <tu>
