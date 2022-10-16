@@ -27788,6 +27788,14 @@ folder, see the manual for its location).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you choose to use an existing file as the default glossary, check its format beforehand.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221016T082442Z" creationid="suzume" creationdate="20221016T082442Z">
+        <seg>Si vous choisissez un fichier existant comme glossaire en écriture, assurez-vous de vérifier son format au préalable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you click on the button &lt;g0&gt;Advanced options&lt;/g0&gt; additional criteria (author of the translation, date translated etc) as shown in the above image can be selected.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130528T084254Z">
@@ -38355,6 +38363,14 @@ with exactly the same structure, including copies of any non-supported files.</s
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130528T131515Z">
         <seg>OmegaT le reconnaîtra comme étant un projet en équipe et le synchronisera automatiquement toutes les trois minutes (synchronisation par défaut).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT will record all new entries in tab-separated format, and save the file in UTF-8 encoding without checking the original format or character set.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221016T082546Z" creationid="suzume" creationdate="20221016T082519Z">
+        <seg>OmegaT enregistre les nouveaux termes en format séparé par des tabulations et enregistre le fichier en encodage UTF-8 sans vérifier le format ou l'encodage d'origine.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53152,6 +53168,14 @@ modification follow.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The reference glossaries</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221016T082553Z" creationid="suzume" creationdate="20221016T082553Z">
+        <seg>Les glossaires de référence</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The reference to the URL is specified as below (here to a Git repository):</seg>
       </tuv>
       <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210520T160944Z" creationid="suzume" creationdate="20210116T152930Z">
@@ -54884,6 +54908,14 @@ pas de page...</seg>
       </tuv>
       <tuv lang="fr" changeid="jchelary" changedate="20130526T123534Z">
         <seg>Elles sont protégées pour que vous ne puissiez pas modifier leur contenu mais vous pouvez les supprimer, les entrer manuellement ou les déplacer dans la phrase cible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They are terminology files in a format that OmegaT recognises.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221016T082620Z" creationid="suzume" creationdate="20221016T082620Z">
+        <seg>Ces fichiers terminologiques sont dans un format reconnu par OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63972,6 +64004,14 @@ SourceForge too.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20211117T151254Z" creationid="suzume" creationdate="20211117T151254Z">
         <seg>Vous pouvez les visionner en sélectionnant &lt;m0&gt;&lt;g1&gt;Outils&lt;/g1&gt;&lt;g2&gt;Statistiques&lt;/g2&gt;&lt;/m0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You cannot modify them from the OmegaT interface like the project glossary, but you can access them and modify them in a text editor.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221016T082638Z" creationid="suzume" creationdate="20221016T082638Z">
+        <seg>Il n'est pas possible de les modifier à travers l'interface d'Omeg</seg>
       </tuv>
     </tu>
     <tu>
