@@ -12784,6 +12784,14 @@ void, and will automatically terminate your rights under this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Any single digit from 0 to 9.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221016T093523Z" creationid="suzume" creationdate="20221016T093523Z">
+        <seg>Un chiffre de 0 à 9.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Any text, already translated and stored in those files, will appear among the fuzzy matches, if it is sufficiently similar to the text currently being translated.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130506T141730Z">
@@ -25437,6 +25445,14 @@ a disparu...</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130527T135937Z">
         <seg>Il s'agit d'un paquet multiplateforme dans un format standard de Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Here are a few examples.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221016T093511Z" creationid="suzume" creationdate="20221016T093511Z">
+        <seg>Voici quelques exemples.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43546,6 +43562,14 @@ ces mots : « pas de page »...</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210201T140310Z" creationid="Didier" creationdate="20160427T150524Z">
         <seg>Le dépôt {0} est inconnu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Represents one or more “word characters”, namely the letters of the alphabet, digits, and underscore symbols.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221016T093609Z" creationid="suzume" creationdate="20221016T093609Z">
+        <seg>Un </seg>
       </tuv>
     </tu>
     <tu>
@@ -64787,6 +64811,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>[0-9]</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221016T093513Z" creationid="suzume" creationdate="20221016T093513Z">
+        <seg>[0-9]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>[Fuzzy]</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20120504T112332Z">
@@ -65127,6 +65159,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T105112Z">
         <seg>\w</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\w+</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221016T093525Z" creationid="suzume" creationdate="20221016T093525Z">
+        <seg>\w+</seg>
       </tuv>
     </tu>
     <tu>
