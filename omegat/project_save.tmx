@@ -10433,6 +10433,14 @@ this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A link to the support page.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221016T075134Z" creationid="suzume" creationdate="20221016T075134Z">
+        <seg>Un lien vers la page d'aide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A list of possible arguments is given below.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130418T131815Z">
@@ -15321,6 +15329,14 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130503T131109Z">
         <seg>Vérifiez dans Options &gt; Traduction Automatique, que la case Google Translate v2 est cochée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check it if you need information on OmegaT's evolution.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221016T075026Z" creationid="suzume" creationdate="20221016T075026Z">
+        <seg>À consulter si vous avez besoin d'informations sur l'évolution d'OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20563,8 +20579,8 @@ MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.</seg>
       <tuv lang="en">
         <seg>Each output format has specific ways of dealing with RTL display; check the relevant application manuals for details.</seg>
       </tuv>
-      <tuv lang="fr" changeid="brigitte" changedate="20130715T194032Z">
-        <seg>Chaque format de sortie gère l'affichage RTL à sa façon ; consultez le guide de l'application appropriée pour plus de détails.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20221016T074937Z">
+        <seg>Chaque format de sortie gère l'affichage RTL à sa façon ; consultez le guide de l'application appropriée pour en savoir plus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45002,6 +45018,14 @@ La recherche port par défaut sur le projet, et peut porter sur tout fichier sit
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;l0/&gt; for details.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221016T074946Z" creationid="suzume" creationdate="20221016T074911Z">
+        <seg>Voir &lt;l0/&gt; pour en savoir plus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;l0&gt;Appendix ShortCut Customization&lt;/l0&gt;</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130527T130100Z">
@@ -51294,8 +51318,8 @@ instead.</seg>
       <tuv lang="en">
         <seg>The display mode of the translated documents must be modified within the application (such as Microsoft Word) commonly used to display or modify them (check the relevant manuals for details).</seg>
       </tuv>
-      <tuv lang="fr" changeid="brigitte" changedate="20130715T193941Z">
-        <seg>Le mode d'affichage des documents traduits doit être modifié dans l'application (par exemple, Microsoft Word) qui est généralement utilisée pour les afficher ou les modifier (consultez les guides correspondants pour plus de détails).</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20221016T074930Z">
+        <seg>Le mode d'affichage des documents traduits doit être modifié dans l'application (par exemple, Microsoft Word) qui est généralement utilisée pour les afficher ou les modifier (consultez les guides correspondants pour en savoir plus).</seg>
       </tuv>
     </tu>
     <tu>
@@ -51312,6 +51336,14 @@ instead.</seg>
       </tuv>
       <tuv lang="fr" changeid="brigitte" changedate="20130715T193030Z">
         <seg>Le documentation fournie avec&lt;a0&gt;OmegaT&lt;/a0&gt; comprend le guide de l'utilisateur et un document readme.txt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The documentation distribution license.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221016T075035Z" creationid="suzume" creationdate="20221016T075035Z">
+        <seg>La licence de distribution de la documentation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51946,6 +51978,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The index to the multilingual user guide.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221016T075049Z" creationid="suzume" creationdate="20221016T075049Z">
+        <seg>L'index du guide de l'utilisateur multilingue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The information below summarizes their use and how they are invoked:</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
@@ -52111,6 +52151,14 @@ freedom to share and change it.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210204T064331Z" creationid="suzume" creationdate="20210204T064331Z">
         <seg>La ligne contenant le pourcentage de correspondances inclut aussi le nom de la mémoire de traduction qui contient la correspondance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The list of improvements and bug fixes.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221016T075004Z" creationid="suzume" creationdate="20221016T075004Z">
+        <seg>La liste des améliorations et des corrections de bogue.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67999,6 +68047,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130415T142607Z">
         <seg>Entrées d'index, signets (repère de texte), références aux signets, notes, commentaires, notes des présentations, liens (URL), noms des feuilles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>index.html</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221016T075036Z" creationid="suzume" creationdate="20221016T075036Z">
+        <seg>index.html</seg>
       </tuv>
     </tu>
     <tu>
