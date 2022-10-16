@@ -51676,6 +51676,30 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The folder where images used by OmegaT are stored.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221016T075541Z" creationid="suzume" creationdate="20221016T075541Z">
+        <seg>Le dossier où les images utilisées par OmegaT sont stockées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The folder where the libraries used by OmegaT are stored.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221016T075550Z" creationid="suzume" creationdate="20221016T075550Z">
+        <seg>Le dossier où les librairies utilisées par OmegaT sont stockées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The folder where you can install external plugins.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221016T080109Z" creationid="suzume" creationdate="20221016T080109Z">
+        <seg>Le dossier dans lequel vous pouvez installer des .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The following code snippet in groovy for instance scans through all the segments in all files in the current project and, if the translation exists, prints out the source and the target of the segment:</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
@@ -52197,8 +52221,8 @@ freedom to share and change it.</seg>
       <tuv lang="en">
         <seg>The list of libraries used by OmegaT.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20221016T075351Z" creationid="suzume" creationdate="20221016T075351Z">
-        <seg>La liste des librairies utilisées par</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20221016T075517Z" creationid="suzume" creationdate="20221016T075351Z">
+        <seg>La liste des librairies utilisées par OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68051,6 +68075,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>images/</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221016T075519Z" creationid="suzume" creationdate="20221016T075519Z">
+        <seg>images/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>import the file into ODF writer</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130416T170701Z">
@@ -68857,6 +68889,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T100049Z">
         <seg>li</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lib/</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221016T075543Z" creationid="suzume" creationdate="20221016T075543Z">
+        <seg>lib/</seg>
       </tuv>
     </tu>
     <tu>
@@ -70261,6 +70301,14 @@ Ok. </note>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T100143Z">
         <seg>pli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>plugins/</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221016T075553Z" creationid="suzume" creationdate="20221016T075553Z">
+        <seg>plugins/</seg>
       </tuv>
     </tu>
     <tu>
