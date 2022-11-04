@@ -200,4 +200,92 @@
     <filter className="net.sf.okapi.lib.omegat.XMLFilter" enabled="false">
         <files sourceFilenameMask="*.xml" targetFilenamePattern="${filename}"/>
     </filter>
+    <filter className="org.omegat.filters2.subtitles.WebVttFilter" enabled="false">
+        <files sourceFilenameMask="*.vtt" targetFilenamePattern="${filename}"/>
+    </filter>
+    <filter className="org.omegat.filters3.xml.properties.PropertiesFilter" enabled="false">
+        <files sourceFilenameMask="*.xml" targetFilenamePattern="${filename}"/>
+    </filter>
+    <filter className="org.omegat.filters3.xml.scribus.ScribusFilter" enabled="false">
+        <files sourceFilenameMask="*.sla" targetFilenamePattern="${filename}"/>
+    </filter>
+    <filter className="org.omegat.filters3.xml.schematron.SchematronFilter" enabled="false">
+        <files sourceFilenameMask="*.sch" targetFilenamePattern="${filename}"/>
+    </filter>
+    <filter className="org.omegat.filters3.xml.relaxng.RelaxNGFilter" enabled="false">
+        <files sourceFilenameMask="*.rng" targetFilenamePattern="${filename}"/>
+    </filter>
+    <filter className="org.omegat.filters3.xml.wordpress.WordpressFilter" enabled="false">
+        <files sourceFilenameMask="*.xml" targetFilenamePattern="${filename}"/>
+    </filter>
+    <filter className="org.omegat.filters2.subtitles.SbvFilter" enabled="false">
+        <files sourceFilenameMask="*.sbv" targetFilenamePattern="${filename}"/>
+    </filter>
+    <filter className="org.omegat.filters2.text.mozftl.MozillaFTLFilter" enabled="false">
+        <files sourceFilenameMask="*.ftl" targetFilenamePattern="${filename}" sourceEncoding="UTF-8" targetEncoding="UTF-8"/>
+    </filter>
+    <filter className="org.omegat.filters2.moodlephp.MoodlePHPFilter" enabled="false">
+        <files sourceFilenameMask="*.php" targetFilenamePattern="${filename}"/>
+    </filter>
+    <filter className="com.pilulerouge.omegat.latex.SimpleLatexFilter" enabled="false">
+        <files sourceFilenameMask="*.tex" targetFilenamePattern="${filename}" sourceEncoding="UTF-8" targetEncoding="UTF-8"/>
+    </filter>
+    <filter className="net.sf.okapi.lib.omegat.YAMLFilter" enabled="true">
+        <files sourceFilenameMask="*.yaml" targetFilenamePattern="${filename}"/>
+        <files sourceFilenameMask="*.yml" targetFilenamePattern="${filename}"/>
+    </filter>
+    <filter className="net.sf.okapi.lib.omegat.MarkdownFilter" enabled="false">
+        <files sourceFilenameMask="*.md" targetFilenamePattern="${filename}"/>
+    </filter>
+    <filter className="net.sf.okapi.lib.omegat.OpenXMLFilter" enabled="false">
+        <files sourceFilenameMask="*.docx" targetFilenamePattern="${filename}"/>
+        <files sourceFilenameMask="*.docm" targetFilenamePattern="${filename}"/>
+        <files sourceFilenameMask="*.dotx" targetFilenamePattern="${filename}"/>
+        <files sourceFilenameMask="*.dotm" targetFilenamePattern="${filename}"/>
+        <files sourceFilenameMask="*.pptx" targetFilenamePattern="${filename}"/>
+        <files sourceFilenameMask="*.pptm" targetFilenamePattern="${filename}"/>
+        <files sourceFilenameMask="*.ppsx" targetFilenamePattern="${filename}"/>
+        <files sourceFilenameMask="*.ppsm" targetFilenamePattern="${filename}"/>
+        <files sourceFilenameMask="*.potx" targetFilenamePattern="${filename}"/>
+        <files sourceFilenameMask="*.potm" targetFilenamePattern="${filename}"/>
+        <files sourceFilenameMask="*.xlsx" targetFilenamePattern="${filename}"/>
+        <files sourceFilenameMask="*.xlsm" targetFilenamePattern="${filename}"/>
+        <files sourceFilenameMask="*.xltx" targetFilenamePattern="${filename}"/>
+        <files sourceFilenameMask="*.xltm" targetFilenamePattern="${filename}"/>
+        <files sourceFilenameMask="*.vsdx" targetFilenamePattern="${filename}"/>
+        <files sourceFilenameMask="*.vsdm" targetFilenamePattern="${filename}"/>
+    </filter>
+    <filter className="net.sf.okapi.lib.omegat.SDLXLIFFFilter" enabled="false">
+        <files sourceFilenameMask="*.sdlxliff" targetFilenamePattern="${filename}"/>
+    </filter>
+    <filter className="net.sf.okapi.lib.omegat.HTMLFilter" enabled="false">
+        <files sourceFilenameMask="*.html" targetFilenamePattern="${filename}"/>
+    </filter>
+    <filter className="net.sf.okapi.lib.omegat.XMLStreamFilter" enabled="true">
+        <files sourceFilenameMask="*.xml" targetFilenamePattern="${filename}"/>
+    </filter>
+    <filter className="org.omegat.filters4.xml.xliff.Xliff1Filter" enabled="false">
+        <files sourceFilenameMask="*.xlf" targetFilenamePattern="${filename}"/>
+        <files sourceFilenameMask="*.xliff" targetFilenamePattern="${filename}"/>
+    </filter>
+    <filter className="org.omegat.filters4.xml.xliff.SdlProject" enabled="false">
+        <files sourceFilenameMask="*.sdlppx" targetFilenamePattern="${filename}"/>
+    </filter>
+    <filter className="org.omegat.filters4.xml.xliff.MqXliff" enabled="false">
+        <files sourceFilenameMask="*.mqxliff" targetFilenamePattern="${filename}"/>
+    </filter>
+    <filter className="org.omegat.filters4.xml.xliff.SdlXliff" enabled="false">
+        <files sourceFilenameMask="*.sdlxliff" targetFilenamePattern="${filename}"/>
+    </filter>
+    <filter className="org.omegat.filters4.xml.xliff.Xliff2Filter" enabled="false">
+        <files sourceFilenameMask="*.xlf" targetFilenamePattern="${filename}"/>
+        <files sourceFilenameMask="*.xliff" targetFilenamePattern="${filename}"/>
+    </filter>
+    <filter className="org.omegat.filters4.xml.openxml.MsOfficeFileFilter" enabled="false">
+        <files sourceFilenameMask="*.doc?" targetFilenamePattern="${filename}"/>
+        <files sourceFilenameMask="*.dotx" targetFilenamePattern="${filename}"/>
+        <files sourceFilenameMask="*.xls?" targetFilenamePattern="${filename}"/>
+        <files sourceFilenameMask="*.ppt?" targetFilenamePattern="${filename}"/>
+        <files sourceFilenameMask="*.vsdx" targetFilenamePattern="${filename}"/>
+    </filter>
 </filters>
