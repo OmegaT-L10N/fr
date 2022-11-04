@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_ff3d4008c" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_c4009c449" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -35908,6 +35908,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No option: Launch GUI</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221104T023807Z" creationid="suzume" creationdate="20221104T023807Z">
+        <seg>Pas d'option : lancement de l'interface graphique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No options: Launch GUI</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221007T144856Z" creationid="suzume" creationdate="20221007T144856Z">
@@ -45374,6 +45382,14 @@ La recherche port par défaut sur le projet, et peut porter sur tout fichier sit
       </tuv>
       <tuv lang="fr" changeid="briglegrand" changedate="20120502T070615Z">
         <seg>Reportez-vous au chapitre 7 (Filtre de fichiers) du guide de l'utilisateur pour obtenir la liste des formats de fichier gérés par OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Help &gt; User Guide for details, including available Java options.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221104T023755Z" creationid="suzume" creationdate="20221104T023755Z">
+        <seg>Consulter Aide &gt; Guide de l'utilisateur pour des informations supplémentaires, y compris les options Java.</seg>
       </tuv>
     </tu>
     <tu>
