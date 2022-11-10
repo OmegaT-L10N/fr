@@ -3292,9 +3292,9 @@ Comportement du lemmatiseur source ou cible à utiliser (remplace les paramètre
         <seg>--config-dir=&lt;path&gt;
 	  The directory used to read or write OmegaT configuration files.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20221110T051927Z" creationid="suzume" creationdate="20221110T051927Z">
+      <tuv lang="fr" changeid="suzume" changedate="20221110T052449Z" creationid="suzume" creationdate="20221110T051927Z">
         <seg>--config-dir=&lt;chemin&gt;
-	  Le répertoire à partir duquel lire et écrire les fichiers de configuration.</seg>
+	  Le dossier à partir duquel lire et écrire les fichiers de configuration.</seg>
       </tuv>
     </tu>
     <tu>
