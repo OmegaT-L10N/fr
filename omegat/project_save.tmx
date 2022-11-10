@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_a00aae594" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -40677,6 +40677,18 @@ l'ensemble.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Place source files in ./source and supplementary
+material in ./tm, ./glossary, and ./dictionary as required, then commit
+everything.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221110T101347Z" creationid="suzume" creationdate="20221110T101347Z">
+        <seg>Placez les fichiers sources dans ./[ source] et les matériels supplémentaires dans
+./[tm], ./[glossary] et ./[dictionary] selon les besoins, puis validez (commit)
+l'ensemble.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Place the archive in any suitable folder and unpack it.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20170210T103408Z" creationid="Didier" creationdate="20170210T103408Z">
@@ -70383,6 +70395,14 @@ Ok. </note>
       </tuv>
       <tuv lang="fr" changeid="brigitte" changedate="20130712T175324Z">
         <seg>Avancer d'un mot sur la droite aller plus loin que la fin du segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>only options:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221110T101254Z" creationid="suzume" creationdate="20221110T101254Z">
+        <seg>seules options :</seg>
       </tuv>
     </tu>
     <tu>
