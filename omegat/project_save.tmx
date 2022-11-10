@@ -3433,6 +3433,16 @@ Ne pas essayer de verrouiller le fichier omegat.project du projet.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--mode=[console mode name]
+	  Specify a mode other than the GUI default.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221110T052514Z" creationid="suzume" creationdate="20221110T052514Z">
+        <seg>--mode=[nom du mode console]
+	  Spécifier un mode différent du mode graphique par défaut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]
 		Specify a mode other than default (GUI).</seg>
       </tuv>
@@ -3481,6 +3491,18 @@ Spécifier un mode différent du mode par défaut (interface utilisateur).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--mode=console-createpseudotranslatetmx
+	  --pseudotranslatetmx=&lt;path&gt;
+	    The output pseudotranslated TMX file.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221110T052605Z" creationid="suzume" creationdate="20221110T052605Z">
+        <seg>--mode=console-createpseudotranslatetmx :
+	  --pseudotranslatetmx=&lt;chemin&gt;
+	  Le fichier TMX résultant qui contient la pseudo-traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--mode=console-pseudotranslatetmx
 	  --pseudotranslatetmx=&lt;path&gt;
 	    The output pseudotranslated TMX file.</seg>
@@ -3505,6 +3527,23 @@ Spécifier un mode différent du mode par défaut (interface utilisateur).</seg>
 	    Le chemin du projet.
 	  --output-file=[fichier-de-sortie]
 	    Envoie les informations vers ce fichier, ou vers la sortie standard si absent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--mode=console-stats
+	  project_path
+	    The path to the project
+	  --output-file=[stats-output-file]
+	    Prints to the specified file, or to standard output
+	    if no file is given or the option is not used.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221110T052734Z" creationid="suzume" creationdate="20221110T052734Z">
+        <seg>--mode=console-stats
+	  chemin_du_projet
+	    Le chemin du projet.
+	  --output-file=[fichier-de-sortie]
+	    Envoie les informations vers ce fichier, ou vers la sortie standard s'il n'est pas donné ou si l'option n'est pas utilisée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3613,6 +3652,16 @@ Désactiver la fonctionnalité de projets en équipe.</seg>
 	    What to fill the pseudotranslated TMX with.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221015T222453Z" creationid="suzume" creationdate="20221014T003943Z">
+        <seg>--pseudotranslatetype=[equal|empty]
+	  Le contenu à inclure dans la TMX pseudo-traduite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--pseudotranslatetype=[equal|empty]
+	    What to put in the pseudotranslated TMX.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221110T052618Z" creationid="suzume" creationdate="20221110T052618Z">
         <seg>--pseudotranslatetype=[equal|empty]
 	  Le contenu à inclure dans la TMX pseudo-traduite.</seg>
       </tuv>
