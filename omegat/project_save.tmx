@@ -38554,11 +38554,14 @@ with exactly the same structure, including copies of any non-supported files.</s
       </tuv>
     </tu>
     <tu>
+      <note>terminate = à changer
+
+directory -&gt; folder</note>
       <tuv lang="en">
         <seg>OmegaT will now terminate.</seg>
       </tuv>
-      <tuv lang="fr">
-        <seg>OmegaT va se terminer.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20221110T102410Z">
+        <seg>OmegaT va s'arrêter.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44230,10 +44233,26 @@ ces mots : « pas de page »...</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Run OmegaT</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221110T102149Z" creationid="suzume" creationdate="20221110T102149Z">
+        <seg>Lancer OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Run OmegaT normally (with the GUI) and specify the settings.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20211117T145015Z" creationid="suzume" creationdate="20211117T145015Z">
         <seg>Exécutez OmegaT normalement (avec l'interface graphique) et précisez les paramètres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Run OmegaT" in the user guide.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221110T102219Z" creationid="suzume" creationdate="20221110T102219Z">
+        <seg>Lancer OmegaT » dans le guide de l'utilisatrice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45318,6 +45337,14 @@ La recherche port par défaut sur le projet, et peut porter sur tout fichier sit
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130531T094640Z">
         <seg>Voir « Chapitre 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See "How To...</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221110T102116Z" creationid="suzume" creationdate="20221110T102116Z">
+        <seg>Voir « Comment faire pour...</seg>
       </tuv>
     </tu>
     <tu>
@@ -60123,8 +60150,9 @@ on line {1}, column {2}.</seg>
 line or in the OmegaT start script;
 The current setting is {0}MB;</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20221110T102005Z" creationid="suzume" creationdate="20221110T102005Z">
-        <seg>Utilisez « java -Xmx&lt;taille-en-Mo&gt;M -jar OmegaT.jar » à la ligne de commande ou à partir d'un script ;
+      <tuv lang="fr" changeid="suzume" changedate="20221110T102047Z" creationid="suzume" creationdate="20221110T102005Z">
+        <seg>Utilisez « java -Xmx&lt;taille-en-Mo&gt;M -jar OmegaT.jar » à la ligne de commande
+ou à partir du script de lancement d'OmegaT ;
 la configuration actuelle est de {0} Mo.</seg>
       </tuv>
     </tu>
