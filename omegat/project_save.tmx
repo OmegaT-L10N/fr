@@ -4210,6 +4210,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>2) Increase the amount of memory available to OmegaT.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221110T101905Z" creationid="suzume" creationdate="20221110T101905Z">
+        <seg>2) augmentez la quantité de mémoire attribuée à OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>2- or 3-letter language code followed by the 2-letter country code (e.g. EN-US - See &lt;x0/&gt; for a partial list of language and country codes).</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130528T123141Z">
@@ -60107,6 +60115,17 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130502T115840Z">
         <seg>Cliquez sur « Mise à jour des logiciels... » dans le menu Pomme pour mettre à jour votre version de Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" from the command 
+line or in the OmegaT start script;
+The current setting is {0}MB;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221110T102005Z" creationid="suzume" creationdate="20221110T102005Z">
+        <seg>Utilisez « java -Xmx&lt;taille-en-Mo&gt;M -jar OmegaT.jar » à la ligne de commande ou à partir d'un script ;
+la configuration actuelle est de {0} Mo.</seg>
       </tuv>
     </tu>
     <tu>
