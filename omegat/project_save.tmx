@@ -112,8 +112,8 @@ License. Each licensee is addressed as "you". "Licensees" and
       <tuv lang="en">
         <seg>"Unable to enumerate Java directory contents.";</seg>
       </tuv>
-      <tuv lang="fr" changeid="Didier" changedate="20150514T141412Z" creationid="Didier" creationdate="20150514T141412Z">
-        <seg>"Impossible d'énumérer le contenu du répertoire Java.";</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20221110T052032Z" creationid="Didier" creationdate="20150514T141412Z">
+        <seg>"Impossible d'énumérer le contenu du dossier Java.";</seg>
       </tuv>
     </tu>
     <tu>
@@ -3289,6 +3289,16 @@ Comportement du lemmatiseur source ou cible à utiliser (remplace les paramètre
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--config-dir=&lt;path&gt;
+	  The directory used to read or write OmegaT configuration files.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221110T051927Z" creationid="suzume" creationdate="20221110T051927Z">
+        <seg>--config-dir=&lt;chemin&gt;
+	  Le répertoire à partir duquel lire et écrire les fichiers de configuration.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--config-file=/path/to/config-file/ \</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160322T170221Z" creationid="Didier" creationdate="20160322T170221Z">
@@ -3348,9 +3358,9 @@ Un fichier .properties Java à partir duquel charger les paramètres par défaut
         <seg>--disable-location-save
 	  Do not remember the last directory opened in the file picker.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20221015T222414Z" creationid="suzume" creationdate="20221014T003540Z">
+      <tuv lang="fr" changeid="suzume" changedate="20221110T051941Z" creationid="suzume" creationdate="20221014T003540Z">
         <seg>--disable-location-save
-	  Ne pas enregistrer le dernier répertoire ouvert dans le sélecteur de fichiers.</seg>
+	  Ne pas enregistrer le dernier dossier ouvert dans le sélecteur de fichiers.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3455,10 +3465,10 @@ Spécifier un mode différent du mode par défaut (interface utilisateur).</seg>
 	  --alignDir=&lt;path&gt;
 	    A directory containing the translated files.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20221015T222459Z" creationid="suzume" creationdate="20221014T004036Z">
+      <tuv lang="fr" changeid="suzume" changedate="20221110T051949Z" creationid="suzume" creationdate="20221014T004036Z">
         <seg>--mode=console-align
 	  --alignDir=&lt;chemin&gt;
-	  Un répertoire contenant les fichiers traduits.</seg>
+	  Un dossier contenant les fichiers traduits.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17482,8 +17492,8 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       <tuv lang="en">
         <seg>Could not create project dir at {0}</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z" creationid="Didier" creationdate="20180525T130007Z">
-        <seg>Impossible de créer le répertoire du projet : {0}</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20221110T051955Z" creationid="Didier" creationdate="20180525T130007Z">
+        <seg>Impossible de créer le dossier du projet : {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -28568,8 +28578,8 @@ installation program can create shortcuts to launch OmegaT.</seg>
       <tuv lang="en">
         <seg>If you're a programmer and you happen to know Java, please check the documentation in the &lt;a0&gt;source code&lt;/a0&gt; under /docs_devel for information on how to get started.</seg>
       </tuv>
-      <tuv lang="fr" changeid="briac" changedate="20170918T110433Z" creationid="briac" creationdate="20170918T110433Z">
-        <seg>Si vous êtes un développeur Java, consultez la documentation dans le &lt;a0&gt;code source&lt;/a0&gt; sous dans le répertoire /docs_devel pour savoir comment démarrer.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20221110T052057Z" creationid="briac" creationdate="20170918T110433Z">
+        <seg>Si vous êtes un développeur Java, consultez la documentation dans le &lt;a0&gt;code source&lt;/a0&gt; sous le dossier /docs_devel pour savoir comment démarrer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28988,8 +28998,8 @@ click on that shortcut.</seg>
       <tuv lang="en">
         <seg>In a team project, this folder contains a versioned copy of the project tree structure linked directly to the remote server.</seg>
       </tuv>
-      <tuv lang="fr">
-        <seg>Dans le cas d'un projet en équipe, ce répertoire contient une copie versionnée de l'arborescence du projet, en liaison directe avec le serveur distant.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20221110T052026Z">
+        <seg>Dans le cas d'un projet en équipe, ce dossier contient une copie versionnée de l'arborescence du projet, en liaison directe avec le serveur distant.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30505,8 +30515,8 @@ exécutez simplement le programme d'installation.</seg>
       <tuv lang="en">
         <seg>Insufficient permissions for project dir {0}</seg>
       </tuv>
-      <tuv lang="fr" changeid="Didier" changedate="20180525T130037Z" creationid="Didier" creationdate="20180525T130037Z">
-        <seg>Autorisations insuffisantes pour le répertoire du projet {0}</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20221110T052000Z" creationid="Didier" creationdate="20180525T130037Z">
+        <seg>Autorisations insuffisantes pour le dossier du projet {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -73567,8 +73577,8 @@ Ok. </note>
       <tuv lang="en">
         <seg>Error searching directory tree!</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20190421T021852Z" creationid="brigitte" creationdate="20130715T192221Z">
-        <seg>Erreur dans la recherche des répertoires !</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20221110T052016Z" creationid="brigitte" creationdate="20130715T192221Z">
+        <seg>Erreur dans la recherche des dossiers !</seg>
       </tuv>
     </tu>
     <tu>
