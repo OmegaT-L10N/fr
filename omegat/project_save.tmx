@@ -3851,8 +3851,8 @@ Un fichier script à exécuter lors d'événements survenant dans le projet.</se
         <seg>--stats-type=[xml|text|txt|json]
 	    Specifies the output format.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20221106T100436Z" creationid="suzume" creationdate="20221106T100436Z">
-        <seg>--stats-type=[xml|text|txt|json]
+      <tuv lang="fr" changeid="suzume" changedate="20221110T052750Z" creationid="suzume" creationdate="20221106T100436Z">
+        <seg>--stats-type=[xml|text][txt][json]]]
 	    Spécifie le format de sortie.</seg>
       </tuv>
     </tu>
@@ -26310,6 +26310,16 @@ sections when you distribute them as separate works.</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130418T233929Z">
         <seg>Si des éléments identifiables de cet ouvrage ne sont pas fondés sur le Programme et peuvent raisonnablement être considérés comme des ouvrages indépendants distincts en eux mêmes, alors la présente Licence et ses conditions ne s'appliquent pas à ces éléments lorsque vous les distribuez en tant qu'ouvrages distincts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If --stats-type is not specified, the format is
+	    detected from the file extension.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221110T052844Z" creationid="suzume" creationdate="20221110T052844Z">
+        <seg>Sans --stats-type, le format est détecté
+	    à partir de l'extension fichier.</seg>
       </tuv>
     </tu>
     <tu>
