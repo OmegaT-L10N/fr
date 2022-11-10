@@ -18453,8 +18453,8 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       <tuv lang="en">
         <seg>Current memory usage by the VM: {0}MB; of which free memory: {1}MB; maximum available: {2}MB</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z" creationid="Didier" creationdate="20150907T140826Z">
-        <seg>Utilisation actuelle de la mémoire par la MV : {0} Mo, dont mémoire libre : {1} Mo, maximum disponible : {2} Mo.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20221110T102504Z" creationid="Didier" creationdate="20150907T140826Z">
+        <seg>Utilisation actuelle de la mémoire par la MV : {0} Mo, dont {1} Mo de mémoire libre Mo (maximum disponible : {2} Mo).</seg>
       </tuv>
     </tu>
     <tu>
