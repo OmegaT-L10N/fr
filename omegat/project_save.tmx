@@ -774,8 +774,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Clear Menu</seg>
       </tuv>
-      <tuv lang="fr" changeid="Didier" changedate="20180514T095128Z" creationid="Didier" creationdate="20180514T095128Z">
-        <seg>&amp;Effacer le menu</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20221111T092233Z" creationid="Didier" creationdate="20180514T095128Z">
+        <seg>&amp;Effacer le contenu</seg>
       </tuv>
     </tu>
     <tu>
@@ -11270,16 +11270,16 @@ covered by this License; they are outside its scope.</seg>
       <tuv lang="en">
         <seg>Add Online Media&amp;Wiki Page...</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20221111T081154Z" creationid="suzume" creationdate="20221111T081154Z">
-        <seg>Ajouter une page média&amp;wiki en ligne...</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20221111T092252Z" creationid="suzume" creationdate="20221111T081154Z">
+        <seg>Ajouter une page Media&amp;Wiki en ligne...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Add Online MediaWiki Page</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20221111T081210Z" creationid="suzume" creationdate="20221111T081210Z">
-        <seg>Ajouter une page médiawiki en ligne</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20221111T092306Z" creationid="suzume" creationdate="20221111T081210Z">
+        <seg>Ajouter une page MediaWiki en ligne</seg>
       </tuv>
     </tu>
     <tu>
@@ -17712,8 +17712,8 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       <tuv lang="en">
         <seg>Create Current Translate&amp;d File</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20221111T081941Z" creationid="suzume" creationdate="20221111T081941Z">
-        <seg>Créer le fichier actuel traduit</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20221111T092349Z" creationid="suzume" creationdate="20221111T081941Z">
+        <seg>Créer le fichier actuel tra&amp;duit</seg>
       </tuv>
     </tu>
     <tu>
@@ -39388,6 +39388,14 @@ happen should you file a bug report.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210204T012006Z" creationid="suzume" creationdate="20210204T012006Z">
         <seg>Fonctionne seulement si un dictionnaire orthographique est installé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Op&amp;en Recent...</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221111T092226Z" creationid="suzume" creationdate="20221111T092226Z">
+        <seg>Proj&amp;ets récents...</seg>
       </tuv>
     </tu>
     <tu>
