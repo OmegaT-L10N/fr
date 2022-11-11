@@ -486,8 +486,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Access Project Contents</seg>
       </tuv>
-      <tuv lang="fr" changeid="Didier" changedate="20150713T083726Z" creationid="Didier" creationdate="20150713T083726Z">
-        <seg>Accéder au conten&amp;u du projet</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20221111T092509Z" creationid="Didier" creationdate="20150713T083726Z">
+        <seg>&amp;Accéder au contenu du projet</seg>
       </tuv>
     </tu>
     <tu>
@@ -820,6 +820,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Current Source File</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221111T092552Z" creationid="suzume" creationdate="20221111T092552Z">
+        <seg>Fichier source a&amp;ctuel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Cycle</seg>
       </tuv>
       <tuv lang="fr">
@@ -894,8 +902,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Edit</seg>
       </tuv>
-      <tuv lang="fr">
-        <seg>&amp;Edition</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20221111T092707Z">
+        <seg>&amp;Édition</seg>
       </tuv>
     </tu>
     <tu>
@@ -1000,6 +1008,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20220821T151726Z" creationid="suzume" creationdate="20220821T151726Z">
         <seg>&amp;Exporter les MTs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Exported TMs</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221111T092539Z" creationid="suzume" creationdate="20221111T092539Z">
+        <seg>Mémoires &amp;exportée</seg>
       </tuv>
     </tu>
     <tu>
@@ -1846,8 +1862,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Source Files</seg>
       </tuv>
-      <tuv lang="fr" changeid="Didier" changedate="20150713T083907Z" creationid="Didier" creationdate="20150713T083854Z">
-        <seg>&amp;Fichiers source</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20221111T092458Z" creationid="Didier" creationdate="20150713T083854Z">
+        <seg>Fichiers &amp;source</seg>
       </tuv>
     </tu>
     <tu>
@@ -2064,6 +2080,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="fr">
         <seg>&amp;Affichage</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Writable Glossary</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221111T092617Z" creationid="suzume" creationdate="20221111T092617Z">
+        <seg>G&amp;lossaire en écriture</seg>
       </tuv>
     </tu>
     <tu>
@@ -14777,6 +14801,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>C&amp;urrent Target File</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221111T092610Z" creationid="suzume" creationdate="20221111T092610Z">
+        <seg>Fichier cible act&amp;uel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>C:\Program Files\OmegaT\</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221016T074650Z" creationid="suzume" creationdate="20221016T074650Z">
@@ -17760,8 +17792,8 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       <tuv lang="en">
         <seg>Create MED Project...</seg>
       </tuv>
-      <tuv lang="fr" changeid="Didier" changedate="20160916T141633Z" creationid="Didier" creationdate="20160916T141633Z">
-        <seg>Créer projet MED...</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20221111T092359Z" creationid="Didier" creationdate="20160916T141633Z">
+        <seg>Créer un projet MED...</seg>
       </tuv>
     </tu>
     <tu>
@@ -39434,8 +39466,8 @@ happen should you file a bug report.</seg>
       <tuv lang="en">
         <seg>Open MED Project...</seg>
       </tuv>
-      <tuv lang="fr" changeid="Didier" changedate="20160916T141629Z" creationid="Didier" creationdate="20160916T141629Z">
-        <seg>Ouvrir projet MED...</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20221111T092406Z" creationid="Didier" creationdate="20160916T141629Z">
+        <seg>Ouvrir un projet MED...</seg>
       </tuv>
     </tu>
     <tu>
@@ -40320,6 +40352,14 @@ of promoting the sharing and reuse of software generally.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160323T092726Z" creationid="Didier" creationdate="20160323T092726Z">
         <seg>L'écrasement est mis en œuvre jusqu'à ce que la TMX soit supprimée de /tm/enforce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>P&amp;roject Folder</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221111T092431Z" creationid="suzume" creationdate="20221111T092431Z">
+        <seg>Dossier du p&amp;rojet</seg>
       </tuv>
     </tu>
     <tu>
