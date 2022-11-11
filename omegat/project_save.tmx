@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_e247debcb" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3052,11 +3052,12 @@ le programme d'installation peut créer des raccourcis pour vous dans le menu d�
 	- or use your file manager to copy files to the 'source' folder,
 	   and then use Project &gt; Reload to reload the project.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20221111T082758Z" creationid="suzume" creationdate="20221111T080940Z">
+      <tuv lang="fr" changeid="suzume" changedate="20221111T091611Z" creationid="suzume" creationdate="20221111T080940Z">
         <seg>- glisser-déposer des fichiers dans ce volet Éditeur
 	- utiliser Projet &gt; Ajouter des fichiers...
-	- utiliser Projet &gt; Fichiers source... et cliquer sur jouter des fichiers...
-	- copier des fichiers dans le dossier 'source' du projet avec votre gestionnaire de fichier, puis recharger votre projet avec Projet &gt; Recharger.</seg>
+	- utiliser Projet &gt; Fichiers source... et cliquer sur Ajouter des fichiers...
+	- copier des fichiers dans le dossier 'source' du projet avec votre gestionnaire de fichier,
+	   puis recharger votre projet avec Projet &gt; Recharger.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3153,6 +3154,16 @@ le programme d'installation peut créer des raccourcis pour vous dans le menu d�
       </tuv>
       <tuv lang="fr">
         <seg>- prise en charge des services de traduction automatique Google Translate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>- use Options &gt; File Filters... to verify that their format is supported by OmegaT,
+	- open them in their original application and verify that they are not empty.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221111T091946Z" creationid="suzume" creationdate="20221111T091946Z">
+        <seg>- utiliser Options &gt; Filtres de fichiers... pour vérifier que leur format est pris en charge par OmegaT,
+	- ouvrir les fichiers dans leur application d'origine et vérifier qu'ils ne sont pas vides.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27443,6 +27454,14 @@ when it starts in an interactive mode:</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130419T194642Z">
         <seg>Si le programme est interactif, faites en sorte qu'il affiche un court avis tel que celui-ci lorsqu'il démarre en mode interactif :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the project contains files but their content is not displayed here:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221111T091640Z" creationid="suzume" creationdate="20221111T091640Z">
+        <seg>Si le projet contient des fichiers mais leur contenu n'est pas affiché ici :</seg>
       </tuv>
     </tu>
     <tu>
