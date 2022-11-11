@@ -19687,11 +19687,12 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>on doit avoir une manière stable de décrire les dossiers</note>
       <tuv lang="en">
         <seg>Displays the dictionary entries found in the dictionary files located in the /dictionary/ folder if they are present in the source segment.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210505T233726Z">
-        <seg>Affiche les entrées de dictionnaires trouvées dans les fichiers dictionnaires situés dans le dossier ./dictionary si ces entrées sont présentes dans le segment source.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20221111T044017Z">
+        <seg>Affiche les entrées de dictionnaires trouvées dans les fichiers dictionnaires situés dans le dossier dictionary/ si ces entrées sont présentes dans le segment source.</seg>
       </tuv>
     </tu>
     <tu>
