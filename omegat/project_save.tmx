@@ -3539,10 +3539,10 @@ Spécifier un mode différent du mode par défaut (interface utilisateur).</seg>
 	    Prints to the specified file, or to standard output
 	    if no file is given or the option is not used.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20221110T052734Z" creationid="suzume" creationdate="20221110T052734Z">
+      <tuv lang="fr" changeid="suzume" changedate="20221111T043609Z" creationid="suzume" creationdate="20221110T052734Z">
         <seg>--mode=console-stats
 	  chemin_du_projet
-	    Le chemin du projet.
+	    Le chemin du projet
 	  --output-file=[fichier-de-sortie]
 	    Envoie les informations vers ce fichier, ou vers la sortie standard s'il n'est pas donné ou si l'option n'est pas utilisée.</seg>
       </tuv>
@@ -3742,10 +3742,9 @@ Le contenu à inclure dans la TMX pseudo-traduite.</seg>
         <seg>--resource-bundle=&lt;path&gt;
 	  A Java .properties file to use for the interface text</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20221104T030203Z" creationid="suzume" creationdate="20221104T030135Z">
+      <tuv lang="fr" changeid="suzume" changedate="20221111T043602Z" creationid="suzume" creationdate="20221104T030135Z">
         <seg>--resource-bundle=&lt;chemin&gt;
-	  Un fichier .properties Java à utiliser pour les textes de l'interface utilisateur.
-</seg>
+	  Un fichier .properties Java à utiliser pour les textes de l'interface utilisateur</seg>
       </tuv>
     </tu>
     <tu>
@@ -31852,8 +31851,8 @@ itself on the first run.</seg>
       <tuv lang="en">
         <seg>Jean-Christophe Helary is the OmegaT project manager.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20220821T151209Z" creationid="suzume" creationdate="20220821T151209Z">
-        <seg>Jean-Christophe Helary est le responsable du projet OmegaT</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20221111T043615Z" creationid="suzume" creationdate="20220821T151209Z">
+        <seg>Jean-Christophe Helary est le responsable du projet OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40018,8 +40017,8 @@ Afficher des informations sur l'utilisation.</seg>
       <tuv lang="en">
         <seg>Other contributions are detailed in the readme.txt file</seg>
       </tuv>
-      <tuv lang="fr">
-        <seg>Les autres contributions sont détaillées dans le fichier readme_fr.txt.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20221111T043624Z">
+        <seg>Les autres contributions sont détaillées dans le fichier readme_fr.txt</seg>
       </tuv>
     </tu>
     <tu>
@@ -56686,13 +56685,14 @@ Seule la licence en langue anglaise est légalement valable. Vous pouvez trouver
       </tuv>
     </tu>
     <tu>
+      <note>Ajouter que seule la version anglaise est valable légalement.
+
+as published in English by ...</note>
       <tuv lang="en">
         <seg>This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210505T045550Z">
-        <seg>Ce programme est libre. Vous pouvez le redistribuer et le modifier selon les termes de la Licence Publique Générale GNU publiée par la Free Software Foundation. La licence applicable est la version 3 ou bien une version plus récente à votre choix.
-
-Seule la licence en langue anglaise est légalement valable. Vous pouvez trouver des traductions françaises qui peuvent servir de référence mais qui en aucun cas ne peuvent remplacer la licence originale GNU General Public License, Free Software Foundation, version 3 ou plus récente.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20221111T043824Z">
+        <seg>Ce programme est libre. Vous pouvez le redistribuer et le modifier selon les termes de la Licence Publique Générale GNU publiée en anglais par la Free Software Foundation. La licence applicable est la version 3 ou bien une version plus récente à votre choix.</seg>
       </tuv>
     </tu>
     <tu>
