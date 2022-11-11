@@ -1523,11 +1523,12 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
     </tu>
     <tu>
+      <note>pourquoi pas Undo/Redo ?</note>
       <tuv lang="en">
         <seg>&amp;Redo Last Action</seg>
       </tuv>
-      <tuv lang="fr" changeid="Didier" changedate="20101230T133946Z">
-        <seg>&amp;Rétablir la dernière action</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20221111T092829Z">
+        <seg>&amp;Rétablir</seg>
       </tuv>
     </tu>
     <tu>
@@ -1736,6 +1737,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160115T140232Z" creationid="Didier" creationdate="20160115T140232Z">
         <seg>&amp;Rechercher la sélection</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Search...</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221111T092955Z" creationid="suzume" creationdate="20221111T092955Z">
+        <seg>&amp;Rechercher...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1995,11 +2004,12 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
     </tu>
     <tu>
+      <note>pourquoi pas Undo/Redo ?</note>
       <tuv lang="en">
         <seg>&amp;Undo Last Action</seg>
       </tuv>
-      <tuv lang="fr">
-        <seg>&amp;Annuler la dernière action</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20221111T092801Z">
+        <seg>&amp;Annuler</seg>
       </tuv>
     </tu>
     <tu>
@@ -30285,11 +30295,12 @@ patent against the party.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>source redondant ?</note>
       <tuv lang="en">
         <seg>Insert Missing Source &amp;Tags</seg>
       </tuv>
-      <tuv lang="fr" changeid="Didier" changedate="20130326T082135Z">
-        <seg>Insérer les ba&amp;lises source manquantes</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20221111T092914Z">
+        <seg>Insérer les ba&amp;lises manquantes</seg>
       </tuv>
     </tu>
     <tu>
