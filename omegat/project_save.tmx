@@ -11233,10 +11233,42 @@ covered by this License; they are outside its scope.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add &amp;Files...</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221111T081118Z" creationid="suzume" creationdate="20221111T081118Z">
+        <seg>Ajouter des &amp;fichiers...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add Files to Source Folder...</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221111T081131Z" creationid="suzume" creationdate="20221111T081131Z">
+        <seg>Ajouter des fichiers au dossier source...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add Glossary Entry</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160427T150832Z" creationid="Didier" creationdate="20160427T150832Z">
         <seg>Ajouter une entrée de glossaire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add Online Media&amp;Wiki Page...</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221111T081154Z" creationid="suzume" creationdate="20221111T081154Z">
+        <seg>Ajouter une page média&amp;wiki en ligne...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add Online MediaWiki Page</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221111T081210Z" creationid="suzume" creationdate="20221111T081210Z">
+        <seg>Ajouter une page médiawiki en ligne</seg>
       </tuv>
     </tu>
     <tu>
@@ -39161,6 +39193,19 @@ install virtualenv</seg>
       </tuv>
       <tuv lang="fr">
         <seg>ceci parce que la fonction en question a éventuellement déjà été implémentée, ou parce qu'il y a des raisons empêchant son implémentation,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>MediaWiki
+
+redontant URL
+
+"Page URL"</note>
+      <tuv lang="en">
+        <seg>Online Mediawiki Page URL</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221111T081802Z" creationid="suzume" creationdate="20221111T081802Z">
+        <seg>URL de la page</seg>
       </tuv>
     </tu>
     <tu>
