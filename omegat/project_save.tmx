@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_e247debcb" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3042,6 +3042,21 @@ le programme d'installation peut créer des raccourcis pour vous dans le menu d�
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021550Z">
         <seg>- comparatif nominatif : masculin, féminin, neutre ; qui sont respectivement les formes plurielles des adjectifs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>- drag and drop files on this pane,
+	- use Project &gt; Add Files...,
+	- use Project &gt; Source Files... and click on Add Files...
+	- or use your file manager to copy files to the 'source' folder,
+	   and then use Project &gt; Reload to reload the project.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221111T080940Z" creationid="suzume" creationdate="20221111T080940Z">
+        <seg>- glisser-déposer des fichiers dans ce volet Éditeur
+	- utiliser Projet &gt; Copier des fichiers dans le dossier source
+	- cliquer sur 'Copier des fichiers dans le dossier source' dans la fenêtre Fichiers du projet
+	- copier des fichiers dans le dossier 'source' du projet avec votre gestionnaire de fichier, puis recharger votre projet avec Projet &gt; Recharger.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57211,6 +57226,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To add files to the project you can:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221111T080901Z" creationid="suzume" creationdate="20221111T080901Z">
+        <seg>Pour ajouter des fichiers à un projet, vous pouvez :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To add new terms to reference glossaries, edit them in an external text editor.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210323T162001Z" creationid="suzume" creationdate="20210323T162001Z">
@@ -64781,6 +64804,14 @@ source code.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210129T104635Z" creationid="suzume" creationdate="20210129T104527Z">
         <seg>L'inclusion n'est nécessaire que lorsque vous souhaitez créer des dérogations à certaines exclusions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You project does not seem to contain translatable files.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221111T080847Z" creationid="suzume" creationdate="20221111T080847Z">
+        <seg>Le projet semble ne contenir aucun fichier traduisible.</seg>
       </tuv>
     </tu>
     <tu>
