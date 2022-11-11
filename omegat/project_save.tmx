@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_a00aae594" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_e247debcb" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3292,9 +3292,9 @@ Comportement du lemmatiseur source ou cible à utiliser (remplace les paramètre
         <seg>--config-dir=&lt;path&gt;
 	  The directory used to read or write OmegaT configuration files.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20221110T052449Z" creationid="suzume" creationdate="20221110T051927Z">
+      <tuv lang="fr" changeid="suzume" changedate="20221111T030848Z" creationid="suzume" creationdate="20221110T051927Z">
         <seg>--config-dir=&lt;chemin&gt;
-	  Le dossier à partir duquel lire et écrire les fichiers de configuration.</seg>
+	  Le dossier à partir duquel lire et écrire les fichiers de configuration d'OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3530,6 +3530,7 @@ Spécifier un mode différent du mode par défaut (interface utilisateur).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>manque un . dans la source</note>
       <tuv lang="en">
         <seg>--mode=console-stats
 	  project_path
@@ -3736,6 +3737,7 @@ Le contenu à inclure dans la TMX pseudo-traduite.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>manque un . dans la source</note>
       <tuv lang="en">
         <seg>--resource-bundle=&lt;path&gt;
 	  A Java .properties file to use for the interface text</seg>
@@ -3965,9 +3967,9 @@ Valider les balises.</seg>
         <seg>-h, --help
 	  Print this help message.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20221015T222309Z" creationid="suzume" creationdate="20221014T002720Z">
+      <tuv lang="fr" changeid="suzume" changedate="20221111T030832Z" creationid="suzume" creationdate="20221014T002720Z">
         <seg>-h, --help
-	  Afficher ce message d'aide</seg>
+	  Afficher ce message d'aide.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22149,8 +22151,8 @@ The FSF strongly urges you not to use this translation as the official distribu-
 Gossamer threads hold you back
 404 not found</seg>
       </tuv>
-      <tuv lang="fr" changeid="briac" changedate="20190512T080126Z" creationid="briac" creationdate="20190512T080126Z">
-        <seg>Pas de page d'aide
+      <tuv lang="fr" changeid="suzume" changedate="20221111T031024Z" creationid="briac" creationdate="20190512T080126Z">
+        <seg>404, pas de page d'aide
 dommage...</seg>
       </tuv>
     </tu>
@@ -22678,8 +22680,8 @@ dommage...</seg>
       <tuv lang="en">
         <seg>Fatal error encountered - saving project file with '.recover' backup extension.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210505T235934Z">
-        <seg>Erreur majeure. Le projet est sauvegardé avec l'extension '.recover'.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20221111T031057Z">
+        <seg>Erreur majeure : le projet est sauvegardé avec l'extension '.recover'.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35144,8 +35146,8 @@ impose that choice.</seg>
 404 not with us now
 Lost to paradise</seg>
       </tuv>
-      <tuv lang="fr" changeid="briac" changedate="20190512T080218Z" creationid="briac" creationdate="20190512T080218Z">
-        <seg>Cette page a trouvé le chemin du paradis...</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20221111T031034Z" creationid="briac" creationdate="20190512T080218Z">
+        <seg>404. Cette page a trouvé le chemin du paradis...</seg>
       </tuv>
     </tu>
     <tu>
@@ -37458,8 +37460,8 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       <tuv lang="en">
         <seg>OmegaT Project Files</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210505T044712Z">
-        <seg>Fichiers du projet</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20221111T031152Z">
+        <seg>Fichiers du projet OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -60150,10 +60152,10 @@ on line {1}, column {2}.</seg>
 line or in the OmegaT start script;
 The current setting is {0}MB;</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20221110T102047Z" creationid="suzume" creationdate="20221110T102005Z">
+      <tuv lang="fr" changeid="suzume" changedate="20221111T030950Z" creationid="suzume" creationdate="20221110T102005Z">
         <seg>Utilisez « java -Xmx&lt;taille-en-Mo&gt;M -jar OmegaT.jar » à la ligne de commande
 ou à partir du script de lancement d'OmegaT ;
-la configuration actuelle est de {0} Mo.</seg>
+la configuration actuelle est de {0} Mo ;</seg>
       </tuv>
     </tu>
     <tu>
