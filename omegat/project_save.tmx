@@ -1789,6 +1789,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Sentence case</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221111T093158Z" creationid="suzume" creationdate="20221111T093158Z">
+        <seg>Casse de &amp;phrase</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Set Colour</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20141020T134736Z" creationid="Didier" creationdate="20141020T134736Z">
@@ -1967,8 +1975,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Title Case</seg>
       </tuv>
-      <tuv lang="fr" changeid="Didier" changedate="20120513T181801Z">
-        <seg>&amp;1re lettre des mots en majuscule</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20221111T093142Z">
+        <seg>&amp;Casse de Titre</seg>
       </tuv>
     </tu>
     <tu>
@@ -1993,6 +2001,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20201203T085421Z">
         <seg>Langue des fichiers traduits :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;UPPER CASE</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221111T093201Z" creationid="suzume" creationdate="20221111T093040Z">
+        <seg>M&amp;AJUSCULES</seg>
       </tuv>
     </tu>
     <tu>
@@ -2106,6 +2122,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20150713T084014Z" creationid="Didier" creationdate="20150713T084014Z">
         <seg>G&amp;lossaire en écriture</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;lower case</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221111T093204Z" creationid="suzume" creationdate="20221111T093025Z">
+        <seg>&amp;minuscules</seg>
       </tuv>
     </tu>
     <tu>
@@ -43787,6 +43811,15 @@ ces mots : « pas de page »...</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z" creationid="Didier" creationdate="20140203T140349Z">
         <seg>Remplacer par :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Replace has no &amp;</note>
+      <tuv lang="en">
+        <seg>Replace...</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221111T093011Z" creationid="suzume" creationdate="20221111T093011Z">
+        <seg>Rem&amp;placer...</seg>
       </tuv>
     </tu>
     <tu>
