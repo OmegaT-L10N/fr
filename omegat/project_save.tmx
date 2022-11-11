@@ -22677,6 +22677,15 @@ dommage...</seg>
       </tuv>
     </tu>
     <tu>
+      <note>retirer mediawiki</note>
+      <tuv lang="en">
+        <seg>Failed to download Mediawiki page</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221111T081856Z" creationid="suzume" creationdate="20221111T081856Z">
+        <seg>La page n'a pas pu être téléchargée</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Failed to fetch latest version info: {0}</seg>
       </tuv>
