@@ -3052,9 +3052,9 @@ le programme d'installation peut créer des raccourcis pour vous dans le menu d�
 	- or use your file manager to copy files to the 'source' folder,
 	   and then use Project &gt; Reload to reload the project.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20221111T080940Z" creationid="suzume" creationdate="20221111T080940Z">
+      <tuv lang="fr" changeid="suzume" changedate="20221111T082651Z" creationid="suzume" creationdate="20221111T080940Z">
         <seg>- glisser-déposer des fichiers dans ce volet Éditeur
-	- utiliser Projet &gt; Copier des fichiers dans le dossier source
+	- utiliser Projet &gt; Ajouter des fichiers...
 	- cliquer sur 'Copier des fichiers dans le dossier source' dans la fenêtre Fichiers du projet
 	- copier des fichiers dans le dossier 'source' du projet avec votre gestionnaire de fichier, puis recharger votre projet avec Projet &gt; Recharger.</seg>
       </tuv>
@@ -47788,6 +47788,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20140310T125944Z" creationid="Didier" creationdate="20140310T125944Z">
         <seg>Source</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source &amp;Files...</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221111T082526Z" creationid="suzume" creationdate="20221111T082526Z">
+        <seg>&amp;Fichiers source...</seg>
       </tuv>
     </tu>
     <tu>
