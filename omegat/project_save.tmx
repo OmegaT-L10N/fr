@@ -2070,6 +2070,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;User Guide...</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221112T080951Z" creationid="suzume" creationdate="20221112T080951Z">
+        <seg>Guide de l'&amp;utilisateur...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;User's Manual...</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20141101T135607Z">
@@ -13779,6 +13787,14 @@ provoquer des comportements inattendus, mais corrects.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Automatically &amp;Show Relevant Suggestions</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221112T080913Z" creationid="suzume" creationdate="20221112T080913Z">
+        <seg>&amp;Afficher automatiquement les suggestions pertinentes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Automatically check for updates</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20180606T085846Z" creationid="Didier" creationdate="20180606T085846Z">
@@ -22810,6 +22826,14 @@ dommage...</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Failed to create the translated files!</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221112T081110Z" creationid="suzume" creationdate="20221112T081110Z">
+        <seg>Les fichiers traduits n'ont pas pu être créés !</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>retirer mediawiki</note>
       <tuv lang="en">
         <seg>Failed to download Mediawiki page</seg>
@@ -24900,6 +24924,22 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20101112T170314Z">
         <seg>Globales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Global &amp;Segmentation Rules...</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221112T080933Z" creationid="suzume" creationdate="20221112T080933Z">
+        <seg>Règles de segmentation générales...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Global File &amp;Filters...</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221112T080927Z" creationid="suzume" creationdate="20221112T080927Z">
+        <seg>&amp;Filtres de fichiers généraux...</seg>
       </tuv>
     </tu>
     <tu>
@@ -38430,6 +38470,14 @@ be launched.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT needs to reload the project to take the modifications into account.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221112T081027Z" creationid="suzume" creationdate="20221112T081027Z">
+        <seg>OmegaT doit recharger le projet pour prendre les modifications en compte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT on Linux HowTo</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20170331T122035Z" creationid="briac" creationdate="20170331T122035Z">
@@ -43202,6 +43250,14 @@ ces mots : « pas de page »...</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210731T235235Z" creationid="suzume" creationdate="20210731T155043Z">
         <seg>Recharger le projet pour appliquer ces modifications</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Reload the project now?</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221112T081041Z" creationid="suzume" creationdate="20221112T081041Z">
+        <seg>Souhaitez-vous recharger le projet maintenant ?</seg>
       </tuv>
     </tu>
     <tu>
