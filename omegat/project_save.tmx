@@ -3120,6 +3120,22 @@ le programme d'installation peut créer des raccourcis pour vous dans le menu d�
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>- drag and drop files on this pane,
+	- use Project &gt; Add Files...,
+	- use Project &gt; Source Files... and click on Add Files...
+	- or use your file manager to copy files to the 'source' folder,
+	  and then use Project &gt; Reload to reload the project.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221112T030125Z" creationid="suzume" creationdate="20221112T030125Z">
+        <seg>- glisser-déposer des fichiers dans ce volet Éditeur
+	- utiliser Projet &gt; Ajouter des fichiers...
+	- utiliser Projet &gt; Fichiers source... et cliquer sur Ajouter des fichiers...
+	- copier des fichiers dans le dossier 'source' du projet avec votre gestionnaire de fichier,
+	   puis recharger votre projet avec Projet &gt; Recharger.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>- flexible sentence segmenting (using an SRX-like method)</seg>
       </tuv>
       <tuv lang="fr">
