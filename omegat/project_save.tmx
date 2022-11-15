@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_e247debcb" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_unknown" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -17168,6 +17168,16 @@ Une liste blanche en expression régulière des fichiers source à traiter.</seg
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Consult the documentation about your recovery options and
+return the information below to the software manufacturer with
+a description of how this error was produced.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="tengu" changedate="20221114T090249Z" creationid="tengu" creationdate="20221114T090249Z">
+        <seg>Consultez la documentation pour les possibilités de récupération et renvoyez l'information suivante aux développeurs en y joignant un descriptif de la manipulation qui a amené l'erreur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Contact</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20170327T132540Z" creationid="briac" creationdate="20170327T132540Z">
@@ -23232,6 +23242,14 @@ dommage...</seg>
       </tuv>
       <tuv lang="fr">
         <seg>Le filtre « {0} » n'a pas pu être chargé à partir de « {1} »</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Filter Settings</seg>
+      </tuv>
+      <tuv lang="fr" changeid="tengu" changedate="20221114T090434Z" creationid="tengu" creationdate="20221114T090434Z">
+        <seg>l</seg>
       </tuv>
     </tu>
     <tu>
@@ -43230,6 +43248,14 @@ ces mots : « pas de page »...</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Regular expressions use a combination of letters, digits, and symbols (collectively known as &lt;e0&gt;characters&lt;/e0&gt;) to define an &lt;e1&gt;expression&lt;/e1&gt; that represents a specific text pattern.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="tengu" changedate="20221114T090533Z" creationid="tengu" creationdate="20221114T090533Z">
+        <seg>Les expressions régulières utilisent des combinaisons de lettre, chiffres et symboles (qu'on appellera ici &lt;e0&gt;caractères&lt;/e0&gt;) pour définir une &lt;e1&gt;expression&lt;/e1&gt; qui représente un motif textuel particulier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Release details</seg>
       </tuv>
       <tuv lang="fr">
@@ -43258,6 +43284,14 @@ ces mots : « pas de page »...</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221112T081041Z" creationid="suzume" creationdate="20221112T081041Z">
         <seg>Souhaitez-vous recharger le projet maintenant ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Reload the project?</seg>
+      </tuv>
+      <tuv lang="fr" changeid="tengu" changedate="20221114T090221Z" creationid="tengu" creationdate="20221114T090221Z">
+        <seg>Recharger le projet ?</seg>
       </tuv>
     </tu>
     <tu>
