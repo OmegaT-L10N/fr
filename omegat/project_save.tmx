@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_unknown" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -26876,6 +26876,14 @@ circumstances.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If checked, separations between paragraphs in the source document are indicated visually.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Kazephil" changedate="20221116T084943Z" creationid="Kazephil" creationdate="20221116T084943Z">
+        <seg>Si coché, les différents paragraphes du document source sont séparés visuellement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If checked, source segments will be shown and marked in green.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130503T094426Z">
@@ -26935,6 +26943,22 @@ circumstances.</seg>
         <seg>If checked, the untranslated segments will be marked in violet.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130503T094351Z">
+        <seg>S'il est coché, les segments non traduits seront surlignés en violet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If checked, translated segments will be marked in yellow.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Kazephil" changedate="20221116T084850Z" creationid="Kazephil" creationdate="20221116T084850Z">
+        <seg>S'il est coché, les segments déjà traduits seront surlignés en jaune.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If checked, untranslated segments will be marked in violet.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Kazephil" changedate="20221116T084901Z" creationid="Kazephil" creationdate="20221116T084901Z">
         <seg>S'il est coché, les segments non traduits seront surlignés en violet.</seg>
       </tuv>
     </tu>
@@ -34596,6 +34620,14 @@ impose that choice.</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130421T174048Z">
         <seg>Marquer les espaces insécables</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mark Paragraph Delimitations</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Kazephil" changedate="20221116T084926Z" creationid="Kazephil" creationdate="20221116T084926Z">
+        <seg>Marquer les délimitations de paragraphes</seg>
       </tuv>
     </tu>
     <tu>
