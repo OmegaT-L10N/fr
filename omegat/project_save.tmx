@@ -3281,10 +3281,11 @@ le programme d'installation peut créer des raccourcis pour vous dans le menu d�
 	  otherwise use Options &gt; Global File Filters...;
 	- open them in their original application and verify that they are not empty.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20221203T132839Z" creationid="suzume" creationdate="20221203T132839Z">
+      <tuv lang="fr" changeid="suzume" changedate="20221203T133108Z" creationid="suzume" creationdate="20221203T132839Z">
         <seg>- vérifier que leur format est pris en charge par OmegaT :
 	  si les filtres de fichiers locaux sont activés
-	  utiliser Projet &gt; Propriétés... &gt; Filtres de fichiers locaux
+	  utiliser Projet &gt; Propriétés... &gt; Filtres de fichiers locaux...
+	  sinon, utiliser Options &gt; Filtres de fichiers généraux...
 	- ouvrir les fichiers dans leur application d'origine et vérifier qu'ils ne sont pas vides.</seg>
       </tuv>
     </tu>
@@ -20214,6 +20215,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021618Z" creationid="Didier" creationdate="20150525T145157Z">
         <seg>Voulez-vous le remplacer par celui que vous déplacez ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do&amp;wnload Team Project...</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221203T133244Z" creationid="suzume" creationdate="20221203T133244Z">
+        <seg>&amp;Télécharger projet en équipe...</seg>
       </tuv>
     </tu>
     <tu>
