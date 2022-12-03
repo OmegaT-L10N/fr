@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_0a7cbfbad" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -36364,6 +36364,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No option: Launch GUI.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221203T061923Z" creationid="suzume" creationdate="20221203T061923Z">
+        <seg>Pas d'option : lancement de l'interface graphique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No options: Launch GUI</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221007T144856Z" creationid="suzume" creationdate="20221007T144856Z">
@@ -42497,6 +42505,14 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221014T002648Z" creationid="suzume" creationdate="20221014T000002Z">
         <seg>Chemin de projet seul : lancement de l'interface graphique et chargement du projet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project path only: Launch GUI and load specified project.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221203T061932Z" creationid="suzume" creationdate="20221203T061932Z">
+        <seg>Chemin de projet seul : lancement de l'interface graphique et chargement du projet.</seg>
       </tuv>
     </tu>
     <tu>
