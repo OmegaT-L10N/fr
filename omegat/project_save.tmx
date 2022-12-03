@@ -3144,6 +3144,22 @@ le programme d'installation peut créer des raccourcis pour vous dans le menu d�
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>- drag and drop files on this pane;
+	- use Project &gt; Add Files...;
+	- use Project &gt; Source Files... and click on Add Files...;
+	- use your file manager to copy files to the 'source' folder,
+	  and then use Project &gt; Reload to reload the project.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221203T132436Z" creationid="suzume" creationdate="20221203T132436Z">
+        <seg>- glisser-déposer des fichiers dans ce volet Éditeur
+	- utiliser Projet &gt; Ajouter des fichiers...
+	- utiliser Projet &gt; Fichiers source... et cliquer sur Ajouter des fichiers...
+	- copier des fichiers dans le dossier 'source' du projet avec votre gestionnaire de fichier,
+	   puis recharger votre projet avec Projet &gt; Recharger.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>- flexible sentence segmenting (using an SRX-like method)</seg>
       </tuv>
       <tuv lang="fr">
@@ -3407,6 +3423,16 @@ Comportement du lemmatiseur source ou cible à utiliser (remplace les paramètre
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--config-dir=&lt;path&gt;
+	  The folder used to read or write OmegaT configuration files.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221203T132205Z" creationid="suzume" creationdate="20221203T132205Z">
+        <seg>--config-dir=&lt;chemin&gt;
+	  Le dossier à partir duquel lire et écrire les fichiers de configuration d'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--config-file=/path/to/config-file/ \</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160322T170221Z" creationid="Didier" creationdate="20160322T170221Z">
@@ -3467,6 +3493,16 @@ Un fichier .properties Java à partir duquel charger les paramètres par défaut
 	  Do not remember the last directory opened in the file picker.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221110T051941Z" creationid="suzume" creationdate="20221014T003540Z">
+        <seg>--disable-location-save
+	  Ne pas enregistrer le dernier dossier ouvert dans le sélecteur de fichiers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--disable-location-save
+	  Do not remember the last folder opened in the file picker.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221203T132201Z" creationid="suzume" creationdate="20221203T132201Z">
         <seg>--disable-location-save
 	  Ne pas enregistrer le dernier dossier ouvert dans le sélecteur de fichiers.</seg>
       </tuv>
@@ -3591,6 +3627,18 @@ Spécifier un mode différent du mode par défaut (interface utilisateur).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--mode=console-align
+	  --alignDir=&lt;path&gt;
+	    A folder containing the translated files.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221203T132226Z" creationid="suzume" creationdate="20221203T132226Z">
+        <seg>--mode=console-align
+	  --alignDir=&lt;chemin&gt;
+	  Un dossier contenant les fichiers traduits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--mode=console-createpseudotranslatetmx</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T104541Z">
@@ -3657,6 +3705,19 @@ Spécifier un mode différent du mode par défaut (interface utilisateur).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--mode=console-stats
+	  project_path
+	    The path to the project.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221203T132243Z" creationid="suzume" creationdate="20221203T132243Z">
+        <seg>--mode=console-stats
+	  chemin_du_projet
+	    Le chemin du projet.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--mode=console-translate</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T104533Z">
@@ -3719,6 +3780,18 @@ Disable team project functionality.</seg>
       <tuv lang="fr" changeid="Didier" changedate="20160115T134633Z" creationid="Didier" creationdate="20160115T134633Z">
         <seg>--no-team
 Désactiver la fonctionnalité de projets en équipe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--output-file=[stats-output-file]
+	    Prints to the specified file, or to standard output
+	    if no file is given or the option is not used.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221203T132323Z" creationid="suzume" creationdate="20221203T132323Z">
+        <seg> --output-file=[fichier-de-sortie]
+	    Envoie les informations vers ce fichier, ou vers la sortie standard
+	    s'il n'est pas donné ou si l'option n'est pas utilisée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3853,6 +3926,16 @@ Le contenu à inclure dans la TMX pseudo-traduite.</seg>
       <tuv lang="fr" changeid="suzume" changedate="20221111T043602Z" creationid="suzume" creationdate="20221104T030135Z">
         <seg>--resource-bundle=&lt;chemin&gt;
 	  Un fichier .properties Java à utiliser pour les textes de l'interface utilisateur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--resource-bundle=&lt;path&gt;
+	  A Java .properties file to use for the interface text.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221203T132220Z" creationid="suzume" creationdate="20221203T132220Z">
+        <seg>--resource-bundle=&lt;chemin&gt;
+	  Un fichier .properties Java à utiliser pour les textes de l'interface utilisateur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60602,6 +60685,16 @@ on line {1}, column {2}.</seg>
       <tuv lang="fr" changeid="suzume" changedate="20221015T222757Z" creationid="suzume" creationdate="20221015T222726Z">
         <seg>Utilisation : team init &lt;langue source&gt; &lt;langue cible&gt;
 	  Voir --help</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Usage: team init &lt;source language&gt; &lt;target language&gt;
+	See --help.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221203T132331Z" creationid="suzume" creationdate="20221203T132331Z">
+        <seg>Utilisation : team init &lt;langue source&gt; &lt;langue cible&gt;
+	  Voir --help.</seg>
       </tuv>
     </tu>
     <tu>
