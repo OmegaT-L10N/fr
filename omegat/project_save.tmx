@@ -3273,6 +3273,22 @@ le programme d'installation peut créer des raccourcis pour vous dans le menu d�
       </tuv>
     </tu>
     <tu>
+      <note>if per-project filter = local</note>
+      <tuv lang="en">
+        <seg>- verify that their format is supported by OmegaT:
+	  if per-project filter settings are enabled
+	  use Project &gt; Properties... &gt; Local File Filters...,
+	  otherwise use Options &gt; Global File Filters...;
+	- open them in their original application and verify that they are not empty.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221203T132839Z" creationid="suzume" creationdate="20221203T132839Z">
+        <seg>- vérifier que leur format est pris en charge par OmegaT :
+	  si les filtres de fichiers locaux sont activés
+	  utiliser Projet &gt; Propriétés... &gt; Filtres de fichiers locaux
+	- ouvrir les fichiers dans leur application d'origine et vérifier qu'ils ne sont pas vides.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>--% (-- left) / --% (-- left), --</seg>
       </tuv>
@@ -33701,6 +33717,14 @@ automatically download and install it.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221111T082006Z" creationid="suzume" creationdate="20221111T082006Z">
         <seg>&amp;Filtres de fichiers locaux...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local File Filters...</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221203T132858Z" creationid="suzume" creationdate="20221203T132858Z">
+        <seg>Filtres de fichiers locaux...</seg>
       </tuv>
     </tu>
     <tu>
