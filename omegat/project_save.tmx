@@ -17950,6 +17950,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create A&amp;lternative Translation</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221203T135125Z" creationid="suzume" creationdate="20221203T135125Z">
+        <seg>Créer une traduction a&amp;lternative</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create Alternative Translation</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130421T165014Z">
@@ -33326,10 +33334,26 @@ Exécutez OmegaT de la façon suivante.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Left-to-Right Embedding (LRE U+202&amp;A)</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221203T135014Z" creationid="suzume" creationdate="20221203T135014Z">
+        <seg>Début de l'imbrication de gauche à droite (LRE U+202&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Left-to-Right Embedding (LRE U+202A)</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160405T091837Z" creationid="Didier" creationdate="20160405T091837Z">
         <seg>Début de l'imbrication de gauche à droite (LRE U+202A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Left-to-Right Mark (LRM U+200&amp;E)</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221203T135003Z" creationid="suzume" creationdate="20221203T135003Z">
+        <seg>Marque de gauche à droite (LRM U+200&amp;E)</seg>
       </tuv>
     </tu>
     <tu>
@@ -34582,8 +34606,8 @@ impose that choice.</seg>
       <tuv lang="en">
         <seg>Mar&amp;k Whitespace</seg>
       </tuv>
-      <tuv lang="fr" changeid="Didier" changedate="20130104T150612Z">
-        <seg>Marquer les caractères d'&amp;espacement</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20221203T135252Z">
+        <seg>Colorer les caractères d'&amp;espacement</seg>
       </tuv>
     </tu>
     <tu>
@@ -34662,8 +34686,8 @@ impose that choice.</seg>
       <tuv lang="en">
         <seg>Mark &amp;Non-Breakable Spaces</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20221112T030428Z" creationid="suzume" creationdate="20221112T030428Z">
-        <seg>Marquer les espaces &amp;insécables</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20221203T135237Z" creationid="suzume" creationdate="20221112T030428Z">
+        <seg>Colorer les espaces &amp;insécables</seg>
       </tuv>
     </tu>
     <tu>
@@ -34732,6 +34756,14 @@ impose that choice.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mark Gl&amp;ossary Matches</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221203T135218Z" creationid="suzume" creationdate="20221203T135218Z">
+        <seg>Marquer les correspondances de &amp;glossaire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mark Glossary Matches</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20171125T165301Z" creationid="Didier" creationdate="20171125T165136Z">
@@ -34758,8 +34790,8 @@ impose that choice.</seg>
       <tuv lang="en">
         <seg>Mark Non-Unique Se&amp;gments</seg>
       </tuv>
-      <tuv lang="fr" changeid="Didier" changedate="20161229T164433Z" creationid="Didier" creationdate="20161229T164433Z">
-        <seg>Marquer les segments non &amp;uniques</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20221203T135223Z" creationid="Didier" creationdate="20161229T164433Z">
+        <seg>Colorer les segments non &amp;uniques</seg>
       </tuv>
     </tu>
     <tu>
@@ -34806,8 +34838,8 @@ impose that choice.</seg>
       <tuv lang="en">
         <seg>Mark Segments &amp;with Notes</seg>
       </tuv>
-      <tuv lang="fr" changeid="Didier" changedate="20120225T175501Z">
-        <seg>Marquer les segments &amp;annotés</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20221203T135227Z">
+        <seg>Colorer les segments &amp;annotés</seg>
       </tuv>
     </tu>
     <tu>
@@ -41779,6 +41811,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Pop Directional Formatting (PDF U+202&amp;C)</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221203T135022Z" creationid="suzume" creationdate="20221203T135022Z">
+        <seg>Fin de formatage directionnel (PDF U+202&amp;C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Pop Directional Formatting (PDF U+202C)</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20170710T135424Z" creationid="Didier" creationdate="20170710T135424Z">
@@ -41831,6 +41871,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20170329T125350Z" creationid="briac" creationdate="20170329T125350Z">
         <seg>Des outils puissants</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pre&amp;vious Note</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221203T135158Z" creationid="suzume" creationdate="20221203T135158Z">
+        <seg>Note pré&amp;cédente</seg>
       </tuv>
     </tu>
     <tu>
@@ -43396,6 +43444,14 @@ ces mots : « pas de page »...</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Register I&amp;dentical Translation</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221203T135147Z" creationid="suzume" creationdate="20221203T135147Z">
+        <seg>Enregistrer une traduction i&amp;dentique à la source</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Register Identical Translation</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20140222T150947Z" creationid="Didier" creationdate="20140222T150947Z">
@@ -43624,6 +43680,14 @@ ces mots : « pas de page »...</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20170106T154613Z" creationid="Didier" creationdate="20170106T154613Z">
         <seg>Su&amp;pprimer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remo&amp;ve Translation</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221203T135137Z" creationid="suzume" creationdate="20221203T135137Z">
+        <seg>S&amp;upprimer la traduction</seg>
       </tuv>
     </tu>
     <tu>
@@ -44711,10 +44775,26 @@ ces mots : « pas de page »...</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Right-to-Left Embedding (RLE U+202&amp;B)</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221203T135018Z" creationid="suzume" creationdate="20221203T135018Z">
+        <seg>Début de l'imbrication de droite à gauche (RLE U+202&amp;B)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Right-to-Left Embedding (RLE U+202B)</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160405T091905Z" creationid="Didier" creationdate="20160405T091905Z">
         <seg>Début de l'imbrication de droite à gauche (RLE U+202B)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-to-Left Mark (RLM U+200&amp;F)</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221203T135008Z" creationid="suzume" creationdate="20221203T135008Z">
+        <seg>Marque de droite à gauche (RLM U+200&amp;F)</seg>
       </tuv>
     </tu>
     <tu>
@@ -61060,6 +61140,14 @@ la configuration actuelle est de {0} Mo ;</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210111T113423Z" creationid="suzume" creationdate="20210111T113423Z">
         <seg>Utiliser un client SVN ou Git pour ajouter les fichiers à traduire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use as Default Translati&amp;on</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221203T135118Z" creationid="suzume" creationdate="20221203T135118Z">
+        <seg>Utiliser comme traducti&amp;on par défaut</seg>
       </tuv>
     </tu>
     <tu>
