@@ -1324,6 +1324,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Machine Translation</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221204T091101Z" creationid="suzume" creationdate="20221204T091101Z">
+        <seg>Traduction &amp;automatique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Make the file filter settings project specific</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20120528T075421Z">
@@ -1358,8 +1366,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Modification Info</seg>
       </tuv>
-      <tuv lang="fr" changeid="Didier" changedate="20100124T104816Z">
-        <seg>Informations de &amp;modification</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20221204T091251Z">
+        <seg>&amp;Modifications</seg>
       </tuv>
     </tu>
     <tu>
@@ -1668,6 +1676,7 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
     </tu>
     <tu>
+      <note>"main" ?</note>
       <tuv lang="en">
         <seg>&amp;Restore Main Window</seg>
       </tuv>
@@ -19844,16 +19853,16 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="en">
         <seg>Display for &amp;All Segments</seg>
       </tuv>
-      <tuv lang="fr" changeid="Didier" changedate="20170904T132436Z">
-        <seg>Afficher pour &amp;tous les segments</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20221204T091311Z">
+        <seg>&amp;Tous les segments</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Display for Current &amp;Segment</seg>
       </tuv>
-      <tuv lang="fr" changeid="Didier" changedate="20120305T142625Z">
-        <seg>Afficher pour le segment &amp;actuel</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20221204T091302Z">
+        <seg>Segment &amp;actuel</seg>
       </tuv>
     </tu>
     <tu>
@@ -34758,8 +34767,8 @@ impose that choice.</seg>
       <tuv lang="en">
         <seg>Mark Gl&amp;ossary Matches</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20221203T135218Z" creationid="suzume" creationdate="20221203T135218Z">
-        <seg>Marquer les correspondances de &amp;glossaire</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20221204T091111Z" creationid="suzume" creationdate="20221203T135218Z">
+        <seg>Colorer les c&amp;orrespondances de &amp;glossaire</seg>
       </tuv>
     </tu>
     <tu>
