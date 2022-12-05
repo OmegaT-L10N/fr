@@ -612,6 +612,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Auto-Completion</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221205T225455Z" creationid="suzume" creationdate="20221205T225455Z">
+        <seg>S&amp;aisie automatique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Auto-propagation of Translations</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20120904T121718Z">
@@ -855,6 +863,14 @@ java -jar OmegaT.jar $*</seg>
         <seg>&amp;Dictionaries</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20150713T083746Z" creationid="Didier" creationdate="20150713T083746Z">
+        <seg>&amp;Dictionnaires</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Dictionary</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221205T225451Z" creationid="suzume" creationdate="20221205T225451Z">
         <seg>&amp;Dictionnaires</seg>
       </tuv>
     </tu>
@@ -26128,6 +26144,22 @@ a disparu...</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20161227T165144Z" creationid="Didier" creationdate="20161227T165144Z">
         <seg>Historique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>History &amp;Completion</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221205T225525Z" creationid="suzume" creationdate="20221205T225507Z">
+        <seg>Saisie dans l'&amp;historique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>History &amp;Prediction</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221205T225518Z" creationid="suzume" creationdate="20221205T225518Z">
+        <seg>&amp;Prédiction historique</seg>
       </tuv>
     </tu>
     <tu>
