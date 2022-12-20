@@ -22950,8 +22950,8 @@ dommage...</seg>
       <tuv lang="en">
         <seg>Extraneous</seg>
       </tuv>
-      <tuv lang="fr" changeid="Didier" changedate="20130412T135654Z">
-        <seg>En trop</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T115342Z">
+        <seg>Superflu</seg>
       </tuv>
     </tu>
     <tu>
@@ -44043,6 +44043,14 @@ ces mots : « pas de page »...</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remove extraneous tags from docx documents.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T115150Z" creationid="suzume" creationdate="20221220T115150Z">
+        <seg>Retirer les balises superflues de document docx.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remove leading and trailing &amp;whitespace in non-segmented projects</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20161229T164111Z" creationid="Didier" creationdate="20161229T164111Z">
@@ -46644,6 +46652,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221220T113903Z" creationid="suzume" creationdate="20221220T113730Z">
         <seg>Voir le paramètre &lt;l0/&gt; pour en savoir plus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the &lt;l1/&gt; preferences for details.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T115005Z" creationid="suzume" creationdate="20221220T115005Z">
+        <seg>Voir les préférences &lt;l1/&gt; pour en savoir plus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50955,6 +50971,14 @@ Les remplacements portent sur les segments cible du projet, qu'ils soient déjà
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20201203T061445Z" creationid="suzume" creationdate="20201203T061445Z">
         <seg>Le texte dans les segments source correspondants est affiché en italique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Text in the target segment matching this expression is marked in red and identified as an extraneous tag for issue checking purposes.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T115321Z" creationid="suzume" creationdate="20221220T115258Z">
+        <seg>Le texte dans le segment cible qui correspond à cette expression est coloré en rouge et est identifié comme étant une balise superflue dans le cadre de l'affichage des erreurs.</seg>
       </tuv>
     </tu>
     <tu>
