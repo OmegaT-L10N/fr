@@ -46623,6 +46623,23 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l0/&gt; preference for global commands.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T113930Z" creationid="suzume" creationdate="20221220T113930Z">
+        <seg>Voir le paramètre &lt;l0/&gt; pour les commandes globales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>See the &lt;l0/&gt; preferences for details.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T113903Z" creationid="suzume" creationdate="20221220T113730Z">
+        <seg>Voir le paramètre &lt;l0/&gt; pour en savoir plus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the GNU General Public License for more detail.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130412T074247Z">
@@ -51360,6 +51377,14 @@ form of a work.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
         <seg>Le basculement &lt;k4&gt; &lt;k5&gt;Maj&lt;/k5&gt; &lt;k6&gt;Ctrl&lt;/k6&gt; &lt;k7&gt;O&lt;/k7&gt; &lt;/k4&gt; vous permet d'osciller entre trois résultats :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;l0/&gt; preference allows you to define strings that OmegaT will mark in red by default, and treat as extraneous tags for validation purposes.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T114035Z" creationid="suzume" creationdate="20221220T114035Z">
+        <seg>Le paramètre &lt;l0/&gt; vous permet de définir une chaîne de caractères qu'OmegaT colorera en rouge par défaut et traitera comme une balise </seg>
       </tuv>
     </tu>
     <tu>
@@ -57934,8 +57959,8 @@ collective works based on the Program.</seg>
       <tuv lang="en">
         <seg>Title Case</seg>
       </tuv>
-      <tuv lang="fr" changeid="Clementine" changedate="20130412T081050Z">
-        <seg>Basculer la casse en &gt; 1ère lettre des mots en majuscule</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T113804Z">
+        <seg>Casse de Titre</seg>
       </tuv>
     </tu>
     <tu>
