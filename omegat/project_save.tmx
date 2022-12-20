@@ -27125,8 +27125,8 @@ circumstances.</seg>
       <tuv lang="en">
         <seg>If checked, separations between paragraphs in the source document are indicated visually.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Kazephil" changedate="20221116T084943Z" creationid="Kazephil" creationdate="20221116T084943Z">
-        <seg>Si coché, les différents paragraphes du document source sont séparés visuellement.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T111951Z" creationid="Kazephil" creationdate="20221116T084943Z">
+        <seg>Les différents paragraphes du document source sont séparés visuellement.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27197,16 +27197,16 @@ circumstances.</seg>
       <tuv lang="en">
         <seg>If checked, translated segments will be marked in yellow.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Kazephil" changedate="20221116T084850Z" creationid="Kazephil" creationdate="20221116T084850Z">
-        <seg>S'il est coché, les segments déjà traduits seront surlignés en jaune.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T111925Z" creationid="Kazephil" creationdate="20221116T084850Z">
+        <seg>Colore les segments déjà traduits en jaune.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>If checked, untranslated segments will be marked in violet.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Kazephil" changedate="20221116T084901Z" creationid="Kazephil" creationdate="20221116T084901Z">
-        <seg>S'il est coché, les segments non traduits seront surlignés en violet.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T111939Z" creationid="Kazephil" creationdate="20221116T084901Z">
+        <seg>Colore les segments non traduits en violet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41054,6 +41054,15 @@ mirage, pas de page...</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Paragraph Delimitations</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T111941Z" creationid="suzume" creationdate="20221220T111941Z">
+        <seg>Délimitation des paragraphes</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Paragraph delimitation</seg>
       </tuv>
@@ -48592,6 +48601,15 @@ of the GPL, as needed to protect the freedom of users.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
         <seg>Dossier des fichiers en langue source :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Source Segments</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T113511Z" creationid="suzume" creationdate="20221220T113511Z">
+        <seg>Segments source</seg>
       </tuv>
     </tu>
     <tu>
@@ -60798,6 +60816,15 @@ on line {1}, column {2}.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Untranslated Segments</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T111927Z" creationid="suzume" creationdate="20221220T111927Z">
+        <seg>Segments non traduits</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Untranslated segment</seg>
       </tuv>
@@ -64782,6 +64809,14 @@ your programs, too.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130412T074637Z">
         <seg>Vous pouvez modifier les raccourcis déjà attribués et ajouter de nouveaux raccourcis en insérant un fichier de définition de raccourcis dans votre dossier Préférences OmegaT (voir &lt;l0&gt;Emplacement des fichiers utilisateur&lt;/l0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can change the paragraph delimitation string in the &lt;l0/&gt; preference.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T112028Z" creationid="suzume" creationdate="20221220T112028Z">
+        <seg>Vous pouvez modifier la forme de la délimitation de paragraphe dans le paramètre &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
