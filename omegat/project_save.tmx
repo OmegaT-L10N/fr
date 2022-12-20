@@ -21272,8 +21272,8 @@ by the Free Software Foundation.</seg>
       <tuv lang="en">
         <seg>Edit Menu</seg>
       </tuv>
-      <tuv lang="fr" changeid="laurieetclémentine" changedate="20130411T133827Z">
-        <seg>Menu Edition</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T110907Z">
+        <seg>Menu Édition</seg>
       </tuv>
     </tu>
     <tu>
@@ -24818,6 +24818,14 @@ authors of previous versions.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160212T144259Z" creationid="Didier" creationdate="20160212T143506Z">
         <seg>Ignorer la différence entre pleine et demi-largeur de caractère</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Function code</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T110918Z" creationid="suzume" creationdate="20221220T110918Z">
+        <seg>Code de la fonction</seg>
       </tuv>
     </tu>
     <tu>
@@ -35267,6 +35275,15 @@ impose that choice.</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130420T213348Z">
         <seg>Menus et raccourcis clavier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Menu item</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T110910Z" creationid="suzume" creationdate="20221220T110910Z">
+        <seg>Élément du menu</seg>
       </tuv>
     </tu>
     <tu>
@@ -49646,16 +49663,16 @@ address new problems or concerns.</seg>
       <tuv lang="en">
         <seg>Switch Case To/Sentence Case</seg>
       </tuv>
-      <tuv lang="fr" changeid="Didier" changedate="20160718T153137Z" creationid="Didier" creationdate="20160718T153137Z">
-        <seg>Basculer la casse en/Phrase</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T110830Z" creationid="Didier" creationdate="20160718T153137Z">
+        <seg>Basculer la casse en/Casse de phrase</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Switch Case To/Title Case</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20221220T110722Z" creationid="Didier" creationdate="20140414T134219Z">
-        <seg>Basculer la casse en/Tous les Mots en Majuscule</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T110756Z" creationid="Didier" creationdate="20140414T134219Z">
+        <seg>Basculer la casse en/Casse de Titre</seg>
       </tuv>
     </tu>
     <tu>
@@ -63618,6 +63635,14 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Windows/Linux</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T110921Z" creationid="suzume" creationdate="20221220T110921Z">
+        <seg>Windows/Linux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Windows:</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160119T092847Z" creationid="Didier" creationdate="20160119T092847Z">
@@ -67273,6 +67298,86 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ctrl I</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T110930Z" creationid="suzume" creationdate="20221220T110930Z">
+        <seg>ctrl I</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl M</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T110933Z" creationid="suzume" creationdate="20221220T110933Z">
+        <seg>ctrl M</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl Q</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T110900Z" creationid="suzume" creationdate="20221220T110900Z">
+        <seg>ctrl Q</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl R</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T110928Z" creationid="suzume" creationdate="20221220T110928Z">
+        <seg>ctrl R</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl Y</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T110925Z" creationid="suzume" creationdate="20221220T110925Z">
+        <seg>ctrl Y</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl Z</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T110923Z" creationid="suzume" creationdate="20221220T110923Z">
+        <seg>ctrl Z</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl shift A</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T110949Z" creationid="suzume" creationdate="20221220T110949Z">
+        <seg>ctrl shift A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl shift I</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T110943Z" creationid="suzume" creationdate="20221220T110943Z">
+        <seg>ctrl shift I</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl shift R</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T110939Z" creationid="suzume" creationdate="20221220T110939Z">
+        <seg>ctrl shift R</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl shift T</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T110953Z" creationid="suzume" creationdate="20221220T110953Z">
+        <seg>ctrl shift T</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>cu</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T100131Z">
@@ -70717,6 +70822,86 @@ Ok. </note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>meta I</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T110932Z" creationid="suzume" creationdate="20221220T110932Z">
+        <seg>meta I</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta M</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T110935Z" creationid="suzume" creationdate="20221220T110935Z">
+        <seg>meta M</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta Q</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T110902Z" creationid="suzume" creationdate="20221220T110902Z">
+        <seg>meta Q</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta R</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T110929Z" creationid="suzume" creationdate="20221220T110929Z">
+        <seg>meta R</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta Y</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T110926Z" creationid="suzume" creationdate="20221220T110926Z">
+        <seg>meta Y</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta Z</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T110924Z" creationid="suzume" creationdate="20221220T110924Z">
+        <seg>meta Z</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta shift A</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T110951Z" creationid="suzume" creationdate="20221220T110951Z">
+        <seg>meta shift A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta shift I</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T110944Z" creationid="suzume" creationdate="20221220T110944Z">
+        <seg>meta shift I</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta shift R</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T110940Z" creationid="suzume" creationdate="20221220T110940Z">
+        <seg>meta shift R</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta shift T</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T110954Z" creationid="suzume" creationdate="20221220T110954Z">
+        <seg>meta shift T</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>mg</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T100101Z">
@@ -72427,6 +72612,15 @@ Ok. </note>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T100212Z">
         <seg>sg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>shift F3</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T110858Z" creationid="suzume" creationdate="20221220T110858Z">
+        <seg>Maj+F3</seg>
       </tuv>
     </tu>
     <tu>
