@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_0a7cbfbad" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_edfea8702" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13798,6 +13798,14 @@ provoquer des comportements inattendus, mais corrects.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20161227T165055Z" creationid="Didier" creationdate="20161227T165055Z">
         <seg>Saisie automatique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Auto-Popu&amp;lated Segments</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T105128Z" creationid="suzume" creationdate="20221220T105050Z">
+        <seg>Segments auto-traduits</seg>
       </tuv>
     </tu>
     <tu>
@@ -65795,6 +65803,15 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="fr">
         <seg>Votre projet ne contient aucun fichier dans un format pris en charge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Your project does not seem to contain translatable files.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T104936Z" creationid="suzume" creationdate="20221220T104936Z">
+        <seg>Le projet semble ne contenir aucun fichier traduisible.</seg>
       </tuv>
     </tu>
     <tu>
