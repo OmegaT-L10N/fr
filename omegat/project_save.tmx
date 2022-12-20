@@ -51383,8 +51383,8 @@ form of a work.</seg>
       <tuv lang="en">
         <seg>The &lt;l0/&gt; preference allows you to define strings that OmegaT will mark in red by default, and treat as extraneous tags for validation purposes.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20221220T114035Z" creationid="suzume" creationdate="20221220T114035Z">
-        <seg>Le paramètre &lt;l0/&gt; vous permet de définir une chaîne de caractères qu'OmegaT colorera en rouge par défaut et traitera comme une balise </seg>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T114127Z" creationid="suzume" creationdate="20221220T114035Z">
+        <seg>Le paramètre &lt;l0/&gt; vous permet de définir une chaîne de caractères qu'OmegaT colorera en rouge par défaut et traitera comme une balise superflue.</seg>
       </tuv>
     </tu>
     <tu>
@@ -73993,10 +73993,26 @@ Ok. </note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>to apply the segmentation rules defined in the &lt;l0/&gt; preferences,</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T114159Z" creationid="suzume" creationdate="20221220T114159Z">
+        <seg>pour appliquer les règles de segmentation définies dans le paramètre &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>to distribute corresponding source code.</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130419T184459Z">
         <seg>du code source correspondant. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>to find spelling mistakes from the dictionaries installed in the &lt;l0/&gt; preferences,</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T114343Z" creationid="suzume" creationdate="20221220T114343Z">
+        <seg>pour trouver des erreurs d'orthographe à partir des dictionnaires installés dans les préférences &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
