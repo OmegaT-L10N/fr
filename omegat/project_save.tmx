@@ -27115,6 +27115,14 @@ circumstances.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If checked, segments that have been auto-populated are marked in various colors.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T113644Z" creationid="suzume" creationdate="20221220T113644Z">
+        <seg>Les segments auto-traduits sont colorés de couleurs diverses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If checked, segments with notes will be marked in cyan.</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130421T173821Z">
@@ -45530,8 +45538,8 @@ REPAIR OR CORRECTION.</seg>
       <tuv lang="en">
         <seg>Save auto-populated status</seg>
       </tuv>
-      <tuv lang="fr" changeid="Didier" changedate="20140224T151506Z" creationid="Didier" creationdate="20140224T151506Z">
-        <seg>Enregistrer l'état des traductions issues du dossier auto</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T113547Z" creationid="Didier" creationdate="20140224T151506Z">
+        <seg>Enregistrer l'état auto-traduit</seg>
       </tuv>
     </tu>
     <tu>
@@ -46603,6 +46611,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20141202T222612Z" creationid="Didier" creationdate="20141202T222612Z">
         <seg>Voir l'annexe &lt;e1&gt; Menu principal&lt;/e1&gt; pour une description complète de tous les menus et des éléments de menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the &lt;l0/&gt; preference for details.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T113710Z" creationid="suzume" creationdate="20221220T113710Z">
+        <seg>Voir le paramètre &lt;l0/&gt; pour en savoir plus.</seg>
       </tuv>
     </tu>
     <tu>
