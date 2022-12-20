@@ -14082,6 +14082,14 @@ FOR THE PROGRAM, TO THE EXTENT PERMITTED BY APPLICABLE LAW.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Back in History</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T111124Z" creationid="suzume" creationdate="20221220T111124Z">
+        <seg>Segment précédent dans l'historique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Back in history...</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130503T094206Z">
@@ -24630,6 +24638,14 @@ authors of previous versions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Forward in History</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T111118Z" creationid="suzume" creationdate="20221220T111118Z">
+        <seg>Segment suivant dans l'historique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Forward in history...</seg>
       </tuv>
       <tuv lang="fr" changeid="laurieetclémentine" changedate="20130411T135145Z">
@@ -34785,8 +34801,8 @@ impose that choice.</seg>
       <tuv lang="en">
         <seg>Mark &amp;Paragraph Delimitations</seg>
       </tuv>
-      <tuv lang="fr" changeid="briac" changedate="20190512T080018Z" creationid="briac" creationdate="20190512T080018Z">
-        <seg>Marquer les délimitations de &amp;paragraphes</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T111235Z" creationid="briac" creationdate="20190512T080018Z">
+        <seg>Afficher les délimitations de &amp;paragraphes</seg>
       </tuv>
     </tu>
     <tu>
@@ -34801,24 +34817,24 @@ impose that choice.</seg>
       <tuv lang="en">
         <seg>Mark &amp;Translated Segments</seg>
       </tuv>
-      <tuv lang="fr">
-        <seg>Marquer les segments &amp;traduits</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T111220Z">
+        <seg>Colorer les segments &amp;traduits</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Mark &amp;Untranslated Segments</seg>
       </tuv>
-      <tuv lang="fr">
-        <seg>Marquer les segments &amp;non traduits</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T111224Z">
+        <seg>Colorer les segments &amp;non traduits</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Mark Accepted</seg>
       </tuv>
-      <tuv lang="fr" changeid="Didier" changedate="20160427T153950Z" creationid="Didier" creationdate="20160427T153950Z">
-        <seg>Marquer accepté</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T111328Z" creationid="Didier" creationdate="20160427T153950Z">
+        <seg>Colorer accepté</seg>
       </tuv>
     </tu>
     <tu>
@@ -34867,6 +34883,14 @@ impose that choice.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20101119T085440Z">
         <seg>Marquer les segments non &amp;uniques</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mark Non-Breakable Spaces</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T111155Z" creationid="suzume" creationdate="20221220T111155Z">
+        <seg>Colorer les espaces insécables</seg>
       </tuv>
     </tu>
     <tu>
@@ -34961,8 +34985,8 @@ impose that choice.</seg>
       <tuv lang="en">
         <seg>Mark unknown words</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210415T055446Z" creationid="suzume" creationdate="20210415T055446Z">
-        <seg>Marquer les mots inconnus</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T111245Z" creationid="suzume" creationdate="20210415T055446Z">
+        <seg>Colorer les mots inconnus</seg>
       </tuv>
     </tu>
     <tu>
@@ -67298,6 +67322,62 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ctrl 1</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T111026Z" creationid="suzume" creationdate="20221220T111026Z">
+        <seg>ctrl 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl 2</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T111028Z" creationid="suzume" creationdate="20221220T111028Z">
+        <seg>ctrl 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl 3</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T111030Z" creationid="suzume" creationdate="20221220T111030Z">
+        <seg>ctrl 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl 4</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T111032Z" creationid="suzume" creationdate="20221220T111032Z">
+        <seg>ctrl 4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl 5</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T111034Z" creationid="suzume" creationdate="20221220T111034Z">
+        <seg>ctrl 5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl DOWN</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T111023Z" creationid="suzume" creationdate="20221220T111023Z">
+        <seg>ctrl DOWN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl F</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T111004Z" creationid="suzume" creationdate="20221220T111004Z">
+        <seg>ctrl F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ctrl I</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221220T110930Z" creationid="suzume" creationdate="20221220T110930Z">
@@ -67306,10 +67386,42 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ctrl J</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T111104Z" creationid="suzume" creationdate="20221220T111104Z">
+        <seg>ctrl J</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl K</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T111011Z" creationid="suzume" creationdate="20221220T111011Z">
+        <seg>ctrl K</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ctrl M</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221220T110933Z" creationid="suzume" creationdate="20221220T110933Z">
         <seg>ctrl M</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl N (Enter/Tab)</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T111059Z" creationid="suzume" creationdate="20221220T111059Z">
+        <seg>ctrl N (Enter/Tab)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl P (ctrl Enter / ctrl Tab)</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T111102Z" creationid="suzume" creationdate="20221220T111102Z">
+        <seg>ctrl P (ctrl Enter / ctrl Tab)</seg>
       </tuv>
     </tu>
     <tu>
@@ -67330,6 +67442,30 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ctrl T</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T110956Z" creationid="suzume" creationdate="20221220T110956Z">
+        <seg>ctrl T</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl U</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T111050Z" creationid="suzume" creationdate="20221220T111050Z">
+        <seg>ctrl U</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl UP</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T111020Z" creationid="suzume" creationdate="20221220T111020Z">
+        <seg>ctrl UP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ctrl Y</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221220T110925Z" creationid="suzume" creationdate="20221220T110925Z">
@@ -67346,10 +67482,50 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ctrl alt E</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T111136Z" creationid="suzume" creationdate="20221220T111136Z">
+        <seg>ctrl alt E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl alt N</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T111133Z" creationid="suzume" creationdate="20221220T111133Z">
+        <seg>ctrl alt N</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ctrl shift A</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221220T110949Z" creationid="suzume" creationdate="20221220T110949Z">
         <seg>ctrl shift A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl shift C</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T110959Z" creationid="suzume" creationdate="20221220T110959Z">
+        <seg>ctrl shift C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl shift F</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T111007Z" creationid="suzume" creationdate="20221220T111007Z">
+        <seg>ctrl shift F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl shift G</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T111001Z" creationid="suzume" creationdate="20221220T111001Z">
+        <seg>ctrl shift G</seg>
       </tuv>
     </tu>
     <tu>
@@ -67362,6 +67538,38 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ctrl shift K</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T111106Z" creationid="suzume" creationdate="20221220T111106Z">
+        <seg>ctrl shift K</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl shift M</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T111110Z" creationid="suzume" creationdate="20221220T111110Z">
+        <seg>ctrl shift M</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl shift N</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T111120Z" creationid="suzume" creationdate="20221220T111120Z">
+        <seg>ctrl shift N</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl shift P</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T111126Z" creationid="suzume" creationdate="20221220T111126Z">
+        <seg>ctrl shift P</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ctrl shift R</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221220T110939Z" creationid="suzume" creationdate="20221220T110939Z">
@@ -67370,10 +67578,26 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ctrl shift S</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T111048Z" creationid="suzume" creationdate="20221220T111048Z">
+        <seg>ctrl shift S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ctrl shift T</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221220T110953Z" creationid="suzume" creationdate="20221220T110953Z">
         <seg>ctrl shift T</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl shift U</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T111053Z" creationid="suzume" creationdate="20221220T111053Z">
+        <seg>ctrl shift U</seg>
       </tuv>
     </tu>
     <tu>
@@ -67798,6 +68022,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20140414T134056Z" creationid="Didier" creationdate="20140414T134056Z">
         <seg>editReplaceInProjectMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editSearchDictionaryMenuItem</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T111019Z" creationid="suzume" creationdate="20221220T111019Z">
+        <seg>editSearchDictionaryMenuItem</seg>
       </tuv>
     </tu>
     <tu>
@@ -68322,6 +68554,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>gotoEditorPanelMenuItem</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T111135Z" creationid="suzume" creationdate="20221220T111135Z">
+        <seg>gotoEditorPanelMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>gotoHistoryBackMenuItem</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T104005Z">
@@ -68382,6 +68622,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T104000Z">
         <seg>gotoNextUntranslatedMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>gotoNotesPanelMenuItem</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T111132Z" creationid="suzume" creationdate="20221220T111132Z">
+        <seg>gotoNotesPanelMenuItem</seg>
       </tuv>
     </tu>
     <tu>
@@ -69740,6 +69988,46 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>insertCharsLRE</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T111044Z" creationid="suzume" creationdate="20221220T111044Z">
+        <seg>insertCharsLRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>insertCharsLRM</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T111041Z" creationid="suzume" creationdate="20221220T111041Z">
+        <seg>insertCharsLRM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>insertCharsPDF</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T111047Z" creationid="suzume" creationdate="20221220T111047Z">
+        <seg>insertCharsPDF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>insertCharsRLE</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T111045Z" creationid="suzume" creationdate="20221220T111045Z">
+        <seg>insertCharsRLE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>insertCharsRLM</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T111042Z" creationid="suzume" creationdate="20221220T111042Z">
+        <seg>insertCharsRLM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>interactive use in the most ordinary way, to print or display an</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130418T231649Z">
@@ -70822,6 +71110,62 @@ Ok. </note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>meta 1</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T111027Z" creationid="suzume" creationdate="20221220T111027Z">
+        <seg>meta 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta 2</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T111029Z" creationid="suzume" creationdate="20221220T111029Z">
+        <seg>meta 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta 3</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T111031Z" creationid="suzume" creationdate="20221220T111031Z">
+        <seg>meta 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta 4</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T111033Z" creationid="suzume" creationdate="20221220T111033Z">
+        <seg>meta 4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta 5</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T111035Z" creationid="suzume" creationdate="20221220T111035Z">
+        <seg>meta 5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta DOWN</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T111024Z" creationid="suzume" creationdate="20221220T111024Z">
+        <seg>meta DOWN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta F</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T111005Z" creationid="suzume" creationdate="20221220T111005Z">
+        <seg>meta F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>meta I</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221220T110932Z" creationid="suzume" creationdate="20221220T110932Z">
@@ -70830,10 +71174,42 @@ Ok. </note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>meta J</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T111105Z" creationid="suzume" creationdate="20221220T111105Z">
+        <seg>meta J</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta K</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T111012Z" creationid="suzume" creationdate="20221220T111012Z">
+        <seg>meta K</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>meta M</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221220T110935Z" creationid="suzume" creationdate="20221220T110935Z">
         <seg>meta M</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta N (Enter/Tab)</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T111100Z" creationid="suzume" creationdate="20221220T111100Z">
+        <seg>meta N (Enter/Tab)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta P (meta Enter / shift Tab)</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T111103Z" creationid="suzume" creationdate="20221220T111103Z">
+        <seg>meta P (meta Enter / shift Tab)</seg>
       </tuv>
     </tu>
     <tu>
@@ -70854,6 +71230,30 @@ Ok. </note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>meta T</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T110957Z" creationid="suzume" creationdate="20221220T110957Z">
+        <seg>meta T</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta U</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T111051Z" creationid="suzume" creationdate="20221220T111051Z">
+        <seg>meta U</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta UP</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T111021Z" creationid="suzume" creationdate="20221220T111021Z">
+        <seg>meta UP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>meta Y</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221220T110926Z" creationid="suzume" creationdate="20221220T110926Z">
@@ -70870,10 +71270,50 @@ Ok. </note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>meta alt E</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T111137Z" creationid="suzume" creationdate="20221220T111137Z">
+        <seg>meta alt E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta alt N</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T111134Z" creationid="suzume" creationdate="20221220T111134Z">
+        <seg>meta alt N</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>meta shift A</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221220T110951Z" creationid="suzume" creationdate="20221220T110951Z">
         <seg>meta shift A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta shift C</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T111000Z" creationid="suzume" creationdate="20221220T111000Z">
+        <seg>meta shift C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta shift F</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T111008Z" creationid="suzume" creationdate="20221220T111008Z">
+        <seg>meta shift F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta shift G</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T111002Z" creationid="suzume" creationdate="20221220T111002Z">
+        <seg>meta shift G</seg>
       </tuv>
     </tu>
     <tu>
@@ -70886,6 +71326,38 @@ Ok. </note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>meta shift K</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T111109Z" creationid="suzume" creationdate="20221220T111109Z">
+        <seg>meta shift K</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta shift M</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T111111Z" creationid="suzume" creationdate="20221220T111111Z">
+        <seg>meta shift M</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta shift N</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T111121Z" creationid="suzume" creationdate="20221220T111121Z">
+        <seg>meta shift N</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta shift P</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T111127Z" creationid="suzume" creationdate="20221220T111127Z">
+        <seg>meta shift P</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>meta shift R</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221220T110940Z" creationid="suzume" creationdate="20221220T110940Z">
@@ -70894,10 +71366,26 @@ Ok. </note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>meta shift S</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T111049Z" creationid="suzume" creationdate="20221220T111049Z">
+        <seg>meta shift S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>meta shift T</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221220T110954Z" creationid="suzume" creationdate="20221220T110954Z">
         <seg>meta shift T</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta shift U</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T111054Z" creationid="suzume" creationdate="20221220T111054Z">
+        <seg>meta shift U</seg>
       </tuv>
     </tu>
     <tu>
@@ -73903,6 +74391,14 @@ Ok. </note>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T104008Z">
         <seg>viewMarkNotedSegmentsCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>viewMarkParagraphStartCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T111139Z" creationid="suzume" creationdate="20221220T111139Z">
+        <seg>viewMarkParagraphStartCheckBoxMenuItem</seg>
       </tuv>
     </tu>
     <tu>
