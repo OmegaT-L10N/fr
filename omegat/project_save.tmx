@@ -13817,6 +13817,14 @@ provoquer des comportements inattendus, mais corrects.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Auto-Populated Segments</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T111654Z" creationid="suzume" creationdate="20221220T111654Z">
+        <seg>Segments auto-traduits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Auto-completer Glossary View configuration</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130913T165426Z" creationid="Didier" creationdate="20130913T165426Z">
@@ -57328,6 +57336,14 @@ this version will not interfere with it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This menu allows you to select the information you want to OmegaT to display.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T111900Z" creationid="suzume" creationdate="20221220T111900Z">
+        <seg>Ce menu vous permet de sélectionner les informations affichées par OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This menu displays entries only when a project is open.</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20200724T173329Z" creationid="briac" creationdate="20200724T173329Z">
@@ -59655,6 +59671,15 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
         <seg>Dossier des fichiers traduits :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Translated Segments</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T111905Z" creationid="suzume" creationdate="20221220T111905Z">
+        <seg>Segments traduits</seg>
       </tuv>
     </tu>
     <tu>
