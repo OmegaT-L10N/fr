@@ -3144,8 +3144,8 @@ le programme d'installation peut créer des raccourcis pour vous dans le menu d�
 	- or use your file manager to copy files to the 'source' folder,
 	   and then use Project &gt; Reload to reload the project.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20221111T091611Z" creationid="suzume" creationdate="20221111T080940Z">
-        <seg>- glisser-déposer des fichiers dans ce volet Éditeur
+      <tuv lang="fr" changeid="suzume" changedate="20221220T105416Z" creationid="suzume" creationdate="20221111T080940Z">
+        <seg>- glisser-déposer des fichiers sur ce volet
 	- utiliser Projet &gt; Ajouter des fichiers...
 	- utiliser Projet &gt; Fichiers source... et cliquer sur Ajouter des fichiers...
 	- copier des fichiers dans le dossier 'source' du projet avec votre gestionnaire de fichier,
@@ -11267,6 +11267,14 @@ or that patent license was granted, prior to 28 March 2007.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Access &amp;Configuration Folder</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T105504Z" creationid="suzume" creationdate="20221220T105504Z">
+        <seg>Dossier de &amp;configuration</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Access Configurat&amp;ion Folder</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20161229T164048Z" creationid="Didier" creationdate="20161229T164048Z">
@@ -12266,8 +12274,8 @@ rights of fair use or other equivalent, as provided by copyright law.</seg>
       <tuv lang="en">
         <seg>All terms in a segment with a match in &lt;e0&gt;any&lt;/e0&gt; of the glossaries will be displayed in the &lt;l1/&gt; pane.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20221016T080959Z" creationid="suzume" creationdate="20221016T080959Z">
-        <seg>Tous les termes d'un segment qui trouvent une correspondance dans l'&lt;e0&gt;un&lt;/e0&gt; des glossaires seront affichés dans le panneau &lt;l1/&gt;.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T105339Z" creationid="suzume" creationdate="20221016T080959Z">
+        <seg>Tous les termes d'un segment qui trouvent une correspondance dans l'&lt;e0&gt;un&lt;/e0&gt; des glossaires seront affichés dans le volet &lt;l1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21395,6 +21403,15 @@ by the Free Software Foundation.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20161227T170210Z" creationid="Didier" creationdate="20161227T170210Z">
         <seg>Options de l'Éditeur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Editor Pane</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T105221Z" creationid="suzume" creationdate="20221220T105221Z">
+        <seg>Volet Éditeur</seg>
       </tuv>
     </tu>
     <tu>
@@ -37484,6 +37501,15 @@ Rajout d'une partie approriée, afin que la note de bas de page ne se retrouve p
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20110906T131255Z">
         <seg>Notes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Notes Pane</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T105154Z" creationid="suzume" creationdate="20221220T105154Z">
+        <seg>Volet Notes</seg>
       </tuv>
     </tu>
     <tu>
