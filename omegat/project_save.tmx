@@ -34769,8 +34769,8 @@ impose that choice.</seg>
       <tuv lang="en">
         <seg>Mark &amp;Auto-Populated Segments</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20221204T091049Z" creationid="Didier" creationdate="20161229T164511Z">
-        <seg>Colorer les segments traduits à partir du dossier &amp;auto</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T111633Z" creationid="Didier" creationdate="20161229T164511Z">
+        <seg>Colorer les segments &amp;auto-traduits</seg>
       </tuv>
     </tu>
     <tu>
@@ -34838,19 +34838,20 @@ impose that choice.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>auto-populated</note>
       <tuv lang="en">
         <seg>Mark Auto-Populated Segments</seg>
       </tuv>
-      <tuv lang="fr" changeid="Didier" changedate="20140224T151527Z" creationid="Didier" creationdate="20140224T151527Z">
-        <seg>Marquer les segments traduits à partir du dossier auto</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T111446Z" creationid="Didier" creationdate="20140224T151527Z">
+        <seg>Colorer les segments auto-traduits</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Mark Bidirectional Algorithm Control Characters</seg>
       </tuv>
-      <tuv lang="fr" changeid="Didier" changedate="20130104T145940Z">
-        <seg>Marquer les caractères de contrôle de bidirectionnalité</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T111407Z">
+        <seg>Colorer les caractères de contrôle de bidirectionnalité</seg>
       </tuv>
     </tu>
     <tu>
@@ -34865,16 +34866,16 @@ impose that choice.</seg>
       <tuv lang="en">
         <seg>Mark Glossary Matches</seg>
       </tuv>
-      <tuv lang="fr" changeid="Didier" changedate="20171125T165301Z" creationid="Didier" creationdate="20171125T165136Z">
-        <seg>Marquer les correspondances de &amp;glossaire</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T111458Z" creationid="Didier" creationdate="20171125T165136Z">
+        <seg>Colorer les correspondances de glossaire</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Mark Needs Review</seg>
       </tuv>
-      <tuv lang="fr" changeid="Didier" changedate="20160427T154011Z" creationid="Didier" creationdate="20160427T154011Z">
-        <seg>Marquer à vérifier</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T111332Z" creationid="Didier" creationdate="20160427T154011Z">
+        <seg>Colorer à vérifier</seg>
       </tuv>
     </tu>
     <tu>
@@ -34905,8 +34906,8 @@ impose that choice.</seg>
       <tuv lang="en">
         <seg>Mark Non-Unique Segments</seg>
       </tuv>
-      <tuv lang="fr" changeid="laurieetclémentine" changedate="20130411T135429Z">
-        <seg>Marquer les segments non uniques</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T111354Z">
+        <seg>Colorer les segments non uniques</seg>
       </tuv>
     </tu>
     <tu>
@@ -34921,8 +34922,8 @@ impose that choice.</seg>
       <tuv lang="en">
         <seg>Mark Paragraph Delimitations</seg>
       </tuv>
-      <tuv lang="fr" changeid="Kazephil" changedate="20221116T084926Z" creationid="Kazephil" creationdate="20221116T084926Z">
-        <seg>Marquer les délimitations de paragraphes</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T111350Z" creationid="Kazephil" creationdate="20221116T084926Z">
+        <seg>Afficher les délimitations de paragraphes</seg>
       </tuv>
     </tu>
     <tu>
@@ -34953,32 +34954,32 @@ impose that choice.</seg>
       <tuv lang="en">
         <seg>Mark Segments with Notes</seg>
       </tuv>
-      <tuv lang="fr" changeid="samsung" changedate="20130421T173803Z">
-        <seg>Marquer les segments annotés</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T111358Z">
+        <seg>Colorer les segments annotés</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Mark Translated Segments</seg>
       </tuv>
-      <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210512T111824Z">
-        <seg>Marquer les segments traduits</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T111336Z">
+        <seg>Colorer les segments traduits</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Mark Untranslated Segments</seg>
       </tuv>
-      <tuv lang="fr" changeid="laurieetclémentine" changedate="20130411T135337Z">
-        <seg>Marquer les segments non traduits</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T111339Z">
+        <seg>Colorer les segments non traduits</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Mark Whitespace</seg>
       </tuv>
-      <tuv lang="fr" changeid="Didier" changedate="20130104T145854Z">
-        <seg>Marquer les caractères d'espacement</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T111403Z">
+        <seg>Colorer les caractères d'espacement</seg>
       </tuv>
     </tu>
     <tu>
@@ -57273,8 +57274,8 @@ this version will not interfere with it.</seg>
       <tuv lang="en">
         <seg>This marking has priority over &lt;g0&gt;Mark Translated Segments&lt;/g0&gt; and &lt;g1&gt;Mark Untranslated Segments&lt;/g1&gt;.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210204T043243Z" creationid="suzume" creationdate="20210204T043204Z">
-        <seg>Ce marquage a la priorité sur &lt;g0&gt;Marquer les segments traduits&lt;/g0&gt; et &lt;g1&gt;Marquer les segments non traduits&lt;/g1&gt;.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T111524Z" creationid="suzume" creationdate="20210204T043204Z">
+        <seg>Ce coloriage a la priorité sur &lt;g0&gt;Colorer les segments traduits&lt;/g0&gt; et &lt;g1&gt;Colorer les segments non traduits&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
