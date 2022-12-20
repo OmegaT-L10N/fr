@@ -46832,6 +46832,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Segmentation rules found when you open the &lt;l0/&gt; preferences (use &lt;l1/&gt;&lt;l2/&gt;) are the global rules.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T114510Z" creationid="suzume" creationdate="20221220T114510Z">
+        <seg>Les règles de segmentation trouvées quand vous ouvrez les préférences &lt;l0/&gt; (utilisez &lt;l1/&gt;&lt;l2/&gt;) sont les règles globales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Segmentation...</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T104030Z">
@@ -49563,6 +49571,14 @@ and then start OmegaT.</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20170403T093958Z" creationid="briac" creationdate="20170403T093958Z">
         <seg>Beaucoup de programmes ont été écrits en Javascript, Groovy ou Tcl/Tk par exemple.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Such commands are defined in the &lt;l0/&gt; preference.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T114527Z" creationid="suzume" creationdate="20221220T114527Z">
+        <seg>Ces commandes sont définies dans le paramètre &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56179,10 +56195,26 @@ pas de page...</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>They are defined in the &lt;l0/&gt; preferences.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T114602Z" creationid="suzume" creationdate="20221220T114602Z">
+        <seg>Elles sont définies dans les préférences &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>They are displayed as &lt;EMPTY&gt; in the Editor.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130527T133517Z">
         <seg>Elles sont affichées en tant que &lt;VIDE&gt; dans l'Éditeur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They are found in the &lt;l0/&gt; preferences.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T114551Z" creationid="suzume" creationdate="20221220T114551Z">
+        <seg>Elles sont dans les préférences &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58566,6 +58598,14 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130528T100056Z">
         <seg>Pour mettre en fonction le vérificateur orthographique, sélectionnez &lt;g0&gt;Options &gt; Orthographe...&lt;/g0&gt; et cochez la case &lt;g1&gt;Vérifier automatiquement l'orthographe&lt;/g1&gt; (voir ci-dessus).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To enable them, check &lt;l0/&gt; in the &lt;l1/&gt; preferences.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T114705Z" creationid="suzume" creationdate="20221220T114705Z">
+        <seg>Pour les activer, cliquez sur &lt;l0/&gt; dans les préférences &lt;l1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -74005,6 +74045,14 @@ Ok. </note>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130419T184459Z">
         <seg>du code source correspondant. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>to find grammatical and typographical mistakes from the rules set in the &lt;l0/&gt; preferences, etc.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T114432Z" creationid="suzume" creationdate="20221220T114432Z">
+        <seg>pour trouver des erreurs grammaticales et typographiques à partir des règles définies dans les préférences &lt;l0/&gt;, etc.</seg>
       </tuv>
     </tu>
     <tu>
