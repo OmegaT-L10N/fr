@@ -44518,6 +44518,14 @@ ces mots : « pas de page »...</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Repository credentials are stored in the &lt;l0/&gt; file and can be deleted from the &lt;l1/&gt; preferences.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T114945Z" creationid="suzume" creationdate="20221220T114945Z">
+        <seg>Les autorisations de dépôt sont entreposées dans le fichier &lt;l0/&gt; et peuvent être effacées à partir des préférences &lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Repository {0} is already present</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210201T140310Z" creationid="Didier" creationdate="20160427T150515Z">
@@ -46636,6 +46644,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221220T113903Z" creationid="suzume" creationdate="20221220T113730Z">
         <seg>Voir le paramètre &lt;l0/&gt; pour en savoir plus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the &lt;l2/&gt; preference for details.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T114748Z" creationid="suzume" creationdate="20221220T114748Z">
+        <seg>Voir le paramètre &lt;l2/&gt; pour en savoir plus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65323,6 +65339,14 @@ installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
         <seg>Vous pouvez sélectionner ce qui doit être traduit parmi les éléments suivants :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can set the frequency of the regular backups in the &lt;l0/&gt; preference.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221220T114731Z" creationid="suzume" creationdate="20221220T114731Z">
+        <seg>Vous pouvez modifier la fréquence des sauvegardes dans le paramètre &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
