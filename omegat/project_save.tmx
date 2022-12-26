@@ -499,6 +499,15 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>&amp;Add Files...</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221226T083009Z" creationid="suzume" creationdate="20221226T083009Z">
+        <seg>Ajouter des &amp;fichiers...</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>&amp;Add...</seg>
       </tuv>
@@ -572,6 +581,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Apply a different font size to the dictionary pane</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221226T082927Z" creationid="suzume" creationdate="20221226T082927Z">
+        <seg>A&amp;ppliquer une autre police au volet du dictionnaire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Apply this font size to dictionary pane</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20220503T110304Z" creationid="suzume" creationdate="20220503T110304Z">
@@ -584,6 +601,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20150514T134824Z" creationid="Didier" creationdate="20150514T134824Z">
         <seg>A&amp;ppliquer cette police aux données tabulaires (fichiers du projet, statistiques, etc.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Apply this font to tabular data (source files list, statistics, etc.)</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221226T082859Z" creationid="suzume" creationdate="20221226T082859Z">
+        <seg>A&amp;ppliquer cette police aux données tabulaires (liste des fichiers, statistiques, etc.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -25568,6 +25593,15 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Go to Segment</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221226T082821Z" creationid="suzume" creationdate="20221226T082821Z">
+        <seg>Atteindre un segment</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Go to https://demo.taas-project.eu/account/keys/create?system=omegaT to create your own key then give it to OmegaT with -Dtaas.user.key=xxxxx</seg>
       </tuv>
@@ -48702,6 +48736,22 @@ of the GPL, as needed to protect the freedom of users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source Files ({0} of {1})</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221226T082958Z" creationid="suzume" creationdate="20221226T082958Z">
+        <seg>Fichiers &amp;source ({0} sur {1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source Files ({0})</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221226T082941Z" creationid="suzume" creationdate="20221226T082941Z">
+        <seg>Fichiers &amp;source ({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source Files Folder</seg>
       </tuv>
       <tuv lang="fr">
@@ -48931,6 +48981,15 @@ of the GPL, as needed to protect the freedom of users.</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130425T191332Z">
         <seg>Texte source de la correspondance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Source/translation length (characters)</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221226T082834Z" creationid="suzume" creationdate="20221226T082834Z">
+        <seg>Longueur de source/traduction (caractères)</seg>
       </tuv>
     </tu>
     <tu>
