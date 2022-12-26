@@ -17142,6 +17142,15 @@ kolekti -b C:\[...]\trunk\doc_src2 publish [-j JOB] -l fr,en C:\[...]\trunk\doc_
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Completed and current translations saved as {0}</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221226T083035Z" creationid="suzume" creationdate="20221226T083035Z">
+        <seg>Les traductions actuelles sont enregistrées dans {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Compress whitespace in translated document</seg>
       </tuv>
@@ -18413,6 +18422,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
         <seg>Création des documents traduits : {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Creating translated files: {0}</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221226T083046Z" creationid="suzume" creationdate="20221226T083046Z">
+        <seg>&amp;Créer les fichiers traduits : {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -22208,6 +22225,14 @@ personne ne vous entend pleurer...</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error starting post-processing commands: {0}</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221226T083255Z" creationid="suzume" creationdate="20221226T083255Z">
+        <seg>Erreur au démarrage d'une commande de post-traitement : {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error unload plugin from class '{0}': {1}</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
@@ -22681,6 +22706,14 @@ dommage...</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130125T163307Z">
         <seg>Exécution de la commande externe...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Executing post-processing commands...</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221226T083240Z" creationid="suzume" creationdate="20221226T083240Z">
+        <seg>Exécution de la commande de post-traitement...</seg>
       </tuv>
     </tu>
     <tu>
@@ -42092,6 +42125,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Post-processing commands completed.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221226T083312Z" creationid="suzume" creationdate="20221226T083312Z">
+        <seg>Commande de post-traitement terminée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Power Point</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20101112T182920Z">
@@ -59946,6 +59987,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translated file created</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221226T083132Z" creationid="suzume" creationdate="20221226T083132Z">
+        <seg>Le fichier traduit est créé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translated file path cannot be identical to the source file path:
 {0}</seg>
       </tuv>
@@ -59960,6 +60009,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20201203T085826Z" creationid="suzume" creationdate="20201203T085352Z">
         <seg>Noms des fichiers traduits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translated files created</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221226T083120Z" creationid="suzume" creationdate="20221226T083120Z">
+        <seg>Les fichiers traduits sont créés</seg>
       </tuv>
     </tu>
     <tu>
