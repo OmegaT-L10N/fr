@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_edfea8702" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_228f438e0" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1433,6 +1433,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="fr">
         <seg>&amp;Segment suivant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Next Segment from tm/auto/</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221226T082147Z" creationid="suzume" creationdate="20221226T082147Z">
+        <seg>&amp;Segment suivant venant de tm/auto/</seg>
       </tuv>
     </tu>
     <tu>
