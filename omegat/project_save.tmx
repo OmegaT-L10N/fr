@@ -48970,6 +48970,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source files folder:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221226T083723Z" creationid="suzume" creationdate="20221226T083723Z">
+        <seg>Dossier des fichiers à traduire :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source folder {0} does not exist.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20120209T084513Z">
@@ -60213,6 +60221,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translation memories folder:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221226T084052Z" creationid="suzume" creationdate="20221226T084052Z">
+        <seg>Dossier des mémoires de référence :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translation memories in OmegaT</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130424T080447Z">
@@ -61739,6 +61755,14 @@ la configuration actuelle est de {0} Mo ;</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130527T151209Z">
         <seg>Utilisez-la si vous voulez qu'OmegaT ne synchronise pas le contenu du projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use local &amp;segmentation rules</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221226T083706Z" creationid="suzume" creationdate="20221226T083706Z">
+        <seg>Utiliser les règles locales de segmentation</seg>
       </tuv>
     </tu>
     <tu>
