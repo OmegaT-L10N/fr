@@ -1439,8 +1439,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Next Segment from tm/auto/</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20221226T082147Z" creationid="suzume" creationdate="20221226T082147Z">
-        <seg>&amp;Segment suivant venant de tm/auto/</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20221226T082217Z" creationid="suzume" creationdate="20221226T082147Z">
+        <seg>Segment &amp;suivant venant de tm/auto/</seg>
       </tuv>
     </tu>
     <tu>
@@ -1521,6 +1521,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="fr">
         <seg>Segment &amp;précédent</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Previous Segment from tm/auto/</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221226T082207Z" creationid="suzume" creationdate="20221226T082207Z">
+        <seg>Segment &amp;précédent venant de tm/auto/</seg>
       </tuv>
     </tu>
     <tu>
@@ -36173,6 +36181,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>N&amp;ext Segment from tm/enforce/</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221226T082228Z" creationid="suzume" creationdate="20221226T082228Z">
+        <seg>Segment s&amp;uivant venant de tm/enforce/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>NB:</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z" creationid="Didier" creationdate="20140414T135136Z">
@@ -40904,6 +40920,14 @@ of promoting the sharing and reuse of software generally.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160323T092726Z" creationid="Didier" creationdate="20160323T092726Z">
         <seg>L'écrasement est mis en œuvre jusqu'à ce que la TMX soit supprimée de /tm/enforce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>P&amp;revious Segment from tm/enforce/</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221226T082244Z" creationid="suzume" creationdate="20221226T082244Z">
+        <seg>Segment p&amp;récédent venant de tm/enforce/</seg>
       </tuv>
     </tu>
     <tu>
@@ -55898,6 +55922,14 @@ the [Help] menu after starting OmegaT.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20161227T171718Z" creationid="Didier" creationdate="20161227T171718Z">
         <seg>Beaucoup de modules d'extension pour OmegaT sont disponibles en ligne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There are no Git settings in the remote project file.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221226T082618Z" creationid="suzume" creationdate="20221226T082618Z">
+        <seg>Il n'y a pas de paramètres Git dans le fichier projet.</seg>
       </tuv>
     </tu>
     <tu>
