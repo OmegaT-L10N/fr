@@ -752,8 +752,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Browse...</seg>
       </tuv>
-      <tuv lang="fr" changeid="Didier" changedate="20160929T153047Z" creationid="Didier" creationdate="20160929T151014Z">
-        <seg>&amp;Parcourir...</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20221227T050828Z" creationid="Didier" creationdate="20160929T151014Z">
+        <seg>Sél&amp;ectionner</seg>
       </tuv>
     </tu>
     <tu>
@@ -43609,6 +43609,15 @@ ces mots : « pas de page »...</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Re&amp;pository Mapping...</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221227T051012Z" creationid="suzume" creationdate="20221227T051012Z">
+        <seg>Mappage des dépôts...</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Read the tag operations section to see what can be done with tags.</seg>
       </tuv>
@@ -64508,6 +64517,14 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130422T134125Z">
         <seg>Travailler avec du texte brut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Writable Glossary File</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221227T050920Z" creationid="suzume" creationdate="20221227T050920Z">
+        <seg>Glossaire en écriture</seg>
       </tuv>
     </tu>
     <tu>
