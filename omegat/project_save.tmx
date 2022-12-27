@@ -652,6 +652,15 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>&amp;Auto-propagation of translations</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221227T050152Z" creationid="suzume" creationdate="20221227T050152Z">
+        <seg>Propagation automatique des tra&amp;ductions</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>&amp;Auto-text...</seg>
       </tuv>
@@ -34098,6 +34107,30 @@ automatically download and install it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local post-processing commands</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221227T050222Z" creationid="suzume" creationdate="20221227T050222Z">
+        <seg>Commandes locale de post-traitement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local post-processing commands (disabled):</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221227T050404Z" creationid="suzume" creationdate="20221227T050237Z">
+        <seg>Commandes locales de post-traitement (désactivées) :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local post-processing commands are disabled and will not be executed.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221227T050316Z" creationid="suzume" creationdate="20221227T050316Z">
+        <seg>Les commandes locales de post-traitement sont désactivées et ne seront pas exécutées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local translation not synchronized with remote repository.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20120420T211429Z">
@@ -44300,6 +44333,15 @@ ces mots : « pas de page »...</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021618Z">
         <seg>Supprimer le masque ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Remove ta&amp;gs</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221227T050155Z" creationid="suzume" creationdate="20221227T050155Z">
+        <seg>Su&amp;pprimer les balises</seg>
       </tuv>
     </tu>
     <tu>
