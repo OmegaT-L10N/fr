@@ -19645,6 +19645,15 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Dictionaries folder:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221226T085624Z" creationid="suzume" creationdate="20221226T085624Z">
+        <seg>Dossier des dictionnaires :</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Dictionaries in &lt;a0&gt;OmegaT&lt;/a0&gt; are based on the StarDict or on the Lingvo DSL format.</seg>
       </tuv>
@@ -22830,6 +22839,14 @@ dommage...</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Export translation memories folder:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221226T085724Z" creationid="suzume" creationdate="20221226T085724Z">
+        <seg>Dossier des mémoires de traduction exportées :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Export translation memory folder entered does not exist!</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20220821T152146Z" creationid="suzume" creationdate="20220821T152146Z">
@@ -25351,6 +25368,15 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221016T090923Z" creationid="suzume" creationdate="20221016T090923Z">
         <seg>Les glossaires peuvent être de format « valeurs séparées par des tabulations » (TSV), « valeurs séparées par des virgules » (CSV) ou de format TermBase eXchange (TBX).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Glossaries folder:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221226T085608Z" creationid="suzume" creationdate="20221226T085608Z">
+        <seg>Dossier des glossaires :</seg>
       </tuv>
     </tu>
     <tu>
@@ -48977,11 +49003,29 @@ of the GPL, as needed to protect the freedom of users.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Source files language:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221226T085729Z" creationid="suzume" creationdate="20221226T085729Z">
+        <seg>Langue des fichiers source :</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Source folder {0} does not exist.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20120209T084513Z">
         <seg>Le dossier source {0} n'existe pas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Source language tokenizer:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221226T085746Z" creationid="suzume" creationdate="20221226T085746Z">
+        <seg>Lemmatiseur de la langue source :</seg>
       </tuv>
     </tu>
     <tu>
@@ -50785,6 +50829,15 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20120209T084519Z">
         <seg>Le dossier cible {0} n'existe pas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Target language tokenizer:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221227T050145Z" creationid="suzume" creationdate="20221227T050145Z">
+        <seg>Lemmatiseur de la langue cible :</seg>
       </tuv>
     </tu>
     <tu>
@@ -60084,6 +60137,24 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Translated files folder:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221226T085634Z" creationid="suzume" creationdate="20221226T085634Z">
+        <seg>Dossier des fichiers traduits :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Translated files language:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221226T085733Z" creationid="suzume" creationdate="20221226T085733Z">
+        <seg>Langue des fichiers traduits :</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Translated files location not defined</seg>
       </tuv>
@@ -64346,6 +64417,14 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130422T134125Z">
         <seg>Travailler avec du texte brut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Writable glossary file:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20221226T085621Z" creationid="suzume" creationdate="20221226T085621Z">
+        <seg>Glossaire en écriture :</seg>
       </tuv>
     </tu>
     <tu>
