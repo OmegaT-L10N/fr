@@ -3357,6 +3357,13 @@ le programme d'installation peut créer des raccourcis pour vous dans le menu d�
 	  otherwise use Options &gt; Global File Filters...;
 	- open them in their original application and verify that they are not empty.</seg>
       </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230112T171027Z">
+        <seg>- vérifier que leur format est pris en charge par OmegaT :
+	  si les filtres locaux sont activés
+	  utilisez Projet &gt; Propriétés... &gt; Local File Filters...,
+	  otherwise use Options &gt; Global File Filters...;
+	- open them in their original application and verify that they are not empty.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="en">
