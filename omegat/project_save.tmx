@@ -816,8 +816,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Clear Menu</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20221111T092233Z" creationid="Didier" creationdate="20180514T095128Z">
-        <seg>&amp;Effacer le contenu</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230112T171237Z" creationid="Didier" creationdate="20180514T095128Z">
+        <seg>&amp;Effacer la liste</seg>
       </tuv>
     </tu>
     <tu>
@@ -3357,12 +3357,12 @@ le programme d'installation peut créer des raccourcis pour vous dans le menu d�
 	  otherwise use Options &gt; Global File Filters...;
 	- open them in their original application and verify that they are not empty.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20230112T171027Z">
+      <tuv lang="fr" changeid="suzume" changedate="20230112T171209Z">
         <seg>- vérifier que leur format est pris en charge par OmegaT :
 	  si les filtres locaux sont activés
-	  utilisez Projet &gt; Propriétés... &gt; Local File Filters...,
-	  otherwise use Options &gt; Global File Filters...;
-	- open them in their original application and verify that they are not empty.</seg>
+	  utilisez Projet &gt; Propriétés... &gt; Filtres de fichiers locaux...,
+	  sinon utilisez Options &gt; Filtres de fichiers globaux...;
+	- ouvrez les fichiers dans leur application d'origine et vérifiez qu'ils ne sont pas vides.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11556,19 +11556,20 @@ covered by this License; they are outside its scope.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>online ?</note>
       <tuv lang="en">
         <seg>Add Online MediaWiki Pa&amp;ge...</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20221203T133313Z" creationid="suzume" creationdate="20221203T133313Z">
-        <seg>Ajouter une pa&amp;ge MediaWiki en ligne...</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230112T171302Z" creationid="suzume" creationdate="20221203T133313Z">
+        <seg>Ajouter une pa&amp;ge MediaWiki...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Add Online MediaWiki Page</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20221111T092306Z" creationid="suzume" creationdate="20221111T081210Z">
-        <seg>Ajouter une page MediaWiki en ligne</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230112T171314Z" creationid="suzume" creationdate="20221111T081210Z">
+        <seg>Ajouter une page MediaWiki</seg>
       </tuv>
     </tu>
     <tu>
