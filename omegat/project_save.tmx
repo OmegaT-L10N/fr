@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_228f438e0" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_4d6e89ec2" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3356,13 +3356,6 @@ le programme d'installation peut créer des raccourcis pour vous dans le menu d�
 	  use Project &gt; Properties... &gt; Local File Filters...,
 	  otherwise use Options &gt; Global File Filters...;
 	- open them in their original application and verify that they are not empty.</seg>
-      </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20221203T133108Z" creationid="suzume" creationdate="20221203T132839Z">
-        <seg>- vérifier que leur format est pris en charge par OmegaT :
-	  si les filtres de fichiers locaux sont activés
-	  utiliser Projet &gt; Propriétés... &gt; Filtres de fichiers locaux...
-	  sinon, utiliser Options &gt; Filtres de fichiers généraux...
-	- ouvrir les fichiers dans leur application d'origine et vérifier qu'ils ne sont pas vides.</seg>
       </tuv>
     </tu>
     <tu>
