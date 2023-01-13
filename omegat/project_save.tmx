@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_4d6e89ec2" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_f5b54a845" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -17625,6 +17625,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="fr">
         <seg>Contribution de Marc Prior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Contributing</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230113T162414Z" creationid="suzume" creationdate="20230113T162414Z">
+        <seg>Contribuer</seg>
       </tuv>
     </tu>
     <tu>
@@ -42223,6 +42231,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160718T152424Z" creationid="Didier" creationdate="20160718T152424Z">
         <seg>Poisson</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Policies</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230113T162721Z" creationid="suzume" creationdate="20230113T162721Z">
+        <seg>Règles</seg>
       </tuv>
     </tu>
     <tu>
