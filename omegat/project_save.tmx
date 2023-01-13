@@ -24395,6 +24395,14 @@ know their rights.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For installation on macOS.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230113T163237Z" creationid="suzume" creationdate="20230113T163237Z">
+        <seg>Installation sur macOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For installation on other operating systems (such as FreeBSD and Solaris).</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20170911T161713Z" creationid="briac" creationdate="20170911T161713Z">
@@ -49645,6 +49653,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Standard: OmegaT {{site.data.versions.standard.name}}</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230113T163424Z" creationid="suzume" creationdate="20230113T163424Z">
+        <seg>Version standard : OmegaT {{site.data.versions.standard.name}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Start OmegaT again, download the team project, close OmegaT
 5.</seg>
       </tuv>
@@ -61153,6 +61169,14 @@ Les recherches exactes correspondent à l'ensemble de la chaîne recherchée.</s
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20170329T125355Z" creationid="OmegaT Aligner" creationdate="20170329T123132Z">
         <seg>Prise en charge d'Unicode (UTF-8) : utilisation possible avec les alphabets non latins</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unicode support: can be used with various alphabets and scripts</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230113T163341Z" creationid="suzume" creationdate="20230113T163341Z">
+        <seg>Prise en charge d'Unicode : utilisation possible avec les alphabets et écritures divers</seg>
       </tuv>
     </tu>
     <tu>
@@ -75822,6 +75846,15 @@ Ok. </note>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20170620T151624Z" creationid="Didier" creationdate="20170620T151624Z">
         <seg>« {0} » ({1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>…and around 30 other file formats</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230113T163311Z" creationid="suzume" creationdate="20230113T163311Z">
+        <seg>... et une trentaine d'autres formats de fichier</seg>
       </tuv>
     </tu>
     <tu>
