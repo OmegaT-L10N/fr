@@ -13954,6 +13954,14 @@ provoquer des comportements inattendus, mais corrects.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Auto-sync with editor</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230115T125923Z" creationid="briac" creationdate="20230115T125923Z">
+        <seg>Synchronisation automatique avec l'éditeur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Auto-text configuration</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130913T165723Z" creationid="Didier" creationdate="20130913T165723Z">
@@ -16725,6 +16733,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Close the search window.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230115T125943Z" creationid="briac" creationdate="20230115T125943Z">
+        <seg>Fermez la fenêtre de recherche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Closes or opens the &lt;l0&gt;Project files window&lt;/l0&gt; (depending on whether it is open or closed).</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130421T112020Z">
@@ -18989,6 +19005,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20091224T133319Z">
         <seg>Utilisation actuelle de la mémoire par la VM : {0} Mo, dont mémoire libre : {1} Mo, maximum disponible : {2} Mo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Current project configuration will be overridden by the remote project configuration.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230115T125715Z" creationid="briac" creationdate="20230115T125715Z">
+        <seg>La configuration actuelle du projet sera annulée par le contenu de la configuration du projet distant.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22335,6 +22359,14 @@ personne ne vous entend pleurer...</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error searching folder tree!</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230115T125933Z" creationid="briac" creationdate="20230115T125933Z">
+        <seg>Erreur dans la recherche des répertoires !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error starting external command: {0}</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
@@ -22784,6 +22816,14 @@ dommage...</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20151112T142815Z" creationid="Didier" creationdate="20151112T142815Z">
         <seg>Exclure les segments orphelins</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Exclude pattern</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230115T125823Z" creationid="briac" creationdate="20230115T125823Z">
+        <seg>Masque d'exclusion</seg>
       </tuv>
     </tu>
     <tu>
@@ -23850,6 +23890,14 @@ patents.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20150713T084133Z" creationid="Didier" creationdate="20150713T084133Z">
         <seg>Le dossier n'existe pas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Folder exists and is not empty.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230115T125847Z" creationid="briac" creationdate="20230115T125847Z">
+        <seg>Le dossier existe et n'est pas vide.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25065,6 +25113,14 @@ authors of previous versions.</seg>
         <seg>Full/Half &amp;width char insensitive</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160212T144259Z" creationid="Didier" creationdate="20160212T143506Z">
+        <seg>Ignorer la différence entre pleine et demi-largeur de caractère</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Full/half-&amp;width char insensitive</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230115T125914Z" creationid="briac" creationdate="20230115T125914Z">
         <seg>Ignorer la différence entre pleine et demi-largeur de caractère</seg>
       </tuv>
     </tu>
@@ -30761,6 +30817,14 @@ patent against the party.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Include pattern</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230115T125826Z" creationid="briac" creationdate="20230115T125826Z">
+        <seg>Masque d'inclusion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Include the &amp;first non-unique segment when marking non-unique segments</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20161229T164249Z" creationid="Didier" creationdate="20161229T164249Z">
@@ -34261,6 +34325,14 @@ automatically download and install it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local file/folder</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230115T125814Z" creationid="briac" creationdate="20230115T125814Z">
+        <seg>Fichier/dossier local</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local installation path:</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z" creationid="Didier" creationdate="20160929T152038Z">
@@ -35031,6 +35103,14 @@ impose that choice.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mapping of local folders to remote folders in repositories</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230115T125809Z" creationid="briac" creationdate="20230115T125809Z">
+        <seg>Mise en correspondance des dossiers locaux avec les dossiers distants des dépôts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mapping parameters</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210111T143901Z" creationid="suzume" creationdate="20210111T143901Z">
@@ -35548,6 +35628,14 @@ impose that choice.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130507T120044Z">
         <seg>Paramètres du volet Correspondances</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matching segments: {0}</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230115T125953Z" creationid="briac" creationdate="20230115T125953Z">
+        <seg>Segments correspondants : {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -38744,6 +38832,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130506T083520Z">
         <seg>OmegaT affiche une liste de tous les segments contenant l'ensemble des mots spécifiés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT does not have read and write permissions for this folder.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230115T125908Z" creationid="briac" creationdate="20230115T125908Z">
+        <seg>OmegaT ne dispose pas des autorisations d'accès en lecture et écriture pour ce dossier.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44328,6 +44424,14 @@ ces mots : « pas de page »...</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remote file/folder</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230115T125818Z" creationid="briac" creationdate="20230115T125818Z">
+        <seg>Fichier/dossier distant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remote location or directory of the files to translate.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210129T094850Z" creationid="suzume" creationdate="20210129T094850Z">
@@ -44340,6 +44444,14 @@ ces mots : « pas de page »...</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20220821T151842Z" creationid="suzume" creationdate="20220821T151821Z">
         <seg>Le fichier projet distant n'a pas de paramètre git.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remote repositories</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230115T125751Z" creationid="briac" creationdate="20230115T125751Z">
+        <seg>Dépôts distants</seg>
       </tuv>
     </tu>
     <tu>
@@ -47616,6 +47728,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20170419T092510Z" creationid="Didier" creationdate="20170419T092510Z">
         <seg>Sélectionner un fichier script</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select a different folder.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230115T125856Z" creationid="briac" creationdate="20230115T125856Z">
+        <seg>Sélectionnez un autre dossier.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52521,6 +52641,22 @@ Essayer de corriger l'erreur et rechargez le projet.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The TMX file will still be loaded.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230115T130107Z" creationid="briac" creationdate="20230115T130107Z">
+        <seg>Le fichier TMX sera quand même chargé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The TMX source language ({0}) differs from the project source language ({1}).</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230115T130052Z" creationid="briac" creationdate="20230115T130052Z">
+        <seg>La langue source ({0}) du fichier TMX est différente de la langue source du projet ({1}).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The TMX source language ({0}) is different from the project source language ({1}).</seg>
       </tuv>
       <tuv lang="fr">
@@ -54662,6 +54798,14 @@ sure this has not already been reported.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130412T091443Z">
         <seg>Le document d'origine n'est pas modifié ; un nouveau document basé sur le contenu d'un document pré-éxistant est créé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The original file is backed up as: {0}</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230115T125742Z" creationid="briac" creationdate="20230115T125742Z">
+        <seg>Le fichier d'origine est enregistré sous forme de sauvegarde : {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -60739,6 +60883,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Trying with backup file</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230115T125706Z" creationid="briac" creationdate="20230115T125706Z">
+        <seg>Essai avec le fichier de sauvegarde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Tsonga</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130519T100807Z">
@@ -61057,6 +61209,14 @@ Les recherches exactes correspondent à l'ensemble de la chaîne recherchée.</s
         <seg>Unable to initialize read of XML file!</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021852Z">
+        <seg>Impossible d'initialiser la lecture du fichier XML !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to initialize reading of XML file!</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230115T130005Z" creationid="briac" creationdate="20230115T130005Z">
         <seg>Impossible d'initialiser la lecture du fichier XML !</seg>
       </tuv>
     </tu>
@@ -71696,6 +71856,14 @@ Ok. </note>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210505T233658Z">
         <seg>chargé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>loaded {0} attributes.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230115T130041Z" creationid="briac" creationdate="20230115T130041Z">
+        <seg>{0} attributs chargés.</seg>
       </tuv>
     </tu>
     <tu>
