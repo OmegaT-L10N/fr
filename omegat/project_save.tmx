@@ -1887,6 +1887,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Sheet names</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230115T130515Z" creationid="briac" creationdate="20230115T130515Z">
+        <seg>Nom des fe&amp;uilles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Show All</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160926T143416Z" creationid="Didier" creationdate="20160926T143416Z">
@@ -16945,6 +16953,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (dévelo
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Column index must be equal to 1</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230115T130143Z" creationid="briac" creationdate="20230115T130143Z">
+        <seg>L'index de colonne doit être égal à 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Comm&amp;it Target Files</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221203T134748Z" creationid="suzume" creationdate="20221203T133426Z">
@@ -18325,6 +18341,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20180419T151908Z" creationid="Didier" creationdate="20180419T151908Z">
         <seg>Créer des fichiers de sauvegarde du DOCX original</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create paragraphs on:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230115T130328Z" creationid="briac" creationdate="20230115T130328Z">
+        <seg>Nouveaux paragraphes à chaque :</seg>
       </tuv>
     </tu>
     <tu>
@@ -22295,6 +22319,14 @@ personne ne vous entend pleurer...</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error loading plugin from class '{0}': {1}: {2}</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230115T130128Z" creationid="briac" creationdate="20230115T130128Z">
+        <seg>Erreur de chargement du module d'extension depuis la classe « {0} » : {1} : {2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error monitoring external command!</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021852Z">
@@ -22386,6 +22418,14 @@ personne ne vous entend pleurer...</seg>
         <seg>Error unload plugin from class '{0}': {1}</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
+        <seg>Erreur de déchargement du module d'extension depuis la classe « {0} » : {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error unloading plugin from class '{0}': {1}</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230115T130136Z" creationid="briac" creationdate="20230115T130136Z">
         <seg>Erreur de déchargement du module d'extension depuis la classe « {0} » : {1}</seg>
       </tuv>
     </tu>
@@ -34011,6 +34051,14 @@ Exécutez OmegaT de la façon suivante.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Line length in target files (0 = no limit)</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230115T130403Z" creationid="briac" creationdate="20230115T130403Z">
+        <seg>Longueur des lignes dans les fichiers cibles (0 = aucune limite)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Line length:</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z" creationid="Didier" creationdate="20140414T092246Z">
@@ -36092,6 +36140,14 @@ impose that choice.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130614T163348Z">
         <seg>Monolingue</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Monolingual XLIFF</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230115T130430Z" creationid="briac" creationdate="20230115T130430Z">
+        <seg>XLIFF monolingue</seg>
       </tuv>
     </tu>
     <tu>
@@ -41418,6 +41474,14 @@ of promoting the sharing and reuse of software generally.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>PDF text contents</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230115T130224Z" creationid="briac" creationdate="20230115T130224Z">
+        <seg>Contenu texte du PDF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>PDFBox (Apache License 2.0)</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160427T150656Z" creationid="Didier" creationdate="20160427T150656Z">
@@ -45837,6 +45901,14 @@ REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>SVG  / Adobe Illustrator Export</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230115T130455Z" creationid="briac" creationdate="20230115T130455Z">
+        <seg>SVG / export Adobe Illustrator</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>SVG Image</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130531T094228Z">
@@ -49354,6 +49426,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source file encoding</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230115T130148Z" creationid="briac" creationdate="20230115T130148Z">
+        <seg>Encodage de fichier source</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source file loading complete</seg>
       </tuv>
       <tuv lang="fr">
@@ -49366,6 +49446,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130415T152202Z">
         <seg>Type de fichier source, masque de nom de fichier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source filename pattern</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230115T130146Z" creationid="briac" creationdate="20230115T130146Z">
+        <seg>Masque de nom de fichier source</seg>
       </tuv>
     </tu>
     <tu>
@@ -60545,6 +60633,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translated file encoding</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230115T130150Z" creationid="briac" creationdate="20230115T130150Z">
+        <seg>Encodage des fichiers traduits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translated file path cannot be identical to the source file path:
 {0}</seg>
       </tuv>
@@ -60559,6 +60655,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20201203T085826Z" creationid="suzume" creationdate="20201203T085352Z">
         <seg>Noms des fichiers traduits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translated filename pattern</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230115T130157Z" creationid="briac" creationdate="20230115T130157Z">
+        <seg>Masque des fichiers traduits</seg>
       </tuv>
     </tu>
     <tu>
@@ -64851,6 +64955,14 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Wordpress XML export</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230115T130504Z" creationid="briac" creationdate="20230115T130504Z">
+        <seg>Export XML Wordpress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Words</seg>
       </tuv>
       <tuv lang="fr">
@@ -66825,6 +66937,14 @@ them.</seg>
         <seg>Your current project uses sentence segmentation, but TMX file was created using paragraph segmentation.</seg>
       </tuv>
       <tuv lang="fr">
+        <seg>Le projet utilise une segmentation par phrases alors que le fichier TMX utilise une segmentation par paragraphes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your current project uses sentence segmentation, but the TMX file was created using paragraph segmentation.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230115T130124Z" creationid="briac" creationdate="20230115T130124Z">
         <seg>Le projet utilise une segmentation par phrases alors que le fichier TMX utilise une segmentation par paragraphes.</seg>
       </tuv>
     </tu>
