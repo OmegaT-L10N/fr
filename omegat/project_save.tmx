@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_dev" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_f5b54a845" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -651,6 +651,7 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>&amp;Auto-propagation of translations</seg>
       </tuv>
@@ -14638,6 +14639,7 @@ documentation.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Brows&amp;e...</seg>
       </tuv>
@@ -17222,6 +17224,7 @@ kolekti -b C:\[...]\trunk\doc_src2 publish [-j JOB] -l fr,en C:\[...]\trunk\doc_
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Completed and current translations saved as {0}</seg>
       </tuv>
@@ -19764,6 +19767,7 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Dictionaries folder:</seg>
       </tuv>
@@ -21638,6 +21642,7 @@ by the Free Software Foundation.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Editor Pane</seg>
       </tuv>
@@ -25592,6 +25597,7 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Glossaries folder:</seg>
       </tuv>
@@ -25880,6 +25886,7 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Go to Segment</seg>
       </tuv>
@@ -31040,6 +31047,7 @@ patent against the party.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Insert Bidi Control C&amp;haracter</seg>
       </tuv>
@@ -35791,6 +35799,7 @@ impose that choice.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Menu item</seg>
       </tuv>
@@ -38048,6 +38057,7 @@ Rajout d'une partie approriée, afin que la note de bas de page ne se retrouve p
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Notes Pane</seg>
       </tuv>
@@ -41612,6 +41622,7 @@ mirage, pas de page...</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Paragraph Delimitations</seg>
       </tuv>
@@ -43935,6 +43946,7 @@ ces mots : « pas de page »...</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Re&amp;pository Mapping...</seg>
       </tuv>
@@ -44743,6 +44755,7 @@ ces mots : « pas de page »...</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Remove ta&amp;gs</seg>
       </tuv>
@@ -47291,6 +47304,7 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>See the &lt;l0/&gt; preferences for details.</seg>
       </tuv>
@@ -49361,6 +49375,7 @@ of the GPL, as needed to protect the freedom of users.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Source Segments</seg>
       </tuv>
@@ -49497,6 +49512,7 @@ of the GPL, as needed to protect the freedom of users.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Source files language:</seg>
       </tuv>
@@ -49513,6 +49529,7 @@ of the GPL, as needed to protect the freedom of users.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Source language tokenizer:</seg>
       </tuv>
@@ -49617,6 +49634,7 @@ of the GPL, as needed to protect the freedom of users.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Source/translation length (characters)</seg>
       </tuv>
@@ -51339,6 +51357,7 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Target language tokenizer:</seg>
       </tuv>
@@ -53742,6 +53761,14 @@ instead.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20211117T074624Z" creationid="suzume" creationdate="20211117T074624Z">
         <seg>Les fichiers apparaissent dans le sous-dossier &lt;f0&gt;script&lt;/f0&gt; situé dans le dossier de fichiers utilisateur d'OmegaT et comprennent :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The files are downloadable directly from &lt;a0&gt;https://omegat.org&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230113T163513Z" creationid="suzume" creationdate="20230113T163513Z">
+        <seg>Les fichiers sont téléchargeables directement à partir de &lt;a0&gt;https://omegat.org/fr&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -60600,6 +60627,7 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Translated Segments</seg>
       </tuv>
@@ -60682,6 +60710,7 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Translated files folder:</seg>
       </tuv>
@@ -60690,6 +60719,7 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Translated files language:</seg>
       </tuv>
@@ -61803,6 +61833,7 @@ on line {1}, column {2}.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Untranslated Segments</seg>
       </tuv>
@@ -66991,6 +67022,7 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Your project does not seem to contain translatable files.</seg>
       </tuv>
@@ -74229,6 +74261,7 @@ Ok. </note>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>shift F3</seg>
       </tuv>
@@ -76215,6 +76248,7 @@ Ok. </note>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>…and around 30 other file formats</seg>
       </tuv>
