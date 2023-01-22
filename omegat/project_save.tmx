@@ -25745,6 +25745,14 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossary matches</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230122T131640Z" creationid="briac" creationdate="20230122T131640Z">
+        <seg>Correspondances de glossaire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossary matching does not use stemming or stop words, but is case-insensitive.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160322T172719Z" creationid="Didier" creationdate="20160322T172719Z">
@@ -26520,6 +26528,14 @@ a disparu...</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20230115T120239Z" creationid="briac" creationdate="20230115T120239Z">
         <seg>Mettre en évidence les segments ré&amp;pétés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Highlight Segments &amp;with Notes</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230122T131735Z" creationid="briac" creationdate="20230122T131735Z">
+        <seg>Highlight Segments &amp;with Notes</seg>
       </tuv>
     </tu>
     <tu>
@@ -33324,6 +33340,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Language checker</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230122T131637Z" creationid="briac" creationdate="20230122T131637Z">
+        <seg>Vérificateur linguistique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Language name</seg>
       </tuv>
       <tuv lang="fr" changeid="etudiant_local" changedate="20130410T123849Z">
@@ -35672,6 +35696,46 @@ impose that choice.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Matches changed</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230122T131644Z" creationid="briac" creationdate="20230122T131644Z">
+        <seg>Correspondances modifiées</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches deleted active</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230122T131701Z" creationid="briac" creationdate="20230122T131701Z">
+        <seg>Correspondances supprimées actives</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches deleted inactive</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230122T131703Z" creationid="briac" creationdate="20230122T131703Z">
+        <seg>Correspondances supprimées inactives</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches inserted active</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230122T131652Z" creationid="briac" creationdate="20230122T131652Z">
+        <seg>Correspondances insérées actives</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches inserted inactive</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230122T131656Z" creationid="briac" creationdate="20230122T131656Z">
+        <seg>Correspondances insérées inactives</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Matches pane</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130528T124830Z">
@@ -35684,6 +35748,14 @@ impose that choice.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130507T120044Z">
         <seg>Paramètres du volet Correspondances</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches unchanged</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230122T131650Z" creationid="briac" creationdate="20230122T131650Z">
+        <seg>Correspondances non modifiées</seg>
       </tuv>
     </tu>
     <tu>
@@ -46679,6 +46751,14 @@ La recherche port par défaut sur le projet, et peut porter sur tout fichier sit
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Search found mark</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230122T131711Z" creationid="briac" creationdate="20230122T131711Z">
+        <seg>Texte recherché</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Search in</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130316T132453Z">
@@ -46731,6 +46811,14 @@ La recherche port par défaut sur le projet, et peut porter sur tout fichier sit
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130421T230302Z">
         <seg>Rechercher dans le projet...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search replaced mark</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230122T131717Z" creationid="briac" creationdate="20230122T131717Z">
+        <seg>Texte remplacé</seg>
       </tuv>
     </tu>
     <tu>
