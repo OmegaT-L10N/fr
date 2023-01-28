@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_dev" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -520,6 +520,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160427T142610Z" creationid="Didier" creationdate="20160427T142610Z">
         <seg>&amp;Aligner des fichiers...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Allow blank target segments</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230128T175051Z" creationid="briac" creationdate="20230128T175051Z">
+        <seg>&amp;Autoriser les segments cibles vides</seg>
       </tuv>
     </tu>
     <tu>
@@ -20574,6 +20582,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>DocBook files must have a proper DOCTYPE declaration.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230128T175411Z" creationid="briac" creationdate="20230128T175411Z">
+        <seg>Les fichiers DocBook doivent comporter une déclaration DOCTYPE correcte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Dock</seg>
       </tuv>
       <tuv lang="fr">
@@ -24900,6 +24916,14 @@ authors of previous versions.</seg>
       </tuv>
       <tuv lang="fr" changeid="jchelary" changedate="20130526T100319Z">
         <seg>OmegaT affiche la traduction de tous les mots qui peuvent apparaître dans le segment que vous êtes en train de traduire et qui sont enregistrés dans le glossaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Force Unicode literals compatibility with Java 8</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230128T175306Z" creationid="briac" creationdate="20230128T175306Z">
+        <seg>Forcer la compatibilité des littéraux Unicode avec Java 8</seg>
       </tuv>
     </tu>
     <tu>
@@ -29712,6 +29736,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ignore &amp;PO header</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230128T175141Z" creationid="briac" creationdate="20230128T175141Z">
+        <seg>Ignorer l'en-tête des fichiers &amp;PO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ignore All</seg>
       </tuv>
       <tuv lang="fr">
@@ -33013,6 +33045,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Keep Unico&amp;de literals (\uXXXX)</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230128T175253Z" creationid="briac" creationdate="20230128T175253Z">
+        <seg>Conserver les littéraux Unico&amp;de (\uXXXX)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Keep in mind that a pair group must have both its opening and its closing tag deleted to ensure that all traces of the formatting are properly erased, otherwise the translated file may become corrupted.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20201203T085917Z">
@@ -36230,6 +36270,14 @@ impose that choice.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130411T085302Z">
         <seg>Mongol</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Monolin&amp;gual</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230128T175233Z" creationid="briac" creationdate="20230128T175233Z">
+        <seg>Monolin&amp;gue</seg>
       </tuv>
     </tu>
     <tu>
@@ -49023,6 +49071,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Skipped translation units for which no source segment was found.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230128T175027Z" creationid="briac" creationdate="20230128T175027Z">
+        <seg>Des unités de traduction pour lesquelles aucun segment source n'a été trouvé ont été ignorées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Skipping previously loaded plugin from class '{0}'</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20190409T194812Z" creationid="briac" creationdate="20190409T194812Z">
@@ -50024,6 +50080,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20180606T085822Z" creationid="Didier" creationdate="20180606T085822Z">
         <seg>Standard</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Standar&amp;d</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230128T175222Z" creationid="briac" creationdate="20230128T175222Z">
+        <seg>Stan&amp;dard</seg>
       </tuv>
     </tu>
     <tu>
@@ -51162,6 +51226,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130416T155757Z">
         <seg>Validation des groupes de balises</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tag handling compatibility</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230128T175438Z" creationid="briac" creationdate="20230128T175438Z">
+        <seg>Compatibilité du traitement des balises</seg>
       </tuv>
     </tu>
     <tu>
@@ -60715,6 +60787,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translate &amp;blank source segments</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230128T175124Z" creationid="briac" creationdate="20230128T175124Z">
+        <seg>Traduire les segments sources &amp;vides</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translate a PDF file</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20200724T172738Z" creationid="briac" creationdate="20200724T172738Z">
@@ -65445,6 +65525,14 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130416T155925Z">
         <seg>XLIFF (*.xlf, *.xliff, *.sdlxliff) - format source = format cible</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XLIFF (legacy filter)</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230128T175343Z" creationid="briac" creationdate="20230128T175343Z">
+        <seg>XLIFF (filtre obsolète)</seg>
       </tuv>
     </tu>
     <tu>
