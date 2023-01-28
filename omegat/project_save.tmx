@@ -1557,6 +1557,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Preserve whitespace for all tags</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230128T175541Z" creationid="briac" creationdate="20230128T175541Z">
+        <seg>Préserver les espaces pour &amp;toutes les balises</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Previous Segment</seg>
       </tuv>
       <tuv lang="fr">
@@ -11170,6 +11178,14 @@ or that patent license was granted, prior to 28 March 2007.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A&amp;ggregate tags</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230128T175527Z" creationid="briac" creationdate="20230128T175527Z">
+        <seg>Agréger les &amp;balises</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A&amp;uto-Completion</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221112T080853Z" creationid="suzume" creationdate="20221112T080853Z">
@@ -18041,6 +18057,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Copyright © 2000-2022 Keith Godfrey, Maxym Mykhalchuk and others</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230128T175634Z" creationid="briac" creationdate="20230128T175634Z">
+        <seg>Copyright © 2000-2022 Keith Godfrey, Maxym Mykhalchuk et d'autres personnes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cornish</seg>
       </tuv>
       <tuv lang="fr" changeid="etudiant_local" changedate="20130410T125017Z">
@@ -23202,6 +23226,14 @@ dommage...</seg>
       </tuv>
       <tuv lang="fr">
         <seg>Documentation externe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>External lin&amp;ks</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230128T175518Z" creationid="briac" creationdate="20230128T175518Z">
+        <seg>Liens e&amp;xternes</seg>
       </tuv>
     </tu>
     <tu>
@@ -36138,6 +36170,14 @@ impose that choice.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Missing attribute '{0}' in &lt;{1}&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230128T175623Z" creationid="briac" creationdate="20230128T175623Z">
+        <seg>Attribut manquant '{0}' dans &lt;{1}&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Missing tags</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130511T165253Z">
@@ -41457,6 +41497,14 @@ Afficher des informations sur l'utilisation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Other options:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230128T175525Z" creationid="briac" creationdate="20230128T175525Z">
+        <seg>Autres options :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Other plain text file types can be handled by &lt;a0&gt;OmegaT&lt;/a0&gt; by associating their file extension to a supported file type (for example, .pod files can be associated to the ASCII text filter) and by pre-processing them with specific segmentation rules.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130430T072720Z">
@@ -42765,6 +42813,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20101112T182920Z">
         <seg>Power Point</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PowerPoint</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230128T175451Z" creationid="briac" creationdate="20230128T175451Z">
+        <seg>PowerPoint</seg>
       </tuv>
     </tu>
     <tu>
@@ -45973,6 +46029,14 @@ ces mots : « pas de page »...</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>S&amp;lide comments</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230128T175505Z" creationid="briac" creationdate="20230128T175505Z">
+        <seg>Commentaires des &amp;diapositives</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>S&amp;pace matches nbsp</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20150525T144820Z" creationid="Didier" creationdate="20150525T144820Z">
@@ -45993,6 +46057,22 @@ ces mots : « pas de page »...</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221203T134929Z" creationid="suzume" creationdate="20221203T134929Z">
         <seg>&amp;Basculer la casse en</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SDL XLIFF</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230128T175606Z" creationid="briac" creationdate="20230128T175606Z">
+        <seg>SDL XLIFF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SDL project</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230128T175604Z" creationid="briac" creationdate="20230128T175604Z">
+        <seg>Projet SDL</seg>
       </tuv>
     </tu>
     <tu>
@@ -49103,6 +49183,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sli&amp;de masters</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230128T175509Z" creationid="briac" creationdate="20230128T175509Z">
+        <seg>Masque des diapositi&amp;ves</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Slide External Lin&amp;ks</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20131211T110742Z" creationid="Didier" creationdate="20131211T110742Z">
@@ -49114,6 +49202,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
         <seg>Slide La&amp;youts</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20101112T182925Z">
+        <seg>M&amp;ise en page des diapositives</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Slide la&amp;youts</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230128T175515Z" creationid="briac" creationdate="20230128T175515Z">
         <seg>M&amp;ise en page des diapositives</seg>
       </tuv>
     </tu>
@@ -50161,6 +50257,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
         <seg>Start a New Paragraph &amp;on Word Soft Return</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20150907T143752Z" creationid="Didier" creationdate="20150907T143752Z">
+        <seg>Commencer un nouveau paragrap&amp;he pour les sauts de ligne Word</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Start a new paragraph &amp;on Word soft return</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230128T175549Z" creationid="briac" creationdate="20230128T175549Z">
         <seg>Commencer un nouveau paragrap&amp;he pour les sauts de ligne Word</seg>
       </tuv>
     </tu>
@@ -65533,6 +65637,14 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20230128T175343Z" creationid="briac" creationdate="20230128T175343Z">
         <seg>XLIFF (filtre obsolète)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XLIFF 2</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230128T175612Z" creationid="briac" creationdate="20230128T175612Z">
+        <seg>XLIFF 2</seg>
       </tuv>
     </tu>
     <tu>
