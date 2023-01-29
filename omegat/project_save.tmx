@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_dev" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1481,6 +1481,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221226T082217Z" creationid="suzume" creationdate="20221226T082147Z">
         <seg>Segment &amp;suivant venant de tm/auto/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;None</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230129T184125Z" creationid="briac" creationdate="20230129T184125Z">
+        <seg>A&amp;ucun</seg>
       </tuv>
     </tu>
     <tu>
@@ -20037,6 +20045,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Displa&amp;y Whitespace</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230129T183834Z" creationid="briac" creationdate="20230129T183834Z">
+        <seg>Afficher les caractères d'&amp;espacement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Displa&amp;y source terms</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20161229T164700Z" creationid="Didier" creationdate="20161229T164700Z">
@@ -20049,6 +20065,30 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130913T165728Z" creationid="Didier" creationdate="20130913T165728Z">
         <seg>Affichage</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display &amp;Bidi Control Characters</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230129T183905Z" creationid="briac" creationdate="20230129T183905Z">
+        <seg>Afficher les caractères de contrôle &amp;Bidi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display &amp;Modification Info</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230129T184117Z" creationid="briac" creationdate="20230129T184117Z">
+        <seg>Afficher les informations de &amp;modification</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display &amp;Non-Breakable Spaces</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230129T183756Z" creationid="briac" creationdate="20230129T183756Z">
+        <seg>Afficher les espaces &amp;insécables</seg>
       </tuv>
     </tu>
     <tu>
@@ -26562,6 +26602,14 @@ a disparu...</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160427T154919Z" creationid="Didier" creationdate="20160427T154919Z">
         <seg>Mettre en évidence</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Highlight &amp;Auto-Populated Segments</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230129T183943Z" creationid="briac" creationdate="20230129T183943Z">
+        <seg>Mettre en évidence les segments &amp;auto-traduits</seg>
       </tuv>
     </tu>
     <tu>
@@ -35385,6 +35433,14 @@ impose that choice.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mark &amp;Language Checker Issues</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230129T184027Z" creationid="briac" creationdate="20230129T184027Z">
+        <seg>Colorer les problèmes du &amp;vérificateur linguistique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mark &amp;Non-Breakable Spaces</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221203T135237Z" creationid="suzume" creationdate="20221112T030428Z">
@@ -35460,8 +35516,8 @@ impose that choice.</seg>
       <tuv lang="en">
         <seg>Mark Gl&amp;ossary Matches</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20221204T091111Z" creationid="suzume" creationdate="20221203T135218Z">
-        <seg>Colorer les c&amp;orrespondances de &amp;glossaire</seg>
+      <tuv lang="fr" changeid="briac" changedate="20230129T184038Z" creationid="suzume" creationdate="20221203T135218Z">
+        <seg>Colorer les correspondances de &amp;glossaire</seg>
       </tuv>
     </tu>
     <tu>
@@ -62626,6 +62682,14 @@ la configuration actuelle est de {0} Mo ;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use Aggressive &amp;Font Fallback</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230129T184055Z" creationid="briac" creationdate="20230129T184055Z">
+        <seg>Utilisation intensi&amp;ve des polices de repli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use Fuzzy Matching for Dictionary Entries</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20150910T091615Z" creationid="Didier" creationdate="20150910T091615Z">
@@ -69934,6 +69998,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>for &amp;All Segments</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230129T184148Z" creationid="briac" creationdate="20230129T184148Z">
+        <seg>pour &amp;tous les segments</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>for (i in 0 ..&lt; files.size())</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T103640Z">
@@ -69946,6 +70018,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T103643Z">
         <seg>for (j in 0 ..&lt; files[i].entries.size())</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>for Current &amp;Segment</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230129T184132Z" creationid="briac" creationdate="20230129T184132Z">
+        <seg>pour le &amp;segment actuel</seg>
       </tuv>
     </tu>
     <tu>
