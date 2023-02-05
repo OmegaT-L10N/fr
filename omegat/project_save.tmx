@@ -1300,6 +1300,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Install plugin from disk</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230205T201619Z" creationid="briac" creationdate="20230205T201619Z">
+        <seg>&amp;Installer le module d'extension à partir du disque</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Jump To Segment</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160926T143425Z" creationid="Didier" creationdate="20160926T143406Z">
@@ -31445,6 +31453,14 @@ patent against the party.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Install plugin file</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230205T201602Z" creationid="briac" creationdate="20230205T201602Z">
+        <seg>Installer le fichier du module d'extension</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Install plugin {0} {1}</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20230122T131322Z" creationid="briac" creationdate="20230122T131322Z">
@@ -35706,6 +35722,14 @@ impose that choice.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Master password:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230205T201639Z" creationid="briac" creationdate="20230205T201639Z">
+        <seg>Mot de passe principal :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Match Statistics</seg>
       </tuv>
       <tuv lang="fr" changeid="laurieetclémentine" changedate="20130411T140350Z">
@@ -36082,10 +36106,26 @@ impose that choice.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Microsoft Office Open XML</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230205T201444Z" creationid="briac" creationdate="20230205T201444Z">
+        <seg>Microsoft Office Open XML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Microsoft Office Open XML (*.docx, *.dotx, *.xlsx, *.xltx, *.pptx)</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T104436Z">
         <seg>Microsoft Office Open XML (*.docx, *.dotx, *.xlsx, *.xltx, *.pptx)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Microsoft Office Open XML (legacy filter)</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230205T201505Z" creationid="briac" creationdate="20230205T201505Z">
+        <seg>Microsoft Office Open XML (filtre obsolète)</seg>
       </tuv>
     </tu>
     <tu>
@@ -37574,6 +37614,14 @@ Diminue les sorties sur stdout de la ligne de commande.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Non-visible instruction te&amp;xt</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230205T201518Z" creationid="briac" creationdate="20230205T201518Z">
+        <seg>&amp;Texte d'instructions non visible</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>None</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20170106T154034Z" creationid="Didier" creationdate="20170106T154034Z">
@@ -37698,6 +37746,14 @@ Diminue les sorties sur stdout de la ligne de commande.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20140206T101923Z" creationid="Didier" creationdate="20140206T101923Z">
         <seg>Non présente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Not set</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230205T201650Z" creationid="briac" creationdate="20230205T201650Z">
+        <seg>Non défini</seg>
       </tuv>
     </tu>
     <tu>
@@ -41573,6 +41629,14 @@ Afficher des informations sur l'utilisation.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130527T141345Z">
         <seg>Il est également possible de trouver d'autres fichiers texte brut ou fichiers texte formaté susceptibles d'être pris en charge par OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Other plugins are available online.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230205T201631Z" creationid="briac" creationdate="20230205T201631Z">
+        <seg>D'autres modules d'extension sont disponibles en ligne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48434,6 +48498,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
         <seg>Set &amp; Stored</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20161227T172010Z" creationid="Didier" creationdate="20161227T172010Z">
+        <seg>Défini et stocké</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Set &amp; stored</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230205T201657Z" creationid="briac" creationdate="20230205T201657Z">
         <seg>Défini et stocké</seg>
       </tuv>
     </tu>
