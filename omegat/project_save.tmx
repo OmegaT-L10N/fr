@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_dev" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_57d465e73" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -45162,6 +45162,14 @@ ces mots : « pas de page »...</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Repeated segments: {0}</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230207T041654Z" creationid="suzume" creationdate="20230207T041620Z">
+        <seg>Segments répétés : {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Repetitions from other files:</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z" creationid="Didier" creationdate="20131109T115052Z">
@@ -47824,8 +47832,8 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       <tuv lang="en">
         <seg>Segment {0,number,#}</seg>
       </tuv>
-      <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210504T105529Z" creationid="Didier" creationdate="20150306T102617Z">
-        <seg>Segment {0, number, #}</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230207T041756Z" creationid="Didier" creationdate="20150306T102617Z">
+        <seg>Segment {0,number,#}</seg>
       </tuv>
     </tu>
     <tu>
@@ -50022,8 +50030,8 @@ of the GPL, as needed to protect the freedom of users.</seg>
       <tuv lang="en">
         <seg>Source/translation length (characters)</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20221226T082834Z" creationid="suzume" creationdate="20221226T082834Z">
-        <seg>Longueur de source/traduction (caractères)</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230207T041921Z" creationid="suzume" creationdate="20221226T082834Z">
+        <seg>Longueur en caractères (source/traduction)</seg>
       </tuv>
     </tu>
     <tu>
