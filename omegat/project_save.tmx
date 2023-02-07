@@ -23753,16 +23753,16 @@ dommage...</seg>
       <tuv lang="en">
         <seg>File: translated / number of segments (project: unique translated / unique, total number of segments)</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
-        <seg>Fichier : traduits / nombre de segments (projet : traduits uniques / uniques, nombre total de segments)</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230207T042121Z">
+        <seg>Fichier : traduits / nombre de segments (projet : uniques traduits / uniques, nombre total)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>File: unique translated % (unique left) / project: unique translated % (unique left), total number of segments</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z" creationid="Didier" creationdate="20140530T132122Z">
-        <seg>Fichier : % unique traduit (unique restant) / projet : % unique traduit % (unique restant), nombre total de segments</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230207T042147Z" creationid="Didier" creationdate="20140530T132122Z">
+        <seg>Fichier : % uniques traduits (uniques restants) / projet : % uniques traduits % (uniques restants), nombre total</seg>
       </tuv>
     </tu>
     <tu>
@@ -76552,8 +76552,8 @@ Ok. </note>
       <tuv lang="en">
         <seg>{0} ({1} left) / {2} ({3} left), {4}</seg>
       </tuv>
-      <tuv lang="fr" changeid="Didier" changedate="20150514T134711Z" creationid="Didier" creationdate="20150514T134711Z">
-        <seg>{0} (reste {1}) / {2} (reste {3}), {4}</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230207T041955Z" creationid="Didier" creationdate="20150514T134711Z">
+        <seg>{0} (encore {1}) / {2} (encore {3}), {4}</seg>
       </tuv>
     </tu>
     <tu>
