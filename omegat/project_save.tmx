@@ -15180,8 +15180,8 @@ software--to make sure the software is free for all its users.</seg>
       <tuv lang="en">
         <seg>C&amp;opy All Data to Clipboard</seg>
       </tuv>
-      <tuv lang="fr" changeid="Didier" changedate="20150514T134858Z" creationid="Didier" creationdate="20150514T134858Z">
-        <seg>&amp;Copier toutes les données dans le presse-papiers</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230209T125347Z" creationid="Didier" creationdate="20150514T134858Z">
+        <seg>&amp;Copier les données dans le presse-papiers</seg>
       </tuv>
     </tu>
     <tu>
@@ -22789,8 +22789,8 @@ The FSF strongly urges you not to use this translation as the official distribu-
       <tuv lang="en">
         <seg>Exact match:</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
-        <seg>Correspondance exacte :</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230209T125436Z">
+        <seg>Correspondances exactes :</seg>
       </tuv>
     </tu>
     <tu>
@@ -46873,6 +46873,14 @@ La recherche port par défaut sur le projet, et peut porter sur tout fichier sit
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Se&amp;ntence-level Segmenting</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230209T125537Z" creationid="suzume" creationdate="20230209T125537Z">
+        <seg>Segme&amp;ntation par phrases</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Se&amp;ntence-level segmenting</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221226T083515Z" creationid="suzume" creationdate="20221226T083515Z">
@@ -60869,16 +60877,16 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       <tuv lang="en">
         <seg>Total Segments</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20230209T125242Z">
-        <seg>Nombre de segments</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230209T125323Z">
+        <seg>Total des segments</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Total Words</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210505T044613Z">
-        <seg>Mots totaux</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230209T125315Z">
+        <seg>Total des mots</seg>
       </tuv>
     </tu>
     <tu>
