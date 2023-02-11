@@ -2176,6 +2176,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Use local segmentation rules</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230209T125611Z" creationid="suzume" creationdate="20230209T125611Z">
+        <seg>&amp;Utiliser les règles locales de segmentation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Use terms appearing separately in the source text</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20150525T144647Z" creationid="Didier" creationdate="20150525T144647Z">
@@ -34479,6 +34487,14 @@ automatically download and install it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local &amp;Segmentation Rules...</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230209T125605Z" creationid="suzume" creationdate="20230209T125605Z">
+        <seg>Règles locales de &amp;segmentation...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local External Searc&amp;hes...</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221227T051028Z" creationid="suzume" creationdate="20221227T051028Z">
@@ -34531,6 +34547,24 @@ automatically download and install it.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20120420T211214Z">
         <seg>Dossier local :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Local Post-processing Commands</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230209T125809Z" creationid="suzume" creationdate="20230209T125809Z">
+        <seg>Commandes locales de post-traitement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Local Post-processing Commands (Disabled):</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230209T125815Z" creationid="suzume" creationdate="20230209T125815Z">
+        <seg>Commandes locales de post-traitement (désactivées) :</seg>
       </tuv>
     </tu>
     <tu>
@@ -44924,8 +44958,8 @@ ces mots : « pas de page »...</seg>
       <tuv lang="en">
         <seg>Remove Ta&amp;gs</seg>
       </tuv>
-      <tuv lang="fr" changeid="Didier" changedate="20120904T121652Z">
-        <seg>Su&amp;pprimer les balises</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230209T125805Z">
+        <seg>D&amp;issimuler les balises</seg>
       </tuv>
     </tu>
     <tu>
@@ -49774,8 +49808,8 @@ of the GPL, as needed to protect the freedom of users.</seg>
       <tuv lang="en">
         <seg>Source Files Folder:</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
-        <seg>Dossier des fichiers en langue source :</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230209T125629Z">
+        <seg>Dossier des fichiers source :</seg>
       </tuv>
     </tu>
     <tu>
