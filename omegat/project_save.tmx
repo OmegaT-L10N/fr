@@ -7639,6 +7639,22 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;k0&gt;alt / option&lt;/k0&gt; or &lt;k1&gt;⌥&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230301T154701Z" creationid="Léo Delaune" creationdate="20230301T154701Z">
+        <seg>&lt;k0&gt;alt / option&lt;/k0&gt; ou &lt;k1&gt;⌥&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;k0&gt;control&lt;/k0&gt; or &lt;k1&gt;⌃&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230301T154707Z" creationid="Léo Delaune" creationdate="20230301T154707Z">
+        <seg>&lt;k0&gt;control&lt;/k0&gt; ou &lt;k1&gt;⌃&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;k0&gt;shift&lt;/k0&gt; or &lt;k1&gt;⇧&lt;/k1&gt;</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230301T154647Z" creationid="Léo Delaune" creationdate="20230301T154647Z">
@@ -10660,6 +10676,14 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221206T021038Z" creationid="suzume" creationdate="20221206T021038Z">
         <seg>@timestamp@</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230301T154656Z" creationid="Léo Delaune" creationdate="20230301T154656Z">
+        <seg>ouA</seg>
       </tuv>
     </tu>
     <tu>
@@ -27068,6 +27092,14 @@ a disparu...</seg>
       </tuv>
       <tuv lang="fr" changeid="briglegrand" changedate="20120621T195554Z">
         <seg>Translating WordPress XLIFF Files in OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>How we avoid listing multiple notations:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230301T154852Z" creationid="Léo Delaune" creationdate="20230301T154852Z">
+        <seg>Comment évitons-nous d'énumérer de multiples notations :</seg>
       </tuv>
     </tu>
     <tu>
@@ -53040,6 +53072,14 @@ form of a work.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130527T150909Z">
         <seg>L'argument&lt;e0&gt;« -Duser.language=XX »&lt;/e0&gt; oblige &lt;a1&gt;OmegaT&lt;/a1&gt; à utiliser la langue spécifiée plutôt que la langue du système d'exploitation de l'utilisateur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;e0&gt;Key identifiers&lt;/e0&gt; above enable us to avoid listing multiple notations for every shortcut.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230301T154828Z" creationid="Léo Delaune" creationdate="20230301T154828Z">
+        <seg>Les &lt;e0&gt;identifiants clé&lt;/e0&gt; ci-dessus nous permettent d'éviter d'énumérer de multiples notations pour chaque raccourcis.</seg>
       </tuv>
     </tu>
     <tu>
