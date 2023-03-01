@@ -60070,6 +60070,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To associate a filter to a file, OmegaT checks its file extension and attempts to match it to a source filename patterns in a filter.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230301T112651Z" creationid="Anand" creationdate="20230301T112651Z">
+        <seg>Afin d'associer un filtre à un fichier, OmegaT vérifie son extension et essaie de le faire correspondre à un modèle de nom de fichier source dans un filtre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To associate a script with a number:</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210204T025800Z" creationid="suzume" creationdate="20210204T025800Z">
