@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -24503,6 +24503,14 @@ authors of previous versions.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130428T155032Z">
         <seg>Par exemple, &lt;e0&gt;a+?&lt;/e0&gt; correspondra au premier &lt;e1&gt;a&lt;/e1&gt; dans &lt;e2&gt;aaabbb&lt;/e2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, &lt;e0&gt;r&lt;/e0&gt; is just a normal character but preceding it with &lt;l1&gt;\&lt;/l1&gt; to make it &lt;l2&gt;\r&lt;/l2&gt; turns it into a special combination that matches a &lt;e3&gt;carriage return character&lt;/e3&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230301T112949Z" creationid="sirine" creationdate="20230301T112949Z">
+        <seg>Par exemple, &lt;e0&gt;r&lt;/e0&gt; est juste un caractère normal mais le fait de le précéder de &lt;l1&gt;\&lt;/l1&gt; pour en faire &lt;l2&gt;\r&lt;/l2&gt; le transforme en une combinaison spéciale qui correspond à un &lt;e3&gt;caractère retour chariot&lt;/e3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62734,6 +62742,14 @@ Les recherches exactes correspondent à l'ensemble de la chaîne recherchée.</s
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20220503T111346Z" creationid="suzume" creationdate="20220503T111346Z">
         <seg>Inconnue/Manuelle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unlike a letter on its own, which simply represents itself as noted above, a letter preceded by a &lt;l0&gt;\&lt;/l0&gt; has a special function in a regular expression.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230301T112634Z" creationid="sirine" creationdate="20230301T112634Z">
+        <seg>Contrairement à une lettre seule, qui se représente simplement comme indiqué ci-dessus, une lettre précédée d'un &lt;l0&gt;\&lt;/l0&gt; a une fonction spéciale dans une expression régulière.</seg>
       </tuv>
     </tu>
     <tu>
