@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -31947,6 +31947,14 @@ exécutez simplement le programme d'installation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Instead, they are called from the menus or, for the majority of functions, from their assigned default shortcut.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230301T091348Z" creationid="Léo Delaune" creationdate="20230301T091348Z">
+        <seg>Au lieu de cela, elles sont appelées à partir des menus, ou pour la majorité des fonctions, à partir du raccourcis qui leur est attribué.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Instead, those involved in the OmegaT project hope that translations will be provided first and foremost by translators who have tried OmegaT and are convinced of its value to the translation community as a whole.</seg>
       </tuv>
       <tuv lang="fr" changeid="briglegrand" changedate="20110106T084031Z">
@@ -34281,6 +34289,14 @@ Exécutez OmegaT de la façon suivante.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021852Z">
         <seg>Apprendre à utiliser OmegaT en cinq minutes !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Learning the most frequent shortcuts will not take long once you start working with OmegaT.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230301T093041Z" creationid="Léo Delaune" creationdate="20230301T093041Z">
+        <seg>L'apprentissage des raccourcis les plus fréquents ne sera pas long dès que vous commencerez à travailler avec OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39292,6 +39308,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20170406T084644Z" creationid="briac" creationdate="20170406T084644Z">
         <seg>Capture d'écran d'OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT Shortcuts</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230301T085556Z" creationid="Léo Delaune" creationdate="20230301T085556Z">
+        <seg>Raccourcis OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -53463,6 +53487,14 @@ software and other kinds of works.</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20170331T131833Z" creationid="briac" creationdate="20170331T131833Z">
         <seg>La liste des développeurs OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The OmegaT interface generally does not rely on buttons to give access to its functions.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230301T090951Z" creationid="Léo Delaune" creationdate="20230301T090715Z">
+        <seg>L'interface d'OmegaT ne s'appuie généralement pas sur des boutons pour donner accès à ces fonctions. </seg>
       </tuv>
     </tu>
     <tu>
