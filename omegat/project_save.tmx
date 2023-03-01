@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10965,6 +10965,14 @@ this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A number of characters or combinations of characters have a special meaning in a regular expression.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230301T110520Z" creationid="sirine" creationdate="20230301T110520Z">
+        <seg>Un certain nombre de caractères ou de combinaisons de caractères ont une signification particulière dans une expression régulière.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A number of interactive tools are available to develop and test regular expressions.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130506T132458Z">
@@ -13282,6 +13290,14 @@ void, and will automatically terminate your rights under this License.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130422T172629Z">
         <seg>N'importe quel caractère à l'exception de ceux du bloc grec (négation)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Any given expression either &lt;e0&gt;matches&lt;/e0&gt;, or &lt;e1&gt;does &lt;e2&gt;not&lt;/e2&gt; match&lt;/e1&gt; a word, phrase, or other sequence of text.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230301T110208Z" creationid="sirine" creationdate="20230301T110208Z">
+        <seg>Toute expression donnée soit &lt;e0&gt;correspond&lt;/e0&gt;, soit &lt;e1&gt;ne &lt;e2&gt;correspond&lt;/e2&gt; pas&lt;/e1&gt; à un mot, une phrase ou une autre suite de texte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21542,6 +21558,14 @@ MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130419T192501Z">
         <seg>SAUF MENTION CONTRAIRE ECRITE, LES TITULAIRES DU DROIT D'AUTEUR ET/OU LES AUTRES PARTIES FOURNISSENT LE PROGRAMME 'EN L'ETAT', SANS AUCUNE GARANTIE DE QUELQUE NATURE QUE CE SOIT, EXPRESSE OU IMPLICITE, Y COMPRIS, MAIS SANS Y ETRE LIMITE, LES GARANTIES IMPLICITES DE COMMERCIABILITE ET DE LA CONFORMITE A UNE UTILISATION PARTICULIERE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Each and every character in the expression is relevant when determining a match.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230301T110235Z" creationid="sirine" creationdate="20230301T110235Z">
+        <seg>Chaque caractère de l'expression est pertinent pour déterminer une correspondance.</seg>
       </tuv>
     </tu>
     <tu>
