@@ -30527,6 +30527,14 @@ the scope of this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In non-segmented projects, disable this option to make leading and trailing whitespace modifiable in the translation.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230301T105505Z" creationid="Anand" creationdate="20230301T105155Z">
+        <seg>Dans les projets non segmentés, désactivez cette option afin de pouvoir modifier les espaces en début et fin de segment dans la traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In non-segmented projects, it is possible to keep it by unchecking this option.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20141202T173052Z" creationid="Didier" creationdate="20141202T173052Z">
