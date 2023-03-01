@@ -15034,6 +15034,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By default, OmegaT removes any leading and trailing whitespace from the translatable contents.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230301T105151Z" creationid="Anand" creationdate="20230301T105006Z">
+        <seg>Par défaut, OmegaT supprime tout espace en début et fin de segment du contenu traduisible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default, all files that are not excluded are included.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210129T104458Z" creationid="suzume" creationdate="20210129T104458Z">
