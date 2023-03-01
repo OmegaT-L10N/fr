@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -24735,6 +24735,14 @@ know their rights.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, the seven letters spelling out the word “&lt;e0&gt;example&lt;/e0&gt;” simply tell the search function to match exactly those letters, in that order.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230301T111549Z" creationid="sirine" creationdate="20230301T111549Z">
+        <seg>Par exemple, les sept lettres qui composent le mot "&lt;e0&gt;exemple&lt;/e0&gt;" indiquent simplement à la fonction de recherche de trouver exactement ces lettres, dans cet ordre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, there is nothing to stop a user writing their own user manual or a demonstration video for OmegaT, and if the project considers it remotely useful, it is likely to be made available to OmegaT's community of users.</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20170403T094337Z" creationid="OmegaT Aligner" creationdate="20170329T123429Z">
@@ -36804,6 +36812,14 @@ impose that choice.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Most characters simply match themselves</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230301T111415Z" creationid="sirine" creationdate="20230301T111415Z">
+        <seg>La plupart des caractères correspondent simplement à eux-mêmes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Most functions are also available via keyboard shortcuts.</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130420T215108Z">
@@ -44928,6 +44944,14 @@ ces mots : « pas de page »...</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221016T093503Z" creationid="suzume" creationdate="20221016T093503Z">
         <seg>Les expressions régulières utilisent des combinaisons de lettre, chiffres et symboles (qu'on appellera ici &lt;e0&gt;caractères&lt;/e0&gt;) pour définir une &lt;e1&gt;expression&lt;/e1&gt; qui représente un motif textuel particulier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Regular expressions only match text.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230301T110545Z" creationid="sirine" creationdate="20230301T110545Z">
+        <seg>Les expressions régulières ne correspondent qu'à du texte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55413,6 +55437,14 @@ freedom to share and change it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The majority of characters in a regular expression simply &lt;e0&gt;look for themselves&lt;/e0&gt; in the text sequence.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230301T111453Z" creationid="sirine" creationdate="20230301T111453Z">
+        <seg>La majorité des caractères d'une expression régulière se cherchent simplement&lt;/e0&gt; dans la suite du texte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The mappings can be added by editing &lt;f0&gt;omegat.project&lt;/f0&gt; or via the UI: &lt;m1&gt; &lt;g2&gt;Project&lt;/g2&gt; &lt;g3&gt;Properties&lt;/g3&gt; &lt;g4&gt;Repository Mapping&lt;/g4&gt; &lt;/m1&gt;</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210201T140310Z" creationid="suzume" creationdate="20210129T085625Z">
@@ -57605,6 +57637,14 @@ the [Help] menu after starting OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>There are four rules to keep in mind.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230301T111259Z" creationid="sirine" creationdate="20230301T111259Z">
+        <seg>Il y a quatre règles à garder en tête.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There are many plugins available for OmegaT online.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20161227T171718Z" creationid="Didier" creationdate="20161227T171718Z">
@@ -58054,6 +58094,14 @@ pas de page...</seg>
       </tuv>
       <tuv lang="fr" changeid="jchelary" changedate="20130526T125920Z">
         <seg>Ils peuvent ainsi créer leurs propres projets et remettre leur fichier &lt;f1&gt;project_save.tmx&lt;/f1&gt;, lorsqu'ils ont fini ou qu'ils ont atteint une échéance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They cannot match decorations such as &lt;e0&gt;bold&lt;/e0&gt;, &lt;e1&gt;italics&lt;/e1&gt;, or other &lt;e2&gt;stylistic effects&lt;/e2&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230301T111234Z" creationid="sirine" creationdate="20230301T111234Z">
+        <seg>Ils ne peuvent pas correspondre à des effets de texte tels que &lt;e0&gt;gras&lt;/e0&gt;, &lt;e1&gt;italique&lt;/e1&gt;, ou d'autres &lt;e2&gt;effets stylistiques&lt;/e2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
