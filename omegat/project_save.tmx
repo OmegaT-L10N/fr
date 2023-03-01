@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -23705,6 +23705,14 @@ dommage...</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>File filters are either local and specific to a given project, or global and available to all the projects that share a configuration folder.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230301T092236Z" creationid="Anand" creationdate="20230301T092236Z">
+        <seg>File filters are either local and specific to a given project, or global and available to all the projects that share a configuration folder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>File filters are pieces of code capable of:</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
@@ -23917,6 +23925,14 @@ dommage...</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z" creationid="Didier" creationdate="20150306T102639Z">
         <seg>Filtre :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Filters in bold are used in the current project.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230301T092617Z" creationid="Anand" creationdate="20230301T092617Z">
+        <seg>Filters in bold are used in the current project.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24303,6 +24319,14 @@ authors of previous versions.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160322T171259Z" creationid="Didier" creationdate="20160322T171259Z">
         <seg>Pour des motifs de confidentialité, vous pouvez ne pas vouloir envoyer tous les segments à l'outil de traduction automatique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For details, see:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230301T092251Z" creationid="Anand" creationdate="20230301T092251Z">
+        <seg>Pour en savoir plus, voir :</seg>
       </tuv>
     </tu>
     <tu>
