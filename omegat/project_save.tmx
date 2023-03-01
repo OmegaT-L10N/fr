@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -45641,8 +45641,8 @@ ces mots : « pas de page »...</seg>
       <tuv lang="en">
         <seg>Represents zero or one horizontal whitespace character (this includes regular and non-breaking spaces as well as tabs, but not line break characters, which belong to the “vertical whitespace” category: \v.)</seg>
       </tuv>
-      <tuv lang="fr" changeid="sirine" changedate="20230301T091222Z" creationid="sirine" creationdate="20230301T091222Z">
-        <seg>[correspondance]Un caractère d'espacement horizontal ou plus (ceci inclus les espaces normales ou insécables, les tabulations, mais pas les sauts de lignes ou les retours-chariot qui font partie de la catégorie « caractère d'espacement vertical » : \v).</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230301T095036Z" creationid="sirine" creationdate="20230301T091222Z">
+        <seg>Représente zéro ou un caractère d'espace blanc (cela inclut les espaces réguliers et insécables ainsi que les tabulations, mais pas les caractères de saut de ligne, qui appartiennent à la catégorie des "espaces blancs verticaux" : \v.)</seg>
       </tuv>
     </tu>
     <tu>
