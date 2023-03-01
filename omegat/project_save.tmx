@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -36550,8 +36550,8 @@ impose that choice.</seg>
       <tuv lang="en">
         <seg>Modified local file filters are saved in the &lt;l0/&gt; file, located in the project folder.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230301T102413Z" creationid="Anand" creationdate="20230301T102009Z">
-        <seg>Les modifications des filtres de fichiers locaux sont enregistrées&lt;l0/&gt; file, located in the project folder.</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230301T102859Z" creationid="Anand" creationdate="20230301T102009Z">
+        <seg>Les modifications des filtres de fichiers locaux sont enregistrées dans le fichier &lt;l0/&gt; , situé dans le dossier du projet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47868,6 +47868,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221220T113903Z" creationid="suzume" creationdate="20221220T113730Z">
         <seg>Voir le paramètre &lt;l0/&gt; pour en savoir plus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the &lt;l1/&gt; chapter for details.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230301T102833Z" creationid="Anand" creationdate="20230301T102820Z">
+        <seg>Voir le chapitre &lt;l1/&gt; pour plus de détails..</seg>
       </tuv>
     </tu>
     <tu>
