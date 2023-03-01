@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -52836,6 +52836,14 @@ form of a work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;l0/&gt; setting allows you to define strings that OmegaT will highlight in the aligned documents.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230301T101602Z" creationid="sirine" creationdate="20230301T101602Z">
+        <seg>Le paramètre &lt;l0/&gt; permet de définir les chaînes de caractères qu'OmegaT mettra en évidence dans les documents alignés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;l0&gt;-Duser.language=&lt;p1&gt;XX&lt;/p1&gt;&lt;/l0&gt; argument causes &lt;a2&gt;OmegaT&lt;/a2&gt; to use the language specified rather than the language of the user's operating system.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210202T072837Z" creationid="suzume" creationdate="20210202T072837Z">
@@ -64277,6 +64285,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20120914T162040Z">
         <seg>Fichiers Visio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Visual cues can help verifying that your alignment is correct.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230301T101346Z" creationid="sirine" creationdate="20230301T101346Z">
+        <seg>Des repères visuels peuvent aider à vérifier que votre alignement est correct.</seg>
       </tuv>
     </tu>
     <tu>
