@@ -35350,6 +35350,14 @@ La version Mac intègre un JRE.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Many OmegaT functions rely on regular expressions or make them available as an option:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230301T091303Z" creationid="sirine" creationdate="20230301T091303Z">
+        <seg>De nombreuses fonctions d'OmegaT dépendent des expressions régulières ou les proposent en option :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Many of you reading this will be translators who have translated a lot of user documentation.</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20170403T091634Z" creationid="briac" creationdate="20170403T091634Z">
@@ -45595,6 +45603,14 @@ ces mots : « pas de page »...</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221016T094422Z" creationid="suzume" creationdate="20221016T094209Z">
         <seg>Un caractère d'espacement horizontal ou plus (ceci inclus les espaces normales ou insécables, les tabulations, mais pas les sauts de lignes ou les retours-chariot qui font partie de la catégorie « caractère d'espacement vertical » : \v).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Represents zero or one horizontal whitespace character (this includes regular and non-breaking spaces as well as tabs, but not line break characters, which belong to the “vertical whitespace” category: \v.)</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230301T091222Z" creationid="sirine" creationdate="20230301T091222Z">
+        <seg>[correspondance]Un caractère d'espacement horizontal ou plus (ceci inclus les espaces normales ou insécables, les tabulations, mais pas les sauts de lignes ou les retours-chariot qui font partie de la catégorie « caractère d'espacement vertical » : \v).</seg>
       </tuv>
     </tu>
     <tu>
