@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_4806f599a" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -22186,7 +22186,6 @@ pas de page...</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Enter a language code in xx-YY, xxx-YY, xx_YY or xxx_YY  format, where xx or xxx 
 is the language code and YY is the region or country code (optional).</seg>
@@ -34238,6 +34237,14 @@ Exécutez OmegaT de la façon suivante.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>License</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230301T074145Z" creationid="sirine" creationdate="20230301T074145Z">
+        <seg>[correspondance]&amp;Licence</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>License.</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130418T231828Z">
@@ -34577,7 +34584,6 @@ automatically download and install it.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Local Post-processing Commands</seg>
       </tuv>
@@ -34586,7 +34592,6 @@ automatically download and install it.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Local Post-processing Commands (Disabled):</seg>
       </tuv>
@@ -57055,7 +57060,6 @@ the [Help] menu after starting OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>The writeable glossary file folder does not exist!</seg>
       </tuv>
