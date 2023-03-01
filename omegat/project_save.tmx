@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -21008,8 +21008,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="en">
         <seg>Double-click the editable fields to make simple modifications or click on the &lt;g0&gt;Edit...&lt;/g0&gt; button to access the modification dialog.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230301T111522Z" creationid="Anand" creationdate="20230301T111248Z">
-        <seg>Double-cliquez sur les champs modifiables afin d'effectuer des  modifications simples ou cliquez sur le bouton &lt;g0&gt;Edition...&lt;/g0&gt; afin d'accéder à la boîte de dialogue de modification.</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230301T111602Z" creationid="Anand" creationdate="20230301T111248Z">
+        <seg>Double-cliquez sur les champs modifiables afin d'effectuer des  modifications simples ou cliquez sur le bouton &lt;g0&gt;Modifier...&lt;/g0&gt; afin d'accéder à la boîte de dialogue de modification.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59950,6 +59950,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To add a filter pattern, click on &lt;g0&gt;Add...&lt;/g0&gt; to open a similar dialog.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230301T111827Z" creationid="Anand" creationdate="20230301T111558Z">
+        <seg>Afin d'ajouter un motif de filtre, cliquez sur &lt;g0&gt;Ajouter...&lt;/g0&gt; pour ouvrir une boîte de dialogue similaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To add a new file filter pattern, click &lt;e1&gt;Add&lt;/e1&gt;.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20201203T085114Z" creationid="suzume" creationdate="20201203T085114Z">
@@ -60700,8 +60708,8 @@ as a Source Forge user.</seg>
       <tuv lang="en">
         <seg>To modify the file extensions, target file name and encodings associated to a filter, select it in the list and click the &lt;g0&gt;Edit...&lt;/g0&gt; button.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230301T111304Z" creationid="Anand" creationdate="20230301T100701Z">
-        <seg>Afin de modifier les extensions de fichiers, le nom du fichier cible et les encodages liés a un filtre, sélectionnez-le dans la liste et cliquez sur le bouton &lt;g0&gt;Edition...&lt;/g0&gt;.</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230301T111610Z" creationid="Anand" creationdate="20230301T100701Z">
+        <seg>Afin de modifier les extensions de fichiers, le nom du fichier cible et les encodages liés a un filtre, sélectionnez-le dans la liste et cliquez sur le bouton &lt;g0&gt;Modifier...&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
