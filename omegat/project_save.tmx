@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -16639,6 +16639,14 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
       <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210506T111409Z">
         <seg>Cliquer sur l'onglet &lt;g0&gt;Edit&lt;/g0&gt; de la page Wikipédia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click the &lt;g0&gt;Restore Defaults&lt;/g0&gt; button to reset the file filters to their default settings.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230301T101533Z" creationid="Anand" creationdate="20230301T101533Z">
+        <seg>Cliquez sur le bouton &lt;g0&gt;Rétablir par défaut&lt;/g0&gt; afin de réinitialiser les filtres de fichier à leurs paramètres initiaux.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49642,6 +49650,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20230115T121433Z" creationid="briac" creationdate="20230115T121433Z">
         <seg>Certains filtres ne permettent la modification de l'encodage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some filters provide a &lt;g0&gt;Options...&lt;/g0&gt; button to further customize their settings.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230301T101238Z" creationid="Anand" creationdate="20230301T101238Z">
+        <seg>Certains filtres proposent un bouton &lt;g0&gt;Options...&lt;/g0&gt; afin d'approfondir la personnalisation des paramètres.</seg>
       </tuv>
     </tu>
     <tu>
