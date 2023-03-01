@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -57157,6 +57157,14 @@ the [Help] menu after starting OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Their contents will not be displayed for translation.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230301T100353Z" creationid="Anand" creationdate="20230301T100024Z">
+        <seg>Leur contenu ne sera pas affiché pour la traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Theme</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20211120T090842Z" creationid="suzume" creationdate="20211120T090842Z">
@@ -66980,6 +66988,14 @@ installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221220T114731Z" creationid="suzume" creationdate="20221220T114731Z">
         <seg>Vous pouvez modifier la fréquence des sauvegardes dans le paramètre &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can sort the filters by name or by whether they are enabled.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230301T100556Z" creationid="Anand" creationdate="20230301T100556Z">
+        <seg>Vous pouvez trier les filtres selon leur nom ou selon qu'ils soient activés ou non. </seg>
       </tuv>
     </tu>
     <tu>
