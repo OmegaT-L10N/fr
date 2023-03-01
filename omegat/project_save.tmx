@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -34333,6 +34333,14 @@ Exécutez OmegaT de la façon suivante.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Letters of the alphabet preceded by a backslash (&lt;l0&gt;\&lt;/l0&gt;) take on a special meaning</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230301T111857Z" creationid="sirine" creationdate="20230301T111857Z">
+        <seg>Les lettres de l'alphabet précédées d'une barre oblique inverse (&lt;l0&gt;\&lt;/l0&gt;) prennent une signification particulière</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Lev Abashkin</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20170210T104116Z" creationid="Didier" creationdate="20170210T104116Z">
@@ -49565,6 +49573,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130507T130719Z">
         <seg>Simplifier le formatage du texte original du fichier source avant le début de la traduction contribue grandement à réduire le nombre de balises.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Simply put, the search just looks for the word “&lt;e1&gt;example&lt;/e1&gt;”.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230301T111806Z" creationid="sirine" creationdate="20230301T111806Z">
+        <seg>En termes simples, la recherche cherche simplement le mot "&lt;e1&gt;exemple&lt;/e1&gt;".</seg>
       </tuv>
     </tu>
     <tu>
