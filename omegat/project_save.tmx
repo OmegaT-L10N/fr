@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -17247,6 +17247,14 @@ kolekti -b C:\[...]\trunk\doc_src2 publish [-j JOB] -l fr,en C:\[...]\trunk\doc_
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Common preferences</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230301T103238Z" creationid="Anand" creationdate="20230301T103137Z">
+        <seg>Préférences communes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Comparison Mode:</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z" creationid="Didier" creationdate="20160427T155816Z">
@@ -19579,10 +19587,18 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Deleting that file also resets the filter preferences and reverts the project to global file filters.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230301T103140Z" creationid="Anand" creationdate="20230301T103014Z">
+        <seg>La suppression de ce fichier réinitialise aussi les préférences de filtre et ramène le projet aux filtres de fichiers globaux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Deleting that file also resets the filter preferences.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230301T101953Z" creationid="Anand" creationdate="20230301T101953Z">
-        <seg>Supprimer ce fichier réinitialisera aussi les préférences de filtre.</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230301T103028Z" creationid="Anand" creationdate="20230301T101953Z">
+        <seg>La suppression de ce fichier réinitialise aussi les préférences de filtre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47882,8 +47898,8 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       <tuv lang="en">
         <seg>See the &lt;l1/&gt; chapter for details.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230301T102833Z" creationid="Anand" creationdate="20230301T102820Z">
-        <seg>Voir le chapitre &lt;l1/&gt; pour plus de détails..</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230301T102912Z" creationid="Anand" creationdate="20230301T102820Z">
+        <seg>Voir le chapitre &lt;l1/&gt; pour plus de détails.</seg>
       </tuv>
     </tu>
     <tu>
