@@ -20053,6 +20053,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Disable a filter by unchecking its box if you prefer not to translate the files that are associated to it.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230301T094015Z" creationid="Anand" creationdate="20230301T094015Z">
+        <seg>Désactivez un filtre en décochant sa case si vous préférez ne pas traduire les fichiers qui lui sont associés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Disable rule “{0}”</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160929T152452Z" creationid="Didier" creationdate="20160929T152452Z">
@@ -23707,8 +23715,8 @@ dommage...</seg>
       <tuv lang="en">
         <seg>File filters are either local and specific to a given project, or global and available to all the projects that share a configuration folder.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230301T092236Z" creationid="Anand" creationdate="20230301T092236Z">
-        <seg>File filters are either local and specific to a given project, or global and available to all the projects that share a configuration folder.</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230301T092710Z" creationid="Anand" creationdate="20230301T092236Z">
+        <seg>Les filtres de fichiers sont soit locaux et spécifiques à un projet donné, soit globaux et disponibles pour tous les projets qui partagent un dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23931,8 +23939,8 @@ dommage...</seg>
       <tuv lang="en">
         <seg>Filters in bold are used in the current project.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230301T092617Z" creationid="Anand" creationdate="20230301T092617Z">
-        <seg>Filters in bold are used in the current project.</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230301T092725Z" creationid="Anand" creationdate="20230301T092617Z">
+        <seg>Les filtres en gras sont utilisés dans le projet actuel.</seg>
       </tuv>
     </tu>
     <tu>
