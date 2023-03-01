@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -20622,6 +20622,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Do not use the file name to identify alternate translations</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230301T110217Z" creationid="Anand" creationdate="20230301T110217Z">
+        <seg>N'utilisez pas le nom de fichier pour identifier des traductions alternatives</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Do you have a Java implementation compatible with Oracle's Java 1.5 JRE?</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130527T144933Z">
@@ -28600,6 +28608,14 @@ authors' reputations.</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130418T224846Z">
         <seg>Si le logiciel est modifié par quelqu'un d'autre puis transmis à des tiers, nous voulons que les destinataires soient mis au courant que ce qu'ils ont reçu n'est pas le logiciel d'origine, de sorte que tout problème introduit par d'autres ne puisse entacher la réputation de l'auteur originel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the source documents contain whitespace used to control the layout, the whitespace that must be will retained in the translated document.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230301T110056Z" creationid="Anand" creationdate="20230301T110056Z">
+        <seg>Si les fichiers sources utilisent des espaces pour contrôler la mise en page, les espaces qui doivent être conservés le seront dans le document traduit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56637,6 +56653,14 @@ making modifications to it.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021852Z">
         <seg>Le code pour la langue source n'est pas valide !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The source file name is one of the elements that characterize an alternative translation.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230301T110307Z" creationid="Anand" creationdate="20230301T110307Z">
+        <seg>Le nom de fichier source est un des éléments qui caractérisent une traduction alternative.</seg>
       </tuv>
     </tu>
     <tu>
