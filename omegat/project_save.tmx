@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -28846,6 +28846,14 @@ Public License instead of this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If this option is checked, only the previous/next segments or a segment identifier will be used to characterize an alternative translation.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230301T110734Z" creationid="Anand" creationdate="20230301T110313Z">
+        <seg>Si cette option est cochée, seuls les segments précédents/suivants ou un identifiant de segment seront utilisés afin de caractériser une traduction alternative.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If this option is checked, the glossary will only display one entry, even if the same word exists in several forms (e.g. with and without capital letters) in the glossary.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20200119T021839Z" creationid="suzume" creationdate="20200119T021724Z">
@@ -48268,6 +48276,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20141101T134301Z" creationid="Didier" creationdate="20141101T134301Z">
         <seg>Texte des segments avec notes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Segments with the same characteristics located in other files will be translated the same way.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230301T111051Z" creationid="Anand" creationdate="20230301T111051Z">
+        <seg>Les segments avec les mêmes caractéristiques et situés dans d'autres fichiers seront traduits de la même manière.</seg>
       </tuv>
     </tu>
     <tu>
