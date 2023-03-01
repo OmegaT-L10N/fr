@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10873,6 +10873,14 @@ this License.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
         <seg>Un conseil : traduire une version texte brut d'un texte et ajouter ultérieurement les styles nécessaires dans l'application appropriée peut s'avérer moins compliqué.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A language pattern that matches the source language of the project will apply to that project.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230301T105830Z" creationid="sirine" creationdate="20230301T105830Z">
+        <seg>Un masque de langue qui correspond à la langue source du projet s'appliquera à ce projet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44852,6 +44860,14 @@ ces mots : « pas de page »...</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Regular expressions are used to find text, including characters that are not visible on the screen or when printed out, such as spaces, tabs, or line breaks.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230301T110050Z" creationid="sirine" creationdate="20230301T110050Z">
+        <seg>Les expressions régulières sont utilisées pour rechercher du texte, y compris des caractères qui ne sont pas visibles à l'écran ou à l'impression, comme les espaces, les tabulations ou les sauts de ligne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Regular expressions generally use a combination of letters, digits, and symbols (collectively known as &lt;e0&gt;characters&lt;/e0&gt;) to define an &lt;e1&gt;expression&lt;/e1&gt; that represents a specific text pattern.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221016T093503Z" creationid="suzume" creationdate="20221016T093503Z">
@@ -48140,6 +48156,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
         <seg>Méthode de segmentation : {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Segmentation or exception rules define the position in a segment where a split will, or will not, be made.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230301T105048Z" creationid="sirine" creationdate="20230301T105048Z">
+        <seg>Les règles de segmentation ou d'exception définissent la position dans un segment dans lequel un fractionnement sera effectué ou non.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52760,6 +52784,14 @@ form of a work.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20141202T212608Z" creationid="Didier" creationdate="20141202T212608Z">
         <seg>Les 3 autres options sont décrites dans la page spécifique concernant &lt;l0&gt;TaaS&lt;/l0&gt; (Terminology as a Service).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The 4 rules</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230301T105847Z" creationid="sirine" creationdate="20230301T105847Z">
+        <seg>Les 4 règles</seg>
       </tuv>
     </tu>
     <tu>
@@ -61907,6 +61939,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20190222T085256Z" creationid="Didier" creationdate="20190222T085256Z">
         <seg>Twitter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Two regular expressions are required to define that position: a “before” expression to define the text pattern ahead of where the rule should apply, and an “after” expression to define the text pattern following that position.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230301T105217Z" creationid="sirine" creationdate="20230301T105217Z">
+        <seg>Deux expressions régulières sont nécessaires pour définir cette position : une expression "avant" pour définir le masque de texte situé avant l'endroit où la règle doit s'appliquer, et une expression "après" pour définir le modèle de texte situé après cette position.</seg>
       </tuv>
     </tu>
     <tu>
