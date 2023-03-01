@@ -16627,6 +16627,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Click on the relevant header to sort them in ascending or descending order.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230301T100727Z" creationid="Anand" creationdate="20230301T100557Z">
+        <seg>Cliquez sur l'en-tête approprié afin de les trier par ordre croissant ou décroissant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Click the &lt;g0&gt;Edit&lt;/g0&gt; tab on the Wikipedia page.</seg>
       </tuv>
       <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210506T111409Z">
@@ -60370,6 +60378,14 @@ as a Source Forge user.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To modify the file extensions, target file name and encodings associated to a filter, select it in the list and click the &lt;g0&gt;Edit...&lt;/g0&gt; button.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230301T101051Z" creationid="Anand" creationdate="20230301T100701Z">
+        <seg>Afin de modifier les extensions de fichiers, le nom du fichier cible et les encodages liés a un filtre, sélectionnez-le dans la liste et cliquez sur le bouton &lt;g0&gt;Modifier...&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To modify the options select the filter from the list and click on &lt;e0&gt;Options&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130527T134239Z">
@@ -71620,6 +71636,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T103645Z">
         <seg>if (project.getTranslationInfo(currSegment))</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>if checked, OmegaT changes the XLIFF target state to “needs-review-translation” instead of “translated”.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230301T100607Z" creationid="Anand" creationdate="20230301T100607Z">
+        <seg>if checked, OmegaT changes the XLIFF target state to “needs-review-translation” instead of “translated”.</seg>
       </tuv>
     </tu>
     <tu>
