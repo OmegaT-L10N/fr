@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -19251,6 +19251,22 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Custom tags</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230301T100314Z" creationid="sirine" creationdate="20230301T100314Z">
+        <seg>Balises personnalisées</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Custom tags are tags defined with regular expressions that are handled exactly like native OmegaT tags.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230301T100413Z" creationid="sirine" creationdate="20230301T100413Z">
+        <seg>Les balises personnalisées sont des balises définies avec des expressions régulières qui sont traitées exactement comme les balises natives d'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Customer ID (corresponds to &lt;c0&gt;&lt;c1&gt;microsoft.api.client_id&lt;/c1&gt;&lt;/c0&gt; command-line parameter)</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20150313T151712Z" creationid="Didier" creationdate="20150313T151712Z">
@@ -24038,6 +24054,14 @@ patents.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130507T084024Z">
         <seg>Les réparations sont des opérations simples et OmegaT facilite le dépannage en affichant les messages d'erreur correspondants.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Flagged text</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230301T101026Z" creationid="sirine" creationdate="20230301T101026Z">
+        <seg>Texte signalé</seg>
       </tuv>
     </tu>
     <tu>
@@ -52282,6 +52306,14 @@ Les remplacements portent sur les segments cible du projet, qu'ils soient déjà
       </tuv>
       <tuv lang="fr">
         <seg>Règles pour fichiers textes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Text highlighting in alignments</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230301T101239Z" creationid="sirine" creationdate="20230301T101239Z">
+        <seg>Mise en évidence du texte dans les alignements</seg>
       </tuv>
     </tu>
     <tu>
