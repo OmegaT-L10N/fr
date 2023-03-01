@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -47848,6 +47848,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l0/&gt; appendix for details.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230301T103036Z" creationid="sirine" creationdate="20230301T103036Z">
+        <seg>Voir l'annexe &lt;l0/&gt; pour en savoir plus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;l0/&gt; preference for details.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221220T113710Z" creationid="suzume" creationdate="20221220T113710Z">
@@ -66996,6 +67004,14 @@ installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="fr" changeid="brigitte" changedate="20130714T100043Z">
         <seg>Il est possible de modifier les &lt;e0&gt;Propriétés&lt;/e0&gt; ainsi que la partie &lt;e1&gt;VMOptions&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can modify them freely to improve the segmentation of a document or add additional general rules.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230301T102856Z" creationid="sirine" creationdate="20230301T102856Z">
+        <seg>Vous pouvez les modifier librement pour améliorer la segmentation d'un document ou ajouter des règles générales supplémentaires.</seg>
       </tuv>
     </tu>
     <tu>
