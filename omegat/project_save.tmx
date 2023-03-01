@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -24743,6 +24743,14 @@ know their rights.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, the pattern &lt;l0&gt;.xhtml&lt;/l0&gt; registered in the XHTML filter matches any file with the &lt;f1&gt;xhtml&lt;/f1&gt; extension.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230301T112855Z" creationid="Anand" creationdate="20230301T112855Z">
+        <seg>Par exemple, le motif &lt;l0&gt;.xhtml&lt;/l0&gt; enregistré dans le filtre XHTML correspond à tout fichier d'extension  &lt;f1&gt;xhtml&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, the pattern &lt;l1&gt;*.xhtml &lt;/l1&gt;matches any file with the &lt;l2&gt;.xhtml&lt;/l2&gt; extension.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20211117T074312Z" creationid="suzume" creationdate="20211117T074312Z">
@@ -28368,6 +28376,14 @@ tous les paramètres reprendront leur valeur par défaut,
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130527T125052Z">
         <seg>Si le correcteur orthographique est activé, les fautes d'orthographe et les fautes de frappe sont reconnues et peuvent être corrigées pendant la traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If such a file is found in the &lt;l2/&gt; folder, the file will be handled by the XHTML filter.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230301T113020Z" creationid="Anand" creationdate="20230301T113020Z">
+        <seg>Si un tel fichier est trouvé dans le dossier &lt;l2/&gt;, il sera traité par le filtre XHTML.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66939,6 +66955,14 @@ your programs, too.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130429T090839Z">
         <seg>Vous pouvez changer ou ajouter des masques de nom de fichier pour que les fichiers soient traités par type de fichier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can change or add filename patterns to associate different files to a filter.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230301T113051Z" creationid="Anand" creationdate="20230301T113051Z">
+        <seg>You can change or add filename patterns to associate different files to a filter.</seg>
       </tuv>
     </tu>
     <tu>
