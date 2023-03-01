@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -16645,8 +16645,8 @@ software--to make sure the software is free for all its users.</seg>
       <tuv lang="en">
         <seg>Click the &lt;g0&gt;Restore Defaults&lt;/g0&gt; button to reset the file filters to their default settings.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230301T101533Z" creationid="Anand" creationdate="20230301T101533Z">
-        <seg>Cliquez sur le bouton &lt;g0&gt;Rétablir par défaut&lt;/g0&gt; afin de réinitialiser les filtres de fichier à leurs paramètres initiaux.</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230301T101759Z" creationid="Anand" creationdate="20230301T101533Z">
+        <seg>Cliquez sur le bouton &lt;g0&gt;Rétablir par défaut&lt;/g0&gt; afin de réinitialiser les filtres de fichiers à leurs paramètres initiaux.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19575,6 +19575,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210131T123047Z" creationid="suzume" creationdate="20210131T123047Z">
         <seg>Effacer des fichiers source</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Deleting that file also resets the filter preferences.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230301T101953Z" creationid="Anand" creationdate="20230301T101953Z">
+        <seg>Supprimer ce fichier réinitialisera aussi les préférences de filtre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36528,6 +36536,14 @@ impose that choice.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z" creationid="Didier" creationdate="20140706T175127Z">
         <seg>Segments modifiés :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Modified global file filter preferences are saved in &lt;l0/&gt;, in the configuration folder.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230301T101840Z" creationid="Anand" creationdate="20230301T101753Z">
+        <seg>Les modifications des préférences globales de filtres de fichier sont enregistrées dans &lt;l0/&gt;, dans le dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60436,7 +60452,7 @@ as a Source Forge user.</seg>
       <tuv lang="en">
         <seg>To modify the file extensions, target file name and encodings associated to a filter, select it in the list and click the &lt;g0&gt;Edit...&lt;/g0&gt; button.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230301T101051Z" creationid="Anand" creationdate="20230301T100701Z">
+      <tuv lang="fr" changeid="Anand" changedate="20230301T101804Z" creationid="Anand" creationdate="20230301T100701Z">
         <seg>Afin de modifier les extensions de fichiers, le nom du fichier cible et les encodages liés a un filtre, sélectionnez-le dans la liste et cliquez sur le bouton &lt;g0&gt;Modifier...&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
