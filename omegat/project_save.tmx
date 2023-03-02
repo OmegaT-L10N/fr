@@ -41292,6 +41292,14 @@ install virtualenv</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>One example is &lt;l1&gt;.&lt;/l1&gt;: on its own, it has the special meaning of matching &lt;e2&gt;any single character&lt;/e2&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230302T200206Z" creationid="sirine" creationdate="20230302T200206Z">
+        <seg>Par exemple, &lt;l1&gt;.&lt;/l1&gt; : lorsqu’il est utilisé seul, il a une signification spéciale qui permet de correspondre à tout caractère unique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>One member of the team, the project administrator, needs to be acquainted with handling the server side, i.e. the job of setting up the environment, importing the OmegaT project, assigning the access rights for the team members, resolving the conflicts, etc.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130528T131459Z">
