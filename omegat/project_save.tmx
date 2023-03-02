@@ -19359,6 +19359,9 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
     </tu>
     <tu>
+      <note>à l'aide ? par ?
+
+le "qui" peut se référer à "expressions régulières", clarifier la structure.</note>
       <tuv lang="en">
         <seg>Custom tags are tags defined with regular expressions that are handled exactly like native OmegaT tags.</seg>
       </tuv>
@@ -56589,6 +56592,7 @@ protocols for communication across the network.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Peut-être mettre "dialog" = "boîte de dialogue" dans le glossaire ?</note>
       <tuv lang="en">
         <seg>The same option in the &lt;l0/&gt; dialog allows you to apply regular expressions to both the search and replaced text.</seg>
       </tuv>
