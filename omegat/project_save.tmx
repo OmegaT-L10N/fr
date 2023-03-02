@@ -67187,15 +67187,6 @@ your programs, too.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Tout est en anglais.</note>
-      <tuv lang="en">
-        <seg>You can change or add filename patterns to associate different files to a filter.</seg>
-      </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230301T113051Z" creationid="Anand" creationdate="20230301T113051Z">
-        <seg>You can change or add filename patterns to associate different files to a filter.</seg>
-      </tuv>
-    </tu>
-    <tu>
       <tuv lang="en">
         <seg>You can change the already assigned shortcuts and add new shortcuts by putting a shortcut definition file in your &lt;a0&gt;OmegaT&lt;/a0&gt; preferences folder (accessible by &lt;m1&gt; &lt;g2&gt;Options&lt;/g2&gt; &lt;g3&gt;Access Configuration Folder&lt;/g3&gt; &lt;/m1&gt; menu).</seg>
       </tuv>
@@ -72308,15 +72299,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T103645Z">
         <seg>if (project.getTranslationInfo(currSegment))</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <note>Tout est en anglais.</note>
-      <tuv lang="en">
-        <seg>if checked, OmegaT changes the XLIFF target state to “needs-review-translation” instead of “translated”.</seg>
-      </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230301T100607Z" creationid="Anand" creationdate="20230301T100607Z">
-        <seg>if checked, OmegaT changes the XLIFF target state to “needs-review-translation” instead of “translated”.</seg>
       </tuv>
     </tu>
     <tu>
