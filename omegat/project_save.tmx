@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -51728,6 +51728,14 @@ address new problems or concerns.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Syntax</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230302T173851Z" creationid="Léo Delaune" creationdate="20230302T173851Z">
+        <seg>Syntaxe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>System requirements</seg>
       </tuv>
       <tuv lang="fr">
@@ -54106,6 +54114,14 @@ shown below.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The basic syntax of the shortcut definitions files is simply:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230302T173926Z" creationid="Léo Delaune" creationdate="20230302T173926Z">
+        <seg>La syntaxe de base des fichiers de définition des raccourcis est simple :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The beginning of a line</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20220919T050447Z">
@@ -55677,6 +55693,14 @@ freedom to share and change it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The macOS files must be renamed &lt;l0/&gt; and &lt;l1/&gt; for OmegaT to recognize them.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230302T173812Z" creationid="Léo Delaune" creationdate="20230302T173812Z">
+        <seg>Les fichiers macOS doivent être renommés &lt;l0/&gt; et &lt;l1/&gt; pour qu'OmegaT les reconnaisse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The machine translation pane, when opened, contains the suggestions by machine translation tools for the current segment.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130507T123232Z">
@@ -55945,6 +55969,14 @@ freedom to share and change it.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130528T083125Z">
         <seg>Le caractère passage à la ligne (ajout de ligne) (« \u000A »)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The next section describes the syntax used in the shortcut definition files, and provides an example modification.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230302T173847Z" creationid="Léo Delaune" creationdate="20230302T173847Z">
+        <seg>La section suivante décrit la syntaxe utilisée dans les fichiers de définition des raccourcis, et fournit un exemple de modification.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66096,6 +66128,14 @@ la page...</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Windows and Linux default shortcuts</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230302T173132Z" creationid="Léo Delaune" creationdate="20230302T173132Z">
+        <seg>Raccourcis par défaut de Windows et Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Windows and Linux users: if you are confident that your system already has a 
 suitable version of the JRE installed, you can install the version of OmegaT 
 without the JRE (this is indicated in the name of the version,"Without_JRE").</seg>
@@ -67339,6 +67379,14 @@ your programs, too.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130506T080627Z">
         <seg>Vous pouvez vérifier cela vous-même en sélectionnant l'élément &lt;e0&gt;Fichiers et filtres...&lt;/e0&gt; dans le menu &lt;e1&gt;Options&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can copy the default OmegaT shortcut files from the OmegaT development site on Sourceforge to &lt;l0&gt;your configuration folder&lt;/l0&gt; and modify them to suit your needs:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230302T173105Z" creationid="Léo Delaune" creationdate="20230302T173105Z">
+        <seg>Vous pouvez copier les fichiers de raccourcis OmegaT par défaut du site de développement d'OmegaT sur Sourceforge vers &lt;l0&gt; votre dossier de configuration &lt;/l0&gt; et les modifier selon vos besoins :</seg>
       </tuv>
     </tu>
     <tu>
@@ -73632,6 +73680,14 @@ Ok. </note>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210507T112439Z" creationid="suzume" creationdate="20210110T122929Z">
         <seg>Utilisateurs macOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>macOS default shortcuts</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230302T173158Z" creationid="Léo Delaune" creationdate="20230302T173158Z">
+        <seg>Raccourcis par défaut de macOS.</seg>
       </tuv>
     </tu>
     <tu>
