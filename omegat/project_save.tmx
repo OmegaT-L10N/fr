@@ -53317,6 +53317,14 @@ form of a work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;c0&gt;Microsoft Office Open XML (legacy filter)&lt;/c0&gt; is the original OmegaT filter.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230302T181946Z" creationid="Anand" creationdate="20230302T181946Z">
+        <seg>Le &lt;c0&gt;Microsoft Office Open XML (filtre obsolète)&lt;/c0&gt; est le filtre OmegaT originel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;e0&gt;"-Duser.language=XX"&lt;/e0&gt; argument causes &lt;a1&gt;OmegaT&lt;/a1&gt; to use the language specified rather than the language of the user's operating system.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130527T150909Z">
@@ -68586,6 +68594,14 @@ necessary.</seg>
       </tuv>
       <tuv lang="fr" changeid="jchelary" changedate="20130526T141728Z">
         <seg>Vous devriez avoir reçu une copie de la GNU General Public License avec ce programme ;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You should only use it to avoid compatibility issues with previous projects containing files you handled with that filter.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230302T182210Z" creationid="Anand" creationdate="20230302T182210Z">
+        <seg>Ne l'utilisez que pour éviter les problèmes de compatibilité avec les projets précédents contenant les fichiers que vous avez traités avec ce filtre.</seg>
       </tuv>
     </tu>
     <tu>
