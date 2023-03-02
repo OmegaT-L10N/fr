@@ -41433,6 +41433,14 @@ redontant URL
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Only the letters &lt;e0&gt;i j l m o&lt;/e0&gt;, and &lt;e1&gt;y&lt;/e1&gt;, in both lower- and uppercase, have no special meaning when preceded by a backslash.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230302T193323Z" creationid="sirine" creationdate="20230302T193323Z">
+        <seg>Seules les lettres &lt;e0&gt;i j l m o&lt;/e0&gt;, et &lt;e1&gt;y&lt;/e1&gt;, en minuscules et en majuscules, n'ont pas de signification particulière lorsqu'elles sont précédées d'une barre oblique inversée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Only when you are sure you are the first to have found some
 reproducible sequence of event that triggered something not supposed to
 happen should you file a bug report.</seg>
