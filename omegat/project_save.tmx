@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -55650,8 +55650,8 @@ Manque une balise</note>
       <tuv lang="en">
         <seg>The majority of characters in a regular expression simply &lt;e0&gt;look for themselves&lt;/e0&gt; in the text sequence.</seg>
       </tuv>
-      <tuv lang="fr" changeid="sirine" changedate="20230301T111453Z" creationid="sirine" creationdate="20230301T111453Z">
-        <seg>La majorité des caractères d'une expression régulière se cherchent simplement&lt;/e0&gt; dans la suite du texte.</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230302T094734Z" creationid="sirine" creationdate="20230301T111453Z">
+        <seg>La majorité des caractères d'une expression régulière &lt;e0&gt;se cherchent&lt;/e0&gt; simplement dans la suite du texte.</seg>
       </tuv>
     </tu>
     <tu>
