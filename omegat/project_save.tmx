@@ -16722,6 +16722,7 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Erreur: le texte de l'UI n'est pas le bon.</note>
       <tuv lang="en">
         <seg>Click the &lt;g0&gt;Restore Defaults&lt;/g0&gt; button to reset the file filters to their default settings.</seg>
       </tuv>
@@ -19674,6 +19675,7 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
     </tu>
     <tu>
+      <note>le also n'est pas vraiment nécessaire puisque c'est le seul effet.</note>
       <tuv lang="en">
         <seg>Deleting that file also resets the filter preferences.</seg>
       </tuv>
@@ -36795,6 +36797,8 @@ impose that choice.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>espace avant la virgule ?
+virgule nécessaire en français ?</note>
       <tuv lang="en">
         <seg>Modified local file filters are saved in the &lt;l0/&gt; file, located in the project folder.</seg>
       </tuv>
