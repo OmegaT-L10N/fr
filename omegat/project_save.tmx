@@ -41294,8 +41294,8 @@ install virtualenv</seg>
       <tuv lang="en">
         <seg>One example is &lt;l1&gt;.&lt;/l1&gt;: on its own, it has the special meaning of matching &lt;e2&gt;any single character&lt;/e2&gt;.</seg>
       </tuv>
-      <tuv lang="fr" changeid="sirine" changedate="20230302T200206Z" creationid="sirine" creationdate="20230302T200206Z">
-        <seg>Par exemple, &lt;l1&gt;.&lt;/l1&gt; : lorsqu’il est utilisé seul, il a une signification spéciale qui permet de correspondre à tout caractère unique.</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230302T200410Z" creationid="sirine" creationdate="20230302T200206Z">
+        <seg>Par exemple, &lt;l1&gt;.&lt;/l1&gt; : lorsqu’il est utilisé seul, il a une signification particulière qui permet de correspondre à&lt;e2&gt;tout caractère unique&lt;/e2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61047,6 +61047,14 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221220T114705Z" creationid="suzume" creationdate="20221220T114705Z">
         <seg>Pour les activer, cliquez sur &lt;l0/&gt; dans les préférences &lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To find a normal period, that meaning has to be cancelled using the &lt;l0&gt;\&lt;/l0&gt;, to make the expression &lt;l1&gt;\.&lt;/l1&gt;, which just matches a period.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230302T200627Z" creationid="sirine" creationdate="20230302T200627Z">
+        <seg>Pour trouver un point normal, il faut annuler ce sens en utilisant le &lt;l0&gt;\&lt;/l0&gt;, pour faire l'expression &lt;l1&gt;\.&lt;/l1&gt;, qui correspond juste à un point.</seg>
       </tuv>
     </tu>
     <tu>
