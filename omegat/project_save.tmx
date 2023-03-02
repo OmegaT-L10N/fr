@@ -60914,6 +60914,11 @@ as a Source Forge user.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Je mettrais un pluriel générique à "fichier cible".
+
+Il faudra discuter d'une méthode pour valider avec certitude les éléments d'UI présents dans le manuel.
+
+Ici, il s'agit du bouton "Modifier..."</note>
       <tuv lang="en">
         <seg>To modify the file extensions, target file name and encodings associated to a filter, select it in the list and click the &lt;g0&gt;Edit...&lt;/g0&gt; button.</seg>
       </tuv>
@@ -67624,6 +67629,7 @@ installation script (linux-install.sh).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Faute de mode. On préfère l'indicatif.</note>
       <tuv lang="en">
         <seg>You can sort the filters by name or by whether they are enabled.</seg>
       </tuv>
