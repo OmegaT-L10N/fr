@@ -380,6 +380,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>${extension}</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230302T175939Z" creationid="Anand" creationdate="20230302T175939Z">
+        <seg>$(extension)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>${fileNameOnly}</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T105230Z">
@@ -472,6 +480,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T105225Z">
         <seg>${sourceText}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${targetLocale}</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230302T180033Z" creationid="Anand" creationdate="20230302T180033Z">
+        <seg>$(targetLocale)</seg>
       </tuv>
     </tu>
     <tu>
@@ -75143,6 +75159,14 @@ Ok. </note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>original file extension</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230302T180025Z" creationid="Anand" creationdate="20230302T180016Z">
+        <seg>extension du fichier original</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>orion-ssh2-214 (Orion SSH for Java license)</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130404T142520Z">
@@ -76315,6 +76339,14 @@ Ok. </note>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T103646Z">
         <seg>target = project.getTranslationInfo(currSegment).translation;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>target language+region code (xx_YY)</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230302T180409Z" creationid="Anand" creationdate="20230302T180409Z">
+        <seg>langue cible+code de région (xx_YY)</seg>
       </tuv>
     </tu>
     <tu>
