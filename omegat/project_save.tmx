@@ -13754,6 +13754,14 @@ provoquer des comportements inattendus, mais corrects.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As stated above, the &lt;l0&gt;\&lt;/l0&gt; character has the default special meaning of either cancelling or activating the special meaning of other characters.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230302T201114Z" creationid="sirine" creationdate="20230302T201114Z">
+        <seg>Comme indiqué ci-dessus, le caractère &lt;l0&gt;\&lt;/l0&gt; a par défaut un sens particulier. Il peut annuler ou activer la signification spéciale des autres caractères.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As the existing content will not be touched, damage to an existing file would be limited.</seg>
       </tuv>
       <tuv lang="fr" changeid="brigitte" changedate="20130712T152309Z">
@@ -53537,6 +53545,14 @@ form of a work.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20211117T131333Z" creationid="suzume" creationdate="20211117T131333Z">
         <seg>L'argument &lt;l0&gt;-Duser.language=&lt;p1&gt;XX&lt;/p1&gt;&lt;/l0&gt; oblige OmegaT à utiliser la langue spécifiée plutôt que la langue du système d'exploitation de l'utilisateur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;l0&gt;\&lt;/l0&gt; character is a very special character</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230302T200649Z" creationid="sirine" creationdate="20230302T200649Z">
+        <seg>Le caractère &lt;l0&gt;\&lt;/l0&gt; est un caractère très particulier</seg>
       </tuv>
     </tu>
     <tu>
