@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_90bacbc35" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -16729,12 +16729,11 @@ Le glossaire n'a pas été utilisé.</note>
       </tuv>
     </tu>
     <tu>
-      <note>Erreur: le texte de l'UI n'est pas le bon.</note>
       <tuv lang="en">
         <seg>Click the &lt;g0&gt;Restore Defaults&lt;/g0&gt; button to reset the file filters to their default settings.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230301T101759Z" creationid="Anand" creationdate="20230301T101533Z">
-        <seg>Cliquez sur le bouton &lt;g0&gt;Rétablir par défaut&lt;/g0&gt; afin de réinitialiser les filtres de fichiers à leurs paramètres initiaux.</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230302T082234Z" creationid="Anand" creationdate="20230301T101533Z">
+        <seg>Cliquez sur le bouton &lt;g0&gt;Restaurer les valeurs par défaut&lt;/g0&gt; afin de réinitialiser les filtres de fichiers à leurs paramètres initiaux.</seg>
       </tuv>
     </tu>
     <tu>
