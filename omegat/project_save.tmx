@@ -10916,7 +10916,6 @@ this License.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Formulation bancale en anglais, et ça se sent plus en français.</note>
       <tuv lang="en">
         <seg>A language pattern that matches the source language of the project will apply to that project.</seg>
       </tuv>
@@ -11005,12 +11004,11 @@ this License.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>A number of = Certains ?</note>
       <tuv lang="en">
         <seg>A number of characters or combinations of characters have a special meaning in a regular expression.</seg>
       </tuv>
-      <tuv lang="fr" changeid="sirine" changedate="20230302T093824Z" creationid="sirine" creationdate="20230301T110520Z">
-        <seg>Certains caractères ou combinaisons de caractères ont une signification particulière dans une expression régulière.</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230301T110520Z" creationid="sirine" creationdate="20230301T110520Z">
+        <seg>Un certain nombre de caractères ou de combinaisons de caractères ont une signification particulière dans une expression régulière.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13335,7 +13333,6 @@ void, and will automatically terminate your rights under this License.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>sequence of texte = suite de texte ?</note>
       <tuv lang="en">
         <seg>Any given expression either &lt;e0&gt;matches&lt;/e0&gt;, or &lt;e1&gt;does &lt;e2&gt;not&lt;/e2&gt; match&lt;/e1&gt; a word, phrase, or other sequence of text.</seg>
       </tuv>
@@ -14665,7 +14662,6 @@ documentation.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>glossaire !</note>
       <tuv lang="en">
         <seg>Both dialogs allow you to customize the filename patterns for the source and target files associated to this the filter, and select their respective encoding.</seg>
       </tuv>
@@ -15109,14 +15105,11 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Là aussi, removes veut dire "dissimule", il faut faire remonter ça au groupe de developpement.
-
-Le glossaire n'a pas été utilisé.</note>
       <tuv lang="en">
         <seg>By default, OmegaT removes any leading and trailing whitespace from the translatable contents.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230302T085939Z" creationid="Anand" creationdate="20230301T105006Z">
-        <seg>Par défaut, OmegaT supprime toute espace en début et fin de segment du contenu traduisible.</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230301T105151Z" creationid="Anand" creationdate="20230301T105006Z">
+        <seg>Par défaut, OmegaT supprime tout espace en début et fin de segment du contenu traduisible.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16732,8 +16725,8 @@ Le glossaire n'a pas été utilisé.</note>
       <tuv lang="en">
         <seg>Click the &lt;g0&gt;Restore Defaults&lt;/g0&gt; button to reset the file filters to their default settings.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230302T082234Z" creationid="Anand" creationdate="20230301T101533Z">
-        <seg>Cliquez sur le bouton &lt;g0&gt;Restaurer les valeurs par défaut&lt;/g0&gt; afin de réinitialiser les filtres de fichiers à leurs paramètres initiaux.</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230301T101759Z" creationid="Anand" creationdate="20230301T101533Z">
+        <seg>Cliquez sur le bouton &lt;g0&gt;Rétablir par défaut&lt;/g0&gt; afin de réinitialiser les filtres de fichiers à leurs paramètres initiaux.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19361,11 +19354,6 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
     </tu>
     <tu>
-      <note>à l'aide ? par ?
-
-le "qui" peut se référer à "expressions régulières", clarifier la structure.
-
-"native" n'est peut-être pas le meilleur choix</note>
       <tuv lang="en">
         <seg>Custom tags are tags defined with regular expressions that are handled exactly like native OmegaT tags.</seg>
       </tuv>
@@ -19678,7 +19666,6 @@ le "qui" peut se référer à "expressions régulières", clarifier la structure
       </tuv>
     </tu>
     <tu>
-      <note>formulation un peu maladroite : "ramène" ?.</note>
       <tuv lang="en">
         <seg>Deleting that file also resets the filter preferences and reverts the project to global file filters.</seg>
       </tuv>
@@ -19687,7 +19674,6 @@ le "qui" peut se référer à "expressions régulières", clarifier la structure
       </tuv>
     </tu>
     <tu>
-      <note>le also n'est pas vraiment nécessaire puisque c'est le seul effet.</note>
       <tuv lang="en">
         <seg>Deleting that file also resets the filter preferences.</seg>
       </tuv>
@@ -21070,8 +21056,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="en">
         <seg>Double-click the editable fields to make simple modifications or click on the &lt;g0&gt;Edit...&lt;/g0&gt; button to access the modification dialog.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230302T090004Z" creationid="Anand" creationdate="20230301T111248Z">
-        <seg>Double-cliquez sur les champs modifiables afin d'effectuer des modifications simples ou cliquez sur le bouton &lt;g0&gt;Modifier...&lt;/g0&gt; afin d'accéder à la boîte de dialogue de modification.</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230301T111602Z" creationid="Anand" creationdate="20230301T111248Z">
+        <seg>Double-cliquez sur les champs modifiables afin d'effectuer des  modifications simples ou cliquez sur le bouton &lt;g0&gt;Modifier...&lt;/g0&gt; afin d'accéder à la boîte de dialogue de modification.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21631,12 +21617,11 @@ MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>relevant = a une importance ou quelque chose de similaire</note>
       <tuv lang="en">
         <seg>Each and every character in the expression is relevant when determining a match.</seg>
       </tuv>
-      <tuv lang="fr" changeid="sirine" changedate="20230302T093711Z" creationid="sirine" creationdate="20230301T110235Z">
-        <seg>Chaque caractère de l'expression à son importance pour déterminer une correspondance.</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230301T110235Z" creationid="sirine" creationdate="20230301T110235Z">
+        <seg>Chaque caractère de l'expression est pertinent pour déterminer une correspondance.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24797,7 +24782,6 @@ know their rights.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>La TM indique très clairement que "masque" est utilisé et la traduction ne tient pas compte du reste de l'existant.</note>
       <tuv lang="en">
         <seg>For example, the pattern &lt;l0&gt;.xhtml&lt;/l0&gt; registered in the XHTML filter matches any file with the &lt;f1&gt;xhtml&lt;/f1&gt; extension.</seg>
       </tuv>
@@ -26871,16 +26855,14 @@ a disparu...</seg>
       </tuv>
     </tu>
     <tu>
-      <note>On a préféré "dissimuler" plutôt que "masquer". Mais il y a des modifications qui n'ont pas encore été effectuées.</note>
       <tuv lang="en">
         <seg>Hide leading and trailing tags</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230302T083920Z" creationid="Anand" creationdate="20230301T103326Z">
-        <seg>Dissimuler les balises de début et de fin.</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230301T103326Z" creationid="Anand" creationdate="20230301T103326Z">
+        <seg>Masquer les balises de début et de fin.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>maladroit</note>
       <tuv lang="en">
         <seg>Hiding them from the translatable contents ensures that you will not erase or modify them by mistake.</seg>
       </tuv>
@@ -28445,7 +28427,6 @@ tous les paramètres reprendront leur valeur par défaut,
       </tuv>
     </tu>
     <tu>
-      <note>Pas sûr qu'avoir une balise en anglais soit nécessaire. Il faut voir dans le document finalisé.</note>
       <tuv lang="en">
         <seg>If such a file is found in the &lt;l2/&gt; folder, the file will be handled by the XHTML filter.</seg>
       </tuv>
@@ -29675,13 +29656,11 @@ OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>conjugaison
-aussi -&gt; bien ?</note>
       <tuv lang="en">
         <seg>If you keep the leading and trailing tags, make sure you also include them in the translated text.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230302T085329Z" creationid="Anand" creationdate="20230301T103933Z">
-        <seg>Si vous gardez les balises de début et de fin, veillez à aussi les inclure dans le texte traduit.</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230301T103933Z" creationid="Anand" creationdate="20230301T103933Z">
+        <seg>Si vous garder les balises de début et de fin, veillez à aussi les inclure dans le texte traduit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34345,7 +34324,6 @@ Exécutez OmegaT de la façon suivante.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>"demandées" ?</note>
       <tuv lang="en">
         <seg>Leading and trailing tags are generally required by OmegaT to properly recreate the translated segment.</seg>
       </tuv>
@@ -34589,8 +34567,8 @@ Exécutez OmegaT de la façon suivante.</seg>
       <tuv lang="en">
         <seg>License</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230302T095959Z" creationid="sirine" creationdate="20230301T074145Z">
-        <seg>Licence</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230301T074145Z" creationid="sirine" creationdate="20230301T074145Z">
+        <seg>[correspondance]&amp;Licence</seg>
       </tuv>
     </tu>
     <tu>
@@ -36817,13 +36795,11 @@ impose that choice.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>espace avant la virgule ?
-virgule nécessaire en français ?</note>
       <tuv lang="en">
         <seg>Modified local file filters are saved in the &lt;l0/&gt; file, located in the project folder.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230302T082812Z" creationid="Anand" creationdate="20230301T102009Z">
-        <seg>Les modifications des filtres de fichiers locaux sont enregistrées dans le fichier &lt;l0/&gt;, situé dans le dossier du projet.</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230301T102859Z" creationid="Anand" creationdate="20230301T102009Z">
+        <seg>Les modifications des filtres de fichiers locaux sont enregistrées dans le fichier &lt;l0/&gt; , situé dans le dossier du projet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40310,9 +40286,6 @@ installed on your system.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Pas certain que OmegaT soit nécessaire en anglais. Plutôt "projet searches". 
-
-Pour la balise, il faut voir le document finalisé. Je pense que l'article défini est mieux (peut-être corriger en anglais).</note>
       <tuv lang="en">
         <seg>OmegaT searches include a &lt;l0/&gt; option that allows you to make extremely powerful searches across your files.</seg>
       </tuv>
@@ -40565,7 +40538,9 @@ with exactly the same structure, including copies of any non-supported files.</s
       </tuv>
     </tu>
     <tu>
-      <note>terminate = à changer</note>
+      <note>terminate = à changer
+
+directory -&gt; folder</note>
       <tuv lang="en">
         <seg>OmegaT will now terminate.</seg>
       </tuv>
@@ -48208,14 +48183,11 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
     </tu>
     <tu>
-      <note>La MT donne clairement une autre possibilité. Et le glossaire aussi.
-
-Corriger la correspondance 5.</note>
       <tuv lang="en">
         <seg>See the &lt;l1/&gt; chapter for details.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230302T083221Z" creationid="Anand" creationdate="20230301T102820Z">
-        <seg>Voir le chapitre &lt;l1/&gt; pour en savoir plus.</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230301T102912Z" creationid="Anand" creationdate="20230301T102820Z">
+        <seg>Voir le chapitre &lt;l1/&gt; pour plus de détails.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48411,7 +48383,6 @@ Corriger la correspondance 5.</note>
       </tuv>
     </tu>
     <tu>
-      <note>La MT propose également "séparer", mais pourquoi pas. Il faut penser à unifier si c'est possible.</note>
       <tuv lang="en">
         <seg>Segmentation or exception rules define the position in a segment where a split will, or will not, be made.</seg>
       </tuv>
@@ -48428,7 +48399,6 @@ Corriger la correspondance 5.</note>
       </tuv>
     </tu>
     <tu>
-      <note>avec ?</note>
       <tuv lang="en">
         <seg>Segmentation rules and language patterns are defined with regular expressions.</seg>
       </tuv>
@@ -49750,7 +49720,6 @@ Corriger la correspondance 5.</note>
       </tuv>
     </tu>
     <tu>
-      <note>"En termes simples" ? redondance avec "simplement"</note>
       <tuv lang="en">
         <seg>Simply put, the search just looks for the word “&lt;e1&gt;example&lt;/e1&gt;”.</seg>
       </tuv>
@@ -50068,7 +50037,6 @@ of the GPL, as needed to protect the freedom of users.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>"Approfondir la personalisation" -&gt; formulation intéressante, c'est vrai que l'anglais est moyen. Mais on doit trouver un truc en français qui colle mieux.</note>
       <tuv lang="en">
         <seg>Some filters provide a &lt;g0&gt;Options...&lt;/g0&gt; button to further customize their settings.</seg>
       </tuv>
@@ -55644,13 +55612,11 @@ freedom to share and change it.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Le texte colle trop à l'anglais.
-Manque une balise</note>
       <tuv lang="en">
         <seg>The majority of characters in a regular expression simply &lt;e0&gt;look for themselves&lt;/e0&gt; in the text sequence.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230302T094734Z" creationid="sirine" creationdate="20230301T111453Z">
-        <seg>La majorité des caractères d'une expression régulière &lt;e0&gt;se cherchent&lt;/e0&gt; simplement dans la suite du texte.</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230301T111453Z" creationid="sirine" creationdate="20230301T111453Z">
+        <seg>La majorité des caractères d'une expression régulière se cherchent simplement&lt;/e0&gt; dans la suite du texte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56601,7 +56567,6 @@ protocols for communication across the network.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Peut-être mettre "dialog" = "boîte de dialogue" dans le glossaire ?</note>
       <tuv lang="en">
         <seg>The same option in the &lt;l0/&gt; dialog allows you to apply regular expressions to both the search and replaced text.</seg>
       </tuv>
@@ -57695,7 +57660,6 @@ the [Help] menu after starting OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>On peut aussi écrire "ne seront pas affichés dans l'Éditeur" qui me parait plus clair.</note>
       <tuv lang="en">
         <seg>Their contents will not be displayed for translation.</seg>
       </tuv>
@@ -57864,12 +57828,11 @@ the [Help] menu after starting OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>"garder en tête" : expression un peu familière</note>
       <tuv lang="en">
         <seg>There are four rules to keep in mind.</seg>
       </tuv>
-      <tuv lang="fr" changeid="sirine" changedate="20230302T094237Z" creationid="sirine" creationdate="20230301T111259Z">
-        <seg>Il faut se souvenir de 4 règles.</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230301T111259Z" creationid="sirine" creationdate="20230301T111259Z">
+        <seg>Il y a quatre règles à garder en tête.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58326,7 +58289,6 @@ pas de page...</seg>
       </tuv>
     </tu>
     <tu>
-      <note>décoration c'est bien aussi, mais pourquoi pas ?</note>
       <tuv lang="en">
         <seg>They cannot match decorations such as &lt;e0&gt;bold&lt;/e0&gt;, &lt;e1&gt;italics&lt;/e1&gt;, or other &lt;e2&gt;stylistic effects&lt;/e2&gt;.</seg>
       </tuv>
@@ -60179,7 +60141,6 @@ public, and in some countries other activities as well.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>"filter patterrn" : la TM n'utilise pas ça</note>
       <tuv lang="en">
         <seg>To add a filter pattern, click on &lt;g0&gt;Add...&lt;/g0&gt; to open a similar dialog.</seg>
       </tuv>
@@ -60276,18 +60237,11 @@ public, and in some countries other activities as well.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Une recherche en expression régulière sur les segments traduits qui contiennent "^To " donne :
-- Pour +infinitif
-- Afin de + infinitif
-
-On pourrait unifier ça.
-
-Extension est féminin</note>
       <tuv lang="en">
         <seg>To associate a filter to a file, OmegaT checks its file extension and attempts to match it to a source filename patterns in a filter.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230302T090453Z" creationid="Anand" creationdate="20230301T112651Z">
-        <seg>Afin d'associer un filtre à un fichier, OmegaT vérifie son extension et essaie de la faire correspondre à un modèle de nom de fichier source dans un filtre.</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230301T112651Z" creationid="Anand" creationdate="20230301T112651Z">
+        <seg>Afin d'associer un filtre à un fichier, OmegaT vérifie son extension et essaie de le faire correspondre à un modèle de nom de fichier source dans un filtre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60959,11 +60913,6 @@ as a Source Forge user.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Je mettrais un pluriel générique à "fichier cible".
-
-Il faudra discuter d'une méthode pour valider avec certitude les éléments d'UI présents dans le manuel.
-
-Ici, il s'agit du bouton "Modifier..."</note>
       <tuv lang="en">
         <seg>To modify the file extensions, target file name and encodings associated to a filter, select it in the list and click the &lt;g0&gt;Edit...&lt;/g0&gt; button.</seg>
       </tuv>
@@ -62329,7 +62278,6 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>masque et modèle ?</note>
       <tuv lang="en">
         <seg>Two regular expressions are required to define that position: a “before” expression to define the text pattern ahead of where the rule should apply, and an “after” expression to define the text pattern following that position.</seg>
       </tuv>
@@ -63756,30 +63704,6 @@ la configuration actuelle est de {0} Mo ;</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20161227T164145Z" creationid="Didier" creationdate="20161227T164145Z">
         <seg>Utiliser les termes apparaissant séparément dans le texte source</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>Use the &lt;c0&gt;|&lt;/c0&gt; (OR) character to separate individual expressions.</seg>
-      </tuv>
-      <tuv lang="fr" changeid="sirine" changedate="20230301T174917Z" creationid="sirine" creationdate="20230301T174917Z">
-        <seg>Utilisez le caractère &lt;c0&gt;|&lt;/c0&gt; (OU) pour séparer les expressions individuelles. </seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>Use the &lt;c0&gt;|&lt;/c0&gt; (OR) character to separate individual fragment definitions.</seg>
-      </tuv>
-      <tuv lang="fr" changeid="sirine" changedate="20230301T174705Z" creationid="sirine" creationdate="20230301T174705Z">
-        <seg>Utilisez le caractère &lt;c0&gt;|&lt;/c0&gt;(OU) pour séparer les définitions de fragments individuels. </seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>Use the &lt;c0&gt;|&lt;/c0&gt; (OR) character to separate individual tag definitions.</seg>
-      </tuv>
-      <tuv lang="fr" changeid="sirine" changedate="20230301T174536Z" creationid="sirine" creationdate="20230301T174536Z">
-        <seg>Utilisez le caractère &lt;c0&gt;|&lt;/c0&gt; (OU) pour séparer les définitions de balises individuelles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67187,6 +67111,14 @@ your programs, too.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can change or add filename patterns to associate different files to a filter.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230301T113051Z" creationid="Anand" creationdate="20230301T113051Z">
+        <seg>You can change or add filename patterns to associate different files to a filter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can change the already assigned shortcuts and add new shortcuts by putting a shortcut definition file in your &lt;a0&gt;OmegaT&lt;/a0&gt; preferences folder (accessible by &lt;m1&gt; &lt;g2&gt;Options&lt;/g2&gt; &lt;g3&gt;Access Configuration Folder&lt;/g3&gt; &lt;/m1&gt; menu).</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20191002T114357Z" creationid="briac" creationdate="20191002T114357Z">
@@ -67547,7 +67479,6 @@ installation script (linux-install.sh).</seg>
       </tuv>
     </tu>
     <tu>
-      <note>pas certain que "general" soit idéal en anglais</note>
       <tuv lang="en">
         <seg>You can modify them freely to improve the segmentation of a document or add additional general rules.</seg>
       </tuv>
@@ -67668,7 +67599,6 @@ installation script (linux-install.sh).</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Faute de mode. On préfère l'indicatif.</note>
       <tuv lang="en">
         <seg>You can sort the filters by name or by whether they are enabled.</seg>
       </tuv>
@@ -72298,6 +72228,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T103645Z">
         <seg>if (project.getTranslationInfo(currSegment))</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>if checked, OmegaT changes the XLIFF target state to “needs-review-translation” instead of “translated”.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230301T100607Z" creationid="Anand" creationdate="20230301T100607Z">
+        <seg>if checked, OmegaT changes the XLIFF target state to “needs-review-translation” instead of “translated”.</seg>
       </tuv>
     </tu>
     <tu>
