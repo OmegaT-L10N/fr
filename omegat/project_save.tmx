@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13772,8 +13772,8 @@ provoquer des comportements inattendus, mais corrects.</seg>
       <tuv lang="en">
         <seg>Associating a file extension to a filter is not sufficient to have the filter properly handle the file.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230302T170547Z" creationid="Anand" creationdate="20230302T170018Z">
-        <seg>Ajouter une extension de fichier à un filtre n'est pas suffisant pour que ce dernier puisse traiter le fichier.</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230302T171116Z" creationid="Anand" creationdate="20230302T170018Z">
+        <seg>Associer une extension de fichier à un filtre n'est pas suffisant pour que ce dernier puisse traiter le fichier.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15190,6 +15190,14 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210110T094841Z" creationid="suzume" creationdate="20210110T094841Z">
         <seg>Par défaut, les premières propositions affichées dans le volet &lt;g0&gt;Correspondances&lt;/g0&gt; sont déterminées en utilisant la lématisation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By default, the encoding of the translated file is the same as that of the source file.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230302T172304Z" creationid="Anand" creationdate="20230302T172304Z">
+        <seg>Par défaut, l'encodage du fichier traduit est le même que celui du fichier source.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24801,8 +24809,8 @@ know their rights.</seg>
       <tuv lang="en">
         <seg>For example, the pattern &lt;l0&gt;.xhtml&lt;/l0&gt; registered in the XHTML filter matches any file with the &lt;f1&gt;xhtml&lt;/f1&gt; extension.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230301T112855Z" creationid="Anand" creationdate="20230301T112855Z">
-        <seg>Par exemple, le motif &lt;l0&gt;.xhtml&lt;/l0&gt; enregistré dans le filtre XHTML correspond à tout fichier d'extension  &lt;f1&gt;xhtml&lt;/f1&gt;.</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230302T171050Z" creationid="Anand" creationdate="20230301T112855Z">
+        <seg>Par exemple, le motif &lt;l0&gt;.xhtml&lt;/l0&gt; enregistré dans le filtre XHTML correspond à tout fichier d'extension &lt;f1&gt;xhtml&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24835,6 +24843,14 @@ know their rights.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130528T131933Z">
         <seg>Par exemple, ceci est le caractère d'antislash</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, use the pattern &lt;l0&gt;read*&lt;/l0&gt; if you want to have the text filter handle readme files (&lt;l1&gt;readme, read.me&lt;/l1&gt;, or &lt;l2&gt;readme.txt&lt;/l2&gt;).</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230302T172046Z" creationid="Anand" creationdate="20230302T172046Z">
+        <seg>Par exemple, utilisez le masque &lt;l0&gt;read*&lt;/l0&gt; si vous souhaitez que le filtre texte traite les fichiers lisez-moi (&lt;l1&gt;readme, read.me&lt;/l1&gt;, ou &lt;l2&gt;readme.txt&lt;/l2&gt;). </seg>
       </tuv>
     </tu>
     <tu>
@@ -36960,6 +36976,14 @@ impose that choice.</seg>
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230301T111415Z" creationid="sirine" creationdate="20230301T111415Z">
         <seg>La plupart des caractères correspondent simplement à eux-mêmes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Most file formats allow various possible encodings.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230302T172234Z" creationid="Anand" creationdate="20230302T172234Z">
+        <seg>La plupart des formats de fichiers permettent plusieurs encodages.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50430,6 +50454,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source and translated file encoding</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230302T172108Z" creationid="Anand" creationdate="20230302T172057Z">
+        <seg>Encodage des fichiers source et traduits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source code</seg>
       </tuv>
       <tuv lang="fr" changeid="briglegrand" changedate="20110129T104207Z">
@@ -50482,6 +50514,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20230115T130146Z" creationid="briac" creationdate="20230115T130146Z">
         <seg>Masque de nom de fichier source</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source filename patterns use wild card characters : The &lt;l0&gt;*&lt;/l0&gt; character matches zero or more characters, while the &lt;l1&gt;?&lt;/l1&gt; character matches exactly one character.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230302T171713Z" creationid="Anand" creationdate="20230302T171713Z">
+        <seg>Les masques de nom de fichier source utilisent des caractères génériques : le caractère &lt;l0&gt;*&lt;/l0&gt; correspond à zéro ou plus de caractères, alors que le caractère &lt;l1&gt;?&lt;/l1&gt; correspond à exactement un caractère.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54840,8 +54880,8 @@ instead.</seg>
       <tuv lang="en">
         <seg>The file structure must also be compatible with the filter: even if you associate &lt;l0&gt;.odt&lt;/l0&gt; to the XHMTL filter, the filter will not be able to understand the contents of a LibreOffice Writer file.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230302T171032Z" creationid="Anand" creationdate="20230302T170537Z">
-        <seg>La structure du fichier doit être compatible avec le filtre : même si vous ajoutez &lt;l0&gt;.odt&lt;/l0&gt; au filtre XHTML, le filtre ne sera pas capable </seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230302T171213Z" creationid="Anand" creationdate="20230302T170537Z">
+        <seg>La structure du fichier doit être compatible avec le filtre : même si vous associez &lt;l0&gt;.odt&lt;/l0&gt; au filtre XHTML, le filtre ne sera pas capable de comprendre le contenu d'un fichier LibreOffice Writer. </seg>
       </tuv>
     </tu>
     <tu>
