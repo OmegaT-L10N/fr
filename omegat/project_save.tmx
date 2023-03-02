@@ -11250,6 +11250,14 @@ or that patent license was granted, prior to 28 March 2007.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A value of 0 sets no limits.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230302T181659Z" creationid="Anand" creationdate="20230302T181659Z">
+        <seg>Une valeur de 0 n'établit aucune limite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A vast range of functions, an uncluttered interface, and, most importantly, constant, regular open-source development!</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20170413T064709Z" creationid="briac" creationdate="20170413T064616Z">
@@ -34704,6 +34712,14 @@ Exécutez OmegaT de la façon suivante.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Line length</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230302T181454Z" creationid="Anand" creationdate="20230302T181445Z">
+        <seg>Longueur de ligne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Line length in target files (0 = no limit)</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20230115T130403Z" creationid="briac" creationdate="20230115T130403Z">
@@ -36449,6 +36465,14 @@ impose that choice.</seg>
       </tuv>
       <tuv lang="fr">
         <seg>Agrandir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Maximum line length</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230302T181704Z" creationid="Anand" creationdate="20230302T181704Z">
+        <seg>Longueur de ligne maximale</seg>
       </tuv>
     </tu>
     <tu>
@@ -76179,6 +76203,22 @@ Ok. </note>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T100225Z">
         <seg>spa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>specifies the maximum number of characters before breaking a long line.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230302T181609Z" creationid="Anand" creationdate="20230302T181609Z">
+        <seg>spécifie le nombre de caractères maximum avant de rompre une longue ligne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>specifies the maximum number of characters before cutting a line and ignoring the rest.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230302T181814Z" creationid="Anand" creationdate="20230302T181814Z">
+        <seg>spécifie le nombre de caractères maximum avant de couper une ligne et d'ignorer le reste.</seg>
       </tuv>
     </tu>
     <tu>
