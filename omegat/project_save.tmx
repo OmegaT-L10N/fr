@@ -404,6 +404,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>${filename}</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230302T174829Z" creationid="Anand" creationdate="20230302T174829Z">
+        <seg>&amp;Nom du fichier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>${fuzzyFlag}</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T105237Z">
@@ -32914,6 +32922,14 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It represents the complete filename of the source file, including the extension.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230302T174926Z" creationid="Anand" creationdate="20230302T174926Z">
+        <seg>Il représente le nom du fichier complet du fichier source, incluant l'extension.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It should be noted that when &lt;a0&gt;OmegaT&lt;/a0&gt; is in RTL mode, both source and target are displayed in RTL mode.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130527T141547Z">
@@ -54567,6 +54583,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The default pattern.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230302T174843Z" creationid="Anand" creationdate="20230302T174843Z">
+        <seg>Le masque par défaut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The default writable glossary is located in the the &lt;f0&gt;/glossary&lt;/f0&gt; project folder and is called &lt;f1&gt;glossary.txt&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210503T232230Z" creationid="suzume" creationdate="20210323T161614Z">
@@ -54643,6 +54667,14 @@ instead.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130429T090543Z">
         <seg>La boite de dialogue est utile car elle contient un éditeur de masque de noms de fichiers cible spécial qui vous permet de personnaliser le nom des fichiers de sortie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The dialog offers various options:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230302T174804Z" creationid="Anand" creationdate="20230302T174804Z">
+        <seg>La boîte de dialogue propose plusieurs options :</seg>
       </tuv>
     </tu>
     <tu>
@@ -64646,6 +64678,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20201203T062357Z" creationid="suzume" creationdate="20201203T062357Z">
         <seg>En utilisant cette option, le traducteur peut spécifier si les fichiers cibles doivent inclure la déclaration d'encodage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using this pattern assigns the translated file the exact same name as the source file.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230302T175718Z" creationid="Anand" creationdate="20230302T175718Z">
+        <seg>Utiliser ce masque attribue au fichier traduit le même nom que le fichier source.</seg>
       </tuv>
     </tu>
     <tu>
