@@ -15105,6 +15105,9 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Là aussi, removes veut dire "dissimule", il faut faire remonter ça au groupe de developpement.
+
+Le glossaire n'a pas été utilisé.</note>
       <tuv lang="en">
         <seg>By default, OmegaT removes any leading and trailing whitespace from the translatable contents.</seg>
       </tuv>
@@ -26858,6 +26861,7 @@ a disparu...</seg>
       </tuv>
     </tu>
     <tu>
+      <note>On a préféré "dissimuler" plutôt que "masquer". Mais il y a des modifications qui n'ont pas encore été effectuées.</note>
       <tuv lang="en">
         <seg>Hide leading and trailing tags</seg>
       </tuv>
@@ -26866,6 +26870,7 @@ a disparu...</seg>
       </tuv>
     </tu>
     <tu>
+      <note>maladroit</note>
       <tuv lang="en">
         <seg>Hiding them from the translatable contents ensures that you will not erase or modify them by mistake.</seg>
       </tuv>
@@ -29659,6 +29664,8 @@ OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>conjugaison
+aussi -&gt; bien ?</note>
       <tuv lang="en">
         <seg>If you keep the leading and trailing tags, make sure you also include them in the translated text.</seg>
       </tuv>
@@ -34327,6 +34334,7 @@ Exécutez OmegaT de la façon suivante.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>"demandées" ?</note>
       <tuv lang="en">
         <seg>Leading and trailing tags are generally required by OmegaT to properly recreate the translated segment.</seg>
       </tuv>
