@@ -32613,6 +32613,14 @@ exécutez simplement le programme d'installation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It has no effect if placed before a character with no special meaning (either by default or by addition).</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230302T201141Z" creationid="sirine" creationdate="20230302T201141Z">
+        <seg>Il n'a aucun effet s'il est placé devant un caractère sans signification particulière (par défaut ou par ajout).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It has usually been in use for some time and is therefore proven.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20180806T090918Z" creationid="Didier" creationdate="20180806T090918Z">
@@ -53545,6 +53553,14 @@ form of a work.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20211117T131333Z" creationid="suzume" creationdate="20211117T131333Z">
         <seg>L'argument &lt;l0&gt;-Duser.language=&lt;p1&gt;XX&lt;/p1&gt;&lt;/l0&gt; oblige OmegaT à utiliser la langue spécifiée plutôt que la langue du système d'exploitation de l'utilisateur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;l0&gt;\&lt;/l0&gt; can cancel its own special meaning by doubling up to form &lt;l1&gt;\\&lt;/l1&gt;, which simply matches the &lt;e2&gt;backslash&lt;/e2&gt; character itself.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230302T201616Z" creationid="sirine" creationdate="20230302T201616Z">
+        <seg>Le &lt;l0&gt;\&lt;/l0&gt; peut annuler sa propre signification spéciale en se doublant pour former &lt;l1&gt;\\&lt;/l1&gt;, qui correspond au caractère de la &lt;e2&gt;barre oblique inversée&lt;/e2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
