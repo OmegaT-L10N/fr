@@ -48409,6 +48409,7 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
     </tu>
     <tu>
+      <note>La MT propose également "séparer", mais pourquoi pas. Il faut penser à unifier si c'est possible.</note>
       <tuv lang="en">
         <seg>Segmentation or exception rules define the position in a segment where a split will, or will not, be made.</seg>
       </tuv>
@@ -62321,6 +62322,7 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>masque et modèle ?</note>
       <tuv lang="en">
         <seg>Two regular expressions are required to define that position: a “before” expression to define the text pattern ahead of where the rule should apply, and an “after” expression to define the text pattern following that position.</seg>
       </tuv>
@@ -67547,6 +67549,7 @@ installation script (linux-install.sh).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>pas certain que "general" soit idéal en anglais</note>
       <tuv lang="en">
         <seg>You can modify them freely to improve the segmentation of a document or add additional general rules.</seg>
       </tuv>
