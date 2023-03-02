@@ -19387,6 +19387,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Customization</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230302T161454Z" creationid="Léo Delaune" creationdate="20230302T161454Z">
+        <seg>Personnalisation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Customize character &amp;table</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20161229T164954Z" creationid="Didier" creationdate="20161229T164931Z">
@@ -31221,6 +31229,14 @@ patent against the party.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In this manual: &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230302T161436Z" creationid="Léo Delaune" creationdate="20230302T161436Z">
+        <seg>Dans ce manuel : &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In this mode OmegaT will create a TMX for the whole project, based on the source files only.</seg>
       </tuv>
       <tuv lang="fr" changeid="brigitte" changedate="20130714T133455Z">
@@ -39464,6 +39480,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT assigns shortcuts to most of the functions available in the &lt;l0/&gt;, &lt;l1/&gt;, and &lt;l2/&gt; menus and to a number of functions in the &lt;l3/&gt; pane.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230302T161624Z" creationid="Léo Delaune" creationdate="20230302T161613Z">
+        <seg>OmegaT attribue des raccourcis à la plupart des fonctions disponibles dans les menus &lt;l0/&gt;, &lt;l1/&gt;, et &lt;l2/&gt; et à un certain nombre de fonctions du volet &lt;l3/&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT automatically chose the 'Yes' option.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221111T092113Z" creationid="suzume" creationdate="20221111T092113Z">
@@ -40148,6 +40172,14 @@ be launched.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT must be restarted after a shortcut definition file has been modified for the new shortcuts to take effect.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230302T171502Z" creationid="Léo Delaune" creationdate="20230302T171502Z">
+        <seg>OmegaT doit être redémarrer après la modification d'un fichier de définition de raccourci pour que les nouveaux raccourcis soient pris en compte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT needs to reload the project to take the modifications into account.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221112T081027Z" creationid="suzume" creationdate="20221112T081027Z">
@@ -40828,6 +40860,14 @@ disponible dans MacPorts sous le nom « py27-pysvn ».</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210507T112439Z" creationid="suzume" creationdate="20210131T123649Z">
         <seg>Sur macOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On macOS: &lt;k0&gt;&lt;k1&gt;Shift&lt;/k1&gt;&lt;k2&gt;Command&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230302T161420Z" creationid="Léo Delaune" creationdate="20230302T161420Z">
+        <seg>Sous macOS: &lt;k0&gt;&lt;k1&gt;Shift&lt;/k1&gt;&lt;k2&gt;Command&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -56832,6 +56872,22 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The shortcut definition file for the editor.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230302T171406Z" creationid="Léo Delaune" creationdate="20230302T171406Z">
+        <seg>Le fichier de définition de raccourci pour l'éditeur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The shortcut definition file for the menus and a few other items.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230302T171331Z" creationid="Léo Delaune" creationdate="20230302T171331Z">
+        <seg>Le fichier de définition des raccourcis pour les menus et quelques autres éléments.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The shortcut definition file must be named &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; and must contain at most one shortcut definition per line.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130412T074724Z">
@@ -57905,6 +57961,14 @@ the [Help] menu after starting OmegaT.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
         <seg>Deux possibilités existent pour exploiter un serveur SVN : installer SVN sur votre propre serveur ou utiliser un service hébergé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There are two shortcut definition files.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230302T171302Z" creationid="Léo Delaune" creationdate="20230302T171302Z">
+        <seg>Il existe deux fichiers de définition des raccourcis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60589,6 +60653,14 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
       </tuv>
       <tuv lang="fr" changeid="jchelary" changedate="20130526T140522Z">
         <seg>Pour ce faire, joignez les mentions suivantes au programme. Il est plus sûr de les joindre au début de chacun des fichiers sources afin d’affirmer de la façon la plus effective possible l’exclusion de garantie ; et chaque fichier devrait comporter au moins la ligne « copyright » et un lien versla mention complète :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To do so, you have to put the appropriate shortcut definition file in your OmegaT configuration folder.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230302T171225Z" creationid="Léo Delaune" creationdate="20230302T171225Z">
+        <seg>Pour ce faire, vous devez placer le fichier de définition du raccourci approprié dans le dossier de configuration d'OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66898,6 +66970,14 @@ you think will help the developers with finding and fixing your bug.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221016T081547Z" creationid="suzume" creationdate="20221016T081547Z">
         <seg>Vous pouvez y avoir accès avec &lt;l0/&gt;, l'ouvrir dans un éditeur de texte et le modifier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also add or modify the shortcuts for most of the functions.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230302T161711Z" creationid="Léo Delaune" creationdate="20230302T161701Z">
+        <seg>Vous pouvez également ajouter ou modifier les raccourcis de la plupart des fonctions.</seg>
       </tuv>
     </tu>
     <tu>
