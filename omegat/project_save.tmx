@@ -24790,6 +24790,7 @@ know their rights.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>La TM indique très clairement que "masque" est utilisé et la traduction ne tient pas compte du reste de l'existant.</note>
       <tuv lang="en">
         <seg>For example, the pattern &lt;l0&gt;.xhtml&lt;/l0&gt; registered in the XHTML filter matches any file with the &lt;f1&gt;xhtml&lt;/f1&gt; extension.</seg>
       </tuv>
@@ -28437,6 +28438,7 @@ tous les paramètres reprendront leur valeur par défaut,
       </tuv>
     </tu>
     <tu>
+      <note>Pas sûr qu'avoir une balise en anglais soit nécessaire. Il faut voir dans le document finalisé.</note>
       <tuv lang="en">
         <seg>If such a file is found in the &lt;l2/&gt; folder, the file will be handled by the XHTML filter.</seg>
       </tuv>
@@ -60256,6 +60258,13 @@ public, and in some countries other activities as well.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Une recherche en expression régulière sur les segments traduits qui contiennent "^To " donne :
+- Pour +infinitif
+- Afin de + infinitif
+
+On pourrait unifier ça.
+
+Extension est féminin</note>
       <tuv lang="en">
         <seg>To associate a filter to a file, OmegaT checks its file extension and attempts to match it to a source filename patterns in a filter.</seg>
       </tuv>
