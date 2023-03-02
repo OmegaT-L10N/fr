@@ -24040,6 +24040,15 @@ dommage...</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Peut-on se passer de la balise?</note>
+      <tuv lang="en">
+        <seg>Files in the &lt;l0/&gt; folder are overwritten every time you create them if they are created with the same name.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230302T173716Z" creationid="Anand" creationdate="20230302T173716Z">
+        <seg>Les fichiers dans le dossier cible sont remplacés à chaque fois que vous les créez, s'ils sont créés avec le même nom.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Files must be deleted by the project manager.</seg>
       </tuv>
@@ -39568,6 +39577,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT can automatically create new file names for the files you create, by adding a language code or a time stamp, for example.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230302T174423Z" creationid="Anand" creationdate="20230302T174423Z">
+        <seg>OmegaT peut automatiquement créer de nouveaux noms pour les fichiers que vous créez, en y ajoutant un code de langue ou une date, par exemple.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT can be customized to support other file formats as well.</seg>
       </tuv>
       <tuv lang="fr">
@@ -40062,6 +40079,14 @@ published by the Free Software Foundation, either version 3 of the License, or
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT is instructed to use a mandatory encoding for certain file formats (Java properties, for example).</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230302T173017Z" creationid="Anand" creationdate="20230302T173017Z">
+        <seg>OmegaT est conçu pour utiliser un encodage obligatoire pour certains formats de fichier (propriétés de Java, etc.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT is not particularly difficult to install or use, but it does require a willingness to read and follow the instructions.</seg>
       </tuv>
       <tuv lang="fr">
@@ -40499,6 +40524,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130429T091850Z">
         <seg>OmegaT utilise l'encodage par défaut du système d'exploitation pour les fichiers texte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT uses the encoding declaration in the source file, if present, to identify the encoding (HTML or XML based files).</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230302T172917Z" creationid="Anand" creationdate="20230302T172917Z">
+        <seg>OmegaT utilise la déclaration d'encodage dans le fichier source, si présent, pour identifier l'encodage (fichiers HTML, les fichiers à base XML).</seg>
       </tuv>
     </tu>
     <tu>
@@ -49017,6 +49050,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Selecting the &lt;g0&gt;&lt;auto&gt;&lt;/g0&gt; option leaves the choice of encoding to OmegaT, based on the following criteria:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230302T172504Z" creationid="Anand" creationdate="20230302T172504Z">
+        <seg>Sélectionner l'option &lt;g0&gt;&lt;auto&gt;&lt;/g0&gt; laisse le choix de l'encodage à OmegaT, selon les critères suivants :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Selection of alternative icons for use with OmegaT.</seg>
       </tuv>
       <tuv lang="fr">
@@ -57051,6 +57092,14 @@ protocols for communication across the network.</seg>
         <seg>The source and target encoding fields use drop-down menus containing all the supported encodings.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20201203T085240Z" creationid="suzume" creationdate="20201203T085240Z">
+        <seg>Les champs d'encodage cible et source utilisent des listes déroulantes incluant tous les encodages supportés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The source and target encoding fields use drop-down menus listing all supported encodings.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230302T172357Z" creationid="Anand" creationdate="20230302T172357Z">
         <seg>Les champs d'encodage cible et source utilisent des listes déroulantes incluant tous les encodages supportés.</seg>
       </tuv>
     </tu>
