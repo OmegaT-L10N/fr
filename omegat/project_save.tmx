@@ -484,6 +484,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>${targetLanguage}</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230302T180434Z" creationid="Anand" creationdate="20230302T180434Z">
+        <seg>$(targetLanguage)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>${targetLocale}</seg>
       </tuv>
       <tuv lang="fr" changeid="Anand" changedate="20230302T180033Z" creationid="Anand" creationdate="20230302T180033Z">
@@ -49430,6 +49438,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210207T052506Z" creationid="suzume" creationdate="20200128T142216Z">
         <seg>Certains filtres (Fichiers textes, XHTML, HTML, XHTML, OpenDocument et Microsoft Open XML) disposent d'une ou plusieurs options spécifiques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Several filters offer options.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230302T180532Z" creationid="Anand" creationdate="20230302T180532Z">
+        <seg>Plusieurs filtres proposent des options. </seg>
       </tuv>
     </tu>
     <tu>
