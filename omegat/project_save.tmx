@@ -406,8 +406,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>${filename}</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230302T174829Z" creationid="Anand" creationdate="20230302T174829Z">
-        <seg>&amp;Nom du fichier</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230302T175850Z" creationid="Anand" creationdate="20230302T174829Z">
+        <seg>&amp;(filename)</seg>
       </tuv>
     </tu>
     <tu>
@@ -440,6 +440,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160718T160815Z" creationid="Didier" creationdate="20160718T160815Z">
         <seg>${initialCreationID}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${nameOnly}</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230302T175905Z" creationid="Anand" creationdate="20230302T175905Z">
+        <seg>$(nameOnly)</seg>
       </tuv>
     </tu>
     <tu>
@@ -74465,6 +74473,14 @@ Ok. </note>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130429T071149Z">
         <seg>najlepših - superlatif, pluriel, génitif pour le masc, fem, neutre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>name of the source file, without the extension</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230302T175926Z" creationid="Anand" creationdate="20230302T175926Z">
+        <seg>le nom du fichier source, sans l'extension</seg>
       </tuv>
     </tu>
     <tu>
