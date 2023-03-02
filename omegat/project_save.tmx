@@ -19361,7 +19361,9 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
     <tu>
       <note>à l'aide ? par ?
 
-le "qui" peut se référer à "expressions régulières", clarifier la structure.</note>
+le "qui" peut se référer à "expressions régulières", clarifier la structure.
+
+"native" n'est peut-être pas le meilleur choix</note>
       <tuv lang="en">
         <seg>Custom tags are tags defined with regular expressions that are handled exactly like native OmegaT tags.</seg>
       </tuv>
@@ -48423,6 +48425,7 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
     </tu>
     <tu>
+      <note>avec ?</note>
       <tuv lang="en">
         <seg>Segmentation rules and language patterns are defined with regular expressions.</seg>
       </tuv>
