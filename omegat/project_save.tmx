@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -63840,6 +63840,14 @@ la configuration actuelle est de {0} Mo ;</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20161227T164145Z" creationid="Didier" creationdate="20161227T164145Z">
         <seg>Utiliser les termes apparaissant séparément dans le texte source</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the &lt;c0&gt;|&lt;/c0&gt; (OR) character to separate individual tag definitions.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230302T172548Z" creationid="sirine" creationdate="20230302T172548Z">
+        <seg>Utilisez le caractère &lt;c0&gt;|&lt;/c0&gt; (OU) pour séparer les définitions de balises individuelles.</seg>
       </tuv>
     </tu>
     <tu>
