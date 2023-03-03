@@ -49290,6 +49290,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sequences such as 0,1, 0-3, or the first three characters of 0x002E, which would be matched if the expression was just &lt;l0&gt;0.[0-9]&lt;/l0&gt;, with no backslash before the period</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230303T090132Z" creationid="sirine" creationdate="20230303T090132Z">
+        <seg>Des séquences telles que 0,1, 0-3, ou les trois premiers caractères de 0x002E, qui seraient trouvées si l'expression était juste &lt;l0&gt;0.[0-9]&lt;/l0&gt;, sans barre oblique inverse avant le point</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Serbian</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130411T091127Z">
