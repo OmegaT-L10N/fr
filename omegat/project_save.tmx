@@ -17631,6 +17631,14 @@ kolekti -b C:\[...]\trunk\doc_src2 publish [-j JOB] -l fr,en C:\[...]\trunk\doc_
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Compress whitespace in translated file</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230303T132219Z" creationid="Anand" creationdate="20230303T132219Z">
+        <seg>Compresser les espaces dans le fichier tradukt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Con&amp;figure</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20161229T165136Z" creationid="Didier" creationdate="20161229T165136Z">
@@ -67059,6 +67067,14 @@ for which you have or can give appropriate copyright permission.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20140604T063930Z" creationid="Didier" creationdate="20140604T063930Z">
         <seg>Caractère d'espacement - après</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Whitespace outside the tags is considered non significant in HTML/XHTML.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230303T132256Z" creationid="Anand" creationdate="20230303T132256Z">
+        <seg>Les espaces en dehors des balises sont considérées comme insignifiantes en HTML/XHTML.</seg>
       </tuv>
     </tu>
     <tu>
