@@ -5342,6 +5342,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;c0&gt;event&lt;/c0&gt; can be: &lt;o1&gt;typed&lt;/o1&gt;, &lt;o2&gt;pressed&lt;/o2&gt;, &lt;o3&gt;released&lt;/o3&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230303T101737Z" creationid="Léo Delaune" creationdate="20230303T101737Z">
+        <seg>&lt;c0&gt;Evènement&lt;/c0&gt; peut être:&lt;o1&gt;typé&lt;/o1&gt;, &lt;o2&gt;pressé&lt;/o2&gt;, &lt;o3&gt;libéré&lt;/o3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;c0&gt;projectOpenMenuItem=shift ctrl O&lt;/c0&gt;.</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T103734Z">
@@ -8129,8 +8137,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="en">
         <seg>&lt;l0&gt;altGraph&lt;/l0&gt; refers to the &lt;e1&gt;Alt&lt;/e1&gt; key to the right of the spacebar on keyboards with two &lt;e2&gt;Alt&lt;/e2&gt; keys.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Léo Delaune" changedate="20230303T091911Z" creationid="Léo Delaune" creationdate="20230303T091911Z">
-        <seg>&lt;l0&gt;altGraph&lt;/l0&gt; fait référence  &lt;e1&gt;Alt&lt;/e1&gt; key to the right of the spacebar on keyboards with two &lt;e2&gt;Alt&lt;/e2&gt; keys.</seg>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230303T092038Z" creationid="Léo Delaune" creationdate="20230303T091911Z">
+        <seg>&lt;l0&gt;altGraph&lt;/l0&gt; fait référence  &lt;e1&gt;Alt&lt;/e1&gt; à la touche à droite de la barre d'espace sur les claviers avec deux touches&lt;e2&gt;Alt&lt;/e2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -70114,6 +70122,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>and &lt;c0&gt;key&lt;/c0&gt; can be any key available on your keyboard.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230303T101806Z" creationid="Léo Delaune" creationdate="20230303T101806Z">
+        <seg>et &lt;c0&gt;la touche&lt;/c0&gt;peut être n'importe quelle touche disponible sur le clavier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>and Java™ Resource Bundle filter already handles {#} tags, so you only need this for other file types.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210110T094813Z" creationid="suzume" creationdate="20210110T094813Z">
@@ -78204,8 +78220,8 @@ Ok. </note>
       <tuv lang="en">
         <seg>where &lt;c0&gt;modifier&lt;/c0&gt; can be: &lt;l1&gt;shift&lt;/l1&gt;, &lt;l2&gt;ctrl&lt;/l2&gt;, &lt;l3&gt;meta&lt;/l3&gt;, &lt;l4&gt;alt&lt;/l4&gt;, or &lt;l5&gt;altGraph&lt;/l5&gt;</seg>
       </tuv>
-      <tuv lang="fr" changeid="Léo Delaune" changedate="20230303T091555Z" creationid="Léo Delaune" creationdate="20230303T091555Z">
-        <seg>où &lt;c0&gt;modifier&lt;/c0&gt; peut être: &lt;l1&gt;shift&lt;/l1&gt;, &lt;l2&gt;ctrl&lt;/l2&gt;, &lt;l3&gt;meta&lt;/l3&gt;, &lt;l4&gt;alt&lt;/l4&gt;, our &lt;l5&gt;altGraph&lt;/l5&gt;</seg>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230303T092003Z" creationid="Léo Delaune" creationdate="20230303T091555Z">
+        <seg>où &lt;c0&gt;modifier&lt;/c0&gt; peut être: &lt;l1&gt;shift&lt;/l1&gt;, &lt;l2&gt;ctrl&lt;/l2&gt;, &lt;l3&gt;meta&lt;/l3&gt;, &lt;l4&gt;alt&lt;/l4&gt;, ou &lt;l5&gt;altGraph&lt;/l5&gt;</seg>
       </tuv>
     </tu>
     <tu>
