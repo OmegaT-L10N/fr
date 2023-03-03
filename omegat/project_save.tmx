@@ -11053,6 +11053,14 @@ this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A number between &lt;e0&gt;0.0&lt;/e0&gt; and &lt;e1&gt;0.9&lt;/e1&gt;, or just the final &lt;e2&gt;0.5&lt;/e2&gt; in numbers such as 10.5 or 560.5.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230303T084436Z" creationid="sirine" creationdate="20230303T084436Z">
+        <seg>Un nombre entre &lt;e0&gt;0,0&lt;/e0&gt; et &lt;e1&gt;0,9&lt;/e1&gt;, ou juste le dernier &lt;e2&gt;0,5&lt;/e2&gt; dans des nombres comme 10,5 ou 560,5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A number of characters or combinations of characters have a special meaning in a regular expression.</seg>
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230302T191903Z" creationid="sirine" creationdate="20230301T110520Z">
@@ -53601,6 +53609,14 @@ form of a work.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20211117T131333Z" creationid="suzume" creationdate="20211117T131333Z">
         <seg>L'argument &lt;l0&gt;-Duser.language=&lt;p1&gt;XX&lt;/p1&gt;&lt;/l0&gt; oblige OmegaT à utiliser la langue spécifiée plutôt que la langue du système d'exploitation de l'utilisateur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;l0&gt;\.&lt;/l0&gt; cancels the “any character” meaning of the period to match the decimal point, while the &lt;l1&gt;\d&lt;/l1&gt; turns the ordinarily lowercase “d” letter into an expression that matches any digit between 0 and 9.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230303T084655Z" creationid="sirine" creationdate="20230303T084655Z">
+        <seg>Le &lt;l0&gt;\.&lt;/l0&gt; annule la signification "tout caractère" du point pour correspondre au point décimal, tandis que le &lt;l1&gt;\d&lt;/l1&gt; transforme la lettre "d" minuscule en une expression qui correspond à tout chiffre entre 0 et 9.</seg>
       </tuv>
     </tu>
     <tu>
