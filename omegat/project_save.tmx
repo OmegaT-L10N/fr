@@ -19771,6 +19771,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Define the &lt;meta&gt; tag attribute values for which the associated "content" attribute will not be translated.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230303T095305Z" creationid="Anand" creationdate="20230303T095305Z">
+        <seg>Définissez les valeurs des attributs de la balise &lt;meta&gt; pour lesquelles l'attribut "content" associé ne sera pas traduit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Define the translation as being empty.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20141202T180151Z" creationid="Didier" creationdate="20141202T180151Z">
