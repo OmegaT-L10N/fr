@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8201,6 +8201,14 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210129T121654Z" creationid="suzume" creationdate="20210129T121654Z">
         <seg>&lt;mapping local="source/subdir" repository=""&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;meta name="robots" content="index, follow"&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230303T100039Z" creationid="Anand" creationdate="20230303T100039Z">
+        <seg>&lt;meta name="robots" content="index, follow"&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -19819,6 +19827,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Define the attribute values that make a tag non-translatable.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230303T101037Z" creationid="Anand" creationdate="20230303T101037Z">
+        <seg>Définissez les valeurs des attributs qui rendent une balise non traduisible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Define the translation as being empty.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20141202T180151Z" creationid="Didier" creationdate="20141202T180151Z">
@@ -20842,6 +20858,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20101223T174931Z">
         <seg>Dmitri Gabinski</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do not add quotation marks and separate the values with a comma.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230303T095426Z" creationid="Anand" creationdate="20230303T095426Z">
+        <seg>N'ajoutez pas de guillemets et séparez les valeurs avec une virgule.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30451,6 +30475,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ignore the content part of &lt;meta name="robots" content="index, follow"&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230303T095949Z" creationid="Anand" creationdate="20230303T095949Z">
+        <seg>Ignorer la partie "content" de &lt;meta name="robots" content="index, follow"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ignore type and ctype attributes when building &lt;&amp;bpt&gt; and &lt;ept&gt; tag shortcuts</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20140421T135849Z" creationid="Didier" creationdate="20140414T092315Z">
@@ -30463,6 +30495,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z" creationid="Didier" creationdate="20160926T143938Z">
         <seg>Ignorer : « {0} »</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ignored tags (attribute=value)</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230303T100740Z" creationid="Anand" creationdate="20230303T100740Z">
+        <seg>Balises ignorées (atrtibute=value)</seg>
       </tuv>
     </tu>
     <tu>
@@ -61547,6 +61587,14 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To ignore this content:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230303T100029Z" creationid="Anand" creationdate="20230303T100029Z">
+        <seg>Pour ignorer ce content :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To install &lt;a0&gt;OmegaT&lt;/a0&gt;, double-click on the program you have downloaded.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130502T091014Z">
@@ -75222,6 +75270,14 @@ Ok. </note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>name=robots</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230303T100059Z" creationid="Anand" creationdate="20230303T100059Z">
+        <seg>name=robots</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>nau</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T100114Z">
@@ -77862,6 +77918,14 @@ Ok. </note>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210111T122144Z" creationid="suzume" creationdate="20210111T122144Z">
         <seg>utiliser &lt;m0&gt; &lt;g1&gt;Projet&lt;/g1&gt; &lt;g2&gt;Envoyer les fichiers source&lt;/g2&gt; &lt;/m0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>use:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230303T100051Z" creationid="Anand" creationdate="20230303T100051Z">
+        <seg>utilisez :</seg>
       </tuv>
     </tu>
     <tu>
