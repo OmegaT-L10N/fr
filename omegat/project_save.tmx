@@ -17503,6 +17503,14 @@ kolekti -b C:\[...]\trunk\doc_src2 publish [-j JOB] -l fr,en C:\[...]\trunk\doc_
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Comments in an HTML file are generally addressed to developers.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230303T132628Z" creationid="Anand" creationdate="20230303T132617Z">
+        <seg>Les commentaires dans un fichier HTML sont généralement destinés aux développeurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Comments pane</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130426T141029Z">
@@ -29356,6 +29364,14 @@ Public License instead of this License.</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20170911T161344Z" creationid="briac" creationdate="20170911T161325Z">
         <seg>Si cette version n'est pas disponible, vous pouvez essayer de &lt;a0&gt;téléchargez la version non signée&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If unchecked, the comments are displayed as tags.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230303T132725Z" creationid="Anand" creationdate="20230303T132725Z">
+        <seg>Si l'option n'est pas cochée, les commentaires seront affichés sous la forme de balises.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53481,6 +53497,14 @@ Les remplacements portent sur les segments cible du projet, qu'ils soient déjà
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Text in HTML comments (between &lt;l0&gt;&lt;!--&lt;/l0&gt; and &lt;l1&gt;--&gt;&lt;/l1&gt;) are not copied into the translated document.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230303T133001Z" creationid="Anand" creationdate="20230303T133001Z">
+        <seg>Les textes en commentaire HTML (entre &lt;l0&gt;&lt;!--&lt;/l0&gt; et &lt;l1&gt;--&gt;&lt;/l1&gt;) ne sont pas copiés dans le document traduit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Text in source segment that matches is shown in italic.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130429T082813Z">
@@ -65068,6 +65092,14 @@ la configuration actuelle est de {0} Mo ;</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130503T113227Z">
         <seg>Utilisez cette fonction lorsque vous avez détaché, déplacé ou caché un ou plusieurs composants et que vous êtes incapables de les restaurer de la façon dont vous le souhaitez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use this option to remove them.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230303T132639Z" creationid="Anand" creationdate="20230303T132639Z">
+        <seg>Utilisez cette option pour les supprimer.</seg>
       </tuv>
     </tu>
     <tu>
