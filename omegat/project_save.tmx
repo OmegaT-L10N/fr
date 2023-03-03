@@ -10853,6 +10853,14 @@ work thus licensed is called the contributor's "contributor version".</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A comment line starts with a &lt;c0&gt;#&lt;/c0&gt;, and everything after that is ignored by the application.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230303T111737Z" creationid="Léo Delaune" creationdate="20230303T111737Z">
+        <seg>Une ligne de commentaire commence par &lt;c0&gt;#&lt;/c0&gt;, et tout ce qui suit est ignoré par l'application.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A compilation of a covered work with other separate and independent
 works, which are not by their nature extensions of the covered work,
 and which are not combined with it such as to form a larger program,
@@ -55467,6 +55475,14 @@ instead.</seg>
       </tuv>
       <tuv lang="fr" changeid="Anand" changedate="20230302T174739Z" creationid="Anand" creationdate="20230302T174739Z">
         <seg>La façon la plus simple de le modifier est d'utiliser la boîte de dialogue &lt;g0&gt;Modifier le Masque&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The easiest way to modify the shortcuts is to download copies of the default files to &lt;l0&gt;your configuration folder&lt;/l0&gt;, as noted above, and make the changes you want there.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230303T111908Z" creationid="Léo Delaune" creationdate="20230303T111908Z">
+        <seg>La façon la plus simple de modifier les raccourcis est de télécharger des copies des fichiers par défaut dans  &lt;l0&gt;votre fichier de configuration&lt;/l0&gt;, comme indiqué ci-dessus, et effectuez les changements que vous souhaitez.</seg>
       </tuv>
     </tu>
     <tu>
