@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -53437,6 +53437,14 @@ form of a work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;c0&gt;shortcut&lt;/c0&gt; represents the key combination pressed by the user.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230303T091439Z" creationid="Léo Delaune" creationdate="20230303T091439Z">
+        <seg>Le &lt;c0&gt;raccourci&lt;/c0&gt;  représente la combinaison clé tapée par l'utilisateur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;e0&gt;"-Duser.language=XX"&lt;/e0&gt; argument causes &lt;a1&gt;OmegaT&lt;/a1&gt; to use the language specified rather than the language of the user's operating system.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130527T150909Z">
@@ -64358,6 +64366,14 @@ la configuration actuelle est de {0} Mo ;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use the tables in the &lt;l0/&gt; section below to find the values for &lt;c1&gt;function code&lt;/c1&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230303T091302Z" creationid="Léo Delaune" creationdate="20230303T091302Z">
+        <seg>Utiliser les tableaux dans la section  ci-dessous&lt;l0/&gt; afin de trouver les valeurs pour  &lt;c1&gt; le code de la fonction&lt;/c1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use the upper part as a reference and replace or modify the contents of the editing field with your translation.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130507T113611Z">
@@ -71574,6 +71590,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T095926Z">
         <seg>ful</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>function code=shortcut</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230303T091158Z" creationid="Léo Delaune" creationdate="20230303T091158Z">
+        <seg>code de fonction = raccourci</seg>
       </tuv>
     </tu>
     <tu>
