@@ -4487,6 +4487,14 @@ Valider les balises.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>0 or more &lt;c0&gt;modifier&lt;/c0&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230303T091457Z" creationid="Léo Delaune" creationdate="20230303T091457Z">
+        <seg>0 ou plus  &lt;c0&gt;modifier&lt;/c0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>0\.[0-9]</seg>
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230303T084202Z" creationid="sirine" creationdate="20230303T084202Z">
@@ -8115,6 +8123,14 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130421T001827Z">
         <seg>&lt;l0&gt;Voir Annexe - Personnalisation des raccourcis&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;meta&lt;/l0&gt; refers to the key with the Windows logo on most keyboards for Windows or Linux systems, and to the &lt;l1&gt;command&lt;/l1&gt; on macOS.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230303T091701Z" creationid="Léo Delaune" creationdate="20230303T091701Z">
+        <seg>&lt;l0&gt;meta&lt;/l0&gt; fait référence à la touche portant le logo Windows sur la plupart des claviers Windows ou Linux, et à la  &lt;l1&gt;commande&lt;/l1&gt; sur macOS.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33062,6 +33078,14 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130507T121303Z">
         <seg>Il montre la traduction des termes présents dans le segment en cours.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It takes the following form:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230303T091449Z" creationid="Léo Delaune" creationdate="20230303T091449Z">
+        <seg>Cela prend la forme suivante :</seg>
       </tuv>
     </tu>
     <tu>
@@ -71522,6 +71546,22 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>followed by 0 or 1 &lt;c0&gt;event&lt;/c0&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230303T091509Z" creationid="Léo Delaune" creationdate="20230303T091509Z">
+        <seg>Suivi par 0 ou 1&lt;c0&gt;évènement&lt;/c0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>followed by 1 &lt;c0&gt;key&lt;/c0&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230303T091536Z" creationid="Léo Delaune" creationdate="20230303T091536Z">
+        <seg>suivi par 1 &lt;c0&gt;clé&lt;/c0&gt; </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>for &amp;All Segments</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20230129T184148Z" creationid="briac" creationdate="20230129T184148Z">
@@ -77710,6 +77750,14 @@ Ok. </note>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130418T231622Z">
         <seg>lorsqu'on l'exécute, vous devez, quand il commence son exécution pour ladite utilisation </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>where &lt;c0&gt;modifier&lt;/c0&gt; can be: &lt;l1&gt;shift&lt;/l1&gt;, &lt;l2&gt;ctrl&lt;/l2&gt;, &lt;l3&gt;meta&lt;/l3&gt;, &lt;l4&gt;alt&lt;/l4&gt;, or &lt;l5&gt;altGraph&lt;/l5&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230303T091555Z" creationid="Léo Delaune" creationdate="20230303T091555Z">
+        <seg>où &lt;c0&gt;modifier&lt;/c0&gt; peut être: &lt;l1&gt;shift&lt;/l1&gt;, &lt;l2&gt;ctrl&lt;/l2&gt;, &lt;l3&gt;meta&lt;/l3&gt;, &lt;l4&gt;alt&lt;/l4&gt;, our &lt;l5&gt;altGraph&lt;/l5&gt;</seg>
       </tuv>
     </tu>
     <tu>
