@@ -75944,6 +75944,22 @@ Ok. </note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>only if the file already has a &lt;head&gt; tag,</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230303T131402Z" creationid="Anand" creationdate="20230303T131402Z">
+        <seg>seulement si le fichier a déjà une balise &lt;head&gt;,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>only if the file already has a declaration,</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230303T131411Z" creationid="Anand" creationdate="20230303T131411Z">
+        <seg>seulement si le fichier a déjà une déclaration,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>only options:</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221110T101254Z" creationid="suzume" creationdate="20221110T101254Z">
@@ -76204,6 +76220,14 @@ Ok. </note>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230303T125244Z" creationid="Léo Delaune" creationdate="20230303T125244Z">
         <seg>ou de la manière suivante pour macOS:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>or never and only save the target file in the encoding specified in the file filter settings.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230303T132158Z" creationid="Anand" creationdate="20230303T132158Z">
+        <seg>ou jamais et n'enregistrez le fichier cible que dans l'encodage spécifié dans les paramètres du filtre de fichier.</seg>
       </tuv>
     </tu>
     <tu>
