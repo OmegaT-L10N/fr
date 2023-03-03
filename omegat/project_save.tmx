@@ -13456,8 +13456,8 @@ void, and will automatically terminate your rights under this License.</seg>
       <tuv lang="en">
         <seg>Any paragraph matching the regular expression is ignored while loading and is not displayed for translation.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230303T094159Z" creationid="Anand" creationdate="20230303T094159Z">
-        <seg>Tout paragraphe correspondant à l'expression régulière choisie sera ignorée lors du chargement et ne sera pas affiché pour la traduction.</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230303T094230Z" creationid="Anand" creationdate="20230303T094159Z">
+        <seg>Tout paragraphe correspondant à l'expression régulière choisie sera ignoré lors du chargement et ne sera pas affiché pour la traduction.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42788,8 +42788,8 @@ mirage, pas de page...</seg>
       <tuv lang="en">
         <seg>Paragraphs ignored when loading (regular expression)</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230303T094030Z" creationid="Anand" creationdate="20230303T094030Z">
-        <seg>Les paragraphes ignorés lord du chargement (expression régulière)</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230303T094203Z" creationid="Anand" creationdate="20230303T094030Z">
+        <seg>Les paragraphes ignorés lors du chargement (expression régulière)</seg>
       </tuv>
     </tu>
     <tu>
@@ -60240,6 +60240,14 @@ this version will not interfere with it.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20141202T180753Z" creationid="Didier" creationdate="20141202T180753Z">
         <seg>Cette option affiche les &lt;u0&gt;caractères de contrôle de bidirectionnalité&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This option is convenient when dealing with HTML parts that only contain non translatable text.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230303T095014Z" creationid="Anand" creationdate="20230303T095014Z">
+        <seg>Cette option est pratique pour traiter les parties HTML qui ne contiennent pas de texte traduisible.</seg>
       </tuv>
     </tu>
     <tu>
