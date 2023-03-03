@@ -55990,6 +55990,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The initial “An” or “The” in phrases such as:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230303T100710Z" creationid="sirine" creationdate="20230303T100710Z">
+        <seg>Le premier mot "An" ou "The" dans des phrases telles que :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The install program can create shortcuts for you in the start menu, on the
 desktop and in the quick launch area.</seg>
       </tuv>
@@ -59482,6 +59490,14 @@ under the terms of this General Public License.</seg>
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230303T084151Z" creationid="sirine" creationdate="20230303T084151Z">
         <seg>Ce caractère annule ou active la signification particulière du caractère suivant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This character functions as an “OR” and matches either of the expressions that precede or follow it.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230303T100607Z" creationid="sirine" creationdate="20230303T100607Z">
+        <seg>Ce caractère fonctionne comme un "OU", permettant de choisir une des expressions qui le précèdent ou le suivent.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69770,6 +69786,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>^An|^The</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230303T100612Z" creationid="sirine" creationdate="20230303T100612Z">
+        <seg>^An|^The</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>^\w+:$</seg>
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230303T095657Z" creationid="sirine" creationdate="20230303T095657Z">
@@ -78654,6 +78678,14 @@ Ok. </note>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20170920T130001Z" creationid="briac" creationdate="20170920T130001Z">
         <seg>В помощь переводчику: 10 советов по OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>“An apple a day…”</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230303T100714Z" creationid="sirine" creationdate="20230303T100714Z">
+        <seg>“An apple a day…”</seg>
       </tuv>
     </tu>
     <tu>
