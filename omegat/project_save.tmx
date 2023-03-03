@@ -10638,6 +10638,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;span translate="no"&gt;This content is not translatable&lt;/span&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230303T101228Z" creationid="Anand" creationdate="20230303T101228Z">
+        <seg>&lt;span translate="no"&gt;This content is not translatable&lt;/span&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t0&gt; &lt;t1&gt;TSV&lt;/t1&gt; &lt;t2&gt; &lt;f3&gt;.txt&lt;/f3&gt; &lt;/t2&gt; &lt;t4&gt;UTF-8&lt;/t4&gt; &lt;/t0&gt; &lt;t5&gt; &lt;t6&gt;TSV&lt;/t6&gt; &lt;t7&gt; &lt;f8&gt;.utf8&lt;/f8&gt; &lt;/t7&gt; &lt;t9&gt;UTF-8&lt;/t9&gt; &lt;/t5&gt; &lt;t10&gt; &lt;t11&gt;TSV&lt;/t11&gt; &lt;t12&gt; &lt;f13&gt;.tab&lt;/f13&gt; &lt;/t12&gt; &lt;t14&gt;OS default encoding&lt;/t14&gt; &lt;/t10&gt; &lt;t15&gt; &lt;t16&gt;TSV&lt;/t16&gt; &lt;t17&gt; &lt;f18&gt;.tsv&lt;/f18&gt; &lt;/t17&gt; &lt;t19&gt;OS default encoding&lt;/t19&gt; &lt;/t15&gt; &lt;t20&gt; &lt;t21&gt;CSV&lt;/t21&gt; &lt;t22&gt; &lt;f23&gt;.csv&lt;/f23&gt; &lt;/t22&gt; &lt;t24&gt;UTF-8&lt;/t24&gt; &lt;/t20&gt; &lt;t25&gt; &lt;t26&gt;TBX&lt;/t26&gt; &lt;t27&gt; &lt;f28&gt;.tbx&lt;/f28&gt; &lt;/t27&gt; &lt;t29&gt;UTF-8&lt;/t29&gt; &lt;/t25&gt;</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221016T091152Z" creationid="suzume" creationdate="20210323T160612Z">
@@ -12604,6 +12612,14 @@ rights of fair use or other equivalent, as provided by copyright law.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130528T131306Z">
         <seg>Toutes les balises pertinentes présentes dans la source - c.-à-d. les balises d'OmegaT ainsi que les balises personnalisées, Java, printf, etc. - seront insérées dans le segment en cours (qu'elles y soient, ou non, déjà présentes).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All the tags that are marked with &lt;c0&gt;translate="no"&lt;/c0&gt; will be ignored.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230303T101318Z" creationid="Anand" creationdate="20230303T101318Z">
+        <seg>Tous les tags marqués avec un &lt;c0&gt; translate="no"&lt;/c0&gt; seront ignorés.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61597,8 +61613,8 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
       <tuv lang="en">
         <seg>To ignore this content:</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230303T100029Z" creationid="Anand" creationdate="20230303T100029Z">
-        <seg>Pour ignorer ce content :</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230303T101214Z" creationid="Anand" creationdate="20230303T100029Z">
+        <seg>Pour ignorer ce contenu :</seg>
       </tuv>
     </tu>
     <tu>
@@ -77934,6 +77950,14 @@ Ok. </note>
       </tuv>
       <tuv lang="fr" changeid="Anand" changedate="20230303T100051Z" creationid="Anand" creationdate="20230303T100051Z">
         <seg>utilisez :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>use: &lt;l0&gt;translate=no&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230303T101237Z" creationid="Anand" creationdate="20230303T101237Z">
+        <seg>utilisez : &lt;l0&gt;translate=no&lt;/l0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
