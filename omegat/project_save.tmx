@@ -17633,8 +17633,8 @@ kolekti -b C:\[...]\trunk\doc_src2 publish [-j JOB] -l fr,en C:\[...]\trunk\doc_
       <tuv lang="en">
         <seg>Compress whitespace in translated file</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230303T132219Z" creationid="Anand" creationdate="20230303T132219Z">
-        <seg>Compresser les espaces dans le fichier tradukt</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230303T132353Z" creationid="Anand" creationdate="20230303T132219Z">
+        <seg>Compresser les espaces dans le fichier traduit</seg>
       </tuv>
     </tu>
     <tu>
@@ -46015,6 +46015,14 @@ ces mots : « pas de page »...</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remove HTML comments</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230303T132552Z" creationid="Anand" creationdate="20230303T132552Z">
+        <seg>Supprimer les commentaires HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remove HTML comments in translated document</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20120914T162208Z">
@@ -60674,6 +60682,14 @@ this version will not interfere with it.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20211117T074536Z" creationid="suzume" creationdate="20211117T074536Z">
         <seg>Cette option vous permet de saisir la traduction sans avoir besoin de supprimer le texte source, ce qui vous évite ainsi de devoir faire deux frappes de touches supplémentaires (&lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;A&lt;/k2&gt;&lt;/k0&gt; et &lt;k3&gt;Suppr&lt;/k3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This option converts such multiple continuous whitespace characters into a single space in the translated document.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230303T132530Z" creationid="Anand" creationdate="20230303T132344Z">
+        <seg>Cette option convertit ces multiples espaces continus en un seul espace dans le document traduit. </seg>
       </tuv>
     </tu>
     <tu>
