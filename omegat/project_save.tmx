@@ -17367,6 +17367,14 @@ kolekti -b C:\[...]\trunk\doc_src2 publish [-j JOB] -l fr,en C:\[...]\trunk\doc_
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Comments and sheet names.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230303T092206Z" creationid="Anand" creationdate="20230303T092206Z">
+        <seg>Commentaires et noms des feuilles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Comments are displayed after a number and each on a separate line.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210323T162256Z" creationid="suzume" creationdate="20210323T162256Z">
@@ -50238,6 +50246,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20101112T182925Z">
         <seg>M&amp;ise en page des diapositives</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Slide comments, slide masters, and slide layouts.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230303T092243Z" creationid="Anand" creationdate="20230303T092243Z">
+        <seg>Commentaires des diapositives, masques des diapositives, et mise en page des diapositives.</seg>
       </tuv>
     </tu>
     <tu>
