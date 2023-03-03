@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12232,6 +12232,14 @@ this License without regard to the additional permissions.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Aggregate tags</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230303T092454Z" creationid="Anand" creationdate="20230303T092454Z">
+        <seg>Agréger les balises </seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>???</note>
       <tuv lang="en">
         <seg>Aggressive &amp;Font Fallback</seg>
@@ -23636,6 +23644,14 @@ dommage...</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20230128T175518Z" creationid="briac" creationdate="20230128T175518Z">
         <seg>Liens e&amp;xternes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>External links, charts, diagrams, drawings, and WordArt.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230303T092314Z" creationid="Anand" creationdate="20230303T092314Z">
+        <seg>Liens externes, graphiques, diagrammes, dessins, et WordArt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52597,6 +52613,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130416T135728Z">
         <seg>Les balises reproduites dans le segment traduit seront présentes dans le document traduit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tags that do not enclose translatable text will be aggregated into a single tag.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230303T092638Z" creationid="Anand" creationdate="20230303T092638Z">
+        <seg>Les balises qui ne contiennent pas de texte traduisible seront agrégées en une seule balise.</seg>
       </tuv>
     </tu>
     <tu>
