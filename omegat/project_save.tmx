@@ -26992,8 +26992,8 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       <tuv lang="en">
         <seg>Having untranslated contents in the translated files sometimes creates compatibility issues.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230303T133237Z" creationid="Anand" creationdate="20230303T133237Z">
-        <seg>La présence de contenus non traduits dans les fichiers traduits peut parfois créer des problèmes de compatibilité.</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230303T133422Z" creationid="Anand" creationdate="20230303T133237Z">
+        <seg>La présence de contenus non traduits dans les fichiers traduits crée parfois des problèmes de compatibilité.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55829,6 +55829,14 @@ instead.</seg>
       </tuv>
       <tuv lang="fr" changeid="briglegrand" changedate="20120622T171810Z">
         <seg>Paquet de fichiers destiné aux contributeurs pour la localisation de ce site.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The filter checks printf variables ('%s', etc.) by default.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230303T133646Z" creationid="Anand" creationdate="20230303T133646Z">
+        <seg>Le filtre vérifie les variables printf ('%s, etc.) par défaut.</seg>
       </tuv>
     </tu>
     <tu>
