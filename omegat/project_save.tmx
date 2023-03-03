@@ -13454,6 +13454,14 @@ void, and will automatically terminate your rights under this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Any paragraph matching the regular expression is ignored while loading and is not displayed for translation.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230303T094159Z" creationid="Anand" creationdate="20230303T094159Z">
+        <seg>Tout paragraphe correspondant à l'expression régulière choisie sera ignorée lors du chargement et ne sera pas affiché pour la traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Any single digit from 0 to 9.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221016T093523Z" creationid="suzume" creationdate="20221016T093523Z">
@@ -42774,6 +42782,14 @@ mirage, pas de page...</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
         <seg>Segmenter le texte source en paragraphes (basés) sur : fin de lignes, lignes vides ou jamais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Paragraphs ignored when loading (regular expression)</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230303T094030Z" creationid="Anand" creationdate="20230303T094030Z">
+        <seg>Les paragraphes ignorés lord du chargement (expression régulière)</seg>
       </tuv>
     </tu>
     <tu>
