@@ -14186,6 +14186,14 @@ provoquer des comportements inattendus, mais corrects.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Auto replace plural specification</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230303T134731Z" creationid="Anand" creationdate="20230303T134731Z">
+        <seg>Remplacement automatique de la spécification du pluriel..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Auto-Completion</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20161227T165055Z" creationid="Didier" creationdate="20161227T165055Z">
@@ -30560,6 +30568,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="fr">
         <seg>Ignorer toujours</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ignore PO header</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230303T134605Z" creationid="Anand" creationdate="20230303T134605Z">
+        <seg>Ignorer l'en-tête des fichiers PO</seg>
       </tuv>
     </tu>
     <tu>
@@ -54602,6 +54618,14 @@ software and other kinds of works.</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20200503T104130Z" creationid="briac" creationdate="20200503T104130Z">
         <seg>L'en-tête des fichiers PO sera ignorée et laissée inchangée, si cette option est activée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The PO header will not be displayed for translation.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230303T134705Z" creationid="Anand" creationdate="20230303T134705Z">
+        <seg>L'en-tête du PO ne sera pas affiché pour la traduction.</seg>
       </tuv>
     </tu>
     <tu>
