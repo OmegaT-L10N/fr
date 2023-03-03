@@ -11972,6 +11972,14 @@ covered by this License; they are outside its scope.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Adding a shortcut</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230303T125257Z" creationid="Léo Delaune" creationdate="20230303T125257Z">
+        <seg>Ajout d'un raccourci </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Adding new source files</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210130T153354Z" creationid="suzume" creationdate="20210130T153354Z">
@@ -27557,6 +27565,14 @@ parties remain in full compliance.</seg>
       </tuv>
       <tuv lang="fr" changeid="briglegrand" changedate="20110131T093714Z">
         <seg>À ce stade de développement, elle peut comporter certains bogues mineurs et sa documentation peut manquer d'exactitude.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, you may want to remove the &lt;k0&gt;S&lt;/k0&gt; key from the shortcut to make it only &lt;k1&gt;&lt;k2&gt;Ctrl&lt;/k2&gt;&lt;k3&gt;W&lt;/k3&gt;&lt;/k1&gt; (or &lt;k4&gt;&lt;k5&gt;Command&lt;/k5&gt;&lt;k6&gt;W&lt;/k6&gt;&lt;/k4&gt; on macOS) to match the shortcut you use in other applications.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230303T113632Z" creationid="Léo Delaune" creationdate="20230303T113632Z">
+        <seg>Cependant, vous voulez peut être supprimer &lt;k0&gt;S&lt;/k0&gt; la touche du raccourci pour qu'il se définisse uniquement par &lt;k1&gt;&lt;k2&gt;Ctrl&lt;/k2&gt;&lt;k3&gt;W&lt;/k3&gt;&lt;/k1&gt; (ou &lt;k4&gt;&lt;k5&gt;Command&lt;/k5&gt;&lt;k6&gt;W&lt;/k6&gt;&lt;/k4&gt; sous macOS) pour qu'il corresponde au raccourci que vous utilisez dans d'autres applications.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61652,6 +61668,14 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To do so, modify the &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; as follows for Windows or Linux:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230303T125225Z" creationid="Léo Delaune" creationdate="20230303T125225Z">
+        <seg>Pour se faire, modifier le &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; de la manière suivante pour Windows ou Linux :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To do so, you have to put the appropriate shortcut definition file in your OmegaT configuration folder.</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230302T171225Z" creationid="Léo Delaune" creationdate="20230302T171225Z">
@@ -76123,6 +76147,14 @@ Ok. </note>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T100134Z">
         <seg>or</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>or as follows for macOS:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230303T125244Z" creationid="Léo Delaune" creationdate="20230303T125244Z">
+        <seg>ou de la manière suivante pour macOS:</seg>
       </tuv>
     </tu>
     <tu>
