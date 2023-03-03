@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -36431,8 +36431,8 @@ impose that choice.</seg>
       <tuv lang="en">
         <seg>Matches</seg>
       </tuv>
-      <tuv lang="fr" changeid="sirine" changedate="20230303T090145Z" creationid="sirine" creationdate="20230303T084408Z">
-        <seg>Correspond</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230303T092449Z" creationid="sirine" creationdate="20230303T084408Z">
+        <seg>Correspond à</seg>
       </tuv>
     </tu>
     <tu>
@@ -57998,6 +57998,14 @@ L'idée était que l'utilisation de certaines touches en dehors du segment coura
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The uppercase “A” in the following sentence: “A long, but exciting journey was about to begin”.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230303T092439Z" creationid="sirine" creationdate="20230303T092439Z">
+        <seg>La majuscule "A" dans la phrase suivante : "A long, but exciting journey was about to begin”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The user group also serves as the main point of contact between users and the project team.</seg>
       </tuv>
       <tuv lang="fr">
@@ -69494,6 +69502,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T105124Z">
         <seg>^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>^A</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230303T090730Z" creationid="sirine" creationdate="20230303T090730Z">
+        <seg>^A</seg>
       </tuv>
     </tu>
     <tu>
