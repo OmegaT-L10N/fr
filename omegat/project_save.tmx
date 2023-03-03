@@ -14823,6 +14823,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Blank source segments sometimes act as placeholders for parts that do not exist in the source language but are necessary in the target language.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230303T134321Z" creationid="Anand" creationdate="20230303T134321Z">
+        <seg>Les segments sources vides servent parfois de substituts temporaires à des parties qui n'existent pas dans la langue source mais qui sont nécessaires dans la langue cible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Blog pages on OmegaT.</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20170403T102421Z" creationid="briac" creationdate="20170403T102421Z">
@@ -63009,6 +63017,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translate blank source segments</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230303T133943Z" creationid="Anand" creationdate="20230303T133943Z">
+        <seg>Traduire les segments sources vides</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translate the file</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130417T154837Z">
@@ -65132,6 +65148,14 @@ la configuration actuelle est de {0} Mo ;</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130503T113227Z">
         <seg>Utilisez cette fonction lorsque vous avez détaché, déplacé ou caché un ou plusieurs composants et que vous êtes incapables de les restaurer de la façon dont vous le souhaitez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use this option to leave a non translated segment blank.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230303T134051Z" creationid="Anand" creationdate="20230303T133928Z">
+        <seg>Utilisez cette option pour laisser un vide à la place d'un segment non traduit.</seg>
       </tuv>
     </tu>
     <tu>
