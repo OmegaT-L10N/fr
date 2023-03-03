@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10997,6 +10997,14 @@ this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A line that consists of a single word and ends with a colon:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230303T095752Z" creationid="sirine" creationdate="20230303T095752Z">
+        <seg>Une ligne qui consiste en un seul mot et se termine par deux-points :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A link to the support page.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221016T075134Z" creationid="suzume" creationdate="20221016T075134Z">
@@ -13426,6 +13434,14 @@ void, and will automatically terminate your rights under this License.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130422T172629Z">
         <seg>N'importe quel caractère à l'exception de ceux du bloc grec (négation)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Any character that is &lt;e0&gt;not&lt;/e0&gt; “a”, “b”, or “c”.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230303T092526Z" creationid="sirine" creationdate="20230303T092526Z">
+        <seg>Tout caractère qui n'est &lt;e0&gt;pas&lt;/e0&gt; "a", "b" ou "c".</seg>
       </tuv>
     </tu>
     <tu>
@@ -20746,6 +20762,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20120307T083335Z">
         <seg>Affiche les segments des mémoires de traduction qui correspondent au segment source.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Displays the translation memory segments that match the source segment.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230303T092649Z" creationid="sirine" creationdate="20230303T092649Z">
+        <seg>[correspondance]Affiche les segments des mémoires de traduction qui correspondent au segment source.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31334,6 +31358,14 @@ patent against the party.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In the word “back”, for instance, only the “k” is matched.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230303T092631Z" creationid="sirine" creationdate="20230303T092631Z">
+        <seg>Dans le mot "back", par exemple, seul le "k" correspond.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In this case NL-EN translation memory can serve as a go-between to help generate NL to ZH translation.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20141202T222227Z" creationid="Didier" creationdate="20141202T222227Z">
@@ -31762,6 +31794,14 @@ patent against the party.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20150225T095510Z" creationid="Didier" creationdate="20150211T164827Z">
         <seg>Insérer la correspondance ou la sélection dans la traduction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert Match or Selection into Translation</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230303T092713Z" creationid="sirine" creationdate="20230303T092649Z">
+        <seg>Insérer la correspondance ou la sélection dans la traductions</seg>
       </tuv>
     </tu>
     <tu>
@@ -44962,6 +45002,14 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Questions:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230303T095800Z" creationid="sirine" creationdate="20230303T095800Z">
+        <seg>Questions :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Quiet option</seg>
       </tuv>
       <tuv lang="fr" changeid="pingouin" changedate="20130418T160541Z">
@@ -53853,6 +53901,14 @@ form of a work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The DOLLAR sign: &lt;l0&gt;$&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230303T095615Z" creationid="sirine" creationdate="20230303T095615Z">
+        <seg>Le SIGNE DU DOLLAR : &lt;l0&gt;$&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Edit Pattern Dialog offers among others the following options:</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
@@ -56159,6 +56215,14 @@ freedom to share and change it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The lowercase “a”, “b”, or “c” in the word “back”.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230303T095549Z" creationid="sirine" creationdate="20230303T095549Z">
+        <seg>Le  "a", "b" ou "c" minuscule dans le mot "back".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The macOS equivalent is the application Terminal located in &lt;f0&gt;Applications/Utilities&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210510T100055Z" creationid="suzume" creationdate="20210202T064831Z">
@@ -58090,6 +58154,14 @@ L'idée était que l'utilisation de certaines touches en dehors du segment coura
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230303T092439Z" creationid="sirine" creationdate="20230303T092439Z">
         <seg>La majuscule "A" dans la phrase suivante : "A long, but exciting journey was about to begin”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The uppercase “A” in the following sentence: “My friend is writing a book called &lt;e0&gt;A Long Journey&lt;/e0&gt;”.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230303T095503Z" creationid="sirine" creationdate="20230303T095503Z">
+        <seg>La majuscule "A" dans la phrase suivante : “My friend is writing a book called &lt;e0&gt;A Long Journey&lt;/e0&gt;”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66034,6 +66106,14 @@ add Python to your Path.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When it is the last character in an expression, the &lt;e0&gt;dollar&lt;/e0&gt; sign matches the end of a line.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230303T095650Z" creationid="sirine" creationdate="20230303T095650Z">
+        <seg>Lorsqu'il est le dernier caractère d'une expression, le signe du &lt;e0&gt;dollar&lt;/e0&gt; correspond à la fin d'une ligne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When launched in console mode, no GUI is loaded ( it will work therefore on any console) and the given project is automatically translated.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20171103T090022Z">
@@ -69622,6 +69702,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230303T090730Z" creationid="sirine" creationdate="20230303T090730Z">
         <seg>^A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>^\w+:$</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230303T095657Z" creationid="sirine" creationdate="20230303T095657Z">
+        <seg>^\w+:$</seg>
       </tuv>
     </tu>
     <tu>
