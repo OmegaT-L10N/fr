@@ -10999,8 +10999,16 @@ this License.</seg>
       <tuv lang="en">
         <seg>A line that consists of a single word and ends with a colon:</seg>
       </tuv>
-      <tuv lang="fr" changeid="sirine" changedate="20230303T095752Z" creationid="sirine" creationdate="20230303T095752Z">
-        <seg>Une ligne qui consiste en un seul mot et se termine par deux-points :</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230303T095836Z" creationid="sirine" creationdate="20230303T095752Z">
+        <seg>Une ligne qui se compose d'un seul mot et se termine par deux-points :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A line that consists of a single word, but does not end in a colon:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230303T095844Z" creationid="sirine" creationdate="20230303T095844Z">
+        <seg>Une ligne qui se compose d'un seul mot, mais qui ne se termine pas par deux-points :</seg>
       </tuv>
     </tu>
     <tu>
@@ -13442,6 +13450,14 @@ void, and will automatically terminate your rights under this License.</seg>
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230303T092526Z" creationid="sirine" creationdate="20230303T092526Z">
         <seg>Tout caractère qui n'est &lt;e0&gt;pas&lt;/e0&gt; "a", "b" ou "c".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Any combinations of three letters starting with “c” and ending with “t”: “&lt;e0&gt;cat&lt;/e0&gt;”, “&lt;e1&gt;cut&lt;/e1&gt;”, “&lt;e2&gt;cot&lt;/e2&gt;”, or even nonsensical combinations such as “&lt;e3&gt;czt&lt;/e3&gt;” or “&lt;e4&gt;cqt&lt;/e4&gt;”.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230303T100154Z" creationid="sirine" creationdate="20230303T100154Z">
+        <seg>Toute combinaison de trois lettres commençant par "c" et finissant par "t" : "&lt;e0&gt;cat&lt;/e0&gt;", "&lt;e1&gt;cut&lt;/e1&gt;", "&lt;e2&gt;cot&lt;/e2&gt;", ou même des combinaisons qui n'ont pas de sens, comme "&lt;e3&gt;czt&lt;/e3&gt;" ou "&lt;e4&gt;cqt&lt;/e4&gt;".</seg>
       </tuv>
     </tu>
     <tu>
@@ -36565,6 +36581,14 @@ impose that choice.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Matches any single character.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230303T095922Z" creationid="sirine" creationdate="20230303T095922Z">
+        <seg>Correspond à tout caractère unique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Matches can be found in your current translation or in the TMX files that you have put in the /tm/ folder.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20120307T083730Z">
@@ -45006,6 +45030,14 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230303T095800Z" creationid="sirine" creationdate="20230303T095800Z">
         <seg>Questions :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Questions?</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230303T095848Z" creationid="sirine" creationdate="20230303T095848Z">
+        <seg>Questions ?</seg>
       </tuv>
     </tu>
     <tu>
@@ -54240,6 +54272,14 @@ software and other kinds of works.</seg>
       </tuv>
       <tuv lang="fr" changeid="briglegrand" changedate="20110122T112428Z">
         <seg>Les fichiers du site Web d'OmegaT sont aux formats HTML et, depuis 2011, PHP.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The PERIOD: &lt;l0&gt;.&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230303T095853Z" creationid="sirine" creationdate="20230303T095853Z">
+        <seg>Le POINT :</seg>
       </tuv>
     </tu>
     <tu>
@@ -70398,6 +70438,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="fr" changeid="jchelary" changedate="20130526T135337Z">
         <seg>c) Vous devez licencier la création entière, dans son ensemble, aux termes de cette Licence à toute personne qui entre en possession d’un exem- plaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>c.t</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230303T095926Z" creationid="sirine" creationdate="20230303T095926Z">
+        <seg>c.t</seg>
       </tuv>
     </tu>
     <tu>
