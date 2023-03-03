@@ -21016,8 +21016,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="en">
         <seg>Does not match</seg>
       </tuv>
-      <tuv lang="fr" changeid="sirine" changedate="20230303T085108Z" creationid="sirine" creationdate="20230303T085108Z">
-        <seg>Il ne correspond pas à</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230303T090152Z" creationid="sirine" creationdate="20230303T085108Z">
+        <seg>Ne correspond pas à</seg>
       </tuv>
     </tu>
     <tu>
@@ -36391,8 +36391,8 @@ impose that choice.</seg>
       <tuv lang="en">
         <seg>Matches</seg>
       </tuv>
-      <tuv lang="fr" changeid="sirine" changedate="20230303T084408Z" creationid="sirine" creationdate="20230303T084408Z">
-        <seg>Il correspond à</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230303T090145Z" creationid="sirine" creationdate="20230303T084408Z">
+        <seg>Correspond</seg>
       </tuv>
     </tu>
     <tu>
@@ -53701,6 +53701,14 @@ form of a work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The CARET: &lt;l0&gt;^&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230303T090220Z" creationid="sirine" creationdate="20230303T090220Z">
+        <seg>Le CARET &lt;l0&gt;^&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Commit window will open and show the progress of the commit command.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130415T083956Z">
@@ -65830,6 +65838,22 @@ add Python to your Path.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160119T093056Z" creationid="Didier" creationdate="20160119T093056Z">
         <seg>Durant l'installation, il est recommandé de sélectionner l'option (décochée par défaut) pour ajouter Python au Path.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When it is the first character in &lt;l0&gt;a character class enclosed in brackets&lt;/l0&gt;, it matches all the characters that are not part of that class.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230303T090722Z" creationid="sirine" creationdate="20230303T090722Z">
+        <seg>Lorsqu'il est le premier caractère d'une &lt;l0&gt;classe de caractères entre crochets&lt;/l0&gt;, il correspond à tous les caractères qui ne font pas partie de cette classe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When it is the first character in the expression, the &lt;e0&gt;caret&lt;/e0&gt; character matches the beginning of a line.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230303T090309Z" creationid="sirine" creationdate="20230303T090309Z">
+        <seg>Lorsqu'il est le premier caractère de l'expression, le caractère &lt;e0&gt;caret&lt;/e0&gt; correspond au début d'une ligne.</seg>
       </tuv>
     </tu>
     <tu>
