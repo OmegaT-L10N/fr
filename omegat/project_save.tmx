@@ -8145,8 +8145,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="en">
         <seg>&lt;l0&gt;an?␣&lt;/l0&gt; (where “␣” represents a single space).</seg>
       </tuv>
-      <tuv lang="fr" changeid="sirine" changedate="20230303T101403Z" creationid="sirine" creationdate="20230303T101403Z">
-        <seg>&lt;l0&gt;an?␣&lt;/l0&gt; ( sachant que "␣" représente un espace unique).</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230303T102258Z" creationid="sirine" creationdate="20230303T101403Z">
+        <seg>&lt;l0&gt;an?␣&lt;/l0&gt; ( sachant que "␣" représente une espace unique).</seg>
       </tuv>
     </tu>
     <tu>
@@ -54005,6 +54005,14 @@ form of a work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The ASTERISK: &lt;l0&gt;*&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230303T102421Z" creationid="sirine" creationdate="20230303T102421Z">
+        <seg>L'ASTÉRISQUE : &lt;l0&gt;*&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Add Finished!</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130429T124002Z">
@@ -59634,6 +59642,14 @@ under the terms of this General Public License.</seg>
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230303T101334Z" creationid="sirine" creationdate="20230303T101334Z">
         <seg>Ce caractère indique que le caractère ou l'expression qui le précèdent doivent correspondre zéro ou une fois.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This character specifies that zero or more instances of the preceding character or expression should be matched.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230303T102550Z" creationid="sirine" creationdate="20230303T102550Z">
+        <seg>Ce caractère indique que zéro ou plusieurs occurrences du caractère ou de l'expression qui le précède doivent être recherchées.</seg>
       </tuv>
     </tu>
     <tu>
