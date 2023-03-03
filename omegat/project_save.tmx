@@ -12680,6 +12680,14 @@ rights of fair use or other equivalent, as provided by copyright law.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Allow blank target segments</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230303T133706Z" creationid="Anand" creationdate="20230303T133706Z">
+        <seg>Autoriser les segments cibles vides</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Allow only unique characters</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130913T170030Z" creationid="Didier" creationdate="20130913T170030Z">
@@ -40015,6 +40023,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210313T130159Z" creationid="briac" creationdate="20170331T131829Z">
         <seg>OmegaT possède également des listes de discussion et des systèmes de suivi, hébergés sur Sourceforge :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT always reproduces the source contents when a segment is not provided.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230303T133818Z" creationid="Anand" creationdate="20230303T133818Z">
+        <seg>OmegaT reproduit toujours le contenu source quand un segment est manquant.</seg>
       </tuv>
     </tu>
     <tu>
