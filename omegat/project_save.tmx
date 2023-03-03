@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -38213,6 +38213,14 @@ Diminue les sorties sur stdout de la ligne de commande.</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20230205T201518Z" creationid="briac" creationdate="20230205T201518Z">
         <seg>&amp;Texte d'instructions non visible</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Non-visible instruction text, comments, footnotes, endnotes, footers, duplicate fallback text, and document properties.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230303T082055Z" creationid="Anand" creationdate="20230303T082055Z">
+        <seg>Textes d'instruction non-visibles, commentaires, notes de bas de pages, notes de fin de document, pieds de page, texte de remplacement en double, et propriétés du document.</seg>
       </tuv>
     </tu>
     <tu>
