@@ -26990,6 +26990,14 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Having untranslated contents in the translated files sometimes creates compatibility issues.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230303T133237Z" creationid="Anand" creationdate="20230303T133237Z">
+        <seg>La présence de contenus non traduits dans les fichiers traduits peut parfois créer des problèmes de compatibilité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>He&amp;aders</seg>
       </tuv>
       <tuv lang="fr">
@@ -46267,6 +46275,14 @@ ces mots : « pas de page »...</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20111111T124821Z">
         <seg>Supprimer la traduction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remove untranslated strings in the target files</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230303T133146Z" creationid="Anand" creationdate="20230303T133146Z">
+        <seg>Supprimer les chaînes non traduites dans les fichiers cibles</seg>
       </tuv>
     </tu>
     <tu>
