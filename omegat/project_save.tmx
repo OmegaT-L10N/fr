@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8139,6 +8139,14 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230303T092038Z" creationid="Léo Delaune" creationdate="20230303T091911Z">
         <seg>&lt;l0&gt;altGraph&lt;/l0&gt; fait référence  &lt;e1&gt;Alt&lt;/e1&gt; à la touche à droite de la barre d'espace sur les claviers avec deux touches&lt;e2&gt;Alt&lt;/e2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;an?␣&lt;/l0&gt; (where “␣” represents a single space).</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230303T101403Z" creationid="sirine" creationdate="20230303T101403Z">
+        <seg>&lt;l0&gt;an?␣&lt;/l0&gt; ( sachant que "␣" représente un espace unique).</seg>
       </tuv>
     </tu>
     <tu>
@@ -22239,6 +22247,14 @@ by the Free Software Foundation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Either the “a ” or the “an ” in:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230303T101431Z" creationid="sirine" creationdate="20230303T101431Z">
+        <seg>Soit le "a" ou le "an" dans :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Email:</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z" creationid="Didier" creationdate="20161227T170600Z">
@@ -33300,6 +33316,14 @@ dans le dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It will also find the final “an ” of “Can ” in a sentence such as “Can I help you?”, or the final “a ” of “pasta ” in “We had pasta for lunch.”</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230303T101527Z" creationid="sirine" creationdate="20230303T101527Z">
+        <seg>Il trouvera également le "an" final de "Can" dans une phrase telle que "Can I help you ?", ou le "a" final de "pasta" dans "We had pasta for lunch".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It will be created the first time you add an entry to the glossary.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221016T082045Z" creationid="suzume" creationdate="20221016T082045Z">
@@ -37917,6 +37941,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="fr" changeid="briglegrand" changedate="20110113T205137Z">
         <seg>bien entendu, nous vous encourageons à travailler avec OmegaT,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Neither the “a” nor the “an” in:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230303T101934Z" creationid="sirine" creationdate="20230303T101934Z">
+        <seg>Ni le "a" ni le "an" dans :</seg>
       </tuv>
     </tu>
     <tu>
@@ -54412,6 +54444,14 @@ software and other kinds of works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The QUESTION MARK: &lt;l0&gt;?&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230303T100823Z" creationid="sirine" creationdate="20230303T100823Z">
+        <seg>Le POINT D'INTERROGATION : &lt;l0&gt;?&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Scripting dialog allows you to load an existing script into the text area and run it against the current opened project.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130412T084918Z">
@@ -56042,6 +56082,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20170403T160920Z" creationid="briac" creationdate="20170403T160920Z">
         <seg>Le JRE inclus est la version 64 bits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The indefinite article: “a” (or “an”).</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230303T101946Z" creationid="sirine" creationdate="20230303T101946Z">
+        <seg>L'article indéfini : "a" (ou "an").</seg>
       </tuv>
     </tu>
     <tu>
@@ -59108,6 +59156,14 @@ pas de page...</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>They are not followed by a space.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230303T102224Z" creationid="sirine" creationdate="20230303T102224Z">
+        <seg>Ils ne sont pas suivis d'une espace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>They are not protected, so that you can delete them, enter them by hand or move them around in the target sentence.</seg>
       </tuv>
       <tuv lang="fr" changeid="briglegrand" changedate="20120501T192606Z">
@@ -59570,6 +59626,14 @@ under the terms of this General Public License.</seg>
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230303T100607Z" creationid="sirine" creationdate="20230303T100607Z">
         <seg>Ce caractère fonctionne comme un "OU", permettant de choisir une des expressions qui le précèdent ou le suivent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This character specifies that either zero or one instance of the preceding character or expression should be matched.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230303T101334Z" creationid="sirine" creationdate="20230303T101334Z">
+        <seg>Ce caractère indique que le caractère ou l'expression qui le précèdent doivent correspondre zéro ou une fois.</seg>
       </tuv>
     </tu>
     <tu>
@@ -78794,10 +78858,50 @@ Ok. </note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>“A story called &lt;e0&gt;An Unsung Hero&lt;/e0&gt;.”</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230303T100800Z" creationid="sirine" creationdate="20230303T100800Z">
+        <seg>“A story called &lt;e0&gt;An Unsung Hero&lt;/e0&gt;.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>“An apple a day…”</seg>
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230303T100714Z" creationid="sirine" creationdate="20230303T100714Z">
         <seg>“An apple a day…”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>“I have a question.”</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230303T101438Z" creationid="sirine" creationdate="20230303T101438Z">
+        <seg>“I have a question.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>“I know an excellent doctor.”</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230303T101458Z" creationid="sirine" creationdate="20230303T101458Z">
+        <seg>“I know an excellent doctor.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>“The apple of my eye…”</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230303T100728Z" creationid="sirine" creationdate="20230303T100728Z">
+        <seg>“The apple of my eye…”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>“They work for &lt;e0&gt;The Daily Post&lt;/e0&gt;.”</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230303T100803Z" creationid="sirine" creationdate="20230303T100803Z">
+        <seg>“They work for &lt;e0&gt;The Daily Post&lt;/e0&gt;.”</seg>
       </tuv>
     </tu>
     <tu>
