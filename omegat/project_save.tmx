@@ -41769,6 +41769,14 @@ redontant URL
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Only the initial “run” in those phrases is matched.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230303T103007Z" creationid="sirine" creationdate="20230303T103007Z">
+        <seg>Seule la première occurrence du mot "run" dans ces phrases correspond.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Only the letters &lt;e0&gt;i j l m o&lt;/e0&gt;, and &lt;e1&gt;y&lt;/e1&gt;, in both lower- and uppercase, have no special meaning when preceded by a backslash.</seg>
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230302T193323Z" creationid="sirine" creationdate="20230302T193323Z">
@@ -54404,6 +54412,14 @@ software and other kinds of works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The PLUS sign: &lt;l0&gt;+&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230303T103036Z" creationid="sirine" creationdate="20230303T103036Z">
+        <seg>Le signe PLUS : &lt;l0&gt;+&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The PO filter already handles %..</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210110T094722Z" creationid="suzume" creationdate="20210110T094722Z">
@@ -55007,6 +55023,14 @@ shown below.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20211117T145007Z" creationid="suzume" creationdate="20211117T145007Z">
         <seg>La commande de lancement d'OmegaT lui attribuant une mémoire de 2048 Mo (2 gigaoctets) est donc :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The complete phrase in “run-on” or “run'n'gun”, because the hyphen and apostrophe are not included in &lt;l0&gt;\w&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230303T102937Z" creationid="sirine" creationdate="20230303T102937Z">
+        <seg>La phrase complète dans "run-on" ou "run'n'gun", car le trait d'union et l'apostrophe ne sont pas inclus dans &lt;l0&gt;\w&lt;/l0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
