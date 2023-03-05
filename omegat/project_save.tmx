@@ -1140,6 +1140,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Find Next</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230305T154921Z" creationid="briac" creationdate="20230305T154859Z">
+        <seg>Rechercher &amp;suivant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Find...</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160427T151205Z" creationid="Didier" creationdate="20160427T151205Z">
@@ -1746,6 +1754,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20140414T125945Z" creationid="Didier" creationdate="20140414T125945Z">
         <seg>&amp;Remplacer suivant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Replace and Find Next</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230305T154907Z" creationid="briac" creationdate="20230305T154907Z">
+        <seg>&amp;Remplacer et rechercher suivant</seg>
       </tuv>
     </tu>
     <tu>
@@ -18291,6 +18307,14 @@ makes it unnecessary.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130412T134634Z">
         <seg>Copier des fichiers dans le dossier source</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Copy error to clipboard</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230305T154947Z" creationid="briac" creationdate="20230305T154947Z">
+        <seg>Copier le message d'erreur</seg>
       </tuv>
     </tu>
     <tu>
@@ -39392,6 +39416,14 @@ Rajout d'une partie approriée, afin que la note de bas de page ne se retrouve p
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Notepad</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230305T154954Z" creationid="briac" creationdate="20230305T154954Z">
+        <seg>Bloc-notes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Notes</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20110906T131255Z">
@@ -50636,6 +50668,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Skipped source file {0} because it could not be loaded.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230305T155106Z" creationid="briac" creationdate="20230305T155106Z">
+        <seg>Le fichier source {0} a été ignoré car il n'a pas pu être chargé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Skipped translation units for which no source segment was found.</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20230128T175027Z" creationid="briac" creationdate="20230128T175027Z">
@@ -51301,6 +51341,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221226T085729Z" creationid="suzume" creationdate="20221226T085729Z">
         <seg>Langue des fichiers source :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source files loaded but skipping files(s) by filter error(s)</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230305T155139Z" creationid="briac" creationdate="20230305T155139Z">
+        <seg>Fichiers source chargés mais certains fichiers ont été ignorés à cause d'erreurs de filtres</seg>
       </tuv>
     </tu>
     <tu>
