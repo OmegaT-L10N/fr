@@ -242,6 +242,14 @@ License. Each licensee is addressed as "you". "Licensees" and
     </tu>
     <tu>
       <tuv lang="en">
+        <seg># editMultipleAlternate=</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T210351Z" creationid="Léo Delaune" creationdate="20230305T210351Z">
+        <seg> # editMultipleAlternate=</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>#!/bin/bash java
 java -jar OmegaT.jar $*</seg>
       </tuv>
@@ -2416,6 +2424,14 @@ Le caractère « ? » correspond à un seul caractère. La recherche sur « m
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T105041Z">
         <seg>(?i)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>(Call Last Search Window)</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T210527Z" creationid="Léo Delaune" creationdate="20230305T210527Z">
+        <seg> (Call Last Search Window)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10834,6 +10850,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T210317Z" creationid="Léo Delaune" creationdate="20230305T210317Z">
+        <seg> A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A "User Product" is either (1) a "consumer product", which means any
 tangible personal property which is normally used for personal, family,
 or household purposes, or (2) anything designed or sold for incorporation
@@ -11676,10 +11700,26 @@ or that patent license was granted, prior to 28 March 2007.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Access Project Contents/Exported TMs</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T210422Z" creationid="Léo Delaune" creationdate="20230305T210422Z">
+        <seg> Access Project Contents/Exported TMs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Access Project Contents/Glossaries</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160718T153212Z" creationid="Didier" creationdate="20160718T152935Z">
         <seg>Accéder au contenu du projet/Glossaires</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Access Project Contents/Project Folder</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T210420Z" creationid="Léo Delaune" creationdate="20230305T210420Z">
+        <seg> Access Project Contents/Project Folder</seg>
       </tuv>
     </tu>
     <tu>
@@ -11700,10 +11740,26 @@ or that patent license was granted, prior to 28 March 2007.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Access Project Contents/TMs</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T210422Z" creationid="Léo Delaune" creationdate="20230305T210422Z">
+        <seg> Access Project Contents/TMs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Access Project Contents/Target Files</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160718T153221Z" creationid="Didier" creationdate="20160718T152952Z">
         <seg>Accéder au contenu du projet/Fichiers cible</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Access Project Contents/Writable Glossary</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T210439Z" creationid="Léo Delaune" creationdate="20230305T210439Z">
+        <seg> Access Project Contents/Writable Glossary</seg>
       </tuv>
     </tu>
     <tu>
@@ -12912,6 +12968,14 @@ software.</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130418T224839Z">
         <seg>En outre, pour la protection de chaque auteur ainsi que la nôtre, nous voulons nous assurer que chacun comprenne que ce logiciel libre ne fait l'objet d'aucune garantie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alt</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T210316Z" creationid="Léo Delaune" creationdate="20230305T210316Z">
+        <seg> Alt</seg>
       </tuv>
     </tu>
     <tu>
@@ -15544,6 +15608,14 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160322T171741Z" creationid="Didier" creationdate="20160322T171741Z">
         <seg>En décochant &lt;e0&gt;Récupérer automatiquement les traductions&lt;/e0&gt;, les traductions automatiques seront récupérées uniquement lors de l'utilisation de &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;M&lt;/k3&gt; &lt;/k1&gt; (&lt;k4&gt; &lt;k5&gt;Cmd&lt;/k5&gt; &lt;k6&gt;M&lt;/k6&gt; &lt;/k4&gt; sur OS X) sur le segment actuel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>C</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T210315Z" creationid="Léo Delaune" creationdate="20230305T210315Z">
+        <seg> C</seg>
       </tuv>
     </tu>
     <tu>
@@ -18739,6 +18811,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create Current Translated File</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T210414Z" creationid="Léo Delaune" creationdate="20230305T210414Z">
+        <seg> Create Current Translated File</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create Glossary Entry</seg>
       </tuv>
       <tuv lang="fr" changeid="laurieetclémentine" changedate="20130411T134136Z">
@@ -18791,6 +18871,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130421T223648Z">
         <seg>Créer les documents traduits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create Translated Files</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T210411Z" creationid="Léo Delaune" creationdate="20230305T210411Z">
+        <seg> Create Translated Files</seg>
       </tuv>
     </tu>
     <tu>
@@ -19111,6 +19199,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20170329T075723Z" creationid="briac" creationdate="20170329T075723Z">
         <seg>Cross-platform sans JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T210318Z" creationid="Léo Delaune" creationdate="20230305T210318Z">
+        <seg> Ctrl</seg>
       </tuv>
     </tu>
     <tu>
@@ -22365,6 +22461,22 @@ by the Free Software Foundation.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210110T131953Z" creationid="suzume" creationdate="20210110T131953Z">
         <seg>Éditeur...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>EditorShortcuts.mac.properties</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T210337Z" creationid="Léo Delaune" creationdate="20230305T210337Z">
+        <seg> EditorShortcuts.mac.properties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>EditorShortcuts.properties</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T210323Z" creationid="Léo Delaune" creationdate="20230305T210323Z">
+        <seg> EditorShortcuts.properties</seg>
       </tuv>
     </tu>
     <tu>
@@ -32106,6 +32218,14 @@ patent against the party.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Insert Bidi Control Character/Left-to-Right Mark (LRM U+200E)</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T210537Z" creationid="Léo Delaune" creationdate="20230305T210537Z">
+        <seg> Insert Bidi Control Character/Left-to-Right Mark (LRM U+200E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Insert Match</seg>
       </tuv>
       <tuv lang="fr" changeid="laurieetclémentine" changedate="20130411T133951Z">
@@ -36151,6 +36271,22 @@ La version Mac intègre un JRE.</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130426T142136Z">
         <seg>Menu Principal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>MainMenuShortcuts.mac.properties</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T210336Z" creationid="Léo Delaune" creationdate="20230305T210336Z">
+        <seg> MainMenuShortcuts.mac.properties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>MainMenuShortcuts.properties</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T210322Z" creationid="Léo Delaune" creationdate="20230305T210322Z">
+        <seg> MainMenuShortcuts.properties</seg>
       </tuv>
     </tu>
     <tu>
@@ -49633,6 +49769,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160718T152133Z" creationid="Didier" creationdate="20160718T152133Z">
         <seg>Sélectionner le dossier des scripts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select Source Text</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T210522Z" creationid="Léo Delaune" creationdate="20230305T210522Z">
+        <seg> Select Source Text</seg>
       </tuv>
     </tu>
     <tu>
@@ -70826,6 +70970,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>alt shift D</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T210530Z" creationid="Léo Delaune" creationdate="20230305T210530Z">
+        <seg> alt shift D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>always, based on the file filter settings,</seg>
       </tuv>
       <tuv lang="fr" changeid="Anand" changedate="20230303T131343Z" creationid="Anand" creationdate="20230303T131343Z">
@@ -71698,10 +71850,26 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ctrl D</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T210412Z" creationid="Léo Delaune" creationdate="20230305T210412Z">
+        <seg> ctrl D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ctrl DOWN</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221220T111023Z" creationid="suzume" creationdate="20221220T111023Z">
         <seg>ctrl DOWN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl E</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T210417Z" creationid="Léo Delaune" creationdate="20230305T210417Z">
+        <seg> ctrl E</seg>
       </tuv>
     </tu>
     <tu>
@@ -71738,6 +71906,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ctrl L</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T210419Z" creationid="Léo Delaune" creationdate="20230305T210419Z">
+        <seg> ctrl L</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ctrl M</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221220T110933Z" creationid="suzume" creationdate="20221220T110933Z">
@@ -71750,6 +71926,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221220T111059Z" creationid="suzume" creationdate="20221220T111059Z">
         <seg>ctrl N (Enter/Tab)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl O</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T210357Z" creationid="Léo Delaune" creationdate="20230305T210357Z">
+        <seg> ctrl O</seg>
       </tuv>
     </tu>
     <tu>
@@ -71774,6 +71958,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221220T110928Z" creationid="suzume" creationdate="20221220T110928Z">
         <seg>ctrl R</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl S</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T210403Z" creationid="Léo Delaune" creationdate="20230305T210403Z">
+        <seg> ctrl S</seg>
       </tuv>
     </tu>
     <tu>
@@ -71846,6 +72038,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221220T110959Z" creationid="suzume" creationdate="20221220T110959Z">
         <seg>ctrl shift C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl shift D</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T210415Z" creationid="Léo Delaune" creationdate="20230305T210415Z">
+        <seg> ctrl shift D</seg>
       </tuv>
     </tu>
     <tu>
@@ -71934,6 +72134,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221220T111053Z" creationid="suzume" creationdate="20221220T111053Z">
         <seg>ctrl shift U</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl shift W</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T210400Z" creationid="Léo Delaune" creationdate="20230305T210400Z">
+        <seg> ctrl shift W</seg>
       </tuv>
     </tu>
     <tu>
@@ -72290,6 +72498,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>editMultipleAlternate=alt X</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T210352Z" creationid="Léo Delaune" creationdate="20230305T210352Z">
+        <seg> editMultipleAlternate=alt X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>editMultipleDefault</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T103958Z">
@@ -72422,6 +72638,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20140414T134114Z" creationid="Didier" creationdate="20140414T134114Z">
         <seg>editSelectFuzzyPrevMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editSelectSourceMenuItem</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T210523Z" creationid="Léo Delaune" creationdate="20230305T210523Z">
+        <seg> editSelectSourceMenuItem</seg>
       </tuv>
     </tu>
     <tu>
@@ -73790,6 +74014,38 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210131T124420Z" creationid="suzume" creationdate="20210131T124420Z">
         <seg>https://git.code.sf.net/p/omegat/code</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://github.com/omegat-org/omegat/tree/master/src/org/omegat/gui/main/EditorShortcuts.mac.properties</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T210337Z" creationid="Léo Delaune" creationdate="20230305T210337Z">
+        <seg> https://github.com/omegat-org/omegat/tree/master/src/org/omegat/gui/main/EditorShortcuts.mac.properties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://github.com/omegat-org/omegat/tree/master/src/org/omegat/gui/main/EditorShortcuts.properties</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T210330Z" creationid="Léo Delaune" creationdate="20230305T210330Z">
+        <seg> https://github.com/omegat-org/omegat/tree/master/src/org/omegat/gui/main/EditorShortcuts.properties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://github.com/omegat-org/omegat/tree/master/src/org/omegat/gui/main/MainMenuShortcuts.mac.properties</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T210336Z" creationid="Léo Delaune" creationdate="20230305T210336Z">
+        <seg> https://github.com/omegat-org/omegat/tree/master/src/org/omegat/gui/main/MainMenuShortcuts.mac.properties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://github.com/omegat-org/omegat/tree/master/src/org/omegat/gui/main/MainMenuShortcuts.properties</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T210326Z" creationid="Léo Delaune" creationdate="20230305T210326Z">
+        <seg> https://github.com/omegat-org/omegat/tree/master/src/org/omegat/gui/main/MainMenuShortcuts.properties</seg>
       </tuv>
     </tu>
     <tu>
@@ -75550,10 +75806,26 @@ Ok. </note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>meta D</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T210413Z" creationid="Léo Delaune" creationdate="20230305T210413Z">
+        <seg> meta D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>meta DOWN</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221220T111024Z" creationid="suzume" creationdate="20221220T111024Z">
         <seg>meta DOWN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta E</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T210417Z" creationid="Léo Delaune" creationdate="20230305T210417Z">
+        <seg> meta E</seg>
       </tuv>
     </tu>
     <tu>
@@ -75590,6 +75862,14 @@ Ok. </note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>meta L</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T210419Z" creationid="Léo Delaune" creationdate="20230305T210419Z">
+        <seg> meta L</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>meta M</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221220T110935Z" creationid="suzume" creationdate="20221220T110935Z">
@@ -75602,6 +75882,14 @@ Ok. </note>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221220T111100Z" creationid="suzume" creationdate="20221220T111100Z">
         <seg>meta N (Enter/Tab)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta O</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T210357Z" creationid="Léo Delaune" creationdate="20230305T210357Z">
+        <seg> meta O</seg>
       </tuv>
     </tu>
     <tu>
@@ -75626,6 +75914,14 @@ Ok. </note>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221220T110929Z" creationid="suzume" creationdate="20221220T110929Z">
         <seg>meta R</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta S</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T210404Z" creationid="Léo Delaune" creationdate="20230305T210404Z">
+        <seg> meta S</seg>
       </tuv>
     </tu>
     <tu>
@@ -75698,6 +75994,14 @@ Ok. </note>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221220T111000Z" creationid="suzume" creationdate="20221220T111000Z">
         <seg>meta shift C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta shift D</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T210415Z" creationid="Léo Delaune" creationdate="20230305T210415Z">
+        <seg> meta shift D</seg>
       </tuv>
     </tu>
     <tu>
@@ -75786,6 +76090,14 @@ Ok. </note>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221220T111054Z" creationid="suzume" creationdate="20221220T111054Z">
         <seg>meta shift U</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta shift W</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T210400Z" creationid="Léo Delaune" creationdate="20230305T210400Z">
+        <seg> meta shift W</seg>
       </tuv>
     </tu>
     <tu>
@@ -76954,8 +77266,8 @@ Ok. </note>
       <tuv lang="en">
         <seg>projectAccessCurrentTargetDocumentMenuItem</seg>
       </tuv>
-      <tuv lang="fr" changeid="Didier" changedate="20160718T153015Z" creationid="Didier" creationdate="20160718T153015Z">
-        <seg>projectAccessCurrentTargetDocumentMenuItem</seg>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T210445Z" creationid="Léo Delaune" creationdate="20230305T210445Z">
+        <seg> projectAccessCurrentTargetDocumentMenuItem</seg>
       </tuv>
     </tu>
     <tu>
@@ -76964,6 +77276,14 @@ Ok. </note>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160718T152929Z" creationid="Didier" creationdate="20160718T152929Z">
         <seg>projectAccessDictionaryMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectAccessExportTMMenuItem</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T210423Z" creationid="Léo Delaune" creationdate="20230305T210423Z">
+        <seg> projectAccessExportTMMenuItem</seg>
       </tuv>
     </tu>
     <tu>
@@ -76992,6 +77312,14 @@ Ok. </note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>projectAccessTMMenuItem</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T210422Z" creationid="Léo Delaune" creationdate="20230305T210422Z">
+        <seg> projectAccessTMMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>projectAccessTargetMenuItem</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160718T152954Z" creationid="Didier" creationdate="20160718T152954Z">
@@ -77012,6 +77340,54 @@ Ok. </note>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T103757Z">
         <seg>projectCloseMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectCloseMenuItem=ctrl W</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T210348Z" creationid="Léo Delaune" creationdate="20230305T210348Z">
+        <seg> projectCloseMenuItem=ctrl W</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectCloseMenuItem=ctrl shift W</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T210344Z" creationid="Léo Delaune" creationdate="20230305T210344Z">
+        <seg> projectCloseMenuItem=ctrl shift W</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectCloseMenuItem=meta W</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T210349Z" creationid="Léo Delaune" creationdate="20230305T210349Z">
+        <seg> projectCloseMenuItem=meta W</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectCloseMenuItem=meta shift W</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T210346Z" creationid="Léo Delaune" creationdate="20230305T210346Z">
+        <seg> projectCloseMenuItem=meta shift W</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectCommitSourceFiles</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T210410Z" creationid="Léo Delaune" creationdate="20230305T210410Z">
+        <seg> projectCommitSourceFiles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectCommitTargetFiles</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T210411Z" creationid="Léo Delaune" creationdate="20230305T210411Z">
+        <seg> projectCommitTargetFiles</seg>
       </tuv>
     </tu>
     <tu>
