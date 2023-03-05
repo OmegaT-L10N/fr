@@ -34162,6 +34162,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Keyword searches match all space-separated keywords in any order.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230305T160207Z" creationid="briac" creationdate="20230305T160207Z">
+        <seg>Les recherches par mot clé correspondent à tous les mots-clés séparés par des espaces, indépendamment de leur ordre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Keyword searches match all the space-separated keywords regardless of their order.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T022134Z" creationid="Didier" creationdate="20151111T095411Z">
@@ -36021,14 +36029,6 @@ La version Mac intègre un JRE.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210313T130149Z">
         <seg>Listes de discussions</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>Main Memor&amp;y</seg>
-      </tuv>
-      <tuv lang="fr" changeid="briac" changedate="20230305T155736Z" creationid="briac" creationdate="20230305T155736Z">
-        <seg>Mémoire &amp;principale</seg>
       </tuv>
     </tu>
     <tu>
@@ -45811,6 +45811,14 @@ ces mots : « pas de page »...</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
         <seg>Expression régulière pour les fragments à supprimer de la traduction :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Regular expression searches match Java regular expressions as documented in the user guide.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230305T160246Z" creationid="briac" creationdate="20230305T160246Z">
+        <seg>Les recherches par expressions régulières correspondent aux expressions régulières en Java telles que documentées dans le guide de l'utilisatrice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67347,6 +67355,16 @@ for which you have or can give appropriate copyright permission.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20100222T114423Z">
         <seg>Fichiers de localisation WiX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wildcards:
+Both exact and keyword searches support the * and ?</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230305T160315Z" creationid="briac" creationdate="20230305T160315Z">
+        <seg>Jokers :
+Les caractères jokers « * » et « ? » peuvent être utilisés dans les recherches exactes et par mots clés.</seg>
       </tuv>
     </tu>
     <tu>
