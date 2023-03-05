@@ -2336,6 +2336,16 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>'*' matches zero or more characters ('run*' matches 'run', 'runs', 'running', etc.)
+'?' matches exactly one character ('run?' matches 'runs' and 'rung', but not 'run' or 'running').</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230305T160502Z" creationid="briac" creationdate="20230305T160324Z">
+        <seg>Le caractère « * » correspond à zéro ou plusieurs caractères. La recherche sur « mon* » donnera par exemple les résultats « mon », « monde », « monter ».
+Le caractère « ? » correspond à un seul caractère. La recherche sur « mon? » donnera par exemple les résultat « mont » et « mono », mais pas « monde ».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>'*' matches zero or more characters ('run*' matches 'run', 'runs', and'running', etc.)
 '?' matches exactly one character ('run?' matches 'runs' and 'rung', but not 'run' or 'running').</seg>
       </tuv>
@@ -23015,6 +23025,14 @@ personne ne vous entend pleurer...</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
         <seg>Erreur de chargement du module d'extension depuis la classe « {0} » : {1} : {2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error loading : {0}</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230305T160555Z" creationid="briac" creationdate="20230305T160555Z">
+        <seg>Erreur de chargement : {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -47498,6 +47516,14 @@ ces mots : « pas de page »...</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>SDL project (beta)</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230305T160620Z" creationid="briac" creationdate="20230305T160620Z">
+        <seg>Projet SDL (version bêta)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>SHOULD THE
 PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST OF ALL NECESSARY SERVICING,
 REPAIR OR CORRECTION.</seg>
@@ -53595,6 +53621,16 @@ material under section 10.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20140203T140716Z" creationid="Didier" creationdate="20140203T140716Z">
         <seg>Remplacement de texte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Text Replace:
+Replace applies to the target segments of the project.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230305T160544Z" creationid="briac" creationdate="20230305T160544Z">
+        <seg>Remplacement du texte :
+Le remplacement ne s'effectue que sur les segments cibles du projet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -78834,6 +78870,14 @@ Ok. </note>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130418T230536Z">
         <seg>et qui, en totalité ou en partie, contient ou est fondé sur le Programme </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>wildcards.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230305T160335Z" creationid="briac" creationdate="20230305T160335Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
