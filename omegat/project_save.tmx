@@ -20005,6 +20005,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Delete the &lt;c0&gt;#&lt;/c0&gt; at the beginning of the line so OmegaT will recognize the shortcut, and add &lt;o1&gt;alt X&lt;/o1&gt; after the &lt;c2&gt;=&lt;/c2&gt; sign at the end of the line:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T200324Z" creationid="Léo Delaune" creationdate="20230305T200324Z">
+        <seg>Supprimez le &lt;c0&gt;#&lt;/c0&gt; en début de ligne pour qu'OmegaT reconnaisse le raccourci, et ajoutez &lt;o1&gt;alt X&lt;/o1&gt; après le signe &lt;c2&gt;=&lt;/c2&gt; en fin de ligne :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Delete*</seg>
       </tuv>
       <tuv lang="fr" changeid="etudiant_local" changedate="20130410T122604Z">
@@ -28195,6 +28203,14 @@ need not be entered.)</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20170210T104105Z" creationid="Didier" creationdate="20170210T104105Z">
         <seg>Si Java est installé au niveau système et est inclus dans le chemin, il n'est pas nécessaire d'entrer le chemin complet.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If OmegaT is open, you will have to restart it for your changes to take effect.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T200451Z" creationid="Léo Delaune" creationdate="20230305T200451Z">
+        <seg>Si OmegaT est ouvert, vous devrez le redémarrer pour que vos modifications soient prises en compte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47886,6 +47902,14 @@ REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Save and close the file.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T200338Z" creationid="Léo Delaune" creationdate="20230305T200338Z">
+        <seg>Sauvegarder et fermer le fichier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Save aut&amp;o-populated status</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20161229T164203Z" creationid="Didier" creationdate="20161229T164203Z">
@@ -47922,6 +47946,14 @@ REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20220503T110327Z" creationid="suzume" creationdate="20220503T110327Z">
         <seg>Enregistrer l'origine de la &amp;traduction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Save the file after you have finished making your changes.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T200433Z" creationid="Léo Delaune" creationdate="20230305T200433Z">
+        <seg>Sauvegardez le fichier une fois que vous avez terminé vos modifications.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56677,6 +56709,14 @@ freedom to share and change it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The line is currently a comment.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T200229Z" creationid="Léo Delaune" creationdate="20230305T200229Z">
+        <seg>La ligne est actuellement un commentaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The line with the matching percentage also includes the name of the translation memory &lt;i1/&gt; containing the match.</seg>
       </tuv>
       <tuv lang="fr" changeid="pingouin" changedate="20130426T133132Z">
@@ -57130,6 +57170,14 @@ sure this has not already been reported.</seg>
       </tuv>
       <tuv lang="fr">
         <seg>L'étape suivante est d'avoir votre découverte confirmée par d'autres utilisateurs pour s'assurer qu'un rapport n'a pas déjà été rempli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The next time you start OmegaT, your new shortcut should be active and displayed next to the name of the function in the menu.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T200415Z" creationid="Léo Delaune" creationdate="20230305T200415Z">
+        <seg>Au prochain démarrage d'OmegaT, votre nouveau raccourci devrait être actif et s'afficher à côté du nom de la fonction dans le menu.</seg>
       </tuv>
     </tu>
     <tu>
