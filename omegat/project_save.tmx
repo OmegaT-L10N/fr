@@ -13932,6 +13932,14 @@ provoquer des comportements inattendus, mais corrects.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As shown in the &lt;l0&gt;Edit menu table&lt;/l0&gt; below, the function code for the &lt;g1&gt;Create Alternative Translation&lt;/g1&gt; function is &lt;c2&gt;editMultipleAlternate&lt;/c2&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T200121Z" creationid="Léo Delaune" creationdate="20230305T200121Z">
+        <seg>Comme le montre le &lt;l0&gt;tableau du menu édition&lt;/l0&gt; ci-dessous, le code de la fonction &lt;g1&gt;Créer une traduction alternative&lt;/g1&gt; est &lt;c2&gt;editMultipleAlternate&lt;/c2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As soon as you save the modifications you have made to any glossary, they will be taken into account by OmegaT and term matches will be automatically displayed in the &lt;l0/&gt; pane.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221016T082901Z" creationid="suzume" creationdate="20221016T082901Z">
@@ -42183,6 +42191,14 @@ happen should you file a bug report.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Open the &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; you have copied to &lt;l1&gt;your configuration folder&lt;/l1&gt; in a text editor.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T200008Z" creationid="Léo Delaune" creationdate="20230305T200008Z">
+        <seg>Ouvrez le &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; que vous avez copié dans &lt;l1&gt;votre dossier de configuration&lt;/l1&gt; dans un éditeur de texte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Open the Scripting window</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210204T025909Z" creationid="suzume" creationdate="20210204T025909Z">
@@ -48516,6 +48532,14 @@ La recherche port par défaut sur le projet, et peut porter sur tout fichier sit
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130528T084107Z">
         <seg>Rechercher &lt;l0&gt;open file&lt;/l0&gt; permettra ainsi de trouver toutes les occurrences de la chaîne de caractère &lt;e1&gt;&lt;l2&gt;open file&lt;/l2&gt;&lt;/e1&gt;, mais pas &lt;e3&gt;&lt;l4&gt;file opened&lt;/l4&gt;&lt;/e3&gt; ou &lt;e5&gt;&lt;l6&gt;open input file&lt;/l6&gt;&lt;/e5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Searching for that code in the file will bring you to the following line:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T200139Z" creationid="Léo Delaune" creationdate="20230305T200139Z">
+        <seg>En recherchant ce code dans le fichier, vous arriverez à la ligne suivante :</seg>
       </tuv>
     </tu>
     <tu>
@@ -58373,6 +58397,14 @@ making modifications to it.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130507T123540Z">
         <seg>La barre d'état affiche les messages relatifs au flux de travail dans le bas de la fenêtre principale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The steps below demonstrate how to assign the &lt;k0&gt;&lt;k1&gt;Alt&lt;/k1&gt;&lt;k2&gt;X&lt;/k2&gt;&lt;/k0&gt; shortcut to the &lt;l3/&gt;&lt;l4/&gt; menu item.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T195937Z" creationid="Léo Delaune" creationdate="20230305T195937Z">
+        <seg>Les étapes ci-dessous montrent comment rattacher le raccourci &lt;k0&gt;&lt;k1&gt;Alt&lt;/k1&gt;&lt;k2&gt;X&lt;/k2&gt;&lt;/k0&gt; au menu &lt;l3/&gt;&lt;l4/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
