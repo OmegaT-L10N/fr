@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_dev" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1979,6 +1979,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20150713T084034Z" creationid="Didier" creationdate="20150713T084034Z">
         <seg>&amp;Afficher automatiquement les suggestions pertinentes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Show Replacements</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230305T154748Z" creationid="briac" creationdate="20230305T154639Z">
+        <seg>&amp;Afficher les remplacements</seg>
       </tuv>
     </tu>
     <tu>
@@ -10442,6 +10450,14 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190305T142645Z" creationid="suzume" creationdate="20190305T142645Z">
         <seg>[logiciel] Copyright (C) [année] [nom de l'auteur]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;project_files_show_on_load&gt;&lt;t0&gt;false&lt;/t0&gt;&lt;/project_files_show_on_load&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230305T154714Z" creationid="briac" creationdate="20230305T154714Z">
+        <seg>&lt;project_files_show_on_load&gt;&lt;t0&gt;false&lt;/t0&gt;&lt;/project_files_show_on_load&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -29218,6 +29234,14 @@ authors' reputations.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210111T145535Z" creationid="suzume" creationdate="20210111T145535Z">
         <seg>Si le traducteur tente de les modifier, ils seront remis dans leur état initial à chaque fois que le projet est ouvert, fermé, enregistré ou rechargé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the use of multiple periods makes identifying the file name and extension ambiguous, you can use variables of the form &lt;l0&gt;${nameOnly-&lt;/l0&gt;&lt;e1&gt;number&lt;/e1&gt;} or &lt;l2&gt;${extension-&lt;/l2&gt;&lt;e3&gt;number} &lt;/e3&gt; to specify which portions are part of the name or extension, as shown in the example below.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230305T154720Z" creationid="briac" creationdate="20230305T154720Z">
+        <seg>If the use of multiple periods makes identifying the file name and extension ambiguous, you can use variables of the form &lt;l0&gt;${nameOnly-&lt;/l0&gt;&lt;e1&gt;number&lt;/e1&gt;} or &lt;l2&gt;${extension-&lt;/l2&gt;&lt;e3&gt;number} &lt;/e3&gt; to specify which portions are part of the name or extension, as shown in the example below.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62282,6 +62306,14 @@ as a Source Forge user.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20120411T093104Z">
         <seg>Pour participer au développement d'OmegaT, prenez contact avec les développeurs à :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To prevent the Source Files list window from automatically opening when a project is loaded, find &lt;t0&gt;&lt;project_files_show_on_load&gt;&lt;/t0&gt; and replace &lt;t1&gt;true&lt;/t1&gt; to &lt;t2&gt;false&lt;/t2&gt;:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230305T154700Z" creationid="briac" creationdate="20230305T154700Z">
+        <seg>To prevent the Source Files list window from automatically opening when a project is loaded, find &lt;t0&gt;&lt;project_files_show_on_load&gt;&lt;/t0&gt; and replace &lt;t1&gt;true&lt;/t1&gt; to &lt;t2&gt;false&lt;/t2&gt;:</seg>
       </tuv>
     </tu>
     <tu>
