@@ -14404,6 +14404,22 @@ provoquer des comportements inattendus, mais corrects.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Auto-completion/History Completion</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T211122Z" creationid="Léo Delaune" creationdate="20230305T211122Z">
+        <seg> Auto-completion/History Completion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Auto-completion/History Prediction</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T211122Z" creationid="Léo Delaune" creationdate="20230305T211122Z">
+        <seg> Auto-completion/History Prediction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Auto-completion/Show Relevant Suggestions Automatically</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160718T153543Z" creationid="Didier" creationdate="20160718T153543Z">
@@ -20539,6 +20555,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130507T121849Z">
         <seg>Volet Dictionnaires</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dictionary/Use Fuzzy Matching for Dictionary Entries</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T211118Z" creationid="Léo Delaune" creationdate="20230305T211118Z">
+        <seg> Dictionary/Use Fuzzy Matching for Dictionary Entries</seg>
       </tuv>
     </tu>
     <tu>
@@ -26764,6 +26788,14 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160718T153507Z" creationid="Didier" creationdate="20160718T153507Z">
         <seg>Glossaires/Afficher la description du contexte pour les glossaires TBX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossary/Use Fuzzy Matching for Glossary Entries</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T211117Z" creationid="Léo Delaune" creationdate="20230305T211117Z">
+        <seg> Glossary/Use Fuzzy Matching for Glossary Entries</seg>
       </tuv>
     </tu>
     <tu>
@@ -33342,8 +33374,8 @@ the user license.</seg>
       <tuv lang="en">
         <seg>It is not possible to add a shortcut to call the script editor, or to modify the shortcuts assigned to the scripts.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T210704Z" creationid="Léo Delaune" creationdate="20230305T210704Z">
-        <seg> It is not possible to add a shortcut to call the script editor, or to modify the shortcuts assigned to the scripts.</seg>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T211100Z" creationid="Léo Delaune" creationdate="20230305T210704Z">
+        <seg> Il n'est pas possible d'ajouter un raccourci pour ouvrir l'éditeur de script, ni de modifier les raccourcis attribués aux scripts.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36191,6 +36223,14 @@ La version Mac intègre un JRE.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20220503T111317Z" creationid="suzume" creationdate="20220503T111317Z">
         <seg>Mise en évidence de la traduction automatique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Machine Translate/Automatically Fetch Translations</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T211117Z" creationid="Léo Delaune" creationdate="20230305T211117Z">
+        <seg> Machine Translate/Automatically Fetch Translations</seg>
       </tuv>
     </tu>
     <tu>
@@ -77142,6 +77182,22 @@ Ok. </note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>optionsAutoCompleteHistoryCompletionMenuItem</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T211122Z" creationid="Léo Delaune" creationdate="20230305T211122Z">
+        <seg> optionsAutoCompleteHistoryCompletionMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>optionsAutoCompleteHistoryPredictionMenuItem</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T211123Z" creationid="Léo Delaune" creationdate="20230305T211123Z">
+        <seg> optionsAutoCompleteHistoryPredictionMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>optionsAutoCompleteShowAutomaticallyItem</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160718T153546Z" creationid="Didier" creationdate="20160718T153546Z">
@@ -77154,6 +77210,14 @@ Ok. </note>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160718T153549Z" creationid="Didier" creationdate="20160718T153549Z">
         <seg>optionsColorsSelectionMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>optionsDictionaryFuzzyMatchingCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T211118Z" creationid="Léo Delaune" creationdate="20230305T211118Z">
+        <seg> optionsDictionaryFuzzyMatchingCheckBoxMenuItem</seg>
       </tuv>
     </tu>
     <tu>
@@ -77182,6 +77246,14 @@ Ok. </note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>optionsGlossaryFuzzyMatchingCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T211118Z" creationid="Léo Delaune" creationdate="20230305T211118Z">
+        <seg> optionsGlossaryFuzzyMatchingCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>optionsGlossaryStemmingCheckBoxMenuItem</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160718T153530Z" creationid="Didier" creationdate="20160718T153530Z">
@@ -77194,6 +77266,22 @@ Ok. </note>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160718T161736Z" creationid="Didier" creationdate="20160718T161736Z">
         <seg>optionsGlossaryTBXDisplayContextCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>optionsMTAutoFetchCheckboxMenuItem</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T211117Z" creationid="Léo Delaune" creationdate="20230305T211117Z">
+        <seg> optionsMTAutoFetchCheckboxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>optionsPreferencesMenuItem</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T211117Z" creationid="Léo Delaune" creationdate="20230305T211117Z">
+        <seg> optionsPreferencesMenuItem</seg>
       </tuv>
     </tu>
     <tu>
