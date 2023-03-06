@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_02bf26211" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1150,8 +1150,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Find Next</seg>
       </tuv>
-      <tuv lang="fr" changeid="briac" changedate="20230305T154921Z" creationid="briac" creationdate="20230305T154859Z">
-        <seg>Rechercher &amp;suivant</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230306T061526Z" creationid="briac" creationdate="20230305T154859Z">
+        <seg>Rechercher le &amp;suivant</seg>
       </tuv>
     </tu>
     <tu>
@@ -1768,8 +1768,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Replace and Find Next</seg>
       </tuv>
-      <tuv lang="fr" changeid="briac" changedate="20230305T154907Z" creationid="briac" creationdate="20230305T154907Z">
-        <seg>&amp;Remplacer et rechercher suivant</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230306T061531Z" creationid="briac" creationdate="20230305T154907Z">
+        <seg>&amp;Remplacer et rechercher le suivant</seg>
       </tuv>
     </tu>
     <tu>
@@ -51813,8 +51813,8 @@ of the GPL, as needed to protect the freedom of users.</seg>
       <tuv lang="en">
         <seg>Source files loaded but skipping files(s) by filter error(s)</seg>
       </tuv>
-      <tuv lang="fr" changeid="briac" changedate="20230305T155139Z" creationid="briac" creationdate="20230305T155139Z">
-        <seg>Fichiers source chargés mais certains fichiers ont été ignorés à cause d'erreurs de filtres</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230306T061715Z" creationid="briac" creationdate="20230305T155139Z">
+        <seg>Les fichiers source ont été chargés mais certains ont été ignorés à cause d'erreurs de filtres</seg>
       </tuv>
     </tu>
     <tu>
