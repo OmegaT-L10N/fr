@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_02bf26211" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -34241,6 +34241,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Java 9 and above requires UTF-8 encoding.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230306T132115Z" creationid="Anand" creationdate="20230306T132115Z">
+        <seg>Java 9 et les versions ultérieures requièrent </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Java Properties XML</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160212T143624Z" creationid="Didier" creationdate="20160212T143624Z">
@@ -52111,8 +52119,8 @@ of the GPL, as needed to protect the freedom of users.</seg>
       <tuv lang="en">
         <seg>Source and target files sometimes require a different encoding.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230303T130834Z" creationid="Anand" creationdate="20230303T130834Z">
-        <seg>Les fichiers sources et cibles nécessitent parfois d'un encodage différent.</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230306T131238Z" creationid="Anand" creationdate="20230303T130834Z">
+        <seg>Les fichiers sources et cibles nécessitent parfois un encodage différent.</seg>
       </tuv>
     </tu>
     <tu>
