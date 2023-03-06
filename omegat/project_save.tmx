@@ -17884,6 +17884,14 @@ kolekti -b C:\[...]\trunk\doc_src2 publish [-j JOB] -l fr,en C:\[...]\trunk\doc_
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Compatibility with OmegaT 2.6</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230306T133336Z" creationid="Anand" creationdate="20230306T133336Z">
+        <seg>Compabitilité avec OmegaT 2.6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Compatible with other translation memory applications (TMX, TTX, TXML, XLIFF, SDLXLIFF)</seg>
       </tuv>
       <tuv lang="fr" changeid="brigitte" changedate="20130205T194623Z">
@@ -22856,6 +22864,14 @@ pas de page...</seg>
       </tuv>
       <tuv lang="fr" changeid="Anand" changedate="20230303T093450Z" creationid="Anand" creationdate="20230303T093450Z">
         <seg>Activez cette option si les sauts de ligne sont prévus pour être des amorces de paragraphe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enable this option if you need to work with XLIFF files created with OmegaT 2.6.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230306T133444Z" creationid="Anand" creationdate="20230306T133444Z">
+        <seg>Activez cette option si vous devez travailler avec des fichiers XLIFF crées avec OmegaT 2.6.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71000,6 +71016,15 @@ necessary.</seg>
       </tuv>
       <tuv lang="fr" changeid="Anand" changedate="20230302T182210Z" creationid="Anand" creationdate="20230302T182210Z">
         <seg>Ne l'utilisez que pour éviter les problèmes de compatibilité avec les projets précédents contenant les fichiers que vous avez traités avec ce filtre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Erreur phrase source avoir=avoid</note>
+      <tuv lang="en">
+        <seg>You should only use it to avoir compatibility issues with previous projects containing files you handled with that filter.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230306T133330Z" creationid="Anand" creationdate="20230306T133330Z">
+        <seg>Ne l'utilisez que pour éviter les problèmes de compatibilité avec les projets précédents contenant des fichiers que vous avez traités avec ce filtre.</seg>
       </tuv>
     </tu>
     <tu>
