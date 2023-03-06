@@ -2643,6 +2643,14 @@ your programs, too.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(\b\w+\b)\h\1\b</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230306T110341Z" creationid="sirine" creationdate="20230306T110341Z">
+        <seg>(\b\w+\b)\h\1\b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(\b\w+\b)\s\1\b</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T105142Z">
@@ -21644,6 +21652,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20140604T063950Z" creationid="Didier" creationdate="20140604T063950Z">
         <seg>Espaces dupliquées</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Doubled up words separated by a space, such as the consecutive “an” in the following sentence:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230306T110500Z" creationid="sirine" creationdate="20230306T110500Z">
+        <seg>Des mots doublés séparés par une espace, comme le terme "an" consécutif dans la phrase suivante :</seg>
       </tuv>
     </tu>
     <tu>
@@ -64356,6 +64372,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="fr" changeid="brigitte" changedate="20130209T141646Z">
         <seg>Trunk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Trying to use only the opening or closing parenthesis on its own will cause an error.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230306T110337Z" creationid="sirine" creationdate="20230306T110337Z">
+        <seg>Si vous essayez d'utiliser uniquement la parenthèse ouvrante ou fermante, une erreur se produira</seg>
       </tuv>
     </tu>
     <tu>
