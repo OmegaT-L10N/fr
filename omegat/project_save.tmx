@@ -43753,6 +43753,15 @@ of promoting the sharing and reuse of software generally.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Source container, pas sûr de ce que ça veut dire</note>
+      <tuv lang="en">
+        <seg>PO files that use &lt;l0&gt;msgid&lt;/l0&gt; as an ID code, use &lt;l1&gt;msgstr&lt;/l1&gt; as the source container and expect the translation to overwrite &lt;l2&gt;msgstr&lt;/l2&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230306T125917Z" creationid="Anand" creationdate="20230306T125917Z">
+        <seg>Les fichiers PO qui utilisent &lt;l0&gt;msgid&lt;/l0&gt; comme identifiant, utilisent &lt;l1&gt;msgstr&lt;/l1&gt;comme conteneur source et attendent que la traduction écrase &lt;l2&gt;msgstr&lt;/l2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>PO files that use &lt;l0&gt;msgid&lt;/l0&gt; as the source container and expect the translation to be put in &lt;l1&gt;msgstr&lt;/l1&gt;</seg>
       </tuv>
