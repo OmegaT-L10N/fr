@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_02bf26211" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11150,6 +11150,7 @@ this License.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>masque </note>
       <tuv lang="en">
         <seg>A language pattern that matches the source language of the project will apply to that project.</seg>
       </tuv>
@@ -25364,6 +25365,7 @@ authors of previous versions.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>le 2e "caractère" me semble superflu. C'est de fait un "retour chariot".</note>
       <tuv lang="en">
         <seg>For example, &lt;e0&gt;r&lt;/e0&gt; is just a normal character but preceding it with &lt;l1&gt;\&lt;/l1&gt; to make it &lt;l2&gt;\r&lt;/l2&gt; turns it into a special combination that matches a &lt;e3&gt;carriage return character&lt;/e3&gt;.</seg>
       </tuv>
@@ -35665,6 +35667,7 @@ Exécutez OmegaT de la façon suivante.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>les chiffres aussi (\1 par ex). à modifier en source de manière qui ne soit pas lourde.</note>
       <tuv lang="en">
         <seg>Letters of the alphabet preceded by a backslash (&lt;l0&gt;\&lt;/l0&gt;) take on a special meaning</seg>
       </tuv>
@@ -38306,6 +38309,7 @@ impose that choice.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>ok</note>
       <tuv lang="en">
         <seg>Most characters simply match themselves</seg>
       </tuv>
@@ -50145,6 +50149,7 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
     </tu>
     <tu>
+      <note>l'emplacement ?</note>
       <tuv lang="en">
         <seg>Segmentation or exception rules define the position in a segment where a split will, or will not, be made.</seg>
       </tuv>
@@ -65086,6 +65091,7 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>peut être clarifié</note>
       <tuv lang="en">
         <seg>Two regular expressions are required to define that position: a “before” expression to define the text pattern ahead of where the rule should apply, and an “after” expression to define the text pattern following that position.</seg>
       </tuv>
