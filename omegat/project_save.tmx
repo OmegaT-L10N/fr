@@ -2623,6 +2623,14 @@ your programs, too.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(You can still add it, but it will have no effect on the expression or the result.)</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230306T112126Z" creationid="sirine" creationdate="20230306T112126Z">
+        <seg>(Vous pouvez toujours l'ajouter, mais cela n'aura aucun effet sur l'expression ou le résultat).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(You will still able to use OmegaT
 3.6 to edit this project as a team project.)</seg>
       </tuv>
@@ -30585,6 +30593,14 @@ OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you only want to match the closing bracket as itself, you do not need to precede it with a backslash.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230306T112104Z" creationid="sirine" creationdate="20230306T112104Z">
+        <seg>Si vous souhaitez uniquement faire correspondre le crochet fermant tel quel, vous n'avez pas besoin de le faire précéder d'une barre oblique inverse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you place such translation memory files in the &lt;f6&gt;/tm/&lt;/f6&gt; subfolder of a project, OmegaT will automatically search them for similar segments, called "fuzzy matches".</seg>
       </tuv>
       <tuv lang="fr" changeid="jchelary" changedate="20130526T124546Z">
@@ -38021,6 +38037,14 @@ impose that choice.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130429T073523Z">
         <seg>Pour plus d'informations, voir l'article&lt;u0&gt;Painless Bug Tracking&lt;/u0&gt; écrit par Joel Spolsky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>More egregious misspellings such as “licensse” or “lissense”.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230306T112319Z" creationid="sirine" creationdate="20230306T112319Z">
+        <seg>Des fautes d'orthographe plus flagrantes comme "licensse" ou "lissense".</seg>
       </tuv>
     </tu>
     <tu>
@@ -56216,6 +56240,14 @@ utilisé à la place.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130528T083203Z">
         <seg>Le caractère de contrôle correspondant à x</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The correct “licence” and “license” spellings, as well as the potential “lisence” and “lisense” misspellings</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230306T112251Z" creationid="sirine" creationdate="20230306T112251Z">
+        <seg>Les orthographes correctes de "licence" et " license", ainsi que les éventuelles fautes d'orthographe "lisence" et "lisense"</seg>
       </tuv>
     </tu>
     <tu>
@@ -76169,6 +76201,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T100049Z">
         <seg>li</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>li[cs]en[cs]e</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230306T112129Z" creationid="sirine" creationdate="20230306T112129Z">
+        <seg>li[cs]en[cs]e</seg>
       </tuv>
     </tu>
     <tu>
