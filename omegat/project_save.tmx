@@ -492,10 +492,26 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>${targetCountryCode}</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230306T135522Z" creationid="Anand" creationdate="20230306T135522Z">
+        <seg>${targetCountryCode}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${targetLanguageCode}</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230306T135349Z" creationid="Anand" creationdate="20230306T135349Z">
+        <seg>${targetLanguageCode}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>${targetLanguage}</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230302T180434Z" creationid="Anand" creationdate="20230302T180434Z">
-        <seg>$(targetLanguage)</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230306T135324Z" creationid="Anand" creationdate="20230302T180434Z">
+        <seg>${targetLanguage}</seg>
       </tuv>
     </tu>
     <tu>
@@ -512,6 +528,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T105226Z">
         <seg>${targetText}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${timestamp-????}</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230306T135536Z" creationid="Anand" creationdate="20230306T135536Z">
+        <seg>${timestamp-????}</seg>
       </tuv>
     </tu>
     <tu>
@@ -80097,6 +80121,14 @@ Ok. </note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>system time when the file was created</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230306T135613Z" creationid="Anand" creationdate="20230306T135613Z">
+        <seg>heure du système lors de la création du fichier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>t</seg>
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230303T100334Z" creationid="sirine" creationdate="20230303T100334Z">
@@ -80145,10 +80177,34 @@ Ok. </note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>target language code (xx)</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230306T135516Z" creationid="Anand" creationdate="20230306T135516Z">
+        <seg>code de langue cible (xx)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>target language+region (xx-YY)</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230306T135344Z" creationid="Anand" creationdate="20230306T135344Z">
+        <seg>langue cible+région (xx-YY)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>target language+region code (xx_YY)</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230306T135243Z" creationid="Anand" creationdate="20230302T180409Z">
-        <seg>langue cible+code région (xx_YY)</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230306T135315Z" creationid="Anand" creationdate="20230302T180409Z">
+        <seg>langue cible+code de région (xx_YY)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>target region code (YY)</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230306T135530Z" creationid="Anand" creationdate="20230306T135530Z">
+        <seg>code de région cible (YY)</seg>
       </tuv>
     </tu>
     <tu>
