@@ -46184,11 +46184,12 @@ ces mots : « pas de page »...</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Attention, on a uniformisé sur "user manual" pas "user guide"</note>
       <tuv lang="en">
         <seg>Regular expression searches match Java regular expressions as documented in the user guide.</seg>
       </tuv>
-      <tuv lang="fr" changeid="briac" changedate="20230305T160246Z" creationid="briac" creationdate="20230305T160246Z">
-        <seg>Les recherches par expressions régulières correspondent aux expressions régulières en Java telles que documentées dans le guide de l'utilisatrice.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230306T064954Z" creationid="briac" creationdate="20230305T160246Z">
+        <seg>Les recherches par expressions régulières correspondent aux expressions régulières en Java telles que documentées dans le manuel de l'utilisatrice.</seg>
       </tuv>
     </tu>
     <tu>
