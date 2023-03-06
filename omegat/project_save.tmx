@@ -42549,6 +42549,14 @@ redontant URL
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Only the opening brace is special and needs to be preceded by a backslash to search for the brace character itself.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230306T114935Z" creationid="sirine" creationdate="20230306T114935Z">
+        <seg>Seule l'accolade ouvrante est spéciale et doit être précédée d'une barre oblique inverse pour rechercher le caractère d'accolade lui-même.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Only the opening bracket is special and needs to be preceded by a backslash to search for the bracket character itself.</seg>
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230306T112031Z" creationid="sirine" creationdate="20230306T112031Z">
