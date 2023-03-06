@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_02bf26211" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7768,6 +7768,7 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>en français ?</note>
       <tuv lang="en">
         <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; or &lt;k1&gt;Control&lt;/k1&gt;</seg>
       </tuv>
@@ -7864,6 +7865,7 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>en français ?</note>
       <tuv lang="en">
         <seg>&lt;k0&gt;control&lt;/k0&gt; or &lt;k1&gt;⌃&lt;/k1&gt;</seg>
       </tuv>
@@ -7872,6 +7874,7 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>en français ?</note>
       <tuv lang="en">
         <seg>&lt;k0&gt;shift&lt;/k0&gt; or &lt;k1&gt;⇧&lt;/k1&gt;</seg>
       </tuv>
@@ -28166,6 +28169,7 @@ a disparu...</seg>
       </tuv>
     </tu>
     <tu>
+      <note>maladroit</note>
       <tuv lang="en">
         <seg>How we avoid listing multiple notations:</seg>
       </tuv>
@@ -38303,6 +38307,7 @@ impose that choice.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>clés ?</note>
       <tuv lang="en">
         <seg>Modifier key identifiers</seg>
       </tuv>
@@ -50137,6 +50142,7 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
     </tu>
     <tu>
+      <note>espace</note>
       <tuv lang="en">
         <seg>See the &lt;l1/&gt; chapter for details.</seg>
       </tuv>
@@ -55355,6 +55361,7 @@ form of a work.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>erreur de trad et maladroit</note>
       <tuv lang="en">
         <seg>The &lt;e0&gt;Key identifiers&lt;/e0&gt; above enable us to avoid listing multiple notations for every shortcut.</seg>
       </tuv>
@@ -58303,6 +58310,7 @@ freedom to share and change it.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>maladroit</note>
       <tuv lang="en">
         <seg>The modifier keys that form the shortcuts vary slightly depending between platforms.</seg>
       </tuv>
@@ -63801,6 +63809,7 @@ as a Source Forge user.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>c'est quoi les touches de modification ?</note>
       <tuv lang="en">
         <seg>To make reading easier we have adopted the following convention for modifier keys:</seg>
       </tuv>
