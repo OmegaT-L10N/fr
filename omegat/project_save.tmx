@@ -46576,7 +46576,7 @@ ces mots : « pas de page »...</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Attention, on a uniformisé sur "user manual" pas "user guide"</note>
+      <note>La mise à jour des sources n'est pas encore faite. Je viens de corriger Guide en Manual.</note>
       <tuv lang="en">
         <seg>Regular expression searches match Java regular expressions as documented in the user guide.</seg>
       </tuv>
@@ -68504,9 +68504,9 @@ for which you have or can give appropriate copyright permission.</seg>
         <seg>Wildcards:
 Both exact and keyword searches support the * and ?</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20230306T065114Z" creationid="briac" creationdate="20230305T160315Z">
+      <tuv lang="fr" changeid="suzume" changedate="20230306T131609Z" creationid="briac" creationdate="20230305T160315Z">
         <seg>Jokers :
-Les caractères jokers « * » et « ? » peuvent être utilisés dans les recherches exactes et par mots clés.</seg>
+Les caractères « * » et « ? » peuvent être utilisés dans les recherches exactes et par mots clés.</seg>
       </tuv>
     </tu>
     <tu>
