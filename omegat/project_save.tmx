@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_02bf26211" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -34335,6 +34335,7 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>incluant = maladroit</note>
       <tuv lang="en">
         <seg>It represents the complete filename of the source file, including the extension.</seg>
       </tuv>
@@ -41294,6 +41295,7 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
     </tu>
     <tu>
+      <note>OK</note>
       <tuv lang="en">
         <seg>OmegaT can automatically create new file names for the files you create, by adding a language code or a time stamp, for example.</seg>
       </tuv>
@@ -41796,6 +41798,7 @@ published by the Free Software Foundation, either version 3 of the License, or
       </tuv>
     </tu>
     <tu>
+      <note>par exemple</note>
       <tuv lang="en">
         <seg>OmegaT is instructed to use a mandatory encoding for certain file formats (Java properties, for example).</seg>
       </tuv>
@@ -42246,6 +42249,7 @@ installed on your system.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>la déclaration = féminin</note>
       <tuv lang="en">
         <seg>OmegaT uses the encoding declaration in the source file, if present, to identify the encoding (HTML or XML based files).</seg>
       </tuv>
@@ -51463,6 +51467,7 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
     </tu>
     <tu>
+      <note>espace en trop</note>
       <tuv lang="en">
         <seg>Several filters offer options.</seg>
       </tuv>
@@ -55113,6 +55118,7 @@ Les remplacements portent sur les segments cible du projet, qu'ils soient déjà
       </tuv>
     </tu>
     <tu>
+      <note>Vous comprenez ?</note>
       <tuv lang="en">
         <seg>Text files do not have generic paragraph markers.</seg>
       </tuv>
@@ -57301,6 +57307,7 @@ instead.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>l'UI est la bonne ?</note>
       <tuv lang="en">
         <seg>The easiest way to modify it is to use the &lt;g0&gt;Edit Pattern&lt;/g0&gt; dialog.</seg>
       </tuv>
@@ -59763,7 +59770,8 @@ protocols for communication across the network.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>qui </note>
+      <note>champs d'encodage ?
+-&gt; qui incluent</note>
       <tuv lang="en">
         <seg>The source and target encoding fields use drop-down menus listing all supported encodings.</seg>
       </tuv>
@@ -60061,6 +60069,7 @@ making modifications to it.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>masque</note>
       <tuv lang="en">
         <seg>The target filename pattern uses a special syntax.</seg>
       </tuv>
@@ -78584,6 +78593,7 @@ Ok. </note>
       </tuv>
     </tu>
     <tu>
+      <note>c'est quoi une extension ?</note>
       <tuv lang="en">
         <seg>name of the source file, without the extension</seg>
       </tuv>
@@ -80418,6 +80428,7 @@ Ok. </note>
       </tuv>
     </tu>
     <tu>
+      <note>maladroit</note>
       <tuv lang="en">
         <seg>specifies the maximum number of characters before breaking a long line.</seg>
       </tuv>
