@@ -2347,9 +2347,9 @@ java -jar OmegaT.jar $*</seg>
         <seg>'*' matches zero or more characters ('run*' matches 'run', 'runs', 'running', etc.)
 '?' matches exactly one character ('run?' matches 'runs' and 'rung', but not 'run' or 'running').</seg>
       </tuv>
-      <tuv lang="fr" changeid="briac" changedate="20230305T160502Z" creationid="briac" creationdate="20230305T160324Z">
-        <seg>Le caractère « * » correspond à zéro ou plusieurs caractères. La recherche sur « mon* » donnera par exemple les résultats « mon », « monde », « monter ».
-Le caractère « ? » correspond à un seul caractère. La recherche sur « mon? » donnera par exemple les résultat « mont » et « mono », mais pas « monde ».</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230306T065303Z" creationid="briac" creationdate="20230305T160324Z">
+        <seg>Le caractère « * » correspond à zéro ou plusieurs caractères. La recherche sur « mon* » correspond par exemple à « mon », « monde », « monter ».
+Le caractère « ? » correspond à un seul caractère. La recherche sur « mon? » correspond donc à « mont » et « mono », mais pas à « monde ».</seg>
       </tuv>
     </tu>
     <tu>
@@ -67875,13 +67875,14 @@ for which you have or can give appropriate copyright permission.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Wildcards:
 Both exact and keyword searches support the * and ?</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20230306T065044Z" creationid="briac" creationdate="20230305T160315Z">
+      <tuv lang="fr" changeid="suzume" changedate="20230306T065114Z" creationid="briac" creationdate="20230305T160315Z">
         <seg>Jokers :
-« * » et « ? » peuvent être utilisés dans les recherches exactes et par mots clés.</seg>
+Les caractères jokers « * » et « ? » peuvent être utilisés dans les recherches exactes et par mots clés.</seg>
       </tuv>
     </tu>
     <tu>
