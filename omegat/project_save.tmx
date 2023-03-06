@@ -66698,6 +66698,14 @@ la configuration actuelle est de {0} Mo ;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>User can select from three options, Previous and next paragraphs, &lt;trans unit&gt; ID, or &lt;trans-unit&gt; resname attribute when available, when unavailable, the ID will be used as a fallback.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230306T133851Z" creationid="Anand" creationdate="20230306T133851Z">
+        <seg>L'utilisateur peut sélectionner à partir de trois options :  les paragraphes suivants et précédents, les identifiants &lt;trans unit&gt;, ou l'attribut resname de &lt;trans-unit&gt; lorsqu'il est disponible. S'il ne l'est pas l'identifiant sera utilisé à la place. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>User canceled signing (no passphrase provided)</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20220317T141430Z" creationid="suzume" creationdate="20220317T141430Z">
