@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_02bf26211" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -17353,6 +17353,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Close Autocompleter</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T135336Z" creationid="Léo Delaune" creationdate="20230306T135336Z">
+        <seg>Fermer l'autocompléteur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Close Project</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130421T223610Z">
@@ -17985,6 +17993,22 @@ kolekti -b C:\[...]\trunk\doc_src2 publish [-j JOB] -l fr,en C:\[...]\trunk\doc_
       </tuv>
       <tuv lang="fr">
         <seg>Confirmer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Confirm Autocompleter Without Closing</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T135328Z" creationid="Léo Delaune" creationdate="20230306T135328Z">
+        <seg>Valider l'autocompléteur sans le fermer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Confirm and Close Autocompleter</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T135301Z" creationid="Léo Delaune" creationdate="20230306T135301Z">
+        <seg>Valider et fermer l'autocompléteur</seg>
       </tuv>
     </tu>
     <tu>
@@ -20054,6 +20078,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20101112T182928Z">
         <seg>Dia&amp;grammes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>DOWN</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T135444Z" creationid="Léo Delaune" creationdate="20230306T135444Z">
+        <seg>DOWN</seg>
       </tuv>
     </tu>
     <tu>
@@ -27041,6 +27073,14 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Go Down The List</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T135426Z" creationid="Léo Delaune" creationdate="20230306T135426Z">
+        <seg>Aller en fin de liste</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Go To</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20200724T173306Z" creationid="briac" creationdate="20200724T173306Z">
@@ -27077,6 +27117,22 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130421T165634Z">
         <seg>Menu Atteindre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go Up One Page</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T135457Z" creationid="Léo Delaune" creationdate="20230306T135457Z">
+        <seg>Remonter d'une page</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go Up The List</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T135410Z" creationid="Léo Delaune" creationdate="20230306T135410Z">
+        <seg>Aller en haut de la liste</seg>
       </tuv>
     </tu>
     <tu>
@@ -42841,6 +42897,14 @@ happen should you file a bug report.</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T135133Z" creationid="Léo Delaune" creationdate="20230306T135133Z">
         <seg>Open Autocompleter Next View</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open Autocompleter Previous View</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T135209Z" creationid="Léo Delaune" creationdate="20230306T135209Z">
+        <seg>Ouvrir la vue précédente de l'autocompléteur</seg>
       </tuv>
     </tu>
     <tu>
@@ -65224,6 +65288,14 @@ Les recherches exactes correspondent à l'ensemble de la chaîne recherchée.</s
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>UP</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T135411Z" creationid="Léo Delaune" creationdate="20230306T135411Z">
+        <seg>UP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>URL</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160427T163214Z" creationid="Didier" creationdate="20160427T163214Z">
@@ -72251,10 +72323,58 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>autocompleterClose</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T135401Z" creationid="Léo Delaune" creationdate="20230306T135401Z">
+        <seg>autocompleterClose</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>autocompleterConfirmAndClose</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T135302Z" creationid="Léo Delaune" creationdate="20230306T135302Z">
+        <seg>autocompleterConfirmAndClose</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>autocompleterConfirmWithoutClose</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T135329Z" creationid="Léo Delaune" creationdate="20230306T135329Z">
+        <seg>autocompleterConfirmWithoutClose</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>autocompleterListDown</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T135443Z" creationid="Léo Delaune" creationdate="20230306T135443Z">
+        <seg>autocompleterListDown</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>autocompleterListUp</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T135411Z" creationid="Léo Delaune" creationdate="20230306T135411Z">
+        <seg>autocompleterListUp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>autocompleterNextView</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T135135Z" creationid="Léo Delaune" creationdate="20230306T135135Z">
         <seg>autocompleterNextView</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>autocompleterPrevView</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T135210Z" creationid="Léo Delaune" creationdate="20230306T135210Z">
+        <seg>autocompleterPrevView</seg>
       </tuv>
     </tu>
     <tu>
@@ -73391,6 +73511,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221220T111048Z" creationid="suzume" creationdate="20221220T111048Z">
         <seg>ctrl shift S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl shift SPACE</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T135214Z" creationid="Léo Delaune" creationdate="20230306T135214Z">
+        <seg>ctrl shift ESPACE</seg>
       </tuv>
     </tu>
     <tu>
