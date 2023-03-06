@@ -22128,6 +22128,14 @@ several security warnings.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ENTER</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T094753Z" creationid="Léo Delaune" creationdate="20230306T094753Z">
+        <seg>ENTREE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>EPWING plugin</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210110T133606Z" creationid="suzume" creationdate="20210110T133606Z">
@@ -26924,6 +26932,14 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T094212Z" creationid="Léo Delaune" creationdate="20230306T094212Z">
         <seg>Aller a segment précédent</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to Previous Segment (not TAB)</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T094811Z" creationid="Léo Delaune" creationdate="20230306T094811Z">
+        <seg>Atteindre le segment précédent (non tabulé)</seg>
       </tuv>
     </tu>
     <tu>
@@ -32334,6 +32350,14 @@ patent against the party.</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T210542Z" creationid="Léo Delaune" creationdate="20230305T210542Z">
         <seg> Insert Bidi Control Character/Right-to-Left Mark (RLM U+200F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert Linebreak</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T094906Z" creationid="Léo Delaune" creationdate="20230306T094906Z">
+        <seg>Insérer un saut de ligne</seg>
       </tuv>
     </tu>
     <tu>
@@ -72099,6 +72123,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ctrl ENTER</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T094834Z" creationid="Léo Delaune" creationdate="20230306T094834Z">
+        <seg>ctrl ENTREE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ctrl F</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221220T111004Z" creationid="suzume" creationdate="20221220T111004Z">
@@ -72979,6 +73011,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>editorInsertLineBreak</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T095050Z" creationid="Léo Delaune" creationdate="20230306T095050Z">
+        <seg>editorInsertLineBreak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>editorNextSegment</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T094140Z" creationid="Léo Delaune" creationdate="20230306T094140Z">
@@ -72987,10 +73027,26 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>editorNextSegmentNotTab</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T094748Z" creationid="Léo Delaune" creationdate="20230306T094748Z">
+        <seg>editorNextSegmentNotTab</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>editorPrevSegment</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T094213Z" creationid="Léo Delaune" creationdate="20230306T094213Z">
         <seg>editorPrevSegment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editorPrevSegmentNotTab</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T094822Z" creationid="Léo Delaune" creationdate="20230306T094822Z">
+        <seg>editorPrevSegmentNotTab</seg>
       </tuv>
     </tu>
     <tu>
@@ -76195,6 +76251,14 @@ Ok. </note>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T210417Z" creationid="Léo Delaune" creationdate="20230305T210417Z">
         <seg> meta E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta ENTER</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T094841Z" creationid="Léo Delaune" creationdate="20230306T094841Z">
+        <seg>meta ENTREE</seg>
       </tuv>
     </tu>
     <tu>
