@@ -45524,6 +45524,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Preferences set in this dialog are saved to the default &lt;l0&gt;configuration folder&lt;/l0&gt; and apply to all translation projects unless you have specified a different configuration folder.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T193733Z" creationid="Léo Delaune" creationdate="20230306T193733Z">
+        <seg>Les préférences définies dans cette boîte de dialogue sont enregistrées dans le &lt;l0&gt;dossier de configuration&lt;/l0&gt; par défaut et s'appliquent à tous les projets de traduction, sauf si vous avez spécifié un dossier de configuration différent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Preferences system save operation failed!</seg>
       </tuv>
       <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210504T111755Z">
@@ -66768,6 +66776,14 @@ la configuration actuelle est de {0} Mo ;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to access this dialog (the &lt;l2&gt;OmegaT&lt;/l2&gt; menu on macOS).</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T193121Z" creationid="Léo Delaune" creationdate="20230306T193121Z">
+        <seg>Utilisez &lt;l0/&gt;&lt;l1/&gt; pour accéder à cette boîte de dialogue (le menu &lt;l2&gt;OmegaT&lt;/l2&gt; sur macOS).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l1&gt;$&lt;o2&gt;n&lt;/o2&gt;&lt;/l1&gt;, where &lt;o3&gt;n&lt;/o3&gt; is the number of the group defined in the search.</seg>
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230306T110052Z" creationid="sirine" creationdate="20230306T110052Z">
@@ -67085,6 +67101,14 @@ la configuration actuelle est de {0} Mo ;</seg>
       </tuv>
       <tuv lang="fr" changeid="jchelary" changedate="20130526T150802Z">
         <seg>Utiliser la langue de l'installation dans OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the search field at the top of the preferences list to look for specific items.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T193211Z" creationid="Léo Delaune" creationdate="20230306T193211Z">
+        <seg>Utilisez le champ de recherche en haut de la liste des préférences pour rechercher des éléments spécifiques.</seg>
       </tuv>
     </tu>
     <tu>
