@@ -22429,6 +22429,14 @@ several security warnings.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>END</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T140214Z" creationid="Léo Delaune" creationdate="20230306T140214Z">
+        <seg>FIN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ENTER</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T094753Z" creationid="Léo Delaune" creationdate="20230306T094753Z">
@@ -27344,6 +27352,14 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Go to First Row in Table</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T140209Z" creationid="Léo Delaune" creationdate="20230306T140134Z">
+        <seg>Aller à la première ligne du tableau</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Go to First Segment</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T101003Z" creationid="Léo Delaune" creationdate="20230306T101003Z">
@@ -27356,6 +27372,14 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T135912Z" creationid="Léo Delaune" creationdate="20230306T135912Z">
         <seg>Aller au premier tableau</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to Last Row in Table</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T140159Z" creationid="Léo Delaune" creationdate="20230306T140159Z">
+        <seg>Aller à la dernière ligne du tableau</seg>
       </tuv>
     </tu>
     <tu>
@@ -27636,6 +27660,14 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021852Z">
         <seg>Fichier HHC trop gros !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>HOME</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T140138Z" creationid="Léo Delaune" creationdate="20230306T140138Z">
+        <seg>ACCUEIL</seg>
       </tuv>
     </tu>
     <tu>
@@ -72709,10 +72741,26 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>autocompleterTableFirstInRow</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T140135Z" creationid="Léo Delaune" creationdate="20230306T140135Z">
+        <seg>autocompleterTableFirstInRow</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>autocompleterTableLast</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T140115Z" creationid="Léo Delaune" creationdate="20230306T140115Z">
         <seg>autocompleterTableLast</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>autocompleterTableLastInRow</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T140211Z" creationid="Léo Delaune" creationdate="20230306T140211Z">
+        <seg>autocompleterTableLastInRow</seg>
       </tuv>
     </tu>
     <tu>
@@ -77869,6 +77917,14 @@ Ok. </note>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T210417Z" creationid="Léo Delaune" creationdate="20230305T210417Z">
         <seg> meta E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta END</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T140121Z" creationid="Léo Delaune" creationdate="20230306T140121Z">
+        <seg>meta END</seg>
       </tuv>
     </tu>
     <tu>
