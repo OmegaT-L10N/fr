@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_02bf2621" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -24762,12 +24762,11 @@ dommage...</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Peut-on se passer de la balise?</note>
       <tuv lang="en">
         <seg>Files in the &lt;l0/&gt; folder are overwritten every time you create them if they are created with the same name.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230302T173716Z" creationid="Anand" creationdate="20230302T173716Z">
-        <seg>Les fichiers dans le dossier cible sont remplacés à chaque fois que vous les créez, s'ils sont créés avec le même nom.</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230306T125001Z" creationid="Anand" creationdate="20230302T173716Z">
+        <seg>Les fichiers dans le dossier &lt;l0/&gt; sont remplacés à chaque fois que vous les créez, s'ils sont créés avec le même nom.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43751,6 +43750,14 @@ of promoting the sharing and reuse of software generally.</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130416T140859Z">
         <seg>Fichiers PO (*.po)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PO files that use &lt;l0&gt;msgid&lt;/l0&gt; as the source container and expect the translation to be put in &lt;l1&gt;msgstr&lt;/l1&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230306T125304Z" creationid="Anand" creationdate="20230306T125304Z">
+        <seg>Les fichiers PO qui utilisent &lt;l0&gt;msgid&lt;/l0&gt; comme </seg>
       </tuv>
     </tu>
     <tu>
