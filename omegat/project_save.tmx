@@ -30725,6 +30725,14 @@ free software which everyone can redistribute and change under these terms.</seg
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you disable this option, machine translations will only be fetched when you use &lt;l0/&gt;&lt;l1/&gt; in the current segment.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T195459Z" creationid="Léo Delaune" creationdate="20230306T195459Z">
+        <seg>Si vous désactivez cette option, les traductions automatiques ne seront récupérées que lorsque vous utiliserez &lt;l0/&gt;&lt;l1/&gt; dans le segment actuel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you do not already have an Azure Marketplace account you will need to register one first.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20150313T151531Z" creationid="Didier" creationdate="20150313T151531Z">
@@ -43726,6 +43734,14 @@ happen should you file a bug report.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210202T122615Z" creationid="suzume" creationdate="20210202T122615Z">
         <seg>Ouvre le dossier local où les fichiers de configuration d'OmegaT sont stockées (son emplacement dépend du système d'exploitation).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Opens the local folder where OmegaT configuration files are stored.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T195401Z" creationid="Léo Delaune" creationdate="20230306T195401Z">
+        <seg>Ouvrir le dossier local où sont stockés les fichiers de configuration d'OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58343,6 +58359,14 @@ freedom to share and change it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The location depends on the operating system and launch options.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T195421Z" creationid="Léo Delaune" creationdate="20230306T195421Z">
+        <seg>L'emplacement dépend du système d'exploitation et des options de lancement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The location does not matter, since you can add it to the command line at launch (see below).</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130503T134839Z">
@@ -59106,6 +59130,14 @@ modification follow.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
         <seg>Le processus de segmentation peut être représenté comme ceci : le curseur se déplace le long du texte, un caractère à la fois.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The program will ask for confirmation before closing.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T195327Z" creationid="Léo Delaune" creationdate="20230306T195327Z">
+        <seg>Le programme demandera une confirmation avant la fermeture.</seg>
       </tuv>
     </tu>
     <tu>
