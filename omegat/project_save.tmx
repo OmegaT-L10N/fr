@@ -396,6 +396,22 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>${file-source-encoding}</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230306T140013Z" creationid="Anand" creationdate="20230306T140013Z">
+        <seg>${file-source-encoding}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${file-target-encoding}</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230306T140037Z" creationid="Anand" creationdate="20230306T140037Z">
+        <seg>${file-target-encoding}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>${fileNameOnly}</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T105230Z">
@@ -492,6 +508,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>${system-host-name}</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230306T135948Z" creationid="Anand" creationdate="20230306T135948Z">
+        <seg>${system-host-name}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>${system-os-name}</seg>
       </tuv>
       <tuv lang="fr" changeid="Anand" changedate="20230306T135746Z" creationid="Anand" creationdate="20230306T135746Z">
@@ -528,6 +552,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="fr" changeid="Anand" changedate="20230306T135324Z" creationid="Anand" creationdate="20230302T180434Z">
         <seg>${targetLanguage}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${targetLocaleLCID}</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230306T140053Z" creationid="Anand" creationdate="20230306T140053Z">
+        <seg>${targetLocaleLCID}</seg>
       </tuv>
     </tu>
     <tu>
@@ -12219,6 +12251,14 @@ this License without regard to the additional permissions.</seg>
       </tuv>
       <tuv lang="fr" changeid="jchelary" changedate="20130526T135722Z">
         <seg>Les permissions additionnelles qui sont applicables à l’entier Pro- gramme doivent être traitées comme si elles étaient incluses dans cette Licence, dans la mesure où elles sont valides au terme de la loi applicable. Si des permis- sions additionnelles s’appliquent uniquement à une partie du Programme, cette partie peut être utilisée séparément selon les termes de ces permissions, mais l’entier Programme demeure soumis à cette Licence sans prise en compte des Permissions additionnelles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Additional variants are available for &lt;l0&gt;${nameOnly}&lt;/l0&gt; and &lt;l1&gt;${extension}&lt;/l1&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230306T140244Z" creationid="Anand" creationdate="20230306T140244Z">
+        <seg>Des variantes additionnelles sont disponibles pour &lt;l0&gt;${nameOnly}&lt;/l0&gt; et &lt;l1&gt;${extension}&lt;/l1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38110,6 +38150,14 @@ impose that choice.</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20170329T125322Z" creationid="briac" creationdate="20170329T125322Z">
         <seg>Microsoft Word, Excel, Powerpoint</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Microsoft target locale</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230306T140120Z" creationid="Anand" creationdate="20230306T140120Z">
+        <seg>paramètres locaux cible Microsoft</seg>
       </tuv>
     </tu>
     <tu>
@@ -74531,6 +74579,22 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>encoding of the source file</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230306T140034Z" creationid="Anand" creationdate="20230306T140034Z">
+        <seg>encodage du fichier source</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>encoding of the target file</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230306T140048Z" creationid="Anand" creationdate="20230306T140048Z">
+        <seg>encodage du fichier cible</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>eng</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T095916Z">
@@ -75303,6 +75367,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T095948Z">
         <seg>ho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>host name on the system</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230306T140003Z" creationid="Anand" creationdate="20230306T140003Z">
+        <seg>nom de l'hôte sur le système</seg>
       </tuv>
     </tu>
     <tu>
