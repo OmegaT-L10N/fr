@@ -15547,6 +15547,7 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>toute</note>
       <tuv lang="en">
         <seg>By default, OmegaT removes any leading and trailing whitespace from the translatable contents.</seg>
       </tuv>
@@ -20285,6 +20286,7 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
     </tu>
     <tu>
+      <note>ramène ?</note>
       <tuv lang="en">
         <seg>Deleting that file also resets the filter preferences and reverts the project to global file filters.</seg>
       </tuv>
@@ -21329,6 +21331,7 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Vous comprenez ?</note>
       <tuv lang="en">
         <seg>Do not use the file name to identify alternate translations</seg>
       </tuv>
@@ -27708,6 +27711,7 @@ a disparu...</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Dissimuler</note>
       <tuv lang="en">
         <seg>Hide leading and trailing tags</seg>
       </tuv>
@@ -27716,6 +27720,7 @@ a disparu...</seg>
       </tuv>
     </tu>
     <tu>
+      <note>dissimuler</note>
       <tuv lang="en">
         <seg>Hiding them from the translatable contents ensures that you will not erase or modify them by mistake.</seg>
       </tuv>
@@ -29600,6 +29605,8 @@ authors' reputations.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>source = singulier ? pluriel ?
+espaces = féminin</note>
       <tuv lang="en">
         <seg>If the source documents contain whitespace used to control the layout, the whitespace that must be will retained in the translated document.</seg>
       </tuv>
@@ -29818,6 +29825,9 @@ Public License instead of this License.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Comment est-ce qu'une traduction alternative est identifiée et où on voit ça ?
+
+(si votre première réponse est "je ne sais pas", j'attend votre deuxième réponse)</note>
       <tuv lang="en">
         <seg>If this option is checked, only the previous/next segments or a segment identifier will be used to characterize an alternative translation.</seg>
       </tuv>
@@ -30549,6 +30559,7 @@ OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>vous ...</note>
       <tuv lang="en">
         <seg>If you keep the leading and trailing tags, make sure you also include them in the translated text.</seg>
       </tuv>
@@ -35450,6 +35461,7 @@ Exécutez OmegaT de la façon suivante.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>demandées ?</note>
       <tuv lang="en">
         <seg>Leading and trailing tags are generally required by OmegaT to properly recreate the translated segment.</seg>
       </tuv>
@@ -38034,6 +38046,7 @@ impose that choice.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>une espace en trop</note>
       <tuv lang="en">
         <seg>Modified local file filters are saved in the &lt;l0/&gt; file, located in the project folder.</seg>
       </tuv>
