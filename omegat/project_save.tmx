@@ -33702,6 +33702,14 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is special because it can never be used on its own.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230306T110919Z" creationid="sirine" creationdate="20230306T110919Z">
+        <seg>Il est spécial, car il ne peut jamais être utilisé seul.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is the recommended version for first-time users.</seg>
       </tuv>
       <tuv lang="fr" changeid="briglegrand" changedate="20110128T095917Z">
@@ -33778,6 +33786,14 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160322T170217Z" creationid="Didier" creationdate="20160322T170217Z">
         <seg>Il est parfois également possible d'ouvrir un projet OmegaT en double-cliquant sur un fichier &lt;f1&gt;omegat.project&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It must be preceded by the &lt;l0&gt;\&lt;/l0&gt; if you need to match the closing parenthesis character itself.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230306T111027Z" creationid="sirine" creationdate="20230306T111027Z">
+        <seg>Il doit être précédé de &lt;l0&gt;\&lt;/l0&gt; si vous devez faire correspondre le caractère de la parenthèse fermante à lui-même.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58665,6 +58681,14 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The sequence number (including the parenthesis) at the beginning of each line in a list such as:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230306T111445Z" creationid="sirine" creationdate="20230306T111445Z">
+        <seg>Le nombre séquentiel (y compris les parenthèses) au début de chaque ligne dans une liste comme :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The server can exist in the local network but in the majority of cases it will be available on internet, i.e. via URL address.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130527T131529Z">
@@ -60713,6 +60737,14 @@ under the terms of this General Public License.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130528T083049Z">
         <seg>Ce chapitre est destiné aux utilisateurs confirmés qui éprouvent le besoin de définir leurs propres règles de segmentation et de concevoir des éléments de recherche clé plus complexes et plus puissants.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This character closes a group.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230306T110843Z" creationid="sirine" creationdate="20230306T110843Z">
+        <seg>Ce caractère clôt un groupe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71175,6 +71207,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230303T100612Z" creationid="sirine" creationdate="20230303T100612Z">
         <seg>^An|^The</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>^\d+\)</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230306T111031Z" creationid="sirine" creationdate="20230306T111031Z">
+        <seg>^\d+\)</seg>
       </tuv>
     </tu>
     <tu>
