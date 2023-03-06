@@ -26896,10 +26896,34 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Go to Next Segment</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T094118Z" creationid="Léo Delaune" creationdate="20230306T094118Z">
+        <seg>Allez au prochain segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to Next Segment (not TAB)</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T094734Z" creationid="Léo Delaune" creationdate="20230306T094734Z">
+        <seg>Atteindre le prochain segment  (non tabulé)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Go to Preferences &gt; External Search to enable.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20220726T013615Z" creationid="suzume" creationdate="20220726T013615Z">
         <seg>Allez à Préférences &gt; Recherche externe pour les activer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to Previous Segment</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T094212Z" creationid="Léo Delaune" creationdate="20230306T094212Z">
+        <seg>Aller a segment précédent</seg>
       </tuv>
     </tu>
     <tu>
@@ -34214,8 +34238,8 @@ itself on the first run.</seg>
       <tuv lang="en">
         <seg>Jump to Entry in Editor</seg>
       </tuv>
-      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T093214Z" creationid="Léo Delaune" creationdate="20230306T093214Z">
-        <seg>Jump to Entry in Editor</seg>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T094044Z" creationid="Léo Delaune" creationdate="20230306T093214Z">
+        <seg>Aller à l'éditeur</seg>
       </tuv>
     </tu>
     <tu>
@@ -53074,6 +53098,14 @@ address new problems or concerns.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210505T233627Z" creationid="Didier" creationdate="20140414T130225Z">
         <seg>les &amp;MT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TAB</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T094142Z" creationid="Léo Delaune" creationdate="20230306T094142Z">
+        <seg>TAB</seg>
       </tuv>
     </tu>
     <tu>
@@ -72947,6 +72979,22 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>editorNextSegment</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T094140Z" creationid="Léo Delaune" creationdate="20230306T094140Z">
+        <seg>editorNextSegment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editorPrevSegment</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T094213Z" creationid="Léo Delaune" creationdate="20230306T094213Z">
+        <seg>editorPrevSegment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ee</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T095920Z">
@@ -78397,6 +78445,14 @@ Ok. </note>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221220T110858Z" creationid="suzume" creationdate="20221220T110858Z">
         <seg>Maj+F3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>shift TAB</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T094215Z" creationid="Léo Delaune" creationdate="20230306T094215Z">
+        <seg>shift TAB</seg>
       </tuv>
     </tu>
     <tu>
