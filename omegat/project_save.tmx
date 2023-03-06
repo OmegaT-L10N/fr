@@ -7232,6 +7232,15 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>&lt;html&gt;&lt;i&gt;Preferences&lt;/i&gt; &amp;gt; &lt;i&gt;General&lt;/i&gt; &amp;gt; &lt;i&gt;Use TAB to advance&lt;/i&gt; is checked&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230306T113507Z" creationid="suzume" creationdate="20230306T113507Z">
+        <seg>&lt;html&gt;&lt;i&gt;Préférences&lt;/i&gt; &amp;gt; &lt;i&gt;Générales&lt;/i&gt; &amp;gt; &lt;i&gt;Utiliser TAB pour valider&lt;/i&gt; est cochée&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>&lt;html&gt;Add patterns using wildcards (Apache Ant style): &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;?&lt;/code&gt;, &lt;code&gt;**&lt;/code&gt;&lt;br&gt;Example: &lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
       </tuv>
