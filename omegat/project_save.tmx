@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_02bf26211" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -44400,6 +44400,14 @@ mirage, pas de page...</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Paragraph or sentence?</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230306T141530Z" creationid="Anand" creationdate="20230306T141523Z">
+        <seg>Paragraphe ou phrase ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Paragraph segmentation is advantageous in certain cases, such as highly creative or stylistic translations in which the translator may wish to change the order of entire sentences; for the majority of projects, however, sentence segmentation is a choice to be preferred, since it delivers better matches from previous translations.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021550Z">
@@ -67011,6 +67019,14 @@ la configuration actuelle est de {0} Mo ;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use the &lt;l0/&gt; project property to select the type of segmentation.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230306T142352Z" creationid="Anand" creationdate="20230306T142352Z">
+        <seg>Utilisez les propriétés de projet &lt;l0/&gt; pour sélectionner le type de segmentation. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use the Iceni Infix filter.</seg>
       </tuv>
       <tuv lang="fr" changeid="mdesfray" changedate="20170904T103922Z" creationid="mdesfray" creationdate="20170904T103922Z">
@@ -68498,6 +68514,14 @@ you have just discovered.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160115T140410Z" creationid="Didier" creationdate="20160115T140410Z">
         <seg>Lorsqu'un fichier unique comporte davantage de segments, les segments supplémentaires seront chargés à la demande lors du défilement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When a translation is entered, the segment containing the source text is stored with its translation in the project memory, and subsequently used to match other source segments in the project.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230306T142056Z" creationid="Anand" creationdate="20230306T142056Z">
+        <seg>Lorsqu'une traduction est saisie, le segment contenant le texte source est conservé avec sa traduction dans la mémoire du projet, et est subséquemment utilisé pour correspondre avec d'autres segments sources dans le projet.</seg>
       </tuv>
     </tu>
     <tu>
