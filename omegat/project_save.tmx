@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_02bf26211" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -27097,10 +27097,42 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Go Down One Page</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T135530Z" creationid="Léo Delaune" creationdate="20230306T135530Z">
+        <seg>Descendre d'une page</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Go Down The List</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T135426Z" creationid="Léo Delaune" creationdate="20230306T135426Z">
         <seg>Aller en fin de liste</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go Down in Table</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T135612Z" creationid="Léo Delaune" creationdate="20230306T135612Z">
+        <seg>Descendre dans le tableau</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go Left in Table</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T135635Z" creationid="Léo Delaune" creationdate="20230306T135635Z">
+        <seg>Se déplacer à gauche dans le tableau</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go Right in Table</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T135649Z" creationid="Léo Delaune" creationdate="20230306T135649Z">
+        <seg>Aller à droite dans le tableau</seg>
       </tuv>
     </tu>
     <tu>
@@ -27153,10 +27185,26 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Go Up One Page in Table</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T135811Z" creationid="Léo Delaune" creationdate="20230306T135654Z">
+        <seg>Remonter d'une page dans le tableau</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Go Up The List</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T135410Z" creationid="Léo Delaune" creationdate="20230306T135410Z">
         <seg>Aller en haut de la liste</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go Up in Table</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T135557Z" creationid="Léo Delaune" creationdate="20230306T135557Z">
+        <seg>Remonter dans le tableau</seg>
       </tuv>
     </tu>
     <tu>
@@ -35067,6 +35115,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z" creationid="Didier" creationdate="20140706T175219Z">
         <seg>APPRIS :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LEFT</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T135639Z" creationid="Léo Delaune" creationdate="20230306T135639Z">
+        <seg>GAUCHE</seg>
       </tuv>
     </tu>
     <tu>
@@ -43924,6 +43980,22 @@ of promoting the sharing and reuse of software generally.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>PAGE_DOWN</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T135531Z" creationid="Léo Delaune" creationdate="20230306T135531Z">
+        <seg>PAGE_DOWN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PAGE_UP</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T135504Z" creationid="Léo Delaune" creationdate="20230306T135504Z">
+        <seg>PAGE_UP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>PDF Input</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130511T164458Z">
@@ -46420,6 +46492,14 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20161116T095805Z" creationid="Didier" creationdate="20161116T095805Z">
         <seg>Schéma RELAX NG pour XML (*.rng)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>RIGHT</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T135700Z" creationid="Léo Delaune" creationdate="20230306T135651Z">
+        <seg>DROITE</seg>
       </tuv>
     </tu>
     <tu>
@@ -72386,6 +72466,22 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>autocompleterListPageDown</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T135531Z" creationid="Léo Delaune" creationdate="20230306T135531Z">
+        <seg>autocompleterListPageDown</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>autocompleterListPageUp</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T135503Z" creationid="Léo Delaune" creationdate="20230306T135503Z">
+        <seg>autocompleterListPageUp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>autocompleterListUp</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T135411Z" creationid="Léo Delaune" creationdate="20230306T135411Z">
@@ -72406,6 +72502,38 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T135210Z" creationid="Léo Delaune" creationdate="20230306T135210Z">
         <seg>autocompleterPrevView</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>autocompleterTableDown</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T135612Z" creationid="Léo Delaune" creationdate="20230306T135612Z">
+        <seg>autocompleterTableDown</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>autocompleterTableLeft</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T135635Z" creationid="Léo Delaune" creationdate="20230306T135635Z">
+        <seg>autocompleterTableLeft</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>autocompleterTableRight</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T135649Z" creationid="Léo Delaune" creationdate="20230306T135649Z">
+        <seg>autocompleterTableRight</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>autocompleterTableUp</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T135557Z" creationid="Léo Delaune" creationdate="20230306T135557Z">
+        <seg>autocompleterTableUp</seg>
       </tuv>
     </tu>
     <tu>
