@@ -27447,6 +27447,14 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Having untranslated contents in the translated files sometimes create compatibility issues.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230306T130057Z" creationid="Anand" creationdate="20230306T130057Z">
+        <seg>La présence de contenus non traduits dans les fichiers traduits crée parfois des problèmes de compatibilité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Having untranslated contents in the translated files sometimes creates compatibility issues.</seg>
       </tuv>
       <tuv lang="fr" changeid="Anand" changedate="20230303T133422Z" creationid="Anand" creationdate="20230303T133237Z">
@@ -34237,6 +34245,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20140224T151325Z" creationid="Didier" creationdate="20140224T151325Z">
         <seg>Options du filtre Paquets de ressources Java</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Java Resource bundle</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230306T130112Z" creationid="Anand" creationdate="20230306T130112Z">
+        <seg>Paquets de ressources Java</seg>
       </tuv>
     </tu>
     <tu>
@@ -43757,8 +43773,8 @@ of promoting the sharing and reuse of software generally.</seg>
       <tuv lang="en">
         <seg>PO files that use &lt;l0&gt;msgid&lt;/l0&gt; as an ID code, use &lt;l1&gt;msgstr&lt;/l1&gt; as the source container and expect the translation to overwrite &lt;l2&gt;msgstr&lt;/l2&gt;</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230306T125917Z" creationid="Anand" creationdate="20230306T125917Z">
-        <seg>Les fichiers PO qui utilisent &lt;l0&gt;msgid&lt;/l0&gt; comme identifiant, utilisent &lt;l1&gt;msgstr&lt;/l1&gt;comme conteneur source et attendent que la traduction écrase &lt;l2&gt;msgstr&lt;/l2&gt;.</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230306T130027Z" creationid="Anand" creationdate="20230306T125917Z">
+        <seg>Les fichiers PO qui utilisent &lt;l0&gt;msgid&lt;/l0&gt; comme identifiant, utilisent &lt;l1&gt;msgstr&lt;/l1&gt;comme conteneur source et attendent que la traduction remplace le contenu de &lt;l2&gt;msgstr&lt;/l2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56930,6 +56946,14 @@ instead.</seg>
       </tuv>
       <tuv lang="fr" changeid="briglegrand" changedate="20120622T171810Z">
         <seg>Paquet de fichiers destiné aux contributeurs pour la localisation de ce site.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The filter checks Java MessageFormat patterns (e.g. \{0\}) by default.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230306T130337Z" creationid="Anand" creationdate="20230306T130337Z">
+        <seg>Le filtre vérifie les masques Java MessageFormat (ex. : \{0\}) par défaut.</seg>
       </tuv>
     </tu>
     <tu>
