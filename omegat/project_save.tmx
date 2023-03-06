@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_02bf26211" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -15104,6 +15104,7 @@ documentation.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>modèle ? masque ?</note>
       <tuv lang="en">
         <seg>Both dialogs allow you to customize the filename patterns for the source and target files associated to this the filter, and select their respective encoding.</seg>
       </tuv>
@@ -21708,6 +21709,7 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>espace double</note>
       <tuv lang="en">
         <seg>Double-click the editable fields to make simple modifications or click on the &lt;g0&gt;Edit...&lt;/g0&gt; button to access the modification dialog.</seg>
       </tuv>
@@ -62689,6 +62691,7 @@ public, and in some countries other activities as well.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>modèle ? masque ? on fait quoi avec le jargon regex ?</note>
       <tuv lang="en">
         <seg>To add a filter pattern, click on &lt;g0&gt;Add...&lt;/g0&gt; to open a similar dialog.</seg>
       </tuv>
@@ -62785,6 +62788,7 @@ public, and in some countries other activities as well.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>vous comprenez ?</note>
       <tuv lang="en">
         <seg>To associate a filter to a file, OmegaT checks its file extension and attempts to match it to a source filename patterns in a filter.</seg>
       </tuv>
@@ -66394,6 +66398,7 @@ la configuration actuelle est de {0} Mo ;</seg>
       </tuv>
     </tu>
     <tu>
+      <note>l'UI est la bonne ?</note>
       <tuv lang="en">
         <seg>Use the &lt;g0&gt;Filename Variables&lt;/g0&gt; drop-down menu to customize the target file name.</seg>
       </tuv>
