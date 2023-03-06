@@ -16173,6 +16173,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Characters</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230306T120132Z" creationid="sirine" creationdate="20230306T120132Z">
+        <seg>Caractères</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Characters (including spaces)</seg>
       </tuv>
       <tuv lang="fr">
@@ -46714,6 +46722,14 @@ ces mots : « pas de page »...</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remember that most &lt;e0&gt;alphabetic&lt;/e0&gt; characters preceded by a &lt;l1&gt;\&lt;/l1&gt; turn into an expression that represents &lt;e2&gt;not the character itself, but its associated special meaning&lt;/e2&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230306T115934Z" creationid="sirine" creationdate="20230306T115934Z">
+        <seg>Rappelez-vous que la plupart des &lt;e0&gt;caractères alphabétiques&lt;/e0&gt; précédés d'un &lt;l1&gt;\&lt;/l1&gt; se transforment en une expression qui représente &lt;e2&gt;non pas le caractère lui-même, mais la signification particulière qui lui est associée&lt;/e2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remember where you are creating the project, because you will need to return to it later.</seg>
       </tuv>
       <tuv lang="fr" changeid="brigitte" changedate="20130626T072911Z">
@@ -51275,6 +51291,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210110T094829Z" creationid="suzume" creationdate="20210110T094829Z">
         <seg>De même, saisir &lt;u0&gt;&lt;.*?&gt;&lt;/u0&gt; permet de s'assurer que des balises html (par exemple) écrites en dur dans le texte à traduire sont conservées à l'identique dans la traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Simple expressions</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230306T115950Z" creationid="sirine" creationdate="20230306T115950Z">
+        <seg>Les expressions simples</seg>
       </tuv>
     </tu>
     <tu>
@@ -59005,6 +59029,14 @@ protocols for communication across the network.</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T093309Z" creationid="Léo Delaune" creationdate="20230306T093309Z">
         <seg>Les raccourcis qui peuvent être modifiés dans le fichier &lt;f0&gt;EditorShortcuts.properties&lt;/f0&gt;, ainsi que leurs valeurs par défaut, sont présentés dans le tableau ci-dessous.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The simplest regular expression consist of a single character, or combination of a &lt;l0&gt;\&lt;/l0&gt; and a character constituting a unit with a single meaning.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230306T120015Z" creationid="sirine" creationdate="20230306T120015Z">
+        <seg>L'expression régulière la plus simple consiste en un seul caractère, ou en la combinaison d'une &lt;l0&gt;\&lt;/l0&gt; et d'un caractère constituant une unité avec une seule signification.</seg>
       </tuv>
     </tu>
     <tu>
