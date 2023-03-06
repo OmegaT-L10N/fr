@@ -57148,6 +57148,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The default key to validate and leave a segment is &lt;k0&gt;Enter&lt;/k0&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T194450Z" creationid="Léo Delaune" creationdate="20230306T194450Z">
+        <seg>La touche par défaut pour valider et quitter un segment est &lt;k0&gt;Entrée&lt;/k0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The default pattern.</seg>
       </tuv>
       <tuv lang="fr" changeid="Anand" changedate="20230302T174843Z" creationid="Anand" creationdate="20230302T174843Z">
@@ -62750,10 +62758,26 @@ this version will not interfere with it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This option is useful with some Chinese, Japanese or Korean character input systems.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T194553Z" creationid="Léo Delaune" creationdate="20230306T194553Z">
+        <seg>Cette option est utile avec certains systèmes de saisie de caractères chinois, japonais ou coréens.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This option only appears if both the selected files are recognised as Key=Value files.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210204T075050Z" creationid="suzume" creationdate="20210204T075050Z">
         <seg>Cette option n'apparait que si les deux fichiers sélectionnés sont reconnus comme étant de la forme Clé=Valeur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This option sets the segment validation key to &lt;k0&gt;Tab&lt;/k0&gt; instead.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T194530Z" creationid="Léo Delaune" creationdate="20230306T194530Z">
+        <seg>Cette option définit la clé de validation du segment à &lt;k0&gt;Tab&lt;/k0&gt; </seg>
       </tuv>
     </tu>
     <tu>
