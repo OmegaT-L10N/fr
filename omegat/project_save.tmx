@@ -40097,6 +40097,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Numbers such as “1.5”, “23.2” or “5235.8” with a single decimal place and any number of digits before the decimal point.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230306T104912Z" creationid="sirine" creationdate="20230306T104912Z">
+        <seg>Des nombres tels que "1,5", "23,2" ou "5235,8" avec une seule décimale et un nombre quelconque de chiffres avant la décimale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Nuosu</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130412T083011Z">
@@ -56390,6 +56398,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The entire value of numbers such as “5,235.8” or “21,571.9”.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230306T104941Z" creationid="sirine" creationdate="20230306T104941Z">
+        <seg>La valeur entière de nombres tels que "5 235,8" ou "21 571,9".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The entry &lt;e3&gt;Remove translation&lt;/e3&gt; in the same pop up menu also allows to delete the existing translation of the current segment.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130429T132809Z">
@@ -70879,6 +70895,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T105107Z">
         <seg>\d</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\d+.d</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230306T104829Z" creationid="sirine" creationdate="20230306T104829Z">
+        <seg>\d+.d</seg>
       </tuv>
     </tu>
     <tu>
