@@ -20141,6 +20141,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Delete Previous Token</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T095126Z" creationid="Léo Delaune" creationdate="20230306T095126Z">
+        <seg>Supprimer le précédent Token</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Delete the &lt;c0&gt;#&lt;/c0&gt; at the beginning of the line so OmegaT will recognize the shortcut, and add &lt;o1&gt;alt X&lt;/o1&gt; after the &lt;c2&gt;=&lt;/c2&gt; sign at the end of the line:</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T200324Z" creationid="Léo Delaune" creationdate="20230305T200324Z">
@@ -49814,6 +49822,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select All</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T095106Z" creationid="Léo Delaune" creationdate="20230306T095106Z">
+        <seg>Tout sélectionner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select Fol&amp;der</seg>
       </tuv>
       <tuv lang="fr">
@@ -72099,6 +72115,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ctrl A</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T095107Z" creationid="Léo Delaune" creationdate="20230306T095107Z">
+        <seg>ctrl A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ctrl D</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T210412Z" creationid="Léo Delaune" creationdate="20230305T210412Z">
@@ -73011,6 +73035,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>editorDeletePrevToken</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T095402Z" creationid="Léo Delaune" creationdate="20230306T095402Z">
+        <seg>editorDeletePrevToken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>editorInsertLineBreak</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T095050Z" creationid="Léo Delaune" creationdate="20230306T095050Z">
@@ -73047,6 +73079,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T094822Z" creationid="Léo Delaune" creationdate="20230306T094822Z">
         <seg>editorPrevSegmentNotTab</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editorSelectAll</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T095107Z" creationid="Léo Delaune" creationdate="20230306T095107Z">
+        <seg>editorSelectAll</seg>
       </tuv>
     </tu>
     <tu>
@@ -76231,6 +76271,14 @@ Ok. </note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>meta A</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T095109Z" creationid="Léo Delaune" creationdate="20230306T095109Z">
+        <seg>meta A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>meta D</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T210413Z" creationid="Léo Delaune" creationdate="20230305T210413Z">
@@ -78493,6 +78541,14 @@ Ok. </note>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T100212Z">
         <seg>sg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>shift ENTER</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T095055Z" creationid="Léo Delaune" creationdate="20230306T095055Z">
+        <seg>shift ENTREE</seg>
       </tuv>
     </tu>
     <tu>
