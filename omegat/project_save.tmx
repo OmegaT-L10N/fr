@@ -31143,6 +31143,14 @@ OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you specify such a configuration folder, all modifications made in this dialog will be stored there.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T193824Z" creationid="Léo Delaune" creationdate="20230306T193824Z">
+        <seg>Il est possible de demander à OmegaT d'utiliser un dossier de configuration différent pour définir des configurations spécifiques à un projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you start &lt;a1&gt;OmegaT&lt;/a1&gt; in console mode, it will use the same settings.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130502T135103Z">
@@ -34109,6 +34117,14 @@ implemented by public license practices.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160119T094139Z" creationid="Didier" creationdate="20160119T094139Z">
         <seg>Il est possible d'avoir le détail des opérations en écrivant -v après kolekti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is possible to have OmegaT use a different configuration folder to define project-specific configurations.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T193759Z" creationid="Léo Delaune" creationdate="20230306T193759Z">
+        <seg>Il est possible de demander à OmegaT d'utiliser un dossier de configuration différent pour définir des configurations spécifiques à un projet.</seg>
       </tuv>
     </tu>
     <tu>
