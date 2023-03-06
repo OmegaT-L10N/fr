@@ -492,6 +492,22 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>${system-os-name}</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230306T135746Z" creationid="Anand" creationdate="20230306T135746Z">
+        <seg>${system-os-name}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${system-user-name}</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230306T135823Z" creationid="Anand" creationdate="20230306T135823Z">
+        <seg>${system-user-name}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>${targetCountryCode}</seg>
       </tuv>
       <tuv lang="fr" changeid="Anand" changedate="20230306T135522Z" creationid="Anand" creationdate="20230306T135522Z">
@@ -50146,6 +50162,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;u0&gt;Oracle documentation&lt;/u0&gt; for examples.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230306T135743Z" creationid="Anand" creationdate="20230306T135743Z">
+        <seg>Voir la &lt;u0&gt;documentation Oracle&lt;/u0&gt; pour des exemples.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the GNU General Public License for more detail.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130412T074247Z">
@@ -75746,6 +75770,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>https://docs.oracle.com/javase/8/docs/api/java/text/SimpleDateFormat.html</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230306T135626Z" creationid="Anand" creationdate="20230306T135626Z">
+        <seg>https://docs.oracle.com/javase/8/docs/api/java/text/SimpleDateFormat.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>https://docs.oracle.com/javase/8/docs/api/java/util/regex/Pattern.html</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210207T055328Z" creationid="suzume" creationdate="20210207T055328Z">
@@ -78242,6 +78274,14 @@ Ok. </note>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130429T071149Z">
         <seg>najlepših - superlatif, pluriel, génitif pour le masc, fem, neutre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>name of the operating system</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230306T135805Z" creationid="Anand" creationdate="20230306T135805Z">
+        <seg>nom du système d'exploitation</seg>
       </tuv>
     </tu>
     <tu>
@@ -81166,6 +81206,14 @@ Ok. </note>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130415T162422Z">
         <seg>Règles de segmentation par défaut des utilisateurs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>user’s login name</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230306T135940Z" creationid="Anand" creationdate="20230306T135940Z">
+        <seg>nom de l'utilisateur</seg>
       </tuv>
     </tu>
     <tu>
