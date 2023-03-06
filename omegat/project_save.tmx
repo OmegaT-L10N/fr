@@ -34233,6 +34233,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Java 8 requires ISO-8859-1 encoding and uses Unicode literals for characters outside that character set.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230306T131147Z" creationid="Anand" creationdate="20230306T131147Z">
+        <seg>Java 8 requiert l'encodage ISO-8859-1 et utilise des littéraux Unicode pour les caractères qui ne font pas partie de ce jeu de caractères.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Java Properties XML</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160212T143624Z" creationid="Didier" creationdate="20160212T143624Z">
