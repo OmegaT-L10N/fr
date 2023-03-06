@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_02bf26211" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -32358,6 +32358,14 @@ patent against the party.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Index entries, bookmarks, bookmark references, notes, comments, presentation notes, links (URL), and sheet names.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230306T132739Z" creationid="Anand" creationdate="20230306T132739Z">
+        <seg>Entrées d'index, signets (repère de texte), références aux signets, notes, commentaires, notes des présentations, liens (URL), et noms des feuilles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Indicate that this match is fuzzy (currently only for translations from PO files with the #fuzzy mark)</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130507T121111Z">
@@ -34248,16 +34256,16 @@ itself on the first run.</seg>
       <tuv lang="en">
         <seg>Java 8 requires ISO-8859-1 encoding and uses Unicode literals for characters outside that character set.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230306T131147Z" creationid="Anand" creationdate="20230306T131147Z">
-        <seg>Java 8 requiert l'encodage ISO-8859-1 et utilise des littéraux Unicode pour les caractères qui ne font pas partie de ce jeu de caractères.</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230306T132122Z" creationid="Anand" creationdate="20230306T131147Z">
+        <seg>Java 8 nécessite l'encodage ISO-8859-1 et utilise des littéraux Unicode pour les caractères qui ne font pas partie de ce jeu de caractères.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Java 9 and above requires UTF-8 encoding.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230306T132115Z" creationid="Anand" creationdate="20230306T132115Z">
-        <seg>Java 9 et les versions ultérieures requièrent </seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230306T132221Z" creationid="Anand" creationdate="20230306T132115Z">
+        <seg>Java 9 et les versions ultérieures requièrent l'encodage UTF-8.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34596,6 +34604,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20230128T175253Z" creationid="briac" creationdate="20230128T175253Z">
         <seg>Conserver les littéraux Unico&amp;de (\uXXXX)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Keep Unicode literals (\\uXXXX)</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230306T132437Z" creationid="Anand" creationdate="20230306T132437Z">
+        <seg>Conserver les littéraux Unicode (\\uXXXX)</seg>
       </tuv>
     </tu>
     <tu>
@@ -51764,6 +51780,14 @@ Traduction supprimée car ne concerne pas le français.</note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Some applications require some Unicode literals to be kept.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230306T132521Z" creationid="Anand" creationdate="20230306T132521Z">
+        <seg>Certaines applications nécessitent de conserver certains littéraux Unicode.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Some devices are designed to deny users access to install or run
 modified versions of the software inside them, although the manufacturer
 can do so. This is fundamentally incompatible with the aim of
@@ -61998,6 +62022,14 @@ this version will not interfere with it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This option allows for that.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230306T132648Z" creationid="Anand" creationdate="20230306T132648Z">
+        <seg>Cette option permet cela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This option allows the tag validation in a batch mode.</seg>
       </tuv>
       <tuv lang="fr" changeid="pingouin" changedate="20130418T160226Z">
@@ -62042,6 +62074,14 @@ this version will not interfere with it.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20141202T180753Z" creationid="Didier" creationdate="20141202T180753Z">
         <seg>Cette option affiche les &lt;u0&gt;caractères de contrôle de bidirectionnalité&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This option forces Java 8 compatibility.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230306T132401Z" creationid="Anand" creationdate="20230306T132401Z">
+        <seg>Cette option force la compatibilité avec Java 8.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64336,6 +64376,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
         <seg>Traduire les attributs suivants :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translate the following elements</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230306T132659Z" creationid="Anand" creationdate="20230306T132659Z">
+        <seg>Traduire les éléments suivants</seg>
       </tuv>
     </tu>
     <tu>
