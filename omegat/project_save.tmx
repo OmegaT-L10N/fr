@@ -390,8 +390,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>${extension}</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230302T175939Z" creationid="Anand" creationdate="20230302T175939Z">
-        <seg>$(extension)</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230306T135028Z" creationid="Anand" creationdate="20230302T175939Z">
+        <seg>${extension}</seg>
       </tuv>
     </tu>
     <tu>
@@ -422,8 +422,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>${filename}</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230302T175850Z" creationid="Anand" creationdate="20230302T174829Z">
-        <seg>&amp;(filename)</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230306T134839Z" creationid="Anand" creationdate="20230302T174829Z">
+        <seg>${filename}</seg>
       </tuv>
     </tu>
     <tu>
@@ -462,8 +462,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>${nameOnly}</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230302T175905Z" creationid="Anand" creationdate="20230302T175905Z">
-        <seg>$(nameOnly)</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230306T134908Z" creationid="Anand" creationdate="20230302T175905Z">
+        <seg>${nameOnly}</seg>
       </tuv>
     </tu>
     <tu>
@@ -502,8 +502,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>${targetLocale}</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230302T180033Z" creationid="Anand" creationdate="20230302T180033Z">
-        <seg>$(targetLocale)</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230306T135111Z" creationid="Anand" creationdate="20230302T180033Z">
+        <seg>${targetLocale}</seg>
       </tuv>
     </tu>
     <tu>
@@ -78709,8 +78709,8 @@ Ok. </note>
       <tuv lang="en">
         <seg>original file extension</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230302T180025Z" creationid="Anand" creationdate="20230302T180016Z">
-        <seg>extension du fichier original</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230306T135043Z" creationid="Anand" creationdate="20230302T180016Z">
+        <seg>l'extension du fichier original</seg>
       </tuv>
     </tu>
     <tu>
@@ -80013,8 +80013,8 @@ Ok. </note>
       <tuv lang="en">
         <seg>target language+region code (xx_YY)</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230302T180409Z" creationid="Anand" creationdate="20230302T180409Z">
-        <seg>langue cible+code de région (xx_YY)</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230306T135243Z" creationid="Anand" creationdate="20230302T180409Z">
+        <seg>langue cible+code région (xx_YY)</seg>
       </tuv>
     </tu>
     <tu>
