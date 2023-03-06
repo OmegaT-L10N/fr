@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_02bf26211" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -14255,6 +14255,7 @@ provoquer des comportements inattendus, mais corrects.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>"properly"</note>
       <tuv lang="en">
         <seg>Associating a file extension to a filter is not sufficient to have the filter properly handle the file.</seg>
       </tuv>
@@ -25717,6 +25718,9 @@ know their rights.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>motif ?
+c'est quoi une extension ?
+on dirait que ça n'est pas clair.</note>
       <tuv lang="en">
         <seg>For example, the pattern &lt;l0&gt;.xhtml&lt;/l0&gt; registered in the XHTML filter matches any file with the &lt;f1&gt;xhtml&lt;/f1&gt; extension.</seg>
       </tuv>
@@ -52632,6 +52636,7 @@ of the GPL, as needed to protect the freedom of users.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>ailleurs on utilise "joker"</note>
       <tuv lang="en">
         <seg>Source filename patterns use wild card characters : The &lt;l0&gt;*&lt;/l0&gt; character matches zero or more characters, while the &lt;l1&gt;?&lt;/l1&gt; character matches exactly one character.</seg>
       </tuv>
@@ -57374,6 +57379,7 @@ instead.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>vous comprenez pourquoi ?</note>
       <tuv lang="en">
         <seg>The file structure must also be compatible with the filter: even if you associate &lt;l0&gt;.odt&lt;/l0&gt; to the XHMTL filter, the filter will not be able to understand the contents of a LibreOffice Writer file.</seg>
       </tuv>
@@ -70366,6 +70372,7 @@ your programs, too.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>masques ?</note>
       <tuv lang="en">
         <seg>You can change or add filename patterns to associate different files to a filter.</seg>
       </tuv>
