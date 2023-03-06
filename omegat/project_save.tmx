@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_02bf26211" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -14548,6 +14548,14 @@ provoquer des comportements inattendus, mais corrects.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Autocompleter</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T135101Z" creationid="Léo Delaune" creationdate="20230306T135101Z">
+        <seg>Autocompleter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Automatic Java Properties Aligner</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130421T135242Z">
@@ -22288,6 +22296,14 @@ several security warnings.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ESCAPE</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T135113Z" creationid="Léo Delaune" creationdate="20230306T135113Z">
+        <seg>QUITTER</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>EXCEPT WHEN
 OTHERWISE STATED IN WRITING THE COPYRIGHT HOLDERS AND/OR OTHER PARTIES
 PROVIDE THE PROGRAM "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED
@@ -24326,6 +24342,22 @@ dommage...</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T104048Z">
         <seg>F1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>F2</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T133010Z" creationid="Léo Delaune" creationdate="20230306T133010Z">
+        <seg>F2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>F3</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T135100Z" creationid="Léo Delaune" creationdate="20230306T135100Z">
+        <seg>F3</seg>
       </tuv>
     </tu>
     <tu>
@@ -27055,6 +27087,22 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Go to First Segment</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T101003Z" creationid="Léo Delaune" creationdate="20230306T101003Z">
+        <seg>Atteindre le premier segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to Last Segment</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T132423Z" creationid="Léo Delaune" creationdate="20230306T132423Z">
+        <seg>Atteindre le dernier segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Go to Next Segment</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T094118Z" creationid="Léo Delaune" creationdate="20230306T094118Z">
@@ -28370,6 +28418,14 @@ POSSIBILITY OF SUCH DAMAGES.</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20190514T203002Z" creationid="briac" creationdate="20190514T203002Z">
         <seg>INS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>INSERT</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T135100Z" creationid="Léo Delaune" creationdate="20230306T135100Z">
+        <seg>INSERER</seg>
       </tuv>
     </tu>
     <tu>
@@ -42769,6 +42825,22 @@ happen should you file a bug report.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Open Autocompleter</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T135105Z" creationid="Léo Delaune" creationdate="20230306T135105Z">
+        <seg>Open Autocompleter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open Autocompleter Next View</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T135133Z" creationid="Léo Delaune" creationdate="20230306T135133Z">
+        <seg>Open Autocompleter Next View</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Open Context Menu</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T093355Z" creationid="Léo Delaune" creationdate="20230306T093355Z">
@@ -51580,10 +51652,42 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Skip Next Token</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T132500Z" creationid="Léo Delaune" creationdate="20230306T132500Z">
+        <seg>Passer au Token suivant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Skip Next Token with Selection</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T132915Z" creationid="Léo Delaune" creationdate="20230306T132915Z">
+        <seg>Passer au token suivant avec sélection</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Skip PO header</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130429T081753Z">
         <seg>Ignorer l'en-tête des fichiers PO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Skip Previous Token</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T132809Z" creationid="Léo Delaune" creationdate="20230306T132809Z">
+        <seg>Retourner au Token précédent</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Skip Previous Token with Selection</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T132947Z" creationid="Léo Delaune" creationdate="20230306T132947Z">
+        <seg>Passer au Token précédent avec sélection</seg>
       </tuv>
     </tu>
     <tu>
@@ -64059,6 +64163,22 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Toggle Cursor Lock</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T133009Z" creationid="Léo Delaune" creationdate="20230306T133009Z">
+        <seg>Verrouillage du curseur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Toggle Overtype</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T135050Z" creationid="Léo Delaune" creationdate="20230306T135050Z">
+        <seg>Afficher la saisie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Toggle Selected</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160427T154136Z" creationid="Didier" creationdate="20160427T154136Z">
@@ -71925,10 +72045,42 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>alt DELETE</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T100955Z" creationid="Léo Delaune" creationdate="20230306T100955Z">
+        <seg>alt SUPPRIMER</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>alt RIGHT</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T132750Z" creationid="Léo Delaune" creationdate="20230306T132750Z">
+        <seg>alt RIGHT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>alt shift D</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T210530Z" creationid="Léo Delaune" creationdate="20230305T210530Z">
         <seg> alt shift D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>alt shift LEFT</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T132950Z" creationid="Léo Delaune" creationdate="20230306T132950Z">
+        <seg>alt shift LEFT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>alt shift RIGHT</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T132918Z" creationid="Léo Delaune" creationdate="20230306T132918Z">
+        <seg>alt shift RIGHT</seg>
       </tuv>
     </tu>
     <tu>
@@ -72089,6 +72241,22 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210505T233702Z">
         <seg>attributs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>autocompleterNextView</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T135135Z" creationid="Léo Delaune" creationdate="20230306T135135Z">
+        <seg>autocompleterNextView</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>autocompleterTrigger</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T135105Z" creationid="Léo Delaune" creationdate="20230306T135105Z">
+        <seg>autocompleterTrigger</seg>
       </tuv>
     </tu>
     <tu>
@@ -72829,6 +72997,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ctrl DELETE</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T100948Z" creationid="Léo Delaune" creationdate="20230306T100948Z">
+        <seg>ctrl SUPPRIMER</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ctrl DOWN</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221220T111023Z" creationid="suzume" creationdate="20221220T111023Z">
@@ -72893,6 +73069,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ctrl LEFT</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T132811Z" creationid="Léo Delaune" creationdate="20230306T132811Z">
+        <seg>ctrl LEFT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ctrl M</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221220T110933Z" creationid="suzume" creationdate="20221220T110933Z">
@@ -72925,6 +73109,22 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ctrl PAGE_DOWN</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T132436Z" creationid="Léo Delaune" creationdate="20230306T132436Z">
+        <seg>ctrl PAGE_DOWN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl PAGE_UP</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T132411Z" creationid="Léo Delaune" creationdate="20230306T132411Z">
+        <seg>ctrl PAGE_UP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ctrl Q</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221220T110900Z" creationid="suzume" creationdate="20221220T110900Z">
@@ -72941,10 +73141,26 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ctrl RIGHT</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T132747Z" creationid="Léo Delaune" creationdate="20230306T132747Z">
+        <seg>ctrl RIGHT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ctrl S</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T210403Z" creationid="Léo Delaune" creationdate="20230305T210403Z">
         <seg> ctrl S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl SPACE</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T135110Z" creationid="Léo Delaune" creationdate="20230306T135110Z">
+        <seg>ctrl ESPACE</seg>
       </tuv>
     </tu>
     <tu>
@@ -73117,6 +73333,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ctrl shift LEFT</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T132949Z" creationid="Léo Delaune" creationdate="20230306T132949Z">
+        <seg>ctrl shift LEFT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ctrl shift M</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221220T111110Z" creationid="suzume" creationdate="20221220T111110Z">
@@ -73145,6 +73369,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221220T110939Z" creationid="suzume" creationdate="20221220T110939Z">
         <seg>ctrl shift R</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl shift RIGHT</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T132916Z" creationid="Léo Delaune" creationdate="20230306T132916Z">
+        <seg>ctrl shift RIGHT</seg>
       </tuv>
     </tu>
     <tu>
@@ -73733,6 +73965,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>editorDeleteNextToken</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T100943Z" creationid="Léo Delaune" creationdate="20230306T100943Z">
+        <seg>editorDeleteNextToken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>editorDeletePrevToken</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T095402Z" creationid="Léo Delaune" creationdate="20230306T095402Z">
@@ -73741,10 +73981,26 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>editorFirstSegment</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T132409Z" creationid="Léo Delaune" creationdate="20230306T132409Z">
+        <seg>editorFirstSegment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>editorInsertLineBreak</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T095050Z" creationid="Léo Delaune" creationdate="20230306T095050Z">
         <seg>editorInsertLineBreak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editorLastSegment</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T132436Z" creationid="Léo Delaune" creationdate="20230306T132436Z">
+        <seg>editorLastSegment</seg>
       </tuv>
     </tu>
     <tu>
@@ -73785,6 +74041,54 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T095107Z" creationid="Léo Delaune" creationdate="20230306T095107Z">
         <seg>editorSelectAll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editorSkipNextToken</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T132502Z" creationid="Léo Delaune" creationdate="20230306T132502Z">
+        <seg>editorSkipNextToken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editorSkipNextTokenWithSelection</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T132916Z" creationid="Léo Delaune" creationdate="20230306T132916Z">
+        <seg>editorSkipNextTokenWithSelection</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editorSkipPrevToken</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T132810Z" creationid="Léo Delaune" creationdate="20230306T132810Z">
+        <seg>editorSkipPrevToken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editorSkipPrevTokenWithSelection</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T132948Z" creationid="Léo Delaune" creationdate="20230306T132948Z">
+        <seg>editorSkipPrevTokenWithSelection</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editorToggleCursorLock</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T133009Z" creationid="Léo Delaune" creationdate="20230306T133009Z">
+        <seg>editorToggleCursorLock</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editorToggleOvertype</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T135052Z" creationid="Léo Delaune" creationdate="20230306T135052Z">
+        <seg>editorToggleOvertype</seg>
       </tuv>
     </tu>
     <tu>
@@ -77085,6 +77389,22 @@ Ok. </note>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221220T111103Z" creationid="suzume" creationdate="20221220T111103Z">
         <seg>meta P (meta Enter / shift Tab)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta PAGE_DOWN</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T132437Z" creationid="Léo Delaune" creationdate="20230306T132437Z">
+        <seg>meta PAGE_DOWN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta PAGE_UP</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T132412Z" creationid="Léo Delaune" creationdate="20230306T132412Z">
+        <seg>meta PAGE_UP</seg>
       </tuv>
     </tu>
     <tu>
