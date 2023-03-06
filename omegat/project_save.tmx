@@ -42445,6 +42445,14 @@ redontant URL
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Only the portion of the after the thousands separator will be matched.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230306T105104Z" creationid="sirine" creationdate="20230306T105104Z">
+        <seg>Seule la partie du texte située après le séparateur de milliers correspondra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Only when you are sure you are the first to have found some
 reproducible sequence of event that triggered something not supposed to
 happen should you file a bug report.</seg>
@@ -55203,6 +55211,14 @@ software and other kinds of works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The OPENING PARENTHESIS: &lt;l0&gt;(&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230306T105226Z" creationid="sirine" creationdate="20230306T105226Z">
+        <seg>La PARENTHÈSE OUVRANTE : &lt;l0&gt;(&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The OmegaT Project</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20170329T075707Z" creationid="briac" creationdate="20170329T075707Z">
@@ -60673,6 +60689,14 @@ under the terms of this General Public License.</seg>
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230303T102550Z" creationid="sirine" creationdate="20230303T102550Z">
         <seg>Ce caractère indique que zéro ou plusieurs occurrences du caractère ou de l'expression qui le précède doivent être recherchées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This character starts a &lt;e0&gt;group&lt;/e0&gt;, which is a set of characters treated as a single unit.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230306T105315Z" creationid="sirine" creationdate="20230306T105315Z">
+        <seg>Ce caractère commence un &lt;e0&gt;groupe&lt;/e0&gt;, qui est un ensemble de caractères traités comme une seule unité.</seg>
       </tuv>
     </tu>
     <tu>
