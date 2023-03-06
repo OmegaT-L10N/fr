@@ -42517,6 +42517,14 @@ redontant URL
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Only the opening bracket is special and needs to be preceded by a backslash to search for the bracket character itself.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230306T112031Z" creationid="sirine" creationdate="20230306T112031Z">
+        <seg>Seule la parenthèse ouvrante est spéciale et doit être précédée d'une barre oblique inverse pour rechercher le caractère de crochet lui-même.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Only the options not available under the XHTML files filter (see above) are described here.</seg>
       </tuv>
       <tuv lang="fr" changeid="Anand" changedate="20230303T130536Z" creationid="Anand" creationdate="20230303T125954Z">
@@ -60849,6 +60857,14 @@ under the terms of this General Public License.</seg>
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230303T100607Z" creationid="sirine" creationdate="20230303T100607Z">
         <seg>Ce caractère fonctionne comme un "OU", permettant de choisir une des expressions qui le précèdent ou le suivent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This character must be paired with the closing square bracket to enclose a set of individual characters that each represent a valid potential match.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230306T111949Z" creationid="sirine" creationdate="20230306T111949Z">
+        <seg>Ce caractère doit être associé au crochet fermant pour contenir un ensemble de caractères individuels qui représentent chacun une correspondance potentielle valide.</seg>
       </tuv>
     </tu>
     <tu>
