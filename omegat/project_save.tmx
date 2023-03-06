@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_02bf26211" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -33200,6 +33200,7 @@ exécutez simplement le programme d'installation.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>singulier ?</note>
       <tuv lang="en">
         <seg>Instead, they are called from the menus or, for the majority of functions, from their assigned default shortcut.</seg>
       </tuv>
@@ -35659,6 +35660,7 @@ Exécutez OmegaT de la façon suivante.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>maladroit</note>
       <tuv lang="en">
         <seg>Learning the most frequent shortcuts will not take long once you start working with OmegaT.</seg>
       </tuv>
@@ -41833,6 +41835,7 @@ installed on your system.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>faute de traduction, espaces en trop</note>
       <tuv lang="en">
         <seg>OmegaT runs on any platform that runs a Java Runtime Environment (Windows, macOS, and Linux being the most mainstream).</seg>
       </tuv>
@@ -50029,6 +50032,7 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
     </tu>
     <tu>
+      <note>glossaire et TM</note>
       <tuv lang="en">
         <seg>See the &lt;l0/&gt; section for details.</seg>
       </tuv>
@@ -55847,6 +55851,7 @@ software and other kinds of works.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>maladroit</note>
       <tuv lang="en">
         <seg>The OmegaT interface generally does not rely on buttons to give access to its functions.</seg>
       </tuv>
@@ -59381,6 +59386,7 @@ protocols for communication across the network.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>them ?</note>
       <tuv lang="en">
         <seg>The shortcuts are indicated next to each menu item, allowing them to learn new shortcuts gradually as you use the software.</seg>
       </tuv>
@@ -70327,6 +70333,7 @@ your programs, too.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>customiser ?</note>
       <tuv lang="en">
         <seg>You can customize the majority of the shortcuts in OmegaT.</seg>
       </tuv>
