@@ -25828,6 +25828,14 @@ authors of previous versions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, &lt;l0&gt;\d&lt;/l0&gt; is a shorthand for &lt;l1&gt;[0-9]&lt;/l1&gt;, which matches any digit between 0 and 9.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230307T223023Z" creationid="sirine" creationdate="20230307T223023Z">
+        <seg>Par exemple, &lt;l0&gt;\d&lt;/l0&gt; est une abréviation de &lt;l1&gt;[0-9]&lt;/l1&gt;, qui correspond à n'importe quel chiffre entre 0 et 9.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, &lt;l2&gt;user.language=ja&lt;/l2&gt; (without the &lt;l3&gt;#&lt;/l3&gt;) will launch &lt;a4&gt;OmegaT&lt;/a4&gt; with the user interface in Japanese.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210201T125129Z" creationid="suzume" creationdate="20210201T125129Z">
@@ -37719,6 +37727,15 @@ La version Mac intègre un JRE.</seg>
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230301T091303Z" creationid="sirine" creationdate="20230301T091303Z">
         <seg>De nombreuses fonctions d'OmegaT dépendent des expressions régulières ou les proposent en option :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Many frequently used sets have a shorthand form consisting of a backslash followed by a letter of the alphabet.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230307T222955Z" creationid="sirine" creationdate="20230307T222955Z">
+        <seg>De nombreux ensembles fréquemment utilisés ont une forme abrégée consistant en une barre oblique inverse suivie d'une lettre de l'alphabet.
+</seg>
       </tuv>
     </tu>
     <tu>
