@@ -12470,6 +12470,14 @@ this License without regard to the additional permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>After dividing the source file into structural units, OmegaT further divides those units into segments.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230307T131150Z" creationid="Anand" creationdate="20230307T130919Z">
+        <seg>Après avoir segmenté le fichier source en unités structurelles, OmegaT segmente davantage ces unités en segments. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>After duplication:</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
@@ -25008,6 +25016,7 @@ dommage...</seg>
       </tuv>
     </tu>
     <tu>
+      <note>(Anand) divide = segmenter ou garder diviser?</note>
       <tuv lang="en">
         <seg>Files containing formatting (ODF, HTML, or other documents) are divided at block-level (paragraph) tags.</seg>
       </tuv>
@@ -51366,6 +51375,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
         <seg>Sentence level segmentation</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130423T154610Z">
+        <seg>Segmentation au niveau des phrases</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sentence-level segmentation</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230307T130854Z" creationid="Anand" creationdate="20230307T130854Z">
         <seg>Segmentation au niveau des phrases</seg>
       </tuv>
     </tu>
