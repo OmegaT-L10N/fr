@@ -14043,6 +14043,22 @@ void, and will automatically terminate your rights under this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Apply a different font size to the dictionaries pane</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230307T140609Z" creationid="Léo Delaune" creationdate="20230307T140609Z">
+        <seg>Appliquer une taille de police différente à la fenêtre des dictionnaires</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Apply this font to tabular data (project files, statistics, etc.)</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230307T140454Z" creationid="Léo Delaune" creationdate="20230307T140454Z">
+        <seg>Appliquer cette police aux données tabulaires (fichiers de projet, statistiques, etc.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Arabic</seg>
       </tuv>
       <tuv lang="fr" changeid="etudiant_local" changedate="20130410T124202Z">
@@ -14739,6 +14755,15 @@ provoquer des comportements inattendus, mais corrects.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130421T135242Z">
         <seg>Outil d'alignement automatique des propriétés Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Automatic dark theme detection is available on Linux systems with the Gnome/GTK look and feel for users who run OmegaT on OpenJDK.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230307T140956Z" creationid="Léo Delaune" creationdate="20230307T140956Z">
+        <seg>La détection automatique des thèmes sombres est disponible sur les systèmes Linux avec le "look and feel" Gnome/GTK pour les utilisateurs qui exécutent OmegaT sur OpenJDK.
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -15815,6 +15840,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By default, the dictionaries pane uses the same font size as the main window panes.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230307T140700Z" creationid="Léo Delaune" creationdate="20230307T140639Z">
+        <seg>Par défaut, la fenêtre des dictionnaires utilise la même taille de police que la fenêtre principale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default, the encoding of the translated file is the same as that of the source file.</seg>
       </tuv>
       <tuv lang="fr" changeid="Anand" changedate="20230302T172304Z" creationid="Anand" creationdate="20230302T172304Z">
@@ -16396,6 +16429,14 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
       <tuv lang="fr">
         <seg>Caractères (sans espaces)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Characters that are not supported will appear as squares.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230307T140439Z" creationid="Léo Delaune" creationdate="20230307T140439Z">
+        <seg>Les caractères qui ne sont pas pris en charge apparaissent sous forme de carrés.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31419,6 +31460,14 @@ installation program can create shortcuts to launch OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you work in a language pair that uses different writing systems, make sure you choose a font that can display both languages correctly.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230307T140428Z" creationid="Léo Delaune" creationdate="20230307T140428Z">
+        <seg>Si vous travaillez dans une paire de langues utilisant des systèmes d'écriture différents, veillez à choisir une police capable d'afficher correctement les deux langues.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you would like to help support the continued development of OmegaT, it would be very much appreciated - click on this link to go to the &lt;u0&gt; OmegaT PayPal account&lt;/u0&gt;.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130527T133122Z">
@@ -42018,6 +42067,14 @@ published by the Free Software Foundation, either version 3 of the License, or
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT is bundled with a script called &lt;l0/&gt; that provides a default dark theme.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230307T140913Z" creationid="Léo Delaune" creationdate="20230307T140913Z">
+        <seg>OmegaT est livré avec un script appelé &lt;l0/&gt; qui fournit un thème sombre par défaut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT is free software.</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20170329T125854Z" creationid="briac" creationdate="20170329T125854Z">
@@ -42521,6 +42578,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20211117T074417Z" creationid="suzume" creationdate="20211117T074417Z">
         <seg>OmegaT passe par les étapes suivantes :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT uses the same font for both the source and target languages.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230307T140240Z" creationid="Léo Delaune" creationdate="20230307T140240Z">
+        <seg>OmegaT utilise la même police de caractères pour la langue source et la langue cible.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45753,11 +45818,12 @@ language you would like to translate to.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Pane = fenêtre ou volet ?</note>
       <tuv lang="en">
         <seg>Preferences here define how the contents of the &lt;l0/&gt; folder are displayed in the &lt;l1/&gt; pane.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Léo Delaune" changedate="20230307T133240Z" creationid="Léo Delaune" creationdate="20230307T133240Z">
-        <seg>Les préférences définissent ici la manière dont le contenu du dossier &lt;l0/&gt; est affiché dans le volet &lt;l1/&gt;.</seg>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230307T140059Z" creationid="Léo Delaune" creationdate="20230307T133240Z">
+        <seg>Les préférences définissent ici la manière dont le contenu du dossier &lt;l0/&gt; est affiché dans la fenêtre. &lt;l1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49788,6 +49854,15 @@ La recherche port par défaut sur le projet, et peut porter sur tout fichier sit
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Scripts can be used to set predefined themes.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230307T140903Z" creationid="Léo Delaune" creationdate="20230307T140903Z">
+        <seg>Les scripts peuvent être utilisés pour définir des thèmes prédéfinis.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Scripts/procedures are available to enable you to do the following:</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20170918T110546Z" creationid="briac" creationdate="20170918T110546Z">
@@ -50674,6 +50749,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l1/&gt; window for details.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230307T140920Z" creationid="Léo Delaune" creationdate="20230307T140920Z">
+        <seg>Voir la fenêtre &lt;l1/&gt; pour plus de détails.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;l2/&gt; preference for details.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221220T114748Z" creationid="suzume" creationdate="20221220T114748Z">
@@ -51375,8 +51458,8 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       <tuv lang="en">
         <seg>Select the font and font size used to display the text in the main window panes.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Léo Delaune" changedate="20230307T135646Z" creationid="Léo Delaune" creationdate="20230307T135646Z">
-        <seg>Select the font and font size used to display the text in the main window panes.</seg>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230307T140230Z" creationid="Léo Delaune" creationdate="20230307T135646Z">
+        <seg>Sélectionnez la police et la taille de la police utilisées pour afficher le texte dans les volets de la fenêtre principale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54651,6 +54734,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210204T133654Z" creationid="suzume" creationdate="20210204T133654Z">
         <seg>Table des matières</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tabular data is by default displayed in a monospaced font that keeps columns properly aligned.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230307T140523Z" creationid="Léo Delaune" creationdate="20230307T140523Z">
+        <seg>Les données tabulaires sont affichées par défaut dans une police de caractères unique qui permet d'aligner correctement les colonnes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68155,6 +68246,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Using a proportional font will break that layout.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230307T140530Z" creationid="Léo Delaune" creationdate="20230307T140530Z">
+        <seg>L'utilisation d'une police proportionnelle rompra cette disposition.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Using keyword search with &lt;e0&gt;&lt;l1&gt;open file&lt;/l1&gt;&lt;/e0&gt; will thus find all occurrences of the string &lt;e2&gt;&lt;l3&gt;open file&lt;/l3&gt;,&lt;/e2&gt; as well as &lt;e4&gt;&lt;l5&gt;file opened&lt;/l5&gt;, &lt;l6&gt;open input file&lt;/l6&gt;, &lt;l7&gt;file may not be safe to open&lt;/l7&gt;&lt;/e4&gt;, etc.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130528T084151Z">
@@ -71032,6 +71131,14 @@ your programs, too.</seg>
       </tuv>
       <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210518T131331Z">
         <seg>En cas de problème, demandez conseil au groupe d'utilisateurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can assign different colours for the various parts of the user interface.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230307T140853Z" creationid="Léo Delaune" creationdate="20230307T140853Z">
+        <seg>Vous pouvez attribuer des couleurs différentes aux diverses parties de l'interface utilisateur.</seg>
       </tuv>
     </tu>
     <tu>
