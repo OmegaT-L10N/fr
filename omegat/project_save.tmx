@@ -6529,6 +6529,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Sentence segmentation&lt;/e0&gt; relies on a number of rules (called &lt;e1&gt;segmentation rules&lt;/e1&gt;) that define what constitutes a sentence in the source language.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230307T124958Z" creationid="Anand" creationdate="20230307T124958Z">
+        <seg>&lt;e0&gt;La segmentation par phrases&lt;/e0&gt; repose sur certaines règles (appelées &lt;e1&gt;règles de segmentation&lt;/e1&gt;) qui définissent ce qui constitue une phrase dans la langue source.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Shortcuts customization:&lt;/e0&gt; shortcuts can be customized to your personal preferences</seg>
       </tuv>
       <tuv lang="fr" changeid="brigitte" changedate="20130712T171435Z">
