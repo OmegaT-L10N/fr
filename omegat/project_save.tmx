@@ -18474,7 +18474,8 @@ a description of how this error was produced.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>est-ce que Références est nécessaire ?</note>
+      <note>est-ce que Références est nécessaire ? 
+(sirine) @suzume je ne comprends pas pourquoi la balise s'affiche mais pas le mot «References» comme indiqué dans le manuel, c'est pour cette raison que je l'ai ajouté dans la cible.</note>
       <tuv lang="en">
         <seg>Consult the sites in the &lt;l0/&gt; section below for information on combinations not covered here.</seg>
       </tuv>
@@ -25682,12 +25683,11 @@ authors of previous versions.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>le 2e "caractère" me semble superflu. C'est de fait un "retour chariot".</note>
       <tuv lang="en">
         <seg>For example, &lt;e0&gt;r&lt;/e0&gt; is just a normal character but preceding it with &lt;l1&gt;\&lt;/l1&gt; to make it &lt;l2&gt;\r&lt;/l2&gt; turns it into a special combination that matches a &lt;e3&gt;carriage return character&lt;/e3&gt;.</seg>
       </tuv>
-      <tuv lang="fr" changeid="sirine" changedate="20230301T112949Z" creationid="sirine" creationdate="20230301T112949Z">
-        <seg>Par exemple, &lt;e0&gt;r&lt;/e0&gt; est juste un caractère normal mais le fait de le précéder de &lt;l1&gt;\&lt;/l1&gt; pour en faire &lt;l2&gt;\r&lt;/l2&gt; le transforme en une combinaison spéciale qui correspond à un &lt;e3&gt;caractère retour chariot&lt;/e3&gt;.</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230307T163043Z" creationid="sirine" creationdate="20230301T112949Z">
+        <seg>Par exemple, &lt;e0&gt;r&lt;/e0&gt; est juste un caractère normal mais le fait de le précéder de &lt;l1&gt;\&lt;/l1&gt; pour en faire &lt;l2&gt;\r&lt;/l2&gt; le transforme en une combinaison spéciale qui correspond à un &lt;e3&gt; retour chariot&lt;/e3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
