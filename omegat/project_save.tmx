@@ -24158,8 +24158,8 @@ The FSF strongly urges you not to use this translation as the official distribu-
       <tuv lang="en">
         <seg>Excel cells with lines breaks that do not represent segments</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230307T180504Z" creationid="Anand" creationdate="20230307T180504Z">
-        <seg>Cellules Excel avec des sauts de ligne qui ne représentent pas des segments</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230307T180915Z" creationid="Anand" creationdate="20230307T180504Z">
+        <seg>Cellules Excel avec des sauts de ligne qui ne représentent pas des segments.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40636,6 +40636,15 @@ Rajout d'une partie approriée, afin que la note de bas de page ne se retrouve p
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210111T143452Z">
         <seg>Remarquez que la fonction « Installer » requiert une connexion Internet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Pattern After à vérifier</note>
+      <tuv lang="en">
+        <seg>Note that the &lt;l0&gt;Pattern After&lt;/l0&gt; field can be empty.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230307T181347Z" creationid="Anand" creationdate="20230307T181347Z">
+        <seg>Remarquez que le champ &lt;l0&gt;Pattern After&lt;/l0&gt; peut être vide.</seg>
       </tuv>
     </tu>
     <tu>
