@@ -38540,9 +38540,6 @@ impose that choice.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>vérifier ce à quoi correspond la balise et ajouter "le fichier ..." ou autre chose. Pareil pour la source.
-
-(Anand) La balise correspond à "filters.xml"</note>
       <tuv lang="en">
         <seg>Modified global file filter preferences are saved in &lt;l0/&gt;, in the configuration folder.</seg>
       </tuv>
@@ -55694,13 +55691,11 @@ form of a work.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>le filtre ...
-ou alors changez l'ordre des mots</note>
       <tuv lang="en">
         <seg>The &lt;c0&gt;Microsoft Office Open XML (legacy filter)&lt;/c0&gt; is the original OmegaT filter.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230302T181946Z" creationid="Anand" creationdate="20230302T181946Z">
-        <seg>Le &lt;c0&gt;Microsoft Office Open XML (filtre obsolète)&lt;/c0&gt; est le filtre OmegaT originel.</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230307T104029Z" creationid="Anand" creationdate="20230302T181946Z">
+        <seg>Le filtre &lt;c0&gt;Microsoft Office Open XML (filtre obsolète)&lt;/c0&gt; est le filtre OmegaT originel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61513,8 +61508,8 @@ pas de page...</seg>
       <tuv lang="en">
         <seg>They will appear as separate segments in the editor.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230302T182406Z" creationid="Anand" creationdate="20230302T182406Z">
-        <seg>Ils apparaîtront en segments séparés dans l'éditeur.</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230307T104234Z" creationid="Anand" creationdate="20230302T182406Z">
+        <seg>Ils apparaîtront en tant que segments séparés dans l'éditeur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -70759,7 +70754,6 @@ your programs, too.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>masques ?</note>
       <tuv lang="en">
         <seg>You can change or add filename patterns to associate different files to a filter.</seg>
       </tuv>
@@ -70828,8 +70822,8 @@ your programs, too.</seg>
       <tuv lang="en">
         <seg>You can choose additional document elements to translate.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230302T182323Z" creationid="Anand" creationdate="20230302T182323Z">
-        <seg>Vous pouvez choisir des éléments de documents supplémentaire à traduire.</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230307T104226Z" creationid="Anand" creationdate="20230302T182323Z">
+        <seg>Vous pouvez ajouter des éléments supplémentaire à traduire.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71859,8 +71853,8 @@ necessary.</seg>
       <tuv lang="en">
         <seg>You should only use it to avoid compatibility issues with previous projects containing files you handled with that filter.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230302T182210Z" creationid="Anand" creationdate="20230302T182210Z">
-        <seg>Ne l'utilisez que pour éviter les problèmes de compatibilité avec les projets précédents contenant les fichiers que vous avez traités avec ce filtre.</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230307T104059Z" creationid="Anand" creationdate="20230302T182210Z">
+        <seg>Ne l'utilisez que pour éviter les problèmes de compatibilité avec les projets précédents qui contiennent les fichiers que vous avez traités avec ce filtre.</seg>
       </tuv>
     </tu>
     <tu>
