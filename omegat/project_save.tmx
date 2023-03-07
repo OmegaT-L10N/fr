@@ -33554,8 +33554,8 @@ patent against the party.</seg>
       <tuv lang="en">
         <seg>Inside a class, only the backslash (&lt;l0&gt;\&lt;/l0&gt;), caret (&lt;l1&gt;^&lt;/l1&gt;), closing bracket (&lt;l2&gt;]&lt;/l2&gt;) and hyphen (&lt;l3&gt;-&lt;/l3&gt;) are special.</seg>
       </tuv>
-      <tuv lang="fr" changeid="sirine" changedate="20230307T222110Z" creationid="sirine" creationdate="20230307T222110Z">
-        <seg>À l'intérieur d'une classe, seuls la barre oblique inverse (&lt;l0&gt;\&lt;/l0&gt;), le caret (&lt;l1&gt;^&lt;/l1&gt;), le crochet fermant (&lt;l2&gt;]&lt;/l2&gt;) et le trait d'union (&lt;l3&gt;-&lt;/l3&gt;) sont spéciaux.</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230307T222438Z" creationid="sirine" creationdate="20230307T222110Z">
+        <seg>À l'intérieur d'une classe, seuls la barre oblique inverse (&lt;l0&gt;\&lt;/l0&gt;), le caret (&lt;l1&gt;^&lt;/l1&gt;), le crochet fermant (&lt;l2&gt;]&lt;/l2&gt;) et le trait d'union (&lt;l3&gt;-&lt;/l3&gt;) sont particuliers.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71504,6 +71504,15 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210202T074417Z" creationid="suzume" creationdate="20210202T074417Z">
         <seg>Vous pouvez également lancer directement l'application avec la commande suivante :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(sirine) phrase trop longue, difficile à comprendre -&gt; manque de clarté</note>
+      <tuv lang="en">
+        <seg>You can also search for the caret, closing bracket, and hyphen as themselves by placing them at a position that does not trigger their special meaning: anywhere except right after the opening bracket for the caret, immediately after either opening bracket or the caret following it for the closing bracket, and either just after the opening bracket or just before the closing bracket for the hyphen.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230307T222911Z" creationid="sirine" creationdate="20230307T222911Z">
+        <seg>Il est possible de rechercher le caret, le crochet fermant et le trait d'union en les positionnant à un endroit qui n'active pas leur signification particulière. Pour cela, il faut les placer n'importe où sauf juste après le crochet ouvrant pour le caret, immédiatement après le crochet ouvrant ou le caret qui le suit pour le crochet fermant, et juste après le crochet ouvrant ou juste avant le crochet fermant pour le trait d'union.</seg>
       </tuv>
     </tu>
     <tu>
