@@ -28638,6 +28638,14 @@ parties remain in full compliance.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>However, regular expressions also provide special modifiers to specify case sensitivity within the expression:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230307T215618Z" creationid="sirine" creationdate="20230307T215618Z">
+        <seg>Cependant, il est possible de définir la prise en compte de la casse au sein de l'expression régulière en utilisant des modificateurs particuliers :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>However, since we are not a commercial project, we have no budget for the commissioning of translations.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20200128T092801Z" creationid="suzume" creationdate="20200128T092801Z">
@@ -63290,6 +63298,14 @@ this version will not interfere with it.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
         <seg>Ce qui signifie que vous n'avez pas besoin de quitter le projet sur lequel vous travaillez pour lui ajouter une nouvelle mémoire de traduction secondaire : il suffit de recharger le projet pour que les modifications que vous lui avez apportées soient ajoutées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This means that a regular expression search for “OmegaT”, for example, will not match “omegat”.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230307T214908Z" creationid="sirine" creationdate="20230307T214908Z">
+        <seg>Cela signifie qu'une expression régulière recherchant « OmegaT », par exemple, ne correspondra pas à « omegat ».</seg>
       </tuv>
     </tu>
     <tu>
