@@ -5504,6 +5504,7 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>(JC) orthographe, espace, pas "typed"</note>
       <tuv lang="en">
         <seg>&lt;c0&gt;event&lt;/c0&gt; can be: &lt;o1&gt;typed&lt;/o1&gt;, &lt;o2&gt;pressed&lt;/o2&gt;, &lt;o3&gt;released&lt;/o3&gt;</seg>
       </tuv>
@@ -8379,6 +8380,7 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>(JC) espace + à</note>
       <tuv lang="en">
         <seg>&lt;l0&gt;altGraph&lt;/l0&gt; refers to the &lt;e1&gt;Alt&lt;/e1&gt; key to the right of the spacebar on keyboards with two &lt;e2&gt;Alt&lt;/e2&gt; keys.</seg>
       </tuv>
@@ -8396,6 +8398,7 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>(JC) espace</note>
       <tuv lang="en">
         <seg>&lt;l0&gt;meta&lt;/l0&gt; refers to the key with the Windows logo on most keyboards for Windows or Linux systems, and to the &lt;l1&gt;command&lt;/l1&gt; on macOS.</seg>
       </tuv>
@@ -38771,6 +38774,7 @@ impose that choice.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>(JC) point</note>
       <tuv lang="en">
         <seg>Modifying a shortcut</seg>
       </tuv>
@@ -57855,6 +57859,8 @@ instead.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>(JC) espace
+(JC) et d'effectuer</note>
       <tuv lang="en">
         <seg>The easiest way to modify the shortcuts is to download copies of the default files to &lt;l0&gt;your configuration folder&lt;/l0&gt;, as noted above, and make the changes you want there.</seg>
       </tuv>
@@ -71717,6 +71723,8 @@ installation script (linux-install.sh).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>(JC) espace
+(JC) accueil ?</note>
       <tuv lang="en">
         <seg>You can refer to the &lt;l1&gt;table presenting the different editor shortcuts&lt;/l1&gt; to find the values for keys such as &lt;l2&gt;Home&lt;/l2&gt;, &lt;l3&gt;Page Up&lt;/l3&gt;, or the arrow keys.</seg>
       </tuv>
@@ -82691,6 +82699,8 @@ Ok. </note>
       </tuv>
     </tu>
     <tu>
+      <note>(JC) "modifier" ?
+</note>
       <tuv lang="en">
         <seg>where &lt;c0&gt;modifier&lt;/c0&gt; can be: &lt;l1&gt;shift&lt;/l1&gt;, &lt;l2&gt;ctrl&lt;/l2&gt;, &lt;l3&gt;meta&lt;/l3&gt;, &lt;l4&gt;alt&lt;/l4&gt;, or &lt;l5&gt;altGraph&lt;/l5&gt;</seg>
       </tuv>
