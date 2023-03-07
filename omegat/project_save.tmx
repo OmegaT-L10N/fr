@@ -11399,12 +11399,11 @@ this License.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>(JC) non parce que vous avez conservé le point dans la regex</note>
       <tuv lang="en">
         <seg>A number between &lt;e0&gt;0.0&lt;/e0&gt; and &lt;e1&gt;0.9&lt;/e1&gt;, or just the final &lt;e2&gt;0.5&lt;/e2&gt; in numbers such as 10.5 or 560.5.</seg>
       </tuv>
-      <tuv lang="fr" changeid="sirine" changedate="20230303T084436Z" creationid="sirine" creationdate="20230303T084436Z">
-        <seg>Un nombre entre &lt;e0&gt;0,0&lt;/e0&gt; et &lt;e1&gt;0,9&lt;/e1&gt;, ou juste le dernier &lt;e2&gt;0,5&lt;/e2&gt; dans des nombres comme 10,5 ou 560,5.</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230307T165830Z" creationid="sirine" creationdate="20230303T084436Z">
+        <seg>Un nombre entre &lt;e0&gt;0.0&lt;/e0&gt; et &lt;e1&gt;0.9&lt;/e1&gt;, ou juste le dernier &lt;e2&gt;0.5&lt;/e2&gt; dans des nombres comme 10.5 ou 560.5.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60865,7 +60864,7 @@ L'idée était que l'utilisation de certaines touches en dehors du segment coura
     </tu>
     <tu>
       <note>(JC) https://fr.wikipedia.org/wiki/Barre_verticale
-(JC) apostrophe : pas d'espace après</note>
+</note>
       <tuv lang="en">
         <seg>The twelve special characters are the &lt;e0&gt;backslash&lt;/e0&gt; &lt;l1&gt;\&lt;/l1&gt;, the &lt;e2&gt;caret&lt;/e2&gt; &lt;l3&gt;^&lt;/l3&gt;, the &lt;e4&gt;dollar sign&lt;/e4&gt; &lt;l5&gt;$&lt;/l5&gt;, the &lt;e6&gt;period&lt;/e6&gt; (or &lt;e7&gt;dot&lt;/e7&gt;) &lt;l8&gt;.&lt;/l8&gt;, the &lt;e9&gt;vertical bar&lt;/e9&gt; (or &lt;e10&gt;pipe symbol&lt;/e10&gt;) &lt;l11&gt;|&lt;/l11&gt;, the &lt;e12&gt;question mark&lt;/e12&gt; &lt;l13&gt;?&lt;/l13&gt;, the &lt;e14&gt;asterisk&lt;/e14&gt; (or &lt;e15&gt;star&lt;/e15&gt;) &lt;l16&gt;*&lt;/l16&gt;, the &lt;e17&gt;plus sign&lt;/e17&gt; &lt;l18&gt;+&lt;/l18&gt;, the opening &lt;e19&gt;parenthesis&lt;/e19&gt; &lt;l20&gt;(&lt;/l20&gt;, the closing &lt;e21&gt;parenthesis&lt;/e21&gt;, &lt;l22&gt;)&lt;/l22&gt;, the opening &lt;e23&gt;square bracket&lt;/e23&gt; &lt;l24&gt;[&lt;/l24&gt;, and the opening &lt;e25&gt;curly brace&lt;/e25&gt; &lt;l26&gt;{&lt;/l26&gt;.</seg>
       </tuv>
