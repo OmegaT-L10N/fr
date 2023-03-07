@@ -51689,7 +51689,6 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
     </tu>
     <tu>
-      <note>(JC) point vs virgule</note>
       <tuv lang="en">
         <seg>Sequences such as 0,1, 0-3, or the first three characters of 0x002E, which would be matched if the expression was just &lt;l0&gt;0.[0-9]&lt;/l0&gt;, with no backslash before the period</seg>
       </tuv>
@@ -56270,7 +56269,6 @@ form of a work.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>(JC) oui, mais pas à la virgule comme vous écrivez au segment précédent</note>
       <tuv lang="en">
         <seg>The &lt;l0&gt;\.&lt;/l0&gt; cancels the “any character” meaning of the period to match the decimal point, while the &lt;l1&gt;\d&lt;/l1&gt; turns the ordinarily lowercase “d” letter into an expression that matches any digit between 0 and 9.</seg>
       </tuv>
