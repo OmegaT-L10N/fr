@@ -20206,7 +20206,7 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
     </tu>
     <tu>
       <note>natives ?
-- (sirine) @suzume en faisant des recherches j'ai trouver des termes tels que "application native", "code natif", "logiciel natif" et en anglais "native code", "native software".. </note>
+(sirine) @suzume en faisant des recherches j'ai trouver des termes tels que "application native", "code natif", "logiciel natif" et en anglais "native code", "native software".. </note>
       <tuv lang="en">
         <seg>Custom tags are tags defined with regular expressions that are handled exactly like native OmegaT tags.</seg>
       </tuv>
@@ -51002,8 +51002,6 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
     </tu>
     <tu>
-      <note>
-</note>
       <tuv lang="en">
         <seg>Segmentation or exception rules define the position in a segment where a split will, or will not, be made.</seg>
       </tuv>
@@ -66140,7 +66138,8 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>peut être clarifié</note>
+      <note>peut être clarifié
+(sirine) c'est fait mais dois-je également revoir le texte source ?</note>
       <tuv lang="en">
         <seg>Two regular expressions are required to define that position: a “before” expression to define the text pattern ahead of where the rule should apply, and an “after” expression to define the text pattern following that position.</seg>
       </tuv>
