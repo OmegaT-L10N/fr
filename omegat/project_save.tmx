@@ -21917,8 +21917,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="en">
         <seg>Doing so makes the entire search expression case sensitive.</seg>
       </tuv>
-      <tuv lang="fr" changeid="sirine" changedate="20230307T214420Z" creationid="sirine" creationdate="20230307T214420Z">
-        <seg>Dans ce cas, l'ensemble de l'expression de recherche tiendra compte de la casse.</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230307T220754Z" creationid="sirine" creationdate="20230307T214420Z">
+        <seg>Dans ce cas, l'ensemble de l'expression de recherche sera sensible la casse.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28648,8 +28648,8 @@ parties remain in full compliance.</seg>
       <tuv lang="en">
         <seg>However, regular expressions also provide special modifiers to specify case sensitivity within the expression:</seg>
       </tuv>
-      <tuv lang="fr" changeid="sirine" changedate="20230307T215618Z" creationid="sirine" creationdate="20230307T215618Z">
-        <seg>Cependant, il est possible de définir la prise en compte de la casse au sein de l'expression régulière en utilisant des modificateurs particuliers :</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230307T220849Z" creationid="sirine" creationdate="20230307T215618Z">
+        <seg>Cependant, il est possible de définir la sensibilité à la casse au sein de l'expression régulière en utilisant des modificateurs particuliers :</seg>
       </tuv>
     </tu>
     <tu>
@@ -32295,8 +32295,8 @@ the scope of this License.</seg>
       <tuv lang="en">
         <seg>In contrast, Regular expressions are case sensitive by default.</seg>
       </tuv>
-      <tuv lang="fr" changeid="sirine" changedate="20230307T214810Z" creationid="sirine" creationdate="20230307T214810Z">
-        <seg>En revanche, les Expressions régulières tiennent compte de la casse par défaut.</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230307T220820Z" creationid="sirine" creationdate="20230307T214810Z">
+        <seg>En revanche, les Expressions régulières sont sensibles à la casse par défaut.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37597,8 +37597,8 @@ La version Mac intègre un JRE.</seg>
       <tuv lang="en">
         <seg>Makes the part of the expression to the right of the modifier case insensitive.</seg>
       </tuv>
-      <tuv lang="fr" changeid="sirine" changedate="20230307T220007Z" creationid="sirine" creationdate="20230307T215813Z">
-        <seg>Permet de ne pas tenir compte de la casse de l'expression située à droite du modificateur.</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230307T220950Z" creationid="sirine" creationdate="20230307T215813Z">
+        <seg>Rend insensible à la casse la partie de l'expression située à droite du modificateur..</seg>
       </tuv>
     </tu>
     <tu>
