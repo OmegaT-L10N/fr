@@ -4624,6 +4624,7 @@ Valider les balises.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>(JC) "modifier" ?</note>
       <tuv lang="en">
         <seg>0 or more &lt;c0&gt;modifier&lt;/c0&gt;</seg>
       </tuv>
@@ -8386,6 +8387,7 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>(JC) en français</note>
       <tuv lang="en">
         <seg>&lt;l0&gt;an?␣&lt;/l0&gt; (where “␣” represents a single space).</seg>
       </tuv>
@@ -22973,6 +22975,7 @@ by the Free Software Foundation.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>(JC) en français</note>
       <tuv lang="en">
         <seg>Either the “a ” or the “an ” in:</seg>
       </tuv>
@@ -34601,6 +34604,7 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>(JC) cela ?</note>
       <tuv lang="en">
         <seg>It takes the following form:</seg>
       </tuv>
@@ -34627,6 +34631,7 @@ dans le dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>(JC) en français</note>
       <tuv lang="en">
         <seg>It will also find the final “an ” of “Can ” in a sentence such as “Can I help you?”, or the final “a ” of “pasta ” in “We had pasta for lunch.”</seg>
       </tuv>
@@ -39510,6 +39515,7 @@ as the Applications folder.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>(JC) en français</note>
       <tuv lang="en">
         <seg>Neither the “a” nor the “an” in:</seg>
       </tuv>
@@ -43426,6 +43432,7 @@ redontant URL
       </tuv>
     </tu>
     <tu>
+      <note>(JC) en français</note>
       <tuv lang="en">
         <seg>Only the initial “run” in those phrases is matched.</seg>
       </tuv>
@@ -56051,6 +56058,7 @@ form of a work.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>(JC) espace</note>
       <tuv lang="en">
         <seg>The &lt;c0&gt;shortcut&lt;/c0&gt; represents the key combination pressed by the user.</seg>
       </tuv>
@@ -57377,6 +57385,7 @@ shown below.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>(JC) en français</note>
       <tuv lang="en">
         <seg>The complete phrase in “run-on” or “run'n'gun”, because the hyphen and apostrophe are not included in &lt;l0&gt;\w&lt;/l0&gt;.</seg>
       </tuv>
@@ -58555,6 +58564,7 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
     </tu>
     <tu>
+      <note>(JC) en français</note>
       <tuv lang="en">
         <seg>The indefinite article: “a” (or “an”).</seg>
       </tuv>
@@ -61098,6 +61108,7 @@ the [Help] menu after starting OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>(JC) en français</note>
       <tuv lang="en">
         <seg>The word “run”, as well as “runs”, “runner”, “runway”, “runt” in “grunt” or “brunt”, and any other word or sequence of characters containing “run” followed by zero or more “&lt;e0&gt;word characters&lt;/e0&gt;” (which include digits and the underscore, so the part before the “@” in an email address such as run_123@example.email.org is also a match).</seg>
       </tuv>
@@ -62283,6 +62294,7 @@ under the terms of this General Public License.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>(JC) pas cohérent avec la correspondance no 2</note>
       <tuv lang="en">
         <seg>This character specifies that zero or more instances of the preceding character or expression should be matched.</seg>
       </tuv>
@@ -67726,6 +67738,7 @@ la configuration actuelle est de {0} Mo ;</seg>
       </tuv>
     </tu>
     <tu>
+      <note>(JC) espace</note>
       <tuv lang="en">
         <seg>Use the tables in the &lt;l0/&gt; section below to find the values for &lt;c1&gt;function code&lt;/c1&gt;.</seg>
       </tuv>
@@ -80879,6 +80892,7 @@ Ok. </note>
       </tuv>
     </tu>
     <tu>
+      <note>(JC) en français</note>
       <tuv lang="en">
         <seg>run\w*</seg>
       </tuv>
@@ -83295,6 +83309,7 @@ Ok. </note>
       </tuv>
     </tu>
     <tu>
+      <note>(JC) en français</note>
       <tuv lang="en">
         <seg>“I have a question.”</seg>
       </tuv>
@@ -83303,6 +83318,7 @@ Ok. </note>
       </tuv>
     </tu>
     <tu>
+      <note>(JC) en français</note>
       <tuv lang="en">
         <seg>“I know an excellent doctor.”</seg>
       </tuv>
