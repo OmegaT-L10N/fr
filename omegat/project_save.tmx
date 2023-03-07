@@ -11453,6 +11453,14 @@ or that patent license was granted, prior to 28 March 2007.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A period followed by a whitespace</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230307T180820Z" creationid="Anand" creationdate="20230307T180820Z">
+        <seg>Un point, suivi d'un caractère d'espacement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A project's tmx will be upgraded only once, and will be written in upgraded form into the &lt;f0&gt;project-save.tmx&lt;/f0&gt;; legacy tmx files will be upgraded on the fly each time the project is loaded.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021550Z">
@@ -39372,8 +39380,8 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>Ms, followed by a period, followed by a whitespace.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230307T180336Z" creationid="Anand" creationdate="20230307T180336Z">
-        <seg>M, suivi d'un point, suivi d'une espace.</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230307T180831Z" creationid="Anand" creationdate="20230307T180336Z">
+        <seg>M, suivi d'un point, suivi d'un caractère d'espacement.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53936,6 +53944,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
         <seg>Commencer un nouveau paragraphe sur :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Start a new segment after “。” (Japanese period).</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230307T180912Z" creationid="Anand" creationdate="20230307T180912Z">
+        <seg>Commencer un nouveau segment après “。” (point japonais).</seg>
       </tuv>
     </tu>
     <tu>
