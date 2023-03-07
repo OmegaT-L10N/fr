@@ -2492,6 +2492,14 @@ Le caractère « ? » correspond à un seul caractère. La recherche sur « m
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(?-i)</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230307T215816Z" creationid="sirine" creationdate="20230307T215816Z">
+        <seg>(?-i)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(?i)</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T105041Z">
@@ -37589,8 +37597,16 @@ La version Mac intègre un JRE.</seg>
       <tuv lang="en">
         <seg>Makes the part of the expression to the right of the modifier case insensitive.</seg>
       </tuv>
-      <tuv lang="fr" changeid="sirine" changedate="20230307T215813Z" creationid="sirine" creationdate="20230307T215813Z">
-        <seg>Permet de ne pas tenir compte de la casse dans la partie située à droite de l'expression.</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230307T220007Z" creationid="sirine" creationdate="20230307T215813Z">
+        <seg>Permet de ne pas tenir compte de la casse de l'expression située à droite du modificateur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Makes the part of the expression to the right of the modifier case sensitive.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230307T215851Z" creationid="sirine" creationdate="20230307T215851Z">
+        <seg>Permet de tenir compte de la casse dans la partie située à droite du modificateur.</seg>
       </tuv>
     </tu>
     <tu>
