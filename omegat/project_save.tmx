@@ -17243,6 +17243,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Classes are defined by enclosing the desired characters in square brackets, and can be specified either by listing each individual character to include, or by specifying a range of characters.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230307T221825Z" creationid="sirine" creationdate="20230307T221825Z">
+        <seg>Les classes sont définies en mettant les caractères souhaités entre crochets et peuvent être précisées soit en énumérant chaque caractère individuel à inclure, soit en définissant une gamme de caractères.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cleaning entry '{0}'...</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20180419T151228Z" creationid="Didier" creationdate="20180419T151228Z">
