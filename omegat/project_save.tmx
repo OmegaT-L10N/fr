@@ -11119,6 +11119,14 @@ work thus licensed is called the contributor's "contributor version".</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A character in the range of letters from “C” through “X”.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230307T224038Z" creationid="sirine" creationdate="20230307T224038Z">
+        <seg>Un caractère dans la gamme de lettres allant de « C » à « X ».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A command line window is also referred to as a "terminal window".</seg>
       </tuv>
       <tuv lang="fr" changeid="brigitte" changedate="20130714T130531Z">
@@ -11485,6 +11493,14 @@ or that patent license was granted, prior to 28 March 2007.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A range is defined by the first character in a series, followed by a hyphen, followed by last character in the series.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230307T224310Z" creationid="sirine" creationdate="20230307T224310Z">
+        <seg>Une gamme est définie par le premier caractère d'une série, suivi d'un trait d'union, suivi du dernier caractère de la série.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A regular expression entered here will cause OmegaT treat the detected instances as customer tags.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130416T155128Z">
@@ -11521,6 +11537,14 @@ or that patent license was granted, prior to 28 March 2007.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20140414T135259Z" creationid="Didier" creationdate="20140414T135259Z">
         <seg>Il est possible qu'une recherche soit limitée à 1000 éléments. Dans ce cas, si vous rechercher une expression courante, l'Éditeur ne vous montre que les 1000 entrées correspondantes, et non pas toutes les entrées correspondant aux critères de recherche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A simple class consists of any number of characters enclosed by &lt;l0&gt;[&lt;/l0&gt; and &lt;l1&gt;]&lt;/l1&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230307T223953Z" creationid="sirine" creationdate="20230307T223953Z">
+        <seg>Une classe simple est constituée d'un nombre quelconque de caractères encadrés par &lt;l0&gt;[&lt;/l0&gt; et &lt;l1&gt;]&lt;/l1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -73060,6 +73084,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221016T093513Z" creationid="suzume" creationdate="20221016T093513Z">
         <seg>[0-9]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[C-X]</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230307T223958Z" creationid="sirine" creationdate="20230307T223958Z">
+        <seg>[C-X]</seg>
       </tuv>
     </tu>
     <tu>
