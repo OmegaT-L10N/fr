@@ -14576,6 +14576,7 @@ provoquer des comportements inattendus, mais corrects.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>(JC) ponctuation</note>
       <tuv lang="en">
         <seg>Auto replace plural specification</seg>
       </tuv>
@@ -44483,6 +44484,7 @@ of promoting the sharing and reuse of software generally.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>(JC) espace à la fin</note>
       <tuv lang="en">
         <seg>Override the plural specification in the header and use the target language default.</seg>
       </tuv>
@@ -56765,6 +56767,7 @@ software and other kinds of works.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>(JC) dans l'éditeur</note>
       <tuv lang="en">
         <seg>The PO header will not be displayed for translation.</seg>
       </tuv>
@@ -60835,6 +60838,8 @@ L'idée était que l'utilisation de certaines touches en dehors du segment coura
       </tuv>
     </tu>
     <tu>
+      <note>(JC) https://fr.wikipedia.org/wiki/Barre_verticale
+(JC) apostrophe : pas d'espace après</note>
       <tuv lang="en">
         <seg>The twelve special characters are the &lt;e0&gt;backslash&lt;/e0&gt; &lt;l1&gt;\&lt;/l1&gt;, the &lt;e2&gt;caret&lt;/e2&gt; &lt;l3&gt;^&lt;/l3&gt;, the &lt;e4&gt;dollar sign&lt;/e4&gt; &lt;l5&gt;$&lt;/l5&gt;, the &lt;e6&gt;period&lt;/e6&gt; (or &lt;e7&gt;dot&lt;/e7&gt;) &lt;l8&gt;.&lt;/l8&gt;, the &lt;e9&gt;vertical bar&lt;/e9&gt; (or &lt;e10&gt;pipe symbol&lt;/e10&gt;) &lt;l11&gt;|&lt;/l11&gt;, the &lt;e12&gt;question mark&lt;/e12&gt; &lt;l13&gt;?&lt;/l13&gt;, the &lt;e14&gt;asterisk&lt;/e14&gt; (or &lt;e15&gt;star&lt;/e15&gt;) &lt;l16&gt;*&lt;/l16&gt;, the &lt;e17&gt;plus sign&lt;/e17&gt; &lt;l18&gt;+&lt;/l18&gt;, the opening &lt;e19&gt;parenthesis&lt;/e19&gt; &lt;l20&gt;(&lt;/l20&gt;, the closing &lt;e21&gt;parenthesis&lt;/e21&gt;, &lt;l22&gt;)&lt;/l22&gt;, the opening &lt;e23&gt;square bracket&lt;/e23&gt; &lt;l24&gt;[&lt;/l24&gt;, and the opening &lt;e25&gt;curly brace&lt;/e25&gt; &lt;l26&gt;{&lt;/l26&gt;.</seg>
       </tuv>
