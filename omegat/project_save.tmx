@@ -15706,12 +15706,11 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>toute</note>
       <tuv lang="en">
         <seg>By default, OmegaT removes any leading and trailing whitespace from the translatable contents.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230301T105151Z" creationid="Anand" creationdate="20230301T105006Z">
-        <seg>Par défaut, OmegaT supprime tout espace en début et fin de segment du contenu traduisible.</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230307T092522Z" creationid="Anand" creationdate="20230301T105006Z">
+        <seg>Par défaut, OmegaT supprime toute espace en début et fin de segment du contenu traduisible.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28125,12 +28124,11 @@ a disparu...</seg>
       </tuv>
     </tu>
     <tu>
-      <note>dissimuler</note>
       <tuv lang="en">
         <seg>Hiding them from the translatable contents ensures that you will not erase or modify them by mistake.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230301T103632Z" creationid="Anand" creationdate="20230301T103459Z">
-        <seg>Les masquer du contenu traduisible vous assure de ne pas les effacer ou les modifier par erreur.</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230307T092140Z" creationid="Anand" creationdate="20230301T103459Z">
+        <seg>Les dissimuler du contenu traduisible vous assure de ne pas les effacer ou les modifier par erreur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30981,12 +30979,11 @@ OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>vous ...</note>
       <tuv lang="en">
         <seg>If you keep the leading and trailing tags, make sure you also include them in the translated text.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230301T103933Z" creationid="Anand" creationdate="20230301T103933Z">
-        <seg>Si vous garder les balises de début et de fin, veillez à aussi les inclure dans le texte traduit.</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230307T092220Z" creationid="Anand" creationdate="20230301T103933Z">
+        <seg>Si vous gardez les balises de début et de fin, veillez à aussi les inclure dans le texte traduit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35951,7 +35948,6 @@ Exécutez OmegaT de la façon suivante.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>demandées ?</note>
       <tuv lang="en">
         <seg>Leading and trailing tags are generally required by OmegaT to properly recreate the translated segment.</seg>
       </tuv>
