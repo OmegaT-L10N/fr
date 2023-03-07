@@ -31573,6 +31573,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ignore matches with very different case (e.g., USER vs user)</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230307T132528Z" creationid="Léo Delaune" creationdate="20230307T132528Z">
+        <seg>Ignorer les correspondances dont la casse est très différente (par exemple, UTILISATEUR vs utilisateur)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ignore tags that contain translate="no"</seg>
       </tuv>
       <tuv lang="fr" changeid="Anand" changedate="20230303T101119Z" creationid="Anand" creationdate="20230303T101119Z">
@@ -38087,6 +38095,14 @@ impose that choice.</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20230122T131650Z" creationid="briac" creationdate="20230122T131650Z">
         <seg>Correspondances non modifiées</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches with very different case are not displayed.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230307T132608Z" creationid="Léo Delaune" creationdate="20230307T132608Z">
+        <seg>Les correspondances avec des cas sans similitudes ne sont pas affichées.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69372,6 +69388,14 @@ for which you have or can give appropriate copyright permission.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When you use</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230307T123111Z" creationid="Léo Delaune" creationdate="20230307T123111Z">
+        <seg>Quand vous utilisez</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When you wish to use the filter again, just tick the check box.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130429T080224Z">
@@ -79752,8 +79776,8 @@ Ok. </note>
       <tuv lang="en">
         <seg>or</seg>
       </tuv>
-      <tuv lang="fr" changeid="JC Helary" changedate="20130505T100134Z">
-        <seg>or</seg>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230307T123127Z">
+        <seg>ou</seg>
       </tuv>
     </tu>
     <tu>
@@ -81238,6 +81262,14 @@ Ok. </note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>the &lt;l0/&gt; preference, etc.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230307T123137Z" creationid="Léo Delaune" creationdate="20230307T123125Z">
+        <seg>la &lt;l0/&gt; préférence, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>the Free Software Foundation, either version 3 of the License, or</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T023337Z" creationid="suzume" creationdate="20190305T142543Z">
@@ -81570,6 +81602,14 @@ Ok. </note>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221220T114343Z" creationid="suzume" creationdate="20221220T114343Z">
         <seg>pour trouver des erreurs d'orthographe à partir des dictionnaires installés dans les préférences &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>to insert the source content in the target segment, words with a glossary entry will automatically be replaced by their translation.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230307T132424Z" creationid="Léo Delaune" creationdate="20230307T132424Z">
+        <seg>pour insérer le contenu source dans le segment cible, les mots ayant une entrée dans le glossaire seront automatiquement remplacés par leur traduction.</seg>
       </tuv>
     </tu>
     <tu>
