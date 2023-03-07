@@ -41587,6 +41587,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT first parses the text for paragraph-level segmentation.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230307T125638Z" creationid="Anand" creationdate="20230307T125638Z">
+        <seg>OmegaT effectue d'abord une analyse du texte pour procéder à une segmentation au niveau des paragraphes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT first parses the text for structure-level segmentation.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20211117T074421Z" creationid="suzume" creationdate="20211117T074421Z">
@@ -44563,6 +44571,14 @@ mirage, pas de page...</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
         <seg>Segmenter le texte source en paragraphes (basés) sur : fin de lignes, lignes vides ou jamais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Paragraph-Level segmentation</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230307T125532Z" creationid="Anand" creationdate="20230307T125532Z">
+        <seg>Segmentation au niveau des paragraphes</seg>
       </tuv>
     </tu>
     <tu>
