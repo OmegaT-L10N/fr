@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_02bf2621" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -14200,6 +14200,14 @@ void, and will automatically terminate your rights under this License.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20211122T093211Z" creationid="suzume" creationdate="20211122T093211Z">
         <seg>Comme OmegaT traite les segments identiques comme étant une seule et même entité, seul le premier segment unique est affiché.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As a reminder, rules work the following way: when a rule matches, OmegaT puts a marker at the match location so that rules that come after ignore that location.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230307T175257Z" creationid="Anand" creationdate="20230307T175257Z">
+        <seg>Pour rappel, les règles fonctionnent de la manière suivante : lorsqu'une règle correspond, OmegaT place un marqueur à l'emplacement de la correspondance afin que les règles suivantes ignorent cet emplacement.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42383,6 +42391,14 @@ selecting, obtaining and installing it.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130527T140907Z">
         <seg>Projets OmegaT et sous-dossiers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT provides predefined segmentation rules, and the translator can use regular expressions to modify them.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230307T174915Z" creationid="Anand" creationdate="20230307T174915Z">
+        <seg>OmegaT fournit des règles prédéfinies de segmentation, et le traducteur peut utiliser des expressions régulières pour les modifier.</seg>
       </tuv>
     </tu>
     <tu>
