@@ -26989,8 +26989,8 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       <tuv lang="en">
         <seg>Global or local?</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230307T140340Z" creationid="Anand" creationdate="20230307T140340Z">
-        <seg>Global ou local ?</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230307T140443Z" creationid="Anand" creationdate="20230307T140340Z">
+        <seg>Globales ou locales ?</seg>
       </tuv>
     </tu>
     <tu>
@@ -59794,6 +59794,14 @@ protocols for communication across the network.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130429T090415Z">
         <seg>La même boite de dialogue est utilisée pour ajouter un masque ou pour modifier un masque particulier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The same mechanisms and dialogs are used to define global and local segmentation rules.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230307T140615Z" creationid="Anand" creationdate="20230307T140615Z">
+        <seg>Les mêmes mécanismes et boîtes de dialogue sont utilisés pour définir les règles globales et locales de segmentation.</seg>
       </tuv>
     </tu>
     <tu>
