@@ -14320,12 +14320,11 @@ provoquer des comportements inattendus, mais corrects.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>"properly"</note>
       <tuv lang="en">
         <seg>Associating a file extension to a filter is not sufficient to have the filter properly handle the file.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230302T171116Z" creationid="Anand" creationdate="20230302T170018Z">
-        <seg>Associer une extension de fichier à un filtre n'est pas suffisant pour que ce dernier puisse traiter le fichier.</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230307T100730Z" creationid="Anand" creationdate="20230302T170018Z">
+        <seg>Associer une extension de fichier à un filtre n'est pas suffisant pour que ce dernier puisse correctement traiter le fichier.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57673,12 +57672,15 @@ instead.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>vous comprenez pourquoi ?</note>
+      <note>vous comprenez pourquoi ?
+
+(Anand) problème de compatibilité? un filtre XHTML est fait pour les fichiers .xhtml, donc ne fonctionnera pas avec un .odt
+Coquille dans le segment source : "XHMTL" au lieu de "XHTML"</note>
       <tuv lang="en">
         <seg>The file structure must also be compatible with the filter: even if you associate &lt;l0&gt;.odt&lt;/l0&gt; to the XHMTL filter, the filter will not be able to understand the contents of a LibreOffice Writer file.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230302T171213Z" creationid="Anand" creationdate="20230302T170537Z">
-        <seg>La structure du fichier doit être compatible avec le filtre : même si vous associez &lt;l0&gt;.odt&lt;/l0&gt; au filtre XHTML, le filtre ne sera pas capable de comprendre le contenu d'un fichier LibreOffice Writer. </seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230307T101106Z" creationid="Anand" creationdate="20230302T170537Z">
+        <seg>La structure du fichier doit être compatible avec le filtre : même si vous associez &lt;l0&gt;.odt&lt;/l0&gt; au filtre XHTML, le filtre ne sera pas capable de comprendre le contenu d'un fichier LibreOffice Writer.</seg>
       </tuv>
     </tu>
     <tu>
