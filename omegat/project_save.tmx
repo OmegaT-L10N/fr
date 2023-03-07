@@ -45714,6 +45714,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Preferences here define how the contents of the &lt;l0/&gt; folder are displayed in the &lt;l1/&gt; pane.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230307T133240Z" creationid="Léo Delaune" creationdate="20230307T133240Z">
+        <seg>Les préférences définissent ici la manière dont le contenu du dossier &lt;l0/&gt; est affiché dans le volet &lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Preferences set in this dialog are saved to the default &lt;l0&gt;configuration folder&lt;/l0&gt; and apply to all translation projects unless you have specified a different configuration folder.</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T193733Z" creationid="Léo Delaune" creationdate="20230306T193733Z">
@@ -49863,6 +49871,14 @@ La recherche port par défaut sur le projet, et peut porter sur tout fichier sit
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20140203T140340Z" creationid="Didier" creationdate="20140203T140340Z">
         <seg>Rechercher et rem&amp;placer...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search automatically</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230307T133251Z" creationid="Léo Delaune" creationdate="20230307T133251Z">
+        <seg>Recherche autoamtique.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67244,6 +67260,14 @@ la configuration actuelle est de {0} Mo ;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use fuzzy matching</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230307T133530Z" creationid="Léo Delaune" creationdate="20230307T133530Z">
+        <seg>Utiliser la correspondance partielle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use fuzzy matching for dictionary entries</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20161227T165045Z" creationid="Didier" creationdate="20161227T165045Z">
@@ -69097,6 +69121,14 @@ add Python to your Path.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When the option is enabled, OmegaT automatically searches in all the dictionaries for matches of the terms it identified in the segment, as it enters the segment.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230307T133431Z" creationid="Léo Delaune" creationdate="20230307T133431Z">
+        <seg>Lorsque l'option est activée, OmegaT recherche automatiquement dans tous les dictionnaires les correspondances avec les termes qu'il a identifiés dans le segment, au fur et à mesure de sa progression dans le segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When the option is unchecked, all non-unique segments are shown in grey except the first occurrence.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210110T095127Z" creationid="suzume" creationdate="20210110T095127Z">
@@ -69536,6 +69568,14 @@ for which you have or can give appropriate copyright permission.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021618Z" creationid="Didier" creationdate="20160427T153238Z">
         <seg>Quelle version voulez-vous conserver ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>While the option is disabled, use &lt;l0/&gt;&lt;l1/&gt; to search for matches of the selection or of all the terms in the segment source.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230307T133352Z" creationid="Léo Delaune" creationdate="20230307T133352Z">
+        <seg>Lorsque l'option est désactivée, utilisez &lt;l0/&gt;&lt;l1/&gt; pour rechercher les correspondances dans la sélection ou de tous les termes dans la source du segment.</seg>
       </tuv>
     </tu>
     <tu>
