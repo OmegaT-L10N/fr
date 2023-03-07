@@ -42585,6 +42585,14 @@ directory -&gt; folder</note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT will use the associated tokenizer to find matches.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230307T123009Z" creationid="Léo Delaune" creationdate="20230307T123009Z">
+        <seg>OmegaT utilisera le tokenizer associé pour trouver des correspondances.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT will usually run on any Linux system on which a suitable version of the Java Runtime Environment (JRE) can be be installed.</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20170403T160717Z" creationid="briac" creationdate="20170403T160700Z">
@@ -48025,6 +48033,14 @@ ces mots : « pas de page »...</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20161227T164211Z" creationid="Didier" creationdate="20161227T164211Z">
         <seg>Remplacer les entrées de glossaire lors de l'insertion du texte source</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace matches when inserting source text</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230307T123059Z" creationid="Léo Delaune" creationdate="20230307T123059Z">
+        <seg>Remplacer les correspondances lors de l'insertion d'un texte source.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67139,6 +67155,14 @@ la configuration actuelle est de {0} Mo ;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use stemming</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230307T122944Z" creationid="Léo Delaune" creationdate="20230307T122944Z">
+        <seg>Utilisez le stemming</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use stemming for &amp;glossary entries</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20150525T144806Z" creationid="Didier" creationdate="20150525T144713Z">
@@ -68731,6 +68755,14 @@ you have just discovered.</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130415T152528Z">
         <seg>Lorsqu'OmegaT rencontre un fichier dans le dossier source, il tente de sélectionner le filtre basé sur l'extension du fichier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When a glossary term is a compound word, the term will match even if the words appear separately in the source text.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230307T122843Z" creationid="Léo Delaune" creationdate="20230307T122843Z">
+        <seg>Lorsqu'un terme du glossaire est un mot composé, le terme correspondra même si les mots apparaissent séparément dans le texte source. </seg>
       </tuv>
     </tu>
     <tu>
