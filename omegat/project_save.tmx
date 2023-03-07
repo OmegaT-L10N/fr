@@ -15816,6 +15816,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By default, segmentation settings are global and shared by all projects.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230307T140804Z" creationid="Anand" creationdate="20230307T140631Z">
+        <seg>Par défaut, les paramètres de segmentation sont globaux, locaux et partagés par tous les projets.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default, the /tm folder is below the project's root folder (e.g. ...&lt;e0&gt;/MyProject/tm&lt;/e0&gt;), but you can choose a different folder in the project properties dialog if you wish.</seg>
       </tuv>
       <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210520T154833Z">
@@ -67616,6 +67624,15 @@ la configuration actuelle est de {0} Mo ;</seg>
       </tuv>
     </tu>
     <tu>
+      <note>tag -&gt; local segmentation rules</note>
+      <tuv lang="en">
+        <seg>Use the &lt;l0/&gt; project property to limit the scope of the segmentation rules to the current project.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230307T141042Z" creationid="Anand" creationdate="20230307T141042Z">
+        <seg>Utilisez les propriétés de projet &lt;l0/&gt; pour limiter la portée des règles de segmentation au projet en cours.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Use the &lt;l0/&gt; project property to select the type of segmentation.</seg>
       </tuv>
@@ -70824,6 +70841,14 @@ this License.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160322T165703Z" creationid="Didier" creationdate="20160322T165703Z">
         <seg>Vous pouvez accéder directement à ce dossier avec l'entrée de menu &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Accéder au dossier de configuration&lt;/g2&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can achieve a similar result by starting OmegaT from the command line.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230307T141213Z" creationid="Anand" creationdate="20230307T141213Z">
+        <seg>Vous pouvez atteindre un résultat similaire en ouvrant OmegaT à partir d'une ligne de commande.</seg>
       </tuv>
     </tu>
     <tu>
