@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_02bf26211" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -62513,6 +62513,14 @@ under the terms of this General Public License.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20150313T152201Z" creationid="Didier" creationdate="20150313T152201Z">
         <seg>Cette commande externe ne pouvant pas comporter de « pipe », etc., l'appel d'un script est recommandé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This feature depends on Java functionality that is not yet available on other platforms.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230307T141013Z" creationid="Léo Delaune" creationdate="20230307T141013Z">
+        <seg>Cette fonction dépend d'une fonctionnalité Java qui n'est pas encore disponible sur d'autres plates-formes.</seg>
       </tuv>
     </tu>
     <tu>
