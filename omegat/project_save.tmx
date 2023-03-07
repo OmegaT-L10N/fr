@@ -17235,6 +17235,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Classes</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230307T221349Z" creationid="sirine" creationdate="20230307T221349Z">
+        <seg>Classes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cleaning entry '{0}'...</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20180419T151228Z" creationid="Didier" creationdate="20180419T151228Z">
@@ -47706,6 +47714,14 @@ ces mots : « pas de page »...</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Regular expressions allow you to create sets of characters—known as &lt;e0&gt;classes&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230307T221447Z" creationid="sirine" creationdate="20230307T221447Z">
+        <seg>Les expressions régulières permettent de créer des ensembles de caractères, appelés &lt;e0&gt;classes&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Regular expressions are a powerful way to look for instances of a string.</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130422T220200Z">
@@ -50423,6 +50439,14 @@ La recherche port par défaut sur le projet, et peut porter sur tout fichier sit
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20110906T131223Z">
         <seg>Une recherche peut être effectuée dans la langue source et/ou dans la langue cible et/ou dans les notes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Searches will match any of the characters in the set.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230307T221514Z" creationid="sirine" creationdate="20230307T221514Z">
+        <seg>Les recherches correspondront à n'importe quel caractère de l'ensemble.</seg>
       </tuv>
     </tu>
     <tu>
