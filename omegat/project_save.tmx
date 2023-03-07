@@ -17364,12 +17364,11 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Erreur d'UI</note>
       <tuv lang="en">
         <seg>Click the &lt;g0&gt;Restore Defaults&lt;/g0&gt; button to reset the file filters to their default settings.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230301T101759Z" creationid="Anand" creationdate="20230301T101533Z">
-        <seg>Cliquez sur le bouton &lt;g0&gt;Rétablir par défaut&lt;/g0&gt; afin de réinitialiser les filtres de fichiers à leurs paramètres initiaux.</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230307T091431Z" creationid="Anand" creationdate="20230301T101533Z">
+        <seg>Cliquez sur le bouton &lt;g0&gt;Valeurs par défaut&lt;/g0&gt; afin de réinitialiser les filtres de fichiers à leurs paramètres initiaux.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20497,12 +20496,11 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
     </tu>
     <tu>
-      <note>pas besoin de "aussi", c'est sont seul effet.</note>
       <tuv lang="en">
         <seg>Deleting that file also resets the filter preferences.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230301T103028Z" creationid="Anand" creationdate="20230301T101953Z">
-        <seg>La suppression de ce fichier réinitialise aussi les préférences de filtre.</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230307T091624Z" creationid="Anand" creationdate="20230301T101953Z">
+        <seg>La suppression de ce fichier réinitialise les préférences de filtre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38557,21 +38555,22 @@ impose that choice.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>vérifier ce à quoi correspond la balise et ajouter "le fichier ..." ou autre chose. Pareil pour la source.</note>
+      <note>vérifier ce à quoi correspond la balise et ajouter "le fichier ..." ou autre chose. Pareil pour la source.
+
+La balise correspond à "filters.xml"</note>
       <tuv lang="en">
         <seg>Modified global file filter preferences are saved in &lt;l0/&gt;, in the configuration folder.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230301T101840Z" creationid="Anand" creationdate="20230301T101753Z">
-        <seg>Les modifications des préférences globales de filtres de fichier sont enregistrées dans &lt;l0/&gt;, dans le dossier de configuration.</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230307T091558Z" creationid="Anand" creationdate="20230301T101753Z">
+        <seg>Les modifications des préférences globales de filtres de fichier sont enregistrées dans le fichier &lt;l0/&gt;, dans le dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>une espace en trop</note>
       <tuv lang="en">
         <seg>Modified local file filters are saved in the &lt;l0/&gt; file, located in the project folder.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230301T102859Z" creationid="Anand" creationdate="20230301T102009Z">
-        <seg>Les modifications des filtres de fichiers locaux sont enregistrées dans le fichier &lt;l0/&gt; , situé dans le dossier du projet.</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230307T091637Z" creationid="Anand" creationdate="20230301T102009Z">
+        <seg>Les modifications des filtres de fichiers locaux sont enregistrées dans le fichier &lt;l0/&gt;, situé dans le dossier du projet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50503,8 +50502,8 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       <tuv lang="en">
         <seg>See the &lt;l1/&gt; chapter for details.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230302T165508Z" creationid="Anand" creationdate="20230301T102820Z">
-        <seg>Voir le chapitre &lt;l1/&gt; pour en savoir plus..</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230307T091643Z" creationid="Anand" creationdate="20230301T102820Z">
+        <seg>Voir le chapitre &lt;l1/&gt; pour en savoir plus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52510,7 +52509,6 @@ of the GPL, as needed to protect the freedom of users.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>"approfondir la personnalisation" ?</note>
       <tuv lang="en">
         <seg>Some filters provide a &lt;g0&gt;Options...&lt;/g0&gt; button to further customize their settings.</seg>
       </tuv>
