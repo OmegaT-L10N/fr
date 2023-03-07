@@ -37597,16 +37597,16 @@ La version Mac intègre un JRE.</seg>
       <tuv lang="en">
         <seg>Makes the part of the expression to the right of the modifier case insensitive.</seg>
       </tuv>
-      <tuv lang="fr" changeid="sirine" changedate="20230307T220950Z" creationid="sirine" creationdate="20230307T215813Z">
-        <seg>Rend insensible à la casse la partie de l'expression située à droite du modificateur..</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230307T220956Z" creationid="sirine" creationdate="20230307T215813Z">
+        <seg>Rend insensible à la casse la partie de l'expression située à droite du modificateur.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Makes the part of the expression to the right of the modifier case sensitive.</seg>
       </tuv>
-      <tuv lang="fr" changeid="sirine" changedate="20230307T220142Z" creationid="sirine" creationdate="20230307T215851Z">
-        <seg>Permet de tenir compte de la casse de l'expression située à droite du modificateur.</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230307T221028Z" creationid="sirine" creationdate="20230307T215851Z">
+        <seg>Rend sensible à la casse la partie de l'expression située à droite du modificateur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71751,6 +71751,14 @@ your programs, too.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can do so with the following expression: &lt;l0&gt;(?i)o&lt;/l0&gt;&lt;l1&gt;(?-i)mega&lt;/l1&gt; &lt;l2&gt;(?i)t&lt;/l2&gt;, which represents a case insensitive “o” followed by a case sensitive “mega”, followed by a case insensitive “t”.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230307T221244Z" creationid="sirine" creationdate="20230307T221244Z">
+        <seg>Vous pouvez utiliser l'expression suivante : &lt;l0&gt;(?i)o&lt;/l0&gt;&lt;l1&gt;(?-i)mega&lt;/l1&gt; &lt;l2&gt;(?i)t&lt;/l2&gt;, qui correspond à un « o » insensible à la casse, suivi d'un « mega » sensible à la casse, suivi d'un « t » insensible à la casse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can either copy files manually, i.e. from elsewhere on your system, using your file manager; or you can use OmegaT's &lt;e0&gt;"Install new dictionary"&lt;/e0&gt; function to provide a list of available dictionaries to select from.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021550Z">
@@ -72100,8 +72108,8 @@ installation script (linux-install.sh).</seg>
       <tuv lang="en">
         <seg>You can take advantage of this to apply a fine degree of control to case sensitivity in searches.</seg>
       </tuv>
-      <tuv lang="fr" changeid="sirine" changedate="20230307T220321Z" creationid="sirine" creationdate="20230307T220321Z">
-        <seg>Vous pouvez en profiter pour contrôler avec précision la distinction entre les majuscules et les minuscules dans les recherches.</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230307T221119Z" creationid="sirine" creationdate="20230307T220321Z">
+        <seg>Vous pouvez en profiter pour contrôler avec précision la sensibilité à la casse dans les recherches.</seg>
       </tuv>
     </tu>
     <tu>
