@@ -51002,12 +51002,13 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
     </tu>
     <tu>
-      <note>l'emplacement ?</note>
+      <note>
+</note>
       <tuv lang="en">
         <seg>Segmentation or exception rules define the position in a segment where a split will, or will not, be made.</seg>
       </tuv>
-      <tuv lang="fr" changeid="sirine" changedate="20230301T105048Z" creationid="sirine" creationdate="20230301T105048Z">
-        <seg>Les règles de segmentation ou d'exception définissent la position dans un segment dans lequel un fractionnement sera effectué ou non.</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230307T155128Z" creationid="sirine" creationdate="20230301T105048Z">
+        <seg>Les règles de segmentation ou d'exception définissent l'emplacement dans un segment dans lequel un fractionnement sera effectué ou non.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66143,8 +66144,8 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       <tuv lang="en">
         <seg>Two regular expressions are required to define that position: a “before” expression to define the text pattern ahead of where the rule should apply, and an “after” expression to define the text pattern following that position.</seg>
       </tuv>
-      <tuv lang="fr" changeid="sirine" changedate="20230301T105217Z" creationid="sirine" creationdate="20230301T105217Z">
-        <seg>Deux expressions régulières sont nécessaires pour définir cette position : une expression "avant" pour définir le masque de texte situé avant l'endroit où la règle doit s'appliquer, et une expression "après" pour définir le modèle de texte situé après cette position.</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230307T155547Z" creationid="sirine" creationdate="20230301T105217Z">
+        <seg>Pour définir l'emplacement où doit s'appliquer la règle, il est nécessaire de définir deux expressions régulières : une expression "avant" pour définir le masque de texte situé avant l'emplacement, et une expression "après" pour définir le masque de texte situé après l'emplacement.</seg>
       </tuv>
     </tu>
     <tu>
