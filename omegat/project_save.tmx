@@ -25009,6 +25009,14 @@ dommage...</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Files containing formatting (ODF, HTML, or other documents) are divided at block-level (paragraph) tags.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230307T130625Z" creationid="Anand" creationdate="20230307T130315Z">
+        <seg>Les fichiers contenant des formatages (documents ODF, HTML, etc.) sont segmentés en fonction des balises délimitant des blocs (paragraphes).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Files in Microsoft Office XML format can be translated directly in OmegaT.</seg>
       </tuv>
       <tuv lang="fr" changeid="briglegrand" changedate="20101024T115223Z">
