@@ -22570,6 +22570,14 @@ MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Each time the cursor moves to the next character, OmegaT checks whether:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230307T135913Z" creationid="Anand" creationdate="20230307T132533Z">
+        <seg>Chaque fois que le curseur passe au caractère suivant, OmegaT vérifie :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Each time you convey a covered work, the recipient automatically
 receives a license from the original licensors, to run, modify and
 propagate that work, subject to this License. You are not responsible
@@ -29955,6 +29963,14 @@ countries not thus excluded.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20211117T131310Z" creationid="suzume" creationdate="20211117T131310Z">
         <seg>Si la langue du système de l'utilisateur n'est pas disponible, OmegaT s'affiche en anglais (langue par défaut).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the location matches both rules, it is considered either as a break, or as a non-break, depending on what the rule defined.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230307T140049Z" creationid="Anand" creationdate="20230307T135147Z">
+        <seg>Si l'emplacement correspond aux deux règles, il sera considéré comme une rupture ou non, en fonction de ce que la règle a défini.</seg>
       </tuv>
     </tu>
     <tu>
@@ -73167,6 +73183,15 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Quelles sont ces Before rule &amp; After rules ?</note>
+      <tuv lang="en">
+        <seg>and the text after the location corresponds to the associated &lt;e0&gt;After&lt;/e0&gt; rule.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230307T135842Z" creationid="Anand" creationdate="20230307T135142Z">
+        <seg>et si le texte après l'emplacement correspond à la règle d'&lt;e0&gt;Après&lt;/e0&gt; associée.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>and then:</seg>
       </tuv>
@@ -81539,6 +81564,14 @@ Ok. </note>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130412T122608Z">
         <seg>la définition des filtres spécifiques au projet - &lt;f0&gt;omegat\filters.xml&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the text before the location corresponds to a &lt;e0&gt;Before&lt;/e0&gt; rule,</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230307T135920Z" creationid="Anand" creationdate="20230307T134229Z">
+        <seg>si le texte situé avant l'emplacement correspond à une règle d'&lt;e0&gt;Avant&lt;/e0&gt;,</seg>
       </tuv>
     </tu>
     <tu>
