@@ -7897,12 +7897,11 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>en français (clavier français)</note>
       <tuv lang="en">
         <seg>&lt;k0&gt;command&lt;/k0&gt; or &lt;k1&gt;⌘&lt;/k1&gt;</seg>
       </tuv>
-      <tuv lang="fr" changeid="Léo Delaune" changedate="20230302T153741Z" creationid="Léo Delaune" creationdate="20230302T153741Z">
-        <seg>&lt;k0&gt;command&lt;/k0&gt; ou &lt;k1&gt;⌘&lt;/k1&gt;</seg>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230307T104634Z" creationid="Léo Delaune" creationdate="20230302T153741Z">
+        <seg>&lt;k0&gt;logo&lt;/k0&gt; ou &lt;k1&gt;⌘&lt;/k1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7910,17 +7909,16 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="en">
         <seg>&lt;k0&gt;control&lt;/k0&gt; or &lt;k1&gt;⌃&lt;/k1&gt;</seg>
       </tuv>
-      <tuv lang="fr" changeid="Léo Delaune" changedate="20230301T154707Z" creationid="Léo Delaune" creationdate="20230301T154707Z">
-        <seg>&lt;k0&gt;control&lt;/k0&gt; ou &lt;k1&gt;⌃&lt;/k1&gt;</seg>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230307T104644Z" creationid="Léo Delaune" creationdate="20230301T154707Z">
+        <seg>&lt;k0&gt;ctrl&lt;/k0&gt; ou &lt;k1&gt;⌃&lt;/k1&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <note>en français ?</note>
       <tuv lang="en">
         <seg>&lt;k0&gt;shift&lt;/k0&gt; or &lt;k1&gt;⇧&lt;/k1&gt;</seg>
       </tuv>
-      <tuv lang="fr" changeid="Léo Delaune" changedate="20230301T154647Z" creationid="Léo Delaune" creationdate="20230301T154647Z">
-        <seg>&lt;k0&gt;shift&lt;/k0&gt;ou &lt;k1&gt;⇧&lt;/k1&gt;</seg>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230307T104239Z" creationid="Léo Delaune" creationdate="20230301T154647Z">
+        <seg>&lt;k0&gt;Maj&lt;/k0&gt;ou &lt;k1&gt;⇧&lt;/k1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -38556,7 +38554,6 @@ impose that choice.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>clés ?</note>
       <tuv lang="en">
         <seg>Modifier key identifiers</seg>
       </tuv>
@@ -55719,8 +55716,8 @@ form of a work.</seg>
       <tuv lang="en">
         <seg>The &lt;e0&gt;Key identifiers&lt;/e0&gt; above enable us to avoid listing multiple notations for every shortcut.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Léo Delaune" changedate="20230301T154828Z" creationid="Léo Delaune" creationdate="20230301T154828Z">
-        <seg>Les &lt;e0&gt;identifiants clé&lt;/e0&gt; ci-dessus nous permettent d'éviter d'énumérer de multiples notations pour chaque raccourcis.</seg>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230307T104932Z" creationid="Léo Delaune" creationdate="20230301T154828Z">
+        <seg>Les &lt;e0&gt;modificateurs&lt;/e0&gt; ci-dessus nous permettent d'éviter d'énumérer de multiples notations pour chaque raccourcis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64211,7 +64208,6 @@ as a Source Forge user.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>c'est quoi les touches de modification ?</note>
       <tuv lang="en">
         <seg>To make reading easier we have adopted the following convention for modifier keys:</seg>
       </tuv>
