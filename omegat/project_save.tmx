@@ -37605,8 +37605,8 @@ La version Mac intègre un JRE.</seg>
       <tuv lang="en">
         <seg>Makes the part of the expression to the right of the modifier case sensitive.</seg>
       </tuv>
-      <tuv lang="fr" changeid="sirine" changedate="20230307T215851Z" creationid="sirine" creationdate="20230307T215851Z">
-        <seg>Permet de tenir compte de la casse dans la partie située à droite du modificateur.</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230307T220142Z" creationid="sirine" creationdate="20230307T215851Z">
+        <seg>Permet de tenir compte de la casse de l'expression située à droite du modificateur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -72086,6 +72086,14 @@ installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20170911T161417Z" creationid="briac" creationdate="20170911T161417Z">
         <seg>Vous pouvez télécharger &lt;a0&gt;d'anciennes versions obsolètes&lt;/a0&gt; ​​d'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can take advantage of this to apply a fine degree of control to case sensitivity in searches.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230307T220321Z" creationid="sirine" creationdate="20230307T220321Z">
+        <seg>Vous pouvez en profiter pour contrôler avec précision la distinction entre les majuscules et les minuscules dans les recherches.</seg>
       </tuv>
     </tu>
     <tu>
