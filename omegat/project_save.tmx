@@ -15359,6 +15359,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Break rule, box checked, lower in the list</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230307T180558Z" creationid="Anand" creationdate="20230307T180558Z">
+        <seg>Règle de segmentation, case cochée, plus bas sur la liste</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Break/Exception</seg>
       </tuv>
       <tuv lang="fr">
@@ -24136,6 +24144,14 @@ The FSF strongly urges you not to use this translation as the official distribu-
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20101112T182916Z">
         <seg>Excel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Excel cells with lines breaks that do not represent segments</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230307T180504Z" creationid="Anand" creationdate="20230307T180504Z">
+        <seg>Cellules Excel avec des sauts de ligne qui ne représentent pas des segments</seg>
       </tuv>
     </tu>
     <tu>
@@ -36443,6 +36459,14 @@ Exécutez OmegaT de la façon suivante.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Line break, followed by anything.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230307T180526Z" creationid="Anand" creationdate="20230307T180526Z">
+        <seg>Saut de ligne, suivi de quoi que ce soit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Line length</seg>
       </tuv>
       <tuv lang="fr" changeid="Anand" changedate="20230302T181454Z" creationid="Anand" creationdate="20230302T181445Z">
@@ -39342,6 +39366,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130506T095148Z">
         <seg>M\.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ms, followed by a period, followed by a whitespace.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230307T180336Z" creationid="Anand" creationdate="20230307T180336Z">
+        <seg>M, suivi d'un point, suivi d'une espace.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53904,6 +53936,15 @@ of the GPL, as needed to protect the freedom of users.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
         <seg>Commencer un nouveau paragraphe sur :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(Anand) start a new segment start ?</note>
+      <tuv lang="en">
+        <seg>Start a new segment start after a period followed by a space, tab, or other whitespace.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230307T180751Z" creationid="Anand" creationdate="20230307T180751Z">
+        <seg>Commencer un nouveau segment après un point suivi d'une espace, une tabulation, ou autre caractère d'espacement.</seg>
       </tuv>
     </tu>
     <tu>
