@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_02bf26211" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -31742,6 +31742,7 @@ click on that shortcut.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>attribut=valeur</note>
       <tuv lang="en">
         <seg>Ignored tags (attribute=value)</seg>
       </tuv>
@@ -33178,6 +33179,7 @@ patent against the party.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>pluriel ?</note>
       <tuv lang="en">
         <seg>Insert Match or Selection into Translation</seg>
       </tuv>
@@ -59158,6 +59160,7 @@ freedom to share and change it.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>pourquoi changer de terme ?</note>
       <tuv lang="en">
         <seg>The next section describes the syntax used in the shortcut definition files, and provides an example modification.</seg>
       </tuv>
@@ -71297,6 +71300,7 @@ your programs, too.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>copier ... du ... ? maladroit</note>
       <tuv lang="en">
         <seg>You can copy the default OmegaT shortcut files from the OmegaT development site on Sourceforge to &lt;l0&gt;your configuration folder&lt;/l0&gt; and modify them to suit your needs:</seg>
       </tuv>
