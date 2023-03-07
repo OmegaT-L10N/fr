@@ -31345,6 +31345,14 @@ OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you use local rules, you can still access the global rules, but modifying them will have no effect on your project.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230307T141441Z" creationid="Anand" creationdate="20230307T141441Z">
+        <seg>Si vous utilisez les règles locales, vous pouvez toujours accéder aux règles globales, mais les modifier n'aura aucun effet sur votre projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you used linux-install.sh script, you should be able to launch OmegaT with:</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z" creationid="Didier" creationdate="20170210T103917Z">
@@ -50705,6 +50713,15 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230301T103036Z" creationid="sirine" creationdate="20230301T103036Z">
         <seg>Voir l'annexe &lt;l0/&gt; pour en savoir plus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>tag --&gt; Command line launch</note>
+      <tuv lang="en">
+        <seg>See the &lt;l0/&gt; how-to for details.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230307T141412Z" creationid="Anand" creationdate="20230307T141412Z">
+        <seg>Voir la procédure &lt;l0/&gt; pour en savoir plus.</seg>
       </tuv>
     </tu>
     <tu>
