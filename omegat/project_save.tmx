@@ -21913,12 +21913,11 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>espace double</note>
       <tuv lang="en">
         <seg>Double-click the editable fields to make simple modifications or click on the &lt;g0&gt;Edit...&lt;/g0&gt; button to access the modification dialog.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230301T111602Z" creationid="Anand" creationdate="20230301T111248Z">
-        <seg>Double-cliquez sur les champs modifiables afin d'effectuer des  modifications simples ou cliquez sur le bouton &lt;g0&gt;Modifier...&lt;/g0&gt; afin d'accéder à la boîte de dialogue de modification.</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230307T095247Z" creationid="Anand" creationdate="20230301T111248Z">
+        <seg>Double-cliquez sur les champs modifiables afin d'effectuer des modifications simples ou cliquez sur le bouton &lt;g0&gt;Modifier...&lt;/g0&gt; afin d'accéder à la boîte de dialogue de modification.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38546,7 +38545,7 @@ impose that choice.</seg>
     <tu>
       <note>vérifier ce à quoi correspond la balise et ajouter "le fichier ..." ou autre chose. Pareil pour la source.
 
-La balise correspond à "filters.xml"</note>
+(Anand) La balise correspond à "filters.xml"</note>
       <tuv lang="en">
         <seg>Modified global file filter preferences are saved in &lt;l0/&gt;, in the configuration folder.</seg>
       </tuv>
@@ -63471,12 +63470,12 @@ public, and in some countries other activities as well.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>modèle ? masque ? on fait quoi avec le jargon regex ?</note>
+      <note>on fait quoi avec le jargon regex ?</note>
       <tuv lang="en">
         <seg>To add a filter pattern, click on &lt;g0&gt;Add...&lt;/g0&gt; to open a similar dialog.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230301T111939Z" creationid="Anand" creationdate="20230301T111558Z">
-        <seg>Afin d'ajouter un modèle de filtre, cliquez sur &lt;g0&gt;Ajouter...&lt;/g0&gt; pour ouvrir une boîte de dialogue similaire.</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230307T095705Z" creationid="Anand" creationdate="20230301T111558Z">
+        <seg>Afin d'ajouter un masque de filtre, cliquez sur &lt;g0&gt;Ajouter...&lt;/g0&gt; pour ouvrir une boîte de dialogue similaire.</seg>
       </tuv>
     </tu>
     <tu>
