@@ -12472,8 +12472,8 @@ this License without regard to the additional permissions.</seg>
       <tuv lang="en">
         <seg>After dividing the source file into structural units, OmegaT further divides those units into segments.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230307T131150Z" creationid="Anand" creationdate="20230307T130919Z">
-        <seg>Après avoir segmenté le fichier source en unités structurelles, OmegaT segmente davantage ces unités en segments. </seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230307T131330Z" creationid="Anand" creationdate="20230307T130919Z">
+        <seg>Après avoir segmenté le fichier source en unités structurelles, OmegaT divise davantage ces unités en segments.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25020,8 +25020,8 @@ dommage...</seg>
       <tuv lang="en">
         <seg>Files containing formatting (ODF, HTML, or other documents) are divided at block-level (paragraph) tags.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230307T130625Z" creationid="Anand" creationdate="20230307T130315Z">
-        <seg>Les fichiers contenant des formatages (documents ODF, HTML, etc.) sont segmentés en fonction des balises délimitant des blocs (paragraphes).</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230307T131254Z" creationid="Anand" creationdate="20230307T130315Z">
+        <seg>Les fichiers contenant des formatages (documents ODF, HTML, etc.) sont divisés en fonction des balises délimitant des blocs (paragraphes).</seg>
       </tuv>
     </tu>
     <tu>
@@ -71550,6 +71550,14 @@ SourceForge too.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20211117T151254Z" creationid="suzume" creationdate="20211117T151254Z">
         <seg>Vous pouvez les visionner en sélectionnant &lt;m0&gt;&lt;g1&gt;Outils&lt;/g1&gt;&lt;g2&gt;Statistiques&lt;/g2&gt;&lt;/m0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can visualize segmentation as the process of moving the cursor along the text, one character at a time, and looking for the position where a break will occur, or where a break will not be allowed.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230307T132347Z" creationid="Anand" creationdate="20230307T132347Z">
+        <seg>Vous pouvez visualiser la segmentation comme le processus qui consiste à bouger le curseur le long du texte, un caractère à la fois, en recherchant la position où une rupture se produira, ou la position où une rupture n'est pas autorisée.</seg>
       </tuv>
     </tu>
     <tu>
