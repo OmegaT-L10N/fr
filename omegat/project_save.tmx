@@ -30740,6 +30740,14 @@ may not distribute the Program at all.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you change the segmentation while translating, you will have to reload the project for the new segmentation to take effect.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230307T175550Z" creationid="Anand" creationdate="20230307T175550Z">
+        <seg>Si vous changez la segmentation pendant la traduction, vous devrez recharger le projet afin que la nouvelle segmentation prenne effet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you check the OmegaT log and you see words like
 "Error", "Warning", "Exception", or "died unexpectedly" then you have probably
 discovered a genuine problem (the log.txt is located in the user preferences
@@ -40135,6 +40143,14 @@ Diminue les sorties sur stdout de la ligne de commande.</seg>
       </tuv>
       <tuv lang="fr" changeid="briglegrand" changedate="20110112T212608Z">
         <seg>Ce sujet ne devrait toutefois vous préoccuper que si vous attachez une importance particulière aux questions de copyright.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Nonetheless, their original translation will still be in the project memory.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230307T175726Z" creationid="Anand" creationdate="20230307T175726Z">
+        <seg>Néanmoins, leur traduction originale sera toujours dans la mémoire du projet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63640,6 +63656,14 @@ be a consequence of the rest of this License.</seg>
       </tuv>
       <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210507T125442Z" creationid="suzume" creationdate="20210201T140114Z">
         <seg>Ceci lancera OmegaT avec une mémoire de 6 Go ; modifiez la valeur &lt;l4&gt;6g&lt;/l4&gt; avec la valeur que vous désirez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This will split or merge some previously translated segments, which will therefore no longer be considered translated.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230307T175634Z" creationid="Anand" creationdate="20230307T175634Z">
+        <seg>Ce procédé va diviser ou fusionner certains segments précédemment traduits, qui ne seront donc plus considérés comme traduits.</seg>
       </tuv>
     </tu>
     <tu>
