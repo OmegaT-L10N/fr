@@ -29099,6 +29099,14 @@ need not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If a glossary item has multiple definitions, they will be displayed on the same line.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230307T132940Z" creationid="Léo Delaune" creationdate="20230307T132940Z">
+        <seg>Si un élément de glossaire comporte plusieurs définitions, celles-ci seront affichées sur la même ligne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If a search removes duplicates, those duplicates will not be in the Editor.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20140414T135404Z" creationid="Didier" creationdate="20140414T135404Z">
@@ -38279,6 +38287,14 @@ impose that choice.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20211120T090829Z" creationid="suzume" creationdate="20211120T090812Z">
         <seg>Fusionner des différentes définitions d'un même terme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Merge alternate definition of the same term</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230307T132921Z" creationid="Léo Delaune" creationdate="20230307T132921Z">
+        <seg>Fusionner les définitions alternatives d'un même terme</seg>
       </tuv>
     </tu>
     <tu>
