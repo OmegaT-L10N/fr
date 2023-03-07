@@ -55665,7 +55665,6 @@ Les remplacements portent sur les segments cible du projet, qu'ils soient déjà
       </tuv>
     </tu>
     <tu>
-      <note>mise en évidence ?</note>
       <tuv lang="en">
         <seg>Text highlighting in alignments</seg>
       </tuv>
@@ -56252,12 +56251,11 @@ form of a work.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>mettra en évidence ?</note>
       <tuv lang="en">
         <seg>The &lt;l0/&gt; setting allows you to define strings that OmegaT will highlight in the aligned documents.</seg>
       </tuv>
-      <tuv lang="fr" changeid="sirine" changedate="20230301T101602Z" creationid="sirine" creationdate="20230301T101602Z">
-        <seg>Le paramètre &lt;l0/&gt; permet de définir les chaînes de caractères qu'OmegaT mettra en évidence dans les documents alignés.</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230307T154745Z" creationid="sirine" creationdate="20230301T101602Z">
+        <seg>Le paramètre &lt;l0/&gt; permet de définir les chaînes de caractères qu'OmegaT surlignera dans les documents alignés.</seg>
       </tuv>
     </tu>
     <tu>
