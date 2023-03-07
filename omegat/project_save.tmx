@@ -83117,6 +83117,22 @@ Pour ajouter des fichiers au projet, cliquez sur le bouton « Copier des fichie
       </tuv>
     </tu>
     <tu>
+      <prop type="file">doc_src/en/App_FileFilters.xml</prop>
+      <prop type="prev">The source file name is one of the elements that characterize an alternative translation.</prop>
+      <prop type="next">Segments with the same characteristics located in other files will be translated the same way.</prop>
+      <note>Comment est-ce qu'une traduction alternative est identifiée et où on voit ça ? 
+
+(si votre première réponse est "je ne sais pas", j'attend votre deuxième réponse)
+
+</note>
+      <tuv lang="en">
+        <seg>If this option is checked, only the previous/next segments or a segment identifier will be used to characterize an alternative translation.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230307T094452Z" creationid="Anand" creationdate="20230307T094452Z">
+        <seg>Si cette option est cochée, seuls les segments précédents/suivants ou un identifiant de segment seront utilisés afin de caractériser une traduction alternative.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="file">readme_fr.txt</prop>
       <prop type="prev">3.</prop>
       <prop type="next">3.1</prop>
