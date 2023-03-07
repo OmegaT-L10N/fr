@@ -34400,12 +34400,11 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>incluant = maladroit</note>
       <tuv lang="en">
         <seg>It represents the complete filename of the source file, including the extension.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230302T174926Z" creationid="Anand" creationdate="20230302T174926Z">
-        <seg>Il représente le nom du fichier complet du fichier source, incluant l'extension.</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230307T102252Z" creationid="Anand" creationdate="20230302T174926Z">
+        <seg>Il représente le nom du fichier complet du fichier source, qui inclue l'extension.</seg>
       </tuv>
     </tu>
     <tu>
@@ -78931,7 +78930,9 @@ Ok. </note>
       </tuv>
     </tu>
     <tu>
-      <note>c'est quoi une extension ?</note>
+      <note>c'est quoi une extension ?
+
+(Anand) le .html, .odt, etc.</note>
       <tuv lang="en">
         <seg>name of the source file, without the extension</seg>
       </tuv>
