@@ -12995,6 +12995,14 @@ rights of fair use or other equivalent, as provided by copyright law.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All segmentation rule sets for a matching language pattern are active and are applied in order.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230308T173855Z" creationid="Léo Delaune" creationdate="20230308T173855Z">
+        <seg>Tous les ensembles de règles de segmentation pour un modèle de langue correspondant sont actifs et sont appliqués dans l'ordre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All segmentation rule sets for a matching language pattern are active and are applied in the given order of priority, so rules for specific language should be higher than default ones.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130506T093511Z">
@@ -70406,6 +70414,14 @@ free programs, and that you know you can do these things.</seg>
       </tuv>
       <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210519T093334Z">
         <seg>Lorsque vous commencez un nouveau projet sur le même sujet ou pour le même client, allez dans &lt;g0&gt;Projet &gt; Propriétés &gt; Modifier le projet&lt;/g0&gt; et sélectionnez le dossier dépôt en tant que dossier des mémoires de traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you click on a language pattern in the top half of the dialog, a list of associated rules will be displayed in the bottom half of the dialog.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230308T172826Z" creationid="Léo Delaune" creationdate="20230308T172826Z">
+        <seg>Lorsque vous cliquez sur un modèle de langue dans la partie supérieure de la boîte de dialogue, une liste de règles associées s'affiche dans la partie inférieure de la boîte de dialogue. </seg>
       </tuv>
     </tu>
     <tu>
