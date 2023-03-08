@@ -30360,6 +30360,14 @@ when it starts in an interactive mode:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the server uses SSH authentication, make sure you update your SSH configuration to include that server before attempting to download the project, otherwise you will get an authentication error and the project will fail to load.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230308T122656Z" creationid="Anand" creationdate="20230308T122656Z">
+        <seg>Si le serveur utilise une authentification SSH, veillez à mettre à jour votre configuration SSH afin d'inclure ce serveur avant d'essayer de télécharger le projet, autrement vous obtiendrez une erreur d'authentification et le chargement du projet va échouer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the software is modified by someone else and passed on, we
 want its recipients to know that what they have is not the original, so
 that any problems introduced by others will not reflect on the original
@@ -43136,6 +43144,14 @@ directory -&gt; folder</note>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20200128T141916Z" creationid="suzume" creationdate="20200128T141916Z">
         <seg>OmegaT ignorera alors les fichiers correspondants lors du chargement du projet et les copiera sans les modifier lors de la création des documents cible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT will then remember your credentials for that specific project unless you explicitly delete them.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230308T122341Z" creationid="Anand" creationdate="20230308T122242Z">
+        <seg>OmegaT se souviendra alors de vos informations d'identification pour ce projet spécifique sauf si vous les supprimez explicitement.</seg>
       </tuv>
     </tu>
     <tu>
