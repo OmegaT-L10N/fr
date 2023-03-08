@@ -13986,6 +13986,14 @@ void, and will automatically terminate your rights under this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Any number of ranges can be defined: &lt;l0&gt;[a-zA-Z0-9]&lt;/l0&gt; means any lowercase character from “a” to “z”, or any uppercase character from “A” to “Z”, or any digit from “0” to “9”.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230308T221021Z" creationid="sirine" creationdate="20230308T221021Z">
+        <seg>Il est possible de définir un nombre quelconque de gammes : &lt;l0&gt;[a-zA-Z0-9]&lt;/l0&gt; désigne tout caractère minuscule de « a » à « z », ou tout caractère majuscule de « A » à « Z », ou tout chiffre de « 0 » à « 9 ».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Any paragraph matching the regular expression is ignored while loading and is not displayed for translation.</seg>
       </tuv>
       <tuv lang="fr" changeid="Anand" changedate="20230308T193844Z" creationid="Anand" creationdate="20230303T094159Z">
