@@ -39146,7 +39146,6 @@ impose that choice.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>ok</note>
       <tuv lang="en">
         <seg>Most characters simply match themselves</seg>
       </tuv>
@@ -59302,7 +59301,8 @@ freedom to share and change it.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>maladroit</note>
+      <note>maladroit
+</note>
       <tuv lang="en">
         <seg>The majority of characters in a regular expression simply &lt;e0&gt;look for themselves&lt;/e0&gt; in the text sequence.</seg>
       </tuv>
