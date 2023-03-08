@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_02bf26211" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12361,8 +12361,8 @@ covered by this License; they are outside its scope.</seg>
       <tuv lang="en">
         <seg>Additional layouts can be added as plugins.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Léo Delaune" changedate="20230307T132851Z" creationid="Léo Delaune" creationdate="20230307T132851Z">
-        <seg>Des mises en page supplémentaires peuvent être ajoutées sous forme de plugins.</seg>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230308T165129Z" creationid="Léo Delaune" creationdate="20230307T132851Z">
+        <seg>Des mises en page supplémentaires peuvent être ajoutées sous forme d'extensions.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37511,8 +37511,8 @@ La version Mac intègre un JRE.</seg>
       <tuv lang="en">
         <seg>Machine Translation</seg>
       </tuv>
-      <tuv lang="fr" changeid="Clementine" changedate="20130503T115330Z">
-        <seg>Traduction automatique</seg>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230308T164848Z">
+        <seg>Traducteur automatique</seg>
       </tuv>
     </tu>
     <tu>
@@ -43212,8 +43212,8 @@ directory -&gt; folder</note>
       <tuv lang="en">
         <seg>OmegaT will use the associated tokenizer to find matches.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Léo Delaune" changedate="20230307T123009Z" creationid="Léo Delaune" creationdate="20230307T123009Z">
-        <seg>OmegaT utilisera le tokenizer associé pour trouver des correspondances.</seg>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230308T165017Z" creationid="Léo Delaune" creationdate="20230307T123009Z">
+        <seg>OmegaT utilisera le lemmatiseur associé pour trouver des correspondances.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63922,8 +63922,8 @@ this version will not interfere with it.</seg>
       <tuv lang="en">
         <seg>This option sets the segment validation key to &lt;k0&gt;Tab&lt;/k0&gt; instead.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T194530Z" creationid="Léo Delaune" creationdate="20230306T194530Z">
-        <seg>Cette option définit la clé de validation du segment à &lt;k0&gt;Tab&lt;/k0&gt; </seg>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230308T080023Z" creationid="Léo Delaune" creationdate="20230306T194530Z">
+        <seg>Cette option définit la touche de clavier validant le segment à&lt;k0&gt;Tab&lt;/k0&gt; </seg>
       </tuv>
     </tu>
     <tu>
@@ -66979,8 +66979,8 @@ Les recherches exactes correspondent à l'ensemble de la chaîne recherchée.</s
       <tuv lang="en">
         <seg>URL, key</seg>
       </tuv>
-      <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T202239Z" creationid="Léo Delaune" creationdate="20230306T202239Z">
-        <seg>URL, Clée</seg>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230308T075855Z" creationid="Léo Delaune" creationdate="20230306T202239Z">
+        <seg>URL, Touche clavier</seg>
       </tuv>
     </tu>
     <tu>
@@ -68253,8 +68253,8 @@ la configuration actuelle est de {0} Mo ;</seg>
       <tuv lang="en">
         <seg>Use stemming</seg>
       </tuv>
-      <tuv lang="fr" changeid="Léo Delaune" changedate="20230307T122944Z" creationid="Léo Delaune" creationdate="20230307T122944Z">
-        <seg>Utilisez le stemming</seg>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230308T075929Z" creationid="Léo Delaune" creationdate="20230307T122944Z">
+        <seg>Utilisez la lemmatisation</seg>
       </tuv>
     </tu>
     <tu>
