@@ -68440,8 +68440,8 @@ la configuration actuelle est de {0} Mo ;</seg>
       <tuv lang="en">
         <seg>Use the &lt;l0/&gt; project property to select the type of segmentation.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230306T142352Z" creationid="Anand" creationdate="20230306T142352Z">
-        <seg>Utilisez les propriétés de projet &lt;l0/&gt; pour sélectionner le type de segmentation. </seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230308T171153Z" creationid="Anand" creationdate="20230306T142352Z">
+        <seg>Utilisez les propriétés de projet &lt;l0/&gt; afin de sélectionner le type de segmentation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68724,8 +68724,8 @@ la configuration actuelle est de {0} Mo ;</seg>
       <tuv lang="en">
         <seg>User can select from three options, Previous and next paragraphs, &lt;trans unit&gt; ID, or &lt;trans-unit&gt; resname attribute when available, when unavailable, the ID will be used as a fallback.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230306T133851Z" creationid="Anand" creationdate="20230306T133851Z">
-        <seg>L'utilisateur peut sélectionner à partir de trois options :  les paragraphes suivants et précédents, les identifiants &lt;trans unit&gt;, ou l'attribut resname de &lt;trans-unit&gt; lorsqu'il est disponible. S'il ne l'est pas l'identifiant sera utilisé à la place. </seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230308T170938Z" creationid="Anand" creationdate="20230306T133851Z">
+        <seg>L'utilisateur peut sélectionner à partir de trois options :  les paragraphes suivants et précédents, l'ID &lt;trans unit&gt;, ou l'attribut resname de &lt;trans-unit&gt; lorsqu'il est disponible. S'il ne l'est pas, l'ID sera utilisé à la place.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69973,8 +69973,8 @@ you have just discovered.</seg>
       <tuv lang="en">
         <seg>When a translation is entered, the segment containing the source text is stored with its translation in the project memory, and subsequently used to match other source segments in the project.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230306T142056Z" creationid="Anand" creationdate="20230306T142056Z">
-        <seg>Lorsqu'une traduction est saisie, le segment contenant le texte source est conservé avec sa traduction dans la mémoire du projet, et est subséquemment utilisé pour correspondre avec d'autres segments sources dans le projet.</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230308T171126Z" creationid="Anand" creationdate="20230306T142056Z">
+        <seg>Lorsqu'une traduction est saisie, le segment contenant le texte source est conservé avec sa traduction dans la mémoire du projet, et est subséquemment utilisé pour correspondre avec d'autres segments source dans le projet.</seg>
       </tuv>
     </tu>
     <tu>
