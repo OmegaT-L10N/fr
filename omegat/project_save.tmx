@@ -27264,6 +27264,14 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Global Segmentation Rules</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230308T170313Z" creationid="Léo Delaune" creationdate="20230308T170313Z">
+        <seg>Règles de segmentation globales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Global or local?</seg>
       </tuv>
       <tuv lang="fr" changeid="Anand" changedate="20230307T140443Z" creationid="Anand" creationdate="20230307T140340Z">
@@ -29840,6 +29848,14 @@ their defaults as a result of the location change.</seg>
 est accordé plus tard, cet emplacement sera utilisé et
 tous les paramètres reprendront leur valeur par défaut,
 à cause du changement d'emplacement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If local file filters are used, modifying global file filters will have no effect on the project.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230308T170257Z" creationid="Léo Delaune" creationdate="20230308T170257Z">
+        <seg>Si des filtres de fichiers locaux sont utilisés, la modification des filtres de fichiers globaux n'aura aucun effet sur le projet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51184,6 +51200,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l0/&gt; appendix for a general explanation of segmentation (global or local, paragraph or sentence, etc.)</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230308T170425Z" creationid="Léo Delaune" creationdate="20230308T170425Z">
+        <seg>Voir l'annexe &lt;l0/&gt; pour une explication générale de la segmentation (globale ou locale, paragraphe ou phrase, etc).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;l0/&gt; appendix for details.</seg>
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230301T103036Z" creationid="sirine" creationdate="20230301T103036Z">
@@ -51231,6 +51255,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230307T092453Z" creationid="Léo Delaune" creationdate="20230301T153236Z">
         <seg>Se rendre sur la &lt;l0/&gt; section pour en savoir plus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the &lt;l1/&gt; appendix for details.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230308T170208Z" creationid="Léo Delaune" creationdate="20230308T170208Z">
+        <seg>Voir l'annexe &lt;l1/&gt; pour en savoir plus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63117,6 +63149,14 @@ under the terms of this General Public License.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20200128T141807Z" creationid="suzume" creationdate="20200128T141807Z">
         <seg>Cette boite de dialogue liste les filtres de fichiers disponibles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This dialog only accesses the global segmentation rules.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230308T170438Z" creationid="Léo Delaune" creationdate="20230308T170438Z">
+        <seg>Cette boîte de dialogue ne permet d'accéder qu'aux règles de segmentation globales.</seg>
       </tuv>
     </tu>
     <tu>
