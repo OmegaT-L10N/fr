@@ -22530,6 +22530,14 @@ project_save.tmx n'a pas réellement été envoyé sur le serveur et l'état de 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>During synchronization, all other local files are overwritten with the versions on the remote server, exept for &lt;f0&gt;omegat.project&lt;/f0&gt; (see below).</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230308T123321Z" creationid="Anand" creationdate="20230308T123321Z">
+        <seg>Pendant la synchronisation, tous les autres fichiers locaux seront </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>During the installation, depending on your operating system, you may receive 
 several security warnings.</seg>
       </tuv>
@@ -43777,8 +43785,8 @@ redontant URL
       <tuv lang="en">
         <seg>Only the contents of the two following files are synchronized:</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230308T123037Z" creationid="Anand" creationdate="20230308T123037Z">
-        <seg>Seuls les contenus des fichiers suivants sont synchronisés :</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230308T123147Z" creationid="Anand" creationdate="20230308T123037Z">
+        <seg>Seul le contenu des deux fichiers suivants est synchronisé :</seg>
       </tuv>
     </tu>
     <tu>
@@ -76632,6 +76640,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>glossary.txt</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230308T123205Z" creationid="Anand" creationdate="20230308T123205Z">
+        <seg>glossary.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>glossary/glossary.txt</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210111T143630Z" creationid="suzume" creationdate="20210111T143630Z">
@@ -81067,6 +81083,14 @@ Ok. </note>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130426T172003Z">
         <seg>Statistiques du projet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>project.save</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230308T123154Z" creationid="Anand" creationdate="20230308T123154Z">
+        <seg>project.save</seg>
       </tuv>
     </tu>
     <tu>
