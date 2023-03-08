@@ -6349,6 +6349,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Not&lt;/e0&gt; a word boundary</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230308T225549Z" creationid="sirine" creationdate="20230308T225549Z">
+        <seg>[correspondance]Extrémité de mot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Note: &lt;/e0&gt;In some cases it may take quite some time for OmegaT to update the display after the font setting has been changed.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130506T072921Z">
@@ -18755,6 +18763,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Consult the sites in the &lt;l0/&gt; section for more information.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230308T225359Z" creationid="sirine" creationdate="20230308T225359Z">
+        <seg>Consultez les sites de la section &lt;l0/&gt; pour plus d'informations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Contact</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20170327T132540Z" creationid="briac" creationdate="20170327T132540Z">
@@ -24792,6 +24808,14 @@ dommage...</seg>
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230306T120148Z" creationid="sirine" creationdate="20230306T120148Z">
         <seg>Expressions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Expressions that mark a position</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230308T225440Z" creationid="sirine" creationdate="20230308T225440Z">
+        <seg>Expressions qui indiquent un emplacement</seg>
       </tuv>
     </tu>
     <tu>
