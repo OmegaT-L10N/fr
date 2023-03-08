@@ -13985,12 +13985,11 @@ void, and will automatically terminate your rights under this License.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>(JC) qui correspond</note>
       <tuv lang="en">
         <seg>Any paragraph matching the regular expression is ignored while loading and is not displayed for translation.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230303T094230Z" creationid="Anand" creationdate="20230303T094159Z">
-        <seg>Tout paragraphe correspondant à l'expression régulière choisie sera ignoré lors du chargement et ne sera pas affiché pour la traduction.</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230308T193844Z" creationid="Anand" creationdate="20230303T094159Z">
+        <seg>Tout paragraphe qui correspond à l'expression régulière choisie sera ignoré lors du chargement et ne sera pas affiché pour la traduction.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56803,8 +56802,8 @@ form of a work.</seg>
       <tuv lang="en">
         <seg>The &lt;br&gt; HTML tag will constitute a paragraph break for segmentation purposes.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230303T093943Z" creationid="Anand" creationdate="20230303T093943Z">
-        <seg>La balise HTML &lt;br&gt; créera un saut de paragraphe pour aider à la segmentation..</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230308T193834Z" creationid="Anand" creationdate="20230303T093943Z">
+        <seg>La balise HTML &lt;br&gt; créera un saut de paragraphe du point de vue de la segmentation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60984,8 +60983,8 @@ protocols for communication across the network.</seg>
       <tuv lang="en">
         <seg>The selected attributes will appear as translatable segments in the &lt;g0&gt;Editor&lt;/g0&gt; pane.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230303T093639Z" creationid="Anand" creationdate="20230303T093527Z">
-        <seg>Les attributs sélectionnés apparaîtront en tant que segments traduisibles dans le panneau &lt;g0&gt;Éditeur&lt;/g0&gt;.</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230308T193710Z" creationid="Anand" creationdate="20230303T093527Z">
+        <seg>Les attributs sélectionnés apparaîtront en tant que segments traduisibles dans le volet &lt;g0&gt;Éditeur&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62793,7 +62792,6 @@ pas de page...</seg>
       </tuv>
     </tu>
     <tu>
-      <note>en tant que </note>
       <tuv lang="en">
         <seg>They will appear as separate segments in the editor.</seg>
       </tuv>
