@@ -15448,6 +15448,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Breaks</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230308T175403Z" creationid="Léo Delaune" creationdate="20230308T175403Z">
+        <seg>Ruptures.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Breton</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T095848Z">
@@ -24404,6 +24412,14 @@ The FSF strongly urges you not to use this translation as the official distribu-
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Exceptions</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230308T175253Z" creationid="Léo Delaune" creationdate="20230308T175253Z">
+        <seg>Exceptions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Exceptions occurred while loading segmentation rules:</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
@@ -25895,6 +25911,14 @@ authors of previous versions.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021618Z">
         <seg>Par exemple, « &lt;e0&gt;Cela avait-il un sens ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, &lt;e0&gt;Mrs. Dalloway&lt;/e0&gt; should not be split in two segments even though a break rule for &lt;e1&gt;period followed by a space&lt;/e1&gt; generally defines a sentence.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230308T175356Z" creationid="Léo Delaune" creationdate="20230308T175356Z">
+        <seg>Par exemple, &lt;e0&gt;Mrs. Dalloway&lt;/e0&gt; ne doit pas être divisé en deux segments, même si une règle de césure pour &lt;e1&gt;point suivi d'un espace&lt;/e1&gt; définit généralement une phrase.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45692,6 +45716,14 @@ l'ensemble.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Places that do not have such markers and that match break rules will be break locations.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230308T175228Z" creationid="Léo Delaune" creationdate="20230308T175228Z">
+        <seg>Les endroits qui n'ont pas de tels marqueurs et qui correspondent à des règles de rupture seront des emplacements de rupture.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Plain text</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20170329T125330Z" creationid="briac" creationdate="20170329T125330Z">
@@ -54200,6 +54232,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130328T111944Z">
         <seg>Spécifier la gestion des balises</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Specify text combinations that are exceptions to a break rule.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230308T175334Z" creationid="Léo Delaune" creationdate="20230308T175334Z">
+        <seg>Spécifiez les combinaisons de texte qui constituent des exceptions à une règle de rupture.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65111,6 +65151,14 @@ Pour l'espace fine, il râle à cause de "&lt;!--" et il veut en faire "&lt; ! -
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To define a break rule, check the &lt;g0&gt;Break/Exception&lt;/g0&gt; box.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230308T175428Z" creationid="Léo Delaune" creationdate="20230308T175428Z">
+        <seg>Pour définir une règle de césure, cochez la case &lt;g0&gt;Rupture/Exception&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To define a rule as a break rule, tick the Break/Exception check box.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130528T084626Z">
@@ -65123,6 +65171,14 @@ Pour l'espace fine, il râle à cause de "&lt;!--" et il veut en faire "&lt; ! -
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130528T095418Z">
         <seg>Pour définir une règle comme étant une règle d'exception, décochez la case Segmentation/Exception.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To define an exception rule, leave the &lt;g0&gt;Break/Exception &lt;/g0&gt;check box unchecked.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230308T175321Z" creationid="Léo Delaune" creationdate="20230308T175321Z">
+        <seg>Pour définir une règle d'exception, ne cochez pas la case &lt;g0&gt;Rupture/Exception &lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -70103,6 +70159,14 @@ you have just discovered.</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130415T152528Z">
         <seg>Lorsqu'OmegaT rencontre un fichier dans le dossier source, il tente de sélectionner le filtre basé sur l'extension du fichier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When OmegaT reads files, it puts a non-breaking marker at every exception location.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230308T175203Z" creationid="Léo Delaune" creationdate="20230308T175203Z">
+        <seg>Lors de la lecture des fichiers, OmegaT place un marqueur de non-rupture à chaque emplacement d'exception.</seg>
       </tuv>
     </tu>
     <tu>
