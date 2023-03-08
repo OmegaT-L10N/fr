@@ -52787,6 +52787,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Since synchronization takes place by default every three minutes, project members will sometime translate or modify a segment that has already been translated by another member but not synchronized yet.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230308T111804Z" creationid="Anand" creationdate="20230308T111804Z">
+        <seg>Étant donné que la synchronisation prend place toutes les trois minutes par défaut, les membres du projet peuvent parfois traduire ou modifier un segment qui a déjà été traduit par un autre membre mais qui n'a pas encore été synchronisé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Since tags are included in the text itself, it is possible to use segmentation rules to create segments with fewer tags.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130502T075114Z">
