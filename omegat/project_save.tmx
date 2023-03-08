@@ -25741,6 +25741,14 @@ Tutorial.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For a translation from Japanese, &lt;e0&gt;only&lt;/e0&gt; the rule set associated to the &lt;c1&gt;JA.*&lt;/c1&gt; pattern and the generic rule sets associated to the &lt;c2&gt;.*&lt;/c2&gt; will be taken into account.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230308T172805Z" creationid="Léo Delaune" creationdate="20230308T172805Z">
+        <seg>Pour une traduction du japonais, &lt;e0&gt;seulement&lt;/e0&gt; l'ensemble de règles associé au motif &lt;c1&gt;JA.*&lt;/c1&gt; et les ensembles de règles génériques associés au motif &lt;c2&gt;.*&lt;/c2&gt; seront pris en compte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For advanced users, the chapter describes the command line mode and its possibilities.</seg>
       </tuv>
       <tuv lang="fr" changeid="etudiant_local" changedate="20130410T123850Z">
@@ -31346,6 +31354,14 @@ OmegaT is to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you have set local rules in the &lt;l0/&gt; dialog, modifications here will not be taken into account.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230308T170547Z" creationid="Léo Delaune" creationdate="20230308T170547Z">
+        <seg>Si vous avez défini des règles locales dans la &lt;l0/&gt; boîte de dialogue , les modifications apportées ici ne seront pas prises en compte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you have the source and the target Properties files for one and the same contents in your language pair, this procedure will create a corresponding tmx file for these contents.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130527T153558Z">
@@ -35929,6 +35945,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="fr">
         <seg>Langue non spécifiée pour la variante d'unité de traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Language sets</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230308T170603Z" creationid="Léo Delaune" creationdate="20230308T170603Z">
+        <seg>Paramètres de langue.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43911,6 +43935,14 @@ redontant URL
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Only the rules associated to language patterns that correspond to the source language of your project are applied.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230308T171938Z" creationid="Léo Delaune" creationdate="20230308T171938Z">
+        <seg>Seules les règles associées aux modèles de langue qui correspondent à la langue source de votre projet sont appliquées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Only when you are sure you are the first to have found some
 reproducible sequence of event that triggered something not supposed to
 happen should you file a bug report.</seg>
@@ -49477,6 +49509,14 @@ ces mots : « pas de page »...</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Rules for Japanese</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230308T172606Z" creationid="Léo Delaune" creationdate="20230308T172606Z">
+        <seg>Règles pour le japonais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Rules...</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160427T155855Z" creationid="Didier" creationdate="20160427T155855Z">
@@ -51247,6 +51287,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221220T113903Z" creationid="suzume" creationdate="20221220T113730Z">
         <seg>Voir le paramètre &lt;l0/&gt; pour en savoir plus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the &lt;l0/&gt; project properties.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230308T172555Z" creationid="Léo Delaune" creationdate="20230308T172555Z">
+        <seg>Voir les &lt;l0/&gt; propriétés du projet.</seg>
       </tuv>
     </tu>
     <tu>
