@@ -2501,6 +2501,14 @@ Le caractère « ? » correspond à un seul caractère. La recherche sur « m
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(?=u)</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230308T225617Z" creationid="sirine" creationdate="20230308T225617Z">
+        <seg>(?=u)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(?i)</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T105041Z">
@@ -6351,8 +6359,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;Not&lt;/e0&gt; a word boundary</seg>
       </tuv>
-      <tuv lang="fr" changeid="sirine" changedate="20230308T225549Z" creationid="sirine" creationdate="20230308T225549Z">
-        <seg>[correspondance]Extrémité de mot</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230308T225609Z" creationid="sirine" creationdate="20230308T225549Z">
+        <seg>&lt;e0&gt;Pas&lt;/e0&gt; une limite de mot</seg>
       </tuv>
     </tu>
     <tu>
@@ -11157,6 +11165,14 @@ work thus licensed is called the contributor's "contributor version".</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130417T085348Z">
         <seg>Un fichier de traitement par lots, utilisé pour lancer &lt;a0&gt;OmegaT&lt;/a0&gt; à partir de la ligne de commande Windows.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A character followed by a “u”.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230308T225652Z" creationid="sirine" creationdate="20230308T225652Z">
+        <seg>Un caractère suivi d'un « u ».</seg>
       </tuv>
     </tu>
     <tu>
@@ -26145,6 +26161,14 @@ Par exemple, &lt;e0&gt;point suivi d'un espace&lt;/e0&gt; définit généralemen
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, &lt;l0&gt;q(?=u)&lt;/l0&gt; matches the letter “q” when it is followed by a “u”.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230308T225754Z" creationid="sirine" creationdate="20230308T225733Z">
+        <seg>Par exemple, &lt;l0&gt;q(?=u)&lt;/l0&gt; correspond à la lettre « q » lorsqu'elle est suivie d'un « u ».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, &lt;l2&gt;user.language=ja&lt;/l2&gt; (without the &lt;l3&gt;#&lt;/l3&gt;) will launch &lt;a4&gt;OmegaT&lt;/a4&gt; with the user interface in Japanese.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210201T125129Z" creationid="suzume" creationdate="20210201T125129Z">
@@ -35160,6 +35184,14 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230303T091449Z" creationid="Léo Delaune" creationdate="20230303T091449Z">
         <seg>Cela prend la forme suivante :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It therefore matches the “q” in “equal” or “question”, but &lt;e1&gt;not&lt;/e1&gt; the one in “qigong” or “Iraq”.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230308T230144Z" creationid="sirine" creationdate="20230308T230144Z">
+        <seg>Il  correspond donc au "q" de "équité" ou "question", mais &lt;e1&gt;pas&lt;/e1&gt; à celui de "qigong" ou "Iraq".</seg>
       </tuv>
     </tu>
     <tu>
