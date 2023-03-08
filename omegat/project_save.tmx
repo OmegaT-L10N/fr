@@ -18226,8 +18226,8 @@ kolekti -b C:\[...]\trunk\doc_src2 publish [-j JOB] -l fr,en C:\[...]\trunk\doc_
       <tuv lang="en">
         <seg>Compatibility with OmegaT 2.6</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230306T133336Z" creationid="Anand" creationdate="20230306T133336Z">
-        <seg>Compabitilité avec OmegaT 2.6</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230308T085233Z" creationid="Anand" creationdate="20230306T133336Z">
+        <seg>Compatibilité avec OmegaT 2.6</seg>
       </tuv>
     </tu>
     <tu>
@@ -68394,6 +68394,7 @@ la configuration actuelle est de {0} Mo ;</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Identifiant ou ID, à vérifier</note>
       <tuv lang="en">
         <seg>User can select from three options, Previous and next paragraphs, &lt;trans unit&gt; ID, or &lt;trans-unit&gt; resname attribute when available, when unavailable, the ID will be used as a fallback.</seg>
       </tuv>
