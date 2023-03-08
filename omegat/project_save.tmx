@@ -31600,6 +31600,14 @@ OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you use multiple projects on the same server, credentials will only be asked once for that server.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230308T122824Z" creationid="Anand" creationdate="20230308T122727Z">
+        <seg>Si vous utilisez plusieurs projets sur un même serveur, les informations d'identification ne seront demandées qu'une fois pour ce serveur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you used linux-install.sh script, you should be able to launch OmegaT with:</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z" creationid="Didier" creationdate="20170210T103917Z">
@@ -43767,6 +43775,14 @@ redontant URL
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Only the contents of the two following files are synchronized:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230308T123037Z" creationid="Anand" creationdate="20230308T123037Z">
+        <seg>Seuls les contenus des fichiers suivants sont synchronisés :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Only the file &lt;f0&gt;test.html&lt;/f0&gt; in the folder &lt;f1&gt;dir-10&lt;/f1&gt; will be processed.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210202T073806Z" creationid="suzume" creationdate="20210202T073806Z">
@@ -54944,10 +54960,26 @@ address new problems or concerns.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Synchronization</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230308T122833Z" creationid="Anand" creationdate="20230308T122833Z">
+        <seg>Synchronisation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Synchronization error</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20120420T211458Z">
         <seg>Erreur de synchronisation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Synchronizing the project adds translations made by all team members to local copies of the project.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230308T122938Z" creationid="Anand" creationdate="20230308T122938Z">
+        <seg>Synchroniser le projet rajoute les traductions effectuées par tous les membres de l'équipe aux copies locales du projet.</seg>
       </tuv>
     </tu>
     <tu>
