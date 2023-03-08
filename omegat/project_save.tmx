@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_02bf2621" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -22391,6 +22391,14 @@ Ajouter C:\Program Files (x86)\Prince\Engine\bin dans le Path.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Downloading the project</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230308T112958Z" creationid="Anand" creationdate="20230308T112958Z">
+        <seg>Télécharger le projet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Downloading the right package</seg>
       </tuv>
       <tuv lang="fr" changeid="brigitte" changedate="20130713T114705Z">
@@ -26737,6 +26745,14 @@ authors of previous versions.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20140925T132932Z" creationid="Didier" creationdate="20140925T132932Z">
         <seg>De la mémoire ICE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>From a URL</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230308T113004Z" creationid="Anand" creationdate="20230308T113004Z">
+        <seg>Depuis un URL</seg>
       </tuv>
     </tu>
     <tu>
@@ -38552,6 +38568,14 @@ impose that choice.</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20170403T142853Z" creationid="briac" creationdate="20170329T125327Z">
         <seg>MediaWiki (Wikipédia)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Members can take turns translating and reviewing the files.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230308T112549Z" creationid="Anand" creationdate="20230308T112549Z">
+        <seg>Les membres peuvent se relayer afin de traduire et réviser les fichiers.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57221,6 +57245,14 @@ software and other kinds of works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Search function allows them to filter the Editor pane on contents translated by a given person, or on contents translated after or before a given time, for example.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230308T112937Z" creationid="Anand" creationdate="20230308T112937Z">
+        <seg>La fonction Rechercher leur permet de filtrer le volet Éditeur pour afficher le contenu traduit par une personne spécifique, ou pour afficher le contenu traduit après ou avant une date spécifique, par exemple.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Search window has its own menus:</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z" creationid="Didier" creationdate="20160718T155114Z">
@@ -67813,6 +67845,14 @@ la configuration actuelle est de {0} Mo ;</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T193121Z" creationid="Léo Delaune" creationdate="20230306T193121Z">
         <seg>Utilisez &lt;l0/&gt;&lt;l1/&gt; pour accéder à cette boîte de dialogue (le menu &lt;l2&gt;OmegaT&lt;/l2&gt; sur macOS).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to bring up the &lt;g2&gt;Download Team Project&lt;/g2&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230308T113222Z" creationid="Anand" creationdate="20230308T113222Z">
+        <seg>Utilisez &lt;l0/&gt;&lt;l1/&gt; afin d'afficher la boîte de dialogue &lt;g2&gt;Télécharger projet en équipe&lt;/g2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
