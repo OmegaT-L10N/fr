@@ -22532,8 +22532,8 @@ project_save.tmx n'a pas réellement été envoyé sur le serveur et l'état de 
       <tuv lang="en">
         <seg>During synchronization, all other local files are overwritten with the versions on the remote server, exept for &lt;f0&gt;omegat.project&lt;/f0&gt; (see below).</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230308T123321Z" creationid="Anand" creationdate="20230308T123321Z">
-        <seg>Pendant la synchronisation, tous les autres fichiers locaux seront </seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230308T123720Z" creationid="Anand" creationdate="20230308T123321Z">
+        <seg>Pendant la synchronisation, tous les autres fichiers locaux sont remplacés par les versions du serveur distant, à l'exception de &lt;f0&gt;omegat.project&lt;/f0&gt; (voir ci-dessous).</seg>
       </tuv>
     </tu>
     <tu>
@@ -51218,6 +51218,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221220T115005Z" creationid="suzume" creationdate="20221220T115005Z">
         <seg>Voir les préférences &lt;l1/&gt; pour en savoir plus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the &lt;l1/&gt; section for details.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230308T123513Z" creationid="Anand" creationdate="20230308T123513Z">
+        <seg>[correspondance]Se rendre sur la &lt;l0/&gt; section pour en savoir plus.</seg>
       </tuv>
     </tu>
     <tu>
