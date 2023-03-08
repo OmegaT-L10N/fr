@@ -25947,6 +25947,15 @@ authors of previous versions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, &lt;e0&gt;period followed by a space&lt;/e0&gt; generally defines a sentence end in English.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230308T180347Z" creationid="Léo Delaune" creationdate="20230308T180347Z">
+        <seg>
+Par exemple, &lt;e0&gt;point suivi d'un espace&lt;/e0&gt; définit généralement une fin de phrase en anglais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, &lt;e0&gt;r&lt;/e0&gt; is just a normal character but preceding it with &lt;l1&gt;\&lt;/l1&gt; to make it &lt;l2&gt;\r&lt;/l2&gt; turns it into a special combination that matches a &lt;e3&gt;carriage return character&lt;/e3&gt;.</seg>
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230307T163043Z" creationid="sirine" creationdate="20230301T112949Z">
