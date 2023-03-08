@@ -58594,7 +58594,10 @@ instead.</seg>
       <note>vous comprenez pourquoi ?
 
 (Anand) problème de compatibilité? un filtre XHTML est fait pour les fichiers .xhtml, donc ne fonctionnera pas avec un .odt
-Coquille dans le segment source : "XHMTL" au lieu de "XHTML"</note>
+Coquille dans le segment source : "XHMTL" au lieu de "XHTML"
+
+(JC) merci pour la coquille.
+(JC) je vous montre la différence entre les 2 types de fichiers demain.</note>
       <tuv lang="en">
         <seg>The file structure must also be compatible with the filter: even if you associate &lt;l0&gt;.odt&lt;/l0&gt; to the XHMTL filter, the filter will not be able to understand the contents of a LibreOffice Writer file.</seg>
       </tuv>
