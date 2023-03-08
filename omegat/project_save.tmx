@@ -11312,6 +11312,14 @@ this License.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>A hyphen placed outside the series is just a hyphen: &lt;l1&gt;[a-z-]&lt;/l1&gt; means any lowercase character from “a” to “z”, or the hyphen character itself.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230308T221218Z" creationid="sirine" creationdate="20230308T221218Z">
+        <seg>Un trait d'union placé en dehors de la série ne représente qu'un trait d'union : &lt;l1&gt;[a-z-]&lt;/l1&gt; signifie tout caractère minuscule de "a" à "z", ou le caractère trait d'union lui-même.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>masque </note>
       <tuv lang="en">
         <seg>A language pattern that matches the source language of the project will apply to that project.</seg>
