@@ -13938,6 +13938,14 @@ void, and will automatically terminate your rights under this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Any character &lt;e0&gt;except&lt;/e0&gt; a newline, a carriage return, or tab.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230308T221905Z" creationid="sirine" creationdate="20230308T221905Z">
+        <seg>Tout caractère &lt;e0&gt;sauf&lt;/e0&gt; une nouvelle ligne, un retour chariot ou une tabulation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Any character except a, b, or c (negation)</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130422T172736Z">
@@ -73736,6 +73744,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T105103Z">
         <seg>[\p{L}&amp;&amp;[^\p{Lu}]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[^\n\r\t]</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230308T221617Z" creationid="sirine" creationdate="20230308T221617Z">
+        <seg>[^\n\r\t]</seg>
       </tuv>
     </tu>
     <tu>
