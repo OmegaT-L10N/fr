@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_02bf26211" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -241,6 +241,7 @@ License. Each licensee is addressed as "you". "Licensees" and
       </tuv>
     </tu>
     <tu>
+      <note>(JC) espace en trop</note>
       <tuv lang="en">
         <seg># editMultipleAlternate=</seg>
       </tuv>
@@ -11057,6 +11058,7 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>(JC) espace en trop</note>
       <tuv lang="en">
         <seg>A</seg>
       </tuv>
@@ -13261,6 +13263,7 @@ software.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>(JC) espace en trop</note>
       <tuv lang="en">
         <seg>Alt</seg>
       </tuv>
@@ -14334,6 +14337,8 @@ provoquer des comportements inattendus, mais corrects.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>(JC) Le tableau "Menu Édition"
+(JC) Comme on le voit</note>
       <tuv lang="en">
         <seg>As shown in the &lt;l0&gt;Edit menu table&lt;/l0&gt; below, the function code for the &lt;g1&gt;Create Alternative Translation&lt;/g1&gt; function is &lt;c2&gt;editMultipleAlternate&lt;/c2&gt;.</seg>
       </tuv>
@@ -15992,6 +15997,7 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>(JC) espace en trop</note>
       <tuv lang="en">
         <seg>C</seg>
       </tuv>
@@ -19689,6 +19695,7 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
     </tu>
     <tu>
+      <note>(JC) espace en trop</note>
       <tuv lang="en">
         <seg>Ctrl</seg>
       </tuv>
@@ -20629,6 +20636,9 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
     </tu>
     <tu>
+      <note>(JC) la source est maladroite, supprimer le # fait que la ligne n'est plus un commentaire à ignorer par OmegaT.
+
+(JC) il faudra unifier les apostrophes pour passer de ' à ’</note>
       <tuv lang="en">
         <seg>Delete the &lt;c0&gt;#&lt;/c0&gt; at the beginning of the line so OmegaT will recognize the shortcut, and add &lt;o1&gt;alt X&lt;/o1&gt; after the &lt;c2&gt;=&lt;/c2&gt; sign at the end of the line:</seg>
       </tuv>
@@ -23058,6 +23068,7 @@ by the Free Software Foundation.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>(JC) espace en trop</note>
       <tuv lang="en">
         <seg>EditorShortcuts.mac.properties</seg>
       </tuv>
@@ -29279,6 +29290,7 @@ need not be entered.)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>(JC) maladroit</note>
       <tuv lang="en">
         <seg>If OmegaT is open, you will have to restart it for your changes to take effect.</seg>
       </tuv>
@@ -30392,11 +30404,12 @@ authors' reputations.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>espace en trop avant &lt;/e3&gt;</note>
       <tuv lang="en">
         <seg>If the use of multiple periods makes identifying the file name and extension ambiguous, you can use variables of the form &lt;l0&gt;${nameOnly-&lt;/l0&gt;&lt;e1&gt;number&lt;/e1&gt;} or &lt;l2&gt;${extension-&lt;/l2&gt;&lt;e3&gt;number} &lt;/e3&gt; to specify which portions are part of the name or extension, as shown in the example below.</seg>
       </tuv>
-      <tuv lang="fr" changeid="briac" changedate="20230305T154720Z" creationid="briac" creationdate="20230305T154720Z">
-        <seg>If the use of multiple periods makes identifying the file name and extension ambiguous, you can use variables of the form &lt;l0&gt;${nameOnly-&lt;/l0&gt;&lt;e1&gt;number&lt;/e1&gt;} or &lt;l2&gt;${extension-&lt;/l2&gt;&lt;e3&gt;number} &lt;/e3&gt; to specify which portions are part of the name or extension, as shown in the example below.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230308T042918Z" creationid="briac" creationdate="20230305T154720Z">
+        <seg>Si l'utilisation de plusieurs points rend difficile l'identification du nom du fichier et de son extension, il est possible d'utiliser les variables de la forme &lt;l0&gt;${nameOnly-&lt;/l0&gt;&lt;e1&gt;nombre&lt;/e1&gt;} ou &lt;l2&gt;${extension-&lt;/l2&gt;&lt;e3&gt;nombre}&lt;/e3&gt; pour préciser quels sont les éléments qui font partie du nom et ceux qui font partie de l'extension, comme on peut le voir dans l'exemple ci-dessous.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31695,6 +31708,7 @@ installation program can create shortcuts to launch OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>(JC) "vous voudrez peut-être" ?</note>
       <tuv lang="en">
         <seg>If your language pair calls for the frequent use of &lt;l0&gt;alternative translations&lt;/l0&gt;, you may want to assign a shortcut to that function since it does not have one by default.</seg>
       </tuv>
@@ -36734,6 +36748,7 @@ incluses dans de nombreuses distributions Linux (par exemple Ubuntu), mais il es
       </tuv>
     </tu>
     <tu>
+      <note>(JC) espace en trop</note>
       <tuv lang="en">
         <seg>Linux/Windows</seg>
       </tuv>
@@ -37533,6 +37548,7 @@ La version Mac intègre un JRE.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>(JC) espace en trop</note>
       <tuv lang="en">
         <seg>MainMenuShortcuts.mac.properties</seg>
       </tuv>
@@ -43965,6 +43981,8 @@ happen should you file a bug report.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>(JC) problème dans la cible, the ... file
+(JC0 dans... dans...</note>
       <tuv lang="en">
         <seg>Open the &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; you have copied to &lt;l1&gt;your configuration folder&lt;/l1&gt; in a text editor.</seg>
       </tuv>
@@ -49447,6 +49465,7 @@ ces mots : « pas de page »...</seg>
       </tuv>
     </tu>
     <tu>
+      <note>(JC) espace en trop</note>
       <tuv lang="en">
         <seg>S</seg>
       </tuv>
@@ -49857,6 +49876,7 @@ REPAIR OR CORRECTION.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>(JC) enregistrer (glossaire)</note>
       <tuv lang="en">
         <seg>Save and close the file.</seg>
       </tuv>
@@ -49905,6 +49925,7 @@ REPAIR OR CORRECTION.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>(JC) glossaire</note>
       <tuv lang="en">
         <seg>Save the file after you have finished making your changes.</seg>
       </tuv>
@@ -52314,6 +52335,7 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
     </tu>
     <tu>
+      <note>(JC) espace en trop</note>
       <tuv lang="en">
         <seg>Shift</seg>
       </tuv>
@@ -59111,6 +59133,7 @@ freedom to share and change it.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>(JC) maladroit</note>
       <tuv lang="en">
         <seg>The line is currently a comment.</seg>
       </tuv>
@@ -59576,6 +59599,8 @@ freedom to share and change it.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>(JC) la source est maladroite
+and the, etc.</note>
       <tuv lang="en">
         <seg>The next section presents tables with the function codes and corresponding default shortcut for each menu or editor function in OmegaT.</seg>
       </tuv>
@@ -60927,6 +60952,7 @@ making modifications to it.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>(JC) menu item ?</note>
       <tuv lang="en">
         <seg>The steps below demonstrate how to assign the &lt;k0&gt;&lt;k1&gt;Alt&lt;/k1&gt;&lt;k2&gt;X&lt;/k2&gt;&lt;/k0&gt; shortcut to the &lt;l3/&gt;&lt;l4/&gt; menu item.</seg>
       </tuv>
@@ -62320,6 +62346,7 @@ pas de page...</seg>
       </tuv>
     </tu>
     <tu>
+      <note>(JC) elle ?</note>
       <tuv lang="en">
         <seg>They will now be available in OmegaT as long as there are no conflicts with other functions or with system-wide shortcuts.</seg>
       </tuv>
@@ -65189,8 +65216,8 @@ Ici: "Modifier...", il vient d'où ? Comment on s'assure que c'est bien cette ch
       <tuv lang="en">
         <seg>To prevent the Source Files list window from automatically opening when a project is loaded, find &lt;t0&gt;&lt;project_files_show_on_load&gt;&lt;/t0&gt; and replace &lt;t1&gt;true&lt;/t1&gt; to &lt;t2&gt;false&lt;/t2&gt;:</seg>
       </tuv>
-      <tuv lang="fr" changeid="briac" changedate="20230305T154700Z" creationid="briac" creationdate="20230305T154700Z">
-        <seg>To prevent the Source Files list window from automatically opening when a project is loaded, find &lt;t0&gt;&lt;project_files_show_on_load&gt;&lt;/t0&gt; and replace &lt;t1&gt;true&lt;/t1&gt; to &lt;t2&gt;false&lt;/t2&gt;:</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230308T042443Z" creationid="briac" creationdate="20230305T154700Z">
+        <seg>Pour éviter l'affichage de la liste des fichiers du projet à chaque rechargement, cherchez &lt;t0&gt;&lt;project_files_show_on_load&lt;/t0&gt; et remplacez &lt;t1&gt;true&lt;/t1&gt; par &lt;t2&gt;false&lt;/t2&gt; : </seg>
       </tuv>
     </tu>
     <tu>
@@ -73007,6 +73034,9 @@ them.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>(JC) la source est maladroite
+
+"new" devrait suffire pour les deux cas</note>
       <tuv lang="en">
         <seg>Your modified or added shortcuts should now be displayed next to the menu items you have changed.</seg>
       </tuv>
@@ -75675,6 +75705,7 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>(JC) espace en trop</note>
       <tuv lang="en">
         <seg>editMultipleAlternate=alt X</seg>
       </tuv>
@@ -77427,6 +77458,7 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>(JC) espace en trop</note>
       <tuv lang="en">
         <seg>https://github.com/omegat-org/omegat/tree/master/src/org/omegat/gui/main/EditorShortcuts.mac.properties</seg>
       </tuv>
@@ -77435,6 +77467,7 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>(JC) espace en trop</note>
       <tuv lang="en">
         <seg>https://github.com/omegat-org/omegat/tree/master/src/org/omegat/gui/main/EditorShortcuts.properties</seg>
       </tuv>
@@ -77443,6 +77476,7 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>(JC) espace en trop</note>
       <tuv lang="en">
         <seg>https://github.com/omegat-org/omegat/tree/master/src/org/omegat/gui/main/MainMenuShortcuts.mac.properties</seg>
       </tuv>
@@ -77451,6 +77485,7 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>(JC) espace en trop</note>
       <tuv lang="en">
         <seg>https://github.com/omegat-org/omegat/tree/master/src/org/omegat/gui/main/MainMenuShortcuts.properties</seg>
       </tuv>
@@ -77843,6 +77878,7 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>attribue à la cible le statut de ... au lieu de ...</note>
       <tuv lang="en">
         <seg>if checked, OmegaT changes the XLIFF target state to “needs-review-translation” instead of “translated”.</seg>
       </tuv>
@@ -80981,6 +81017,7 @@ Ok. </note>
       </tuv>
     </tu>
     <tu>
+      <note>(JC) espace en trop</note>
       <tuv lang="en">
         <seg>projectCloseMenuItem=ctrl W</seg>
       </tuv>
@@ -80989,6 +81026,7 @@ Ok. </note>
       </tuv>
     </tu>
     <tu>
+      <note>(JC) espace en trop</note>
       <tuv lang="en">
         <seg>projectCloseMenuItem=ctrl shift W</seg>
       </tuv>
@@ -80997,6 +81035,7 @@ Ok. </note>
       </tuv>
     </tu>
     <tu>
+      <note>(JC) espace en trop</note>
       <tuv lang="en">
         <seg>projectCloseMenuItem=meta W</seg>
       </tuv>
@@ -81005,6 +81044,7 @@ Ok. </note>
       </tuv>
     </tu>
     <tu>
+      <note>(JC) espace en trop</note>
       <tuv lang="en">
         <seg>projectCloseMenuItem=meta shift W</seg>
       </tuv>
