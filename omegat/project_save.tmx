@@ -42845,6 +42845,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT synchronizes a team project when it is opened, reloaded, closed or saved.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230308T123832Z" creationid="Anand" creationdate="20230308T123744Z">
+        <seg>OmegaT synchronise un projet en équipe lorsqu'il est ouvert, rechargé, fermé ou enregistré.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT tags in RTL segments</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20211117T075008Z" creationid="suzume" creationdate="20211117T075008Z">
@@ -63694,6 +63702,14 @@ this version will not interfere with it.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T023747Z" creationid="briac" creationdate="20170327T133630Z">
         <seg>Cela signifie que le code source du programme est accessible et que la licence d'OmegaT est conçue pour accorder une grande liberté d'utilisation aux utilisateurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This means the automatic save function also regularly synchronizes local versions with the version on the server at the interval specified in the &lt;l0/&gt; preference.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230308T124609Z" creationid="Anand" creationdate="20230308T124609Z">
+        <seg>Cela signifie que la fonctionnalité de sauvegarde automatique synchronise aussi régulièrement les versions locales avec la version sur le serveur a des intervalles spécifiées dans la préférence &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
