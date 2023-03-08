@@ -8399,6 +8399,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt;\P{InGreek}&lt;/l0&gt; is any character that is &lt;e1&gt;not&lt;/e1&gt; in the Greek block.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230308T224131Z" creationid="sirine" creationdate="20230308T224131Z">
+        <seg>&lt;l0&gt;\P{InGreek}&lt;/l0&gt; est tout caractère qui n'est &lt;e1&gt;pas&lt;/e1&gt; dans le bloc grec.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt;\S&lt;/l0&gt; is any character that is &lt;e1&gt;not&lt;/e1&gt; a whitespace character (&lt;l2&gt;[^\s]&lt;/l2&gt;).</seg>
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230308T222414Z" creationid="sirine" creationdate="20230308T222414Z">
@@ -11406,6 +11414,14 @@ this License.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130418T131815Z">
         <seg>Vous trouverez ci-dessous une liste des arguments possibles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A logogram (&lt;e0&gt;Han&lt;/e0&gt;/&lt;e1&gt;kanji&lt;/e1&gt;/&lt;e2&gt;hanja&lt;/e2&gt; character) found in CJK languages (&lt;u3&gt;Unicode script&lt;/u3&gt;)</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230308T224626Z" creationid="sirine" creationdate="20230308T224626Z">
+        <seg>Un logogramme (caractère &lt;e0&gt;Han&lt;/e0&gt;/&lt;e1&gt;kanji&lt;/e1&gt;/&lt;e2&gt;hanja&lt;/e2&gt;) présent dans les langues CJC (&lt;u3&gt;script Unicode&lt;/u3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -74132,6 +74148,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>\p{IsHan}</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230308T224136Z" creationid="sirine" creationdate="20230308T224136Z">
+        <seg>\p{IsHan}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>\p{Lu}</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T105100Z">
@@ -78460,6 +78484,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230308T223909Z" creationid="sirine" creationdate="20230308T223909Z">
         <seg>https://unicode.org/reports/tr18/#Blocks</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://unicode.org/reports/tr18/#Script_Property</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230308T224143Z" creationid="sirine" creationdate="20230308T224143Z">
+        <seg>https://unicode.org/reports/tr18/#Script_Property</seg>
       </tuv>
     </tu>
     <tu>
