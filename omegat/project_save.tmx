@@ -2493,6 +2493,14 @@ Le caractère « ? » correspond à un seul caractère. La recherche sur « m
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(?!u)</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230308T230148Z" creationid="sirine" creationdate="20230308T230148Z">
+        <seg>(?!u)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(?-i)</seg>
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230307T215816Z" creationid="sirine" creationdate="20230307T215816Z">
@@ -11197,6 +11205,14 @@ work thus licensed is called the contributor's "contributor version".</seg>
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230307T224038Z" creationid="sirine" creationdate="20230307T224038Z">
         <seg>Un caractère dans la gamme de lettres allant de « C » à « X ».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A character that is &lt;e0&gt;not&lt;/e0&gt; followed by the letter “u”.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230308T230213Z" creationid="sirine" creationdate="20230308T230213Z">
+        <seg>Un caractère qui n'est &lt;e0&gt;pas&lt;/e0&gt; suivi de la lettre « u ».</seg>
       </tuv>
     </tu>
     <tu>
@@ -26161,6 +26177,14 @@ Par exemple, &lt;e0&gt;point suivi d'un espace&lt;/e0&gt; définit généralemen
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, &lt;l0&gt;q(?!u)&lt;/l0&gt; matches the letter “q” when it is &lt;e1&gt;not&lt;/e1&gt; followed by a “u”.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230308T230254Z" creationid="sirine" creationdate="20230308T230254Z">
+        <seg>Par exemple, &lt;l0&gt;q(?!u)&lt;/l0&gt; correspond à la lettre « q » lorsqu'elle n'est &lt;e1&gt;pas&lt;/e1&gt; suivie d'un « u ».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, &lt;l0&gt;q(?=u)&lt;/l0&gt; matches the letter “q” when it is followed by a “u”.</seg>
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230308T225754Z" creationid="sirine" creationdate="20230308T225733Z">
@@ -35192,6 +35216,14 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230308T230144Z" creationid="sirine" creationdate="20230308T230144Z">
         <seg>Il  correspond donc au "q" de "équité" ou "question", mais &lt;e1&gt;pas&lt;/e1&gt; à celui de "qigong" ou "Iraq".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It therefore matches the “q” in “qigong” or “Iraq”, but &lt;e2&gt;not&lt;/e2&gt; the one in “equal” or “question”.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230308T230419Z" creationid="sirine" creationdate="20230308T230419Z">
+        <seg>Il correspond donc au « q » de « qigong » ou « Iraq », mais &lt;e2&gt;pas&lt;/e2&gt; à celui de « équité » ou « question ».</seg>
       </tuv>
     </tu>
     <tu>
