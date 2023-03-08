@@ -59301,13 +59301,11 @@ freedom to share and change it.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>maladroit
-</note>
       <tuv lang="en">
         <seg>The majority of characters in a regular expression simply &lt;e0&gt;look for themselves&lt;/e0&gt; in the text sequence.</seg>
       </tuv>
-      <tuv lang="fr" changeid="sirine" changedate="20230302T192302Z" creationid="sirine" creationdate="20230301T111453Z">
-        <seg>La plupart des caractères d'une expression régulière &lt;e0&gt;se cherchent&lt;/e0&gt; simplement dans la séquence textuelle.</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230308T100737Z" creationid="sirine" creationdate="20230301T111453Z">
+        <seg>La plupart des caractères d'une expression régulière cherchent simplement des &lt;e0&gt;correspondances littérales&lt;/e0&gt; dans la séquence textuelle.</seg>
       </tuv>
     </tu>
     <tu>
