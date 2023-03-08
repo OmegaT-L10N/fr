@@ -52109,6 +52109,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Servers generally use two main types of authentication: entering a &lt;e0&gt;username/password&lt;/e0&gt;, or &lt;e1&gt;SSH&lt;/e1&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230308T115035Z" creationid="Anand" creationdate="20230308T115035Z">
+        <seg>Les serveurs utilisent généralement deux principaux types d'authentification : la saisie d'un &lt;e0&gt;nom d'utilisateur/mot de passe&lt;/e0&gt;, ou le &lt;e1&gt;SSH&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Service type</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160929T152030Z" creationid="Didier" creationdate="20160929T152030Z">
