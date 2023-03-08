@@ -51444,6 +51444,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l2/&gt; appendix for details.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230308T180742Z" creationid="Léo Delaune" creationdate="20230308T180742Z">
+        <seg>Voir l'annexe &lt;l2/&gt; pour en savoir plus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;l2/&gt; preference for details.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221220T114748Z" creationid="suzume" creationdate="20221220T114748Z">
@@ -56819,10 +56827,26 @@ form of a work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;e0&gt; After&lt;/e0&gt; pattern identifies the parts that are after the break or exception point.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230308T180711Z" creationid="Léo Delaune" creationdate="20230308T180711Z">
+        <seg>Le motif &lt;e0&gt;Après&lt;/e0&gt; identifie les parties qui se trouvent après le point de rupture ou d'exception.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;e0&gt;"-Duser.language=XX"&lt;/e0&gt; argument causes &lt;a1&gt;OmegaT&lt;/a1&gt; to use the language specified rather than the language of the user's operating system.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130527T150909Z">
         <seg>L'argument&lt;e0&gt;« -Duser.language=XX »&lt;/e0&gt; oblige &lt;a1&gt;OmegaT&lt;/a1&gt; à utiliser la langue spécifiée plutôt que la langue du système d'exploitation de l'utilisateur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;e0&gt;Before&lt;/e0&gt; and&lt;e1&gt; After&lt;/e1&gt; patterns are regular expressions.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230308T180727Z" creationid="Léo Delaune" creationdate="20230308T180727Z">
+        <seg>Les motifs &lt;e0&gt;Avant&lt;/e0&gt; et&lt;e1&gt; Après&lt;/e1&gt; sont des expressions régulières.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58720,6 +58744,14 @@ instead.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210207T052410Z">
         <seg>Le caractère d'échappement (« \u001B »)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The existing rules always provide a good starting point.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230308T180849Z" creationid="Léo Delaune" creationdate="20230308T180849Z">
+        <seg>Les règles existantes constituent toujours un bon point de départ.</seg>
       </tuv>
     </tu>
     <tu>
