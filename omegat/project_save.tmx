@@ -42030,12 +42030,11 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
     </tu>
     <tu>
-      <note>(JC) pas "manquant"</note>
       <tuv lang="en">
         <seg>OmegaT always reproduces the source contents when a segment is not provided.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230303T133818Z" creationid="Anand" creationdate="20230303T133818Z">
-        <seg>OmegaT reproduit toujours le contenu source quand un segment est manquant.</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230308T194825Z" creationid="Anand" creationdate="20230303T133818Z">
+        <seg>OmegaT reproduit toujours le contenu source quand un segment n'est pas fourni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58920,12 +58919,11 @@ Coquille dans le segment source : "XHMTL" au lieu de "XHTML"
       </tuv>
     </tu>
     <tu>
-      <note>(JC) manque un guillement fermant</note>
       <tuv lang="en">
         <seg>The filter checks printf variables ('%s', etc.) by default.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230303T133646Z" creationid="Anand" creationdate="20230303T133646Z">
-        <seg>Le filtre vérifie les variables printf ('%s, etc.) par défaut.</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230308T194803Z" creationid="Anand" creationdate="20230303T133646Z">
+        <seg>Le filtre vérifie les variables printf ('%s', etc.) par défaut.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64139,12 +64137,11 @@ this version will not interfere with it.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>(JC) féminin</note>
       <tuv lang="en">
         <seg>This option converts such multiple continuous whitespace characters into a single space in the translated document.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230303T132530Z" creationid="Anand" creationdate="20230303T132344Z">
-        <seg>Cette option convertit ces multiples espaces continus en un seul espace dans le document traduit. </seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230308T194749Z" creationid="Anand" creationdate="20230303T132344Z">
+        <seg>Cette option convertit ces multiples espaces continues en une seul espace dans le document traduit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -70935,8 +70932,8 @@ for which you have or can give appropriate copyright permission.</seg>
       <tuv lang="en">
         <seg>Whitespace outside the tags is considered non significant in HTML/XHTML.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230303T132256Z" creationid="Anand" creationdate="20230303T132256Z">
-        <seg>Les espaces en dehors des balises sont considérées comme insignifiantes en HTML/XHTML.</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230308T194714Z" creationid="Anand" creationdate="20230303T132256Z">
+        <seg>Les espaces en dehors des balises sont considérées comme non significatives en HTML/XHTML.</seg>
       </tuv>
     </tu>
     <tu>
