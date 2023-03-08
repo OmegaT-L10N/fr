@@ -30352,6 +30352,14 @@ when it starts in an interactive mode:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the server relies on username/password authentication, OmegaT will present you with an &lt;g0&gt;Authentication&lt;/g0&gt; dialog to enter your username and password either when you first download the project or later on in the process.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230308T122115Z" creationid="Anand" creationdate="20230308T122115Z">
+        <seg>Si un serveur utilise une authentification par nom d'utilisateur/mot de passe, OmegaT vous présentera une boîte de dialogue &lt;g0&gt;Authentification&lt;/g0&gt; afin d'entrer votre nom d'utilisateur et mot de passe, soit lors du téléchargement initial du projet soit plus tard dans le processus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the software is modified by someone else and passed on, we
 want its recipients to know that what they have is not the original, so
 that any problems introduced by others will not reflect on the original
