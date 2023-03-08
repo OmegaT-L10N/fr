@@ -30467,7 +30467,6 @@ authors' reputations.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>espace en trop avant &lt;/e3&gt;</note>
       <tuv lang="en">
         <seg>If the use of multiple periods makes identifying the file name and extension ambiguous, you can use variables of the form &lt;l0&gt;${nameOnly-&lt;/l0&gt;&lt;e1&gt;number&lt;/e1&gt;} or &lt;l2&gt;${extension-&lt;/l2&gt;&lt;e3&gt;number} &lt;/e3&gt; to specify which portions are part of the name or extension, as shown in the example below.</seg>
       </tuv>
@@ -42503,6 +42502,7 @@ published by the Free Software Foundation, either version 3 of the License, or
       </tuv>
     </tu>
     <tu>
+      <note>(JC) vérifier que Java properties est à traduire</note>
       <tuv lang="en">
         <seg>OmegaT is instructed to use a mandatory encoding for certain file formats (Java properties, for example).</seg>
       </tuv>
@@ -42968,6 +42968,7 @@ installed on your system.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>(JC) contenu des parenthèses à revoir</note>
       <tuv lang="en">
         <seg>OmegaT uses the encoding declaration in the source file, if present, to identify the encoding (HTML or XML based files).</seg>
       </tuv>
@@ -60940,6 +60941,7 @@ protocols for communication across the network.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>(JC) supportés ?</note>
       <tuv lang="en">
         <seg>The source and target encoding fields use drop-down menus listing all supported encodings.</seg>
       </tuv>
@@ -82089,7 +82091,8 @@ Ok. </note>
     <tu>
       <note>le reste de quoi ?
 
-(Anand) du paragraphe ?</note>
+(Anand) du paragraphe ?
+(JC) des caractères. La limite va couper la ligne à cette longueur.</note>
       <tuv lang="en">
         <seg>specifies the maximum number of characters before cutting a line and ignoring the rest.</seg>
       </tuv>
