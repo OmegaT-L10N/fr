@@ -8390,6 +8390,14 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;\W&lt;/l0&gt; is any character that is &lt;e1&gt;not&lt;/e1&gt; a word character (&lt;l2&gt;[^\w]&lt;/l2&gt;).</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230308T222215Z" creationid="sirine" creationdate="20230308T222215Z">
+        <seg>&lt;l0&gt;\W&lt;/l0&gt; est tout caractère qui n'est &lt;e1&gt;pas&lt;/e1&gt; un caractère mot (&lt;l2&gt;[^\w]&lt;/l2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(JC) espace + à</note>
       <tuv lang="en">
         <seg>&lt;l0&gt;altGraph&lt;/l0&gt; refers to the &lt;e1&gt;Alt&lt;/e1&gt; key to the right of the spacebar on keyboards with two &lt;e2&gt;Alt&lt;/e2&gt; keys.</seg>
@@ -11691,6 +11699,14 @@ or that patent license was granted, prior to 28 March 2007.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130506T131209Z">
         <seg>Extrémité de mot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A word character, generally defined as &lt;l0&gt;[A-Za-z0-9_]&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230308T222146Z" creationid="sirine" creationdate="20230308T222146Z">
+        <seg>Un caractère de mot, généralement défini comme &lt;l0&gt;[A-Za-z0-9_]&lt;/l0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57984,6 +58000,14 @@ shown below.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130424T082312Z">
         <seg>Bien sûr, la meilleure chose à faire est d'utiliser des fichiers TMX spécifiques à OmegaT (voir ci-dessus), afin que le formatage intégré soit conservé à l'intérieur des segments.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The caret placed immediately after the opening square bracket excludes the rest of the characters in the class.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230308T222021Z" creationid="sirine" creationdate="20230308T222021Z">
+        <seg>Le caret placé immédiatement après le crochet ouvrant exclut le reste des caractères de la classe.</seg>
       </tuv>
     </tu>
     <tu>
