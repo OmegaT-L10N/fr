@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_02bf2621" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -23108,12 +23108,11 @@ by the Free Software Foundation.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>(JC) en français</note>
       <tuv lang="en">
         <seg>Either the “a ” or the “an ” in:</seg>
       </tuv>
-      <tuv lang="fr" changeid="sirine" changedate="20230308T112613Z" creationid="sirine" creationdate="20230303T101431Z">
-        <seg>Soit le « est »ou le « es » dans :</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230308T113017Z" creationid="sirine" creationdate="20230303T101431Z">
+        <seg>Soit le « est » ou le « es » dans :</seg>
       </tuv>
     </tu>
     <tu>
@@ -34869,12 +34868,11 @@ dans le dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>(JC) en français</note>
       <tuv lang="en">
         <seg>It will also find the final “an ” of “Can ” in a sentence such as “Can I help you?”, or the final “a ” of “pasta ” in “We had pasta for lunch.”</seg>
       </tuv>
-      <tuv lang="fr" changeid="sirine" changedate="20230307T212708Z" creationid="sirine" creationdate="20230303T101527Z">
-        <seg>Il trouvera également le « an » final de « Can » dans une phrase telle que « Can I help you?n», ou le « a » final de « pasta » dans « We had pasta for lunch ».</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230308T113858Z" creationid="sirine" creationdate="20230303T101527Z">
+        <seg>Il trouvera également le « est » final de « Bucarest » dans une phrase telle que « Elles vont à Bucarest. », ou le « es » final de « heures » dans « Il y aura plusieurs heures de retard. »</seg>
       </tuv>
     </tu>
     <tu>
@@ -83886,12 +83884,11 @@ Ok. </note>
       </tuv>
     </tu>
     <tu>
-      <note>(JC) en français</note>
       <tuv lang="en">
         <seg>“I have a question.”</seg>
       </tuv>
-      <tuv lang="fr" changeid="sirine" changedate="20230308T112845Z" creationid="sirine" creationdate="20230303T101438Z">
-        <seg>« Comprendre ces symboles est important. » </seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230308T113032Z" creationid="sirine" creationdate="20230303T101438Z">
+        <seg>« Comprendre ce symbole est important. » </seg>
       </tuv>
     </tu>
     <tu>
