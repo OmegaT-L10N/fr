@@ -8391,10 +8391,26 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt;\S&lt;/l0&gt; is any character that is &lt;e1&gt;not&lt;/e1&gt; a whitespace character (&lt;l2&gt;[^\s]&lt;/l2&gt;).</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230308T222414Z" creationid="sirine" creationdate="20230308T222414Z">
+        <seg>&lt;l0&gt;\S&lt;/l0&gt; est tout caractère qui n'est &lt;e1&gt;pas&lt;/e1&gt; un caractère d'espacement (&lt;l2&gt;[^\s]&lt;/l2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt;\W&lt;/l0&gt; is any character that is &lt;e1&gt;not&lt;/e1&gt; a word character (&lt;l2&gt;[^\w]&lt;/l2&gt;).</seg>
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230308T222215Z" creationid="sirine" creationdate="20230308T222215Z">
         <seg>&lt;l0&gt;\W&lt;/l0&gt; est tout caractère qui n'est &lt;e1&gt;pas&lt;/e1&gt; un caractère mot (&lt;l2&gt;[^\w]&lt;/l2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;\h&lt;/l0&gt; and &lt;l1&gt;\v&lt;/l1&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230308T222424Z" creationid="sirine" creationdate="20230308T222424Z">
+        <seg>&lt;l0&gt;\h&lt;/l0&gt; et &lt;l1&gt;\v&lt;/l1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11683,6 +11699,14 @@ or that patent license was granted, prior to 28 March 2007.</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20170413T064709Z" creationid="briac" creationdate="20170413T064616Z">
         <seg>Une vaste palette de fonctions, une interface épurée et avant tout un développement constant et régulier grâce à l'open source !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A whitespace character, including the space and tab characters, as well as line breaks.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230308T222349Z" creationid="sirine" creationdate="20230308T222349Z">
+        <seg>Un caractère d'espacement, y compris les caractères espace et tabulation, ainsi que les retours à la ligne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28766,6 +28790,14 @@ a disparu...</seg>
       </tuv>
       <tuv lang="fr" changeid="etudiant_local" changedate="20130410T122323Z">
         <seg>Début*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Horizontal and vertical whitespace (generally preferred to &lt;l0&gt;\s&lt;/l0&gt;).</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230308T222842Z" creationid="sirine" creationdate="20230308T222842Z">
+        <seg>Espaces d'espacement horizontaux et verticaux ( on les préfère généralement à &lt;l0&gt;\s&lt;/l0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
