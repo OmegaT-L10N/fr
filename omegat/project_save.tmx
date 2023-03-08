@@ -24380,6 +24380,14 @@ The FSF strongly urges you not to use this translation as the official distribu-
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Exception rules should be listed &lt;e0&gt;above&lt;/e0&gt; break rules.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230308T175145Z" creationid="Léo Delaune" creationdate="20230308T175145Z">
+        <seg>Les règles d'exception doivent être listées &lt;e0&gt;au-dessus&lt;/e0&gt; des règles de rupture.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Exception while editing options:</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
@@ -52411,6 +52419,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Set contents</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230308T174919Z" creationid="Léo Delaune" creationdate="20230308T174919Z">
+        <seg>Ajouter le contenu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Set empty translation</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210129T162106Z">
@@ -68553,6 +68569,14 @@ la configuration actuelle est de {0} Mo ;</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210207T055324Z" creationid="suzume" creationdate="20210207T055324Z">
         <seg>Utilisez le mode de comparaison par &lt;g0&gt;ID&lt;/g0&gt; pour aligner les textes de la forme Clé=Valeur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the &lt;g0&gt;Move Up&lt;/g0&gt; button to set the rule set priority.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230308T174853Z" creationid="Léo Delaune" creationdate="20230308T174853Z">
+        <seg>Utilisez le bouton &lt;g0&gt;Monter&lt;/g0&gt; pour définir la priorité de l'ensemble de règles.</seg>
       </tuv>
     </tu>
     <tu>
