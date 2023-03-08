@@ -20686,6 +20686,7 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
     </tu>
     <tu>
+      <note>(JC) pas "rétablit"</note>
       <tuv lang="en">
         <seg>Deleting that file also resets the filter preferences and reverts the project to global file filters.</seg>
       </tuv>
@@ -84453,7 +84454,9 @@ Pour ajouter des fichiers au projet, cliquez sur le bouton « Copier des fichie
 
 (si votre première réponse est "je ne sais pas", j'attend votre deuxième réponse)
 
-(Anand) @suzume Une traduction alternative peut être proposée quand un segment peut se traduire de plusieures manières différentes. Je vois qu'il y a une option dans le menu Edition mais je ne vois pas comment ça marche.</note>
+(Anand) @suzume Une traduction alternative peut être proposée quand un segment peut se traduire de plusieures manières différentes. Je vois qu'il y a une option dans le menu Edition mais je ne vois pas comment ça marche.
+
+(JC) Cherchez "&lt;!-- Alternative translations --&gt;" dans le fichier "OmegaT - FR-level2.tmx"</note>
       <tuv lang="en">
         <seg>If this option is checked, only the previous/next segments or a segment identifier will be used to characterize an alternative translation.</seg>
       </tuv>
