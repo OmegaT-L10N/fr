@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_02bf2621" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -14500,8 +14500,8 @@ void, and will automatically terminate your rights under this License.</seg>
       <tuv lang="en">
         <seg>As a reminder, rules work the following way: when a rule matches, OmegaT puts a marker at the match location so that rules that come after ignore that location.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230307T175257Z" creationid="Anand" creationdate="20230307T175257Z">
-        <seg>Pour rappel, les règles fonctionnent de la manière suivante : lorsqu'une règle correspond, OmegaT place un marqueur à l'emplacement de la correspondance afin que les règles suivantes ignorent cet emplacement.</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230309T165125Z" creationid="Anand" creationdate="20230307T175257Z">
+        <seg>Pour rappel, les règles fonctionnent de la manière suivante  : lorsqu'une règle correspond, OmegaT place un marqueur à l'emplacement de la correspondance afin que les règles suivantes ignorent cet emplacement.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23117,8 +23117,8 @@ MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.</seg>
       <tuv lang="en">
         <seg>Each time the cursor moves to the next character, OmegaT checks whether:</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230307T135913Z" creationid="Anand" creationdate="20230307T132533Z">
-        <seg>Chaque fois que le curseur passe au caractère suivant, OmegaT vérifie :</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230309T165125Z" creationid="Anand" creationdate="20230307T132533Z">
+        <seg>Chaque fois que le curseur passe au caractère suivant, OmegaT vérifie  :</seg>
       </tuv>
     </tu>
     <tu>
@@ -23947,8 +23947,8 @@ où xx est un code langue générique et YY un code optionnel de pays/région.</
       <tuv lang="en">
         <seg>Enter the URL provided by the team project administrator in the &lt;g0&gt;Repository URL:&lt;/g0&gt; field at the top of the dialog, and specify a folder for the project in the &lt;g1&gt;New Local Project Folder:&lt;/g1&gt; field.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230308T113741Z" creationid="Anand" creationdate="20230308T113741Z">
-        <seg>Entrez l'URL fournie par l'administrateur du projet en équipe dans le champ &lt;g0&gt;URL du dépôt :&lt;/g0&gt;en haut de la boîte de dialogue, et sélectionnez un dossier pour le projet dans le champ &lt;g1&gt;Nouveau dossier du projet local :&lt;/g1&gt;.</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230309T165125Z" creationid="Anand" creationdate="20230308T113741Z">
+        <seg>Entrez l'URL fournie par l'administrateur du projet en équipe dans le champ &lt;g0&gt;URL du dépôt  :&lt;/g0&gt;en haut de la boîte de dialogue, et sélectionnez un dossier pour le projet dans le champ &lt;g1&gt;Nouveau dossier du projet local  :&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26114,8 +26114,8 @@ Tutorial.</seg>
       <tuv lang="en">
         <seg>For a source file named Document.xx.docx, using the variable variants below will produce the following results:</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230306T140602Z" creationid="Anand" creationdate="20230306T140602Z">
-        <seg>Pour un fichier source nommé Document.xx.docx, utiliser les variantes de variables ci-dessous produira les résultats suivants :</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230309T165125Z" creationid="Anand" creationdate="20230306T140602Z">
+        <seg>Pour un fichier source nommé Document.xx.docx, utiliser les variantes de variables ci-dessous produira les résultats suivants  :</seg>
       </tuv>
     </tu>
     <tu>
@@ -44090,8 +44090,8 @@ kolteki later.</seg>
       <tuv lang="en">
         <seg>Once a OmegaT team project is installed on a server, the administrator sends members the information they need to access it: a URL indicating the location of the project, or an &lt;f0&gt;omegat.project&lt;/f0&gt; file.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230308T111227Z" creationid="Anand" creationdate="20230308T111227Z">
-        <seg>Lorsque le projet en équipe OmegaT est installé sur un serveur, l'administrateur envoie aux membres les informations nécessaires afin d'y accéder : un URL qui indique l'emplacement du projet, ou un fichier &lt;f0&gt;omegat.project&lt;/f0&gt;.</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230309T165125Z" creationid="Anand" creationdate="20230308T111227Z">
+        <seg>Lorsque le projet en équipe OmegaT est installé sur un serveur, l'administrateur envoie aux membres les informations nécessaires afin d'y accéder  : un URL qui indique l'emplacement du projet, ou un fichier &lt;f0&gt;omegat.project&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44417,8 +44417,8 @@ redontant URL
       <tuv lang="en">
         <seg>Only the contents of the two following files are synchronized:</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230308T123147Z" creationid="Anand" creationdate="20230308T123037Z">
-        <seg>Seul le contenu des deux fichiers suivants est synchronisé :</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230309T165125Z" creationid="Anand" creationdate="20230308T123037Z">
+        <seg>Seul le contenu des deux fichiers suivants est synchronisé  :</seg>
       </tuv>
     </tu>
     <tu>
@@ -52788,8 +52788,8 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       <tuv lang="en">
         <seg>Selecting the &lt;g0&gt;&lt;auto&gt;&lt;/g0&gt; option leaves the choice of encoding to OmegaT, based on the following criteria:</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230302T172504Z" creationid="Anand" creationdate="20230302T172504Z">
-        <seg>Sélectionner l'option &lt;g0&gt;&lt;auto&gt;&lt;/g0&gt; laisse le choix de l'encodage à OmegaT, selon les critères suivants :</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230309T165125Z" creationid="Anand" creationdate="20230302T172504Z">
+        <seg>Sélectionner l'option &lt;g0&gt;&lt;auto&gt;&lt;/g0&gt; laisse le choix de l'encodage à OmegaT, selon les critères suivants  :</seg>
       </tuv>
     </tu>
     <tu>
@@ -52910,8 +52910,8 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       <tuv lang="en">
         <seg>Servers generally use two main types of authentication: entering a &lt;e0&gt;username/password&lt;/e0&gt;, or &lt;e1&gt;SSH&lt;/e1&gt;.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230308T115035Z" creationid="Anand" creationdate="20230308T115035Z">
-        <seg>Les serveurs utilisent généralement deux principaux types d'authentification : la saisie d'un &lt;e0&gt;nom d'utilisateur/mot de passe&lt;/e0&gt;, ou le &lt;e1&gt;SSH&lt;/e1&gt;.</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230309T165125Z" creationid="Anand" creationdate="20230308T115035Z">
+        <seg>Les serveurs utilisent généralement deux principaux types d'authentification  : la saisie d'un &lt;e0&gt;nom d'utilisateur/mot de passe&lt;/e0&gt;, ou le &lt;e1&gt;SSH&lt;/e1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54487,8 +54487,8 @@ of the GPL, as needed to protect the freedom of users.</seg>
       <tuv lang="en">
         <seg>Source filename patterns use wild card characters : The &lt;l0&gt;*&lt;/l0&gt; character matches zero or more characters, while the &lt;l1&gt;?&lt;/l1&gt; character matches exactly one character.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230302T171713Z" creationid="Anand" creationdate="20230302T171713Z">
-        <seg>Les masques de nom de fichier source utilisent des caractères génériques : le caractère &lt;l0&gt;*&lt;/l0&gt; correspond à zéro ou plus de caractères, alors que le caractère &lt;l1&gt;?&lt;/l1&gt; correspond à exactement un caractère.</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230309T165125Z" creationid="Anand" creationdate="20230302T171713Z">
+        <seg>Les masques de nom de fichier source utilisent des caractères génériques  : le caractère &lt;l0&gt;*&lt;/l0&gt; correspond à zéro ou plus de caractères, alors que le caractère &lt;l1&gt;?&lt;/l1&gt; correspond à exactement un caractère.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59097,8 +59097,8 @@ instead.</seg>
       <tuv lang="en">
         <seg>The dialog offers various options:</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230302T174804Z" creationid="Anand" creationdate="20230302T174804Z">
-        <seg>La boîte de dialogue propose plusieurs options :</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230309T165125Z" creationid="Anand" creationdate="20230302T174804Z">
+        <seg>La boîte de dialogue propose plusieurs options  :</seg>
       </tuv>
     </tu>
     <tu>
@@ -59443,8 +59443,8 @@ Coquille dans le segment source : "XHMTL" au lieu de "XHTML"
       <tuv lang="en">
         <seg>The file structure must also be compatible with the filter: even if you associate &lt;l0&gt;.odt&lt;/l0&gt; to the XHMTL filter, the filter will not be able to understand the contents of a LibreOffice Writer file.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230307T101106Z" creationid="Anand" creationdate="20230302T170537Z">
-        <seg>La structure du fichier doit être compatible avec le filtre : même si vous associez &lt;l0&gt;.odt&lt;/l0&gt; au filtre XHTML, le filtre ne sera pas capable de comprendre le contenu d'un fichier LibreOffice Writer.</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230309T165125Z" creationid="Anand" creationdate="20230302T170537Z">
+        <seg>La structure du fichier doit être compatible avec le filtre  : même si vous associez &lt;l0&gt;.odt&lt;/l0&gt; au filtre XHTML, le filtre ne sera pas capable de comprendre le contenu d'un fichier LibreOffice Writer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59499,8 +59499,8 @@ Coquille dans le segment source : "XHMTL" au lieu de "XHTML"
       <tuv lang="en">
         <seg>The filter checks Java MessageFormat patterns (e.g. \{0\}) by default.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230306T130337Z" creationid="Anand" creationdate="20230306T130337Z">
-        <seg>Le filtre vérifie les masques Java MessageFormat (ex. : \{0\}) par défaut.</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230309T165125Z" creationid="Anand" creationdate="20230306T130337Z">
+        <seg>Le filtre vérifie les masques Java MessageFormat (ex.  : \{0\}) par défaut.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69661,8 +69661,8 @@ la configuration actuelle est de {0} Mo ;</seg>
       <tuv lang="en">
         <seg>User can select from three options, Previous and next paragraphs, &lt;trans unit&gt; ID, or &lt;trans-unit&gt; resname attribute when available, when unavailable, the ID will be used as a fallback.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230308T170938Z" creationid="Anand" creationdate="20230306T133851Z">
-        <seg>L'utilisateur peut sélectionner à partir de trois options :  les paragraphes suivants et précédents, l'ID &lt;trans unit&gt;, ou l'attribut resname de &lt;trans-unit&gt; lorsqu'il est disponible. S'il ne l'est pas, l'ID sera utilisé à la place.</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230309T165125Z" creationid="Anand" creationdate="20230306T133851Z">
+        <seg>L'utilisateur peut sélectionner à partir de trois options  :  les paragraphes suivants et précédents, l'ID &lt;trans unit&gt;, ou l'attribut resname de &lt;trans-unit&gt; lorsqu'il est disponible. S'il ne l'est pas, l'ID sera utilisé à la place.</seg>
       </tuv>
     </tu>
     <tu>
@@ -84253,16 +84253,16 @@ Ok. </note>
       <tuv lang="en">
         <seg>use:</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230303T100051Z" creationid="Anand" creationdate="20230303T100051Z">
-        <seg>utilisez :</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230309T165125Z" creationid="Anand" creationdate="20230303T100051Z">
+        <seg>utilisez  :</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>use: &lt;l0&gt;translate=no&lt;/l0&gt;.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230303T101237Z" creationid="Anand" creationdate="20230303T101237Z">
-        <seg>utilisez : &lt;l0&gt;translate=no&lt;/l0&gt;.</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230309T165125Z" creationid="Anand" creationdate="20230303T101237Z">
+        <seg>utilisez  : &lt;l0&gt;translate=no&lt;/l0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
