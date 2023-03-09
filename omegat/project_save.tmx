@@ -23441,8 +23441,8 @@ by the Free Software Foundation.</seg>
       <tuv lang="en">
         <seg>EditorShortcuts.properties</seg>
       </tuv>
-      <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T210323Z" creationid="Léo Delaune" creationdate="20230305T210323Z">
-        <seg> EditorShortcuts.properties</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230309T170750Z" creationid="Léo Delaune" creationdate="20230305T210323Z">
+        <seg>EditorShortcuts.properties</seg>
       </tuv>
     </tu>
     <tu>
@@ -38210,8 +38210,8 @@ La version Mac intègre un JRE.</seg>
       <tuv lang="en">
         <seg>MainMenuShortcuts.properties</seg>
       </tuv>
-      <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T210322Z" creationid="Léo Delaune" creationdate="20230305T210322Z">
-        <seg> MainMenuShortcuts.properties</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230309T170734Z" creationid="Léo Delaune" creationdate="20230305T210322Z">
+        <seg>MainMenuShortcuts.properties</seg>
       </tuv>
     </tu>
     <tu>
@@ -61678,12 +61678,11 @@ protocols for communication across the network.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>singulier ?</note>
       <tuv lang="en">
         <seg>The shortcut definition file for the editor.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Léo Delaune" changedate="20230302T171406Z" creationid="Léo Delaune" creationdate="20230302T171406Z">
-        <seg>Le fichier de définition de raccourci pour l'éditeur.</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230309T170857Z" creationid="Léo Delaune" creationdate="20230302T171406Z">
+        <seg>Le fichier de définition des raccourcis pour l'éditeur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -73068,12 +73067,14 @@ your programs, too.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>copier ... du ... ? maladroit</note>
+      <note>copier ... du ... ? maladroit
+
+(Anand) "à partir du site"</note>
       <tuv lang="en">
         <seg>You can copy the default OmegaT shortcut files from the OmegaT development site on Sourceforge to &lt;l0&gt;your configuration folder&lt;/l0&gt; and modify them to suit your needs:</seg>
       </tuv>
-      <tuv lang="fr" changeid="Léo Delaune" changedate="20230302T173105Z" creationid="Léo Delaune" creationdate="20230302T173105Z">
-        <seg>Vous pouvez copier les fichiers de raccourcis OmegaT par défaut du site de développement d'OmegaT sur Sourceforge vers &lt;l0&gt; votre dossier de configuration &lt;/l0&gt; et les modifier selon vos besoins :</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230309T171006Z" creationid="Léo Delaune" creationdate="20230302T173105Z">
+        <seg>Vous pouvez copier les fichiers de raccourcis OmegaT par défaut du site de développement d'OmegaT sur Sourceforge vers &lt;l0&gt; votre dossier de configuration &lt;/l0&gt; et les modifier selon vos besoins :</seg>
       </tuv>
     </tu>
     <tu>
@@ -78734,12 +78735,11 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>(JC) espace en trop</note>
       <tuv lang="en">
         <seg>https://github.com/omegat-org/omegat/tree/master/src/org/omegat/gui/main/EditorShortcuts.properties</seg>
       </tuv>
-      <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T210330Z" creationid="Léo Delaune" creationdate="20230305T210330Z">
-        <seg> https://github.com/omegat-org/omegat/tree/master/src/org/omegat/gui/main/EditorShortcuts.properties</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230309T171029Z" creationid="Léo Delaune" creationdate="20230305T210330Z">
+        <seg>https://github.com/omegat-org/omegat/tree/master/src/org/omegat/gui/main/EditorShortcuts.properties</seg>
       </tuv>
     </tu>
     <tu>
@@ -78752,12 +78752,11 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>(JC) espace en trop</note>
       <tuv lang="en">
         <seg>https://github.com/omegat-org/omegat/tree/master/src/org/omegat/gui/main/MainMenuShortcuts.properties</seg>
       </tuv>
-      <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T210326Z" creationid="Léo Delaune" creationdate="20230305T210326Z">
-        <seg> https://github.com/omegat-org/omegat/tree/master/src/org/omegat/gui/main/MainMenuShortcuts.properties</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230309T171020Z" creationid="Léo Delaune" creationdate="20230305T210326Z">
+        <seg>https://github.com/omegat-org/omegat/tree/master/src/org/omegat/gui/main/MainMenuShortcuts.properties</seg>
       </tuv>
     </tu>
     <tu>
