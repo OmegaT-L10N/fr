@@ -69647,12 +69647,13 @@ la configuration actuelle est de {0} Mo ;</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Identifiant ou ID, à vérifier</note>
+      <note>Identifiant ou ID, à vérifier
+(sirine) les deux sont utilisés dans "Options du filtre Fichiers XLIFF"</note>
       <tuv lang="en">
         <seg>User can select from three options, Previous and next paragraphs, &lt;trans unit&gt; ID, or &lt;trans-unit&gt; resname attribute when available, when unavailable, the ID will be used as a fallback.</seg>
       </tuv>
-      <tuv lang="fr" changeid="sirine" changedate="20230309T171417Z" creationid="Anand" creationdate="20230306T133851Z">
-        <seg>L'utilisataire peut sélectionner à partir de trois options  : les paragraphes suivants et précédents, l'identifiant &lt;trans unit&gt;, ou l'attribut resname de &lt;trans-unit&gt; lorsqu'il est disponible. S'il ne l'est pas, l'identifiant sera utilisé à la place.</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230309T203102Z" creationid="Anand" creationdate="20230306T133851Z">
+        <seg>L'utilisataire peut sélectionner parmi trois options  : les paragraphes suivants et précédents, l'ID &lt;trans unit&gt;, ou l'attribut resname de &lt;trans-unit&gt; lorsqu'il est disponible. S'il ne l'est pas, l'ID sera utilisé à la place.</seg>
       </tuv>
     </tu>
     <tu>
