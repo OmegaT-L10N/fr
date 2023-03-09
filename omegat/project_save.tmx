@@ -79169,9 +79169,7 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <note>attribue à la cible le statut de ... au lieu de ...
-(sirine) « needs-review-translation » Indique que seul le texte de l'élément a besoin d'être revu.
-« translated » Indique que l'élément a été traduit.
-http://www.yoyodesign.org/doc/oasis/xliff12/index.html</note>
+(sirine) http://www.yoyodesign.org/doc/oasis/xliff12/index.html</note>
       <tuv lang="en">
         <seg>if checked, OmegaT changes the XLIFF target state to “needs-review-translation” instead of “translated”.</seg>
       </tuv>
