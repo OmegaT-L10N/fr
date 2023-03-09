@@ -21056,8 +21056,8 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       <tuv lang="en">
         <seg>Depending on your internet connection it may take a while before the dictionary is installed.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Léo Delaune" changedate="20230309T082017Z" creationid="Léo Delaune" creationdate="20230309T082017Z">
-        <seg>Depending on your internet connection it may take a while before the dictionary is installed.</seg>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230309T115157Z" creationid="Léo Delaune" creationdate="20230309T082017Z">
+        <seg>Selon votre connexion internet, l'installation du dictionnaire peut prendre un certain temps.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52643,6 +52643,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select the rules depending on whether they are relevant to the type of text you are translating.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230309T115420Z" creationid="Léo Delaune" creationdate="20230309T115420Z">
+        <seg>Cochez ou décochez les règles en fonction de leur pertinence dans le type de texte que vous traduisez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select the script you want from the list on the left</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210204T025933Z" creationid="suzume" creationdate="20210204T025933Z">
@@ -69915,6 +69923,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="fr" changeid="brigitte" changedate="20130712T161829Z">
         <seg>Utilisation de Trados MultiTerm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using a different language checker on your local machine than the one supplied with OmegaT allows you to customize the verification rules.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230309T115250Z" creationid="Léo Delaune" creationdate="20230309T115223Z">
+        <seg>En utilisant un vérificateur linguistique sur votre machine différent de celui fourni avec OmegaT, vous pouvez personaliser les règles de vérification.</seg>
       </tuv>
     </tu>
     <tu>
