@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_02bf2621" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -34458,11 +34458,12 @@ exécutez simplement le programme d'installation.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>(Anand) Accessible à la place de appelées peut être?</note>
       <tuv lang="en">
         <seg>Instead, they are called from the menus or, for the majority of functions, from their assigned default shortcut.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Léo Delaune" changedate="20230307T094430Z" creationid="Léo Delaune" creationdate="20230301T091348Z">
-        <seg>Au lieu de cela, elles sont appelées à partir des menus, ou pour la majorité des fonctions, à partir du raccourci qui leur est attribué.</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230309T165353Z" creationid="Léo Delaune" creationdate="20230301T091348Z">
+        <seg>Au lieu de cela, elles sont appelées à partir des menus, ou pour la majorité des fonctions, à partir du raccourci par défaut qui leur est attribué.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50240,8 +50241,8 @@ ces mots : « pas de page »...</seg>
       <tuv lang="en">
         <seg>S</seg>
       </tuv>
-      <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T205518Z" creationid="Léo Delaune" creationdate="20230305T205518Z">
-        <seg> S</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230309T165013Z" creationid="Léo Delaune" creationdate="20230305T205518Z">
+        <seg>S</seg>
       </tuv>
     </tu>
     <tu>
@@ -53214,8 +53215,8 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       <tuv lang="en">
         <seg>Shift</seg>
       </tuv>
-      <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T205518Z" creationid="Léo Delaune" creationdate="20230305T205518Z">
-        <seg> Shift</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230309T165009Z" creationid="Léo Delaune" creationdate="20230305T205518Z">
+        <seg>Shift</seg>
       </tuv>
     </tu>
     <tu>
@@ -58019,8 +58020,8 @@ software and other kinds of works.</seg>
       <tuv lang="en">
         <seg>The OmegaT interface generally does not rely on buttons to give access to its functions.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Léo Delaune" changedate="20230307T093957Z" creationid="Léo Delaune" creationdate="20230301T090715Z">
-        <seg>L'interface d'OmegaT, généralement, ne s'utilise pas avec des touches du clavier pour avoir accès à ses fonctions. </seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230309T165138Z" creationid="Léo Delaune" creationdate="20230301T090715Z">
+        <seg>L'interface d'OmegaT, généralement, ne s'utilise pas avec des touches du clavier pour avoir accès à ses fonctions.</seg>
       </tuv>
     </tu>
     <tu>
