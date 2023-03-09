@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_02bf2621" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -43386,11 +43386,12 @@ installed on your system.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>(Anand) Platform --&gt; Système d'exploitation? </note>
       <tuv lang="en">
         <seg>OmegaT runs on any platform that runs a Java Runtime Environment (Windows, macOS, and Linux being the most mainstream).</seg>
       </tuv>
-      <tuv lang="fr" changeid="Léo Delaune" changedate="20230307T095237Z" creationid="Léo Delaune" creationdate="20230301T153717Z">
-        <seg>OmegaT fonctionne sur toutes les plateformes qui utilisent un environnement d'exécution Java (Windows, macOS et Linux étant les plus courant).</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230309T164349Z" creationid="Léo Delaune" creationdate="20230301T153717Z">
+        <seg>OmegaT fonctionne sur toutes les plateformes qui utilisent un environnement d'exécution Java (Windows, macOS et Linux étant les plus courantes).</seg>
       </tuv>
     </tu>
     <tu>
