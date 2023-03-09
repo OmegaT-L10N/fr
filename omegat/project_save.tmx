@@ -13291,6 +13291,14 @@ rights of fair use or other equivalent, as provided by copyright law.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Allow local external search commands</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230309T115543Z" creationid="Léo Delaune" creationdate="20230309T115543Z">
+        <seg>Autoriser les commandes de recherche externes locales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Allow only unique characters</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130913T170030Z" creationid="Didier" creationdate="20130913T170030Z">
@@ -18975,6 +18983,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130416T093837Z">
         <seg>Contenu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Context Menu Priority</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230309T115645Z" creationid="Léo Delaune" creationdate="20230309T115645Z">
+        <seg>Priorité du menu contextuel :</seg>
       </tuv>
     </tu>
     <tu>
@@ -25116,6 +25132,14 @@ dommage...</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>External searches are either web searches or local commands that take the string selected in the Editor as a parameter.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230309T115504Z" creationid="Léo Delaune" creationdate="20230309T115504Z">
+        <seg>Les recherches externes sont des recherches sur le web ou des commandes locales qui prennent comme paramètre la chaîne de caractères sélectionnée dans l'éditeur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>External tools can be used to convert files to supported formats.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130430T074514Z">
@@ -26812,6 +26836,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For security reasons, &lt;l0&gt;local external searches&lt;/l0&gt; are disabled by default.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230309T115559Z" creationid="Léo Delaune" creationdate="20230309T115559Z">
+        <seg>Pour des raisons de sécurité, les &lt;l0&gt;recherches externes locales&lt;/l0&gt; sont désactivées par défaut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For software which is copyrighted by the Free
 Software Foundation, write to the Free Software Foundation; we sometimes
 make exceptions for this.</seg>
@@ -27658,6 +27690,14 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221112T080933Z" creationid="suzume" creationdate="20221112T080933Z">
         <seg>Règles de segmentation générales...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Global External Searches</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230309T115437Z" creationid="Léo Delaune" creationdate="20230309T115437Z">
+        <seg>Recherches externes globales</seg>
       </tuv>
     </tu>
     <tu>
@@ -37598,6 +37638,14 @@ automatically download and install it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local external search commands are saved in the &lt;l0/&gt; file.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230309T115621Z" creationid="Léo Delaune" creationdate="20230309T115621Z">
+        <seg>Les commandes de recherche externe locale sont enregistrées dans le fichier &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local file mapping:</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210129T133259Z" creationid="suzume" creationdate="20210129T133259Z">
@@ -44316,6 +44364,14 @@ redontant URL
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20201203T091813Z" creationid="suzume" creationdate="20201203T091813Z">
         <seg>N'activez cette option que si vous savez ce que vous faies, et seulement pour des projets issus de sources fiables.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Only activate this option if you trust the source of that file.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230309T115636Z" creationid="Léo Delaune" creationdate="20230309T115636Z">
+        <seg>N'activez cette option que si vous avez confiance en la source de ce fichier.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62466,6 +62522,14 @@ the [Help] menu after starting OmegaT.</seg>
       </tuv>
       <tuv lang="fr" changeid="briglegrand" changedate="20110112T212138Z">
         <seg>Les pages du site Web ne sont pas placées sous licence libre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The web searches are opened in the default browser and the commands are equivalent to items launched on the command line.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230309T115531Z" creationid="Léo Delaune" creationdate="20230309T115531Z">
+        <seg>Les recherches sur le web sont ouvertes dans le navigateur par défaut et les commandes sont équivalentes aux éléments lancés sur la ligne de commande.</seg>
       </tuv>
     </tu>
     <tu>
