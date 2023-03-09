@@ -52780,8 +52780,8 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       <tuv lang="en">
         <seg>Selecting the &lt;g0&gt;&lt;auto&gt;&lt;/g0&gt; option leaves the choice of encoding to OmegaT, based on the following criteria:</seg>
       </tuv>
-      <tuv lang="fr" changeid="sirine" changedate="20230309T165125Z" creationid="Anand" creationdate="20230302T172504Z">
-        <seg>Sélectionner l'option &lt;g0&gt;&lt;auto&gt;&lt;/g0&gt; laisse le choix de l'encodage à OmegaT, selon les critères suivants  :</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230309T203521Z" creationid="Anand" creationdate="20230302T172504Z">
+        <seg>Sélectionner l'option &lt;g0&gt;&lt;auto&gt;&lt;/g0&gt; laisse le choix de l'encodage à OmegaT, selon les critères suivants :</seg>
       </tuv>
     </tu>
     <tu>
@@ -54480,8 +54480,8 @@ of the GPL, as needed to protect the freedom of users.</seg>
       <tuv lang="en">
         <seg>Source filename patterns use wild card characters : The &lt;l0&gt;*&lt;/l0&gt; character matches zero or more characters, while the &lt;l1&gt;?&lt;/l1&gt; character matches exactly one character.</seg>
       </tuv>
-      <tuv lang="fr" changeid="sirine" changedate="20230309T165731Z" creationid="Anand" creationdate="20230302T171713Z">
-        <seg>Les masques de nom de fichier source utilisent des caractères génériques  : le caractère &lt;l0&gt;*&lt;/l0&gt; correspond à zéro ou plus de caractères, alors que le caractère &lt;l1&gt; ?&lt;/l1&gt; correspond à exactement un caractère.</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230309T203420Z" creationid="Anand" creationdate="20230302T171713Z">
+        <seg>Les masques de nom de fichier source utilisent des caractères génériques : le caractère &lt;l0&gt;*&lt;/l0&gt; correspond à zéro ou plus de caractères, alors que le caractère &lt;l1&gt; ?&lt;/l1&gt; correspond à exactement un caractère.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59434,8 +59434,8 @@ Coquille dans le segment source : "XHMTL" au lieu de "XHTML"
       <tuv lang="en">
         <seg>The file structure must also be compatible with the filter: even if you associate &lt;l0&gt;.odt&lt;/l0&gt; to the XHMTL filter, the filter will not be able to understand the contents of a LibreOffice Writer file.</seg>
       </tuv>
-      <tuv lang="fr" changeid="sirine" changedate="20230309T165125Z" creationid="Anand" creationdate="20230302T170537Z">
-        <seg>La structure du fichier doit être compatible avec le filtre  : même si vous associez &lt;l0&gt;.odt&lt;/l0&gt; au filtre XHTML, le filtre ne sera pas capable de comprendre le contenu d'un fichier LibreOffice Writer.</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230309T203356Z" creationid="Anand" creationdate="20230302T170537Z">
+        <seg>La structure du fichier doit être compatible avec le filtre : même si vous associez &lt;l0&gt;.odt&lt;/l0&gt; au filtre XHTML, le filtre ne sera pas capable de comprendre le contenu d'un fichier LibreOffice Writer.</seg>
       </tuv>
     </tu>
     <tu>
