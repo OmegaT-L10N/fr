@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_02bf2621" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -63125,8 +63125,8 @@ prohibited by law if you do not accept this License.</seg>
       <tuv lang="en">
         <seg>These option specify the way OmegaT creates tags from the XLIFF contents.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230306T134244Z" creationid="Anand" creationdate="20230306T134244Z">
-        <seg>Ces options précisent la manière dont OmegaT créer les balises des contenus XLIFF.</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230309T171203Z" creationid="Anand" creationdate="20230306T134244Z">
+        <seg>Ces options précisent la manière dont OmegaT crée les balises des contenus XLIFF.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69654,8 +69654,8 @@ la configuration actuelle est de {0} Mo ;</seg>
       <tuv lang="en">
         <seg>User can select from three options, Previous and next paragraphs, &lt;trans unit&gt; ID, or &lt;trans-unit&gt; resname attribute when available, when unavailable, the ID will be used as a fallback.</seg>
       </tuv>
-      <tuv lang="fr" changeid="sirine" changedate="20230309T165125Z" creationid="Anand" creationdate="20230306T133851Z">
-        <seg>L'utilisateur peut sélectionner à partir de trois options  :  les paragraphes suivants et précédents, l'ID &lt;trans unit&gt;, ou l'attribut resname de &lt;trans-unit&gt; lorsqu'il est disponible. S'il ne l'est pas, l'ID sera utilisé à la place.</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230309T171417Z" creationid="Anand" creationdate="20230306T133851Z">
+        <seg>L'utilisataire peut sélectionner à partir de trois options  : les paragraphes suivants et précédents, l'identifiant &lt;trans unit&gt;, ou l'attribut resname de &lt;trans-unit&gt; lorsqu'il est disponible. S'il ne l'est pas, l'identifiant sera utilisé à la place.</seg>
       </tuv>
     </tu>
     <tu>
@@ -79172,12 +79172,15 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>attribue à la cible le statut de ... au lieu de ...</note>
+      <note>attribue à la cible le statut de ... au lieu de ...
+(sirine) « needs-review-translation » Indique que seul le texte de l'élément a besoin d'être revu.
+« translated » Indique que l'élément a été traduit.
+http://www.yoyodesign.org/doc/oasis/xliff12/index.html</note>
       <tuv lang="en">
         <seg>if checked, OmegaT changes the XLIFF target state to “needs-review-translation” instead of “translated”.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230308T195131Z" creationid="Anand" creationdate="20230301T100607Z">
-        <seg>si cette option est cochée, OmegaT attribue à la cible XLIFF le statut de "needs-review-translation" au lieu de "translated".</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230309T170746Z" creationid="Anand" creationdate="20230301T100607Z">
+        <seg>Lorsque cette option est cochée, OmegaT attribue à la cible XLIFF le statut de « needs-review-translation       » au lieu de « translated     ».</seg>
       </tuv>
     </tu>
     <tu>
