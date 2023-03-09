@@ -11002,7 +11002,6 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>(JC) on peut aussi mettre un message en français au milieu</note>
       <tuv lang="en">
         <seg>&lt;span translate="no"&gt;This content is not translatable&lt;/span&gt;</seg>
       </tuv>
@@ -28875,7 +28874,8 @@ a disparu...</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Phrase source longue pour rien</note>
+      <note>Phrase source longue pour rien
+(sirine) "Here, you can add or modify the target file declaration."</note>
       <tuv lang="en">
         <seg>Here, you can decide whether to add or modify the declaration of the target file</seg>
       </tuv>
@@ -44481,7 +44481,6 @@ redontant URL
       </tuv>
     </tu>
     <tu>
-      <note>(JC) sous ? pluriel ? Espace en trop.</note>
       <tuv lang="en">
         <seg>Only the options not available under the XHTML files filter (see above) are described here.</seg>
       </tuv>
