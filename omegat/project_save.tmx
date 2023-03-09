@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_02bf2621" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -36993,8 +36993,8 @@ Exécutez OmegaT de la façon suivante.</seg>
       <tuv lang="en">
         <seg>Learning the most frequent shortcuts will not take long once you start working with OmegaT.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Léo Delaune" changedate="20230307T094525Z" creationid="Léo Delaune" creationdate="20230301T093041Z">
-        <seg>Connaître les raccourcis les plus fréquents ne sera pas long dès que vous commencerez à travailler avec OmegaT.</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230309T165454Z" creationid="Léo Delaune" creationdate="20230301T093041Z">
+        <seg>Apprendre les raccourcis les plus fréquents ne sera pas long dès que vous commencerez à travailler avec OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37393,12 +37393,11 @@ incluses dans de nombreuses distributions Linux (par exemple Ubuntu), mais il es
       </tuv>
     </tu>
     <tu>
-      <note>(JC) espace en trop</note>
       <tuv lang="en">
         <seg>Linux/Windows</seg>
       </tuv>
-      <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T205510Z" creationid="Léo Delaune" creationdate="20230305T205510Z">
-        <seg> Linux/Windows</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230309T165815Z" creationid="Léo Delaune" creationdate="20230305T205510Z">
+        <seg>Linux/Windows</seg>
       </tuv>
     </tu>
     <tu>
@@ -51910,8 +51909,8 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       <tuv lang="en">
         <seg>See the &lt;l0/&gt; section for details.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Léo Delaune" changedate="20230307T092453Z" creationid="Léo Delaune" creationdate="20230301T153236Z">
-        <seg>Se rendre sur la &lt;l0/&gt; section pour en savoir plus.</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230309T165654Z" creationid="Léo Delaune" creationdate="20230301T153236Z">
+        <seg>Se rendre sur la section &lt;l0/&gt; pour en savoir plus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60491,6 +60490,7 @@ freedom to share and change it.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>(Anand) Modificateurs ou Touches de commande ?</note>
       <tuv lang="en">
         <seg>The modifier keys that form the shortcuts vary slightly depending between platforms.</seg>
       </tuv>
@@ -61735,8 +61735,8 @@ protocols for communication across the network.</seg>
       <tuv lang="en">
         <seg>The shortcuts are indicated next to each menu item, allowing them to learn new shortcuts gradually as you use the software.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Léo Delaune" changedate="20230309T081848Z" creationid="Léo Delaune" creationdate="20230301T153145Z">
-        <seg>Les raccourcis sont indiqués à côté de chaque élément du menu, ce qui leur permet de connaître de nouveaux raccourcis au fur et à mesure de l'utilisation du logiciel. </seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230309T165530Z" creationid="Léo Delaune" creationdate="20230301T153145Z">
+        <seg>Les raccourcis sont indiqués à côté de chaque élément du menu, ce qui leur permet de connaître de nouveaux raccourcis au fur et à mesure de l'utilisation du logiciel.</seg>
       </tuv>
     </tu>
     <tu>
