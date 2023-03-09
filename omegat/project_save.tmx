@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_02bf2621" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -66298,7 +66298,8 @@ as a Source Forge user.</seg>
     <tu>
       <note>Trouver une méthode pour s'assurer que les chaînes de l'UI sont bien reproduites dans le manuel.
 
-Ici: "Modifier...", il vient d'où ? Comment on s'assure que c'est bien cette chaîne ?</note>
+Ici: "Modifier...", il vient d'où ? Comment on s'assure que c'est bien cette chaîne ?
+(sirine) dans la version 5.8. il y a bien les boutons "Modifier..." et "Option...".</note>
       <tuv lang="en">
         <seg>To modify the file extensions, target file name and encodings associated to a filter, select it in the list and click the &lt;g0&gt;Edit...&lt;/g0&gt; button.</seg>
       </tuv>
