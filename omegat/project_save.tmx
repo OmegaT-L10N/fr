@@ -26576,8 +26576,8 @@ on dirait que ça n'est pas clair.</note>
       <tuv lang="en">
         <seg>For example, the seven letters spelling out the word “&lt;e0&gt;example&lt;/e0&gt;” simply tell the search function to match exactly those letters, in that order.</seg>
       </tuv>
-      <tuv lang="fr" changeid="sirine" changedate="20230307T162028Z" creationid="sirine" creationdate="20230301T111549Z">
-        <seg>Par exemple, les sept lettres qui composent le mot «&lt;e0&gt;exemple&lt;/e0&gt;» indiquent à la fonction de recherche de trouver exactement ces lettres, dans cet ordre.</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230309T145911Z" creationid="sirine" creationdate="20230301T111549Z">
+        <seg>Par exemple, les sept lettres qui composent le mot «&lt;e0&gt;exemple&lt;/e0&gt;  » indiquent à la fonction de recherche de trouver exactement ces lettres, dans cet ordre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43394,12 +43394,11 @@ installed on your system.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>(JC) je pense que la chaîne "Expression régulières" apparait en remplacement de &lt;l0/&gt; dans le manuel HTML. Donc ça me paraît redondant d'avoir les deux. À vérifier.</note>
       <tuv lang="en">
         <seg>OmegaT searches include a &lt;l0/&gt; option that allows you to make extremely powerful searches across your files.</seg>
       </tuv>
-      <tuv lang="fr" changeid="sirine" changedate="20230309T144721Z" creationid="sirine" creationdate="20230301T100137Z">
-        <seg>Les recherches dans OmegaT incluent une option « Expressions régulières      »&lt;l0/&gt; qui vous permet d'effectuer des recherches extrêmement puissantes dans vos fichiers.</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230309T150106Z" creationid="sirine" creationdate="20230301T100137Z">
+        <seg>Les recherches dans OmegaT incluent une option &lt;l0/&gt; qui vous permet d'effectuer des recherches extrêmement puissantes dans vos fichiers.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48087,8 +48086,8 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
       <tuv lang="en">
         <seg>Questions?</seg>
       </tuv>
-      <tuv lang="fr" changeid="sirine" changedate="20230303T095848Z" creationid="sirine" creationdate="20230303T095848Z">
-        <seg>Questions ?</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230309T145712Z" creationid="sirine" creationdate="20230303T095848Z">
+        <seg>Questions ?</seg>
       </tuv>
     </tu>
     <tu>
@@ -53663,8 +53662,8 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       <tuv lang="en">
         <seg>Simply put, the search just looks for the word “&lt;e1&gt;example&lt;/e1&gt;”.</seg>
       </tuv>
-      <tuv lang="fr" changeid="sirine" changedate="20230307T162008Z" creationid="sirine" creationdate="20230301T111806Z">
-        <seg>En d'autres termes, la recherche se limite au mot «&lt;e1&gt;exemple&lt;/e1&gt;».</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230309T145851Z" creationid="sirine" creationdate="20230301T111806Z">
+        <seg>En d'autres termes, la recherche se limite au mot «&lt;e1&gt;exemple&lt;/e1&gt;  ».</seg>
       </tuv>
     </tu>
     <tu>
@@ -60333,8 +60332,8 @@ freedom to share and change it.</seg>
       <tuv lang="en">
         <seg>The lowercase “a”, “b”, or “c” in the word “back”.</seg>
       </tuv>
-      <tuv lang="fr" changeid="sirine" changedate="20230309T144826Z" creationid="sirine" creationdate="20230303T095549Z">
-        <seg>Le  « a », « b », ou « c » minuscule dans le mot « banc ».</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230309T145733Z" creationid="sirine" creationdate="20230303T095549Z">
+        <seg>Le « a », « b », ou « c » minuscule dans le mot « banc ».</seg>
       </tuv>
     </tu>
     <tu>
@@ -62357,8 +62356,8 @@ L'idée était que l'utilisation de certaines touches en dehors du segment coura
       <tuv lang="en">
         <seg>The twelve special characters are the &lt;e0&gt;backslash&lt;/e0&gt; &lt;l1&gt;\&lt;/l1&gt;, the &lt;e2&gt;caret&lt;/e2&gt; &lt;l3&gt;^&lt;/l3&gt;, the &lt;e4&gt;dollar sign&lt;/e4&gt; &lt;l5&gt;$&lt;/l5&gt;, the &lt;e6&gt;period&lt;/e6&gt; (or &lt;e7&gt;dot&lt;/e7&gt;) &lt;l8&gt;.&lt;/l8&gt;, the &lt;e9&gt;vertical bar&lt;/e9&gt; (or &lt;e10&gt;pipe symbol&lt;/e10&gt;) &lt;l11&gt;|&lt;/l11&gt;, the &lt;e12&gt;question mark&lt;/e12&gt; &lt;l13&gt;?&lt;/l13&gt;, the &lt;e14&gt;asterisk&lt;/e14&gt; (or &lt;e15&gt;star&lt;/e15&gt;) &lt;l16&gt;*&lt;/l16&gt;, the &lt;e17&gt;plus sign&lt;/e17&gt; &lt;l18&gt;+&lt;/l18&gt;, the opening &lt;e19&gt;parenthesis&lt;/e19&gt; &lt;l20&gt;(&lt;/l20&gt;, the closing &lt;e21&gt;parenthesis&lt;/e21&gt;, &lt;l22&gt;)&lt;/l22&gt;, the opening &lt;e23&gt;square bracket&lt;/e23&gt; &lt;l24&gt;[&lt;/l24&gt;, and the opening &lt;e25&gt;curly brace&lt;/e25&gt; &lt;l26&gt;{&lt;/l26&gt;.</seg>
       </tuv>
-      <tuv lang="fr" changeid="sirine" changedate="20230308T094758Z" creationid="sirine" creationdate="20230302T202753Z">
-        <seg>Les douze caractères spéciaux sont la &lt;e0&gt;barre oblique inversée&lt;/e0&gt; &lt;l1&gt;\&lt;/l1&gt;, le &lt;e2&gt;caret&lt;/e2&gt; &lt;l3&gt;^&lt;/l3&gt;, le &lt;e4&gt;symbole dollar&lt;/e4&gt; &lt;l5&gt;$&lt;/l5&gt;, le &lt;e6&gt;point&lt;/e6&gt;&lt;e7&gt;&lt;/e7&gt; &lt;l8&gt;. &lt;/l8&gt;, la &lt;e9&gt;barre verticale&lt;/e9&gt; (ou &lt;e10&gt;le «pipe»&lt;/e10&gt;) &lt;l11&gt;|&lt;/l11&gt;, le &lt;e12&gt;point d'interrogation&lt;/e12&gt; &lt;l13&gt; ? &lt;/l13&gt;, l'&lt;e14&gt;astérisque&lt;/e14&gt; (ou &lt;e15&gt;étoile&lt;/e15&gt;) &lt;l16&gt;*&lt;/l16&gt;, le &lt;e17&gt;signe plus&lt;/e17&gt; &lt;l18&gt;+&lt;/l18&gt;, la &lt;e19&gt;parenthèse&lt;/e19&gt; ouvrante &lt;l20&gt;(&lt;/l20&gt;, la &lt;e21&gt;parenthèse&lt;/e21&gt; fermante, &lt;l22&gt;)&lt;/l22&gt;, le &lt;e23&gt;crochet&lt;/e23&gt; ouvrant &lt;l24&gt;[&lt;/l24&gt;, et l'&lt;e25&gt;accolade&lt;/e25&gt; &lt;l26&gt;{&lt;/l26&gt; ouvrante.</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230309T145833Z" creationid="sirine" creationdate="20230302T202753Z">
+        <seg>Les douze caractères spéciaux sont la &lt;e0&gt;barre oblique inversée&lt;/e0&gt; &lt;l1&gt;\&lt;/l1&gt;, le &lt;e2&gt;caret&lt;/e2&gt; &lt;l3&gt;^&lt;/l3&gt;, le &lt;e4&gt;symbole dollar&lt;/e4&gt; &lt;l5&gt;$&lt;/l5&gt;, le &lt;e6&gt;point&lt;/e6&gt;&lt;e7&gt;&lt;/e7&gt; &lt;l8&gt;. &lt;/l8&gt;, la &lt;e9&gt;barre verticale&lt;/e9&gt; (ou &lt;e10&gt;le « pipe»&lt;/e10&gt;) &lt;l11&gt;|&lt;/l11&gt;, le &lt;e12&gt;point d'interrogation&lt;/e12&gt; &lt;l13&gt; ?&lt;/l13&gt;, l'&lt;e14&gt;astérisque&lt;/e14&gt; (ou &lt;e15&gt;étoile&lt;/e15&gt;) &lt;l16&gt;*&lt;/l16&gt;, le &lt;e17&gt;signe plus&lt;/e17&gt; &lt;l18&gt;+&lt;/l18&gt;, la &lt;e19&gt;parenthèse&lt;/e19&gt; ouvrante &lt;l20&gt;(&lt;/l20&gt;, la &lt;e21&gt;parenthèse&lt;/e21&gt; fermante, &lt;l22&gt;)&lt;/l22&gt;, le &lt;e23&gt;crochet&lt;/e23&gt; ouvrant &lt;l24&gt;[&lt;/l24&gt;, et l'&lt;e25&gt;accolade&lt;/e25&gt; &lt;l26&gt;{&lt;/l26&gt; ouvrante.</seg>
       </tuv>
     </tu>
     <tu>
