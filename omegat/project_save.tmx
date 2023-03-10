@@ -32107,8 +32107,8 @@ OmegaT.</seg>
       <tuv lang="en">
         <seg>If you use local rules, you can still access the global rules, but modifying them will have no effect on your project.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230307T141441Z" creationid="Anand" creationdate="20230307T141441Z">
-        <seg>Si vous utilisez les règles locales, vous pouvez toujours accéder aux règles globales, mais les modifier n'aura aucun effet sur votre projet.</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230310T222457Z" creationid="Anand" creationdate="20230307T141441Z">
+        <seg>Si vous utilisez les règles locales, vous pouvez toujours accéder aux règles globales, mais les modifier n'affectera pas votre projet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51837,13 +51837,12 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
     </tu>
     <tu>
       <note>tag --&gt; Command line launch
-
-(JC) pas "procédure"</note>
+</note>
       <tuv lang="en">
         <seg>See the &lt;l0/&gt; how-to for details.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230307T141412Z" creationid="Anand" creationdate="20230307T141412Z">
-        <seg>Voir la procédure &lt;l0/&gt; pour en savoir plus.</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230310T222322Z" creationid="Anand" creationdate="20230307T141412Z">
+        <seg>Voir le guide pratique &lt;l0/&gt; pour en savoir plus.</seg>
       </tuv>
     </tu>
     <tu>
