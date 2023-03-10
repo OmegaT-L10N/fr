@@ -25655,7 +25655,8 @@ dommage...</seg>
       </tuv>
     </tu>
     <tu>
-      <note>(Anand) divide = segmenter ou garder diviser?</note>
+      <note>(Anand) divide = segmenter ou garder diviser?
+(sirine) je pense qu'on peut laisser "divisés", ça évitera la répétition de "segmenter"/"segmentation"</note>
       <tuv lang="en">
         <seg>Files containing formatting (ODF, HTML, or other documents) are divided at block-level (paragraph) tags.</seg>
       </tuv>
@@ -26514,8 +26515,8 @@ know their rights.</seg>
       <tuv lang="en">
         <seg>For example, text files may be segmented on line breaks, empty lines, or not at all.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230307T130213Z" creationid="Anand" creationdate="20230307T130213Z">
-        <seg>Par exemple, les fichiers texte peuvent être segmentés au niveau de sauts de lignes, des lignes vides, ou pas du tout.</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230310T214754Z" creationid="Anand" creationdate="20230307T130213Z">
+        <seg>Par exemple, les fichiers texte peuvent être segmentés au niveau des sauts de lignes, des lignes vides, ou pas du tout.</seg>
       </tuv>
     </tu>
     <tu>
