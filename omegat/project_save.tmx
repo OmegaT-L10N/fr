@@ -20966,12 +20966,12 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
     <tu>
       <note>(JC) la source est maladroite, supprimer le # fait que la ligne n'est plus un commentaire à ignorer par OmegaT.
 
-(JC) il faudra unifier les apostrophes pour passer de ' à ’</note>
+</note>
       <tuv lang="en">
         <seg>Delete the &lt;c0&gt;#&lt;/c0&gt; at the beginning of the line so OmegaT will recognize the shortcut, and add &lt;o1&gt;alt X&lt;/o1&gt; after the &lt;c2&gt;=&lt;/c2&gt; sign at the end of the line:</seg>
       </tuv>
-      <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T200324Z" creationid="Léo Delaune" creationdate="20230305T200324Z">
-        <seg>Supprimez le &lt;c0&gt;#&lt;/c0&gt; en début de ligne pour qu'OmegaT reconnaisse le raccourci, et ajoutez &lt;o1&gt;alt X&lt;/o1&gt; après le signe &lt;c2&gt;=&lt;/c2&gt; en fin de ligne :</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230310T111002Z" creationid="Léo Delaune" creationdate="20230305T200324Z">
+        <seg>Supprimez le &lt;c0&gt;#&lt;/c0&gt; en début de ligne pour qu'OmegaT ne reconnaisse plus la ligne comme un commentaire à ignorer, et ajoutez &lt;o1&gt;alt X&lt;/o1&gt; après le signe &lt;c2&gt;=&lt;/c2&gt; en fin de ligne :</seg>
       </tuv>
     </tu>
     <tu>
