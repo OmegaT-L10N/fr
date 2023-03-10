@@ -67107,8 +67107,8 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       <tuv lang="en">
         <seg>Translatable object attributes in XHTML or HTML files can be extracted as separate "paragraphs".</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230307T130840Z" creationid="Anand" creationdate="20230307T130840Z">
-        <seg>Les attributs traduisibles des balises présents dans les fichiers XHTML ou HTML peuvent être extraits en tant que "paragraphes" séparés.</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230310T215638Z" creationid="Anand" creationdate="20230307T130840Z">
+        <seg>Les attributs traduisibles des balises présents dans les fichiers XHTML ou HTML peuvent être extraits en tant que « paragraphes  » séparés.</seg>
       </tuv>
     </tu>
     <tu>
@@ -73685,6 +73685,7 @@ SourceForge too.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>(sirine) pourquoi ne pas être plus direct ? "Segmentation is the process of..."</note>
       <tuv lang="en">
         <seg>You can visualize segmentation as the process of moving the cursor along the text, one character at a time, and looking for the position where a break will occur, or where a break will not be allowed.</seg>
       </tuv>
