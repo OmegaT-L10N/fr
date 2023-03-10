@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_02bf26211" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4672,8 +4672,8 @@ Valider les balises.</seg>
       <tuv lang="en">
         <seg>0 or more &lt;c0&gt;modifier&lt;/c0&gt;</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230309T171711Z" creationid="Léo Delaune" creationdate="20230303T091457Z">
-        <seg>0 ou plus &lt;c0&gt;modifier&lt;/c0&gt;</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230310T103814Z" creationid="Léo Delaune" creationdate="20230303T091457Z">
+        <seg>0 ou plus &lt;c0&gt;modificateur&lt;/c0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8473,12 +8473,13 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>(JC) espace + à</note>
+      <note>
+</note>
       <tuv lang="en">
         <seg>&lt;l0&gt;altGraph&lt;/l0&gt; refers to the &lt;e1&gt;Alt&lt;/e1&gt; key to the right of the spacebar on keyboards with two &lt;e2&gt;Alt&lt;/e2&gt; keys.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Léo Delaune" changedate="20230303T092038Z" creationid="Léo Delaune" creationdate="20230303T091911Z">
-        <seg>&lt;l0&gt;altGraph&lt;/l0&gt; fait référence  &lt;e1&gt;Alt&lt;/e1&gt; à la touche à droite de la barre d'espace sur les claviers avec deux touches&lt;e2&gt;Alt&lt;/e2&gt;</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230310T104002Z" creationid="Léo Delaune" creationdate="20230303T091911Z">
+        <seg>&lt;l0&gt;altGraph&lt;/l0&gt; fait référence à la touche &lt;e1&gt;Alt&lt;/e1&gt; à droite de la barre d'espace sur les claviers avec deux touches&lt;e2&gt;Alt&lt;/e2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8490,12 +8491,11 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>(JC) espace</note>
       <tuv lang="en">
         <seg>&lt;l0&gt;meta&lt;/l0&gt; refers to the key with the Windows logo on most keyboards for Windows or Linux systems, and to the &lt;l1&gt;command&lt;/l1&gt; on macOS.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Léo Delaune" changedate="20230303T091701Z" creationid="Léo Delaune" creationdate="20230303T091701Z">
-        <seg>&lt;l0&gt;meta&lt;/l0&gt; fait référence à la touche portant le logo Windows sur la plupart des claviers Windows ou Linux, et à la  &lt;l1&gt;commande&lt;/l1&gt; sur macOS.</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230310T103829Z" creationid="Léo Delaune" creationdate="20230303T091701Z">
+        <seg>&lt;l0&gt;meta&lt;/l0&gt; fait référence à la touche portant le logo Windows sur la plupart des claviers Windows ou Linux, et à la &lt;l1&gt;commande&lt;/l1&gt; sur macOS.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35414,7 +35414,6 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>(JC) cela ?</note>
       <tuv lang="en">
         <seg>It takes the following form:</seg>
       </tuv>
@@ -57367,7 +57366,6 @@ form of a work.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>(JC) espace</note>
       <tuv lang="en">
         <seg>The &lt;c0&gt;shortcut&lt;/c0&gt; represents the key combination pressed by the user.</seg>
       </tuv>
@@ -69396,7 +69394,6 @@ la configuration actuelle est de {0} Mo ;</seg>
       </tuv>
     </tu>
     <tu>
-      <note>(JC) espace</note>
       <tuv lang="en">
         <seg>Use the tables in the &lt;l0/&gt; section below to find the values for &lt;c1&gt;function code&lt;/c1&gt;.</seg>
       </tuv>
@@ -84531,8 +84528,8 @@ Ok. </note>
       <tuv lang="en">
         <seg>where &lt;c0&gt;modifier&lt;/c0&gt; can be: &lt;l1&gt;shift&lt;/l1&gt;, &lt;l2&gt;ctrl&lt;/l2&gt;, &lt;l3&gt;meta&lt;/l3&gt;, &lt;l4&gt;alt&lt;/l4&gt;, or &lt;l5&gt;altGraph&lt;/l5&gt;</seg>
       </tuv>
-      <tuv lang="fr" changeid="Léo Delaune" changedate="20230303T092003Z" creationid="Léo Delaune" creationdate="20230303T091555Z">
-        <seg>où &lt;c0&gt;modifier&lt;/c0&gt; peut être: &lt;l1&gt;shift&lt;/l1&gt;, &lt;l2&gt;ctrl&lt;/l2&gt;, &lt;l3&gt;meta&lt;/l3&gt;, &lt;l4&gt;alt&lt;/l4&gt;, ou &lt;l5&gt;altGraph&lt;/l5&gt;</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230310T103628Z" creationid="Léo Delaune" creationdate="20230303T091555Z">
+        <seg>où &lt;c0&gt;modificateur&lt;/c0&gt; peut être: &lt;l1&gt;shift&lt;/l1&gt;, &lt;l2&gt;ctrl&lt;/l2&gt;, &lt;l3&gt;meta&lt;/l3&gt;, &lt;l4&gt;alt&lt;/l4&gt;, ou &lt;l5&gt;altGraph&lt;/l5&gt;</seg>
       </tuv>
     </tu>
     <tu>
