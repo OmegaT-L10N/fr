@@ -660,6 +660,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Allow local post-processing commands</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230311T210138Z" creationid="briac" creationdate="20230311T210138Z">
+        <seg>&amp;Autoriser les commandes locales de post-traitement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Allow only unique characters</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20161229T164959Z" creationid="Didier" creationdate="20161229T164959Z">
@@ -24268,6 +24276,14 @@ personne ne vous entend pleurer...</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error retrieving {0} as remote project file</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230311T210037Z" creationid="briac" creationdate="20230311T210037Z">
+        <seg>Erreur de récupération de {0} comme fichier projet distant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error saving project file!</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021852Z">
@@ -27767,6 +27783,14 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       </tuv>
       <tuv lang="fr" changeid="Anand" changedate="20230307T140443Z" creationid="Anand" creationdate="20230307T140340Z">
         <seg>Globales ou locales ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Global post-processing commands</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230311T210119Z" creationid="briac" creationdate="20230311T210119Z">
+        <seg>Commandes globales de post-traitement</seg>
       </tuv>
     </tu>
     <tu>
@@ -47652,6 +47676,14 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Project data saving interval</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230311T210055Z" creationid="briac" creationdate="20230311T210055Z">
+        <seg>Intervalle de sauvegarde des données du projet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Project file should be on http protocol.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160427T152358Z" creationid="Didier" creationdate="20160427T152358Z">
@@ -55871,6 +55903,14 @@ address new problems or concerns.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Synchronization of repositories</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230311T210041Z" creationid="briac" creationdate="20230311T210041Z">
+        <seg>Synchronisation des dépôts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Synchronizing the project adds translations made by all team members to local copies of the project.</seg>
       </tuv>
       <tuv lang="fr" changeid="Anand" changedate="20230308T122938Z" creationid="Anand" creationdate="20230308T122938Z">
@@ -57099,6 +57139,14 @@ Les remplacements portent sur les segments cible du projet, qu'ils soient déjà
         <seg>Text to be removed</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130104T150007Z">
+        <seg>Texte à supprimer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Text to remove</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230311T210146Z" creationid="briac" creationdate="20230311T210146Z">
         <seg>Texte à supprimer</seg>
       </tuv>
     </tu>
