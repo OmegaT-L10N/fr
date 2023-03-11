@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_02bf2621" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -40913,6 +40913,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No writable glossary file in the glossary folder.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230311T204733Z" creationid="briac" creationdate="20230311T204733Z">
+        <seg>Aucun fichier glossaire en écriture trouvé dans le dossier des glossaires.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Non-ASCII Only</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20170106T154105Z" creationid="Didier" creationdate="20170106T154105Z">
@@ -61916,10 +61924,26 @@ making modifications to it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The specified folder is not an OmegaT project, or the project file is broken, or there is no valid backup.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230311T204849Z" creationid="briac" creationdate="20230311T204849Z">
+        <seg>Le dossier ne contient pas un projet OmegaT, ou le fichier de projet est endommagé, ou il n'y a aucune sauvegarde valide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The specified project is an OmegaT 2.6-style team project.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160427T151704Z" creationid="Didier" creationdate="20160427T151704Z">
         <seg>Le projet spécifié est un projet en équipe de type OmegaT 2.6.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The specified project is an OmegaT 3.6 team project.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230311T205046Z" creationid="briac" creationdate="20230311T205046Z">
+        <seg>Le projet spécifié est un projet en équipe au format OmegaT 3.6.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67193,6 +67217,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translate this plural as a plural form #{0}.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230311T204656Z" creationid="briac" creationdate="20230311T204656Z">
+        <seg>Traduisez ce pluriel sous la forme plurielle #{0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translated</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130316T132528Z">
@@ -67972,6 +68004,14 @@ Les recherches exactes correspondent à l'ensemble de la chaîne recherchée.</s
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021852Z">
         <seg>Impossible de créer un nouveau fichier TMX !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to commit because remote translation was changed.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230311T205012Z" creationid="briac" creationdate="20230311T205012Z">
+        <seg>Impossible de valider, la traduction distante a été modifiée.</seg>
       </tuv>
     </tu>
     <tu>
