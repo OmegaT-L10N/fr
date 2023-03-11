@@ -18921,6 +18921,16 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Contact your project administrator to find out if any
+additional steps need to be taken.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230311T205435Z" creationid="briac" creationdate="20230311T205435Z">
+        <seg>Veuillez contacter votre administrateur du projet pour vérifier si
+des étapes supplémentaires sont nécessaires.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Contains Java files, necessary to the operation of &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130430T125907Z">
@@ -19111,6 +19121,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="fr">
         <seg>voire parce qu'il existe d'autres fonctions ou solutions pratiques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Conversion to the new team project format cannot be performed in console mode.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230311T205124Z" creationid="briac" creationdate="20230311T205124Z">
+        <seg>La conversion au nouveau format de projet en équipe ne peut pas se faire en mode console.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44680,6 +44698,14 @@ happen should you file a bug report.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Open it in the OmegaT GUI to convert it to the new format.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230311T205142Z" creationid="briac" creationdate="20230311T205142Z">
+        <seg>Ouvrez-le dans l'interface graphique d'OmegaT pour le convertir au nouveau format.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Open project</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130421T223553Z">
@@ -47000,6 +47026,14 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Press 'OK' to convert the project into a 4.x team project.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230311T205201Z" creationid="briac" creationdate="20230311T205201Z">
+        <seg>Appuyez sur « OK » pour convertir ce projet en projet en équipe au format 4.x.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Press 'OK' to convert the project into a 4.x-style team project.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20170728T144929Z" creationid="Didier" creationdate="20170728T144929Z">
@@ -47542,6 +47576,14 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20180419T150959Z" creationid="Didier" creationdate="20180419T150959Z">
         <seg>Le projet ne contient aucun fichier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project conversion successful.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230311T205421Z" creationid="briac" creationdate="20230311T205421Z">
+        <seg>Conversion du projet réussie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65080,6 +65122,18 @@ be a consequence of the rest of this License.</seg>
       </tuv>
       <tuv lang="fr">
         <seg>Site web</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This will
+delete your local data and re-download the project contents from
+the server.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230311T205312Z" creationid="briac" creationdate="20230311T205312Z">
+        <seg>Cela
+supprimera vos données locales et téléchargera à nouveau le contenu du
+projet depuis le serveur.</seg>
       </tuv>
     </tu>
     <tu>
