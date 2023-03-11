@@ -17363,6 +17363,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check whether your repository has correct commits and files.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230311T205803Z" creationid="briac" creationdate="20230311T205803Z">
+        <seg>Vérifiez si votre dépôt contient des fichiers et des commandes de validation (commit) corrects.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check whole project</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20140604T064600Z" creationid="Didier" creationdate="20140604T064537Z">
@@ -19995,6 +20003,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Creation of new team project cancelled</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230311T205905Z" creationid="briac" creationdate="20230311T205905Z">
+        <seg>Création d'un nouveau projet en équipe annulé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Creator</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20140310T125925Z" creationid="Didier" creationdate="20140310T125925Z">
@@ -22455,6 +22471,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Double-check it and try again.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230311T205953Z" creationid="briac" creationdate="20230311T205953Z">
+        <seg>Vérifiez à nouveau et réessayez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Double-click on &lt;f0&gt;OmegaT.app&lt;/f0&gt; or click on its location in the Dock.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210110T124209Z" creationid="suzume" creationdate="20210110T124209Z">
@@ -23996,6 +24020,14 @@ où xx est un code langue générique et YY un code optionnel de pays/région.</
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
         <seg>Entrez le numéro du segment :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enter username/password for {0}</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230311T205848Z" creationid="briac" creationdate="20230311T205848Z">
+        <seg>Entrez l'identifiant/mot de passe pour {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -40883,6 +40915,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No predefined credentials passed.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230311T210030Z" creationid="briac" creationdate="20230311T210030Z">
+        <seg>Aucune information d'identification prédéfinie n'a été transmise.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No project loaded.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20180419T150946Z" creationid="Didier" creationdate="20180419T150946Z">
@@ -47580,10 +47620,18 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Project conversion failed.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230311T205626Z" creationid="briac" creationdate="20230311T205603Z">
+        <seg>La conversion du projet a échoué.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Project conversion successful.</seg>
       </tuv>
-      <tuv lang="fr" changeid="briac" changedate="20230311T205421Z" creationid="briac" creationdate="20230311T205421Z">
-        <seg>Conversion du projet réussie.</seg>
+      <tuv lang="fr" changeid="briac" changedate="20230311T205617Z" creationid="briac" creationdate="20230311T205421Z">
+        <seg>La conversion du projet a réussi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48892,6 +48940,14 @@ ces mots : « pas de page »...</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20230115T125751Z" creationid="briac" creationdate="20230115T125751Z">
         <seg>Dépôts distants</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remote repository git+ssh credential error: {0}</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230311T205942Z" creationid="briac" creationdate="20230311T205942Z">
+        <seg>Erreur d'identification git+ssh du dépôt distant : {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -69742,6 +69798,14 @@ la configuration actuelle est de {0} Mo ;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>User credentials denied</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230311T205915Z" creationid="briac" creationdate="20230311T205915Z">
+        <seg>Informations d'identification refusées</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>User denied credentials</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20121113T090319Z">
@@ -72287,8 +72351,8 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       <tuv lang="en">
         <seg>Wrong username/password for {0}</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210110T094127Z" creationid="suzume" creationdate="20210110T094127Z">
-        <seg>Nom d'utilisateur/mot de passe incorrects pour {0}</seg>
+      <tuv lang="fr" changeid="briac" changedate="20230311T205854Z" creationid="suzume" creationdate="20210110T094127Z">
+        <seg>Identifiant/mot de passe incorrects pour {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -73947,6 +74011,14 @@ window to be able to launch it from any location.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130507T082734Z">
         <seg>Vous pouvez même supprimer celles dont vous n'avez plus besoin après avoir utilisé leur contenu pour remplir le fichier &lt;f0&gt;project-save.tmx&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You may have forgotten an initial commit.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230311T205821Z" creationid="briac" creationdate="20230311T205821Z">
+        <seg>Vous avez peut-être oublié la validation initiale.</seg>
       </tuv>
     </tu>
     <tu>
