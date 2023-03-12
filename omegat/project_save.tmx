@@ -17299,6 +17299,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check the tag issues again.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230312T174154Z" creationid="briac" creationdate="20230312T174154Z">
+        <seg>Vérifiez à nouveau les problèmes de balise.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check the web site for the latest list of implemented language pairs.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130607T095408Z">
@@ -47156,7 +47164,7 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
       <tuv lang="en">
         <seg>Press &lt;u&gt;{0}&lt;/u&gt; to return to &lt;b&gt;{1}&lt;/b&gt; suggestions.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Didier" changedate="20130913T162215Z" creationid="Didier" creationdate="20130913T162215Z">
+      <tuv lang="fr" changeid="briac" changedate="20230312T174104Z" creationid="Didier" creationdate="20130913T162215Z">
         <seg>Appuyez sur &lt;u&gt;{0}&lt;/u&gt; pour revenir aux suggestions &lt;b&gt;{1}&lt;/b&gt;.</seg>
       </tuv>
     </tu>
@@ -71127,6 +71135,14 @@ you have just discovered.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When checked, the items in the glossary auto-completer view will also contain the source text.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230312T174209Z" creationid="briac" creationdate="20230312T174209Z">
+        <seg>Si cochée, les éléments de la vue glossaire de la saisie automatique contiendront également le texte source.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When checked, the items in the glossary auto-completer view will contain the source text, too.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210505T233810Z" creationid="Didier" creationdate="20130913T162408Z">
@@ -72771,6 +72787,14 @@ this License.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20131029T133351Z" creationid="Didier" creationdate="20131029T133351Z">
         <seg>Vous essayez d'utiliser le lemmatiseur Hunspell avec la langue {0}, mais aucun dictionnaire orthographique n'est installé pour cette langue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You are trying to use the HunspellTokenizer with {0}, but no spelling dictionaries are installed for this language.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230312T174245Z" creationid="briac" creationdate="20230312T174245Z">
+        <seg>Vous essayez d'utiliser le lemmatiseur Hunspell pour {0}, mais aucun dictionnaire orthographique n'est installé pour cette langue.</seg>
       </tuv>
     </tu>
     <tu>
