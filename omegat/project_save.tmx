@@ -7397,6 +7397,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;html&gt;Add patterns using wildcards (Apache Ant format): &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;?&lt;/code&gt;, &lt;code&gt;**&lt;/code&gt;&lt;br&gt;Example: &lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230312T174353Z" creationid="briac" creationdate="20230312T174353Z">
+        <seg>&lt;html&gt;Ajouter des masques en utilisant des caractères joker (de type Apache Ant) : &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;?&lt;/code&gt;, &lt;code&gt;**&lt;/code&gt;&lt;br&gt;Exemple : &lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;html&gt;Add patterns using wildcards (Apache Ant style): &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;?&lt;/code&gt;, &lt;code&gt;**&lt;/code&gt;&lt;br&gt;Example: &lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210505T045926Z" creationid="Didier" creationdate="20160427T152822Z">
@@ -26227,6 +26235,14 @@ control compilation and installation of the executable.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For best results, install the appropriate dictionaries via Preferences &gt; Spellchecker.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230312T174307Z" creationid="briac" creationdate="20230312T174307Z">
+        <seg>Pour de meilleurs résultats, installez les dictionnaires appropriés via Préférences &gt; Vérificateur orthographique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For best results, please install the appropriate dictionaries via Options &gt; Spell Checking.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20131029T133441Z" creationid="Didier" creationdate="20131029T133441Z">
@@ -40779,6 +40795,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230312T174529Z" creationid="briac" creationdate="20230312T174529Z">
+        <seg>Non</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No .DOCX files to clean.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20180419T151135Z" creationid="Didier" creationdate="20180419T151135Z">
@@ -49320,6 +49344,30 @@ ces mots : « pas de page »...</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Repeated</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230312T174527Z" creationid="briac" creationdate="20230312T174527Z">
+        <seg>Répété</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Repeated segments</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230312T174435Z" creationid="briac" creationdate="20230312T174412Z">
+        <seg>Segments répétés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Repeated segments background</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230312T174431Z" creationid="briac" creationdate="20230312T174431Z">
+        <seg>Arrière-plan des segments répétés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Repeated segments: {0}</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20230207T041654Z" creationid="suzume" creationdate="20230207T041620Z">
@@ -49831,6 +49879,14 @@ ces mots : « pas de page »...</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160427T153134Z" creationid="Didier" creationdate="20160427T153134Z">
         <seg>Résoudre les conflits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Resolve the conflicts by choosing a translation for each segment below.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230312T174342Z" creationid="briac" creationdate="20230312T174342Z">
+        <seg>Résolvez les conflits en choisissant une traduction pour chacun des segments ci-dessous.</seg>
       </tuv>
     </tu>
     <tu>
@@ -72665,6 +72721,14 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20200724T160412Z" creationid="briac" creationdate="20200724T160412Z">
         <seg>Yandex.Cloud</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Yes</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230312T174454Z" creationid="briac" creationdate="20230312T174454Z">
+        <seg>Oui</seg>
       </tuv>
     </tu>
     <tu>
