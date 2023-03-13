@@ -708,6 +708,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Always confirm quit</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230313T163219Z" creationid="briac" creationdate="20230313T163219Z">
+        <seg>&amp;Quitter toujours confirmé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Apply</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20141020T140259Z" creationid="Didier" creationdate="20141020T134808Z">
@@ -1372,6 +1380,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Ignore matches with very different case (e.g. FOO vs foo)</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230313T163317Z" creationid="briac" creationdate="20230313T163317Z">
+        <seg>&amp;Ignorer les correspondances avec une casse très différente (ex. : FOO et foo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Ignore type and ctype attributes when building &lt;ph&gt; tag shortcuts</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20131230T125440Z" creationid="Didier" creationdate="20131230T125440Z">
@@ -1480,6 +1496,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20161229T164336Z" creationid="Didier" creationdate="20161229T164336Z">
         <seg>&amp;Lancer un serveur local</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Layout:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230313T163339Z" creationid="briac" creationdate="20230313T163339Z">
+        <seg>&amp;Mise en page :</seg>
       </tuv>
     </tu>
     <tu>
@@ -12491,6 +12515,14 @@ covered by this License; they are outside its scope.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add to Dictionary: “{0}”</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230313T163115Z" creationid="briac" creationdate="20230313T163115Z">
+        <seg>Ajouter au dictionnaire : « {0} »</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Added {0} glossary entries from {1}</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20131210T102459Z" creationid="Didier" creationdate="20131210T102123Z">
@@ -13529,6 +13561,14 @@ software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Alternative</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230313T163019Z" creationid="briac" creationdate="20230313T163019Z">
+        <seg>Alternative</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Alternative Language</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20170419T092500Z" creationid="Didier" creationdate="20170419T092500Z">
@@ -14004,6 +14044,14 @@ menu, a prominent item in the list meets this criterion.</seg>
         <seg>An item of the name "{0}" already exists at this location.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160913T163501Z" creationid="Didier" creationdate="20160427T160126Z">
+        <seg>Un élément nommé « {0} » existe déjà à cet emplacement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An item with the name "{0}" already exists at this location.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230313T163100Z" creationid="briac" creationdate="20230313T163100Z">
         <seg>Un élément nommé « {0} » existe déjà à cet emplacement.</seg>
       </tuv>
     </tu>
@@ -21784,6 +21832,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Display TBX &amp;glossaries context description</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230313T163229Z" creationid="briac" creationdate="20230313T163229Z">
+        <seg>Afficher la description du contexte des glossaires TBX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Display TBX glossaries context description (TBX 2)</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T202704Z" creationid="Léo Delaune" creationdate="20230306T202704Z">
@@ -22541,6 +22597,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130527T140912Z">
         <seg>Un double clic sur l'élément possédant une icône OmegaT suffit à ouvrir le projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Double-check and try again.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230313T163149Z" creationid="briac" creationdate="20230313T163149Z">
+        <seg>Vérifiez à nouveau et réessayez.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24123,6 +24187,14 @@ où xx est un code langue générique et YY un code optionnel de pays/région.</
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enter your password again for confirmation.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230313T163137Z" creationid="briac" creationdate="20230313T163137Z">
+        <seg>Saisissez à nouveau votre mot de passe pour le confirmer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enter your user name and your password, if you use a proxy to access your projects.</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130421T213848Z">
@@ -24434,6 +24506,14 @@ personne ne vous entend pleurer...</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20220317T102756Z" creationid="suzume" creationdate="20220317T102756Z">
         <seg>Erreur en essayant d'obtenir la sortie d'un programme externe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error while loading the source files.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230313T163041Z" creationid="briac" creationdate="20230313T163041Z">
+        <seg>Erreur lors du chargement des fichiers source.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33962,6 +34042,14 @@ LD: Modifié</note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Incorrect password.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230313T163120Z" creationid="briac" creationdate="20230313T163120Z">
+        <seg>Mot de passe incorrect.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Index entries, bookmarks, bookmark references, notes, comments, presentation notes, links (URL), and sheet names.</seg>
       </tuv>
       <tuv lang="fr" changeid="Anand" changedate="20230306T132915Z" creationid="Anand" creationdate="20230306T132739Z">
@@ -39535,6 +39623,14 @@ impose that choice.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Merge alternate definitions of the same term</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230313T163332Z" creationid="briac" creationdate="20230313T163332Z">
+        <seg>Fusionner les définitions alternatives d'un même terme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Merriam Webster dictionary - use</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130412T134548Z">
@@ -40934,6 +41030,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No Comment</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230313T163016Z" creationid="briac" creationdate="20230313T163016Z">
+        <seg>Aucun commentaire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No GPG executable found; set it in the Git preferences in section "Committing", or define it in the git config gpg.program</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20220317T141635Z" creationid="suzume" creationdate="20220317T141635Z">
@@ -40962,6 +41066,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20170331T135232Z" creationid="Didier" creationdate="20170331T135232Z">
         <seg>Aucun projet chargé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No Note</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230313T163011Z" creationid="briac" creationdate="20230313T163011Z">
+        <seg>Aucune remarque</seg>
       </tuv>
     </tu>
     <tu>
@@ -41362,6 +41474,14 @@ Diminue les sorties sur stdout de la ligne de commande.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130411T085518Z">
         <seg>Nynorsk norvégien</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Not Alternative</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230313T163029Z" creationid="briac" creationdate="20230313T163029Z">
+        <seg>Aucune alternative</seg>
       </tuv>
     </tu>
     <tu>
@@ -45504,6 +45624,14 @@ Afficher des informations sur l'utilisation.</seg>
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230309T144917Z" creationid="sirine" creationdate="20230307T214259Z">
         <seg>Les recherches ordinaires d'OmegaT sont insensibles à la casse par défaut : elles correspondent à la fois aux caractères en majuscules et en minuscules, sauf si vous choisissez d'activer l'option &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Origin</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230313T163031Z" creationid="briac" creationdate="20230313T163031Z">
+        <seg>Origine</seg>
       </tuv>
     </tu>
     <tu>
@@ -61209,6 +61337,14 @@ sure this has not already been reported.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The passwords do not match.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230313T163142Z" creationid="briac" creationdate="20230313T163142Z">
+        <seg>Les mots de passe ne correspondent pas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The passwords don't match.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20161227T171202Z" creationid="Didier" creationdate="20161227T171202Z">
@@ -69365,6 +69501,14 @@ la configuration actuelle est de {0} Mo ;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &amp;TAB to advance</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230313T163202Z" creationid="briac" creationdate="20230313T163202Z">
+        <seg>Utiliser &amp;TAB pour valider</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &amp;XML for standalone tags (e.g., &lt;i/&gt;)</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T025106Z">
@@ -69377,6 +69521,14 @@ la configuration actuelle est de {0} Mo ;</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20161229T163926Z" creationid="Didier" creationdate="20161229T163926Z">
         <seg>Utiliser des correspondances &amp;partielles pour les entrées de dictionnaire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &amp;stemming</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230313T163241Z" creationid="briac" creationdate="20230313T163241Z">
+        <seg>Utilisez la lemmati&amp;sation</seg>
       </tuv>
     </tu>
     <tu>
