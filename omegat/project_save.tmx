@@ -64023,12 +64023,14 @@ under the terms of this General Public License.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>(JC) pas cohérent avec la correspondance no 2</note>
+      <note>(JC) pas cohérent avec la correspondance no 2
+Corrigé par @delauneleo
+</note>
       <tuv lang="en">
         <seg>This character specifies that zero or more instances of the preceding character or expression should be matched.</seg>
       </tuv>
-      <tuv lang="fr" changeid="sirine" changedate="20230303T102550Z" creationid="sirine" creationdate="20230303T102550Z">
-        <seg>Ce caractère indique que zéro ou plusieurs occurrences du caractère ou de l'expression qui le précède doivent être recherchées.</seg>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230313T131710Z" creationid="sirine" creationdate="20230303T102550Z">
+        <seg>Ce caractère indique que le caractère ou l'expression qui le précèdent doivent correspondre zéro ou plusieurs fois.</seg>
       </tuv>
     </tu>
     <tu>
@@ -82988,7 +82990,9 @@ Ok. </note>
       </tuv>
     </tu>
     <tu>
-      <note>(JC) en français</note>
+      <note>(JC) en français
+
+@delauneleo --&gt; Executer sans ?</note>
       <tuv lang="en">
         <seg>run\w*</seg>
       </tuv>
