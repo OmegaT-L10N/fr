@@ -43879,6 +43879,14 @@ directory -&gt; folder</note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT will respect the local protocol selection.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230313T152739Z" creationid="Anand" creationdate="20230313T152739Z">
+        <seg>OmegaT se conformera au choix du protocole local.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT will run on any system on which the JRE (Java Runtime Environment) has been or can be installed.</seg>
       </tuv>
       <tuv lang="fr">
