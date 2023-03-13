@@ -17613,6 +17613,14 @@ kolekti -b C:\[...]\trunk\doc_src2 publish [-j JOB] -l fr,en C:\[...]\trunk\doc_
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Commands are opened on the command line.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230313T204408Z" creationid="Léo Delaune" creationdate="20230313T204408Z">
+        <seg>Les commandes sont ouvertes sur la ligne de commande.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Commands:
 	-h, --help
 		Show usage information.</seg>
