@@ -5974,6 +5974,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Basic project configuration:&lt;/e0&gt; Source and languages, tokenizers, and the project folder hierarchy.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230313T150112Z" creationid="Anand" creationdate="20230313T150112Z">
+        <seg>&lt;e0&gt;Configuration de base du projet :&lt;/e0&gt; Source et langues, lemmatiseurs, et la hiérarchie des dossiers du projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Browse TaaS Collections&lt;/e0&gt; will allow browsing existing collections for the source and target languages of the project, and downloading them.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20141202T221604Z" creationid="Didier" creationdate="20141202T221604Z">
@@ -64368,6 +64376,14 @@ Corrigé par @delauneleo
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130424T080911Z">
         <seg>Ce fichier existe toujours dans le projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This file defines the following parameters:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230313T145712Z" creationid="Anand" creationdate="20230313T145712Z">
+        <seg>Ce fichier définit les paramètres suivants :</seg>
       </tuv>
     </tu>
     <tu>
