@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_02bf2621" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -22184,6 +22184,14 @@ MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221016T074937Z">
         <seg>Chaque format de sortie gère l'affichage RTL à sa façon ; consultez le guide de l'application appropriée pour en savoir plus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Each set represents a group of web searches or local commands that are launched simultaneously.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230313T203346Z" creationid="Léo Delaune" creationdate="20230313T203346Z">
+        <seg>Chaque ensemble représente un groupe de recherches sur le web ou de commandes locales lancées simultanément.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47337,6 +47345,14 @@ ces mots : « pas de page »...</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210731T155030Z" creationid="suzume" creationdate="20210731T155030Z">
         <seg>Redémarrer OmegaT pour appliquer ces modifications</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Restart OmegaT to apply this change.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230313T202751Z" creationid="Léo Delaune" creationdate="20230313T202751Z">
+        <seg>[correspondance]Redémarrer OmegaT pour appliquer ces modifications</seg>
       </tuv>
     </tu>
     <tu>
