@@ -4537,6 +4537,14 @@ Valider les balises.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>/usr/bin/open|dict://{target}</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230313T204526Z" creationid="Léo Delaune" creationdate="20230313T204526Z">
+        <seg>/usr/bin/open|dict://{target}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>0 or more &lt;c0&gt;modifier&lt;/c0&gt;</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230303T091457Z" creationid="Léo Delaune" creationdate="20230303T091457Z">
@@ -17551,6 +17559,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (dévelo
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20170210T102318Z" creationid="Didier" creationdate="20170210T102318Z">
         <seg>La commande ne contient pas « {0} »</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Command example</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230313T204524Z" creationid="Léo Delaune" creationdate="20230313T204524Z">
+        <seg>Exemple de commande</seg>
       </tuv>
     </tu>
     <tu>
@@ -54636,6 +54652,14 @@ form of a work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;g0&gt;Delimiter&lt;/g0&gt;defines the delimiter between command parameters.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230313T204503Z" creationid="Léo Delaune" creationdate="20230313T204439Z">
+        <seg>Le &lt;g0&gt;Delimiter&lt;/g0&gt; définit le délimiteur entre les paramètres de commande.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;g0&gt;Display Context Description for TBX Glossaries&lt;/g0&gt; option allows to show or hide contextual information with the terms (that come from TBX glossaries located in &lt;f1&gt;glossary&lt;/f1&gt; directory) in the Glossary pane.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20141202T212457Z" creationid="Didier" creationdate="20141202T212457Z">
@@ -56018,6 +56042,14 @@ instead.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210507T112439Z">
         <seg>Les raccourcis par défaut d'OmegaT sur macOS sont également disponibles sur Sourceforge, ils utilisent tous « meta » à la place de « ctrl » : &lt;u0&gt;Raccourcis clavier d'OmegaT par défaut sur macOS&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The default delimiter is &lt;c1&gt;|&lt;/c1&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230313T204457Z" creationid="Léo Delaune" creationdate="20230313T204457Z">
+        <seg>Le délimiteur par défaut est &lt;c1&gt;|&lt;/c1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61415,6 +61447,14 @@ this version will not interfere with it.</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230313T204329Z" creationid="Léo Delaune" creationdate="20230313T204329Z">
         <seg>Cela ouvre une recherche pour le terme {target} sur DuckDuckGo avec un certain nombre de paramètres de recherche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This opens the dictionary application that implements the &lt;c0&gt;dict&lt;/c0&gt; protocol on your machine looking for the {target} term.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230313T204708Z" creationid="Léo Delaune" creationdate="20230313T204708Z">
+        <seg>Cela ouvre l'application du dictionnaire qui met en œuvre le protocole &lt;c0&gt;dict&lt;/c0&gt; sur votre ordinateur, à la recherche du terme {target}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67316,6 +67356,14 @@ you have just discovered.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130503T095307Z">
         <seg>Lorsque cette option est activée, toutes les balises de formatage sont retirées des segments source.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When entering an empty segment:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230313T204907Z" creationid="Léo Delaune" creationdate="20230313T204907Z">
+        <seg>En entrant dans un segment vide:</seg>
       </tuv>
     </tu>
     <tu>
