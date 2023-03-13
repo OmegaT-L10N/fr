@@ -14244,6 +14244,14 @@ provoquer des comportements inattendus, mais corrects.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Attempt to replace fuzzy match numbers</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230313T210530Z" creationid="Léo Delaune" creationdate="20230313T210503Z">
+        <seg>Tentative de remplacement des numéros de correspondance partielles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Attribute:</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
@@ -57947,6 +57955,14 @@ modification follow.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The prefix identifies translations inserted as fuzzy matches.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230313T210348Z" creationid="Léo Delaune" creationdate="20230313T210348Z">
+        <seg>Le préfixe identifie les traductions insérées en tant que correspondances floues.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The previous segment with a note will open.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130503T093826Z">
@@ -67320,6 +67336,14 @@ you have just discovered.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When a fuzzy match is inserted, OmegaT tries to replace the numbers in the fuzzy match with the numbers in the source text.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230313T210525Z" creationid="Léo Delaune" creationdate="20230313T210525Z">
+        <seg>Lorsqu'une correspondance partielle est insérée, OmegaT tente de remplacer les chiffres de la correspondance partielle par les chiffres du texte source.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When a rule is triggered, the corresponding phrase will be underlined in blue in the Editor (see &lt;e1&gt;also &lt;/e1&gt;and &lt;e2&gt;I didn't do nothing&lt;/e2&gt; in the picture above).</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130527T130431Z">
@@ -69237,6 +69261,14 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20200126T091643Z" creationid="suzume" creationdate="20200126T091643Z">
         <seg>Vous également pouvez faire glisser le fichier OmegaT.exe dans le menu démarrer, sur le bureau ou dans la zone de lancement rapide afin d'y créer un raccourci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also register the prefix in the &lt;l0/&gt; preference to include it in the tag issues checking process and make sure you do not forget it in your translation.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230313T210444Z" creationid="Léo Delaune" creationdate="20230313T210444Z">
+        <seg>Vous pouvez également enregistrer le préfixe dans la préférence &lt;l0/&gt; pour l'inclure dans le processus de vérification des balises et vous assurer de ne pas l'oublier dans votre traduction.</seg>
       </tuv>
     </tu>
     <tu>
