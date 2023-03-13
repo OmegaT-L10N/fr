@@ -30459,6 +30459,15 @@ tous les paramètres reprendront leur valeur par défaut,
       </tuv>
     </tu>
     <tu>
+      <note>(Anand) Revoir la trad/définition de Mapping</note>
+      <tuv lang="en">
+        <seg>If no custom mappings have been defined for the remote project, but local mappings have been customized, the local settings are preserved without affecting the settings on the server.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230313T151211Z" creationid="Anand" creationdate="20230313T151211Z">
+        <seg>Si aucune mise en correspondance personnalisée n'a été définie pour le projet distant, mais que les mises en correspondances locales ont été personnalisées, les paramètres locaux sont conservés sans affecter les paramètres du serveur.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>If no replacement is done to a given segment, the target segment will be “emptied”, i.e., it will remain untranslated.</seg>
       </tuv>
@@ -49749,6 +49758,14 @@ ces mots : « pas de page »...</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221220T114945Z" creationid="suzume" creationdate="20221220T114945Z">
         <seg>Les autorisations de dépôt sont entreposées dans le fichier &lt;l0/&gt; et peuvent être effacées à partir des préférences &lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Repository mappings</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230313T150518Z" creationid="Anand" creationdate="20230313T150518Z">
+        <seg>Mappage du référentiel</seg>
       </tuv>
     </tu>
     <tu>
