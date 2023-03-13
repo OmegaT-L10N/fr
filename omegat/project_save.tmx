@@ -7884,12 +7884,13 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>en français ?</note>
+      <note>
+</note>
       <tuv lang="en">
         <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; or &lt;k1&gt;Control&lt;/k1&gt;</seg>
       </tuv>
-      <tuv lang="fr" changeid="Léo Delaune" changedate="20230301T154650Z" creationid="Léo Delaune" creationdate="20230301T154650Z">
-        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; ou &lt;k1&gt;Control&lt;/k1&gt;</seg>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230313T141253Z" creationid="Léo Delaune" creationdate="20230301T154650Z">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; ou &lt;k1&gt;Controle&lt;/k1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7973,12 +7974,11 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>(Anand) Logo ? Commande plutôt non?</note>
       <tuv lang="en">
         <seg>&lt;k0&gt;command&lt;/k0&gt; or &lt;k1&gt;⌘&lt;/k1&gt;</seg>
       </tuv>
-      <tuv lang="fr" changeid="Léo Delaune" changedate="20230307T104634Z" creationid="Léo Delaune" creationdate="20230302T153741Z">
-        <seg>&lt;k0&gt;logo&lt;/k0&gt; ou &lt;k1&gt;⌘&lt;/k1&gt;</seg>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230313T141236Z" creationid="Léo Delaune" creationdate="20230302T153741Z">
+        <seg>&lt;k0&gt;Commande&lt;/k0&gt; ou &lt;k1&gt;⌘&lt;/k1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7986,8 +7986,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="en">
         <seg>&lt;k0&gt;control&lt;/k0&gt; or &lt;k1&gt;⌃&lt;/k1&gt;</seg>
       </tuv>
-      <tuv lang="fr" changeid="Léo Delaune" changedate="20230307T104644Z" creationid="Léo Delaune" creationdate="20230301T154707Z">
-        <seg>&lt;k0&gt;ctrl&lt;/k0&gt; ou &lt;k1&gt;⌃&lt;/k1&gt;</seg>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230313T141319Z" creationid="Léo Delaune" creationdate="20230301T154707Z">
+        <seg>&lt;k0&gt;Controle&lt;/k0&gt; ou &lt;k1&gt;⌃&lt;/k1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20074,7 +20074,6 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
     </tu>
     <tu>
-      <note>(JC) espace en trop</note>
       <tuv lang="en">
         <seg>Ctrl</seg>
       </tuv>
@@ -29248,12 +29247,13 @@ a disparu...</seg>
       </tuv>
     </tu>
     <tu>
-      <note>maladroit</note>
+      <note>maladroit
+LD : Modifié</note>
       <tuv lang="en">
         <seg>How we avoid listing multiple notations:</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230309T170235Z" creationid="Léo Delaune" creationdate="20230301T154852Z">
-        <seg>Comment évitons-nous d'énumérer de multiples notations :</seg>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230313T141357Z" creationid="Léo Delaune" creationdate="20230301T154852Z">
+        <seg>Comment éviter d'énumérer de multiples notations :</seg>
       </tuv>
     </tu>
     <tu>
@@ -33670,7 +33670,8 @@ patent against the party.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Ça pourrait être bien de modifier S en M (Maj.) par ex. C'est ça la localisation.</note>
+      <note>Ça pourrait être bien de modifier S en M (Maj.) par ex. C'est ça la localisation.
+LD: Modifié</note>
       <tuv lang="en">
         <seg>In this manual: &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;</seg>
       </tuv>
@@ -44095,12 +44096,13 @@ disponible dans MacPorts sous le nom « py27-pysvn ».</seg>
       </tuv>
     </tu>
     <tu>
-      <note>en français</note>
+      <note>en français
+LD : Modifié</note>
       <tuv lang="en">
         <seg>On macOS: &lt;k0&gt;&lt;k1&gt;Shift&lt;/k1&gt;&lt;k2&gt;Command&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230309T170302Z" creationid="Léo Delaune" creationdate="20230302T161420Z">
-        <seg>Sous macOS : &lt;k0&gt;&lt;k1&gt;Maj&lt;/k1&gt;&lt;k2&gt;Logo&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;</seg>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230313T141412Z" creationid="Léo Delaune" creationdate="20230302T161420Z">
+        <seg>Sous macOS : &lt;k0&gt;&lt;k1&gt;Maj&lt;/k1&gt;&lt;k2&gt;Commande&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -73001,8 +73003,8 @@ you think will help the developers with finding and fixing your bug.</seg>
       <tuv lang="en">
         <seg>You can also add or modify the shortcuts for most of the functions.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Léo Delaune" changedate="20230302T161711Z" creationid="Léo Delaune" creationdate="20230302T161701Z">
-        <seg>Vous pouvez également ajouter ou modifier les raccourcis de la plupart des fonctions.</seg>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230313T141444Z" creationid="Léo Delaune" creationdate="20230302T161701Z">
+        <seg>Vous pouvez également ajouter ou modifier les raccourcis pour la plupart des fonctions.</seg>
       </tuv>
     </tu>
     <tu>
@@ -73338,12 +73340,14 @@ your programs, too.</seg>
     <tu>
       <note>copier ... du ... ? maladroit
 
-(Anand) "à partir du site"</note>
+(Anand) "à partir du site"
+
+LD : Modifié</note>
       <tuv lang="en">
         <seg>You can copy the default OmegaT shortcut files from the OmegaT development site on Sourceforge to &lt;l0&gt;your configuration folder&lt;/l0&gt; and modify them to suit your needs:</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230309T171006Z" creationid="Léo Delaune" creationdate="20230302T173105Z">
-        <seg>Vous pouvez copier les fichiers de raccourcis OmegaT par défaut du site de développement d'OmegaT sur Sourceforge vers &lt;l0&gt; votre dossier de configuration &lt;/l0&gt; et les modifier selon vos besoins :</seg>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230313T141526Z" creationid="Léo Delaune" creationdate="20230302T173105Z">
+        <seg>Vous pouvez copier les fichiers de raccourcis OmegaT par défaut à partir du site de développement d'OmegaT sur Sourceforge vers &lt;l0&gt; votre dossier de configuration &lt;/l0&gt; et les modifier selon vos besoins :</seg>
       </tuv>
     </tu>
     <tu>
