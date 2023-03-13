@@ -4674,7 +4674,9 @@ Valider les balises.</seg>
     <tu>
       <note>(JC) "modifier" ?
 
-(Anand) modificateur?</note>
+(Anand) modificateur?
+
+LD : OK</note>
       <tuv lang="en">
         <seg>0 or more &lt;c0&gt;modifier&lt;/c0&gt;</seg>
       </tuv>
@@ -14595,8 +14597,8 @@ provoquer des comportements inattendus, mais corrects.</seg>
       <tuv lang="en">
         <seg>As shown in the &lt;l0&gt;Edit menu table&lt;/l0&gt; below, the function code for the &lt;g1&gt;Create Alternative Translation&lt;/g1&gt; function is &lt;c2&gt;editMultipleAlternate&lt;/c2&gt;.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230310T110245Z" creationid="Léo Delaune" creationdate="20230305T200121Z">
-        <seg>Comme on le voit dans le &lt;l0&gt;tableau du menu édition&lt;/l0&gt; ci-dessous, le code de la fonction &lt;g1&gt;Créer une traduction alternative&lt;/g1&gt; est &lt;c2&gt;editMultipleAlternate&lt;/c2&gt;.</seg>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230313T141811Z" creationid="Léo Delaune" creationdate="20230305T200121Z">
+        <seg>Comme on le voit dans le &lt;l0&gt;Manu Edition&lt;/l0&gt; ci-dessous, le code de la fonction &lt;g1&gt;Créer une traduction alternative&lt;/g1&gt; est &lt;c2&gt;editMultipleAlternate&lt;/c2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44830,12 +44832,14 @@ happen should you file a bug report.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>(JC) problème dans la cible, the ... file</note>
+      <note>(JC) problème dans la cible, the ... file
+
+LD : Modifié</note>
       <tuv lang="en">
         <seg>Open the &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; you have copied to &lt;l1&gt;your configuration folder&lt;/l1&gt; in a text editor.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230310T110016Z" creationid="Léo Delaune" creationdate="20230305T200008Z">
-        <seg>Ouvrez le fichier &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; que vous avez copié dans &lt;l1&gt;votre dossier de configuration&lt;/l1&gt; avec un éditeur de texte.</seg>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230313T141752Z" creationid="Léo Delaune" creationdate="20230305T200008Z">
+        <seg>Ouvrez  &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; que vous avez copié dans &lt;l1&gt;votre dossier de configuration&lt;/l1&gt; avec un éditeur de texte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62219,12 +62223,14 @@ making modifications to it.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>(JC) menu item ?</note>
+      <note>(JC) menu item ?
+
+LD : Modifié</note>
       <tuv lang="en">
         <seg>The steps below demonstrate how to assign the &lt;k0&gt;&lt;k1&gt;Alt&lt;/k1&gt;&lt;k2&gt;X&lt;/k2&gt;&lt;/k0&gt; shortcut to the &lt;l3/&gt;&lt;l4/&gt; menu item.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230310T105816Z" creationid="Léo Delaune" creationdate="20230305T195937Z">
-        <seg>Les étapes ci-dessous montrent comment rattacher le raccourci &lt;k0&gt;&lt;k1&gt;Alt&lt;/k1&gt;&lt;k2&gt;X&lt;/k2&gt;&lt;/k0&gt; à l'option de menu &lt;l3/&gt;&lt;l4/&gt;.</seg>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230313T141713Z" creationid="Léo Delaune" creationdate="20230305T195937Z">
+        <seg>Les étapes ci-dessous montrent comment rattacher le raccourci &lt;k0&gt;&lt;k1&gt;Alt&lt;/k1&gt;&lt;k2&gt;X&lt;/k2&gt;&lt;/k0&gt; à un élément du menu.&lt;l3/&gt;&lt;l4/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -82291,12 +82297,11 @@ Ok. </note>
       </tuv>
     </tu>
     <tu>
-      <note>(JC) espace</note>
       <tuv lang="en">
         <seg>or as follows for macOS:</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230310T105512Z" creationid="Léo Delaune" creationdate="20230303T125244Z">
-        <seg>ou de la manière suivante pour macOS :</seg>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230313T141621Z" creationid="Léo Delaune" creationdate="20230303T125244Z">
+        <seg>ou de la manière suivante pour macOS:</seg>
       </tuv>
     </tu>
     <tu>
