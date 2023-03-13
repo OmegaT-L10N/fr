@@ -42847,6 +42847,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT creates up to ten backup files, and older backups are automatically deleted in turn.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230313T154317Z" creationid="Anand" creationdate="20230313T154213Z">
+        <seg>OmegaT va créer jusqu'à dix fichiers de sauvegarde, et les anciennes sauvegardes sont automatiquement supprimées à tour de rôle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT currently requires version 1.6 of the JRE or later.</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20170403T160707Z" creationid="briac" creationdate="20170403T160707Z">
@@ -48980,6 +48988,14 @@ ces mots : « pas de page »...</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
         <seg>Restants :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remember that any modifications to the local project configuration files will be overwritten by the versions on the server when the project is synchronized.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230313T154440Z" creationid="Anand" creationdate="20230313T154440Z">
+        <seg>N'oubliez pas que toute modification effectuée sur les fichiers de configuration de projet locaux sera remplacée par les versions sur le serveur quand le projet sera synchronisé.</seg>
       </tuv>
     </tu>
     <tu>
