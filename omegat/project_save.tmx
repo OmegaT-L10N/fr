@@ -31148,6 +31148,15 @@ authors' reputations.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>(Anand) of the omegat.project [file]</note>
+      <tuv lang="en">
+        <seg>If there is a conflict between the remote and local versions of the &lt;f0&gt;omegat.project&lt;/f0&gt; and the local version is overwritten, OmegaT creates a backup file called &lt;f1&gt;omegat.project.YYYYMMDDhhmm.bak&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230313T154113Z" creationid="Anand" creationdate="20230313T154113Z">
+        <seg>S'il y a un conflit entre la version locale et la version distante du fichier &lt;f0&gt;omegat.project&lt;/f0&gt;, et que la version locale est remplacée, OmegaT va créer un fichier de sauvegarde appelé &lt;f1&gt;omegat.project.AAAAMMJJhhmm.bak&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>If there's no file name displayed, the source is the internal project translation memory.</seg>
       </tuv>
