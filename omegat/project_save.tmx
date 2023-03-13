@@ -26613,6 +26613,14 @@ know their rights.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, many hosting services support access to the same repository using either the SSH +Git or https protocol.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230313T151811Z" creationid="Anand" creationdate="20230313T151811Z">
+        <seg>Par exemple, de nombreux services d'hébergement permettent l'accès au même dépôt en utilisant soit le protocole SSH+Git soit le protocole https.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, rules for Canadian French (FR-CA) should be set higher than rules for French (FR.*), and higher than Default (.*) ones.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130528T095547Z">
@@ -30982,6 +30990,14 @@ when it starts in an interactive mode:</seg>
       </tuv>
       <tuv lang="fr" changeid="Anand" changedate="20230313T151316Z" creationid="Anand" creationdate="20230313T151316Z">
         <seg>Si le projet distant contient des mises en correspondance personnalisées, mais que le projet local n'en contient pas, les mises en correspondance du serveur sont appliqués au projet local.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the remote project specifies a URL protocol and you download it using a different protocol, your local configuration will be preserved.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230313T151516Z" creationid="Anand" creationdate="20230313T151516Z">
+        <seg>Si le projet distant précise un protocole URL et que vous le téléchargez en utilisant un différent protocole, votre configuration locale sera conservée.</seg>
       </tuv>
     </tu>
     <tu>
