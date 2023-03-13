@@ -29894,12 +29894,14 @@ need not be entered.)</seg>
       </tuv>
     </tu>
     <tu>
-      <note>(JC) maladroit</note>
+      <note>(JC) maladroit
+
+LD : Modifié</note>
       <tuv lang="en">
         <seg>If OmegaT is open, you will have to restart it for your changes to take effect.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230310T111255Z" creationid="Léo Delaune" creationdate="20230305T200451Z">
-        <seg>Si OmegaT est ouvert, les modifications prendront effet lors du prochain démarrage.</seg>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230313T143804Z" creationid="Léo Delaune" creationdate="20230305T200451Z">
+        <seg>Il vous fera redémarrer OmegaT pour que ces modifications prennent effet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31561,12 +31563,14 @@ may not distribute the Program at all.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>(sirine) "...afin que celle-ci soit prise en compte." pour éviter la répétition de "segmentation" ?</note>
+      <note>(sirine) "...afin que celle-ci soit prise en compte." pour éviter la répétition de "segmentation" ?
+
+LD : modifié</note>
       <tuv lang="en">
         <seg>If you change the segmentation while translating, you will have to reload the project for the new segmentation to take effect.</seg>
       </tuv>
-      <tuv lang="fr" changeid="sirine" changedate="20230310T222704Z" creationid="Anand" creationdate="20230307T175550Z">
-        <seg>Si vous changez la segmentation pendant la traduction, vous devrez recharger le projet afin que la nouvelle segmentation soit prise en compte.</seg>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230313T143908Z" creationid="Anand" creationdate="20230307T175550Z">
+        <seg>Si vous changez la segmentation pendant la traduction, vous devrez recharger le projet afin que celle-ci soit prise en compte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50886,7 +50890,6 @@ REPAIR OR CORRECTION.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>(JC) glossaire</note>
       <tuv lang="en">
         <seg>Save the file after you have finished making your changes.</seg>
       </tuv>
@@ -80992,8 +80995,6 @@ Ok. </note>
       </tuv>
     </tu>
     <tu>
-      <note>
-</note>
       <tuv lang="en">
         <seg>meta O</seg>
       </tuv>
