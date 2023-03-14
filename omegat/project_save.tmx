@@ -26107,6 +26107,14 @@ patents.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Find an email address.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230314T153843Z" creationid="sirine" creationdate="20230314T153843Z">
+        <seg>Trouver une adresse de courriel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Find clauses that start with a comma followed by a whitespace character, contain one or more words (including words in quotation marks, contractions, and filenames with a file extension), and end either with a comma or period.</seg>
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230314T151448Z" creationid="sirine" creationdate="20230314T151448Z">
@@ -26151,6 +26159,15 @@ patents.</seg>
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230314T152200Z" creationid="sirine" creationdate="20230314T152108Z">
         <seg>Trouver des mots commençant par une consonne et placés après « an  » plutôt que « a  ».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>fr</note>
+      <tuv lang="en">
+        <seg>Find “is” as a whole word in a sentence, without matching “this”, “isn’t”, or even “Is”.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230314T153800Z" creationid="sirine" creationdate="20230314T153800Z">
+        <seg>Trouvez « is  » en tant que mot entier dans une phrase, sans faire correspondre « this  », « isn't  », ou même « Is  ».</seg>
       </tuv>
     </tu>
     <tu>
@@ -65834,6 +65851,14 @@ be a consequence of the rest of this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This simple expression may not cover every possible valid email address format.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230314T154220Z" creationid="sirine" creationdate="20230314T154220Z">
+        <seg>Cette expression simple risque de ne pas englober tous les formats possibles et valides d'adresses de courriel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This site is also available in English!</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20170403T100018Z" creationid="briac" creationdate="20170403T100018Z">
@@ -70513,6 +70538,14 @@ la configuration actuelle est de {0} Mo ;</seg>
       <tuv lang="fr" changeid="Didier" changedate="20170210T104134Z" creationid="Didier" creationdate="20170210T104134Z">
         <seg>Liens utiles
 ============</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Useful to find possible missing spaces between the period and the start of a new sentence</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230314T153619Z" creationid="sirine" creationdate="20230314T153619Z">
+        <seg>Utile pour trouver d'éventuels espaces manquants entre le point et le début d'une nouvelle phrase</seg>
       </tuv>
     </tu>
     <tu>
@@ -75369,6 +75402,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T105103Z">
         <seg>[\p{L}&amp;&amp;[^\p{Lu}]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[\w\.-]+@[\w\.-]+</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230314T153803Z" creationid="sirine" creationdate="20230314T153803Z">
+        <seg>[\w\.-]+@[\w\.-]+</seg>
       </tuv>
     </tu>
     <tu>
