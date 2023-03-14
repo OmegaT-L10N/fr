@@ -26107,6 +26107,14 @@ patents.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Find words starting with consonant that come after “an” rather than “a”.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230314T152108Z" creationid="sirine" creationdate="20230314T152108Z">
+        <seg>Trouver des mots commençant par une consonne et placés après "an" plutôt que "a".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Finds the following:</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
@@ -60202,6 +60210,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The flip side of the preceding example.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230314T151919Z" creationid="sirine" creationdate="20230314T151919Z">
+        <seg>Le contraire de l'exemple précédent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The folder contains 2 files: &lt;f2&gt;index.html&lt;/f2&gt; and &lt;f3&gt;OmegaT.app&lt;/f3&gt;.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210201T120221Z" creationid="suzume" creationdate="20210201T120221Z">
@@ -75559,8 +75575,8 @@ de créer son dossier de configuration.</seg>
       <tuv lang="en">
         <seg>\h+an\h+[^aeiou]</seg>
       </tuv>
-      <tuv lang="fr" changeid="sirine" changedate="20230314T151533Z" creationid="sirine" creationdate="20230314T151533Z">
-        <seg>[correspondance]\h+a\h+[aeiou]</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230314T151856Z" creationid="sirine" creationdate="20230314T151533Z">
+        <seg>\h+an\h+[^aeiou]</seg>
       </tuv>
     </tu>
     <tu>
