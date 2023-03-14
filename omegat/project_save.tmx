@@ -717,6 +717,15 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>&amp;Always confirm quit</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230313T163219Z" creationid="briac" creationdate="20230313T163219Z">
+        <seg>&amp;Quitter toujours confirmé</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>&amp;Apply</seg>
       </tuv>
@@ -1381,6 +1390,15 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>&amp;Ignore matches with very different case (e.g. FOO vs foo)</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230313T163317Z" creationid="briac" creationdate="20230313T163317Z">
+        <seg>&amp;Ignorer les correspondances avec une casse très différente (ex. : FOO et foo)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>&amp;Ignore type and ctype attributes when building &lt;ph&gt; tag shortcuts</seg>
       </tuv>
@@ -1490,6 +1508,15 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20161229T164336Z" creationid="Didier" creationdate="20161229T164336Z">
         <seg>&amp;Lancer un serveur local</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>&amp;Layout:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230313T163339Z" creationid="briac" creationdate="20230313T163339Z">
+        <seg>&amp;Mise en page :</seg>
       </tuv>
     </tu>
     <tu>
@@ -5992,6 +6019,15 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
       <tuv lang="fr" changeid="brigitte" changedate="20130712T181146Z">
         <seg>&lt;e0&gt;Retour arrière : &lt;/e0&gt;rien</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;Basic project configuration:&lt;/e0&gt; Source and languages, tokenizers, and the project folder hierarchy.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230313T150112Z" creationid="Anand" creationdate="20230313T150112Z">
+        <seg>&lt;e0&gt;Configuration de base du projet :&lt;/e0&gt; Source et langues, lemmatiseurs, et la hiérarchie des dossiers du projet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12539,6 +12575,15 @@ covered by this License; they are outside its scope.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Add to Dictionary: “{0}”</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230313T163115Z" creationid="briac" creationdate="20230313T163115Z">
+        <seg>Ajouter au dictionnaire : « {0} »</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Added {0} glossary entries from {1}</seg>
       </tuv>
@@ -12909,6 +12954,15 @@ this License without regard to the additional permissions.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>After you generate the target files use &lt;l0/&gt;&lt;l1/&gt; to add them to the server, if the project administrator has requested you to do so.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230313T154826Z" creationid="Anand" creationdate="20230313T154826Z">
+        <seg>Après avoir généré les fichiers cible, utilisez le menu &lt;l0/&gt;&lt;l1/&gt; afin de les ajouter au serveur, si l'administrateur du projet vous a demandé de le faire.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>After you give your project a name, the &lt;g0&gt;Create New Project&lt;/g0&gt; dialog will open.</seg>
       </tuv>
@@ -13131,6 +13185,15 @@ this License without regard to the additional permissions.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210202T073754Z" creationid="suzume" creationdate="20210202T073754Z">
         <seg>Tous les fichiers HTML seront traduits. Notez que le point généralement présent dans les fichiers &lt;l0&gt;*.html&lt;/l0&gt; doit être neutralisé (&lt;l1&gt;\.&lt;/l1&gt;) comme le précisent les règles utilisées pour les expressions régulières</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>All changes will be synchronized the next time a connection is available.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230313T155616Z" creationid="Anand" creationdate="20230313T155616Z">
+        <seg>Toutes les modifications seront synchronisées la prochaine fois qu'une connexion sera disponible.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13566,6 +13629,15 @@ software.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130430T112940Z">
         <seg>Il est possible de changer l'emplacement de certains des dossiers lors de la création du projet ou durant la traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Alternative</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230313T163019Z" creationid="briac" creationdate="20230313T163019Z">
+        <seg>Alternative</seg>
       </tuv>
     </tu>
     <tu>
@@ -14047,6 +14119,15 @@ menu, a prominent item in the list meets this criterion.</seg>
         <seg>An item of the name "{0}" already exists at this location.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160913T163501Z" creationid="Didier" creationdate="20160427T160126Z">
+        <seg>Un élément nommé « {0} » existe déjà à cet emplacement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>An item with the name "{0}" already exists at this location.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230313T163100Z" creationid="briac" creationdate="20230313T163100Z">
         <seg>Un élément nommé « {0} » existe déjà à cet emplacement.</seg>
       </tuv>
     </tu>
@@ -14639,6 +14720,16 @@ provoquer des comportements inattendus, mais corrects.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
         <seg>En ce qui concerne les catégories, les standards qui s'appliquent de facto dans l'industrie et qui classifient les correspondances dans les groupes suivants sont utilisés : Répétitions, Correspondance exacte, 95 %-100 %, 85 %-94 %, 75 %-84 %, 50 %-74 % et Aucune correspondance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <note>(Anand) contents [of the] omegat.project file</note>
+      <tuv lang="en">
+        <seg>As in regular local projects, the configuration of the team project is defined by the contents &lt;f0&gt;omegat.project&lt;/f0&gt; file and the optional use of special files for project-specific filters or segmentation rules.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230313T145425Z" creationid="Anand" creationdate="20230313T145425Z">
+        <seg>Comme pour les projets locaux classiques, la configuration du projet en équipe est définie par le contenu du fichier &lt;f0&gt;omegat.project&lt;/f0&gt; et par l'utilisation facultative de fichiers spéciaux pour les filtres ou les règles de segmentation spécifiques au projet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21179,6 +21270,15 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Deleting files</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230313T154907Z" creationid="Anand" creationdate="20230313T154907Z">
+        <seg>Supprimer des fichiers</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Deleting source files</seg>
       </tuv>
@@ -21750,6 +21850,15 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Disconnect from the network before opening the project.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230313T155722Z" creationid="Anand" creationdate="20230313T155722Z">
+        <seg>Déconnectez-vous du réseau avant l'ouverture du projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Displa&amp;y Whitespace</seg>
       </tuv>
@@ -21859,6 +21968,15 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="fr" changeid="laurieetclémentine" changedate="20130411T135406Z">
         <seg>Afficher les segments sources</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Display TBX &amp;glossaries context description</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230313T163229Z" creationid="briac" creationdate="20230313T163229Z">
+        <seg>Afficher la description du contexte des glossaires TBX</seg>
       </tuv>
     </tu>
     <tu>
@@ -22624,6 +22742,15 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130527T140912Z">
         <seg>Un double clic sur l'élément possédant une icône OmegaT suffit à ouvrir le projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Double-check and try again.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230313T163149Z" creationid="briac" creationdate="20230313T163149Z">
+        <seg>Vérifiez à nouveau et réessayez.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24235,6 +24362,15 @@ où xx est un code langue générique et YY un code optionnel de pays/région.</
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Enter your password again for confirmation.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230313T163137Z" creationid="briac" creationdate="20230313T163137Z">
+        <seg>Saisissez à nouveau votre mot de passe pour le confirmer.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Enter your user name and your password, if you use a proxy to access your projects.</seg>
       </tuv>
@@ -24548,6 +24684,15 @@ personne ne vous entend pleurer...</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20220317T102756Z" creationid="suzume" creationdate="20220317T102756Z">
         <seg>Erreur en essayant d'obtenir la sortie d'un programme externe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Error while loading the source files.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230313T163041Z" creationid="briac" creationdate="20230313T163041Z">
+        <seg>Erreur lors du chargement des fichiers source.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25931,6 +26076,15 @@ dommage...</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Files in a team project cannot be deleted from OmegaT or the local file system.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230313T155145Z" creationid="Anand" creationdate="20230313T155145Z">
+        <seg>Les fichiers d'un projet en équipe ne peuvent pas être supprimés à partir d'OmegaT ou du système de fichiers local.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Files in older MS Word, Excel and Powerpoint formats can be translated following conversion to the equivalent current Microsoft Office formats, or alternatively to the Office Open XML format, which can be done in OpenOffice.org or LibreOffice (also free).</seg>
       </tuv>
@@ -26779,6 +26933,15 @@ know their rights.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130528T131451Z">
         <seg>Par exemple, pour les raccourcis par défaut d'OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>For example, many hosting services support access to the same repository using either the SSH +Git or https protocol.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230313T151811Z" creationid="Anand" creationdate="20230313T151811Z">
+        <seg>Par exemple, de nombreux services d'hébergement permettent l'accès au même dépôt en utilisant soit le protocole SSH+Git soit le protocole https.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30660,6 +30823,16 @@ tous les paramètres reprendront leur valeur par défaut,
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <note>(Anand) Revoir la trad/définition de Mapping</note>
+      <tuv lang="en">
+        <seg>If no custom mappings have been defined for the remote project, but local mappings have been customized, the local settings are preserved without affecting the settings on the server.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230313T151211Z" creationid="Anand" creationdate="20230313T151211Z">
+        <seg>Si aucune mise en correspondance personnalisée n'a été définie pour le projet distant, mais que les mises en correspondances locales ont été personnalisées, les paramètres locaux sont conservés sans affecter les paramètres du serveur.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>If no replacement is done to a given segment, the target segment will be “emptied”, i.e., it will remain untranslated.</seg>
       </tuv>
@@ -31172,6 +31345,24 @@ when it starts in an interactive mode:</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>If the remote project contains custom mappings, but the local project does not, the mappings from the server are applied to the local project.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230313T151316Z" creationid="Anand" creationdate="20230313T151316Z">
+        <seg>Si le projet distant contient des mises en correspondance personnalisées, mais que le projet local n'en contient pas, les mises en correspondance du serveur sont appliqués au projet local.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>If the remote project specifies a URL protocol and you download it using a different protocol, your local configuration will be preserved.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230313T151516Z" creationid="Anand" creationdate="20230313T151516Z">
+        <seg>Si le projet distant précise un protocole URL et que vous le téléchargez en utilisant un différent protocole, votre configuration locale sera conservée.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>If the rule matches, either the cursor moves on without inserting a segment break (for an exception rule) or a new segment break is created at the current cursor position (for the break rule).</seg>
       </tuv>
@@ -31318,6 +31509,16 @@ authors' reputations.</seg>
       </tuv>
       <tuv lang="fr" changeid="jchelary" changedate="20130526T125528Z">
         <seg>S'il existe d'autres fichiers appelés test.html dans d'autres dossiers, ils seront ignorés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <note>(Anand) of the omegat.project [file]</note>
+      <tuv lang="en">
+        <seg>If there is a conflict between the remote and local versions of the &lt;f0&gt;omegat.project&lt;/f0&gt; and the local version is overwritten, OmegaT creates a backup file called &lt;f1&gt;omegat.project.YYYYMMDDhhmm.bak&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230313T154113Z" creationid="Anand" creationdate="20230313T154113Z">
+        <seg>S'il y a un conflit entre la version locale et la version distante du fichier &lt;f0&gt;omegat.project&lt;/f0&gt;, et que la version locale est remplacée, OmegaT va créer un fichier de sauvegarde appelé &lt;f1&gt;omegat.project.AAAAMMJJhhmm.bak&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32010,6 +32211,15 @@ free software which everyone can redistribute and change under these terms.</seg
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130503T124333Z">
         <seg>Si vous trouvez cette traduction satisfaisante, appuyez sur &lt;k0&gt; &lt;k1&gt;&lt;i2/&gt;Ctrl&lt;/k1&gt; &lt;k3&gt;M&lt;/k3&gt; &lt;/k0&gt; pour remplacer la partie cible du segment ouvert par la suggestion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>If you first download the remote project using an &lt;f0&gt;omegat.project&lt;/f0&gt; file provided by the project administrator, OmegaT will use the mappings in that file, if any.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230313T152956Z" creationid="Anand" creationdate="20230313T152956Z">
+        <seg>Si vous téléchargez d'abord le projet distant en utilisant un fichier &lt;f0&gt;omegat.project&lt;/f0&gt; fourni par l'administrateur du projet, OmegaT va utiliser les mises en correspondance de ce fichier, s'il y en a.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33095,6 +33305,15 @@ click on that shortcut.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>In a team project, the basic configuration parameters of the local project are always overridden by the configuration on the server originally set by the project administrator.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230313T150503Z" creationid="Anand" creationdate="20230313T150503Z">
+        <seg>Dans un projet en équipe, les paramètres de configuration de base du projet local sont toujours remplacés par la configuration présente sur le serveur, définie à l'origine par l'administrateur du projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>In a team project, this folder contains a versioned copy of the project tree structure linked directly to the remote server.</seg>
       </tuv>
@@ -34081,6 +34300,15 @@ patent against the party.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20140604T064527Z" creationid="Didier" creationdate="20140604T064527Z">
         <seg>Nombres divergents</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Incorrect password.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230313T163120Z" creationid="briac" creationdate="20230313T163120Z">
+        <seg>Mot de passe incorrect.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39686,6 +39914,15 @@ impose that choice.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Merge alternate definitions of the same term</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230313T163332Z" creationid="briac" creationdate="20230313T163332Z">
+        <seg>Fusionner les définitions alternatives d'un même terme</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Merriam Webster dictionary - use</seg>
       </tuv>
@@ -41092,6 +41329,15 @@ as the Applications folder.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>No Comment</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230313T163016Z" creationid="briac" creationdate="20230313T163016Z">
+        <seg>Aucun commentaire</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>No GPG executable found; set it in the Git preferences in section "Committing", or define it in the git config gpg.program</seg>
       </tuv>
@@ -41121,6 +41367,15 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20170331T135232Z" creationid="Didier" creationdate="20170331T135232Z">
         <seg>Aucun projet chargé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>No Note</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230313T163011Z" creationid="briac" creationdate="20230313T163011Z">
+        <seg>Aucune remarque</seg>
       </tuv>
     </tu>
     <tu>
@@ -41524,6 +41779,15 @@ Diminue les sorties sur stdout de la ligne de commande.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130411T085518Z">
         <seg>Nynorsk norvégien</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Not Alternative</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230313T163029Z" creationid="briac" creationdate="20230313T163029Z">
+        <seg>Aucune alternative</seg>
       </tuv>
     </tu>
     <tu>
@@ -43052,6 +43316,15 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>OmegaT creates up to ten backup files, and older backups are automatically deleted in turn.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230313T154317Z" creationid="Anand" creationdate="20230313T154213Z">
+        <seg>OmegaT va créer jusqu'à dix fichiers de sauvegarde, et les anciennes sauvegardes sont automatiquement supprimées à tour de rôle.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>OmegaT currently requires version 1.6 of the JRE or later.</seg>
       </tuv>
@@ -44112,6 +44385,15 @@ directory -&gt; folder</note>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>OmegaT will respect the local protocol selection.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230313T152739Z" creationid="Anand" creationdate="20230313T152739Z">
+        <seg>OmegaT se conformera au choix du protocole local.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>OmegaT will run on any system on which the JRE (Java Runtime Environment) has been or can be installed.</seg>
       </tuv>
@@ -44918,6 +45200,15 @@ redontant URL
     <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="en">
+        <seg>Only the project administrator should use &lt;l0/&gt;&lt;l1/&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230313T154552Z" creationid="Anand" creationdate="20230313T154552Z">
+        <seg>Seul l'administrateur du projet doit utiliser le menu &lt;l0/&gt;&lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
         <seg>Only the rules associated to language patterns that correspond to the source language of your project are applied.</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230308T171938Z" creationid="Léo Delaune" creationdate="20230308T171938Z">
@@ -45209,6 +45500,15 @@ happen should you file a bug report.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130424T092626Z">
         <seg>Ouvrez le projet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Open the project from the command line with the &lt;p0&gt;--no-team&lt;/p0&gt; option.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230313T155841Z" creationid="Anand" creationdate="20230313T155841Z">
+        <seg>Ouvrez le projet à la ligne de commande à l'aide de l'option &lt;p0&gt;--no-team&lt;/p0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45661,6 +45961,15 @@ Afficher des informations sur l'utilisation.</seg>
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230309T144917Z" creationid="sirine" creationdate="20230307T214259Z">
         <seg>Les recherches ordinaires d'OmegaT sont insensibles à la casse par défaut : elles correspondent à la fois aux caractères en majuscules et en minuscules, sauf si vous choisissez d'activer l'option &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Origin</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230313T163031Z" creationid="briac" creationdate="20230313T163031Z">
+        <seg>Origine</seg>
       </tuv>
     </tu>
     <tu>
@@ -49224,6 +49533,15 @@ ces mots : « pas de page »...</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Remember that any modifications to the local project configuration files will be overwritten by the versions on the server when the project is synchronized.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230313T154440Z" creationid="Anand" creationdate="20230313T154440Z">
+        <seg>N'oubliez pas que toute modification effectuée sur les fichiers de configuration de projet locaux sera remplacée par les versions sur le serveur quand le projet sera synchronisé.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Remember that every good bug report needs just three things:</seg>
       </tuv>
@@ -50054,6 +50372,15 @@ ces mots : « pas de page »...</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221220T114945Z" creationid="suzume" creationdate="20221220T114945Z">
         <seg>Les autorisations de dépôt sont entreposées dans le fichier &lt;l0/&gt; et peuvent être effacées à partir des préférences &lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Repository mappings</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230313T150518Z" creationid="Anand" creationdate="20230313T150518Z">
+        <seg>Mappage du référentiel</seg>
       </tuv>
     </tu>
     <tu>
@@ -55085,6 +55412,15 @@ of the GPL, as needed to protect the freedom of users.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Source files</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230313T154459Z" creationid="Anand" creationdate="20230313T154444Z">
+        <seg>Fichiers source</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Source files committed</seg>
       </tuv>
@@ -57124,6 +57460,15 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130415T183543Z">
         <seg>Nom de fichier source</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Target files</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230313T154559Z" creationid="Anand" creationdate="20230313T154559Z">
+        <seg>Fichiers cible</seg>
       </tuv>
     </tu>
     <tu>
@@ -59405,6 +59750,14 @@ shown below.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The configuration folder stores the majority of the OmegaT options and preferences for the user.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230314T093630Z" creationid="suzume" creationdate="20230314T093630Z">
+        <seg>Le dossier de configuration contient la majorité des options et des préférences d'OmegaT </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The configuration folder will be used
 instead.</seg>
       </tuv>
@@ -60198,6 +60551,15 @@ instead.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130507T131849Z">
         <seg>Le premier segment et son contenu sont classés dans le groupe « aucune correspondance », et le reste des segments (semblables) est classé « répétition du premier ».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>The first time the project is downloaded, OmegaT retrieves the &lt;f0&gt;omegat.project&lt;/f0&gt; file from the server.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230313T145654Z" creationid="Anand" creationdate="20230313T145654Z">
+        <seg>Lors du premier téléchargement du projet, OmegaT récupère le fichier &lt;f0&gt;omegat.project&lt;/f0&gt; du serveur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61477,6 +61839,15 @@ sure this has not already been reported.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20161227T171114Z" creationid="Didier" creationdate="20161227T171114Z">
         <seg>Le mot de passe entré ne correspond pas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>The passwords do not match.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230313T163142Z" creationid="briac" creationdate="20230313T163142Z">
+        <seg>Les mots de passe ne correspondent pas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63631,6 +64002,16 @@ the [Help] menu after starting OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <note>(Anand) two ways [to] work offline</note>
+      <tuv lang="en">
+        <seg>There are two ways work offline:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230313T155703Z" creationid="Anand" creationdate="20230313T155703Z">
+        <seg>Il y a deux manières de travailler hors ligne :</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>There is however considerable scope within the project for users to suggest improvements and influence the course of future development.</seg>
       </tuv>
@@ -64137,6 +64518,15 @@ pas de page...</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130527T134656Z">
         <seg>Ils apparaîtront en segments séparés dans la traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>They will be restored the next time the project is synchronized.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230313T155325Z" creationid="Anand" creationdate="20230313T155325Z">
+        <seg>Ils seront restaurés lors de la prochaine synchronisation du projet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64845,6 +65235,15 @@ under the terms of this General Public License.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130424T080911Z">
         <seg>Ce fichier existe toujours dans le projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>This file defines the following parameters:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230313T145712Z" creationid="Anand" creationdate="20230313T145712Z">
+        <seg>Ce fichier définit les paramètres suivants :</seg>
       </tuv>
     </tu>
     <tu>
@@ -65780,6 +66179,15 @@ be a consequence of the rest of this License.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130527T135639Z">
         <seg>À l'origine, ce sous-dossier est vide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>This task is normally performed by the project administrator.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230313T155405Z" creationid="Anand" creationdate="20230313T155405Z">
+        <seg>Cette tâche est normalement effectuée par l'administrateur du projet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69697,6 +70105,15 @@ la configuration actuelle est de {0} Mo ;</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Use &amp;TAB to advance</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230313T163202Z" creationid="briac" creationdate="20230313T163202Z">
+        <seg>Utiliser &amp;TAB pour valider</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Use &amp;XML for standalone tags (e.g., &lt;i/&gt;)</seg>
       </tuv>
@@ -69710,6 +70127,15 @@ la configuration actuelle est de {0} Mo ;</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20161229T163926Z" creationid="Didier" creationdate="20161229T163926Z">
         <seg>Utiliser des correspondances &amp;partielles pour les entrées de dictionnaire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Use &amp;stemming</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230313T163241Z" creationid="briac" creationdate="20230313T163241Z">
+        <seg>Utilisez la lemmati&amp;sation</seg>
       </tuv>
     </tu>
     <tu>
@@ -74307,6 +74733,15 @@ installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="fr" changeid="briglegrand" changedate="20110113T210701Z">
         <seg>que vous pouvez choisir de modifier, d'ajouter ou d'ignorer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>You can open a team project and work on it offline.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230313T155436Z" creationid="Anand" creationdate="20230313T155436Z">
+        <seg>Vous pouvez ouvrir un projet en équipe et travailler dessus hors ligne.</seg>
       </tuv>
     </tu>
     <tu>
