@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_02bf26211" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_unknown" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -395,7 +395,6 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>${file-source-encoding}</seg>
       </tuv>
@@ -404,7 +403,6 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>${file-target-encoding}</seg>
       </tuv>
@@ -509,7 +507,6 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>${system-host-name}</seg>
       </tuv>
@@ -518,7 +515,6 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>${system-os-name}</seg>
       </tuv>
@@ -527,7 +523,6 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>${system-user-name}</seg>
       </tuv>
@@ -536,7 +531,6 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>${targetCountryCode}</seg>
       </tuv>
@@ -545,7 +539,6 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>${targetLanguageCode}</seg>
       </tuv>
@@ -562,7 +555,6 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>${targetLocaleLCID}</seg>
       </tuv>
@@ -587,7 +579,6 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>${timestamp-????}</seg>
       </tuv>
@@ -668,7 +659,6 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&amp;Allow local post-processing commands</seg>
       </tuv>
@@ -717,7 +707,6 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&amp;Always confirm quit</seg>
       </tuv>
@@ -1390,7 +1379,6 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&amp;Ignore matches with very different case (e.g. FOO vs foo)</seg>
       </tuv>
@@ -1511,7 +1499,6 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&amp;Layout:</seg>
       </tuv>
@@ -2536,7 +2523,6 @@ Le caractère « ? » correspond à un seul caractère. La recherche sur « m
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>(?!u)</seg>
       </tuv>
@@ -2545,7 +2531,6 @@ Le caractère « ? » correspond à un seul caractère. La recherche sur « m
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>(?-i)</seg>
       </tuv>
@@ -2554,7 +2539,6 @@ Le caractère « ? » correspond à un seul caractère. La recherche sur « m
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>(?&lt;!q)</seg>
       </tuv>
@@ -2563,7 +2547,6 @@ Le caractère « ? » correspond à un seul caractère. La recherche sur « m
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>(?&lt;=q)</seg>
       </tuv>
@@ -2572,7 +2555,6 @@ Le caractère « ? » correspond à un seul caractère. La recherche sur « m
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>(?=u)</seg>
       </tuv>
@@ -2784,7 +2766,6 @@ your programs, too.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>(You can still add it, but it will have no effect on the expression or the result.)</seg>
       </tuv>
@@ -2813,7 +2794,6 @@ your programs, too.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>(\b\w+\b)\h\1\b</seg>
       </tuv>
@@ -4764,7 +4744,6 @@ Valider les balises.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>1)</seg>
       </tuv>
@@ -4830,7 +4809,6 @@ Valider les balises.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>2)</seg>
       </tuv>
@@ -4883,7 +4861,6 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>3)</seg>
       </tuv>
@@ -6022,7 +5999,6 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;e0&gt;Basic project configuration:&lt;/e0&gt; Source and languages, tokenizers, and the project folder hierarchy.</seg>
       </tuv>
@@ -6039,7 +6015,6 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;e0&gt;Caution:&lt;/e0&gt; Although the last two codes above are not matched completely, the expression will return the “&lt;e1&gt;1472/698&lt;/e1&gt;” portion of “1472/6985”, as well as the “&lt;e2&gt;5133/157&lt;/e2&gt;” of “95133/15746”.</seg>
       </tuv>
@@ -6449,7 +6424,6 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;e0&gt;Not&lt;/e0&gt; a word boundary</seg>
       </tuv>
@@ -6514,7 +6488,6 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;e0&gt;Paragraph segmentation&lt;/e0&gt; works well with more literary or creative texts, as well as, more generally, with documents for which translation memory matches are not so important.</seg>
       </tuv>
@@ -6651,7 +6624,6 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;e0&gt;Sentence segmentation&lt;/e0&gt; relies on a number of rules (called &lt;e1&gt;segmentation rules&lt;/e1&gt;) that define what constitutes a sentence in the source language.</seg>
       </tuv>
@@ -7452,7 +7424,6 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;html&gt;&lt;i&gt;Preferences&lt;/i&gt; &amp;gt; &lt;i&gt;General&lt;/i&gt; &amp;gt; &lt;i&gt;Use TAB to advance&lt;/i&gt; is checked&lt;/html&gt;</seg>
       </tuv>
@@ -7461,7 +7432,6 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;html&gt;Add patterns using wildcards (Apache Ant format): &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;?&lt;/code&gt;, &lt;code&gt;**&lt;/code&gt;&lt;br&gt;Example: &lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
       </tuv>
@@ -8094,7 +8064,6 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;l0&gt;${extension-0}&lt;/l0&gt;: &lt;f1&gt;docx&lt;/f1&gt;</seg>
       </tuv>
@@ -8111,7 +8080,6 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;l0&gt;${extension-1}&lt;/l0&gt;: &lt;f1&gt;xx.docx&lt;/f1&gt;</seg>
       </tuv>
@@ -8128,7 +8096,6 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;l0&gt;${extension-2}&lt;/l0&gt;: &lt;f1&gt;Document.xx.docx&lt;/f1&gt;</seg>
       </tuv>
@@ -8169,7 +8136,6 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;l0&gt;${nameOnly-0}&lt;/l0&gt;: &lt;f1&gt;Document&lt;/f1&gt;</seg>
       </tuv>
@@ -8186,7 +8152,6 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;l0&gt;${nameOnly-1}&lt;/l0&gt;: &lt;f1&gt;Document.xx&lt;/f1&gt;</seg>
       </tuv>
@@ -8203,7 +8168,6 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;l0&gt;${nameOnly-2}&lt;/l0&gt;: &lt;f1&gt;Document.xx.docx&lt;/f1&gt;</seg>
       </tuv>
@@ -8516,7 +8480,6 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;l0&gt;\H &lt;/l0&gt; is any character that is &lt;e1&gt;not&lt;/e1&gt; a horizontal white space, and &lt;l2&gt;\V&lt;/l2&gt; any character that is &lt;e3&gt;not&lt;/e3&gt; a vertical white space (&lt;l4&gt;[^\h]&lt;/l4&gt; and &lt;l5&gt;[^\v]&lt;/l5&gt;, respectively).</seg>
       </tuv>
@@ -8525,7 +8488,6 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;l0&gt;\P{InGreek}&lt;/l0&gt; is any character that is &lt;e1&gt;not&lt;/e1&gt; in the Greek block.</seg>
       </tuv>
@@ -8534,7 +8496,6 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;l0&gt;\S&lt;/l0&gt; is any character that is &lt;e1&gt;not&lt;/e1&gt; a whitespace character (&lt;l2&gt;[^\s]&lt;/l2&gt;).</seg>
       </tuv>
@@ -8543,7 +8504,6 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;l0&gt;\W&lt;/l0&gt; is any character that is &lt;e1&gt;not&lt;/e1&gt; a word character (&lt;l2&gt;[^\w]&lt;/l2&gt;).</seg>
       </tuv>
@@ -8552,7 +8512,6 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;l0&gt;\h&lt;/l0&gt; and &lt;l1&gt;\v&lt;/l1&gt;</seg>
       </tuv>
@@ -11279,7 +11238,6 @@ work thus licensed is called the contributor's "contributor version".</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>A character followed by a “u”.</seg>
       </tuv>
@@ -11288,7 +11246,6 @@ work thus licensed is called the contributor's "contributor version".</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>A character in the Greek block (&lt;u0&gt;Unicode block&lt;/u0&gt;)</seg>
       </tuv>
@@ -11305,7 +11262,6 @@ work thus licensed is called the contributor's "contributor version".</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>A character in the range of letters from “C” through “X”.</seg>
       </tuv>
@@ -11314,7 +11270,6 @@ work thus licensed is called the contributor's "contributor version".</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>A character preceded by the letter “q”.</seg>
       </tuv>
@@ -11323,7 +11278,6 @@ work thus licensed is called the contributor's "contributor version".</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>A character that is &lt;e0&gt;not&lt;/e0&gt; followed by the letter “u”.</seg>
       </tuv>
@@ -11332,7 +11286,6 @@ work thus licensed is called the contributor's "contributor version".</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>A character that is &lt;e0&gt;not&lt;/e0&gt; preceded by the letter “q”.</seg>
       </tuv>
@@ -11421,7 +11374,6 @@ this License.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>A currency symbol, which is also a &lt;u0&gt;Unicode category&lt;/u0&gt;.</seg>
       </tuv>
@@ -11470,7 +11422,6 @@ this License.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>A few examples are presented in the table below.</seg>
       </tuv>
@@ -11543,7 +11494,6 @@ this License.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>A hyphen placed outside the series is just a hyphen: &lt;l1&gt;[a-z-]&lt;/l1&gt; means any lowercase character from “a” to “z”, or the hyphen character itself.</seg>
       </tuv>
@@ -11592,7 +11542,6 @@ this License.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>A logogram (&lt;e0&gt;Han&lt;/e0&gt;/&lt;e1&gt;kanji&lt;/e1&gt;/&lt;e2&gt;hanja&lt;/e2&gt; character) found in CJK languages (&lt;u3&gt;Unicode script&lt;/u3&gt;)</seg>
       </tuv>
@@ -11718,7 +11667,6 @@ or that patent license was granted, prior to 28 March 2007.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>A period followed by a whitespace</seg>
       </tuv>
@@ -11743,7 +11691,6 @@ or that patent license was granted, prior to 28 March 2007.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>A range is defined by the first character in a series, followed by a hyphen, followed by last character in the series.</seg>
       </tuv>
@@ -11800,7 +11747,6 @@ or that patent license was granted, prior to 28 March 2007.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>A simple class consists of any number of characters enclosed by &lt;l0&gt;[&lt;/l0&gt; and &lt;l1&gt;]&lt;/l1&gt;.</seg>
       </tuv>
@@ -11929,7 +11875,6 @@ or that patent license was granted, prior to 28 March 2007.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>A whitespace character, including the space and tab characters, as well as line breaks.</seg>
       </tuv>
@@ -11954,7 +11899,6 @@ or that patent license was granted, prior to 28 March 2007.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>A word character, generally defined as &lt;l0&gt;[A-Za-z0-9_]&lt;/l0&gt;.</seg>
       </tuv>
@@ -12051,7 +11995,6 @@ or that patent license was granted, prior to 28 March 2007.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>API key</seg>
       </tuv>
@@ -12164,7 +12107,6 @@ or that patent license was granted, prior to 28 March 2007.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Absolutely none of your data (history, etc.) is &lt;e0&gt;ever&lt;/e0&gt; sent to an external server by OmegaT for processing.</seg>
       </tuv>
@@ -12575,7 +12517,6 @@ covered by this License; they are outside its scope.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Add to Dictionary: “{0}”</seg>
       </tuv>
@@ -12648,7 +12589,6 @@ covered by this License; they are outside its scope.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Additional layouts can be added as plugins.</seg>
       </tuv>
@@ -12678,7 +12618,6 @@ this License without regard to the additional permissions.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Additional themes can be added as plugins.</seg>
       </tuv>
@@ -12687,7 +12626,6 @@ this License without regard to the additional permissions.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Additional variants are available for &lt;l0&gt;${nameOnly}&lt;/l0&gt; and &lt;l1&gt;${extension}&lt;/l1&gt;.</seg>
       </tuv>
@@ -12832,7 +12770,6 @@ this License without regard to the additional permissions.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>After dividing the source file into structural units, OmegaT further divides those units into segments.</seg>
       </tuv>
@@ -12929,7 +12866,6 @@ this License without regard to the additional permissions.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>After the project is downloaded, it is installed locally and only needs to be opened locally to synchronize with the server.</seg>
       </tuv>
@@ -12954,7 +12890,6 @@ this License without regard to the additional permissions.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>After you generate the target files use &lt;l0/&gt;&lt;l1/&gt; to add them to the server, if the project administrator has requested you to do so.</seg>
       </tuv>
@@ -13188,7 +13123,6 @@ this License without regard to the additional permissions.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>All changes will be synchronized the next time a connection is available.</seg>
       </tuv>
@@ -13285,7 +13219,6 @@ not survive such relicensing or conveying.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>All prediction/completion results are computed locally.</seg>
       </tuv>
@@ -13316,7 +13249,6 @@ rights of fair use or other equivalent, as provided by copyright law.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>All segmentation rule sets for a matching language pattern are active and are applied in order.</seg>
       </tuv>
@@ -13429,7 +13361,6 @@ rights of fair use or other equivalent, as provided by copyright law.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Allow local external search commands</seg>
       </tuv>
@@ -13632,7 +13563,6 @@ software.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Alternative</seg>
       </tuv>
@@ -13786,7 +13716,6 @@ the predecessor has it or can get it with reasonable efforts.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>An &lt;e1&gt;FR-FR&lt;/e1&gt; dictionary will not spellcheck &lt;e2&gt;FR&lt;/e2&gt; target segments.</seg>
       </tuv>
@@ -13835,7 +13764,6 @@ the predecessor has it or can get it with reasonable efforts.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>An empty line will appear at the bottom of the table.</seg>
       </tuv>
@@ -14123,7 +14051,6 @@ menu, a prominent item in the list meets this criterion.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>An item with the name "{0}" already exists at this location.</seg>
       </tuv>
@@ -14132,7 +14059,6 @@ menu, a prominent item in the list meets this criterion.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>An uppercase letter (&lt;u0&gt;Unicode category&lt;/u0&gt;)</seg>
       </tuv>
@@ -14297,7 +14223,6 @@ void, and will automatically terminate your rights under this License.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Any character &lt;e0&gt;except&lt;/e0&gt; a newline, a carriage return, or tab.</seg>
       </tuv>
@@ -14362,7 +14287,6 @@ void, and will automatically terminate your rights under this License.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Any number of ranges can be defined: &lt;l0&gt;[a-zA-Z0-9]&lt;/l0&gt; means any lowercase character from “a” to “z”, or any uppercase character from “A” to “Z”, or any digit from “0” to “9”.</seg>
       </tuv>
@@ -14451,7 +14375,6 @@ void, and will automatically terminate your rights under this License.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Apples</seg>
       </tuv>
@@ -14508,7 +14431,6 @@ void, and will automatically terminate your rights under this License.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Apply a different font size to the dictionaries pane</seg>
       </tuv>
@@ -14517,7 +14439,6 @@ void, and will automatically terminate your rights under this License.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Apply this font to tabular data (project files, statistics, etc.)</seg>
       </tuv>
@@ -14662,7 +14583,6 @@ void, and will automatically terminate your rights under this License.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>As a reminder, rules work the following way: when a rule matches, OmegaT puts a marker at the match location so that rules that come after ignore that location.</seg>
       </tuv>
@@ -14723,7 +14643,6 @@ provoquer des comportements inattendus, mais corrects.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>(Anand) contents [of the] omegat.project file</note>
       <tuv lang="en">
         <seg>As in regular local projects, the configuration of the team project is defined by the contents &lt;f0&gt;omegat.project&lt;/f0&gt; file and the optional use of special files for project-specific filters or segmentation rules.</seg>
@@ -15237,7 +15156,6 @@ provoquer des comportements inattendus, mais corrects.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Autocompleter</seg>
       </tuv>
@@ -15254,7 +15172,6 @@ provoquer des comportements inattendus, mais corrects.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Automatic dark theme detection is available on Linux systems with the Gnome/GTK look and feel for users who run OmegaT on OpenJDK.</seg>
       </tuv>
@@ -15336,7 +15253,6 @@ provoquer des comportements inattendus, mais corrects.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Available languages</seg>
       </tuv>
@@ -15846,7 +15762,6 @@ documentation.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Break rule, box checked, lower in the list</seg>
       </tuv>
@@ -15863,7 +15778,6 @@ documentation.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Breaks</seg>
       </tuv>
@@ -16339,7 +16253,6 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>By default, segmentation settings are global and shared by all projects.</seg>
       </tuv>
@@ -16372,7 +16285,6 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>By default, the dictionaries pane uses the same font size as the main window panes.</seg>
       </tuv>
@@ -16517,7 +16429,6 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>CONTEXT_MENU</seg>
       </tuv>
@@ -16694,7 +16605,6 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Cascading priorities</seg>
       </tuv>
@@ -16703,7 +16613,6 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Case</seg>
       </tuv>
@@ -16720,7 +16629,6 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Category</seg>
       </tuv>
@@ -16801,7 +16709,6 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Change the name of the rule set and the language pattern to the desired label and corresponding pattern.</seg>
       </tuv>
@@ -16963,7 +16870,6 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Characters</seg>
       </tuv>
@@ -17004,7 +16910,6 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Characters that are not supported will appear as squares.</seg>
       </tuv>
@@ -17493,7 +17398,6 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Check the tag issues again.</seg>
       </tuv>
@@ -17574,7 +17478,6 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Check whether your repository has correct commits and files.</seg>
       </tuv>
@@ -17759,7 +17662,6 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Classes</seg>
       </tuv>
@@ -17768,7 +17670,6 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Classes are defined by enclosing the desired characters in square brackets, and can be specified either by listing each individual character to include, or by specifying a range of characters.</seg>
       </tuv>
@@ -17865,7 +17766,6 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Click &lt;g0&gt;Add&lt;/g0&gt;.</seg>
       </tuv>
@@ -17946,7 +17846,6 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Click on &lt;g0&gt;Autotext&lt;/g0&gt; to configure the Autotext options, and to add or remove entries.</seg>
       </tuv>
@@ -17963,7 +17862,6 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Click on &lt;g0&gt;Character Table&lt;/g0&gt; to set the Character table auto-completer options.</seg>
       </tuv>
@@ -17972,7 +17870,6 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Click on &lt;g0&gt;Enable history completion&lt;/g0&gt; or &lt;g1&gt;Enable history prediction&lt;/g1&gt; to set history based completions.</seg>
       </tuv>
@@ -17989,7 +17886,6 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Click on &lt;g0&gt;Glossary&lt;/g0&gt; to configure the auto-completer glossary view.</seg>
       </tuv>
@@ -18222,7 +18118,6 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Close Autocompleter</seg>
       </tuv>
@@ -18445,7 +18340,6 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (dévelo
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Codes such as “123/45”, “1472/6985”, or “95133/15746”.</seg>
       </tuv>
@@ -18454,7 +18348,6 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (dévelo
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Codes such as “1234/5”, “1472/69”, or “9513/842” consisting of four digits, a forward slash, and one to three more digits.</seg>
       </tuv>
@@ -18789,7 +18682,6 @@ kolekti -b C:\[...]\trunk\doc_src2 publish [-j JOB] -l fr,en C:\[...]\trunk\doc_
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Compatibility with OmegaT 2.6</seg>
       </tuv>
@@ -18886,7 +18778,6 @@ kolekti -b C:\[...]\trunk\doc_src2 publish [-j JOB] -l fr,en C:\[...]\trunk\doc_
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Confirm Autocompleter Without Closing</seg>
       </tuv>
@@ -18895,7 +18786,6 @@ kolekti -b C:\[...]\trunk\doc_src2 publish [-j JOB] -l fr,en C:\[...]\trunk\doc_
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Confirm and Close Autocompleter</seg>
       </tuv>
@@ -19138,7 +19028,6 @@ a description of how this error was produced.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Consult the sites in the &lt;l0/&gt; section for more information.</seg>
       </tuv>
@@ -19171,7 +19060,6 @@ a description of how this error was produced.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Contact your project administrator to find out if any
 additional steps need to be taken.</seg>
@@ -19238,7 +19126,6 @@ des étapes supplémentaires sont nécessaires.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Context Menu Priority</seg>
       </tuv>
@@ -19377,7 +19264,6 @@ des étapes supplémentaires sont nécessaires.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Conversion to the new team project format cannot be performed in console mode.</seg>
       </tuv>
@@ -20248,7 +20134,6 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Creation of new team project cancelled</seg>
       </tuv>
@@ -21019,7 +20904,6 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>DOWN</seg>
       </tuv>
@@ -21220,7 +21104,6 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Delete Next Token</seg>
       </tuv>
@@ -21229,7 +21112,6 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Delete Previous Token</seg>
       </tuv>
@@ -21270,7 +21152,6 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Deleting files</seg>
       </tuv>
@@ -21343,7 +21224,6 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Depending on your internet connection it may take a while before the dictionary is installed.</seg>
       </tuv>
@@ -21850,7 +21730,6 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Disconnect from the network before opening the project.</seg>
       </tuv>
@@ -21971,7 +21850,6 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Display TBX &amp;glossaries context description</seg>
       </tuv>
@@ -21980,7 +21858,6 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Display TBX glossaries context description (TBX 2)</seg>
       </tuv>
@@ -22222,7 +22099,6 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Displays the list of available dictionaries from the above URL.</seg>
       </tuv>
@@ -22359,7 +22235,6 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Do not segment after Ms.</seg>
       </tuv>
@@ -22616,7 +22491,6 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Doing so makes the entire search expression case sensitive.</seg>
       </tuv>
@@ -22745,7 +22619,6 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Double-check and try again.</seg>
       </tuv>
@@ -22754,7 +22627,6 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Double-check it and try again.</seg>
       </tuv>
@@ -22819,7 +22691,6 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Doubled up words separated by a space, such as the consecutive “an” in the following sentence:</seg>
       </tuv>
@@ -23056,7 +22927,6 @@ Ajouter C:\Program Files (x86)\Prince\Engine\bin dans le Path.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Downloading the project</seg>
       </tuv>
@@ -23196,7 +23066,6 @@ project_save.tmx n'a pas réellement été envoyé sur le serveur et l'état de 
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>During synchronization, all other local files are overwritten with the versions on the remote server, exept for &lt;f0&gt;omegat.project&lt;/f0&gt; (see below).</seg>
       </tuv>
@@ -23342,7 +23211,6 @@ several security warnings.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>END</seg>
       </tuv>
@@ -23351,7 +23219,6 @@ several security warnings.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>ENTER</seg>
       </tuv>
@@ -23384,7 +23251,6 @@ several security warnings.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>ESCAPE</seg>
       </tuv>
@@ -23445,7 +23311,6 @@ MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Each time the cursor moves to the next character, OmegaT checks whether:</seg>
       </tuv>
@@ -23739,7 +23604,6 @@ by the Free Software Foundation.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Editor functions</seg>
       </tuv>
@@ -23903,7 +23767,6 @@ pas de page...</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Enable after installing a spellchecking dictionary.</seg>
       </tuv>
@@ -24009,7 +23872,6 @@ pas de page...</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Enable this option if you need to work with XLIFF files created with OmegaT 2.6.</seg>
       </tuv>
@@ -24138,7 +24000,6 @@ pas de page...</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Engine</seg>
       </tuv>
@@ -24287,7 +24148,6 @@ où xx est un code langue générique et YY un code optionnel de pays/région.</
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Enter the URL provided by the team project administrator in the &lt;g0&gt;Repository URL:&lt;/g0&gt; field at the top of the dialog, and specify a folder for the project in the &lt;g1&gt;New Local Project Folder:&lt;/g1&gt; field.</seg>
       </tuv>
@@ -24336,7 +24196,6 @@ où xx est un code langue générique et YY un code optionnel de pays/région.</
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Enter username/password for {0}</seg>
       </tuv>
@@ -24362,7 +24221,6 @@ où xx est un code langue générique et YY un code optionnel de pays/région.</
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Enter your password again for confirmation.</seg>
       </tuv>
@@ -24590,7 +24448,6 @@ personne ne vous entend pleurer...</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Error retrieving {0} as remote project file</seg>
       </tuv>
@@ -24687,7 +24544,6 @@ personne ne vous entend pleurer...</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Error while loading the source files.</seg>
       </tuv>
@@ -24986,7 +24842,6 @@ The FSF strongly urges you not to use this translation as the official distribu-
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Examples of classes</seg>
       </tuv>
@@ -25003,7 +24858,6 @@ The FSF strongly urges you not to use this translation as the official distribu-
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Excel cells with lines breaks that do not represent segments</seg>
       </tuv>
@@ -25060,7 +24914,6 @@ The FSF strongly urges you not to use this translation as the official distribu-
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Exception rule, box unchecked, higher in the list</seg>
       </tuv>
@@ -25069,7 +24922,6 @@ The FSF strongly urges you not to use this translation as the official distribu-
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Exception rules should be listed &lt;e0&gt;above&lt;/e0&gt; break rules.</seg>
       </tuv>
@@ -25094,7 +24946,6 @@ The FSF strongly urges you not to use this translation as the official distribu-
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Exceptions</seg>
       </tuv>
@@ -25250,7 +25101,6 @@ dommage...</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Explanation</seg>
       </tuv>
@@ -25355,7 +25205,6 @@ dommage...</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Expression</seg>
       </tuv>
@@ -25364,7 +25213,6 @@ dommage...</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Expressions that mark a position</seg>
       </tuv>
@@ -25517,7 +25365,6 @@ dommage...</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>External searches are either web searches or local commands that take the string selected in the Editor as a parameter.</seg>
       </tuv>
@@ -25598,7 +25445,6 @@ dommage...</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>F2</seg>
       </tuv>
@@ -25607,7 +25453,6 @@ dommage...</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>F3</seg>
       </tuv>
@@ -26057,7 +25902,6 @@ dommage...</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>(Anand) divide = segmenter ou garder diviser?
 (sirine) je pense qu'on peut laisser "divisés", ça évitera la répétition de "segmenter"/"segmentation"</note>
       <tuv lang="en">
@@ -26076,7 +25920,6 @@ dommage...</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Files in a team project cannot be deleted from OmegaT or the local file system.</seg>
       </tuv>
@@ -26391,7 +26234,6 @@ patents.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Follow these steps:</seg>
       </tuv>
@@ -26515,7 +26357,6 @@ Tutorial.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>For a source file named Document.xx.docx, using the variable variants below will produce the following results:</seg>
       </tuv>
@@ -26524,7 +26365,6 @@ Tutorial.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>For a translation from Japanese, &lt;e0&gt;only&lt;/e0&gt; the rule set associated to the &lt;c1&gt;JA.*&lt;/c1&gt; pattern and the generic rule sets associated to the &lt;c2&gt;.*&lt;/c2&gt; will be taken into account.</seg>
       </tuv>
@@ -26568,7 +26408,6 @@ control compilation and installation of the executable.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>For best results, install the appropriate dictionaries via Preferences &gt; Spellchecker.</seg>
       </tuv>
@@ -26644,7 +26483,6 @@ authors of previous versions.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>For example, &lt;e0&gt;Mrs. Dalloway&lt;/e0&gt; should not be split in two segments even though a break rule for &lt;e1&gt;period followed by a space&lt;/e1&gt; generally defines a sentence.</seg>
       </tuv>
@@ -26677,7 +26515,6 @@ authors of previous versions.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>For example, &lt;e0&gt;period followed by a space&lt;/e0&gt; generally defines a sentence end in English.</seg>
       </tuv>
@@ -26711,7 +26548,6 @@ Par exemple, &lt;e0&gt;point suivi d'un espace&lt;/e0&gt; définit généralemen
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>For example, &lt;l0&gt;(?&lt;!q)u&lt;/l0&gt; matches the letter “u” if it does &lt;e1&gt;not&lt;/e1&gt; come after “q”.</seg>
       </tuv>
@@ -26720,7 +26556,6 @@ Par exemple, &lt;e0&gt;point suivi d'un espace&lt;/e0&gt; définit généralemen
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>For example, &lt;l0&gt;(?&lt;=q)u&lt;/l0&gt; matches the letter “u” if it comes after “q”.</seg>
       </tuv>
@@ -26745,7 +26580,6 @@ Par exemple, &lt;e0&gt;point suivi d'un espace&lt;/e0&gt; définit généralemen
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>For example, &lt;l0&gt;\d&lt;/l0&gt; is a shorthand for &lt;l1&gt;[0-9]&lt;/l1&gt;, which matches any digit between 0 and 9.</seg>
       </tuv>
@@ -26754,7 +26588,6 @@ Par exemple, &lt;e0&gt;point suivi d'un espace&lt;/e0&gt; définit généralemen
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>For example, &lt;l0&gt;q(?!u)&lt;/l0&gt; matches the letter “q” when it is &lt;e1&gt;not&lt;/e1&gt; followed by a “u”.</seg>
       </tuv>
@@ -26763,7 +26596,6 @@ Par exemple, &lt;e0&gt;point suivi d'un espace&lt;/e0&gt; définit généralemen
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>For example, &lt;l0&gt;q(?=u)&lt;/l0&gt; matches the letter “q” when it is followed by a “u”.</seg>
       </tuv>
@@ -26936,7 +26768,6 @@ know their rights.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>For example, many hosting services support access to the same repository using either the SSH +Git or https protocol.</seg>
       </tuv>
@@ -26953,7 +26784,6 @@ know their rights.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>For example, text files may be segmented on line breaks, empty lines, or not at all.</seg>
       </tuv>
@@ -27042,7 +26872,6 @@ know their rights.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>For example, you could create the &lt;l0&gt;[£€$]&lt;/l0&gt; class to find any of those three currency symbols in the text, or [1-3] to find the number 1, 2 or 3.</seg>
       </tuv>
@@ -27263,7 +27092,6 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>For security reasons, &lt;l0&gt;local external searches&lt;/l0&gt; are disabled by default.</seg>
       </tuv>
@@ -27647,7 +27475,6 @@ authors of previous versions.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>From a URL</seg>
       </tuv>
@@ -27664,7 +27491,6 @@ authors of previous versions.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>From an &lt;f0&gt;omegat.project&lt;/f0&gt; file</seg>
       </tuv>
@@ -27777,7 +27603,6 @@ authors of previous versions.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Function</seg>
       </tuv>
@@ -28125,7 +27950,6 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Global External Searches</seg>
       </tuv>
@@ -28150,7 +27974,6 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Global Segmentation Rules</seg>
       </tuv>
@@ -28159,7 +27982,6 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Global or local?</seg>
       </tuv>
@@ -28168,7 +27990,6 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Global post-processing commands</seg>
       </tuv>
@@ -28497,7 +28318,6 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Go Down One Page</seg>
       </tuv>
@@ -28506,7 +28326,6 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Go Down One Page in Table</seg>
       </tuv>
@@ -28515,7 +28334,6 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Go Down The List</seg>
       </tuv>
@@ -28524,7 +28342,6 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Go Down in Table</seg>
       </tuv>
@@ -28533,7 +28350,6 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Go Left in Table</seg>
       </tuv>
@@ -28542,7 +28358,6 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Go Right in Table</seg>
       </tuv>
@@ -28591,7 +28406,6 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Go Up One Page</seg>
       </tuv>
@@ -28600,7 +28414,6 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Go Up One Page in Table</seg>
       </tuv>
@@ -28609,7 +28422,6 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Go Up The List</seg>
       </tuv>
@@ -28618,7 +28430,6 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Go Up in Table</seg>
       </tuv>
@@ -28635,7 +28446,6 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Go to First Row in Table</seg>
       </tuv>
@@ -28644,7 +28454,6 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Go to First Segment</seg>
       </tuv>
@@ -28653,7 +28462,6 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Go to First Table</seg>
       </tuv>
@@ -28662,7 +28470,6 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Go to Last Row in Table</seg>
       </tuv>
@@ -28671,7 +28478,6 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Go to Last Segment</seg>
       </tuv>
@@ -28680,7 +28486,6 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Go to Last Table</seg>
       </tuv>
@@ -28689,7 +28494,6 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Go to Next Segment</seg>
       </tuv>
@@ -28698,7 +28502,6 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Go to Next Segment (not TAB)</seg>
       </tuv>
@@ -28715,7 +28518,6 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Go to Previous Segment</seg>
       </tuv>
@@ -28724,7 +28526,6 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Go to Previous Segment (not TAB)</seg>
       </tuv>
@@ -28893,7 +28694,6 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Groups are numbered, and their contents group are stored in memory.</seg>
       </tuv>
@@ -28958,7 +28758,6 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>(Anand) HOME : Touche de début, touche d'origine</note>
       <tuv lang="en">
         <seg>HOME</seg>
@@ -29120,7 +28919,6 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Having untranslated contents in the translated files sometimes create compatibility issues.</seg>
       </tuv>
@@ -29565,7 +29363,6 @@ a disparu...</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Horizontal and vertical whitespace (generally preferred to &lt;l0&gt;\s&lt;/l0&gt;).</seg>
       </tuv>
@@ -29710,7 +29507,6 @@ parties remain in full compliance.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>However, regular expressions also provide special modifiers to specify case sensitivity within the expression:</seg>
       </tuv>
@@ -30040,7 +29836,6 @@ POSSIBILITY OF SUCH DAMAGES.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>INSERT</seg>
       </tuv>
@@ -30347,7 +30142,6 @@ need not be entered.)</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>If a glossary item has multiple definitions, they will be displayed on the same line.</seg>
       </tuv>
@@ -30781,7 +30575,6 @@ tous les paramètres reprendront leur valeur par défaut,
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>If local file filters are used, modifying global file filters will have no effect on the project.</seg>
       </tuv>
@@ -30798,7 +30591,6 @@ tous les paramètres reprendront leur valeur par défaut,
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>If necessary, modify the name of the dictionary or change your project’s language settings.</seg>
       </tuv>
@@ -30823,7 +30615,6 @@ tous les paramètres reprendront leur valeur par défaut,
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>(Anand) Revoir la trad/définition de Mapping</note>
       <tuv lang="en">
         <seg>If no custom mappings have been defined for the remote project, but local mappings have been customized, the local settings are preserved without affecting the settings on the server.</seg>
@@ -30873,7 +30664,6 @@ tous les paramètres reprendront leur valeur par défaut,
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>If none are displayed it either means that you have not yet installed a spelling dictionary, or that your project uses a specific configuration folder that does not contain yet a spelling dictionary.</seg>
       </tuv>
@@ -31050,7 +30840,6 @@ tous les paramètres reprendront leur valeur par défaut,
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>If the &lt;g0&gt;Show Relevant Suggestions Automatically&lt;/g0&gt; option is checked, typing the first letter of a translated glossary entry, or &lt;l1&gt;&lt;&lt;/l1&gt; for a tag, automatically launches the auto-completer.</seg>
       </tuv>
@@ -31246,7 +31035,6 @@ countries not thus excluded.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>If the location matches both rules, it is considered either as a break, or as a non-break, depending on what the rule defined.</seg>
       </tuv>
@@ -31345,7 +31133,6 @@ when it starts in an interactive mode:</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>If the remote project contains custom mappings, but the local project does not, the mappings from the server are applied to the local project.</seg>
       </tuv>
@@ -31354,7 +31141,6 @@ when it starts in an interactive mode:</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>If the remote project specifies a URL protocol and you download it using a different protocol, your local configuration will be preserved.</seg>
       </tuv>
@@ -31371,7 +31157,6 @@ when it starts in an interactive mode:</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>If the server relies on username/password authentication, OmegaT will present you with an &lt;g0&gt;Authentication&lt;/g0&gt; dialog to enter your username and password either when you first download the project or later on in the process.</seg>
       </tuv>
@@ -31380,7 +31165,6 @@ when it starts in an interactive mode:</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>If the server uses SSH authentication, make sure you update your SSH configuration to include that server before attempting to download the project, otherwise you will get an authentication error and the project will fail to load.</seg>
       </tuv>
@@ -31512,7 +31296,6 @@ authors' reputations.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>(Anand) of the omegat.project [file]</note>
       <tuv lang="en">
         <seg>If there is a conflict between the remote and local versions of the &lt;f0&gt;omegat.project&lt;/f0&gt; and the local version is overwritten, OmegaT creates a backup file called &lt;f1&gt;omegat.project.YYYYMMDDhhmm.bak&lt;/f1&gt;.</seg>
@@ -31984,7 +31767,6 @@ may not distribute the Program at all.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>(sirine) "...afin que celle-ci soit prise en compte." pour éviter la répétition de "segmentation" ?</note>
       <tuv lang="en">
         <seg>If you change the segmentation while translating, you will have to reload the project for the new segmentation to take effect.</seg>
@@ -32148,7 +31930,6 @@ free software which everyone can redistribute and change under these terms.</seg
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>If you disable this option, machine translations will only be fetched when you use &lt;l0/&gt;&lt;l1/&gt; in the current segment.</seg>
       </tuv>
@@ -32197,7 +31978,6 @@ free software which everyone can redistribute and change under these terms.</seg
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>If you find other interesting references—in any language—the OmegaT team would love to hear about them.</seg>
       </tuv>
@@ -32214,7 +31994,6 @@ free software which everyone can redistribute and change under these terms.</seg
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>If you first download the remote project using an &lt;f0&gt;omegat.project&lt;/f0&gt; file provided by the project administrator, OmegaT will use the mappings in that file, if any.</seg>
       </tuv>
@@ -32362,7 +32141,6 @@ OmegaT is to use Java Web Start.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>If you have set local rules in the &lt;l0/&gt; dialog, modifications here will not be taken into account.</seg>
       </tuv>
@@ -32505,7 +32283,6 @@ OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>If you only want to match the closing brace as itself, you do not need to precede it with a backslash.</seg>
       </tuv>
@@ -32514,7 +32291,6 @@ OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>If you only want to match the closing bracket as itself, you do not need to precede it with a backslash.</seg>
       </tuv>
@@ -32595,7 +32371,6 @@ OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>If you specify such a configuration folder, all modifications made in this dialog will be stored there.</seg>
       </tuv>
@@ -32652,7 +32427,6 @@ OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>If you use local rules, you can still access the global rules, but modifying them will have no effect on your project.</seg>
       </tuv>
@@ -32661,7 +32435,6 @@ OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>If you use multiple projects on the same server, credentials will only be asked once for that server.</seg>
       </tuv>
@@ -32793,7 +32566,6 @@ installation program can create shortcuts to launch OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>If you work in a language pair that uses different writing systems, make sure you choose a font that can display both languages correctly.</seg>
       </tuv>
@@ -33004,7 +32776,6 @@ click on that shortcut.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Ignore matches with very different case (e.g., USER vs user)</seg>
       </tuv>
@@ -33054,7 +32825,6 @@ click on that shortcut.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Ignored paragraphs (regular expression)</seg>
       </tuv>
@@ -33305,7 +33075,6 @@ click on that shortcut.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>In a team project, the basic configuration parameters of the local project are always overridden by the configuration on the server originally set by the project administrator.</seg>
       </tuv>
@@ -33501,7 +33270,6 @@ the scope of this License.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>In contrast, Regular expressions are case sensitive by default.</seg>
       </tuv>
@@ -33534,7 +33302,6 @@ the scope of this License.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>In many cases, the corresponding uppercase later is used to negate the class: &lt;l2&gt;\D&lt;/l2&gt; matches any character that is &lt;e3&gt;not&lt;/e3&gt; a digit.</seg>
       </tuv>
@@ -33800,7 +33567,6 @@ the limitation as if written in the body of this License.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>In that case, each paragraph (as defined in the original document format) is displayed as a single segment, and the translator is free to reorganize the sentences within the segment in the translation.</seg>
       </tuv>
@@ -33990,7 +33756,6 @@ patent against the party.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>In the list of machine translation available in OmegaT, check the &lt;g0&gt;Enabled&lt;/g0&gt; box for each provider you want to access.</seg>
       </tuv>
@@ -34303,7 +34068,6 @@ patent against the party.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Incorrect password.</seg>
       </tuv>
@@ -34312,7 +34076,6 @@ patent against the party.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Index entries, bookmarks, bookmark references, notes, comments, presentation notes, links (URL), and sheet names.</seg>
       </tuv>
@@ -34497,7 +34260,6 @@ patent against the party.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Insert Linebreak</seg>
       </tuv>
@@ -34756,7 +34518,6 @@ patent against the party.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Inside a class, only the backslash (&lt;l0&gt;\&lt;/l0&gt;), caret (&lt;l1&gt;^&lt;/l1&gt;), closing bracket (&lt;l2&gt;]&lt;/l2&gt;) and hyphen (&lt;l3&gt;-&lt;/l3&gt;) are special.</seg>
       </tuv>
@@ -34781,7 +34542,6 @@ patent against the party.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Install new language...</seg>
       </tuv>
@@ -35606,7 +35366,6 @@ the user license.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>It is generally in the &lt;l0/&gt; folder.</seg>
       </tuv>
@@ -35683,7 +35442,6 @@ implemented by public license practices.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>It is possible to have OmegaT use a different configuration folder to define project-specific configurations.</seg>
       </tuv>
@@ -35834,7 +35592,6 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>It is special because it can never be used on its own.</seg>
       </tuv>
@@ -35923,7 +35680,6 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>It must be preceded by the &lt;l0&gt;\&lt;/l0&gt; if you need to match the closing parenthesis character itself.</seg>
       </tuv>
@@ -35988,7 +35744,6 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>It therefore matches the “q” in “equal” or “question”, but &lt;e1&gt;not&lt;/e1&gt; the one in “qigong” or “Iraq”.</seg>
       </tuv>
@@ -35997,7 +35752,6 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>It therefore matches the “q” in “qigong” or “Iraq”, but &lt;e2&gt;not&lt;/e2&gt; the one in “equal” or “question”.</seg>
       </tuv>
@@ -36006,7 +35760,6 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>It therefore matches the “u” in “quick”, but not the one in “run”.</seg>
       </tuv>
@@ -36015,7 +35768,6 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>It therefore matches the “u” in “run”, but &lt;e2&gt;not&lt;/e2&gt; the one in “quick”.</seg>
       </tuv>
@@ -36284,7 +36036,6 @@ itself on the first run.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Java 8 requires ISO-8859-1 encoding and uses Unicode literals for characters outside that character set.</seg>
       </tuv>
@@ -36293,7 +36044,6 @@ itself on the first run.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Java 9 and above requires UTF-8 encoding.</seg>
       </tuv>
@@ -36318,7 +36068,6 @@ itself on the first run.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Java Resource bundle</seg>
       </tuv>
@@ -36521,7 +36270,6 @@ itself on the first run.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Jump to Entry in Editor</seg>
       </tuv>
@@ -36642,7 +36390,6 @@ itself on the first run.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Keep Unicode literals (\\uXXXX)</seg>
       </tuv>
@@ -36948,7 +36695,6 @@ itself on the first run.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>LEFT</seg>
       </tuv>
@@ -37045,7 +36791,6 @@ itself on the first run.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Language sets</seg>
       </tuv>
@@ -37515,7 +37260,6 @@ Exécutez OmegaT de la façon suivante.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Layout</seg>
       </tuv>
@@ -37572,7 +37316,6 @@ Exécutez OmegaT de la façon suivante.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Leave the &lt;g2&gt;Default branch&lt;/g2&gt; option checked unless the project administrator has provided instructions for using a custom branch.</seg>
       </tuv>
@@ -37823,7 +37566,6 @@ Exécutez OmegaT de la façon suivante.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Line break, followed by anything.</seg>
       </tuv>
@@ -37864,7 +37606,6 @@ Exécutez OmegaT de la façon suivante.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Link</seg>
       </tuv>
@@ -38211,7 +37952,6 @@ automatically download and install it.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Local external search commands are saved in the &lt;l0/&gt; file.</seg>
       </tuv>
@@ -38396,7 +38136,6 @@ automatically download and install it.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Lots of expressions</seg>
       </tuv>
@@ -38914,7 +38653,6 @@ La version Mac intègre un JRE.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Make sure you have the proper credentials before using this function.</seg>
       </tuv>
@@ -38923,7 +38661,6 @@ La version Mac intègre un JRE.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Makes the part of the expression to the right of the modifier case insensitive.</seg>
       </tuv>
@@ -38932,7 +38669,6 @@ La version Mac intègre un JRE.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Makes the part of the expression to the right of the modifier case sensitive.</seg>
       </tuv>
@@ -39021,7 +38757,6 @@ La version Mac intègre un JRE.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Many frequently used sets have a shorthand form consisting of a backslash followed by a letter of the alphabet.</seg>
       </tuv>
@@ -39485,7 +39220,6 @@ impose that choice.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Match</seg>
       </tuv>
@@ -39566,7 +39300,6 @@ impose that choice.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Match term groups even if the terms appear separately</seg>
       </tuv>
@@ -39719,7 +39452,6 @@ impose that choice.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Matches with very different case are not displayed.</seg>
       </tuv>
@@ -39792,7 +39524,6 @@ impose that choice.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Members can take turns translating and reviewing the files.</seg>
       </tuv>
@@ -39897,7 +39628,6 @@ impose that choice.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Merge alternate definition of the same term</seg>
       </tuv>
@@ -39914,7 +39644,6 @@ impose that choice.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Merge alternate definitions of the same term</seg>
       </tuv>
@@ -40035,7 +39764,6 @@ impose that choice.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Microsoft target locale</seg>
       </tuv>
@@ -40356,7 +40084,6 @@ impose that choice.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>More advanced expressions</seg>
       </tuv>
@@ -40373,7 +40100,6 @@ impose that choice.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>More egregious misspellings such as “licensse” or “lissense”.</seg>
       </tuv>
@@ -40422,7 +40148,6 @@ impose that choice.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Most characters match themselves.</seg>
       </tuv>
@@ -40487,7 +40212,6 @@ impose that choice.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Most providers require some kind of registration before using their services.</seg>
       </tuv>
@@ -40804,7 +40528,6 @@ as the Applications folder.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Ms, followed by a period, followed by a whitespace.</seg>
       </tuv>
@@ -40813,7 +40536,6 @@ as the Applications folder.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Ms\.</seg>
       </tuv>
@@ -40846,7 +40568,6 @@ as the Applications folder.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>MyMemory (human translation)</seg>
       </tuv>
@@ -40863,7 +40584,6 @@ as the Applications folder.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>MyMemory (machine translation)</seg>
       </tuv>
@@ -41312,7 +41032,6 @@ as the Applications folder.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>No</seg>
       </tuv>
@@ -41329,7 +41048,6 @@ as the Applications folder.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>No Comment</seg>
       </tuv>
@@ -41370,7 +41088,6 @@ as the Applications folder.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>No Note</seg>
       </tuv>
@@ -41507,7 +41224,6 @@ as the Applications folder.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>No predefined credentials passed.</seg>
       </tuv>
@@ -41564,7 +41280,6 @@ as the Applications folder.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>No writable glossary file in the glossary folder.</seg>
       </tuv>
@@ -41701,7 +41416,6 @@ Diminue les sorties sur stdout de la ligne de commande.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Nonetheless, their original translation will still be in the project memory.</seg>
       </tuv>
@@ -41782,7 +41496,6 @@ Diminue les sorties sur stdout de la ligne de commande.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Not Alternative</seg>
       </tuv>
@@ -41815,7 +41528,6 @@ Diminue les sorties sur stdout de la ligne de commande.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Not all natively provided Java themes are compatible with OmegaT operation.</seg>
       </tuv>
@@ -41856,7 +41568,6 @@ Diminue les sorties sur stdout de la ligne de commande.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Not using &lt;e0&gt;sentence&lt;/e0&gt; segmentation on a document is equivalent to using &lt;e1&gt;paragraph&lt;/e1&gt; segmentation.</seg>
       </tuv>
@@ -42126,7 +41837,6 @@ Rajout d'une partie approriée, afin que la note de bas de page ne se retrouve p
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>Pattern After à vérifier</note>
       <tuv lang="en">
         <seg>Note that the &lt;l0&gt;Pattern After&lt;/l0&gt; field can be empty.</seg>
@@ -42679,7 +42389,6 @@ combination as such.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Numbers such as “1.5”, “23.2” or “5235.8” with a single decimal place and any number of digits before the decimal point.</seg>
       </tuv>
@@ -43316,7 +43025,6 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>OmegaT creates up to ten backup files, and older backups are automatically deleted in turn.</seg>
       </tuv>
@@ -43397,7 +43105,6 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>OmegaT first parses the text for paragraph-level segmentation.</seg>
       </tuv>
@@ -43502,7 +43209,6 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>OmegaT has a built-in spellchecker but requires you to install spellchecking dictionaries based on your target languages.</seg>
       </tuv>
@@ -43733,7 +43439,6 @@ published by the Free Software Foundation, either version 3 of the License, or
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>OmegaT is bundled with a script called &lt;l0/&gt; that provides a default dark theme.</seg>
       </tuv>
@@ -44014,7 +43719,6 @@ selecting, obtaining and installing it.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>OmegaT provides predefined segmentation rules, and the translator can use regular expressions to modify them.</seg>
       </tuv>
@@ -44120,7 +43824,6 @@ installed on your system.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>OmegaT synchronizes a team project when it is opened, reloaded, closed or saved.</seg>
       </tuv>
@@ -44267,7 +43970,6 @@ installed on your system.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>OmegaT uses the same font for both the source and target languages.</seg>
       </tuv>
@@ -44385,7 +44087,6 @@ directory -&gt; folder</note>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>OmegaT will respect the local protocol selection.</seg>
       </tuv>
@@ -44458,7 +44159,6 @@ directory -&gt; folder</note>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>OmegaT will then remember your credentials for that specific project unless you explicitly delete them.</seg>
       </tuv>
@@ -44483,7 +44183,6 @@ directory -&gt; folder</note>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>OmegaT will underline spelling mistakes with red wavy-lines.</seg>
       </tuv>
@@ -44492,7 +44191,6 @@ directory -&gt; folder</note>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>OmegaT will use the associated tokenizer to find matches.</seg>
       </tuv>
@@ -44501,7 +44199,6 @@ directory -&gt; folder</note>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>OmegaT will use the language dictionary that has the same name as the target language code set in the &lt;l0/&gt; project property.</seg>
       </tuv>
@@ -44777,7 +44474,6 @@ kolteki later.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Once a OmegaT team project is installed on a server, the administrator sends members the information they need to access it: a URL indicating the location of the project, or an &lt;f0&gt;omegat.project&lt;/f0&gt; file.</seg>
       </tuv>
@@ -45057,7 +44753,6 @@ redontant URL
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Only activate this option if you trust the source of that file.</seg>
       </tuv>
@@ -45106,7 +44801,6 @@ redontant URL
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Only the contents of the two following files are synchronized:</seg>
       </tuv>
@@ -45163,7 +44857,6 @@ redontant URL
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Only the opening brace is special and needs to be preceded by a backslash to search for the brace character itself.</seg>
       </tuv>
@@ -45172,7 +44865,6 @@ redontant URL
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Only the opening bracket is special and needs to be preceded by a backslash to search for the bracket character itself.</seg>
       </tuv>
@@ -45189,7 +44881,6 @@ redontant URL
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Only the portion of the after the thousands separator will be matched.</seg>
       </tuv>
@@ -45198,7 +44889,6 @@ redontant URL
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Only the project administrator should use &lt;l0/&gt;&lt;l1/&gt;.</seg>
       </tuv>
@@ -45207,7 +44897,6 @@ redontant URL
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Only the rules associated to language patterns that correspond to the source language of your project are applied.</seg>
       </tuv>
@@ -45250,7 +44939,6 @@ happen should you file a bug report.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Open Autocompleter</seg>
       </tuv>
@@ -45259,7 +44947,6 @@ happen should you file a bug report.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Open Autocompleter Next View</seg>
       </tuv>
@@ -45268,7 +44955,6 @@ happen should you file a bug report.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Open Autocompleter Previous View</seg>
       </tuv>
@@ -45277,7 +44963,6 @@ happen should you file a bug report.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Open Context Menu</seg>
       </tuv>
@@ -45398,7 +45083,6 @@ happen should you file a bug report.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Open it in the OmegaT GUI to convert it to the new format.</seg>
       </tuv>
@@ -45503,7 +45187,6 @@ happen should you file a bug report.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Open the project from the command line with the &lt;p0&gt;--no-team&lt;/p0&gt; option.</seg>
       </tuv>
@@ -45784,7 +45467,6 @@ happen should you file a bug report.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Opens the local folder where OmegaT configuration files are stored.</seg>
       </tuv>
@@ -45946,7 +45628,6 @@ Afficher des informations sur l'utilisation.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Oranges</seg>
       </tuv>
@@ -45955,7 +45636,6 @@ Afficher des informations sur l'utilisation.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Ordinary OmegaT searches are case insensitive by default: they match both uppercase and lowercase characters, unless you choose to enable the &lt;l0/&gt; option.</seg>
       </tuv>
@@ -45964,7 +45644,6 @@ Afficher des informations sur l'utilisation.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Origin</seg>
       </tuv>
@@ -46312,7 +45991,6 @@ of promoting the sharing and reuse of software generally.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>PAGE_DOWN</seg>
       </tuv>
@@ -46321,7 +45999,6 @@ of promoting the sharing and reuse of software generally.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>PAGE_UP</seg>
       </tuv>
@@ -46410,7 +46087,6 @@ of promoting the sharing and reuse of software generally.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>Source container, pas sûr de ce que ça veut dire</note>
       <tuv lang="en">
         <seg>PO files that use &lt;l0&gt;msgid&lt;/l0&gt; as an ID code, use &lt;l1&gt;msgstr&lt;/l1&gt; as the source container and expect the translation to overwrite &lt;l2&gt;msgstr&lt;/l2&gt;</seg>
@@ -46420,7 +46096,6 @@ of promoting the sharing and reuse of software generally.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>PO files that use &lt;l0&gt;msgid&lt;/l0&gt; as the source container and expect the translation to be put in &lt;l1&gt;msgstr&lt;/l1&gt;</seg>
       </tuv>
@@ -46536,7 +46211,6 @@ mirage, pas de page...</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Paragraph or sentence?</seg>
       </tuv>
@@ -46569,7 +46243,6 @@ mirage, pas de page...</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Paragraph-Level segmentation</seg>
       </tuv>
@@ -46594,7 +46267,6 @@ mirage, pas de page...</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Parentheses are always used in opening and closing pairs.</seg>
       </tuv>
@@ -46747,7 +46419,6 @@ mirage, pas de page...</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Pears</seg>
       </tuv>
@@ -46956,7 +46627,6 @@ l'ensemble.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Places that do not have such markers and that match break rules will be break locations.</seg>
       </tuv>
@@ -47647,7 +47317,6 @@ language you would like to translate to.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>Pane = fenêtre ou volet ?</note>
       <tuv lang="en">
         <seg>Preferences here define how the contents of the &lt;l0/&gt; folder are displayed in the &lt;l1/&gt; pane.</seg>
@@ -47657,7 +47326,6 @@ language you would like to translate to.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Preferences set in this dialog are saved to the default &lt;l0&gt;configuration folder&lt;/l0&gt; and apply to all translation projects unless you have specified a different configuration folder.</seg>
       </tuv>
@@ -47758,7 +47426,6 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Press 'OK' to convert the project into a 4.x team project.</seg>
       </tuv>
@@ -48313,7 +47980,6 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Project conversion failed.</seg>
       </tuv>
@@ -48322,7 +47988,6 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Project conversion successful.</seg>
       </tuv>
@@ -48347,7 +48012,6 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Project data saving interval</seg>
       </tuv>
@@ -48620,7 +48284,6 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Provider list</seg>
       </tuv>
@@ -48749,7 +48412,6 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Put the &lt;f0&gt;omegat.project&lt;/f0&gt; file in an empty folder, and open it in OmegaT.</seg>
       </tuv>
@@ -48934,7 +48596,6 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>RIGHT</seg>
       </tuv>
@@ -49355,7 +49016,6 @@ ces mots : « pas de page »...</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Regular expressions allow you to create sets of characters—known as &lt;e0&gt;classes&lt;/e0&gt;.</seg>
       </tuv>
@@ -49380,7 +49040,6 @@ ces mots : « pas de page »...</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Regular expressions are not limited to alphanumeric characters.</seg>
       </tuv>
@@ -49533,7 +49192,6 @@ ces mots : « pas de page »...</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Remember that any modifications to the local project configuration files will be overwritten by the versions on the server when the project is synchronized.</seg>
       </tuv>
@@ -49558,7 +49216,6 @@ ces mots : « pas de page »...</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Remember that most &lt;e0&gt;alphabetic&lt;/e0&gt; characters preceded by a &lt;l1&gt;\&lt;/l1&gt; turn into an expression that represents &lt;e2&gt;not the character itself, but its associated special meaning&lt;/e2&gt;.</seg>
       </tuv>
@@ -49663,7 +49320,6 @@ ces mots : « pas de page »...</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Remote repository git+ssh credential error: {0}</seg>
       </tuv>
@@ -50000,7 +49656,6 @@ ces mots : « pas de page »...</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Repeated</seg>
       </tuv>
@@ -50009,7 +49664,6 @@ ces mots : « pas de page »...</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Repeated segments</seg>
       </tuv>
@@ -50018,7 +49672,6 @@ ces mots : « pas de page »...</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Repeated segments background</seg>
       </tuv>
@@ -50189,7 +49842,6 @@ ces mots : « pas de page »...</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Replace matches when inserting source text</seg>
       </tuv>
@@ -50375,7 +50027,6 @@ ces mots : « pas de page »...</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Repository mappings</seg>
       </tuv>
@@ -50448,7 +50099,6 @@ ces mots : « pas de page »...</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Required credentials</seg>
       </tuv>
@@ -50473,7 +50123,6 @@ ces mots : « pas de page »...</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Requires a Deepl Pro Advanced plan available only in some countries</seg>
       </tuv>
@@ -50554,7 +50203,6 @@ ces mots : « pas de page »...</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Resolve the conflicts by choosing a translation for each segment below.</seg>
       </tuv>
@@ -50635,7 +50283,6 @@ ces mots : « pas de page »...</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Restores the OmegaT window panes to their default arrangement.</seg>
       </tuv>
@@ -50957,7 +50604,6 @@ ces mots : « pas de page »...</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Rules for Japanese</seg>
       </tuv>
@@ -50966,7 +50612,6 @@ ces mots : « pas de page »...</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Rules for specific language regions should be higher than default ones.</seg>
       </tuv>
@@ -51843,7 +51488,6 @@ La recherche port par défaut sur le projet, et peut porter sur tout fichier sit
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Scripts can be used to set predefined themes.</seg>
       </tuv>
@@ -51989,7 +51633,6 @@ La recherche port par défaut sur le projet, et peut porter sur tout fichier sit
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Search automatically</seg>
       </tuv>
@@ -52190,7 +51833,6 @@ La recherche port par défaut sur le projet, et peut porter sur tout fichier sit
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Searches will match any of the characters in the set.</seg>
       </tuv>
@@ -52423,7 +52065,6 @@ La recherche port par défaut sur le projet, et peut porter sur tout fichier sit
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>See &lt;l3&gt;spellchecker files&lt;/l3&gt; for details.</seg>
       </tuv>
@@ -52493,6 +52134,14 @@ La recherche port par défaut sur le projet, et peut porter sur tout fichier sit
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221104T023755Z" creationid="suzume" creationdate="20221104T023755Z">
         <seg>Consulter Aide &gt; Guide de l'utilisateur pour des informations supplémentaires, y compris les options Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Help &gt; User Manual for details, including available Java options.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Kazephil" changedate="20230314T142500Z" creationid="Kazephil" creationdate="20230314T142500Z">
+        <seg>Consulter Aide &gt; Manuel d'utilisation pour des informations supplémentaires, y compris les options Java.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52581,7 +52230,6 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>See also &lt;u0&gt;Unicode Regular Expressions&lt;/u0&gt; for a thorough review of Unicode regular expressions.</seg>
       </tuv>
@@ -52710,7 +52358,6 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>See the &lt;l0/&gt; appendix for a general explanation of segmentation (global or local, paragraph or sentence, etc.)</seg>
       </tuv>
@@ -52735,7 +52382,6 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>tag --&gt; Command line launch
 </note>
       <tuv lang="en">
@@ -52770,7 +52416,6 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>See the &lt;l0/&gt; project properties.</seg>
       </tuv>
@@ -52795,7 +52440,6 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>See the &lt;l1/&gt; appendix for details.</seg>
       </tuv>
@@ -52820,7 +52464,6 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>See the &lt;l1/&gt; section for details.</seg>
       </tuv>
@@ -52829,7 +52472,6 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>See the &lt;l1/&gt; window for details.</seg>
       </tuv>
@@ -52838,7 +52480,6 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>See the &lt;l2/&gt; appendix for details.</seg>
       </tuv>
@@ -52863,7 +52504,6 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>See the &lt;u0&gt;Oracle documentation&lt;/u0&gt; for examples.</seg>
       </tuv>
@@ -53104,7 +52744,6 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Segments are by default &lt;e0&gt;paragraphs&lt;/e0&gt; defined by the file format itself.</seg>
       </tuv>
@@ -53169,7 +52808,6 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Select All</seg>
       </tuv>
@@ -53426,7 +53064,6 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Select a layout for the glossaries pane contents.</seg>
       </tuv>
@@ -53443,7 +53080,6 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Select a theme for the OmegaT user interface.</seg>
       </tuv>
@@ -53541,7 +53177,6 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Select the dictionaries that you want to install and click &lt;g0&gt;Install&lt;/g0&gt;.</seg>
       </tuv>
@@ -53566,7 +53201,6 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Select the font and font size used to display the text in the main window panes.</seg>
       </tuv>
@@ -53591,7 +53225,6 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Select the rules depending on whether they are relevant to the type of text you are translating.</seg>
       </tuv>
@@ -53720,7 +53353,6 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Sentence-level segmentation</seg>
       </tuv>
@@ -53753,7 +53385,6 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Sequence numbers that are not at the beginning of a line.</seg>
       </tuv>
@@ -53802,7 +53433,6 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Servers generally use two main types of authentication: entering a &lt;e0&gt;username/password&lt;/e0&gt;, or &lt;e1&gt;SSH&lt;/e1&gt;.</seg>
       </tuv>
@@ -53891,7 +53521,6 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Set contents</seg>
       </tuv>
@@ -53932,7 +53561,6 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Set up a team project</seg>
       </tuv>
@@ -54485,7 +54113,6 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Simple expressions</seg>
       </tuv>
@@ -54582,7 +54209,6 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Since synchronization takes place by default every three minutes, project members will sometime translate or modify a segment that has already been translated by another member but not synchronized yet.</seg>
       </tuv>
@@ -54655,7 +54281,6 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Skip Next Token</seg>
       </tuv>
@@ -54664,7 +54289,6 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Skip Next Token with Selection</seg>
       </tuv>
@@ -54681,7 +54305,6 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Skip Previous Token</seg>
       </tuv>
@@ -54690,7 +54313,6 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Skip Previous Token with Selection</seg>
       </tuv>
@@ -54911,7 +54533,6 @@ Traduction supprimée car ne concerne pas le français.</note>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Some applications require some Unicode literals to be kept.</seg>
       </tuv>
@@ -54937,7 +54558,6 @@ of the GPL, as needed to protect the freedom of users.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Some dictionary drivers provided as plugins do not support this feature.</seg>
       </tuv>
@@ -54946,7 +54566,6 @@ of the GPL, as needed to protect the freedom of users.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Some expressions specify a position rather than a character.</seg>
       </tuv>
@@ -55227,7 +54846,6 @@ of the GPL, as needed to protect the freedom of users.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Source Files</seg>
       </tuv>
@@ -55412,7 +55030,6 @@ of the GPL, as needed to protect the freedom of users.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Source files</seg>
       </tuv>
@@ -55709,7 +55326,6 @@ of the GPL, as needed to protect the freedom of users.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Specify text combinations that are exceptions to a break rule.</seg>
       </tuv>
@@ -55774,7 +55390,6 @@ of the GPL, as needed to protect the freedom of users.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Spellcheck the translation</seg>
       </tuv>
@@ -55815,7 +55430,6 @@ of the GPL, as needed to protect the freedom of users.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Spellchecking dictionaries location</seg>
       </tuv>
@@ -56002,7 +55616,6 @@ of the GPL, as needed to protect the freedom of users.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Start a new segment after “。” (Japanese period).</seg>
       </tuv>
@@ -56011,7 +55624,6 @@ of the GPL, as needed to protect the freedom of users.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>(Anand) start a new segment start ?</note>
       <tuv lang="en">
         <seg>Start a new segment start after a period followed by a space, tab, or other whitespace.</seg>
@@ -56113,7 +55725,6 @@ patents cannot be used to render the program non-free.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Step 1) Preparation</seg>
       </tuv>
@@ -56146,7 +55757,6 @@ patents cannot be used to render the program non-free.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Step 2) …</seg>
       </tuv>
@@ -56535,7 +56145,6 @@ address new problems or concerns.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Suppose, for example, that you want to find instances of “OmegaT” and “omegat”, but not “OMEGAT”.</seg>
       </tuv>
@@ -56696,7 +56305,6 @@ address new problems or concerns.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Synchronization</seg>
       </tuv>
@@ -56713,7 +56321,6 @@ address new problems or concerns.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Synchronization of repositories</seg>
       </tuv>
@@ -56722,7 +56329,6 @@ address new problems or concerns.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Synchronizing the project adds translations made by all team members to local copies of the project.</seg>
       </tuv>
@@ -56779,7 +56385,6 @@ address new problems or concerns.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>TAB</seg>
       </tuv>
@@ -57012,7 +56617,6 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Tabular data is by default displayed in a monospaced font that keeps columns properly aligned.</seg>
       </tuv>
@@ -57197,7 +56801,6 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Tag shortcuts</seg>
       </tuv>
@@ -57446,7 +57049,6 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Target file names</seg>
       </tuv>
@@ -57463,7 +57065,6 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Target files</seg>
       </tuv>
@@ -57512,7 +57113,6 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Target segment status</seg>
       </tuv>
@@ -57617,7 +57217,6 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Team project configuration</seg>
       </tuv>
@@ -57634,7 +57233,6 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Team projects use synchronization mechanisms between project members.</seg>
       </tuv>
@@ -57971,7 +57569,6 @@ Les remplacements portent sur les segments cible du projet, qu'ils soient déjà
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Text to remove</seg>
       </tuv>
@@ -58020,7 +57617,6 @@ Les remplacements portent sur les segments cible du projet, qu'ils soient déjà
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>That is the reason why exception rules must come before segmentation rules.</seg>
       </tuv>
@@ -58339,7 +57935,6 @@ form of a work.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The &lt;e0&gt; After&lt;/e0&gt; pattern identifies the parts that are after the break or exception point.</seg>
       </tuv>
@@ -58356,7 +57951,6 @@ form of a work.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The &lt;e0&gt;Before&lt;/e0&gt; and&lt;e1&gt; After&lt;/e1&gt; patterns are regular expressions.</seg>
       </tuv>
@@ -58365,7 +57959,6 @@ form of a work.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The &lt;e0&gt;Before&lt;/e0&gt; pattern identifies the parts that are before the break or exception point.</seg>
       </tuv>
@@ -58670,7 +58263,6 @@ form of a work.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The CLOSING PARENTHESIS: &lt;l0&gt;)&lt;/l0&gt;</seg>
       </tuv>
@@ -58950,7 +58542,6 @@ software and other kinds of works.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The OPENING CURLY BRACE: &lt;l0&gt;{&lt;/l0&gt;</seg>
       </tuv>
@@ -58959,7 +58550,6 @@ software and other kinds of works.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The OPENING PARENTHESIS: &lt;l0&gt;(&lt;/l0&gt;</seg>
       </tuv>
@@ -58968,7 +58558,6 @@ software and other kinds of works.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The OPENING SQUARE BRACKET: &lt;l0&gt;[&lt;/l0&gt;</seg>
       </tuv>
@@ -59161,7 +58750,6 @@ software and other kinds of works.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The Search function allows them to filter the Editor pane on contents translated by a given person, or on contents translated after or before a given time, for example.</seg>
       </tuv>
@@ -59441,7 +59029,6 @@ shown below.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The auto-completion menu is available in the &lt;l0/&gt; pane.</seg>
       </tuv>
@@ -59514,7 +59101,6 @@ shown below.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The caret placed immediately after the opening square bracket excludes the rest of the characters in the class.</seg>
       </tuv>
@@ -59531,7 +59117,6 @@ shown below.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The carriage-return character, not the letter “r”.</seg>
       </tuv>
@@ -59628,7 +59213,6 @@ shown below.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The character “x” itself</seg>
       </tuv>
@@ -59783,7 +59367,6 @@ utilisé à la place.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The content of the group can also be used in the &lt;l0&gt;replacement text&lt;/l0&gt;.</seg>
       </tuv>
@@ -59856,7 +59439,6 @@ utilisé à la place.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The contents of this preference are identical to the contents of the &lt;l0&gt;local file filters&lt;/l0&gt; dialog.</seg>
       </tuv>
@@ -59889,7 +59471,6 @@ utilisé à la place.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The correct “licence” and “license” spellings, as well as the potential “lisence” and “lisense” misspellings</seg>
       </tuv>
@@ -59964,7 +59545,6 @@ instead.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The default URL where OmegaT will look for dictionaries to install.</seg>
       </tuv>
@@ -59981,7 +59561,6 @@ instead.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The default is:</seg>
       </tuv>
@@ -59990,7 +59569,6 @@ instead.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The default key to validate and leave a segment is &lt;k0&gt;Enter&lt;/k0&gt;.</seg>
       </tuv>
@@ -60287,7 +59865,6 @@ instead.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The entire value of numbers such as “5,235.8” or “21,571.9”.</seg>
       </tuv>
@@ -60328,7 +59905,6 @@ instead.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The existing rules always provide a good starting point.</seg>
       </tuv>
@@ -60489,7 +60065,6 @@ instead.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The filter checks Java MessageFormat patterns (e.g. \{0\}) by default.</seg>
       </tuv>
@@ -60554,7 +60129,6 @@ instead.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The first time the project is downloaded, OmegaT retrieves the &lt;f0&gt;omegat.project&lt;/f0&gt; file from the server.</seg>
       </tuv>
@@ -60579,7 +60153,6 @@ instead.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The folder where OmegaT will install and search for spelling dictionaries.</seg>
       </tuv>
@@ -61071,7 +60644,6 @@ où xx est un code langue générique et YY un code pays/région, optionnel.</se
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The language pattern is a regular expression.</seg>
       </tuv>
@@ -61096,7 +60668,6 @@ où xx est un code langue générique et YY un code pays/région, optionnel.</se
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The letter “a”, “b”, or “c”.</seg>
       </tuv>
@@ -61206,7 +60777,6 @@ freedom to share and change it.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The list of dictionaries that are present in the above folder.</seg>
       </tuv>
@@ -61247,7 +60817,6 @@ freedom to share and change it.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The location depends on the operating system and launch options.</seg>
       </tuv>
@@ -61648,7 +61217,6 @@ freedom to share and change it.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The newline (line feed) character, not the letter “n”.</seg>
       </tuv>
@@ -61842,7 +61410,6 @@ sure this has not already been reported.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The passwords do not match.</seg>
       </tuv>
@@ -62063,7 +61630,6 @@ modification follow.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The program will ask for confirmation before closing.</seg>
       </tuv>
@@ -62176,7 +61742,6 @@ modification follow.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The project will automatically be downloaded to the folder containing that file.</seg>
       </tuv>
@@ -62359,7 +61924,6 @@ protocols for communication across the network.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The rest of the twelve characters are normal, and do not have to be preceded by a backslash if you want to search for those characters themselves.</seg>
       </tuv>
@@ -62440,7 +62004,6 @@ protocols for communication across the network.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The rules for &lt;e0&gt;FR-CA&lt;/e0&gt; should be set higher than those for &lt;e1&gt;FR.*&lt;/e1&gt;, which should themselves be higher than the generic &lt;e2&gt;.*&lt;/e2&gt; set.</seg>
       </tuv>
@@ -62465,7 +62028,6 @@ protocols for communication across the network.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The same mechanisms and dialogs are used to define global and local segmentation rules.</seg>
       </tuv>
@@ -62658,7 +62220,6 @@ protocols for communication across the network.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The sequence number (including the parenthesis) at the beginning of each line in a list such as:</seg>
       </tuv>
@@ -62787,7 +62348,6 @@ protocols for communication across the network.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The shortcuts that can be modified in the &lt;f0&gt;EditorShortcuts.properties&lt;/f0&gt; file, along with their default values, are presented in the table below</seg>
       </tuv>
@@ -62796,7 +62356,6 @@ protocols for communication across the network.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The simplest regular expression consist of a single character, or combination of a &lt;l0&gt;\&lt;/l0&gt; and a character constituting a unit with a single meaning.</seg>
       </tuv>
@@ -62998,7 +62557,6 @@ making modifications to it.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The specified folder is not an OmegaT project, or the project file is broken, or there is no valid backup.</seg>
       </tuv>
@@ -63015,7 +62573,6 @@ making modifications to it.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The specified project is an OmegaT 3.6 team project.</seg>
       </tuv>
@@ -63128,7 +62685,6 @@ making modifications to it.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The tab character, not the letter “t”.</seg>
       </tuv>
@@ -63137,7 +62693,6 @@ making modifications to it.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The table below list a few of the more common examples.</seg>
       </tuv>
@@ -63146,7 +62701,6 @@ making modifications to it.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The table below provides various additional examples.</seg>
       </tuv>
@@ -63294,7 +62848,6 @@ L'idée était que l'utilisation de certaines touches en dehors du segment coura
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The themes also provide predefined set of default colours.</seg>
       </tuv>
@@ -63592,7 +63145,6 @@ the [Help] menu after starting OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The web searches are opened in the default browser and the commands are equivalent to items launched on the command line.</seg>
       </tuv>
@@ -63729,7 +63281,6 @@ the [Help] menu after starting OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The “that, that” in the following sentence:</seg>
       </tuv>
@@ -64002,7 +63553,6 @@ the [Help] menu after starting OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>(Anand) two ways [to] work offline</note>
       <tuv lang="en">
         <seg>There are two ways work offline:</seg>
@@ -64189,7 +63739,6 @@ prohibited by law if you do not accept this License.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>(sirine) à clarifier
 </note>
       <tuv lang="en">
@@ -64208,7 +63757,6 @@ prohibited by law if you do not accept this License.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>These optionS ?</note>
       <tuv lang="en">
         <seg>These option specify the way OmegaT creates tags from the XLIFF contents.</seg>
@@ -64406,7 +63954,6 @@ pas de page...</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>They can be reused later in the search expression using &lt;l1&gt;\&lt;o2&gt;n&lt;/o2&gt;&lt;/l1&gt;, where &lt;o3&gt;n&lt;/o3&gt; is the number of the group.</seg>
       </tuv>
@@ -64471,7 +64018,6 @@ pas de page...</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>They cover the entire Unicode character set.</seg>
       </tuv>
@@ -64496,7 +64042,6 @@ pas de page...</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>They indicate where in the text to look for the match, but do not include any characters in that match.</seg>
       </tuv>
@@ -64521,7 +64066,6 @@ pas de page...</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>They will be restored the next time the project is synchronized.</seg>
       </tuv>
@@ -64684,7 +64228,6 @@ under the terms of this General Public License.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>This action requires an internet connection</seg>
       </tuv>
@@ -64861,7 +64404,6 @@ under the terms of this General Public License.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>This character closes a group.</seg>
       </tuv>
@@ -64886,7 +64428,6 @@ under the terms of this General Public License.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>This character must be paired with the closing curly brace to encloses an &lt;e0&gt;exact number&lt;/e0&gt;, &lt;e1&gt;minimum&lt;/e1&gt;, &lt;e2&gt;maximum&lt;/e2&gt;, or &lt;e3&gt;range&lt;/e3&gt; specifying how many instances of the preceding character or group should be matched.</seg>
       </tuv>
@@ -64895,7 +64436,6 @@ under the terms of this General Public License.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>This character must be paired with the closing square bracket to enclose a set of individual characters that each represent a valid potential match.</seg>
       </tuv>
@@ -64912,7 +64452,6 @@ under the terms of this General Public License.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>This character specifies that one or more instances of the preceding character or expression should be matched.</seg>
       </tuv>
@@ -64929,7 +64468,6 @@ under the terms of this General Public License.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>This character starts a &lt;e0&gt;group&lt;/e0&gt;, which is a set of characters treated as a single unit.</seg>
       </tuv>
@@ -65090,7 +64628,6 @@ under the terms of this General Public License.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>This dialog lists the file filters available to projects that do not use local file filters.</seg>
       </tuv>
@@ -65108,7 +64645,6 @@ under the terms of this General Public License.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>This dialog only accesses the global segmentation rules.</seg>
       </tuv>
@@ -65205,7 +64741,6 @@ under the terms of this General Public License.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>This feature depends on Java functionality that is not yet available on other platforms.</seg>
       </tuv>
@@ -65238,7 +64773,6 @@ under the terms of this General Public License.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>This file defines the following parameters:</seg>
       </tuv>
@@ -65271,7 +64805,6 @@ under the terms of this General Public License.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>This filter is the original OmegaT XLIFF filter.</seg>
       </tuv>
@@ -65750,7 +65283,6 @@ this version will not interfere with it.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>This means that a regular expression search for “OmegaT”, for example, will not match “omegat”.</seg>
       </tuv>
@@ -65775,7 +65307,6 @@ this version will not interfere with it.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>This means the automatic save function also regularly synchronizes local versions with the version on the server at the interval specified in the &lt;l0/&gt; preference.</seg>
       </tuv>
@@ -65872,7 +65403,6 @@ this version will not interfere with it.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>This option allows for that.</seg>
       </tuv>
@@ -65929,7 +65459,6 @@ this version will not interfere with it.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>This option enables you to change the order of the commands in the Editor pane &lt;l0&gt;context menu&lt;/l0&gt;.</seg>
       </tuv>
@@ -65938,7 +65467,6 @@ this version will not interfere with it.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>This option forces Java 8 compatibility.</seg>
       </tuv>
@@ -65963,7 +65491,6 @@ this version will not interfere with it.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>This option is useful with some Chinese, Japanese or Korean character input systems.</seg>
       </tuv>
@@ -65980,7 +65507,6 @@ this version will not interfere with it.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>This option sets the segment validation key to &lt;k0&gt;Tab&lt;/k0&gt; instead.</seg>
       </tuv>
@@ -66037,7 +65563,6 @@ this version will not interfere with it.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>This process relies only on the structure of the source file to produce segments.</seg>
       </tuv>
@@ -66140,7 +65665,6 @@ be a consequence of the rest of this License.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>This section presents various types of regular expression, ranging from the simple to the complex.</seg>
       </tuv>
@@ -66149,7 +65673,6 @@ be a consequence of the rest of this License.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>This setting works well with documents where repetitions or similar sentences are common, such as technical or legal documents.</seg>
       </tuv>
@@ -66182,7 +65705,6 @@ be a consequence of the rest of this License.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>This task is normally performed by the project administrator.</seg>
       </tuv>
@@ -66239,7 +65761,6 @@ be a consequence of the rest of this License.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>This will
 delete your local data and re-download the project contents from
@@ -66348,7 +65869,6 @@ projet depuis le serveur.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>This will split or merge some previously translated segments, which will therefore no longer be considered translated.</seg>
       </tuv>
@@ -66449,7 +65969,6 @@ collective works based on the Program.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Thus, when translating from Canadian French the rules for Canadian French—if any—will apply first, followed by the rules for French and lastly, by the generic rules.</seg>
       </tuv>
@@ -66924,7 +66443,6 @@ Pour l'espace fine, il râle à cause de "&lt;!--" et il veut en faire "&lt; ! -
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>To create a new rule set:</seg>
       </tuv>
@@ -66997,7 +66515,6 @@ Pour l'espace fine, il râle à cause de "&lt;!--" et il veut en faire "&lt; ! -
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>To define a break rule, check the &lt;g0&gt;Break/Exception&lt;/g0&gt; box.</seg>
       </tuv>
@@ -67022,7 +66539,6 @@ Pour l'espace fine, il râle à cause de "&lt;!--" et il veut en faire "&lt; ! -
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>To define an exception rule, leave the &lt;g0&gt;Break/Exception &lt;/g0&gt;check box unchecked.</seg>
       </tuv>
@@ -67964,7 +67480,6 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Toggle Cursor Lock</seg>
       </tuv>
@@ -67973,7 +67488,6 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Toggle Overtype</seg>
       </tuv>
@@ -68296,7 +67810,6 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Translatable object attributes in XHTML or HTML files can be extracted as separate "paragraphs".</seg>
       </tuv>
@@ -68369,7 +67882,6 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Translate the following elements</seg>
       </tuv>
@@ -68386,7 +67898,6 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Translate this plural as a plural form #{0}.</seg>
       </tuv>
@@ -68829,7 +68340,6 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Trying to use only the opening or closing parenthesis on its own will cause an error.</seg>
       </tuv>
@@ -69041,7 +68551,6 @@ Les recherches exactes correspondent à l'ensemble de la chaîne recherchée.</s
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>UP</seg>
       </tuv>
@@ -69090,7 +68599,6 @@ Les recherches exactes correspondent à l'ensemble de la chaîne recherchée.</s
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>URL of downloadable spellchecking dictionaries</seg>
       </tuv>
@@ -69123,7 +68631,6 @@ Les recherches exactes correspondent à l'ensemble de la chaîne recherchée.</s
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>URL, Model ID, Login ID, Password</seg>
       </tuv>
@@ -69132,7 +68639,6 @@ Les recherches exactes correspondent à l'ensemble de la chaîne recherchée.</s
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>URL, key</seg>
       </tuv>
@@ -69205,7 +68711,6 @@ Les recherches exactes correspondent à l'ensemble de la chaîne recherchée.</s
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Unable to commit because remote translation was changed.</seg>
       </tuv>
@@ -69446,7 +68951,6 @@ Les recherches exactes correspondent à l'ensemble de la chaîne recherchée.</s
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Unicode blocks, scripts and categories</seg>
       </tuv>
@@ -70105,7 +69609,6 @@ la configuration actuelle est de {0} Mo ;</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Use &amp;TAB to advance</seg>
       </tuv>
@@ -70130,7 +69633,6 @@ la configuration actuelle est de {0} Mo ;</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Use &amp;stemming</seg>
       </tuv>
@@ -70211,7 +69713,6 @@ la configuration actuelle est de {0} Mo ;</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; to access this dialog (the &lt;l2&gt;OmegaT&lt;/l2&gt; menu on macOS).</seg>
       </tuv>
@@ -70220,7 +69721,6 @@ la configuration actuelle est de {0} Mo ;</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; to bring up the &lt;g2&gt;Download Team Project&lt;/g2&gt; dialog.</seg>
       </tuv>
@@ -70229,7 +69729,6 @@ la configuration actuelle est de {0} Mo ;</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Use &lt;l1&gt;$&lt;o2&gt;n&lt;/o2&gt;&lt;/l1&gt;, where &lt;o3&gt;n&lt;/o3&gt; is the number of the group defined in the search.</seg>
       </tuv>
@@ -70310,7 +69809,6 @@ la configuration actuelle est de {0} Mo ;</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Use Unicode blocks, scripts and categories to specify character classes outside the alphanumeric character range.</seg>
       </tuv>
@@ -70327,7 +69825,6 @@ la configuration actuelle est de {0} Mo ;</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Use a team project</seg>
       </tuv>
@@ -70384,7 +69881,6 @@ la configuration actuelle est de {0} Mo ;</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Use condensed view</seg>
       </tuv>
@@ -70409,7 +69905,6 @@ la configuration actuelle est de {0} Mo ;</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Use fuzzy matching</seg>
       </tuv>
@@ -70466,7 +69961,6 @@ la configuration actuelle est de {0} Mo ;</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Use stemming</seg>
       </tuv>
@@ -70571,7 +70065,6 @@ la configuration actuelle est de {0} Mo ;</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Use the &lt;g0&gt;Move Up&lt;/g0&gt; button to set the rule set priority.</seg>
       </tuv>
@@ -70580,7 +70073,6 @@ la configuration actuelle est de {0} Mo ;</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Use the &lt;g1&gt;Configure&lt;/g1&gt; button to manage your authentication credentials for that provider.</seg>
       </tuv>
@@ -70589,7 +70081,6 @@ la configuration actuelle est de {0} Mo ;</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>tag -&gt; local segmentation rules</note>
       <tuv lang="en">
         <seg>Use the &lt;l0/&gt; project property to limit the scope of the segmentation rules to the current project.</seg>
@@ -70599,7 +70090,6 @@ la configuration actuelle est de {0} Mo ;</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Use the &lt;l0/&gt; project property to select the type of segmentation.</seg>
       </tuv>
@@ -70608,7 +70098,6 @@ la configuration actuelle est de {0} Mo ;</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Use the &lt;l0&gt;editor context menu&lt;/l0&gt; to correct the mistake, to &lt;g1&gt;Ignore All&lt;/g1&gt; or to &lt;g2&gt;Add to Dictionary&lt;/g2&gt;.</seg>
       </tuv>
@@ -70633,7 +70122,6 @@ la configuration actuelle est de {0} Mo ;</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Use the search field at the top of the preferences list to look for specific items.</seg>
       </tuv>
@@ -70698,7 +70186,6 @@ la configuration actuelle est de {0} Mo ;</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Use this feature when you are unable to restore the desired arrangement after undocking, moving, or hiding one or more panes.</seg>
       </tuv>
@@ -70901,7 +70388,6 @@ la configuration actuelle est de {0} Mo ;</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>Identifiant ou ID, à vérifier
 (sirine) les deux sont utilisés dans "Options du filtre Fichiers XLIFF"</note>
       <tuv lang="en">
@@ -70928,7 +70414,6 @@ la configuration actuelle est de {0} Mo ;</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>User credentials denied</seg>
       </tuv>
@@ -71252,7 +70737,6 @@ searchable without subscription:</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Using a different language checker on your local machine than the one supplied with OmegaT allows you to customize the verification rules.</seg>
       </tuv>
@@ -71269,7 +70753,6 @@ searchable without subscription:</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Using a proportional font will break that layout.</seg>
       </tuv>
@@ -72148,7 +71631,6 @@ you have just discovered.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>When OmegaT reads files, it puts a non-breaking marker at every exception location.</seg>
       </tuv>
@@ -72165,7 +71647,6 @@ you have just discovered.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>When a glossary term is a compound word, the term will match even if the words appear separately in the source text.</seg>
       </tuv>
@@ -72190,7 +71671,6 @@ you have just discovered.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>When a translation is entered, the segment containing the source text is stored with its translation in the project memory, and subsequently used to match other source segments in the project.</seg>
       </tuv>
@@ -72223,7 +71703,6 @@ you have just discovered.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>When checked, the items in the glossary auto-completer view will also contain the source text.</seg>
       </tuv>
@@ -72385,7 +71864,6 @@ add Python to your Path.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>When that happens, members have to select the appropriate translation.</seg>
       </tuv>
@@ -72394,7 +71872,6 @@ add Python to your Path.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>When the option is enabled, OmegaT automatically searches in all the dictionaries for matches of the terms it identified in the segment, as it enters the segment.</seg>
       </tuv>
@@ -72593,7 +72070,6 @@ free programs, and that you know you can do these things.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>When you click on a language pattern in the top half of the dialog, a list of associated rules will be displayed in the bottom half of the dialog.</seg>
       </tuv>
@@ -72743,7 +72219,6 @@ for which you have or can give appropriate copyright permission.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>When you use</seg>
       </tuv>
@@ -72856,7 +72331,6 @@ for which you have or can give appropriate copyright permission.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>While the option is disabled, use &lt;l0/&gt;&lt;l1/&gt; to search for matches of the selection or of all the terms in the segment source.</seg>
       </tuv>
@@ -73771,7 +73245,6 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Yes</seg>
       </tuv>
@@ -73902,7 +73375,6 @@ this License.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>You are trying to use the HunspellTokenizer with {0}, but no spelling dictionaries are installed for this language.</seg>
       </tuv>
@@ -73927,7 +73399,6 @@ this License.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>You can achieve a similar result by starting OmegaT from the command line.</seg>
       </tuv>
@@ -74098,7 +73569,6 @@ Spotlight search field.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>You can also download dictionaries from other locations, or copy dictionaries installed locally.</seg>
       </tuv>
@@ -74210,7 +73680,6 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>(sirine) phrase trop longue, difficile à comprendre -&gt; manque de clarté</note>
       <tuv lang="en">
         <seg>You can also search for the caret, closing bracket, and hyphen as themselves by placing them at a position that does not trigger their special meaning: anywhere except right after the opening bracket for the caret, immediately after either opening bracket or the caret following it for the closing bracket, and either just after the opening bracket or just before the closing bracket for the hyphen.</seg>
@@ -74269,7 +73738,6 @@ your programs, too.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>You can assign different colours for the various parts of the user interface.</seg>
       </tuv>
@@ -74518,7 +73986,6 @@ your programs, too.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>You can do so with the following expression: &lt;l0&gt;(?i)o&lt;/l0&gt;&lt;l1&gt;(?-i)mega&lt;/l1&gt; &lt;l2&gt;(?i)t&lt;/l2&gt;, which represents a case insensitive “o” followed by a case sensitive “mega”, followed by a case insensitive “t”.</seg>
       </tuv>
@@ -74736,7 +74203,6 @@ installation script (linux-install.sh).</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>You can open a team project and work on it offline.</seg>
       </tuv>
@@ -74801,7 +74267,6 @@ installation script (linux-install.sh).</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>You can search for any of the four class special characters as normal characters by preceding them with a backslash.</seg>
       </tuv>
@@ -74898,7 +74363,6 @@ installation script (linux-install.sh).</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>You can take advantage of this to apply a fine degree of control to case sensitivity in searches.</seg>
       </tuv>
@@ -75007,7 +74471,6 @@ omegat.kaptn</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>You can use it when panes do not appear as expected after an OmegaT upgrade.</seg>
       </tuv>
@@ -75057,7 +74520,6 @@ SourceForge too.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>You can visualize segmentation as the process of moving the cursor along the text, one character at a time, and looking for the position where a break will occur, or where a break will not be allowed.</seg>
       </tuv>
@@ -75229,7 +74691,6 @@ window to be able to launch it from any location.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>You may have forgotten an initial commit.</seg>
       </tuv>
@@ -75491,7 +74952,6 @@ necessary.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>Erreur phrase source avoir=avoid</note>
       <tuv lang="en">
         <seg>You should only use it to avoir compatibility issues with previous projects containing files you handled with that filter.</seg>
@@ -75574,7 +75034,6 @@ them.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>You will then have to press that combination again to insert the suggestion.</seg>
       </tuv>
@@ -75737,7 +75196,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>[C-X]</seg>
       </tuv>
@@ -75770,7 +75228,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>[^\n\r\t]</seg>
       </tuv>
@@ -75979,7 +75436,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>\d+.d</seg>
       </tuv>
@@ -75988,7 +75444,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>\d{4}/\d{1,3}</seg>
       </tuv>
@@ -76037,7 +75492,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>\p{IsHan}</seg>
       </tuv>
@@ -76174,7 +75628,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>^\d+\)</seg>
       </tuv>
@@ -76391,7 +75844,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>alt BACK_SPACE</seg>
       </tuv>
@@ -76400,7 +75852,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>alt DELETE</seg>
       </tuv>
@@ -76409,7 +75860,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>(Anand) alt LEFT dans la source plutôt non?</note>
       <tuv lang="en">
         <seg>alt RIGHT</seg>
@@ -76427,7 +75877,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>alt shift LEFT</seg>
       </tuv>
@@ -76436,7 +75885,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>alt shift RIGHT</seg>
       </tuv>
@@ -76533,7 +75981,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>Quelles sont ces Before rule &amp; After rules ?</note>
       <tuv lang="en">
         <seg>and the text after the location corresponds to the associated &lt;e0&gt;After&lt;/e0&gt; rule.</seg>
@@ -76615,7 +76062,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>autocompleterClose</seg>
       </tuv>
@@ -76624,7 +76070,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>autocompleterConfirmAndClose</seg>
       </tuv>
@@ -76633,7 +76078,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>autocompleterConfirmWithoutClose</seg>
       </tuv>
@@ -76642,7 +76086,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>autocompleterListDown</seg>
       </tuv>
@@ -76651,7 +76094,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>autocompleterListPageDown</seg>
       </tuv>
@@ -76660,7 +76102,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>autocompleterListPageUp</seg>
       </tuv>
@@ -76669,7 +76110,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>autocompleterListUp</seg>
       </tuv>
@@ -76678,7 +76118,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>autocompleterNextView</seg>
       </tuv>
@@ -76687,7 +76126,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>autocompleterPrevView</seg>
       </tuv>
@@ -76696,7 +76134,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>autocompleterTableDown</seg>
       </tuv>
@@ -76705,7 +76142,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>autocompleterTableFirst</seg>
       </tuv>
@@ -76714,7 +76150,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>autocompleterTableFirstInRow</seg>
       </tuv>
@@ -76723,7 +76158,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>autocompleterTableLast</seg>
       </tuv>
@@ -76732,7 +76166,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>autocompleterTableLastInRow</seg>
       </tuv>
@@ -76741,7 +76174,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>autocompleterTableLeft</seg>
       </tuv>
@@ -76750,7 +76182,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>autocompleterTablePageDown</seg>
       </tuv>
@@ -76759,7 +76190,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>autocompleterTablePageUp</seg>
       </tuv>
@@ -76768,7 +76198,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>autocompleterTableRight</seg>
       </tuv>
@@ -76777,7 +76206,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>autocompleterTableUp</seg>
       </tuv>
@@ -76786,7 +76214,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>autocompleterTrigger</seg>
       </tuv>
@@ -77507,7 +76934,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>ctrl A</seg>
       </tuv>
@@ -77516,7 +76942,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>ctrl BACK_SPACE</seg>
       </tuv>
@@ -77533,7 +76958,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>ctrl DELETE</seg>
       </tuv>
@@ -77558,7 +76982,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>ctrl END</seg>
       </tuv>
@@ -77567,7 +76990,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>ctrl ENTER</seg>
       </tuv>
@@ -77584,7 +77006,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>ctrl HOME</seg>
       </tuv>
@@ -77625,7 +77046,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>ctrl LEFT</seg>
       </tuv>
@@ -77666,7 +77086,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>ctrl PAGE_DOWN</seg>
       </tuv>
@@ -77675,7 +77094,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>(Anand) touche de défilement haut ?</note>
       <tuv lang="en">
         <seg>ctrl PAGE_UP</seg>
@@ -77701,7 +77119,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>ctrl RIGHT</seg>
       </tuv>
@@ -77718,7 +77135,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>ctrl SPACE</seg>
       </tuv>
@@ -77895,7 +77311,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>ctrl shift LEFT</seg>
       </tuv>
@@ -77936,7 +77351,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>ctrl shift RIGHT</seg>
       </tuv>
@@ -77953,7 +77367,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>ctrl shift SPACE</seg>
       </tuv>
@@ -78530,7 +77943,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>editorContextMenu</seg>
       </tuv>
@@ -78539,7 +77951,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>editorDeleteNextToken</seg>
       </tuv>
@@ -78548,7 +77959,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>editorDeletePrevToken</seg>
       </tuv>
@@ -78557,7 +77967,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>editorFirstSegment</seg>
       </tuv>
@@ -78566,7 +77975,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>editorInsertLineBreak</seg>
       </tuv>
@@ -78575,7 +77983,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>editorLastSegment</seg>
       </tuv>
@@ -78584,7 +77991,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>editorNextSegment</seg>
       </tuv>
@@ -78593,7 +77999,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>editorNextSegmentNotTab</seg>
       </tuv>
@@ -78602,7 +78007,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>editorPrevSegment</seg>
       </tuv>
@@ -78611,7 +78015,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>editorPrevSegmentNotTab</seg>
       </tuv>
@@ -78620,7 +78023,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>editorSelectAll</seg>
       </tuv>
@@ -78629,7 +78031,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>editorSkipNextToken</seg>
       </tuv>
@@ -78638,7 +78039,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>editorSkipNextTokenWithSelection</seg>
       </tuv>
@@ -78647,7 +78047,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>editorSkipPrevToken</seg>
       </tuv>
@@ -78656,7 +78055,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>editorSkipPrevTokenWithSelection</seg>
       </tuv>
@@ -78665,7 +78063,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>editorToggleCursorLock</seg>
       </tuv>
@@ -78674,7 +78071,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>editorToggleOvertype</seg>
       </tuv>
@@ -78723,7 +78119,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>encoding of the source file</seg>
       </tuv>
@@ -78732,7 +78127,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>encoding of the target file</seg>
       </tuv>
@@ -79157,7 +78551,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>glossary.txt</seg>
       </tuv>
@@ -79526,7 +78919,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>host name on the system</seg>
       </tuv>
@@ -79903,7 +79295,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>http://www.apertium.org</seg>
       </tuv>
@@ -80040,7 +79431,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>https://cloud.google.com/translate/</seg>
       </tuv>
@@ -80049,7 +79439,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>https://cloud.google.com/translate/docs/reference/rest/</seg>
       </tuv>
@@ -80106,7 +79495,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>https://docs.oracle.com/javase/8/docs/api/java/text/SimpleDateFormat.html</seg>
       </tuv>
@@ -80203,7 +79591,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>https://mymemory.translated.net/</seg>
       </tuv>
@@ -80212,7 +79599,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>https://mymemory.translated.net/doc/cat.php</seg>
       </tuv>
@@ -80437,7 +79823,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>https://unicode.org/reports/tr18/#Blocks</seg>
       </tuv>
@@ -80446,7 +79831,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>https://unicode.org/reports/tr18/#General_Category_Property</seg>
       </tuv>
@@ -80455,7 +79839,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>https://unicode.org/reports/tr18/#Script_Property</seg>
       </tuv>
@@ -80464,7 +79847,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>https://www.deepl.com/en/pro</seg>
       </tuv>
@@ -80473,7 +79855,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>https://www.ibm.com/watson</seg>
       </tuv>
@@ -80498,7 +79879,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>https://www.regular-expressions.info/unicode.html</seg>
       </tuv>
@@ -81605,7 +80985,6 @@ de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>li[cs]en[cs]e</seg>
       </tuv>
@@ -82024,7 +81403,6 @@ Ok. </note>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>meta A</seg>
       </tuv>
@@ -82057,7 +81435,6 @@ Ok. </note>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>meta END</seg>
       </tuv>
@@ -82066,7 +81443,6 @@ Ok. </note>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>meta ENTER</seg>
       </tuv>
@@ -82083,7 +81459,6 @@ Ok. </note>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>meta HOME</seg>
       </tuv>
@@ -82156,7 +81531,6 @@ Ok. </note>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>meta PAGE_DOWN</seg>
       </tuv>
@@ -82165,7 +81539,6 @@ Ok. </note>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>meta PAGE_UP</seg>
       </tuv>
@@ -82718,7 +82091,6 @@ Ok. </note>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>name of the operating system</seg>
       </tuv>
@@ -83657,7 +83029,6 @@ Ok. </note>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>project.save</seg>
       </tuv>
@@ -84354,7 +83725,6 @@ Ok. </note>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>shift ENTER</seg>
       </tuv>
@@ -84363,7 +83733,6 @@ Ok. </note>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>shift ESCAPE</seg>
       </tuv>
@@ -84380,7 +83749,6 @@ Ok. </note>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>shift TAB</seg>
       </tuv>
@@ -84405,7 +83773,6 @@ Ok. </note>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>similarly, &lt;l0&gt;\R&lt;/l0&gt; is any line break character.</seg>
       </tuv>
@@ -84758,7 +84125,6 @@ Ok. </note>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>system time when the file was created</seg>
       </tuv>
@@ -84815,7 +84181,6 @@ Ok. </note>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>target language code (xx)</seg>
       </tuv>
@@ -84824,7 +84189,6 @@ Ok. </note>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>target language+region (xx-YY)</seg>
       </tuv>
@@ -84841,7 +84205,6 @@ Ok. </note>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>target region code (YY)</seg>
       </tuv>
@@ -84940,7 +84303,6 @@ Ok. </note>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>the &lt;l0/&gt; preference, etc.</seg>
       </tuv>
@@ -85061,7 +84423,6 @@ Ok. </note>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>the text before the location corresponds to a &lt;e0&gt;Before&lt;/e0&gt; rule,</seg>
       </tuv>
@@ -85294,7 +84655,6 @@ Ok. </note>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>to insert the source content in the target segment, words with a glossary entry will automatically be replaced by their translation.</seg>
       </tuv>
@@ -85703,7 +85063,6 @@ Ok. </note>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>user’s login name</seg>
       </tuv>
@@ -86560,7 +85919,6 @@ Ok. </note>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>“But that, that is just unbelievable”, because the first “that” is followed by both a comma and a space rather than only a space.</seg>
       </tuv>
@@ -86569,7 +85927,6 @@ Ok. </note>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>“I bought an an apple.”</seg>
       </tuv>
