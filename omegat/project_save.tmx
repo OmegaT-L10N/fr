@@ -8563,8 +8563,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="en">
         <seg>&lt;l0&gt;an?␣&lt;/l0&gt; (where “␣” represents a single space).</seg>
       </tuv>
-      <tuv lang="fr" changeid="sirine" changedate="20230303T102258Z" creationid="sirine" creationdate="20230303T101403Z">
-        <seg>&lt;l0&gt;an?␣&lt;/l0&gt; ( sachant que "␣" représente une espace unique).</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230314T164914Z" creationid="sirine" creationdate="20230303T101403Z">
+        <seg>fr&lt;l0&gt;an?␣&lt;/l0&gt; ( sachant que "␣" représente une espace unique).</seg>
       </tuv>
     </tu>
     <tu>
@@ -14311,6 +14311,7 @@ void, and will automatically terminate your rights under this License.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>fr</note>
       <tuv lang="en">
         <seg>Any combinations of three letters starting with “c” and ending with “t”: “&lt;e0&gt;cat&lt;/e0&gt;”, “&lt;e1&gt;cut&lt;/e1&gt;”, “&lt;e2&gt;cot&lt;/e2&gt;”, or even nonsensical combinations such as “&lt;e3&gt;czt&lt;/e3&gt;” or “&lt;e4&gt;cqt&lt;/e4&gt;”.</seg>
       </tuv>
@@ -23724,10 +23725,11 @@ by the Free Software Foundation.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>fr</note>
       <tuv lang="en">
         <seg>Either the “a ” or the “an ” in:</seg>
       </tuv>
-      <tuv lang="fr" changeid="sirine" changedate="20230303T101431Z" creationid="sirine" creationdate="20230303T101431Z">
+      <tuv lang="fr" changeid="sirine" changedate="20230314T164923Z" creationid="sirine" creationdate="20230303T101431Z">
         <seg>Soit le "a" ou le "an" dans :</seg>
       </tuv>
     </tu>
@@ -33941,6 +33943,7 @@ patent against the party.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>fr</note>
       <tuv lang="en">
         <seg>In the word “back”, for instance, only the “k” is matched.</seg>
       </tuv>
@@ -35947,6 +35950,7 @@ dans le dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>fr</note>
       <tuv lang="en">
         <seg>It will also find the final “an ” of “Can ” in a sentence such as “Can I help you?”, or the final “a ” of “pasta ” in “We had pasta for lunch.”</seg>
       </tuv>
@@ -40937,6 +40941,7 @@ as the Applications folder.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>fr</note>
       <tuv lang="en">
         <seg>Neither the “a” nor the “an” in:</seg>
       </tuv>
@@ -45026,6 +45031,7 @@ redontant URL
       </tuv>
     </tu>
     <tu>
+      <note>fr</note>
       <tuv lang="en">
         <seg>Only the initial “run” in those phrases is matched.</seg>
       </tuv>
@@ -59526,6 +59532,7 @@ shown below.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>fr</note>
       <tuv lang="en">
         <seg>The complete phrase in “run-on” or “run'n'gun”, because the hyphen and apostrophe are not included in &lt;l0&gt;\w&lt;/l0&gt;.</seg>
       </tuv>
@@ -60769,6 +60776,7 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
     </tu>
     <tu>
+      <note>fr</note>
       <tuv lang="en">
         <seg>The indefinite article: “a” (or “an”).</seg>
       </tuv>
@@ -60801,6 +60809,7 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
     </tu>
     <tu>
+      <note>fr</note>
       <tuv lang="en">
         <seg>The initial “An” or “The” in phrases such as:</seg>
       </tuv>
@@ -61130,6 +61139,7 @@ freedom to share and change it.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>fr</note>
       <tuv lang="en">
         <seg>The lowercase “a”, “b”, or “c” in the word “back”.</seg>
       </tuv>
@@ -63249,6 +63259,7 @@ L'idée était que l'utilisation de certaines touches en dehors du segment coura
       </tuv>
     </tu>
     <tu>
+      <note>fr</note>
       <tuv lang="en">
         <seg>The uppercase “A” in the following sentence: “A long, but exciting journey was about to begin”.</seg>
       </tuv>
@@ -63257,6 +63268,7 @@ L'idée était que l'utilisation de certaines touches en dehors du segment coura
       </tuv>
     </tu>
     <tu>
+      <note>fr</note>
       <tuv lang="en">
         <seg>The uppercase “A” in the following sentence: “My friend is writing a book called &lt;e0&gt;A Long Journey&lt;/e0&gt;”.</seg>
       </tuv>
@@ -63450,6 +63462,7 @@ the [Help] menu after starting OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>fr</note>
       <tuv lang="en">
         <seg>The word “run”, as well as “runs”, “runner”, “runway”, “runt” in “grunt” or “brunt”, and any other word or sequence of characters containing “run” followed by zero or more “&lt;e0&gt;word characters&lt;/e0&gt;” (which include digits and the underscore, so the part before the “@” in an email address such as run_123@example.email.org is also a match).</seg>
       </tuv>
