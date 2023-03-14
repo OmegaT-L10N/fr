@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_unknown" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_02bf2621" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -26099,18 +26099,26 @@ patents.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Find numerical dates in year, month, and day order with the month and day separated by a slash, period, or hyphen, such as:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230314T153052Z" creationid="sirine" creationdate="20230314T153052Z">
+        <seg>Trouver des dates en chaîne numérique dans un format année, mois et jour. Le mois et le jour sont séparés par une barre oblique, un point ou un trait d'union, par exemple :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Find words starting with a vowel that come after the article “a” rather than “an”.</seg>
       </tuv>
-      <tuv lang="fr" changeid="sirine" changedate="20230314T151852Z" creationid="sirine" creationdate="20230314T151528Z">
-        <seg>Trouver des mots commençant par une voyelle et placés après l'article "a" plutôt que "an".</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230314T152143Z" creationid="sirine" creationdate="20230314T151528Z">
+        <seg>Trouver des mots commençant par une voyelle et placés après l'article « a  » plutôt que « an  ».</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Find words starting with consonant that come after “an” rather than “a”.</seg>
       </tuv>
-      <tuv lang="fr" changeid="sirine" changedate="20230314T152108Z" creationid="sirine" creationdate="20230314T152108Z">
-        <seg>Trouver des mots commençant par une consonne et placés après "an" plutôt que "a".</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230314T152200Z" creationid="sirine" creationdate="20230314T152108Z">
+        <seg>Trouver des mots commençant par une consonne et placés après « an  » plutôt que « a  ».</seg>
       </tuv>
     </tu>
     <tu>
@@ -75529,6 +75537,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230306T104829Z" creationid="sirine" creationdate="20230306T104829Z">
         <seg>\d+.d</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\d{4}([/\.-]\d{1,2}){2}</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230314T152206Z" creationid="sirine" creationdate="20230314T152206Z">
+        <seg>\d{4}([/\.-]\d{1,2}){2}</seg>
       </tuv>
     </tu>
     <tu>
