@@ -3116,6 +3116,14 @@ le programme d'installation peut créer des raccourcis pour vous dans le menu d�
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>,\h[\h(\w+\.\w+)\w,'ʼ"“”-]+[\.,]</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230314T151314Z" creationid="sirine" creationdate="20230314T151314Z">
+        <seg>,\h[\h(\w+\.\w+)\w,'ʼ"“”-]+[\.,]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>- (X)HTML (*.html, *.xhtml,*.xht)</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20120411T085248Z">
@@ -26063,6 +26071,22 @@ patents.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130419T163802Z">
         <seg>Enfin, sauvegardez les changements en cliquant sur &lt;e0&gt;Fichier - Enregistrer.&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find clauses that start with a comma followed by a whitespace character, contain one or more words (including words in quotation marks, contractions, and filenames with a file extension), and end either with a comma or period.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230314T151448Z" creationid="sirine" creationdate="20230314T151448Z">
+        <seg>Trouver les parties commençant par une virgule suivie d'un caractère d'espacement, contenant un ou plusieurs mots (y compris les mots entre guillemets, les contractions et les noms de fichiers avec une extension) et se terminant par une virgule ou un point.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find double words.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230314T151310Z" creationid="sirine" creationdate="20230314T151310Z">
+        <seg>Trouver des doublons.</seg>
       </tuv>
     </tu>
     <tu>
