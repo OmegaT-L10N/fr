@@ -26091,6 +26091,22 @@ patents.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Find extra whitespace after the period at the end of a line.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230314T151520Z" creationid="sirine" creationdate="20230314T151520Z">
+        <seg>Trouver les caractères d'espacement supplémentaires après le point à la fin d'une ligne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find words starting with a vowel that come after the article “a” rather than “an”.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230314T151852Z" creationid="sirine" creationdate="20230314T151528Z">
+        <seg>Trouver des mots commençant par une voyelle et placés après l'article "a" plutôt que "an".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Finds the following:</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
@@ -75521,6 +75537,30 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T105045Z">
         <seg>\f</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\h+$</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230314T151457Z" creationid="sirine" creationdate="20230314T151457Z">
+        <seg>\h+$</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\h+a\h+[aeiou]</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230314T151527Z" creationid="sirine" creationdate="20230314T151527Z">
+        <seg>\h+a\h+[aeiou]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\h+an\h+[^aeiou]</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230314T151533Z" creationid="sirine" creationdate="20230314T151533Z">
+        <seg>[correspondance]\h+a\h+[aeiou]</seg>
       </tuv>
     </tu>
     <tu>
