@@ -44922,6 +44922,14 @@ kolteki later.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Once the code is downloaded, open a terminal in the source folder (&lt;f0&gt;omegat-code/&lt;/f0&gt; if you cloned from Sourceforge, or &lt;f1&gt;/omegat&lt;/f1&gt; if you cloned from GitHub) and type:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230315T164141Z" creationid="Anand" creationdate="20230315T164141Z">
+        <seg>Une fois le code téléchargé, ouvrez un terminal dans le dossier source (&lt;f0&gt;omegat-code&lt;/f0&gt; si vous l'avez cloné de Sourceforge, ou &lt;f1&gt;/omegat&lt;/f1&gt; si vous l'avez cloné de GitHub) et entrez la commande :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Once the operation has finished, you can check the said folder: it should now contain a subfolder .svn and a green OK badge on its icon will show, that the contents of the folder are up-to-date:</seg>
       </tuv>
       <tuv lang="fr" changeid="brigitte" changedate="20130714T143614Z">
