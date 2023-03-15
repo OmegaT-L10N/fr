@@ -13362,6 +13362,14 @@ rights of fair use or other equivalent, as provided by copyright law.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All the parameters located in a &lt;l0&gt;project folder&lt;/l0&gt; will apply to that project regardless of which version of OmegaT opens it.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230315T163048Z" creationid="Anand" creationdate="20230315T163048Z">
+        <seg>Tous les paramètres situés dans un &lt;l0&gt;dossier de projet&lt;/l0&gt; s'appliqueront à ce projet indépendamment de la version d'OmegaT avec laquelle vous l'ouvrez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All the parameters located in the OmegaT configuration folder will be shared unless you specify a different configuration folder with the &lt;l0&gt;--config-dir=&lt;path&gt;&lt;/l0&gt; option on the command line.</seg>
       </tuv>
       <tuv lang="fr" changeid="Anand" changedate="20230315T162849Z" creationid="Anand" creationdate="20230315T162849Z">
@@ -21205,6 +21213,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T095622Z" creationid="Léo Delaune" creationdate="20230306T095622Z">
         <seg>Supprimer le prochain Token</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Delete OmegaT</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230315T163142Z" creationid="Anand" creationdate="20230315T163058Z">
+        <seg>Supprimer OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -52888,6 +52904,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l1/&gt; section.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230315T162910Z" creationid="Anand" creationdate="20230315T162910Z">
+        <seg>Voir la section &lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;l1/&gt; window for details.</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230308T165316Z" creationid="Léo Delaune" creationdate="20230307T140920Z">
@@ -70874,6 +70898,14 @@ la configuration actuelle est de {0} Mo ;</seg>
       </tuv>
       <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210525T123000Z">
         <seg>Utilisez l'utilitaire de désarchivage « untar » (ou l'un de ses équivalents, par exemple&lt;f0&gt;winrar&lt;/f0&gt; pour Windows) pour extraire le contenu du fichier dans le dossier « dictionary » (dictionnaire) du projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use your operating system’s standard procedure to remove OmegaT.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230315T163122Z" creationid="Anand" creationdate="20230315T163122Z">
+        <seg>Utilisez la procédure standard de votre système d'exploitation pour supprimer OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
