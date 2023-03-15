@@ -13362,6 +13362,14 @@ rights of fair use or other equivalent, as provided by copyright law.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All the parameters located in the OmegaT configuration folder will be shared unless you specify a different configuration folder with the &lt;l0&gt;--config-dir=&lt;path&gt;&lt;/l0&gt; option on the command line.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230315T162849Z" creationid="Anand" creationdate="20230315T162849Z">
+        <seg>Tous les paramètres situés dans le dossier de configuration d'OmegaT seront partagés à moins que vous ne spécifiez un dossier de configuration différent à l'aide de l'option &lt;l0&gt;--config-dir=&lt;path&lt;/l0&gt; sur la ligne de commande.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All the relevant tags in the source - i.e. OmegaT as well as custom, Java, printf etc tags - will be inserted into the current target, regardless of whether they are already there or not.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130528T131306Z">
