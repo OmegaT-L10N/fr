@@ -62381,6 +62381,14 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The script checks for an existing installation of the same OmegaT version in &lt;f0&gt;/opt/omegat/&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230315T153512Z" creationid="Anand" creationdate="20230315T153512Z">
+        <seg>Le script va alors vérifier s'il existe déjà une installation de la même version d'OmegaT dans le dossier &lt;f0&gt;/opt/omegat/&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The script could not delete the authentication file '{0}'.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20151117T153340Z" creationid="Didier" creationdate="20151117T153340Z">
