@@ -43858,6 +43858,14 @@ be launched.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT packages are available both in versions bundled with Java, and versions without it.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230315T145305Z" creationid="Anand" creationdate="20230315T145305Z">
+        <seg>Les paquets d'OmegaT sont disponibles à la fois dans des versions avec Java, et dans des versions sans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT packages which include
 the Java Runtime Environment are now available to save users the trouble of 
 selecting, obtaining and installing it.</seg>
@@ -46306,6 +46314,14 @@ of promoting the sharing and reuse of software generally.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130429T081849Z">
         <seg>L'en-tête des fichiers PO sera ignorée et laissée inchangée, si cette option est activée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Packages without Java rely on a Java 8 Runtime Environment installed systemwide.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230315T145444Z" creationid="Anand" creationdate="20230315T145444Z">
+        <seg>Les paquets sans Java requièrent que l'environnement d'exécution Java 8 soit installé sur le système.</seg>
       </tuv>
     </tu>
     <tu>
