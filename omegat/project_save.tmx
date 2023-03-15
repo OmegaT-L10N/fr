@@ -31468,6 +31468,14 @@ authors' reputations.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If there isn’t one, it installs the program in &lt;f1&gt;/opt/omegat/OmegaT_5.8.0&lt;/f1&gt; and sets it as the default version (in &lt;f2&gt;/opt/omegat/OmegaT-default&lt;/f2&gt;).</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230315T153702Z" creationid="Anand" creationdate="20230315T153702Z">
+        <seg>S'il y en a pas, il va installer le programme dans le dossier &lt;f1&gt;/opt/omegat/OmegaT_5.8.0&lt;/f1&gt; et le définira comme version par défaut (dans le dossier &lt;f2&gt;/opt/omegat/OmegaT-default&lt;/f2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If there's no file name displayed, the source is the internal project translation memory.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130507T115707Z">
