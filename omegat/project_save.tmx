@@ -13717,6 +13717,14 @@ OmegaT.exe.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Although you can run OmegaT directly from the available files, you can also run the &lt;f0&gt;linux-install.sh&lt;/f0&gt; script found there to have OmegaT installed in more appropriate locations.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230315T152920Z" creationid="Anand" creationdate="20230315T152920Z">
+        <seg>Bien qu'il soit possible de lancer OmegaT directement à partir des fichiers disponibles, vous pouvez aussi exécuter le script &lt;f0&gt;linux-install.sh&lt;/f0&gt; qui s'y trouve pour installer OmegaT dans un emplacement plus approprié.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Always Confirm Quit</seg>
       </tuv>
       <tuv lang="fr" changeid="laurieetclémentine" changedate="20130411T140453Z">
@@ -57879,6 +57887,14 @@ Les remplacements portent sur les segments cible du projet, qu'ils soient déjà
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>That folder contains all the files needed to run OmegaT.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230315T152719Z" creationid="Anand" creationdate="20230315T152719Z">
+        <seg>Ce dossier contient tous les fichiers nécessaires pour exécuter OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>That is the reason why exception rules must come before segmentation rules.</seg>
       </tuv>
       <tuv lang="fr" changeid="Anand" changedate="20230307T175432Z" creationid="Anand" creationdate="20230307T175432Z">
@@ -64846,6 +64862,14 @@ under the terms of this General Public License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This creates a new folder named after the package you downloaded.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230315T152647Z" creationid="Anand" creationdate="20230315T152647Z">
+        <seg>Un nouveau dossier portant le nom du paquet que vous avez téléchargé va être créé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This creates an &lt;e2&gt;./OmegaT_2.n.n_Without_JRE/&lt;/e2&gt; folder in the working folder with all the files necessary to run &lt;a3&gt;OmegaT&lt;/a3&gt;.</seg>
       </tuv>
       <tuv lang="fr" changeid="brigitte" changedate="20130714T125453Z">
@@ -69495,6 +69519,14 @@ file and the OmegaT application.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130417T100405Z">
         <seg>Décompressez/désarchivez le fichier téléchargé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unpack/untar the file you downloaded.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230315T152529Z" creationid="Anand" creationdate="20230315T152529Z">
+        <seg>Décompressez/désarchivez le fichier que vous avez téléchargé.</seg>
       </tuv>
     </tu>
     <tu>
