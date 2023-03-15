@@ -46328,8 +46328,8 @@ of promoting the sharing and reuse of software generally.</seg>
       <tuv lang="en">
         <seg>Packages without Java rely on a Java 8 Runtime Environment installed systemwide.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230315T145444Z" creationid="Anand" creationdate="20230315T145444Z">
-        <seg>Les paquets sans Java requièrent que l'environnement d'exécution Java 8 soit installé sur le système.</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230315T150608Z" creationid="Anand" creationdate="20230315T145444Z">
+        <seg>Les paquets sans Java nécessitent l'installation de l'environnement d'exécution Java 8 sur l'ensemble du système.</seg>
       </tuv>
     </tu>
     <tu>
@@ -79996,6 +79996,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20200119T142702Z" creationid="suzume" creationdate="20200119T142702Z">
         <seg>https://omegat.sourceforge.net/webstart/OmegaT.jnlp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://projects.eclipse.org/projects/adoptium.temurin</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230315T150619Z" creationid="Anand" creationdate="20230315T150619Z">
+        <seg>https://projects.eclipse.org/projects/adoptium.temurin</seg>
       </tuv>
     </tu>
     <tu>
