@@ -23073,6 +23073,14 @@ Ajouter C:\Program Files (x86)\Prince\Engine\bin dans le Path.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Due to licensing considerations, the OmegaT team recommends the Eclipse Temurin Java runtime provided by the Eclipse Foundation's Adoptium Project, but any Java 8 compatible runtime environment should work.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230315T151029Z" creationid="Anand" creationdate="20230315T151029Z">
+        <seg>Pour des raisons de licence, l'équipe d'OmegaT recommande l'environnement d'exécution Eclipse Temurin Java fourni avec le projet Adoptium de la Fondation Eclipse, mais n'importe quel environnement d'exécution compatible avec Java 8 devrait marcher.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Duplicate</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130412T135628Z">
