@@ -4641,6 +4641,22 @@ Valider les balises.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>./gradlew run</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230315T164430Z" creationid="Anand" creationdate="20230315T164430Z">
+        <seg>./gradlew run</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>./gradlew tasks</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230315T164518Z" creationid="Anand" creationdate="20230315T164518Z">
+        <seg>./gradlew tasks</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>.repositories</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210110T133344Z" creationid="suzume" creationdate="20210110T133344Z">
@@ -21470,6 +21486,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20170331T122918Z" creationid="briac" creationdate="20170331T122918Z">
         <seg>Instructions détaillées</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Detailed instructions on building OmegaT can be found in the &lt;u0&gt;README.txt&lt;/u0&gt; file located in the &lt;f1&gt;docs_devel&lt;/f1&gt; subfolder.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230315T164720Z" creationid="Anand" creationdate="20230315T164720Z">
+        <seg>Vous pouvez trouver les informations détaillées sur la construction d'OmegaT dans le fichier &lt;u0&gt;README.txt&lt;/u0&gt; situé dans le sous-dossier &lt;f1&gt;docs_devel&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -74404,6 +74428,14 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>You can also run the application directly with the following command:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230315T164423Z" creationid="Anand" creationdate="20230315T164423Z">
+        <seg>Vous pouvez aussi lancer l'application directement avec la commande suivante :</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(sirine) phrase trop longue, difficile à comprendre -&gt; manque de clarté</note>
       <tuv lang="en">
         <seg>You can also search for the caret, closing bracket, and hyphen as themselves by placing them at a position that does not trigger their special meaning: anywhere except right after the opening bracket for the caret, immediately after either opening bracket or the caret following it for the closing bracket, and either just after the opening bracket or just before the closing bracket for the hyphen.</seg>
@@ -74785,6 +74817,14 @@ OmegaT-license.txt.</seg>
       <tuv lang="fr" changeid="Didier" changedate="20170210T102829Z" creationid="Didier" creationdate="20170210T102829Z">
         <seg>Vous pouvez trouver le texte de la licence dans
 OmegaT-license.txt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can get a list of all available tasks by typing:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230315T164508Z" creationid="Anand" creationdate="20230315T164508Z">
+        <seg>Vous pouvez obtenir une liste de toutes les tâches disponibles en entrant la commande :</seg>
       </tuv>
     </tu>
     <tu>
