@@ -32559,6 +32559,14 @@ OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you performed a manual installation on Linux, you will have to manually delete the OmegaT folders in &lt;f0&gt;opt/&lt;/f0&gt;, as well as the symlinks placed in &lt;f1&gt;/usr/local/bin/&lt;/f1&gt; by the installation script.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230315T163459Z" creationid="Anand" creationdate="20230315T163459Z">
+        <seg>Si vous avez effectué une installation manuelle sur Linux, vous devrez manuellement supprimer les dossiers d'OmegaT dans &lt;f0&gt;opt/&lt;/f0&gt;, mais aussi les liens symboliques placés dans le dossier &lt;f1&gt;/usr/local/bin/&lt;/f1&gt; par le script d'installation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you place such translation memory files in the &lt;f6&gt;/tm/&lt;/f6&gt; subfolder of a project, OmegaT will automatically search them for similar segments, called "fuzzy matches".</seg>
       </tuv>
       <tuv lang="fr" changeid="jchelary" changedate="20130526T124546Z">
@@ -32731,6 +32739,14 @@ OmegaT.</seg>
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230314T160333Z" creationid="sirine" creationdate="20230314T160333Z">
         <seg>Si vous souhaitez en savoir plus sur l'utilisation des expressions régulières, nous vous recommandons les deux sites ci-dessous.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you want to remove OmegaT completely, you will also have to delete the configuration folder.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230315T163314Z" creationid="Anand" creationdate="20230315T163314Z">
+        <seg>Si vous souhaitez complètement supprimer OmegaT, vous devrez aussi supprimer ler dossier de configuration.</seg>
       </tuv>
     </tu>
     <tu>
