@@ -32140,6 +32140,14 @@ been installed in ROM).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you decide to install a new version, keep the following in mind:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230315T160452Z" creationid="Anand" creationdate="20230315T160452Z">
+        <seg>Si vous décidez d'installer une nouvelle version, gardez les éléments suivants à l'esprit :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you develop a new program, and you want it to be of the greatest
 possible use to the public, the best way to achieve this is to make it
 free software which everyone can redistribute and change under these terms.</seg>
@@ -43235,6 +43243,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20161227T171311Z" creationid="Didier" creationdate="20161227T171311Z">
         <seg>OmegaT peut générer et stocker un mot de passe principal afin qu'il ne soit pas nécessaire de l'entrer à chaque fois, mais au détriment de la sécurité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT can tell you when a new version is available.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230315T160138Z" creationid="Anand" creationdate="20230315T160138Z">
+        <seg>OmegaT peut vous informer quand une nouvelle version est disponible.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59540,6 +59556,14 @@ shown below.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The changes between your version and the current version are documented in the development site’s &lt;u0&gt;changes.txt&lt;/u0&gt; file.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230315T160322Z" creationid="Anand" creationdate="20230315T160322Z">
+        <seg>Les changements entre votre version et la version actuelle est documentée dans le fichier &lt;u0&gt;changes.txt&lt;/u0&gt; sur le site du développement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The character with hexadecimal value 0xhh</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130528T083216Z">
@@ -69836,6 +69860,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
         <seg>Ainsi, mettre à jour un fichier glossaire est très facile : appuyez sur &lt;k0&gt;Ctrl+Maj+G&lt;/k0&gt; et entrez le nouveau terme, sa traduction et tous les commentaires que vous pourriez avoir (assurez-vous de bien appuyer sur la touche Tab entre les différents champs) et enregistrez le fichier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Upgrade</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230315T160125Z" creationid="Anand" creationdate="20230315T160125Z">
+        <seg>Mettre à jour</seg>
       </tuv>
     </tu>
     <tu>
@@ -80262,6 +80294,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210131T124423Z" creationid="suzume" creationdate="20210131T124423Z">
         <seg>https://sourceforge.net/p/omegat/code/ci/master/tarball?path=</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://sourceforge.net/p/omegat/code/ci/master/tree/release/changes.txt</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230315T160156Z" creationid="Anand" creationdate="20230315T160156Z">
+        <seg>https://sourceforge.net/p/omegat/code/ci/master/tree/release/changes.txt</seg>
       </tuv>
     </tu>
     <tu>
