@@ -44013,6 +44013,14 @@ selecting, obtaining and installing it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT projects are &lt;e1&gt;not&lt;/e1&gt; stored inside OmegaT.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230315T160933Z" creationid="Anand" creationdate="20230315T160933Z">
+        <seg>Les projets OmegaT ne sont &lt;e1&gt;pas&lt;/e1&gt; stockés à l'intérieur d'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT provides predefined segmentation rules, and the translator can use regular expressions to modify them.</seg>
       </tuv>
       <tuv lang="fr" changeid="Anand" changedate="20230307T174915Z" creationid="Anand" creationdate="20230307T174915Z">
@@ -46599,6 +46607,14 @@ mirage, pas de page...</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130430T082442Z">
         <seg>Les paragraphes, les sections et les tableaux sont définis de façon bidirectionnelle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Parameter files that are included in the downloaded OmegaT package (especially the &lt;f0&gt;OmegaT.l4J.ini&lt;/f0&gt; for &lt;l1&gt;Windows&lt;/l1&gt; and the &lt;f2&gt;Configuration.properties&lt;/f2&gt; and &lt;f3&gt;Info.plist&lt;/f3&gt; files for &lt;l4&gt;macOS&lt;/l4&gt; packages) might be overwritten or deleted, so you may want to create a backup before upgrading, if you have been using these files to modify OmegaT’s launch parameters.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230315T161656Z" creationid="Anand" creationdate="20230315T161656Z">
+        <seg>Les fichiers de paramétrages qui sont inclus dans le paquet OmegaT téléchargé (en particulier le fichier &lt;f0&gt;OmegaT.l4J.ini&lt;/f0&gt; pour les paquets &lt;l1&gt;Windows&lt;/l1&gt; ainsi que les fichiers &lt;f2&gt;Configuration.properties&lt;/f2&gt; et &lt;f3&gt;Info.plist&lt;/f3&gt; pour les paquets &lt;l4&gt;macOS&lt;/l4&gt;) peuvent être remplacés ou supprimés, donc si vous utilisiez ces fichiers pour modifier les paramètres de lancement d'OmegaT, vous devrez créer une copie de sauvegarde avant de procéder à la mise à jour.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64378,6 +64394,14 @@ pas de page...</seg>
       </tuv>
       <tuv lang="fr" changeid="jchelary" changedate="20130526T123534Z">
         <seg>Elles sont protégées pour que vous ne puissiez pas modifier leur contenu mais vous pouvez les supprimer, les entrer manuellement ou les déplacer dans la phrase cible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They are separate objects that have no physical connection to the OmegaT application itself.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230315T161002Z" creationid="Anand" creationdate="20230315T161002Z">
+        <seg>Ce sont des objets séparés et n'ont pas de connexion physique à l'application OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
