@@ -4633,6 +4633,14 @@ Valider les balises.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>./gradlew installDist</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230315T164147Z" creationid="Anand" creationdate="20230315T164147Z">
+        <seg>./gradlew installDist</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>.repositories</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210110T133344Z" creationid="suzume" creationdate="20210110T133344Z">
@@ -66446,6 +66454,14 @@ projet depuis le serveur.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20211117T145330Z" creationid="suzume" creationdate="20211117T145330Z">
         <seg>Cela créera une distribution complète d'OmegaT dans le dossier &lt;f0&gt;./build/distributions&lt;/f0&gt; dans lequel vous trouverez tous les fichiers nécessaires à l'exécution d'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This will create a full, ready to launch distribution of OmegaT in the &lt;f0&gt;build/install/OmegaT&lt;/f0&gt; folder.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230315T164345Z" creationid="Anand" creationdate="20230315T164345Z">
+        <seg>Cela va créer une distribution d'OmegaT complète et prête à être lancée dans le dossier &lt;f0&gt;build/install/OmegaT&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
