@@ -46279,6 +46279,14 @@ of promoting the sharing and reuse of software generally.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Over an existing version</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230315T161930Z" creationid="Anand" creationdate="20230315T161930Z">
+        <seg>Par-dessus une version existante</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Overlapping is the result of bad manipulations of tag pairs and is guaranteed to result in formatting corruption and sometimes in the translated file not opening at all.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130430T141356Z">
@@ -58411,6 +58419,14 @@ form of a work.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20211117T151228Z" creationid="suzume" creationdate="20211117T151228Z">
         <seg>Le sous-dossier &lt;f0&gt;omegat&lt;/f0&gt; contient au moins un fichier (peut en contenir plus).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f0&gt;plugins&lt;/f0&gt; and &lt;f1&gt;scripts&lt;/f1&gt; folders might be overwritten, so you may want to create a backup before upgrading.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230315T161839Z" creationid="Anand" creationdate="20230315T161839Z">
+        <seg>Les dossiers des &lt;f0&gt;extensions&lt;/f0&gt; et des &lt;f1&gt;scripts&lt;/f1&gt; peuvent être remplacés, vous pouvez donc créer une copie de sauvegarde avant de procéder à la mise à jour.</seg>
       </tuv>
     </tu>
     <tu>
