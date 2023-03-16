@@ -4087,8 +4087,8 @@ Spécifier un mode différent du mode par défaut (interface utilisateur).</seg>
 	  --pseudotranslatetmx=&lt;path&gt;
 	    The output pseudotranslated TMX file.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20221110T052605Z" creationid="suzume" creationdate="20221110T052605Z">
-        <seg>--mode=console-createpseudotranslatetmx :
+      <tuv lang="fr" changeid="suzume" changedate="20230316T074137Z" creationid="suzume" creationdate="20221110T052605Z">
+        <seg>--mode=console-createpseudotranslatetmx 
 	  --pseudotranslatetmx=&lt;chemin&gt;
 	  Le fichier TMX résultant qui contient la pseudo-traduction.</seg>
       </tuv>
@@ -11981,8 +11981,8 @@ or that patent license was granted, prior to 28 March 2007.</seg>
       <tuv lang="en">
         <seg>A vast range of functions, an uncluttered interface, and, most importantly, constant, regular open-source development!</seg>
       </tuv>
-      <tuv lang="fr" changeid="briac" changedate="20170413T064709Z" creationid="briac" creationdate="20170413T064616Z">
-        <seg>Une vaste palette de fonctions, une interface épurée et avant tout un développement constant et régulier grâce à l'open source !</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T073951Z" creationid="briac" creationdate="20170413T064616Z">
+        <seg>Une vaste palette de fonctions, une interface épurée et avant tout un développement constant et régulier grâce à l'open source !</seg>
       </tuv>
     </tu>
     <tu>
@@ -14798,8 +14798,8 @@ provoquer des comportements inattendus, mais corrects.</seg>
       <tuv lang="en">
         <seg>As elsewhere in the OmegaT project, the work of programming OmegaT is done by volunteers, and in keeping with the project philosophy, the developments and improvements they make to OmegaT are ultimately at their discretion.</seg>
       </tuv>
-      <tuv lang="fr" changeid="briac" changedate="20170403T094531Z" creationid="OmegaT Aligner" creationdate="20170329T123429Z">
-        <seg>Comme pour toutes les activités du projet, la programmation d'OmegaT est assumée par des bénévoles ; en harmonie avec la philosophie du projet, les développements et améliorations apportés sont au gré de chacun.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T074024Z" creationid="OmegaT Aligner" creationdate="20170329T123429Z">
+        <seg>Comme pour toutes les activités du projet, la programmation d'OmegaT est assumée par des bénévoles ; en harmonie avec la philosophie du projet, les développements et améliorations apportés sont au gré de chacun.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15633,8 +15633,8 @@ FOR THE PROGRAM, TO THE EXTENT PERMITTED BY APPLICABLE LAW.</seg>
       <tuv lang="en">
         <seg>Bad regular expression!</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20190421T021852Z">
-        <seg>Expression régulière incorrecte !</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T073951Z">
+        <seg>Expression régulière incorrecte !</seg>
       </tuv>
     </tu>
     <tu>
@@ -15813,8 +15813,8 @@ documentation.</seg>
       <tuv lang="en">
         <seg>Below is a list of areas for which further volunteers would be more than welcome!</seg>
       </tuv>
-      <tuv lang="fr" changeid="briac" changedate="20170331T122643Z" creationid="briac" creationdate="20170331T122643Z">
-        <seg>Voici une liste des domaines dans lesquels d'autres bénévoles seraient plus que bienvenus !</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T073951Z" creationid="briac" creationdate="20170331T122643Z">
+        <seg>Voici une liste des domaines dans lesquels d'autres bénévoles seraient plus que bienvenus !</seg>
       </tuv>
     </tu>
     <tu>
@@ -16713,8 +16713,8 @@ software--to make sure the software is free for all its users.</seg>
       <tuv lang="en">
         <seg>Cannot access glossary folder!</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20190421T021852Z">
-        <seg>Impossible d'accéder au dossier des glossaires !</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T073951Z">
+        <seg>Impossible d'accéder au dossier des glossaires !</seg>
       </tuv>
     </tu>
     <tu>
@@ -19054,8 +19054,8 @@ kolekti -b C:\[...]\trunk\doc_src2 publish [-j JOB] -l fr,en C:\[...]\trunk\doc_
       <tuv lang="en">
         <seg>Confused by false start of comment tag!</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20190421T021852Z">
-        <seg>Confusion due à une balise de début de commentaire erronée !</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T073951Z">
+        <seg>Confusion due à une balise de début de commentaire erronée !</seg>
       </tuv>
     </tu>
     <tu>
@@ -19126,8 +19126,8 @@ kolekti -b C:\[...]\trunk\doc_src2 publish [-j JOB] -l fr,en C:\[...]\trunk\doc_
       <tuv lang="en">
         <seg>Console only options:</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20221015T222604Z" creationid="suzume" creationdate="20221015T222604Z">
-        <seg>Options limitées à la console :</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T074150Z" creationid="suzume" creationdate="20221015T222604Z">
+        <seg>Options limitées à la console:</seg>
       </tuv>
     </tu>
     <tu>
@@ -19362,8 +19362,8 @@ des étapes supplémentaires sont nécessaires.</seg>
       <tuv lang="en">
         <seg>Continuing Professional Development is the current buzzword!</seg>
       </tuv>
-      <tuv lang="fr" changeid="briac" changedate="20170403T131240Z" creationid="briac" creationdate="20170403T131240Z">
-        <seg>La formation professionnelle continue est à la mode !</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T073951Z" creationid="briac" creationdate="20170403T131240Z">
+        <seg>La formation professionnelle continue est à la mode !</seg>
       </tuv>
     </tu>
     <tu>
@@ -24247,8 +24247,8 @@ pas de page...</seg>
       <tuv lang="en">
         <seg>End of stream encountered without finding close block!</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20190421T021852Z">
-        <seg>Pas de bloc de fin en clôture de fichier !</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T073951Z">
+        <seg>Pas de bloc de fin en clôture de fichier !</seg>
       </tuv>
     </tu>
     <tu>
@@ -24591,8 +24591,8 @@ personne ne vous entend pleurer...</seg>
       <tuv lang="en">
         <seg>Error creating project!</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20190421T021852Z">
-        <seg>Erreur en créant le projet !</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T073951Z">
+        <seg>Erreur en créant le projet !</seg>
       </tuv>
     </tu>
     <tu>
@@ -24687,8 +24687,8 @@ personne ne vous entend pleurer...</seg>
       <tuv lang="en">
         <seg>Error monitoring post-processing commands!</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20221226T083449Z" creationid="suzume" creationdate="20221226T083449Z">
-        <seg>Erreur de surveillance de la commande de post-traitement !</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T073951Z" creationid="suzume" creationdate="20221226T083449Z">
+        <seg>Erreur de surveillance de la commande de post-traitement !</seg>
       </tuv>
     </tu>
     <tu>
@@ -24727,8 +24727,8 @@ personne ne vous entend pleurer...</seg>
       <tuv lang="en">
         <seg>Error saving project file!</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20190421T021852Z">
-        <seg>Erreur en sauvegardant le projet !</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T073951Z">
+        <seg>Erreur en sauvegardant le projet !</seg>
       </tuv>
     </tu>
     <tu>
@@ -24751,8 +24751,8 @@ personne ne vous entend pleurer...</seg>
       <tuv lang="en">
         <seg>Error searching folder tree!</seg>
       </tuv>
-      <tuv lang="fr" changeid="briac" changedate="20230115T125933Z" creationid="briac" creationdate="20230115T125933Z">
-        <seg>Erreur dans la recherche des répertoires !</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T073951Z" creationid="briac" creationdate="20230115T125933Z">
+        <seg>Erreur dans la recherche des répertoires !</seg>
       </tuv>
     </tu>
     <tu>
@@ -24879,24 +24879,24 @@ personne ne vous entend pleurer...</seg>
       <tuv lang="en">
         <seg>Escaped binary char contains malformed data ({0})!</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20190421T021852Z">
-        <seg>Caractère binaire contenant des données non conformes ({0}) !</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T073951Z">
+        <seg>Caractère binaire contenant des données non conformes ({0}) !</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Escaped character never terminated!</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20190421T021852Z">
-        <seg>Caractère d'échappement non fermé !</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T073951Z">
+        <seg>Caractère d'échappement non fermé !</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Escaped decimal char contains malformed data ({0})!</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20190421T021852Z">
-        <seg>Caractère décimal contenant des données non conformes ({0}) !</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T073951Z">
+        <seg>Caractère décimal contenant des données non conformes ({0}) !</seg>
       </tuv>
     </tu>
     <tu>
@@ -25500,8 +25500,8 @@ dommage...</seg>
       <tuv lang="en">
         <seg>External GPG did not return a valid signature; got: {0}</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20230316T073810Z" creationid="suzume" creationdate="20220317T141707Z">
-        <seg>Le GPG externe n'a pas retourné de signature valide ; reçu : {0}</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T074024Z" creationid="suzume" creationdate="20220317T141707Z">
+        <seg>Le GPG externe n'a pas retourné de signature valide ; reçu : {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -25780,16 +25780,16 @@ dommage...</seg>
       <tuv lang="en">
         <seg>Failed to commit source files!</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20190421T021852Z" creationid="Didier" creationdate="20171016T153828Z">
-        <seg>Échec d'envoi des fichiers source !</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T073951Z" creationid="Didier" creationdate="20171016T153828Z">
+        <seg>Échec d'envoi des fichiers source !</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Failed to commit target files!</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20190421T021852Z" creationid="Didier" creationdate="20171016T153835Z">
-        <seg>Échec d'envoi des fichiers cible !</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T073951Z" creationid="Didier" creationdate="20171016T153835Z">
+        <seg>Échec d'envoi des fichiers cible !</seg>
       </tuv>
     </tu>
     <tu>
@@ -25812,8 +25812,8 @@ dommage...</seg>
       <tuv lang="en">
         <seg>Failed to create project!</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20190421T021852Z">
-        <seg>Impossible de créer le projet !</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T073951Z">
+        <seg>Impossible de créer le projet !</seg>
       </tuv>
     </tu>
     <tu>
@@ -25845,16 +25845,16 @@ dommage...</seg>
       <tuv lang="en">
         <seg>Failed to load specified project!</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20190421T021852Z">
-        <seg>Le projet n'a pas pu être chargé !</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T073951Z">
+        <seg>Le projet n'a pas pu être chargé !</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Failed to load translation memory {0} for project!</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20190421T021850Z">
-        <seg>La mémoire de traduction {0} n'a pas pu être chargée dans le projet !</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T073951Z">
+        <seg>La mémoire de traduction {0} n'a pas pu être chargée dans le projet !</seg>
       </tuv>
     </tu>
     <tu>
@@ -26109,8 +26109,8 @@ dommage...</seg>
       <tuv lang="en">
         <seg>File {0} does not exist!</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20190421T021852Z">
-        <seg>Le fichier {0} n'existe pas !</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T073951Z">
+        <seg>Le fichier {0} n'existe pas !</seg>
       </tuv>
     </tu>
     <tu>
@@ -26514,8 +26514,8 @@ patents.</seg>
       <tuv lang="en">
         <seg>Floating '?' character not tied to '&gt;'!</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20190421T021852Z">
-        <seg>Caractère « ? » flottant non lié à « &gt; » !</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T073951Z">
+        <seg>Caractère « ? » flottant non lié à « &gt; » !</seg>
       </tuv>
     </tu>
     <tu>
@@ -27208,8 +27208,8 @@ know their rights.</seg>
       <tuv lang="en">
         <seg>For example, there is nothing to stop a user writing their own user manual or a demonstration video for OmegaT, and if the project considers it remotely useful, it is likely to be made available to OmegaT's community of users.</seg>
       </tuv>
-      <tuv lang="fr" changeid="briac" changedate="20170403T094337Z" creationid="OmegaT Aligner" creationdate="20170329T123429Z">
-        <seg>Par exemple, rien n'interdit d'écrire son propre guide de l'utilisateur ou de réaliser une vidéo de démonstration pour OmegaT ; les contributions jugées utiles par les membres du projet seront certainement mises à la disposition de la communauté des utilisateurs d'OmegaT.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T074024Z" creationid="OmegaT Aligner" creationdate="20170329T123429Z">
+        <seg>Par exemple, rien n'interdit d'écrire son propre guide de l'utilisateur ou de réaliser une vidéo de démonstration pour OmegaT ; les contributions jugées utiles par les membres du projet seront certainement mises à la disposition de la communauté des utilisateurs d'OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29118,8 +29118,8 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       <tuv lang="en">
         <seg>HHC file too big!</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20190421T021852Z">
-        <seg>Fichier HHC trop gros !</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T073951Z">
+        <seg>Fichier HHC trop gros !</seg>
       </tuv>
     </tu>
     <tu>
@@ -30099,8 +30099,8 @@ parties remain in full compliance.</seg>
       <tuv lang="en">
         <seg>I Understand; Do It Anyway</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20190421T021550Z" creationid="Didier" creationdate="20161227T171358Z">
-        <seg>Je comprends ; le faire quand même</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T074024Z" creationid="Didier" creationdate="20161227T171358Z">
+        <seg>Je comprends ; le faire quand même</seg>
       </tuv>
     </tu>
     <tu>
@@ -35402,8 +35402,8 @@ exécutez simplement le programme d'installation.</seg>
       <tuv lang="en">
         <seg>Invalid translated file language!</seg>
       </tuv>
-      <tuv lang="fr" changeid="briac" changedate="20230125T082545Z" creationid="briac" creationdate="20230125T082545Z">
-        <seg>La langue de fichier traduit n'est pas valide !</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T073951Z" creationid="briac" creationdate="20230125T082545Z">
+        <seg>La langue de fichier traduit n'est pas valide !</seg>
       </tuv>
     </tu>
     <tu>
@@ -35691,8 +35691,8 @@ exécutez simplement le programme d'installation.</seg>
       <tuv lang="en">
         <seg>It does not translate for you!</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20190421T023720Z" creationid="briac" creationdate="20170329T125214Z">
-        <seg>Il ne traduit pas à votre place !</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T073951Z" creationid="briac" creationdate="20170329T125214Z">
+        <seg>Il ne traduit pas à votre place !</seg>
       </tuv>
     </tu>
     <tu>
@@ -35715,8 +35715,8 @@ exécutez simplement le programme d'installation.</seg>
       <tuv lang="en">
         <seg>It has usually been in use for some time and is therefore proven.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Didier" changedate="20180806T090918Z" creationid="Didier" creationdate="20180806T090918Z">
-        <seg>Il s'agit de la version normalement utilisée ; elle se distingue par sa fiabilité.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T074024Z" creationid="Didier" creationdate="20180806T090918Z">
+        <seg>Il s'agit de la version normalement utilisée ; elle se distingue par sa fiabilité.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36301,8 +36301,8 @@ itself on the first run.</seg>
       <tuv lang="en">
         <seg>It's a real eye-opener!</seg>
       </tuv>
-      <tuv lang="fr" changeid="briac" changedate="20170403T091852Z" creationid="briac" creationdate="20170403T091852Z">
-        <seg>Ce sera peut-être une révélation !</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T073951Z" creationid="briac" creationdate="20170403T091852Z">
+        <seg>Ce sera peut-être une révélation !</seg>
       </tuv>
     </tu>
     <tu>
@@ -37758,8 +37758,8 @@ Exécutez OmegaT de la façon suivante.</seg>
       <tuv lang="en">
         <seg>Learn to use OmegaT in 5 minutes!</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20190421T021852Z">
-        <seg>Apprendre à utiliser OmegaT en cinq minutes !</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T073951Z">
+        <seg>Apprendre à utiliser OmegaT en cinq minutes !</seg>
       </tuv>
     </tu>
     <tu>
@@ -38570,8 +38570,8 @@ automatically download and install it.</seg>
       <tuv lang="en">
         <seg>Looking for a GPG executable: path {0} from $PATH is not accessible; skipping</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20230316T073810Z" creationid="suzume" creationdate="20220317T141524Z">
-        <seg>Recherche d'un exécutable GPG : le chemin {0} dans $PATH n'est pas accessible ; abandon</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T074024Z" creationid="suzume" creationdate="20220317T141524Z">
+        <seg>Recherche d'un exécutable GPG : le chemin {0} dans $PATH n'est pas accessible ; abandon</seg>
       </tuv>
     </tu>
     <tu>
@@ -41531,16 +41531,16 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>No GPG executable found; set it in the Git preferences in section "Committing", or define it in the git config gpg.program</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20220317T141635Z" creationid="suzume" creationdate="20220317T141635Z">
-        <seg>Aucun exécutable GPG trouvé ; définissez-le dans la section "Committing" des préférences Git, ou définissez-le dans git config gpg.program</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T074024Z" creationid="suzume" creationdate="20220317T141635Z">
+        <seg>Aucun exécutable GPG trouvé ; définissez-le dans la section "Committing" des préférences Git, ou définissez-le dans git config gpg.program</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>No GPG key found for key ID ''{0}''; check or set git config user.signingKey</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20220317T141321Z" creationid="suzume" creationdate="20220317T141321Z">
-        <seg>Aucune clé GPG pour l'ID "{0}" ; vérifiez la clé ou bien paramétrez git config user.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T074024Z" creationid="suzume" creationdate="20220317T141321Z">
+        <seg>Aucune clé GPG pour l'ID "{0}" ; vérifiez la clé ou bien paramétrez git config user.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41995,8 +41995,8 @@ Diminue les sorties sur stdout de la ligne de commande.</seg>
       <tuv lang="en">
         <seg>Not a valid XML file!</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20190421T021852Z">
-        <seg>Fichier XML non valide !</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T073951Z">
+        <seg>Fichier XML non valide !</seg>
       </tuv>
     </tu>
     <tu>
@@ -43676,8 +43676,8 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       <tuv lang="en">
         <seg>OmegaT for macOS is available in both Notarized and Unsigned versions; they are functionally identical, but the Notarized version is preferred as it is recognized by the system as being a) published by a known developer, and b) scanned by Apple.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20220823T211327Z" creationid="suzume" creationdate="20210323T161223Z">
-        <seg>OmegaT pour macOS est disponible en version notariée et en version non-signée ; les deux versions sont fonctionnellement identiques, mais la version notariée est préférée car elle est reconnue par le système comme étant a) publiée par un développeur connu et b) scannée par Apple.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T074024Z" creationid="suzume" creationdate="20210323T161223Z">
+        <seg>OmegaT pour macOS est disponible en version notariée et en version non-signée ; les deux versions sont fonctionnellement identiques, mais la version notariée est préférée car elle est reconnue par le système comme étant a) publiée par un développeur connu et b) scannée par Apple.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46873,8 +46873,8 @@ mirage, pas de page...</seg>
       <tuv lang="en">
         <seg>Parse error encountered reading preferences file!</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20190421T021852Z">
-        <seg>Erreur lors de l'analyse du fichier des préférences !</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T073951Z">
+        <seg>Erreur lors de l'analyse du fichier des préférences !</seg>
       </tuv>
     </tu>
     <tu>
@@ -47199,8 +47199,8 @@ l'ensemble.</seg>
 material in ./tm, ./glossary, and ./dictionary as required, then commit
 everything.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20221110T101347Z" creationid="suzume" creationdate="20221110T101347Z">
-        <seg>Placez les fichiers sources dans ./[ source] et les matériels supplémentaires dans
+      <tuv lang="fr" changeid="suzume" changedate="20230316T074251Z" creationid="suzume" creationdate="20221110T101347Z">
+        <seg>Placez les fichiers sources dans ./[source] et les matériels supplémentaires dans
 ./[tm], ./[glossary] et ./[dictionary] selon les besoins, puis validez (commit)
 l'ensemble.</seg>
       </tuv>
@@ -52460,8 +52460,8 @@ La recherche port par défaut sur le projet, et peut porter sur tout fichier sit
       <tuv lang="en">
         <seg>Search thread died unexpectedly!</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20190421T021852Z">
-        <seg>La recherche a été avortée !</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T073951Z">
+        <seg>La recherche a été avortée !</seg>
       </tuv>
     </tu>
     <tu>
@@ -58396,8 +58396,8 @@ Les remplacements portent sur les segments cible du projet, qu'ils soient déjà
       <tuv lang="en">
         <seg>That means there are only a few thousand left!</seg>
       </tuv>
-      <tuv lang="fr" changeid="briac" changedate="20170403T091946Z" creationid="briac" creationdate="20170403T091946Z">
-        <seg>Il n'en reste plus que quelques milliers à faire !</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T073951Z" creationid="briac" creationdate="20170403T091946Z">
+        <seg>Il n'en reste plus que quelques milliers à faire !</seg>
       </tuv>
     </tu>
     <tu>
@@ -58486,8 +58486,8 @@ language.</seg>
       <tuv lang="en">
         <seg>The "Standard" version of OmegaT includes a full user manual (at least in English) and will usually have been tested for some time to eliminate any bugs.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20190421T021550Z">
-        <seg>La version « standard » est fournie avec une documentation complète (tout au moins en anglais) ; elle a été soumise à des tests et a fait l'objet de corrections.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T074024Z">
+        <seg>La version « standard » est fournie avec une documentation complète (tout au moins en anglais) ; elle a été soumise à des tests et a fait l'objet de corrections.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59784,8 +59784,8 @@ shown below.</seg>
       <tuv lang="en">
         <seg>The application runs on your machine.</seg>
       </tuv>
-      <tuv lang="fr" changeid="briac" changedate="20170403T155758Z" creationid="briac" creationdate="20170403T155747Z">
-        <seg>L'application est exécutée sur votre machine ;</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T074008Z" creationid="briac" creationdate="20170403T155747Z">
+        <seg>L'application est exécutée sur votre machine ;</seg>
       </tuv>
     </tu>
     <tu>
@@ -60477,8 +60477,8 @@ instead.</seg>
       <tuv lang="en">
         <seg>The dictionary files folder does not exist!</seg>
       </tuv>
-      <tuv lang="fr" changeid="briac" changedate="20230125T082937Z" creationid="briac" creationdate="20230125T082937Z">
-        <seg>Le dossier des dictionnaires n'existe pas !</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T073951Z" creationid="briac" creationdate="20230125T082937Z">
+        <seg>Le dossier des dictionnaires n'existe pas !</seg>
       </tuv>
     </tu>
     <tu>
@@ -60701,8 +60701,8 @@ instead.</seg>
       <tuv lang="en">
         <seg>The export translation memory folder does not exist!</seg>
       </tuv>
-      <tuv lang="fr" changeid="briac" changedate="20230125T082920Z" creationid="briac" creationdate="20230125T082920Z">
-        <seg>Le dossier des mémoires de traduction exportées n'existe pas !</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T073951Z" creationid="briac" creationdate="20230125T082920Z">
+        <seg>Le dossier des mémoires de traduction exportées n'existe pas !</seg>
       </tuv>
     </tu>
     <tu>
@@ -61256,8 +61256,8 @@ instead.</seg>
       <tuv lang="en">
         <seg>The glossary files folder does not exist!</seg>
       </tuv>
-      <tuv lang="fr" changeid="briac" changedate="20230125T082715Z" creationid="briac" creationdate="20230125T082715Z">
-        <seg>Le dossier des glossaires n'existe pas !</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T073951Z" creationid="briac" creationdate="20230125T082715Z">
+        <seg>Le dossier des glossaires n'existe pas !</seg>
       </tuv>
     </tu>
     <tu>
@@ -62282,8 +62282,8 @@ sure this has not already been reported.</seg>
       <tuv lang="en">
         <seg>The perfect companion for those of us who don't need complexity but efficiency; glossaries, auto-complete and automatic translation makes my work in literary translation so much more efficient</seg>
       </tuv>
-      <tuv lang="fr" changeid="Didier" changedate="20180918T135231Z" creationid="Didier" creationdate="20180918T135231Z">
-        <seg>Le compagnon idéal pour ceux d'entre nous qui n'ont pas besoin de complexité mais d'efficacité ; les glossaires, la saisie et la traduction automatique me rendent plus productif pour mes traductions littéraires.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T074024Z" creationid="Didier" creationdate="20180918T135231Z">
+        <seg>Le compagnon idéal pour ceux d'entre nous qui n'ont pas besoin de complexité mais d'efficacité ; les glossaires, la saisie et la traduction automatique me rendent plus productif pour mes traductions littéraires.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63309,8 +63309,8 @@ making modifications to it.</seg>
       <tuv lang="en">
         <seg>The source file language entered is invalid!</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20190421T021852Z">
-        <seg>Le code pour la langue source n'est pas valide !</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T073951Z">
+        <seg>Le code pour la langue source n'est pas valide !</seg>
       </tuv>
     </tu>
     <tu>
@@ -63325,8 +63325,8 @@ making modifications to it.</seg>
       <tuv lang="en">
         <seg>The source files folder does not exist!</seg>
       </tuv>
-      <tuv lang="fr" changeid="briac" changedate="20230125T082640Z" creationid="briac" creationdate="20230125T082640Z">
-        <seg>Le dossier des fichiers source n'existe pas !</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T073951Z" creationid="briac" creationdate="20230125T082640Z">
+        <seg>Le dossier des fichiers source n'existe pas !</seg>
       </tuv>
     </tu>
     <tu>
@@ -63776,8 +63776,8 @@ L'idée était que l'utilisation de certaines touches en dehors du segment coura
       <tuv lang="en">
         <seg>The translated files folder does not exist!</seg>
       </tuv>
-      <tuv lang="fr" changeid="briac" changedate="20230125T082701Z" creationid="briac" creationdate="20230125T082701Z">
-        <seg>Le dossier des fichiers traduits n'existe pas !</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T073951Z" creationid="briac" creationdate="20230125T082701Z">
+        <seg>Le dossier des fichiers traduits n'existe pas !</seg>
       </tuv>
     </tu>
     <tu>
@@ -63808,8 +63808,8 @@ L'idée était que l'utilisation de certaines touches en dehors du segment coura
       <tuv lang="en">
         <seg>The translation memory files folder does not exist!</seg>
       </tuv>
-      <tuv lang="fr" changeid="briac" changedate="20230125T082850Z" creationid="briac" creationdate="20230125T082850Z">
-        <seg>Le dossier des mémoires de traduction n'existe pas !</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T073951Z" creationid="briac" creationdate="20230125T082850Z">
+        <seg>Le dossier des mémoires de traduction n'existe pas !</seg>
       </tuv>
     </tu>
     <tu>
@@ -64098,8 +64098,8 @@ the [Help] menu after starting OmegaT.</seg>
       <tuv lang="en">
         <seg>The writable glossary file folder does not exist!</seg>
       </tuv>
-      <tuv lang="fr" changeid="briac" changedate="20230125T082738Z" creationid="briac" creationdate="20230125T082738Z">
-        <seg>Le dossier du glossaire en écriture n'existe pas !</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T073951Z" creationid="briac" creationdate="20230125T082738Z">
+        <seg>Le dossier du glossaire en écriture n'existe pas !</seg>
       </tuv>
     </tu>
     <tu>
@@ -66626,8 +66626,8 @@ be a consequence of the rest of this License.</seg>
       <tuv lang="en">
         <seg>This site is also available in English!</seg>
       </tuv>
-      <tuv lang="fr" changeid="briac" changedate="20170403T100018Z" creationid="briac" creationdate="20170403T100018Z">
-        <seg>Ce site est également disponible en français !</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T073951Z" creationid="briac" creationdate="20170403T100018Z">
+        <seg>Ce site est également disponible en français !</seg>
       </tuv>
     </tu>
     <tu>
@@ -69680,8 +69680,8 @@ Les recherches exactes correspondent à l'ensemble de la chaîne recherchée.</s
       <tuv lang="en">
         <seg>Unable to build new TMX file!</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20190421T021852Z">
-        <seg>Impossible de créer un nouveau fichier TMX !</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T073951Z">
+        <seg>Impossible de créer un nouveau fichier TMX !</seg>
       </tuv>
     </tu>
     <tu>
@@ -69704,8 +69704,8 @@ Les recherches exactes correspondent à l'ensemble de la chaîne recherchée.</s
       <tuv lang="en">
         <seg>Unable to convert project!</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20220919T094832Z" creationid="suzume" creationdate="20220919T094832Z">
-        <seg>Impossible de convertir le projet !</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T073951Z" creationid="suzume" creationdate="20220919T094832Z">
+        <seg>Impossible de convertir le projet !</seg>
       </tuv>
     </tu>
     <tu>
@@ -69720,8 +69720,8 @@ Les recherches exactes correspondent à l'ensemble de la chaîne recherchée.</s
       <tuv lang="en">
         <seg>Unable to download team project!</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20190421T021852Z" creationid="Didier" creationdate="20160427T150314Z">
-        <seg>Impossible de télécharger le projet en équipe !</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T073951Z" creationid="Didier" creationdate="20160427T150314Z">
+        <seg>Impossible de télécharger le projet en équipe !</seg>
       </tuv>
     </tu>
     <tu>
@@ -69736,8 +69736,8 @@ Les recherches exactes correspondent à l'ensemble de la chaîne recherchée.</s
       <tuv lang="en">
         <seg>Unable to initialize reading of XML file!</seg>
       </tuv>
-      <tuv lang="fr" changeid="briac" changedate="20230115T130005Z" creationid="briac" creationdate="20230115T130005Z">
-        <seg>Impossible d'initialiser la lecture du fichier XML !</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T073951Z" creationid="briac" creationdate="20230115T130005Z">
+        <seg>Impossible d'initialiser la lecture du fichier XML !</seg>
       </tuv>
     </tu>
     <tu>
@@ -69784,8 +69784,8 @@ Les recherches exactes correspondent à l'ensemble de la chaîne recherchée.</s
       <tuv lang="en">
         <seg>Unable to read project file!</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20190421T021852Z">
-        <seg>Impossible de lire le fichier projet !</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T073951Z">
+        <seg>Impossible de lire le fichier projet !</seg>
       </tuv>
     </tu>
     <tu>
@@ -69920,8 +69920,8 @@ Les recherches exactes correspondent à l'ensemble de la chaîne recherchée.</s
       <tuv lang="en">
         <seg>Unexpected char {0} ({1})!</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20190421T021852Z">
-        <seg>Caractère non conforme {0} ({1}) !</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T073951Z">
+        <seg>Caractère non conforme {0} ({1}) !</seg>
       </tuv>
     </tu>
     <tu>
@@ -70206,8 +70206,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="en">
         <seg>Unsupported XML version {0}!</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20190421T021852Z">
-        <seg>Version XML non prise en charge {0} !</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T073951Z">
+        <seg>Version XML non prise en charge {0} !</seg>
       </tuv>
     </tu>
     <tu>
@@ -70222,8 +70222,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="en">
         <seg>Unsupported project file version ({0})!</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20190421T021852Z">
-        <seg>Version de fichier projet non prise en charge ({0}) !</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T073951Z">
+        <seg>Version de fichier projet non prise en charge ({0}) !</seg>
       </tuv>
     </tu>
     <tu>
@@ -70533,8 +70533,8 @@ nouvelle version : {2}</seg>
         <seg>Usage: team init &lt;source language&gt; &lt;target language&gt;
 	See --help.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20221203T132331Z" creationid="suzume" creationdate="20221203T132331Z">
-        <seg>Utilisation : team init &lt;langue source&gt; &lt;langue cible&gt;
+      <tuv lang="fr" changeid="suzume" changedate="20230316T074211Z" creationid="suzume" creationdate="20221203T132331Z">
+        <seg>Utilisation : team init &lt;langue source&gt; &lt;langue cible&gt;
 	  Voir --help.</seg>
       </tuv>
     </tu>
@@ -71632,8 +71632,8 @@ searchable without subscription:</seg>
       <tuv lang="en">
         <seg>Users in a hurry can use the Unsigned version instead; if you have difficulty launching the app, see &lt;a0&gt;how to open an app from an unidentified developer&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210323T160106Z" creationid="suzume" creationdate="20210323T160106Z">
-        <seg>Les utilisateurs pressés peuvent utiliser la version non signée ; si vous rencontrez des difficultés à lancer l'application, consultez l'article &lt;a0&gt;Comment ouvrir une application d'un développeur non identifié&lt;/a0&gt;.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T074024Z" creationid="suzume" creationdate="20210323T160106Z">
+        <seg>Les utilisateurs pressés peuvent utiliser la version non signée ; si vous rencontrez des difficultés à lancer l'application, consultez l'article &lt;a0&gt;Comment ouvrir une application d'un développeur non identifié&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -72372,8 +72372,8 @@ searchable without subscription:</seg>
       <tuv lang="en">
         <seg>Warning!</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20190421T021852Z" creationid="Didier" creationdate="20131029T133204Z">
-        <seg>Avertissement !</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T073951Z" creationid="Didier" creationdate="20131029T133204Z">
+        <seg>Avertissement !</seg>
       </tuv>
     </tu>
     <tu>
@@ -76358,16 +76358,16 @@ de créer son dossier de configuration.</seg>
       <tuv lang="en">
         <seg>[{0}] “{1}” in source; expected one of {2} in target</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20190421T021550Z" creationid="Didier" creationdate="20170620T151613Z">
-        <seg>[{0}] « {1} » en source ; une des occurrences de {2} attendue en cible</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T074024Z" creationid="Didier" creationdate="20170620T151613Z">
+        <seg>[{0}] « {1} » en source ; une des occurrences de {2} attendue en cible</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>[{0}] “{1}” in source; expected “{2}” in target</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20190421T021550Z" creationid="Didier" creationdate="20170620T151536Z">
-        <seg>[{0}] « {1} » en source ; « {2} » attendu en cible</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T074024Z" creationid="Didier" creationdate="20170620T151536Z">
+        <seg>[{0}] « {1} » en source ; « {2} » attendu en cible</seg>
       </tuv>
     </tu>
     <tu>
@@ -87384,8 +87384,8 @@ Ok. </note>
       <tuv lang="en">
         <seg>Preferences system save operation failed!</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210505T045252Z" creationid="suzume" creationdate="20210505T045205Z">
-        <seg>Impossible d'enregistrer les préférences !</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T073951Z" creationid="suzume" creationdate="20210505T045205Z">
+        <seg>Impossible d'enregistrer les préférences !</seg>
       </tuv>
     </tu>
     <tu>
