@@ -53306,6 +53306,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l1/&gt; window.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230316T094137Z" creationid="Léo Delaune" creationdate="20230316T094137Z">
+        <seg>Voir la fenêtre &lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;l2/&gt; appendix for details.</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230308T180742Z" creationid="Léo Delaune" creationdate="20230308T180742Z">
@@ -56655,6 +56663,15 @@ patents cannot be used to render the program non-free.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Stop at untranslated and alternatives translations</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230316T094148Z" creationid="Léo Delaune" creationdate="20230316T094148Z">
+        <seg>Arrêt sur les traductions non traduites et alternatives
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Store for this session only</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20161227T170651Z" creationid="Didier" creationdate="20161227T170651Z">
@@ -59033,6 +59050,15 @@ form of a work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;l0/&gt; script does something similar but for the whole project at once.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230316T094120Z" creationid="Léo Delaune" creationdate="20230316T094120Z">
+        <seg>Le script &lt;l0/&gt; fait quelque chose de similaire, mais pour l'ensemble du projet en une seule fois.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;l0/&gt; section at the end of this appendix provides a few starting points to explore advanced or complex uses beyond the scope of this guide.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221016T093234Z" creationid="suzume" creationdate="20221016T093234Z">
@@ -60976,6 +61002,15 @@ instead.</seg>
       </tuv>
       <tuv lang="fr" changeid="Anand" changedate="20230315T145057Z" creationid="suzume" creationdate="20221016T071231Z">
         <seg>Les fichiers sont téléchargeables directement à partir de &lt;u0&gt;https://omegat.org/fr&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The files are overwritten when OmegaT enters a new segment.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230316T094111Z" creationid="Léo Delaune" creationdate="20230316T094055Z">
+        <seg>Les fichiers sont écrasés lorsque OmegaT entre dans un nouveau segment.
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -65886,6 +65921,15 @@ under the terms of this General Public License.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20141202T223818Z">
         <seg>Ce formatage a été supprimé.&lt;segment 0001&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This function has no relation to the &lt;l0/&gt; function.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230316T094040Z" creationid="Léo Delaune" creationdate="20230316T094040Z">
+        <seg>Cette fonction n'a aucun rapport avec la fonction &lt;l0/&gt;.
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -77195,6 +77239,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>also stops at segments with alternative translations.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230316T094158Z" creationid="Léo Delaune" creationdate="20230316T094158Z">
+        <seg>s'arrête également sur les segments comportant des traductions alternatives.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>alt BACK_SPACE</seg>
       </tuv>
       <tuv lang="fr" changeid="Anand" changedate="20230310T125912Z" creationid="Léo Delaune" creationdate="20230306T095414Z">
@@ -77809,6 +77861,15 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T095847Z">
         <seg>bos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>both located in the &lt;l0&gt;scripting folder&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230316T094026Z" creationid="Léo Delaune" creationdate="20230316T094026Z">
+        <seg>tous deux situés dans le &lt;l0&gt;dossier de script&lt;/l0&gt;.
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -85754,6 +85815,23 @@ Ok. </note>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130507T085749Z">
         <seg>les fichiers TMX du dossier principal du projet (voir ci-dessus) contiennent les traductions (dans la paire de langues sélectionnée) des fichiers que vous avez copiés dans le dossier source.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the content of the source part is copied to the &lt;l0/&gt; file,</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230316T094000Z" creationid="Léo Delaune" creationdate="20230316T094000Z">
+        <seg>le contenu de la partie source est copié dans le fichier &lt;l0/&gt;,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the content of the target part (if any) is copied to the &lt;l0/&gt; file,</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230316T094014Z" creationid="Léo Delaune" creationdate="20230316T094014Z">
+        <seg>le contenu de la partie cible (le cas échéant) est copié dans le fichier &lt;l0/&gt;,
+</seg>
       </tuv>
     </tu>
     <tu>
