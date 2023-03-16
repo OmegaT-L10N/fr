@@ -1390,8 +1390,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Ignore type and ctype attributes when building &lt;ph&gt; tag shortcuts</seg>
       </tuv>
-      <tuv lang="fr" changeid="Didier" changedate="20131230T125440Z" creationid="Didier" creationdate="20131230T125440Z">
-        <seg>&amp;Ignorer les attributs type et ctype en construisant les raccourcis des balises &lt;ph&gt;</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T062805Z" creationid="Didier" creationdate="20131230T125440Z">
+        <seg>&amp;Ignorer les attributs type et ctype pour construire les balises abrégées &lt;ph&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -33152,8 +33152,8 @@ click on that shortcut.</seg>
       <tuv lang="en">
         <seg>Ignore type and ctype attributes when building &lt;&amp;bpt&gt; and &lt;ept&gt; tag shortcuts</seg>
       </tuv>
-      <tuv lang="fr" changeid="Didier" changedate="20140421T135849Z" creationid="Didier" creationdate="20140414T092315Z">
-        <seg>Ignorer les attributs type et ctype en construisant les raccourcis des balises &lt;&amp;bpt&gt; et &lt;ept&gt;</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T062744Z" creationid="Didier" creationdate="20140414T092315Z">
+        <seg>Ignorer les attributs type et ctype pour construire les balises abrégées &lt;&amp;bpt&gt; et &lt;ept&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -57383,16 +57383,16 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       <tuv lang="en">
         <seg>Tag shortcuts</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230306T133944Z" creationid="Anand" creationdate="20230306T133944Z">
-        <seg>Raccourcis de balises</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T062821Z" creationid="Anand" creationdate="20230306T133944Z">
+        <seg>Balises abrégées</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Tag shortcuts (do not apply to OmegaT 2.6 compatible files):</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20230316T062529Z" creationid="suzume" creationdate="20230316T062529Z">
-        <seg>ne s'appliquent pas aux fichiers compatibles avec OmegaT 2.6 :</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T062648Z" creationid="suzume" creationdate="20230316T062529Z">
+        <seg>Balises abrégées (ne s'applique pas aux fichiers compatibles avec OmegaT 2.6) :</seg>
       </tuv>
     </tu>
     <tu>
