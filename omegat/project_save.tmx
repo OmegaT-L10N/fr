@@ -51856,6 +51856,16 @@ REPAIR OR CORRECTION.</seg>
     <tu>
       <tuv lang="en">
         <seg>Scope:
+Searches apply to the project and cover its source and target text, reference TMs, glossaries, notes, and comments by default.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T062028Z" creationid="suzume" creationdate="20230316T062028Z">
+        <seg>Étendue :
+Les recherches s'appliquent au projet et recouvrent par défaut les textes en source et en cible, les mémoires de référence, les glossaires, les notes et les commentaires.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Scope:
 The scope of a search is by default the project and can be set to be any files located in a specified folder hierarchy.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z" creationid="Didier" creationdate="20151111T093617Z">
