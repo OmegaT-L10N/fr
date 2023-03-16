@@ -32308,8 +32308,8 @@ folder, see the manual for its location).</seg>
       <tuv lang="en">
         <seg>If you choose to use an existing file as the default glossary, all new entries will be recorded in tab-separated format and saved in UTF-8 by default.</seg>
       </tuv>
-      <tuv lang="fr" changeid="sirine" changedate="20230316T161206Z" creationid="sirine" creationdate="20230316T161206Z">
-        <seg>Si vous utilisez un fichier existant comme glossaire par défaut, toutes les nouvelles entrées seront enregistrées dans un format séparé par des tabulations et sauvegardées en format UTF-8 par défaut.</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230316T162453Z" creationid="sirine" creationdate="20230316T161206Z">
+        <seg>Si vous utilisez un fichier existant comme glossaire par défaut, toutes les nouvelles entrées seront enregistrées dans un format séparé par des tabulations et sauvegardées en UTF-8 par défaut.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33006,6 +33006,14 @@ OmegaT.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20201203T090537Z" creationid="suzume" creationdate="20201203T090537Z">
         <seg>Si vous souhaitez retourner à la configuration par défaut du filtre, cliquez sur &lt;e1&gt;Valeurs par défaut.&lt;/e1&gt; Vous pourrez ainsi modifier le nom directement dans le champ de masque de nom de fichier cible présent dans la boite de dialogue des filtres de fichiers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you want to specify a different encoding, you can do so by adding a “magic” comment that takes the following form:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230316T164038Z" creationid="sirine" creationdate="20230316T164038Z">
+        <seg>Pour indiquer un encodage différent, vous pouvez ajouter un commentaire « magique  » sous la forme suivante :</seg>
       </tuv>
     </tu>
     <tu>
