@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_02bf26211" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -23306,7 +23306,6 @@ Ajouter C:\Program Files (x86)\Prince\Engine\bin dans le Path.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Duplicate fallbac&amp;k text</seg>
       </tuv>
@@ -36563,7 +36562,6 @@ itself on the first run.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Java Resource Bundles</seg>
       </tuv>
@@ -43942,7 +43940,6 @@ translation leveraging into updated projects.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en">
         <seg>OmegaT is a free and open source multiplatform computer-assisted translation (CAT) tool offering fuzzy matching, translation memory, keyword search, glossaries, and translation leveraging into updated projects.</seg>
       </tuv>
@@ -48036,7 +48033,6 @@ language you would like to translate to.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Preserve &amp;spaces for all tags</seg>
       </tuv>
@@ -48601,7 +48597,6 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Project autosaved at {0}</seg>
       </tuv>
@@ -51612,7 +51607,6 @@ REPAIR OR CORRECTION.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>SVG / Adobe Illustrator Export</seg>
       </tuv>
@@ -75088,6 +75082,14 @@ your programs, too.</seg>
       </tuv>
       <tuv lang="fr" changeid="briglegrand" changedate="20120502T071134Z">
         <seg>Vous pouvez créer de nouveaux projets en fonction de votre travail et vous pouvez ajouter plusieurs fichiers source à un même projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can create a script that includes the desired command line launch parameters.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230316T080026Z" creationid="Anand" creationdate="20230316T080026Z">
+        <seg>Vous pouvez créer un script qui inclut les paramètres de lancement de la ligne de commande souhaités.</seg>
       </tuv>
     </tu>
     <tu>
