@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_02bf26211" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3700,8 +3700,8 @@ le programme d'installation peut créer des raccourcis pour vous dans le menu d�
 	  otherwise use Options &gt; Global File Filters...;
 	- open them in their original application and verify that they are not empty.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20230316T074403Z">
-        <seg>- vérifier que leur format est pris en charge par OmegaT:
+      <tuv lang="fr" changeid="suzume" changedate="20230316T075036Z">
+        <seg>- vérifier que leur format est pris en charge par OmegaT :
 	  si les filtres locaux sont activés
 	  utilisez Projet &gt; Propriétés... &gt; Filtres de fichiers locaux...,
 	  sinon utilisez Options &gt; Filtres de fichiers globaux...;
@@ -5689,8 +5689,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="en">
         <seg>&lt;c0&gt;event&lt;/c0&gt; can be: &lt;o1&gt;typed&lt;/o1&gt;, &lt;o2&gt;pressed&lt;/o2&gt;, &lt;o3&gt;released&lt;/o3&gt;</seg>
       </tuv>
-      <tuv lang="fr" changeid="Léo Delaune" changedate="20230303T101737Z" creationid="Léo Delaune" creationdate="20230303T101737Z">
-        <seg>&lt;c0&gt;Evènement&lt;/c0&gt; peut être:&lt;o1&gt;typé&lt;/o1&gt;, &lt;o2&gt;pressé&lt;/o2&gt;, &lt;o3&gt;libéré&lt;/o3&gt;</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T075145Z" creationid="Léo Delaune" creationdate="20230303T101737Z">
+        <seg>&lt;c0&gt;Evènement&lt;/c0&gt; peut être :&lt;o1&gt;typé&lt;/o1&gt;, &lt;o2&gt;pressé&lt;/o2&gt;, &lt;o3&gt;libéré&lt;/o3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20338,8 +20338,8 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       <tuv lang="en">
         <seg>Creating translated files: {0}</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20230316T074403Z" creationid="suzume" creationdate="20221226T083046Z">
-        <seg>&amp;Créer les fichiers traduits: {0}</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T075037Z" creationid="suzume" creationdate="20221226T083046Z">
+        <seg>&amp;Créer les fichiers traduits : {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -23306,6 +23306,7 @@ Ajouter C:\Program Files (x86)\Prince\Engine\bin dans le Path.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Duplicate fallbac&amp;k text</seg>
       </tuv>
@@ -25459,8 +25460,8 @@ dommage...</seg>
       <tuv lang="en">
         <seg>Export translation memories folder:</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20230316T074403Z" creationid="suzume" creationdate="20221226T085724Z">
-        <seg>Dossier des mémoires de traduction exportées:</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T075042Z" creationid="suzume" creationdate="20221226T085724Z">
+        <seg>Dossier des mémoires de traduction exportées :</seg>
       </tuv>
     </tu>
     <tu>
@@ -31541,8 +31542,8 @@ when it starts in an interactive mode:</seg>
       <tuv lang="en">
         <seg>If the project contains files but their content is not displayed here:</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20230316T074403Z" creationid="suzume" creationdate="20221111T091640Z">
-        <seg>Si le projet contient des fichiers mais leur contenu n'est pas affiché ici:</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T075034Z" creationid="suzume" creationdate="20221111T091640Z">
+        <seg>Si le projet contient des fichiers mais leur contenu n'est pas affiché ici :</seg>
       </tuv>
     </tu>
     <tu>
@@ -36562,6 +36563,7 @@ itself on the first run.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Java Resource Bundles</seg>
       </tuv>
@@ -43932,6 +43934,7 @@ translation leveraging into updated projects.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en">
         <seg>OmegaT is a free and open source multiplatform computer-assisted translation (CAT) tool offering fuzzy matching, translation memory, keyword search, glossaries, and translation leveraging into updated projects.</seg>
       </tuv>
@@ -44972,8 +44975,8 @@ disponible dans MacPorts sous le nom « py27-pysvn ».</seg>
       <tuv lang="en">
         <seg>On macOS: &lt;k0&gt;&lt;k1&gt;Shift&lt;/k1&gt;&lt;k2&gt;Command&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;</seg>
       </tuv>
-      <tuv lang="fr" changeid="Léo Delaune" changedate="20230302T161420Z" creationid="Léo Delaune" creationdate="20230302T161420Z">
-        <seg>Sous macOS: &lt;k0&gt;&lt;k1&gt;Shift&lt;/k1&gt;&lt;k2&gt;Command&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T075135Z" creationid="Léo Delaune" creationdate="20230302T161420Z">
+        <seg>Sous macOS : &lt;k0&gt;&lt;k1&gt;Shift&lt;/k1&gt;&lt;k2&gt;Command&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -48025,6 +48028,7 @@ language you would like to translate to.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Preserve &amp;spaces for all tags</seg>
       </tuv>
@@ -48589,6 +48593,7 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Project autosaved at {0}</seg>
       </tuv>
@@ -50671,8 +50676,8 @@ ces mots : « pas de page »...</seg>
       <tuv lang="en">
         <seg>Repository (type: {0}) URL not defined on path: {1}</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20230316T074403Z" creationid="suzume" creationdate="20221015T223928Z">
-        <seg>L'URL de dépôt (type: {0}) n'est pas définie sur le chemin: {1}</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T075102Z" creationid="suzume" creationdate="20221015T223928Z">
+        <seg>L'URL de dépôt (type : {0}) n'est pas définie sur le chemin : {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -51599,6 +51604,7 @@ REPAIR OR CORRECTION.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>SVG / Adobe Illustrator Export</seg>
       </tuv>
@@ -60720,8 +60726,8 @@ instead.</seg>
       <tuv lang="en">
         <seg>The encoding used to read reference glossaries depends on their file extension:</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20230316T074403Z" creationid="suzume" creationdate="20221016T091043Z">
-        <seg>L'encodage utilisé pour lire les glossaires de référence dépend de leur extension de fichier:</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T075119Z" creationid="suzume" creationdate="20221016T091043Z">
+        <seg>L'encodage utilisé pour lire les glossaires de référence dépend de leur extension de fichier :</seg>
       </tuv>
     </tu>
     <tu>
@@ -64365,8 +64371,8 @@ the [Help] menu after starting OmegaT.</seg>
       <tuv lang="en">
         <seg>There are 2 kinds of glossary files:</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20230316T074403Z" creationid="suzume" creationdate="20221016T081328Z">
-        <seg>Il y a 2 types de fichiers de glossaires:</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T075116Z" creationid="suzume" creationdate="20221016T081328Z">
+        <seg>Il y a 2 types de fichiers de glossaires :</seg>
       </tuv>
     </tu>
     <tu>
@@ -69281,8 +69287,8 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       <tuv lang="en">
         <seg>Translation memories to export:</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20230316T074403Z" creationid="suzume" creationdate="20220821T152023Z">
-        <seg>Mémoires de traduction à exporter:</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T075043Z" creationid="suzume" creationdate="20220821T152023Z">
+        <seg>Mémoires de traduction à exporter :</seg>
       </tuv>
     </tu>
     <tu>
@@ -72860,8 +72866,8 @@ you have just discovered.</seg>
       <tuv lang="en">
         <seg>When entering an empty segment:</seg>
       </tuv>
-      <tuv lang="fr" changeid="Léo Delaune" changedate="20230313T204907Z" creationid="Léo Delaune" creationdate="20230313T204907Z">
-        <seg>En entrant dans un segment vide:</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T075050Z" creationid="Léo Delaune" creationdate="20230313T204907Z">
+        <seg>En entrant dans un segment vide :</seg>
       </tuv>
     </tu>
     <tu>
@@ -74034,8 +74040,8 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       <tuv lang="en">
         <seg>Writable glossary file:</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20230316T074403Z" creationid="suzume" creationdate="20221226T085621Z">
-        <seg>Glossaire modifiable:</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T075040Z" creationid="suzume" creationdate="20221226T085621Z">
+        <seg>Glossaire modifiable :</seg>
       </tuv>
     </tu>
     <tu>
@@ -84097,8 +84103,8 @@ Ok. </note>
       <tuv lang="en">
         <seg>or as follows for macOS:</seg>
       </tuv>
-      <tuv lang="fr" changeid="Léo Delaune" changedate="20230303T125244Z" creationid="Léo Delaune" creationdate="20230303T125244Z">
-        <seg>ou de la manière suivante pour macOS:</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T075151Z" creationid="Léo Delaune" creationdate="20230303T125244Z">
+        <seg>ou de la manière suivante pour macOS :</seg>
       </tuv>
     </tu>
     <tu>
@@ -86605,8 +86611,8 @@ Ok. </note>
       <tuv lang="en">
         <seg>where &lt;c0&gt;modifier&lt;/c0&gt; can be: &lt;l1&gt;shift&lt;/l1&gt;, &lt;l2&gt;ctrl&lt;/l2&gt;, &lt;l3&gt;meta&lt;/l3&gt;, &lt;l4&gt;alt&lt;/l4&gt;, or &lt;l5&gt;altGraph&lt;/l5&gt;</seg>
       </tuv>
-      <tuv lang="fr" changeid="Léo Delaune" changedate="20230303T092003Z" creationid="Léo Delaune" creationdate="20230303T091555Z">
-        <seg>où &lt;c0&gt;modifier&lt;/c0&gt; peut être: &lt;l1&gt;shift&lt;/l1&gt;, &lt;l2&gt;ctrl&lt;/l2&gt;, &lt;l3&gt;meta&lt;/l3&gt;, &lt;l4&gt;alt&lt;/l4&gt;, ou &lt;l5&gt;altGraph&lt;/l5&gt;</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T075142Z" creationid="Léo Delaune" creationdate="20230303T091555Z">
+        <seg>où &lt;c0&gt;modifier&lt;/c0&gt; peut être : &lt;l1&gt;shift&lt;/l1&gt;, &lt;l2&gt;ctrl&lt;/l2&gt;, &lt;l3&gt;meta&lt;/l3&gt;, &lt;l4&gt;alt&lt;/l4&gt;, ou &lt;l5&gt;altGraph&lt;/l5&gt;</seg>
       </tuv>
     </tu>
     <tu>
