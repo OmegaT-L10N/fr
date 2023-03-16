@@ -14266,6 +14266,15 @@ menu, a prominent item in the list meets this criterion.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>(Anand) generic file?</note>
+      <tuv lang="en">
+        <seg>And it also comes with the generic &lt;f0&gt;OmegaT.jar&lt;/f0&gt; file located in &lt;f1&gt;OmegaT.app/Contents/MacOS/Java/&lt;/f1&gt; that you can use to launch OmegaT from the command line.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230316T073126Z" creationid="Anand" creationdate="20230316T072755Z">
+        <seg>Et l'application est aussi accompagnée du fichier générique &lt;f0&gt;OmegaT.jar&lt;/f0&gt; situé dans le dossier &lt;f1&gt;OmegaT.app/Contents/MacOS/Java/&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>And of course, if you wish to be on the safe side, consider converting this kind of file to Unicode, i.e. to the &lt;l6&gt;.utf8 &lt;/l6&gt;file format.</seg>
       </tuv>
