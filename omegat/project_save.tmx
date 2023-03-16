@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_02bf2621" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -17574,6 +17574,25 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20201203T091444Z" creationid="suzume" creationdate="20201203T091423Z">
         <seg>Cochez ou décochez les règles en fonction de leur pertinence dans le type de texte que vous traduisez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>@Léo : Erreur dans le source ? " Print "</note>
+      <tuv lang="en">
+        <seg>Check printf function variables</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230316T210321Z" creationid="Léo Delaune" creationdate="20230316T210321Z">
+        <seg>Vérifier les variables de la fonction print
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check printf variables in file formats other than the PO format.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230316T210337Z" creationid="Léo Delaune" creationdate="20230316T210337Z">
+        <seg>Vérifier les variables print dans les formats de fichiers autres que le format PO.
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -59862,6 +59881,15 @@ software and other kinds of works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The PO filter already handles variables marked with &lt;l0&gt;%&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230316T210347Z" creationid="Léo Delaune" creationdate="20230316T210347Z">
+        <seg>Le filtre PO traite déjà les variables marquées par &lt;l0&gt;%&lt;/l0&gt;.
+.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The PO filter threw an exception:</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20230316T063850Z">
@@ -75976,6 +76004,14 @@ installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230308T095011Z" creationid="sirine" creationdate="20230307T222428Z">
         <seg>Vous pouvez rechercher n'importe lequel des quatre caractères spéciaux de la classe comme des caractères normaux en les faisant précéder d'une barre oblique inverse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can select</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230316T210402Z" creationid="Léo Delaune" creationdate="20230316T210402Z">
+        <seg>Vous pouvez sélectionner</seg>
       </tuv>
     </tu>
     <tu>
