@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_02bf26211" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -16939,6 +16939,15 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20201203T090645Z" creationid="suzume" creationdate="20201203T090645Z">
         <seg>Changez le nom de l'ensemble de règles et du masque de langue par celui de la langue concernée et de son code.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Change this number according to your machine performance.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230316T095601Z" creationid="Léo Delaune" creationdate="20230316T095601Z">
+        <seg>Modifiez ce nombre en fonction des performances de votre machine.
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -34675,6 +34684,14 @@ patent against the party.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Initial number of loaded segments</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230316T095521Z" creationid="Léo Delaune" creationdate="20230316T095521Z">
+        <seg>Nombre initial de segments chargés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Initialize a minimal team project with the specified languages.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221014T002906Z" creationid="suzume" creationdate="20221014T002906Z">
@@ -46924,6 +46941,14 @@ mirage, pas de page...</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Paragraph delimitation format</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230316T095605Z" creationid="Léo Delaune" creationdate="20230316T095605Z">
+        <seg>[correspondance]Format de la délimitation des paragraphes :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Paragraph delimitation format:</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z" creationid="Didier" creationdate="20190226T091618Z">
@@ -52007,6 +52032,14 @@ REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Save origin of translation</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230316T095500Z" creationid="Léo Delaune" creationdate="20230316T095500Z">
+        <seg>[correspondance]Enregistrer l'origine de la &amp;traduction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Save the file after you have finished making your changes.</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T200433Z" creationid="Léo Delaune" creationdate="20230305T200433Z">
@@ -55720,7 +55753,6 @@ of the GPL, as needed to protect the freedom of users.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Source Files</seg>
       </tuv>
@@ -60821,6 +60853,14 @@ instead.</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230303T111908Z" creationid="Léo Delaune" creationdate="20230303T111908Z">
         <seg>La façon la plus simple de modifier les raccourcis est de télécharger des copies des fichiers par défaut dans  &lt;l0&gt;votre fichier de configuration&lt;/l0&gt;, comme indiqué ci-dessus, et effectuez les changements que vous souhaitez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The editor initially loads and displays 2,000 segments, and progressively loads more as you scroll up or down.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230316T095535Z" creationid="Léo Delaune" creationdate="20230316T095535Z">
+        <seg>L'éditeur charge et affiche initialement 2 000 segments et en charge progressivement davantage à mesure que vous défilez vers le haut ou vers le bas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -70999,6 +71039,15 @@ la configuration actuelle est de {0} Mo ;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to identify segments that belong to the same paragraph.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230316T095612Z" creationid="Léo Delaune" creationdate="20230316T095612Z">
+        <seg>Utilisez &lt;l0/&gt;&lt;l1/&gt; pour identifier les segments qui appartiennent au même paragraphe.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l1&gt;$&lt;o2&gt;n&lt;/o2&gt;&lt;/l1&gt;, where &lt;o3&gt;n&lt;/o3&gt; is the number of the group defined in the search.</seg>
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230306T110052Z" creationid="sirine" creationdate="20230306T110052Z">
@@ -73115,6 +73164,15 @@ add Python to your Path.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20151111T092457Z" creationid="Didier" creationdate="20151111T092457Z">
         <seg>Lors de la recherche de correspondances, le masque de suppression est ignoré.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When machine translation is enabled, OmegaT registers the name of the engine that was used to populate a given segment.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230316T095511Z" creationid="Léo Delaune" creationdate="20230316T095511Z">
+        <seg>Lorsque la traduction automatique est activée, OmegaT enregistre le nom du moteur qui a été utilisé pour remplir un segment donné.
+</seg>
       </tuv>
     </tu>
     <tu>
