@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_02bf26211" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -23306,7 +23306,6 @@ Ajouter C:\Program Files (x86)\Prince\Engine\bin dans le Path.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Duplicate fallbac&amp;k text</seg>
       </tuv>
@@ -36563,7 +36562,6 @@ itself on the first run.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Java Resource Bundles</seg>
       </tuv>
@@ -43934,7 +43932,6 @@ translation leveraging into updated projects.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en">
         <seg>OmegaT is a free and open source multiplatform computer-assisted translation (CAT) tool offering fuzzy matching, translation memory, keyword search, glossaries, and translation leveraging into updated projects.</seg>
       </tuv>
@@ -48028,7 +48025,6 @@ language you would like to translate to.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Preserve &amp;spaces for all tags</seg>
       </tuv>
@@ -48593,7 +48589,6 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Project autosaved at {0}</seg>
       </tuv>
@@ -51604,7 +51599,6 @@ REPAIR OR CORRECTION.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>SVG / Adobe Illustrator Export</seg>
       </tuv>
@@ -66901,6 +66895,14 @@ projet depuis le serveur.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This will launch OmegaT with 6 GB of memory; change the &lt;l0&gt;6g&lt;/l0&gt; to the desired amount.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230316T075242Z" creationid="Anand" creationdate="20230316T075242Z">
+        <seg>Ceci lancera OmegaT avec une mémoire de 6 Go ; modifiez la valeur &lt;l0&gt;6g&lt;/l0&gt; avec la valeur que vous désirez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This will launch OmegaT with 6 GB of memory; change the &lt;l4&gt;6g&lt;/l4&gt; to the desired amount.</seg>
       </tuv>
       <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210507T125442Z" creationid="suzume" creationdate="20210201T140114Z">
@@ -74879,6 +74881,14 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210202T064909Z" creationid="suzume" creationdate="20210202T064909Z">
         <seg>Vous pouvez également utiliser AppleScript ou Automator pour créer des services ou des scripts qui automatiseront des actions fréquentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also use AppleScript, Automator or Shortcuts to create Services or scripts that will automate frequent actions.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230316T075536Z" creationid="Anand" creationdate="20230316T075536Z">
+        <seg>Vous pouvez également utiliser AppleScript, Automator ou Raccourcis pour créer des services ou des scripts qui vont automatiser des actions fréquentes.</seg>
       </tuv>
     </tu>
     <tu>
