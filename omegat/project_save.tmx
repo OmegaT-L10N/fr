@@ -15955,6 +15955,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Block the creation of translated files with tag issues</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230316T213959Z" creationid="Léo Delaune" creationdate="20230316T213959Z">
+        <seg>Bloquer la création de fichiers traduits avec des problèmes de balises.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Blog pages on OmegaT.</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20170403T102421Z" creationid="briac" creationdate="20170403T102421Z">
@@ -17385,6 +17393,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check Java MessageFormat placeholders in file formats other than the Java Bundles format.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230316T213856Z" creationid="Léo Delaune" creationdate="20230316T213856Z">
+        <seg>Vérifier les caractères génériques Java MessageFormat dans les formats de fichiers autres que le format Java Bundles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check LanguageTools rules</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20150525T144611Z" creationid="Didier" creationdate="20150525T144611Z">
@@ -17633,6 +17649,15 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20201212T115444Z" creationid="suzume" creationdate="20201212T115444Z">
         <seg>Vérifier les masques &amp;Java MessageFormat de type simple (ex. : {0}).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check simple Java MessageFormat placeholders</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230316T213838Z" creationid="Léo Delaune" creationdate="20230316T213838Z">
+        <seg>Vérifier les caractères de remplacement Java MessageFormat simples
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -33042,6 +33067,14 @@ OmegaT.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20211117T145016Z" creationid="suzume" creationdate="20211117T145016Z">
         <seg>Si vous démarrez OmegaT en mode console, il utilisera les mêmes paramètres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you try to create the translated files, OmegaT will display the issues dialog until no issues are found.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230316T215534Z" creationid="Léo Delaune" creationdate="20230316T215534Z">
+        <seg>Si vous essayez de créer les fichiers traduits, OmegaT affichera la boîte de dialogue des problèmes jusqu'à ce qu'aucun problème ne soit trouvé.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53497,6 +53530,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l0/&gt;&lt;l1/&gt; menu for details.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230316T213947Z" creationid="Léo Delaune" creationdate="20230316T213947Z">
+        <seg>Voir le menu &lt;l0/&gt;&lt;l1/&gt; pour plus de détails.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;l1/&gt; appendix for details.</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230308T170208Z" creationid="Léo Delaune" creationdate="20230308T170208Z">
@@ -58115,6 +58156,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Tags in a different order than the source will not appear in the list of tag issues.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230316T213941Z" creationid="Léo Delaune" creationdate="20230316T213941Z">
+        <seg>Les balises dont l'ordre est différent de celui de la source n'apparaîtront pas dans la liste des questions relatives aux balises.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Tags reproduced in the translated segment will be present in the translated document.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130416T135728Z">
@@ -59654,6 +59703,14 @@ software and other kinds of works.</seg>
       </tuv>
       <tuv lang="fr">
         <seg>Le JRE étant désormais fourni avec OmegaT, il est inutile de le télécharger séparément.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Java Bundles filter already handles placeholders marked with &lt;l0&gt;{#}&lt;/l0&gt; where &lt;l1&gt;#&lt;/l1&gt; is a number.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230316T213907Z" creationid="Léo Delaune" creationdate="20230316T213907Z">
+        <seg>Le filtre Java Bundles traite déjà les caractères génériques marqués par &lt;l0&gt;{#}&lt;/l0&gt; où &lt;l1&gt;#&lt;/l1&gt; est un nombre.</seg>
       </tuv>
     </tu>
     <tu>
