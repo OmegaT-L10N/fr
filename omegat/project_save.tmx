@@ -5671,6 +5671,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;c0&gt;# -*- coding: &lt;charset&gt; -*-&lt;/c0&gt;,</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230316T164045Z" creationid="sirine" creationdate="20230316T164045Z">
+        <seg>&lt;c0&gt;# -*- coding: &lt;charset&gt; -*-&lt;/c0&gt;,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;c0&gt;&lt;event&gt;&lt;/c0&gt; can be: &lt;e1&gt;typed&lt;/e1&gt;, &lt;e2&gt;pressed&lt;/e2&gt;, &lt;e3&gt;released&lt;/e3&gt;</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210207T053316Z">
@@ -80886,6 +80894,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>http://www.iana.org/assignments/character-sets/character-sets.xhtml</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230316T164157Z" creationid="sirine" creationdate="20230316T164157Z">
+        <seg>http://www.iana.org/assignments/character-sets/character-sets.xhtml</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>http://www.ibm.com/developerworks/java/jdk/linux/download.html</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20120411T090552Z">
@@ -86963,6 +86979,14 @@ Ok. </note>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20230316T075142Z" creationid="Léo Delaune" creationdate="20230303T091555Z">
         <seg>où &lt;c0&gt;modifier&lt;/c0&gt; peut être : &lt;l1&gt;shift&lt;/l1&gt;, &lt;l2&gt;ctrl&lt;/l2&gt;, &lt;l3&gt;meta&lt;/l3&gt;, &lt;l4&gt;alt&lt;/l4&gt;, ou &lt;l5&gt;altGraph&lt;/l5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>where &lt;p0&gt;&lt;charset&gt;&lt;/p0&gt; is typically one of the sets listed in the &lt;u1&gt;IANA Charset Registry&lt;/u1&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230316T165151Z" creationid="sirine" creationdate="20230316T165151Z">
+        <seg>dans lequel &lt;p0&gt;&lt;charset&gt;&lt;/p0&gt; est généralement l'une des chaînes de caractères répertoriées dans le &lt;u1&gt;registre IANA&lt;/u1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
