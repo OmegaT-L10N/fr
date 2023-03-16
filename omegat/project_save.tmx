@@ -32306,6 +32306,14 @@ folder, see the manual for its location).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you choose to use an existing file as the default glossary, all new entries will be recorded in tab-separated format and saved in UTF-8 by default.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230316T161206Z" creationid="sirine" creationdate="20230316T161206Z">
+        <seg>Si vous utilisez un fichier existant comme glossaire par défaut, toutes les nouvelles entrées seront enregistrées dans un format séparé par des tabulations et sauvegardées en format UTF-8 par défaut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you choose to use an existing file as the default glossary, check its format beforehand.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221016T082442Z" creationid="suzume" creationdate="20221016T082442Z">
@@ -71046,8 +71054,8 @@ la configuration actuelle est de {0} Mo ;</seg>
       <tuv lang="en">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; to directly access it.</seg>
       </tuv>
-      <tuv lang="fr" changeid="sirine" changedate="20230316T150350Z" creationid="sirine" creationdate="20230316T150350Z">
-        <seg>Utilisez &lt;l0/&gt;&lt;l1/&gt; pour y accéder</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230316T150438Z" creationid="sirine" creationdate="20230316T150350Z">
+        <seg>Utilisez &lt;l0/&gt;&lt;l1/&gt; pour y accéder directement.</seg>
       </tuv>
     </tu>
     <tu>
@@ -75881,6 +75889,14 @@ omegat.kaptn</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T023606Z" creationid="Didier" creationdate="20170210T104014Z">
         <seg>Vous pouvez ensuite lancer le script d'exécution Kaptain avec :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can then open it in a text editor and modify it.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230316T150549Z" creationid="sirine" creationdate="20230316T150549Z">
+        <seg>Vous pouvez ensuite l'ouvrir dans un éditeur de texte et le modifier.</seg>
       </tuv>
     </tu>
     <tu>
