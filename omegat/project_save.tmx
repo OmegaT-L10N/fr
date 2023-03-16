@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_02bf26211" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_02bf2621" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -55663,7 +55663,6 @@ of the GPL, as needed to protect the freedom of users.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Source Files</seg>
       </tuv>
@@ -64211,8 +64210,8 @@ the [Help] menu after starting OmegaT.</seg>
       <tuv lang="en">
         <seg>The word “run”, as well as “runs”, “runner”, “runway”, “runt” in “grunt” or “brunt”, and any other word or sequence of characters containing “run” followed by zero or more “&lt;e0&gt;word characters&lt;/e0&gt;” (which include digits and the underscore, so the part before the “@” in an email address such as run_123@example.email.org is also a match).</seg>
       </tuv>
-      <tuv lang="fr" changeid="sirine" changedate="20230303T102853Z" creationid="sirine" creationdate="20230303T102853Z">
-        <seg>Le mot "run", ainsi que "runs", "runner", "runway", "runt" dans "grunt" ou "brunt", et tout autre mot ou séquence de caractères contenant "run" suivi de zéro ou plus "&lt;e0&gt;caractères de mot&lt;/e0&gt;" (qui incluent les chiffres et le trait bas, de sorte que la partie précédant le "@" dans une adresse de courriel telle que run_123@example.email.org soit également une correspondance).</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230316T084501Z" creationid="sirine" creationdate="20230303T102853Z">
+        <seg>Le mot « jour  », ainsi que « Joure  », « journée    », « journalier  », « jours  » dans « toujours  » ou « séjours  », et tout autre mot ou suite de caractères contenant « jour  » suivi de zéro ou plus « &lt;e0&gt;caractères de mot&lt;/e0&gt;  » (qui incluent les chiffres et le trait bas, de sorte que la partie précédant le « @  » dans une adresse de courriel telle que jour_123@example.email.org soit également une correspondance).</seg>
       </tuv>
     </tu>
     <tu>
@@ -84889,8 +84888,8 @@ Ok. </note>
       <tuv lang="en">
         <seg>run\w*</seg>
       </tuv>
-      <tuv lang="fr" changeid="sirine" changedate="20230303T102552Z" creationid="sirine" creationdate="20230303T102552Z">
-        <seg>run\w*</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230316T084203Z" creationid="sirine" creationdate="20230303T102552Z">
+        <seg>jour\w*</seg>
       </tuv>
     </tu>
     <tu>
