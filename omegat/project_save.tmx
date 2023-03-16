@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_02bf26211" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -23306,6 +23306,7 @@ Ajouter C:\Program Files (x86)\Prince\Engine\bin dans le Path.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Duplicate fallbac&amp;k text</seg>
       </tuv>
@@ -26842,8 +26843,8 @@ authors of previous versions.</seg>
       <tuv lang="en">
         <seg>For details, see:</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230301T092251Z" creationid="Anand" creationdate="20230301T092251Z">
-        <seg>Pour en savoir plus, voir :</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T075743Z" creationid="Anand" creationdate="20230301T092251Z">
+        <seg>Pour en savoir plus, voir :</seg>
       </tuv>
     </tu>
     <tu>
@@ -29134,8 +29135,8 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       <tuv lang="en">
         <seg>Guida completa a OmegaT: tecniche, trucchi e consigli per traduttori e project manager</seg>
       </tuv>
-      <tuv lang="fr" changeid="briglegrand" changedate="20120621T200019Z">
-        <seg>Guida completa a OmegaT: tecniche, trucchi e consigli per traduttori e project manager</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T075334Z">
+        <seg>Guida completa a OmegaT : tecniche, trucchi e consigli per traduttori e project manager</seg>
       </tuv>
     </tu>
     <tu>
@@ -36562,6 +36563,7 @@ itself on the first run.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Java Resource Bundles</seg>
       </tuv>
@@ -43940,6 +43942,7 @@ translation leveraging into updated projects.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en">
         <seg>OmegaT is a free and open source multiplatform computer-assisted translation (CAT) tool offering fuzzy matching, translation memory, keyword search, glossaries, and translation leveraging into updated projects.</seg>
       </tuv>
@@ -48033,6 +48036,7 @@ language you would like to translate to.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Preserve &amp;spaces for all tags</seg>
       </tuv>
@@ -48597,6 +48601,7 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Project autosaved at {0}</seg>
       </tuv>
@@ -49443,8 +49448,8 @@ ces mots : « pas de page »...</seg>
       <tuv lang="en">
         <seg>Recursos do OmegaT: primeiros passos</seg>
       </tuv>
-      <tuv lang="fr" changeid="briac" changedate="20170920T124604Z" creationid="briac" creationdate="20170920T124604Z">
-        <seg>Recursos do OmegaT: primeiros passos</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T075322Z" creationid="briac" creationdate="20170920T124604Z">
+        <seg>Recursos do OmegaT : primeiros passos</seg>
       </tuv>
     </tu>
     <tu>
@@ -51607,6 +51612,7 @@ REPAIR OR CORRECTION.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>SVG / Adobe Illustrator Export</seg>
       </tuv>
@@ -55812,8 +55818,8 @@ of the GPL, as needed to protect the freedom of users.</seg>
       <tuv lang="en">
         <seg>Source filename patterns use wild card characters : The &lt;l0&gt;*&lt;/l0&gt; character matches zero or more characters, while the &lt;l1&gt;?&lt;/l1&gt; character matches exactly one character.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230302T171713Z" creationid="Anand" creationdate="20230302T171713Z">
-        <seg>Les masques de nom de fichier source utilisent des caractères génériques : le caractère &lt;l0&gt;*&lt;/l0&gt; correspond à zéro ou plus de caractères, alors que le caractère &lt;l1&gt;?&lt;/l1&gt; correspond à exactement un caractère.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T075807Z" creationid="Anand" creationdate="20230302T171713Z">
+        <seg>Les masques de nom de fichier source utilisent des caractères génériques : le caractère &lt;l0&gt;*&lt;/l0&gt; correspond à zéro ou plus de caractères, alors que le caractère &lt;l1&gt;?&lt;/l1&gt; correspond à exactement un caractère.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60440,8 +60446,8 @@ instead.</seg>
       <tuv lang="en">
         <seg>The default is:</seg>
       </tuv>
-      <tuv lang="fr" changeid="Léo Delaune" changedate="20230308T165404Z" creationid="Léo Delaune" creationdate="20230308T165404Z">
-        <seg>The default is:</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T075310Z" creationid="Léo Delaune" creationdate="20230308T165404Z">
+        <seg>La valeur par défaut est :</seg>
       </tuv>
     </tu>
     <tu>
@@ -60888,8 +60894,8 @@ instead.</seg>
       <tuv lang="en">
         <seg>The file structure must also be compatible with the filter: even if you associate &lt;l0&gt;.odt&lt;/l0&gt; to the XHMTL filter, the filter will not be able to understand the contents of a LibreOffice Writer file.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230302T171213Z" creationid="Anand" creationdate="20230302T170537Z">
-        <seg>La structure du fichier doit être compatible avec le filtre : même si vous associez &lt;l0&gt;.odt&lt;/l0&gt; au filtre XHTML, le filtre ne sera pas capable de comprendre le contenu d'un fichier LibreOffice Writer. </seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T075754Z" creationid="Anand" creationdate="20230302T170537Z">
+        <seg>La structure du fichier doit être compatible avec le filtre : même si vous associez &lt;l0&gt;.odt&lt;/l0&gt; au filtre XHTML, le filtre ne sera pas capable de comprendre le contenu d'un fichier LibreOffice Writer. </seg>
       </tuv>
     </tu>
     <tu>
@@ -62745,8 +62751,8 @@ modification follow.</seg>
       <tuv lang="en">
         <seg>The recommended or default locations are the following:</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20230316T074403Z" creationid="suzume" creationdate="20221016T074645Z">
-        <seg>L'emplacement recommandé ou par défaut est le suivant:</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T075552Z" creationid="suzume" creationdate="20221016T074645Z">
+        <seg>L'emplacement recommandé ou par défaut est le suivant :</seg>
       </tuv>
     </tu>
     <tu>
@@ -68124,8 +68130,8 @@ as a Source Forge user.</seg>
       <tuv lang="en">
         <seg>To prevent the Source Files list window from automatically opening when a project is loaded, find &lt;t0&gt;&lt;project_files_show_on_load&gt;&lt;/t0&gt; and replace &lt;t1&gt;true&lt;/t1&gt; to &lt;t2&gt;false&lt;/t2&gt;:</seg>
       </tuv>
-      <tuv lang="fr" changeid="briac" changedate="20230305T154700Z" creationid="briac" creationdate="20230305T154700Z">
-        <seg>To prevent the Source Files list window from automatically opening when a project is loaded, find &lt;t0&gt;&lt;project_files_show_on_load&gt;&lt;/t0&gt; and replace &lt;t1&gt;true&lt;/t1&gt; to &lt;t2&gt;false&lt;/t2&gt;:</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T075732Z" creationid="briac" creationdate="20230305T154700Z">
+        <seg>Pour éviter l'affichage de la liste des fichiers du projet à chaque rechargement, cherchez &lt;t0&gt;&lt;project_files_show_on_load&gt;&lt;/t0&gt; et remplacez &lt;t1&gt;true&lt;/t1&gt; par &lt;t2&gt;false&lt;/t2&gt; :</seg>
       </tuv>
     </tu>
     <tu>
