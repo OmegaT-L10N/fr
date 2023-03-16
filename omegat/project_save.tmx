@@ -13561,6 +13561,14 @@ rights of fair use or other equivalent, as provided by copyright law.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All variables (e.g., %s, %-s)</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230316T212721Z" creationid="Léo Delaune" creationdate="20230316T212721Z">
+        <seg>Toutes les variables (par exemple, %s, %-s)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Allo&amp;w tag editing</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20161229T164146Z" creationid="Didier" creationdate="20161229T164146Z">
@@ -42164,6 +42172,15 @@ Diminue les sorties sur stdout de la ligne de commande.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>None of the variable patterns are checked.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230316T212647Z" creationid="Léo Delaune" creationdate="20230316T212647Z">
+        <seg>Aucun des modèles de variables n'est vérifié.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>None of this need concern you unless you are particularly interested in copyright issues.</seg>
       </tuv>
       <tuv lang="fr" changeid="briglegrand" changedate="20110112T212608Z">
@@ -45779,6 +45796,14 @@ redontant URL
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230308T171938Z" creationid="Léo Delaune" creationdate="20230308T171938Z">
         <seg>Seules les règles associées aux modèles de langue qui correspondent à la langue source de votre projet sont appliquées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Only the simple variable patterns are checked.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230316T212714Z" creationid="Léo Delaune" creationdate="20230316T212714Z">
+        <seg>Seuls les modèles de variables simples sont vérifiés.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55213,6 +55238,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20140706T175107Z" creationid="Didier" creationdate="20140706T175107Z">
         <seg>Script simple de recherche et remplacement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Simple variables (e.g., %s, %d)</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230316T212703Z" creationid="Léo Delaune" creationdate="20230316T212703Z">
+        <seg>Variables simples (par exemple, %s, %d)</seg>
       </tuv>
     </tu>
     <tu>
@@ -65734,6 +65767,14 @@ under the terms of this General Public License.</seg>
       </tuv>
       <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210521T093049Z" creationid="suzume" creationdate="20210129T094745Z">
         <seg>Http (qui inclut https), svn, git ou file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This can result in false positives in some files.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230316T213752Z" creationid="Léo Delaune" creationdate="20230316T213752Z">
+        <seg>Cela peut entraîner des faux positifs dans certains fichiers.</seg>
       </tuv>
     </tu>
     <tu>
