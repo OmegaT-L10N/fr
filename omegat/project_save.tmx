@@ -27867,8 +27867,8 @@ authors of previous versions.</seg>
       <tuv lang="en">
         <seg>Format, extensions and expected encoding</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210323T160536Z" creationid="suzume" creationdate="20210323T160536Z">
-        <seg>Formats, extension et encodage attendu</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230316T174130Z" creationid="suzume" creationdate="20210323T160536Z">
+        <seg>Format, extension et encodage attendu</seg>
       </tuv>
     </tu>
     <tu>
@@ -66141,6 +66141,14 @@ under the terms of this General Public License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This folder can be set outside the project, enabling you to use it, or one of the specific subfolders, in other projects.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230316T180431Z" creationid="sirine" creationdate="20230316T180431Z">
+        <seg>Ce dossier peut être placé en dehors du projet, ce qui vous permet de l'utiliser, ainsi que les sous-dossiers spécifiques, dans d'autres projets.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This folder is initially empty.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130527T135516Z">
@@ -71594,6 +71602,14 @@ la configuration actuelle est de {0} Mo ;</seg>
       </tuv>
       <tuv lang="fr" changeid="Anand" changedate="20230308T171153Z" creationid="Anand" creationdate="20230306T142352Z">
         <seg>Utilisez les propriétés de projet &lt;l0/&gt; afin de sélectionner le type de segmentation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the &lt;l0/&gt; project property to set the location of the reference glossaries folder.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230316T174253Z" creationid="sirine" creationdate="20230316T174253Z">
+        <seg>Utilisez la propriété de projet &lt;l0/&gt; pour définir l'emplacement du dossier des glossaires de référence.</seg>
       </tuv>
     </tu>
     <tu>
