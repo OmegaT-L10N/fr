@@ -3700,8 +3700,8 @@ le programme d'installation peut créer des raccourcis pour vous dans le menu d�
 	  otherwise use Options &gt; Global File Filters...;
 	- open them in their original application and verify that they are not empty.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20230112T171209Z">
-        <seg>- vérifier que leur format est pris en charge par OmegaT :
+      <tuv lang="fr" changeid="suzume" changedate="20230316T074403Z">
+        <seg>- vérifier que leur format est pris en charge par OmegaT:
 	  si les filtres locaux sont activés
 	  utilisez Projet &gt; Propriétés... &gt; Filtres de fichiers locaux...,
 	  sinon utilisez Options &gt; Filtres de fichiers globaux...;
@@ -4826,8 +4826,8 @@ Valider les balises.</seg>
       <tuv lang="en">
         <seg>1) Reduce the number of files in the source folder;</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20221110T101841Z" creationid="suzume" creationdate="20221110T101841Z">
-        <seg>1) réduisez le nombre de fichiers dans le dossier source ;</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T074524Z" creationid="suzume" creationdate="20221110T101841Z">
+        <seg>1) réduisez le nombre de fichiers dans le dossier source ;</seg>
       </tuv>
     </tu>
     <tu>
@@ -19126,8 +19126,8 @@ kolekti -b C:\[...]\trunk\doc_src2 publish [-j JOB] -l fr,en C:\[...]\trunk\doc_
       <tuv lang="en">
         <seg>Console only options:</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20230316T074150Z" creationid="suzume" creationdate="20221015T222604Z">
-        <seg>Options limitées à la console:</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T074431Z" creationid="suzume" creationdate="20221015T222604Z">
+        <seg>Options limitées à la console :</seg>
       </tuv>
     </tu>
     <tu>
@@ -20322,8 +20322,8 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       <tuv lang="en">
         <seg>Creating translated files: {0}</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20221226T083046Z" creationid="suzume" creationdate="20221226T083046Z">
-        <seg>&amp;Créer les fichiers traduits : {0}</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T074403Z" creationid="suzume" creationdate="20221226T083046Z">
+        <seg>&amp;Créer les fichiers traduits: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -25444,8 +25444,8 @@ dommage...</seg>
       <tuv lang="en">
         <seg>Export translation memories folder:</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20221226T085724Z" creationid="suzume" creationdate="20221226T085724Z">
-        <seg>Dossier des mémoires de traduction exportées :</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T074403Z" creationid="suzume" creationdate="20221226T085724Z">
+        <seg>Dossier des mémoires de traduction exportées:</seg>
       </tuv>
     </tu>
     <tu>
@@ -31501,8 +31501,8 @@ when it starts in an interactive mode:</seg>
       <tuv lang="en">
         <seg>If the project contains files but their content is not displayed here:</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20221111T091640Z" creationid="suzume" creationdate="20221111T091640Z">
-        <seg>Si le projet contient des fichiers mais leur contenu n'est pas affiché ici :</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T074403Z" creationid="suzume" creationdate="20221111T091640Z">
+        <seg>Si le projet contient des fichiers mais leur contenu n'est pas affiché ici:</seg>
       </tuv>
     </tu>
     <tu>
@@ -38450,8 +38450,8 @@ automatically download and install it.</seg>
       <tuv lang="en">
         <seg>Local post-processing commands (disabled):</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20221227T050404Z" creationid="suzume" creationdate="20221227T050237Z">
-        <seg>Commandes locales de post-traitement (désactivées) :</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T074403Z" creationid="suzume" creationdate="20221227T050237Z">
+        <seg>Commandes locales de post-traitement (désactivées):</seg>
       </tuv>
     </tu>
     <tu>
@@ -47199,9 +47199,9 @@ l'ensemble.</seg>
 material in ./tm, ./glossary, and ./dictionary as required, then commit
 everything.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20230316T074251Z" creationid="suzume" creationdate="20221110T101347Z">
-        <seg>Placez les fichiers sources dans ./[source] et les matériels supplémentaires dans
-./[tm], ./[glossary] et ./[dictionary] selon les besoins, puis validez (commit)
+      <tuv lang="fr" changeid="suzume" changedate="20230316T074329Z" creationid="suzume" creationdate="20221110T101347Z">
+        <seg>Placez les fichiers sources dans ./source et les matériels supplémentaires dans
+./tm, ./glossary et ./dictionary selon les besoins, puis validez (commit)
 l'ensemble.</seg>
       </tuv>
     </tu>
@@ -47795,8 +47795,8 @@ language you would like to translate to.</seg>
       <tuv lang="en">
         <seg>Possible solutions:</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20221110T101434Z" creationid="suzume" creationdate="20221110T101434Z">
-        <seg>Solutions possibles :</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T074401Z" creationid="suzume" creationdate="20221110T101434Z">
+        <seg>Solutions possibles :</seg>
       </tuv>
     </tu>
     <tu>
@@ -50619,8 +50619,8 @@ ces mots : « pas de page »...</seg>
       <tuv lang="en">
         <seg>Repository (type: {0}) URL not defined on path: {1}</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20221015T223928Z" creationid="suzume" creationdate="20221015T223928Z">
-        <seg>L'URL de dépôt (type : {0}) n'est pas définie sur le chemin : {1}</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T074403Z" creationid="suzume" creationdate="20221015T223928Z">
+        <seg>L'URL de dépôt (type: {0}) n'est pas définie sur le chemin: {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -52596,8 +52596,8 @@ La recherche port par défaut sur le projet, et peut porter sur tout fichier sit
       <tuv lang="en">
         <seg>See "How To...</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20230316T051829Z" creationid="suzume" creationdate="20221110T102116Z">
-        <seg>Voir «  Lancer OmegaT»</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T074631Z" creationid="suzume" creationdate="20221110T102116Z">
+        <seg>Voir «  Lancer OmegaT »</seg>
       </tuv>
     </tu>
     <tu>
@@ -60637,8 +60637,8 @@ instead.</seg>
       <tuv lang="en">
         <seg>The encoding used to read reference glossaries depends on their file extension:</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20221016T091043Z" creationid="suzume" creationdate="20221016T091043Z">
-        <seg>L'encodage utilisé pour lire les glossaires de référence dépend de leur extension de fichier :</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T074403Z" creationid="suzume" creationdate="20221016T091043Z">
+        <seg>L'encodage utilisé pour lire les glossaires de référence dépend de leur extension de fichier:</seg>
       </tuv>
     </tu>
     <tu>
@@ -62654,8 +62654,8 @@ modification follow.</seg>
       <tuv lang="en">
         <seg>The recommended or default locations are the following:</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20221016T074645Z" creationid="suzume" creationdate="20221016T074645Z">
-        <seg>L'emplacement recommandé ou par défaut est le suivant :</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T074403Z" creationid="suzume" creationdate="20221016T074645Z">
+        <seg>L'emplacement recommandé ou par défaut est le suivant:</seg>
       </tuv>
     </tu>
     <tu>
@@ -64282,8 +64282,8 @@ the [Help] menu after starting OmegaT.</seg>
       <tuv lang="en">
         <seg>There are 2 kinds of glossary files:</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20221016T081338Z" creationid="suzume" creationdate="20221016T081328Z">
-        <seg>Il y a 2 types de fichiers de glossaires :</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T074403Z" creationid="suzume" creationdate="20221016T081328Z">
+        <seg>Il y a 2 types de fichiers de glossaires:</seg>
       </tuv>
     </tu>
     <tu>
@@ -67172,8 +67172,8 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="en">
         <seg>To add files to the project you can:</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20221111T080901Z" creationid="suzume" creationdate="20221111T080901Z">
-        <seg>Pour ajouter des fichiers à un projet, vous pouvez :</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T074403Z" creationid="suzume" creationdate="20221111T080901Z">
+        <seg>Pour ajouter des fichiers à un projet, vous pouvez:</seg>
       </tuv>
     </tu>
     <tu>
@@ -69189,8 +69189,8 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       <tuv lang="en">
         <seg>Translation memories to export:</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20220821T152023Z" creationid="suzume" creationdate="20220821T152023Z">
-        <seg>Mémoires de traduction à exporter :</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T074403Z" creationid="suzume" creationdate="20220821T152023Z">
+        <seg>Mémoires de traduction à exporter:</seg>
       </tuv>
     </tu>
     <tu>
@@ -70560,10 +70560,10 @@ nouvelle version : {2}</seg>
 line or in the OmegaT start script;
 The current setting is {0}MB;</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20221111T030950Z" creationid="suzume" creationdate="20221110T102005Z">
+      <tuv lang="fr" changeid="suzume" changedate="20230316T074547Z" creationid="suzume" creationdate="20221110T102005Z">
         <seg>Utilisez « java -Xmx&lt;taille-en-Mo&gt;M -jar OmegaT.jar » à la ligne de commande
-ou à partir du script de lancement d'OmegaT ;
-la configuration actuelle est de {0} Mo ;</seg>
+ou à partir du script de lancement d'OmegaT ;
+la configuration actuelle est de {0} Mo ;</seg>
       </tuv>
     </tu>
     <tu>
@@ -73934,8 +73934,8 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       <tuv lang="en">
         <seg>Writable glossary file:</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20230112T171612Z" creationid="suzume" creationdate="20221226T085621Z">
-        <seg>Glossaire modifiable :</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T074403Z" creationid="suzume" creationdate="20221226T085621Z">
+        <seg>Glossaire modifiable:</seg>
       </tuv>
     </tu>
     <tu>
