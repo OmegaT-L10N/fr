@@ -53611,6 +53611,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Segments that receive automated translation at that time can be marked in the &lt;g2&gt;Editor&lt;/g2&gt; pane by using &lt;l3/&gt;.&lt;l4/&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230316T095358Z" creationid="Léo Delaune" creationdate="20230316T095358Z">
+        <seg>Les segments qui reçoivent une traduction automatique à ce moment-là peuvent être marqués dans le volet &lt;g2&gt;Éditeur&lt;/g2&gt; en utilisant &lt;l3/&gt;.&lt;l4/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Segments with notes</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20140924T085334Z" creationid="Didier" creationdate="20140924T085334Z">
@@ -69412,6 +69420,15 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130424T080447Z">
         <seg>Les mémoires de traduction dans OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translation memories located in &lt;l0/&gt; and &lt;l1/&gt; can auto-populate the project memory.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230316T095334Z" creationid="Léo Delaune" creationdate="20230316T095334Z">
+        <seg>Les mémoires de traduction situées dans &lt;l0/&gt; et &lt;l1/&gt; peuvent alimenter automatiquement la mémoire du projet.
+</seg>
       </tuv>
     </tu>
     <tu>
