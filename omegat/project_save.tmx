@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_02bf2621" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11967,6 +11967,14 @@ or that patent license was granted, prior to 28 March 2007.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
         <seg>Un projet de traduction&lt;e0&gt;Example_Project&lt;/e0&gt; utilisant les paramètres par défaut sera créé sous la forme d'un nouveau sous-dossier ayant la structure suivante :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A translation that is identical to the source text is not recognized as a translation by default.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230316T093323Z" creationid="Léo Delaune" creationdate="20230316T093323Z">
+        <seg>Une traduction identique au texte source n'est pas reconnue comme une traduction par défaut.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44666,6 +44674,15 @@ with exactly the same structure, including copies of any non-supported files.</s
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT will erase it and will count the segment as not translated.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230316T093404Z" creationid="Léo Delaune" creationdate="20230316T093328Z">
+        <seg>OmegaT l'effacera et comptera le segment comme non traduit.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT will not launch if tokenizers are found in the /plugin folder.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130528T130201Z">
@@ -71363,6 +71380,15 @@ la configuration actuelle est de {0} Mo ;</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230313T204943Z" creationid="Léo Delaune" creationdate="20230313T204943Z">
         <seg>Utilisez cette option temporairement pour les parties de la traduction qui ne nécessitent pas beaucoup de transformation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use this option to force OmegaT to register such entries and count them as translated.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230316T093809Z" creationid="Léo Delaune" creationdate="20230316T093809Z">
+        <seg>Cette option permet de forcer OmegaT à enregistrer ces entrées et à les compter comme traduites.
+</seg>
       </tuv>
     </tu>
     <tu>
