@@ -59035,6 +59035,14 @@ software and other kinds of works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The HTML parser threw an exception during file processing:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T064000Z" creationid="suzume" creationdate="20230316T064000Z">
+        <seg>Le filtre HTML a rencontré une erreur pendant le traitement des fichiers :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The HTML user manual for OmegaT standard version.</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20170403T171703Z" creationid="briac" creationdate="20170403T171703Z">
@@ -59053,8 +59061,8 @@ software and other kinds of works.</seg>
       <tuv lang="en">
         <seg>The Java Resource Bundles filter threw an exception:</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20230316T063257Z" creationid="Didier" creationdate="20140224T151345Z">
-        <seg>Le filtre pour paquets de ressources Java a trouvé une erreur :</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T063858Z" creationid="Didier" creationdate="20140224T151345Z">
+        <seg>Le filtre pour paquets de ressources Java a rencontré une erreur :</seg>
       </tuv>
     </tu>
     <tu>
@@ -59149,8 +59157,8 @@ software and other kinds of works.</seg>
       <tuv lang="en">
         <seg>The Moodle PHP filter threw an exception:</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z" creationid="Didier" creationdate="20181203T140344Z">
-        <seg>Le filtre PHP Moodle a généré une exception :</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T063907Z" creationid="Didier" creationdate="20181203T140344Z">
+        <seg>Le filtre PHP Moodle a rencontré une erreur :</seg>
       </tuv>
     </tu>
     <tu>
@@ -59165,16 +59173,16 @@ software and other kinds of works.</seg>
       <tuv lang="en">
         <seg>The Mozilla DTD filter threw an exception:</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z" creationid="Didier" creationdate="20140222T151404Z">
-        <seg>Le filtre DTD Mozilla a généré une exception :</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T063916Z" creationid="Didier" creationdate="20140222T151404Z">
+        <seg>Le filtre DTD Mozilla a rencontré une erreur :</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The Mozilla FTL filter threw an exception:</seg>
       </tuv>
-      <tuv lang="fr" changeid="briac" changedate="20200503T103857Z" creationid="briac" creationdate="20200503T103857Z">
-        <seg>Le filtre FTL Mozilla a généré une exception :</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T063934Z" creationid="briac" creationdate="20200503T103857Z">
+        <seg>Le filtre FTL Mozilla a rencontré une erreur :</seg>
       </tuv>
     </tu>
     <tu>
@@ -59309,8 +59317,8 @@ software and other kinds of works.</seg>
       <tuv lang="en">
         <seg>The PO filter threw an exception:</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20230316T063836Z">
-        <seg>Le filtre PO a rencontré une erreur :</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T063850Z">
+        <seg>Le filtre PO a rencontré une erreur :</seg>
       </tuv>
     </tu>
     <tu>
