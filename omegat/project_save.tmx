@@ -4696,10 +4696,58 @@ Valider les balises.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>.csv</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230316T173946Z" creationid="sirine" creationdate="20230316T173946Z">
+        <seg>.csv</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>.repositories</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210110T133344Z" creationid="suzume" creationdate="20210110T133344Z">
         <seg>.repositories</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>.tab</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230316T174023Z" creationid="sirine" creationdate="20230316T174023Z">
+        <seg>.tab</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>.tbx</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230316T173939Z" creationid="sirine" creationdate="20230316T173939Z">
+        <seg>.tbx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>.tsv</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230316T174015Z" creationid="sirine" creationdate="20230316T174015Z">
+        <seg>.tsv</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>.txt</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230316T174030Z" creationid="sirine" creationdate="20230316T174030Z">
+        <seg>.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>.utf8</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230316T174027Z" creationid="sirine" creationdate="20230316T174027Z">
+        <seg>.utf8</seg>
       </tuv>
     </tu>
     <tu>
@@ -16655,6 +16703,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>CSV</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230316T173948Z" creationid="sirine" creationdate="20230316T173948Z">
+        <seg>CSV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Calculator:</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z" creationid="Didier" creationdate="20160427T163112Z">
@@ -25570,6 +25626,14 @@ dommage...</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Extension</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230316T174047Z" creationid="sirine" creationdate="20230316T174047Z">
+        <seg>Extension</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>External GPG did not return a valid signature; got: {0}</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20230316T074024Z" creationid="suzume" creationdate="20220317T141707Z">
@@ -27789,6 +27853,14 @@ authors of previous versions.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20121004T090715Z">
         <seg>Forcer l'enregistrement du mot de passe en texte en clair</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Format</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230316T174102Z" creationid="sirine" creationdate="20230316T174102Z">
+        <seg>Format</seg>
       </tuv>
     </tu>
     <tu>
@@ -43123,6 +43195,14 @@ combination as such.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>OS default encoding</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230316T174012Z" creationid="sirine" creationdate="20230316T174012Z">
+        <seg>OS Encodage par défaut</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>ECR = ÉCRASEMENT</note>
       <tuv lang="en">
         <seg>OVR</seg>
@@ -57381,6 +57461,14 @@ address new problems or concerns.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>TBX</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230316T173942Z" creationid="sirine" creationdate="20230316T173942Z">
+        <seg>TBX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>TBX - Term Base eXchange - is the open, XML-based standard for exchanging structured terminological data, TBX has been approved as an international standard by LISA and ISO.</seg>
       </tuv>
       <tuv lang="fr" changeid="brigitte" changedate="20130712T153330Z">
@@ -57537,6 +57625,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160119T093355Z" creationid="Didier" creationdate="20160119T093341Z">
         <seg>À documenter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TSV</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230316T174017Z" creationid="sirine" creationdate="20230316T174017Z">
+        <seg>TSV</seg>
       </tuv>
     </tu>
     <tu>
@@ -70014,6 +70110,14 @@ Les recherches exactes correspondent à l'ensemble de la chaîne recherchée.</s
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20190222T085633Z" creationid="Didier" creationdate="20190222T085633Z">
         <seg>USD &lt;a0&gt;Faire un don&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>UTF-8</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230316T173936Z" creationid="sirine" creationdate="20230316T173936Z">
+        <seg>UTF-8</seg>
       </tuv>
     </tu>
     <tu>
