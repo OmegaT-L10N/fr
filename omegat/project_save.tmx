@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_02bf26211" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -18680,6 +18680,14 @@ kolekti -b C:\[...]\trunk\doc_src2 publish [-j JOB] -l fr,en C:\[...]\trunk\doc_
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Command line launch</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230316T080657Z" creationid="Anand" creationdate="20230316T080657Z">
+        <seg>Lancer par ligne de commande</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Command:</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z" creationid="Didier" creationdate="20170106T154653Z">
@@ -19226,6 +19234,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="fr" changeid="tengu" changedate="20221114T090249Z" creationid="tengu" creationdate="20221114T090249Z">
         <seg>Consultez la documentation pour les possibilités de récupération et renvoyez l'information suivante aux développeurs en y joignant un descriptif de la manipulation qui a amené l'erreur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Consult the documentation for your system for more information.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230316T080610Z" creationid="Anand" creationdate="20230316T080555Z">
+        <seg>Consultez la documentation de votre système pour plus d'information.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23306,7 +23322,6 @@ Ajouter C:\Program Files (x86)\Prince\Engine\bin dans le Path.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Duplicate fallbac&amp;k text</seg>
       </tuv>
@@ -30410,6 +30425,15 @@ sections when you distribute them as separate works.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>(Anand) PATH ? </note>
+      <tuv lang="en">
+        <seg>If &lt;f0&gt;.jar&lt;/f0&gt; files are properly associated with the Java 8 Runtime Environment and your PATH settings are correct, you can also simply click (or double-click) on &lt;f1&gt;OmegaT.jar&lt;/f1&gt; to launch it directly.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230316T080451Z" creationid="Anand" creationdate="20230316T080451Z">
+        <seg>Si les fichiers &lt;f0&gt;.jar&lt;/f0&gt; sont correctement associés avec l'environnement d'exécution Java 8 et que vos paramètres PATH sont corrects, vous pouvez également cliquer (ou double-cliquer) sur &lt;f1&gt;OmegaT.jar&lt;/f1&gt; pour l'exécuter directement.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>If &lt;g0&gt;Show Relevant Suggestions Automatically&lt;/g0&gt; option is checked, Auto-completer is launched automatically by typing the first letters of a translated glossary entry, or by typing "&lt;" in case of tags.</seg>
       </tuv>
@@ -36563,7 +36587,6 @@ itself on the first run.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Java Resource Bundles</seg>
       </tuv>
@@ -48035,7 +48058,6 @@ language you would like to translate to.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Preserve &amp;spaces for all tags</seg>
       </tuv>
@@ -48600,7 +48622,6 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Project autosaved at {0}</seg>
       </tuv>
@@ -51611,7 +51632,6 @@ REPAIR OR CORRECTION.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>SVG / Adobe Illustrator Export</seg>
       </tuv>
