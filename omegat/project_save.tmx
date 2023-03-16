@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_02bf26211" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -23290,6 +23290,7 @@ Ajouter C:\Program Files (x86)\Prince\Engine\bin dans le Path.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Duplicate fallbac&amp;k text</seg>
       </tuv>
@@ -26166,6 +26167,14 @@ dommage...</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
         <seg>Variables du nom de fichier :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Filename variables:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T065105Z" creationid="suzume" creationdate="20230316T065105Z">
+        <seg>Variables du nom de fichier :</seg>
       </tuv>
     </tu>
     <tu>
@@ -29168,6 +29177,14 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130415T134840Z">
         <seg>Fichiers HTML et XHTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>HTML file too big!</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T065137Z" creationid="suzume" creationdate="20230316T065137Z">
+        <seg>Fichier HTML trop gros  !</seg>
       </tuv>
     </tu>
     <tu>
@@ -36489,6 +36506,7 @@ itself on the first run.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Java Resource Bundles</seg>
       </tuv>
@@ -43851,6 +43869,7 @@ translation leveraging into updated projects.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en">
         <seg>OmegaT is a free and open source multiplatform computer-assisted translation (CAT) tool offering fuzzy matching, translation memory, keyword search, glossaries, and translation leveraging into updated projects.</seg>
       </tuv>
@@ -47944,6 +47963,7 @@ language you would like to translate to.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Preserve &amp;spaces for all tags</seg>
       </tuv>
@@ -48505,6 +48525,15 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
       </tuv>
       <tuv lang="fr">
         <seg>Données du projet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Project autosaved at {0}</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T065120Z" creationid="suzume" creationdate="20230316T065120Z">
+        <seg>Projet sauvegardé automatiquement à {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -51510,6 +51539,7 @@ REPAIR OR CORRECTION.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>SVG / Adobe Illustrator Export</seg>
       </tuv>
@@ -55657,6 +55687,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source file encoding:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T065016Z" creationid="suzume" creationdate="20230316T065016Z">
+        <seg>Encodage des fichiers source :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source file loading complete</seg>
       </tuv>
       <tuv lang="fr">
@@ -55683,8 +55721,8 @@ of the GPL, as needed to protect the freedom of users.</seg>
       <tuv lang="en">
         <seg>Source filename pattern:</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20230316T064955Z" creationid="suzume" creationdate="20230316T064955Z">
-        <seg>Masque de nom de fichier source :</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T065028Z" creationid="suzume" creationdate="20230316T064955Z">
+        <seg>Masque des noms de fichiers source :</seg>
       </tuv>
     </tu>
     <tu>
@@ -68911,6 +68949,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20230115T130150Z" creationid="briac" creationdate="20230115T130150Z">
         <seg>Encodage des fichiers traduits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translated file encoding:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T065037Z" creationid="suzume" creationdate="20230316T065037Z">
+        <seg>Encodage des fichiers traduits :</seg>
       </tuv>
     </tu>
     <tu>
