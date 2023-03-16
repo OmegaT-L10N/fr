@@ -1284,6 +1284,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Force &lt;it pos="end"&gt; tags shortcut to "&lt;f &gt;"</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T063038Z" creationid="suzume" creationdate="20230316T063038Z">
+        <seg>&amp;Utiliser « f » comme balise abrégée pour les balises &lt;it pos="end"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Force shortcut to "f" for &lt;it pos="end"&gt; tags</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20131230T125342Z" creationid="Didier" creationdate="20131230T125342Z">
@@ -36426,6 +36434,15 @@ itself on the first run.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Java Resource Bundles</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T063122Z" creationid="suzume" creationdate="20230316T063122Z">
+        <seg>Paquets de ressources Java</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Java Resource Bundles Filter Options</seg>
       </tuv>
@@ -70367,6 +70384,14 @@ The current setting is {0}MB;</seg>
         <seg>Utilisez « java -Xmx&lt;taille-en-Mo&gt;M -jar OmegaT.jar » à la ligne de commande
 ou à partir du script de lancement d'OmegaT ;
 la configuration actuelle est de {0} Mo ;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use "needs-review-translation" instead of "translated"</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T063109Z" creationid="suzume" creationdate="20230316T063109Z">
+        <seg>Utiliser "needs-review-translation" au lieu de "translated"</seg>
       </tuv>
     </tu>
     <tu>
