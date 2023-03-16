@@ -1310,8 +1310,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Glossaries</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210505T044950Z" creationid="Didier" creationdate="20140414T130233Z">
-        <seg>les glossa&amp;ires</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T054852Z" creationid="Didier" creationdate="20140414T130233Z">
+        <seg>Glossa&amp;ires</seg>
       </tuv>
     </tu>
     <tu>
@@ -2372,6 +2372,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221112T080951Z" creationid="suzume" creationdate="20221112T080951Z">
         <seg>Guide de l'&amp;utilisateur...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;User Manual...</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T053729Z" creationid="suzume" creationdate="20230316T053729Z">
+        <seg>Manuel d'&amp;utilisation...</seg>
       </tuv>
     </tu>
     <tu>
@@ -38819,6 +38827,14 @@ La version Mac intègre un JRE.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Main Memor&amp;y</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T053800Z" creationid="suzume" creationdate="20230316T053738Z">
+        <seg>Mémoire &amp;principale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Main Menu</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130503T084304Z">
@@ -49252,6 +49268,14 @@ ces mots : « pas de page »...</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130503T114113Z">
         <seg>Rétablit la dernière action d'édition effectuée dans le segment cible en cours.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Reference T&amp;Ms</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T053751Z" creationid="suzume" creationdate="20230316T053751Z">
+        <seg>Mémoires de &amp;référence</seg>
       </tuv>
     </tu>
     <tu>
