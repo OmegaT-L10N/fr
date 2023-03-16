@@ -191,6 +191,29 @@ License. Each licensee is addressed as "you". "Licensees" and
     <tu>
       <tuv lang="en">
         <seg># OmegaT.exe runtime configuration
+	# To use a parameter, remove the '#' before the '-'
+	# Memory
+	-Xmx1024M
+	# Language
+	-Duser.language=FR
+	# Country
+	-Duser.country=CA</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230316T071322Z" creationid="Anand" creationdate="20230316T071322Z">
+        <seg>
+# OmegaT.exe runtime configuration
+	# To use a parameter, remove the '#' before the '-'
+	# Memory
+	-Xmx1024M
+	# Language
+	-Duser.language=FR
+	# Country
+	-Duser.country=CA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg># OmegaT.exe runtime configuration
 # To use a parameter, remove the '#' before the '-'
 # Memory
 -Xmx1024M
@@ -74498,6 +74521,14 @@ Spotlight search field.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also click on &lt;f0&gt;OmegaT.jar&lt;/f0&gt; to launch it directly if the &lt;f1&gt;.jar&lt;/f1&gt; extension is associated with the system Java launcher.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230316T071438Z" creationid="Anand" creationdate="20230316T071438Z">
+        <seg>Vous pouvez aussi cliquer sur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can also define various options relating to tag validation and define custom tags.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20201203T113558Z" creationid="suzume" creationdate="20201203T113558Z">
@@ -75096,6 +75127,14 @@ installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210201T120144Z" creationid="suzume" creationdate="20210201T120144Z">
         <seg>Vous pouvez lancer OmegaT à partir de la ligne de commande avec un script qui comprend des options de démarrage ou cliquer sur &lt;f0&gt;OmegaT.jar&lt;/f0&gt; pour le lancer directement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can launch OmegaT from the command line with a script that includes start-up options.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230316T071419Z" creationid="Anand" creationdate="20230316T071419Z">
+        <seg>Vous pouvez lancer OmegaT à partir de la ligne de commande avec un script qui comprend des options de démarrage.</seg>
       </tuv>
     </tu>
     <tu>
