@@ -23538,8 +23538,8 @@ these terms and conditions.</seg>
       <tuv lang="en">
         <seg>Each translated user manual comes in a different language folder.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20230314T085153Z" creationid="suzume" creationdate="20230314T085153Z">
-        <seg>Chaque version traduite du manuel de l'utilisateur a son propre dossier.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T052340Z" creationid="suzume" creationdate="20230314T085153Z">
+        <seg>Chaque version traduite du manuel d'utilisation a son propre dossier.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29094,8 +29094,8 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       <tuv lang="en">
         <seg>HTML user manual online</seg>
       </tuv>
-      <tuv lang="fr" changeid="briac" changedate="20170918T110855Z" creationid="briac" creationdate="20170918T110855Z">
-        <seg>Manuel de l'utilisateur en ligne</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T052359Z" creationid="briac" creationdate="20170918T110855Z">
+        <seg>Manuel d'utilisation en ligne</seg>
       </tuv>
     </tu>
     <tu>
@@ -43900,8 +43900,8 @@ contenant votre dossier de base est refusé à OmegaT.</seg>
       <tuv lang="en">
         <seg>OmegaT is supplied with a comprehensive user manual.</seg>
       </tuv>
-      <tuv lang="fr">
-        <seg>OmegaT est accompagné d'un manuel de l'utilisateur complet.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T052340Z">
+        <seg>OmegaT est accompagné d'un manuel d'utilisation complet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60722,11 +60722,13 @@ instead.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>fichier de saisie ?
+ça veut dire quoi "fichier de saisie" ?</note>
       <tuv lang="en">
         <seg>The folder contains two files: &lt;f1&gt;index.html&lt;/f1&gt; (the user manual entry file) and &lt;f2&gt;OmegaT.app&lt;/f2&gt; (the application).</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230315T154853Z" creationid="Anand" creationdate="20230315T154853Z">
-        <seg>Le dossier contient 2 fichiers : &lt;f1&gt;index.htm&lt;/f1&gt; (le fichier de saisie du manuel de l'utilisateur) et &lt;f2&gt;OmegaT.app&lt;/f2&gt; (l'application).</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T052328Z" creationid="Anand" creationdate="20230315T154853Z">
+        <seg>Le dossier contient 2 fichiers : &lt;f1&gt;index.htm&lt;/f1&gt; (le fichier de saisie du manuel d'utilisation) et &lt;f2&gt;OmegaT.app&lt;/f2&gt; (l'application).</seg>
       </tuv>
     </tu>
     <tu>
@@ -63686,8 +63688,8 @@ L'idée était que l'utilisation de certaines touches en dehors du segment coura
       <tuv lang="en">
         <seg>The user manual for OmegaT in PDF format ({{ site.data.versions.standard.name }}).</seg>
       </tuv>
-      <tuv lang="fr" changeid="briac" changedate="20170925T211536Z" creationid="briac" creationdate="20170925T211536Z">
-        <seg>Le manuel de l'utilisateur d'OmegaT en format PDF ({{ site.data.versions.standard.name }}).</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T052340Z" creationid="briac" creationdate="20170925T211536Z">
+        <seg>Le manuel d'utilisation d'OmegaT en format PDF ({{ site.data.versions.standard.name }}).</seg>
       </tuv>
     </tu>
     <tu>
@@ -67020,8 +67022,8 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="en">
         <seg>To call up the manual from within OmegaT, simply select Help &gt; Users manual, or press F1.</seg>
       </tuv>
-      <tuv lang="fr" changeid="briac" changedate="20170403T101909Z" creationid="briac" creationdate="20170331T132111Z">
-        <seg>Le manuel est accessible directement depuis OmegaT via Aide &gt; Manuel de l'utilisateur ou via la touche « F1 ».</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T052359Z" creationid="briac" creationdate="20170331T132111Z">
+        <seg>Le manuel est accessible directement depuis OmegaT via Aide &gt; Manuel d'utilisation ou via la touche « F1 ».</seg>
       </tuv>
     </tu>
     <tu>
@@ -71131,8 +71133,8 @@ la configuration actuelle est de {0} Mo ;</seg>
       <tuv lang="en">
         <seg>User Manual...</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20221220T105816Z">
-        <seg>Manuel de l'utilisateur...</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T052359Z">
+        <seg>Manuel d'utilisation...</seg>
       </tuv>
     </tu>
     <tu>
@@ -71221,8 +71223,8 @@ la configuration actuelle est de {0} Mo ;</seg>
       <tuv lang="en">
         <seg>User manual online</seg>
       </tuv>
-      <tuv lang="fr" changeid="briac" changedate="20170918T110826Z" creationid="briac" creationdate="20170918T110826Z">
-        <seg>Manuel de l'utilisateur</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T052359Z" creationid="briac" creationdate="20170918T110826Z">
+        <seg>Manuel d'utilisation</seg>
       </tuv>
     </tu>
     <tu>
@@ -74304,8 +74306,8 @@ Spotlight search field.</seg>
       <tuv lang="en">
         <seg>You can also call up the user manual supplied with OmegaT without launching OmegaT itself.</seg>
       </tuv>
-      <tuv lang="fr" changeid="briac" changedate="20170403T102006Z" creationid="briac" creationdate="20170403T102006Z">
-        <seg>Le manuel de l'utilisateur peut également être consulté sans avoir à ouvrir OmegaT :</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T052340Z" creationid="briac" creationdate="20170403T102006Z">
+        <seg>Le manuel d'utilisation peut également être consulté sans avoir à ouvrir OmegaT :</seg>
       </tuv>
     </tu>
     <tu>
