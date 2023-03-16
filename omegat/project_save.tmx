@@ -39213,16 +39213,16 @@ La version Mac intègre un JRE.</seg>
       <tuv lang="en">
         <seg>Makes the part of the expression to the right of the modifier case insensitive.</seg>
       </tuv>
-      <tuv lang="fr" changeid="sirine" changedate="20230307T220956Z" creationid="sirine" creationdate="20230307T215813Z">
-        <seg>Rend insensible à la casse la partie de l'expression située à droite du modificateur.</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230316T085351Z" creationid="sirine" creationdate="20230307T215813Z">
+        <seg>Rend la partie de l'expression située à droite du modificateur insensible à la casse.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Makes the part of the expression to the right of the modifier case sensitive.</seg>
       </tuv>
-      <tuv lang="fr" changeid="sirine" changedate="20230307T221028Z" creationid="sirine" creationdate="20230307T215851Z">
-        <seg>Rend sensible à la casse la partie de l'expression située à droite du modificateur.</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230316T085406Z" creationid="sirine" creationdate="20230307T215851Z">
+        <seg>Rend la partie de l'expression située à droite du modificateur sensible à la casse.</seg>
       </tuv>
     </tu>
     <tu>
@@ -74895,7 +74895,6 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>(sirine) phrase trop longue, difficile à comprendre -&gt; manque de clarté</note>
       <tuv lang="en">
         <seg>You can also search for the caret, closing bracket, and hyphen as themselves by placing them at a position that does not trigger their special meaning: anywhere except right after the opening bracket for the caret, immediately after either opening bracket or the caret following it for the closing bracket, and either just after the opening bracket or just before the closing bracket for the hyphen.</seg>
       </tuv>
