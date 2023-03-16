@@ -43797,6 +43797,15 @@ translation leveraging into updated projects.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en">
+        <seg>OmegaT is a free and open source multiplatform computer-assisted translation (CAT) tool offering fuzzy matching, translation memory, keyword search, glossaries, and translation leveraging into updated projects.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T064204Z" creationid="suzume" creationdate="20230316T064204Z">
+        <seg>[correspondance]&amp;Licence</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>OmegaT is a free open-source translation memory application for professional translators written in Java.</seg>
       </tuv>
@@ -51436,6 +51445,15 @@ REPAIR OR CORRECTION.</seg>
         <seg>SVG  / Adobe Illustrator Export</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20230115T130455Z" creationid="briac" creationdate="20230115T130455Z">
+        <seg>SVG / export Adobe Illustrator</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>SVG / Adobe Illustrator Export</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T064134Z" creationid="suzume" creationdate="20230316T064134Z">
         <seg>SVG / export Adobe Illustrator</seg>
       </tuv>
     </tu>
