@@ -8618,8 +8618,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="en">
         <seg>&lt;l0&gt;\W&lt;/l0&gt; is any character that is &lt;e1&gt;not&lt;/e1&gt; a word character (&lt;l2&gt;[^\w]&lt;/l2&gt;).</seg>
       </tuv>
-      <tuv lang="fr" changeid="sirine" changedate="20230308T222215Z" creationid="sirine" creationdate="20230308T222215Z">
-        <seg>&lt;l0&gt;\W&lt;/l0&gt; est tout caractère qui n'est &lt;e1&gt;pas&lt;/e1&gt; un caractère mot (&lt;l2&gt;[^\w]&lt;/l2&gt;).</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230316T091217Z" creationid="sirine" creationdate="20230308T222215Z">
+        <seg>&lt;l0&gt;\W&lt;/l0&gt; est tout caractère qui n'est &lt;e1&gt;pas&lt;/e1&gt; un caractère de mot (&lt;l2&gt;[^\w]&lt;/l2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -64728,8 +64728,6 @@ prohibited by law if you do not accept this License.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>
-</note>
       <tuv lang="en">
         <seg>These classes never represent only the actual letter used to form the shorthand.</seg>
       </tuv>
