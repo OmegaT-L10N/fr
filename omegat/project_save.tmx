@@ -15101,6 +15101,14 @@ provoquer des comportements inattendus, mais corrects.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Auto &amp;replace plural specification</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T062418Z" creationid="suzume" creationdate="20230316T062418Z">
+        <seg>Remplacement automatique de la spécification du pluriel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Auto replace 'nplurals=INTEGER; &amp;plural=EXPRESSION;' in header</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210505T045327Z">
@@ -23222,6 +23230,15 @@ Ajouter C:\Program Files (x86)\Prince\Engine\bin dans le Path.</seg>
         <seg>Duplicate Fallbac&amp;k Text</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20141011T075348Z" creationid="Didier" creationdate="20141011T074258Z">
+        <seg>Texte de compatibilité dup&amp;liqué</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Duplicate fallbac&amp;k text</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T062401Z" creationid="suzume" creationdate="20230316T062401Z">
         <seg>Texte de compatibilité dup&amp;liqué</seg>
       </tuv>
     </tu>
@@ -57368,6 +57385,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="fr" changeid="Anand" changedate="20230306T133944Z" creationid="Anand" creationdate="20230306T133944Z">
         <seg>Raccourcis de balises</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tag shortcuts (do not apply to OmegaT 2.6 compatible files):</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T062529Z" creationid="suzume" creationdate="20230316T062529Z">
+        <seg>ne s'appliquent pas aux fichiers compatibles avec OmegaT 2.6 :</seg>
       </tuv>
     </tu>
     <tu>
