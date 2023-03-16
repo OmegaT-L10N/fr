@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_02bf26211" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -51149,6 +51149,14 @@ ces mots : « pas de page »...</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Run OmegaT" in the user manual.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T051909Z" creationid="suzume" creationdate="20230316T051909Z">
+        <seg>dans les Guides pratiques du manuel d'utilisation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Run script on slot #{0}.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20111111T130150Z">
@@ -52396,8 +52404,8 @@ La recherche port par défaut sur le projet, et peut porter sur tout fichier sit
       <tuv lang="en">
         <seg>See "How To...</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20221110T102116Z" creationid="suzume" creationdate="20221110T102116Z">
-        <seg>Voir « Comment faire pour...</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230316T051829Z" creationid="suzume" creationdate="20221110T102116Z">
+        <seg>Voir «  Lancer OmegaT»</seg>
       </tuv>
     </tu>
     <tu>
