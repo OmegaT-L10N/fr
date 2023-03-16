@@ -8594,8 +8594,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="en">
         <seg>&lt;l0&gt;\H &lt;/l0&gt; is any character that is &lt;e1&gt;not&lt;/e1&gt; a horizontal white space, and &lt;l2&gt;\V&lt;/l2&gt; any character that is &lt;e3&gt;not&lt;/e3&gt; a vertical white space (&lt;l4&gt;[^\h]&lt;/l4&gt; and &lt;l5&gt;[^\v]&lt;/l5&gt;, respectively).</seg>
       </tuv>
-      <tuv lang="fr" changeid="sirine" changedate="20230316T091526Z" creationid="sirine" creationdate="20230308T223103Z">
-        <seg>&lt;l0&gt;\H &lt;/l0&gt; est tout caractère qui n'est &lt;e1&gt;pas&lt;/e1&gt; un caractère d'espacement horizontal, et &lt;l2&gt;\V&lt;/l2&gt; tout caractère qui n'est &lt;e3&gt;pas&lt;/e3&gt; un caractère d'espacement vertical (&lt;l4&gt;[^\h]&lt;/l4&gt; et &lt;l5&gt;[^\v]&lt;/l5&gt;respectivement).</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230316T091840Z" creationid="sirine" creationdate="20230308T223103Z">
+        <seg>&lt;l0&gt;\H &lt;/l0&gt; est tout caractère qui n'est &lt;e1&gt;pas&lt;/e1&gt; un caractère d'espacement horizontal, et &lt;l2&gt;\V&lt;/l2&gt; tout caractère qui n'est &lt;e3&gt;pas&lt;/e3&gt; un caractère d'espacement vertical (respectivement &lt;l4&gt;[^\h]&lt;/l4&gt; et &lt;l5&gt;[^\v]&lt;/l5&gt;).</seg>
       </tuv>
     </tu>
     <tu>
