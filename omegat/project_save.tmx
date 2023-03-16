@@ -28598,8 +28598,9 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       <tuv lang="en">
         <seg>Glossaries can be “tab-separated values” (TSV) or “comma-separated values” (CSV) files or can also use the TermBase eXchange (TBX 2) format.</seg>
       </tuv>
-      <tuv lang="fr" changeid="sirine" changedate="20230316T181159Z" creationid="sirine" creationdate="20230316T181159Z">
-        <seg>[correspondance]Les glossaires peuvent être de format « valeurs séparées par des tabulations » (TSV), « valeurs séparées par des virgules » (CSV) ou de format TermBase eXchange (TBX).</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230316T182024Z" creationid="sirine" creationdate="20230316T181159Z">
+        <seg>Les glossaires peuvent être des fichiers de « tabulation-separated values   » (TSV) ou de « comma-separated values  » (CSV) ou peuvent également utiliser le format TermBase eXchange (TBX 2).
+</seg>
       </tuv>
     </tu>
     <tu>
