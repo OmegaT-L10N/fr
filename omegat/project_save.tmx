@@ -71981,6 +71981,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Using the command line allows you to set various options that control or modify the behaviour of the application.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230316T080811Z" creationid="Anand" creationdate="20230316T080811Z">
+        <seg>Utiliser la ligne de commande vous permet de définir diverses options qui contrôlent ou modifient le comportement de l'application.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Using the console mode, one can make generating a localized interface a part of the build process.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130421T082239Z">
@@ -74746,6 +74754,14 @@ Spotlight search field.</seg>
       </tuv>
       <tuv lang="fr" changeid="Anand" changedate="20230316T071759Z" creationid="Anand" creationdate="20230316T071438Z">
         <seg>Vous pouvez aussi double-cliquer sur le fichier &lt;f0&gt;OmegaT.jar&lt;/f0&gt; pour le lancer directement si l'extension &lt;f1&gt;.jar&lt;/f1&gt; est associée au lanceur Java du système.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also define and save sets of options in scripts that you can then use to launch OmegaT for a particular purpose.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230316T081145Z" creationid="Anand" creationdate="20230316T081145Z">
+        <seg>Vous pouvez aussi définir et enregistrer des groupes d'options dans des scripts que vous pourrez ensuite utiliser afin de lancer OmegaT dans un objectif particulier.</seg>
       </tuv>
     </tu>
     <tu>
