@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_02bf26211" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5113,6 +5113,14 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
         <seg>95 % à 100 % :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;!-- &lt;string&gt;-Xmx6g&lt;/string&gt; --&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230316T075103Z" creationid="Anand" creationdate="20230316T075103Z">
+        <seg>&lt;!-- &lt;string&gt;-Xmx6g&lt;/string&gt; --&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -18956,6 +18964,14 @@ kolekti -b C:\[...]\trunk\doc_src2 publish [-j JOB] -l fr,en C:\[...]\trunk\doc_
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Configuration.properties</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230316T074415Z" creationid="Anand" creationdate="20230316T074415Z">
+        <seg>Configuration.properties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Configure</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20161227T171721Z" creationid="Didier" creationdate="20161227T171721Z">
@@ -23290,7 +23306,6 @@ Ajouter C:\Program Files (x86)\Prince\Engine\bin dans le Path.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Duplicate fallbac&amp;k text</seg>
       </tuv>
@@ -26970,6 +26985,14 @@ Par exemple, &lt;e0&gt;point suivi d'un espace&lt;/e0&gt; définit généralemen
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, &lt;l1&gt;user.language=ja&lt;/l1&gt; (without the &lt;l2&gt;#&lt;/l2&gt;) will launch OmegaT with the user interface in Japanese.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230316T074642Z" creationid="Anand" creationdate="20230316T074642Z">
+        <seg>Par exemple, &lt;l1&gt;user.language=ja&lt;/l1&gt; (sans le &lt;l2&gt;#&lt;/l2&gt;) lancera OmegaT avec l'interface utilisateur en japonais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, &lt;l2&gt;user.language=ja&lt;/l2&gt; (without the &lt;l3&gt;#&lt;/l3&gt;) will launch &lt;a4&gt;OmegaT&lt;/a4&gt; with the user interface in Japanese.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210201T125129Z" creationid="suzume" creationdate="20210201T125129Z">
@@ -27221,6 +27244,15 @@ know their rights.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>(Anand) j'aime pas "décommenter"</note>
+      <tuv lang="en">
+        <seg>For example, to change the amount of memory available uncomment the line</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230316T075059Z" creationid="Anand" creationdate="20230316T075059Z">
+        <seg>Par exemple, pour modifier la quantité de mémoire disponible, décommentez la ligne</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>For example, use the pattern &lt;l0&gt;read*&lt;/l0&gt; if you want to have the text filter handle readme files (&lt;l1&gt;readme, read.me&lt;/l1&gt;, or &lt;l2&gt;readme.txt&lt;/l2&gt;).</seg>
       </tuv>
@@ -27438,6 +27470,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210110T124258Z" creationid="suzume" creationdate="20210110T124258Z">
         <seg>Pour les options prédéfinies, supprimer le &lt;l1&gt;#&lt;/l1&gt; devant un paramètre pour l'activer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For predefined options, remove the &lt;l0&gt;#&lt;/l0&gt; symbol before a parameter to enable it.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230316T074455Z" creationid="Anand" creationdate="20230316T074455Z">
+        <seg>Pour les options prédéfinies, supprimez le symbole &lt;l0&gt;#&lt;/l0&gt; devant un paramètre pour l'activer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34562,6 +34602,14 @@ patent against the party.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Info.plist</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230316T074646Z" creationid="Anand" creationdate="20230316T074646Z">
+        <seg>Info.plist</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Information about OmegaT</seg>
       </tuv>
       <tuv lang="fr">
@@ -35761,6 +35809,14 @@ exécutez simplement le programme d'installation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is also possible to use &lt;f0&gt;OmegaT.app&lt;/f0&gt; itself to launch OmegaT from the terminal.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230316T074258Z" creationid="Anand" creationdate="20230316T074258Z">
+        <seg>Il est également possible d'utiliser directement le fichier &lt;f0&gt;OmegaT.app&lt;/f0&gt; pour lancer OmegaT depuis le terminal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is called the &lt;e1&gt;writable&lt;/e1&gt; glossary for this reason.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221016T085238Z" creationid="suzume" creationdate="20221016T081439Z">
@@ -36506,7 +36562,6 @@ itself on the first run.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Java Resource Bundles</seg>
       </tuv>
@@ -43877,7 +43932,6 @@ translation leveraging into updated projects.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en">
         <seg>OmegaT is a free and open source multiplatform computer-assisted translation (CAT) tool offering fuzzy matching, translation memory, keyword search, glossaries, and translation leveraging into updated projects.</seg>
       </tuv>
@@ -47971,7 +48025,6 @@ language you would like to translate to.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Preserve &amp;spaces for all tags</seg>
       </tuv>
@@ -48536,7 +48589,6 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Project autosaved at {0}</seg>
       </tuv>
@@ -51547,7 +51599,6 @@ REPAIR OR CORRECTION.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>SVG / Adobe Illustrator Export</seg>
       </tuv>
@@ -53123,8 +53174,8 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       <tuv lang="en">
         <seg>See the &lt;l0/&gt; section for details.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Léo Delaune" changedate="20230301T153236Z" creationid="Léo Delaune" creationdate="20230301T153236Z">
-        <seg>Se rendre sur la &lt;l0/&gt; section pour les détails.</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230316T073436Z" creationid="Léo Delaune" creationdate="20230301T153236Z">
+        <seg>Voir la section &lt;l0/&gt; pour en savoir plus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53157,6 +53208,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221220T115005Z" creationid="suzume" creationdate="20221220T115005Z">
         <seg>Voir les préférences &lt;l1/&gt; pour en savoir plus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the &lt;l1/&gt; section below for details.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230316T074331Z" creationid="Anand" creationdate="20230316T074331Z">
+        <seg>Voir la section &lt;l1/&gt; pour en savoir plus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53205,6 +53264,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20230314T085213Z" creationid="suzume" creationdate="20230314T085213Z">
         <seg>Voir les préférences &lt;l2/&gt; pour en savoir plus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the &lt;l2/&gt; section for details.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230316T073352Z" creationid="Anand" creationdate="20230316T073352Z">
+        <seg>Voir la section &lt;l2/&gt; pour en savoir plus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58740,6 +58807,22 @@ form of a work.</seg>
       </tuv>
       <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210520T105121Z">
         <seg>Le sous-dossier &lt;e0&gt;omegat&lt;/e0&gt; contient au moins un fichier (peut en contenir plus).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f0&gt;Configuration.properties&lt;/f0&gt; file is located in the &lt;f1&gt;Contents/Resources/&lt;/f1&gt; folder.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230316T073749Z" creationid="Anand" creationdate="20230316T073749Z">
+        <seg>Le fichier &lt;f0&gt;Configuration.properties&lt;/f0&gt; est situé dans le dossier &lt;f1&gt;Contents/Resources/&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f0&gt;Info.plist&lt;/f0&gt; file is located in the &lt;f1&gt;Contents/&lt;/f1&gt; folder.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230316T073857Z" creationid="Anand" creationdate="20230316T073754Z">
+        <seg>Le fichier &lt;f0&gt;Info.plist&lt;/f0&gt; est situé dans le dossier &lt;f1&gt;Contents/&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67065,6 +67148,15 @@ public, and in some countries other activities as well.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>(Anand) Virgule à décaler dans source</note>
+      <tuv lang="en">
+        <seg>To access the files inside the &lt;f0&gt;OmegaT.app&lt;/f0&gt;, package right-click on &lt;f1&gt;OmegaT.app&lt;/f1&gt; and select “Show Package Contents”.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230316T074126Z" creationid="Anand" creationdate="20230316T074126Z">
+        <seg>Afin d'accéder aux fichiers dans le paquet &lt;f0&gt;OmegaT.app&lt;/f0&gt;, faites un clic droit sur &lt;f1&gt;OmegaT.app&lt;/f1&gt; et sélectionnez "Afficher le contenu du paquet".</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>To access the private part, a user must create a key using https://demo.taas-project.eu/account/keys/create?system=omegaT.</seg>
       </tuv>
@@ -71281,6 +71373,14 @@ la configuration actuelle est de {0} Mo ;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use your text editor of choice to modify the files.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230316T074359Z" creationid="Anand" creationdate="20230316T074359Z">
+        <seg>Utilisez l'éditeur de texte de votre choix pour modifier les fichiers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Used to adjust the handling of supported file formats (access via &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;File Filters...&lt;/g2&gt; &lt;/m0&gt;, close via &lt;k3&gt;Esc&lt;/k3&gt;)</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130528T124531Z">
@@ -75267,6 +75367,14 @@ installation script (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can modify the behaviour of OmegaT.app by editing the &lt;f0&gt;Configuration.properties&lt;/f0&gt; (OmegaT configuration) as well as the &lt;f1&gt;Info.plist&lt;/f1&gt; (Java configuration) files located inside the OmegaT.app package.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230316T073826Z" creationid="Anand" creationdate="20230316T073713Z">
+        <seg>Vous pouvez modifier le comportement du fichier OmegaT.app en modifiant le fichier &lt;f0&gt;Configuration.properties&lt;/f0&gt; (configuration d'OmegaT) ainsi que le fichier&lt;f1&gt;Info.plist&lt;/f1&gt; (configuration Java) situés à l'intérieur du paquet OmegaT.app.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can modify them freely to improve the segmentation of a document or add additional general rules.</seg>
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230301T102856Z" creationid="sirine" creationdate="20230301T102856Z">
@@ -77650,6 +77758,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20230113T162856Z" creationid="suzume" creationdate="20230113T162856Z">
         <seg>par Susan Welsh, Marc Prior et Hiroshi Miura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>by removing the &lt;l0&gt;&lt;!--&lt;/l0&gt; and &lt;l1&gt;--&gt;&lt;/l1&gt; markers.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230316T075151Z" creationid="Anand" creationdate="20230316T075151Z">
+        <seg>en supprimant les marqueurs &lt;l0&gt;&lt;!--&lt;/l0&gt; et &lt;l1&gt;--&gt;&lt;/l1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
