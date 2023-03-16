@@ -28596,6 +28596,14 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossaries can be “tab-separated values” (TSV) or “comma-separated values” (CSV) files or can also use the TermBase eXchange (TBX 2) format.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230316T181159Z" creationid="sirine" creationdate="20230316T181159Z">
+        <seg>[correspondance]Les glossaires peuvent être de format « valeurs séparées par des tabulations » (TSV), « valeurs séparées par des virgules » (CSV) ou de format TermBase eXchange (TBX).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossaries can be “tab-separated values” (TSV) or “comma-separated values” (CSV) files or can also use the TermBase eXchange (TBX) format.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221016T090923Z" creationid="suzume" creationdate="20221016T090923Z">
@@ -74351,6 +74359,15 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130527T141826Z">
         <seg>À l'intérieur d'un segment, le premier groupe (unique ou double) reçoit le numéro 0, le deuxième le numéro 1, etc. (</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(sirine) workflow = flux de travail</note>
+      <tuv lang="en">
+        <seg>Within that reference glossaries folder, you can create multiple terminology subfolders organized by topic, client, or any other category that suits your workflow.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230316T181426Z" creationid="sirine" creationdate="20230316T181426Z">
+        <seg>Dans ce dossier de glossaires de référence, vous pouvez créer plusieurs sous-dossiers terminologiques organisés par thème, par client ou par toute autre catégorie adaptée à votre travail.</seg>
       </tuv>
     </tu>
     <tu>
