@@ -17464,6 +17464,15 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check issues when leaving a segment</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230316T095007Z" creationid="Léo Delaune" creationdate="20230316T095007Z">
+        <seg>Vérifier les problèmes en quittant un segment
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check it if you need information on OmegaT's evolution.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221016T075026Z" creationid="suzume" creationdate="20221016T075026Z">
@@ -44406,6 +44415,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT runs an issues check on the segment as you leave it.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230316T095018Z" creationid="Léo Delaune" creationdate="20230316T095018Z">
+        <seg>OmegaT effectue une vérification des problèmes sur le segment lorsque vous le quittez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT runs on any platform that runs a Java Runtime Environment (Windows, macOS, and Linux being the most mainstream).</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230301T153717Z" creationid="Léo Delaune" creationdate="20230301T153717Z">
@@ -57836,6 +57853,15 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Tags should generally not be modified, but that is possible when this option is enabled.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230316T094956Z" creationid="Léo Delaune" creationdate="20230316T094956Z">
+        <seg>Les étiquettes ne devraient généralement pas être modifiées, mais cela est possible lorsque cette option est activée.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Tags that do not enclose translatable text will be aggregated into a single tag.</seg>
       </tuv>
       <tuv lang="fr" changeid="Anand" changedate="20230303T092638Z" creationid="Anand" creationdate="20230303T092638Z">
@@ -62351,6 +62377,14 @@ sure this has not already been reported.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130527T134342Z">
         <seg>Cette option permet à OmegaT de remplacer la spécification dans l'en-tête du fichier PO et d'utiliser la valeur par défaut pour la langue cible sélectionnée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The option is equivalent to using &lt;l0/&gt;&lt;l1/&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230316T095030Z" creationid="Léo Delaune" creationdate="20230316T095030Z">
+        <seg>Cette option est équivalente à l'utilisation de &lt;l0/&gt;&lt;l1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
