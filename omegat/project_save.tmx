@@ -7168,6 +7168,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;f0&gt;OmegaT.app&lt;/f0&gt; comes with an &lt;f1&gt;OmegaT&lt;/f1&gt; executable located in &lt;f2&gt;OmegaT.app/Contents/MacOS/&lt;/f2&gt; that you can also use to launch multiple instances of &lt;f3&gt;OmegaT.app&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230316T072706Z" creationid="Anand" creationdate="20230316T072706Z">
+        <seg>&lt;f0&gt;OmegaT.app&lt;/f0&gt; est accompagné d'un exécutable &lt;f1&gt;OmegaT&lt;/f1&gt; situé dans le dossier &lt;f2&gt;OmegaT.app/Contents/MacOS/&lt;/f2&gt; que vous pouvez aussi utiliser pour lancer plusieurs instances d'&lt;f3&gt;OmegaT.app&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;f0&gt;alignDir &lt;/f0&gt;must contain a translation in the target language of the project.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130528T133502Z">
