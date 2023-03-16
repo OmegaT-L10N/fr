@@ -20078,6 +20078,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Count flagged text and custom tags in statistics</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230316T215604Z" creationid="Léo Delaune" creationdate="20230316T215604Z">
+        <seg>Comptabilisation du texte marqué et des balises personnalisées dans les statistiques</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Counter:</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z" creationid="Didier" creationdate="20160427T155808Z">
@@ -70734,6 +70742,14 @@ Les recherches exactes correspondent à l'ensemble de la chaîne recherchée.</s
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20220503T111346Z" creationid="suzume" creationdate="20220503T111346Z">
         <seg>Inconnue/Manuelle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unlike OmegaT tags, flagged text and custom tags are by default counted in the statistics.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230316T215611Z" creationid="Léo Delaune" creationdate="20230316T215611Z">
+        <seg>Contrairement aux balises d'OmegaT, les textes marqués et les balises personnalisées sont par défaut comptabilisés dans les statistiques.</seg>
       </tuv>
     </tu>
     <tu>
