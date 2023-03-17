@@ -31951,8 +31951,8 @@ authors' reputations.</seg>
       <tuv lang="en">
         <seg>If there isn’t one, it installs the program in &lt;f1&gt;/opt/omegat/OmegaT_5.8.0&lt;/f1&gt; and sets it as the default version (in &lt;f2&gt;/opt/omegat/OmegaT-default&lt;/f2&gt;).</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230315T153702Z" creationid="Anand" creationdate="20230315T153702Z">
-        <seg>S'il y en a pas, il va installer le programme dans le dossier &lt;f1&gt;/opt/omegat/OmegaT_5.8.0&lt;/f1&gt; et le définira comme version par défaut (dans le dossier &lt;f2&gt;/opt/omegat/OmegaT-default&lt;/f2&gt;).</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230317T224155Z" creationid="Anand" creationdate="20230315T153702Z">
+        <seg>S'il n'y en a pas, il installera le programme dans le dossier &lt;f1&gt;/opt/omegat/OmegaT_5.8.0&lt;/f1&gt; et le définira comme version par défaut (dans le dossier &lt;f2&gt;/opt/omegat/OmegaT-default&lt;/f2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -61504,7 +61504,8 @@ instead.</seg>
     </tu>
     <tu>
       <note>fichier de saisie ?
-ça veut dire quoi "fichier de saisie" ?</note>
+ça veut dire quoi "fichier de saisie" ?
+(sirine) "fichier de saisie" ou "fichier d'entrée" ? --&gt; c'est généralement le premier fichier qui est chargé lorsqu'une application est exécutée</note>
       <tuv lang="en">
         <seg>The folder contains two files: &lt;f1&gt;index.html&lt;/f1&gt; (the user manual entry file) and &lt;f2&gt;OmegaT.app&lt;/f2&gt; (the application).</seg>
       </tuv>
