@@ -23459,8 +23459,8 @@ Ajouter C:\Program Files (x86)\Prince\Engine\bin dans le Path.</seg>
       <tuv lang="en">
         <seg>Due to licensing considerations, the OmegaT team recommends the Eclipse Temurin Java runtime provided by the Eclipse Foundation's Adoptium Project, but any Java 8 compatible runtime environment should work.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230315T151029Z" creationid="Anand" creationdate="20230315T151029Z">
-        <seg>Pour des raisons de licence, l'équipe d'OmegaT recommande l'environnement d'exécution Eclipse Temurin Java fourni avec le projet Adoptium de la Fondation Eclipse, mais n'importe quel environnement d'exécution compatible avec Java 8 devrait marcher.</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230317T223145Z" creationid="Anand" creationdate="20230315T151029Z">
+        <seg>Pour des raisons de licence, l'équipe d'OmegaT recommande l'environnement d'exécution Eclipse Temurin Java fourni avec le projet Adoptium de la Fondation Eclipse, mais n'importe quel environnement d'exécution compatible avec Java 8 devrait fonctionner.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61970,7 +61970,8 @@ in the quick launch area.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>(Anand) j'aime pas la phrase source</note>
+      <note>(Anand) j'aime pas la phrase source
+(sirine) on peut faire plus simple --&gt; "These instructions are for users who download OmegaT from the website (https://omegat.org) and install it manually."</note>
       <tuv lang="en">
         <seg>The instructions given here apply to people who download the package from the &lt;u0&gt;https://omegat.org&lt;/u0&gt; site and install it manually.</seg>
       </tuv>
