@@ -23761,6 +23761,15 @@ MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Each of the three types of matching percentages presented in the &lt;l0/&gt; pane are taken into account to determine whether a match is displayed.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230318T122541Z" creationid="Léo Delaune" creationdate="20230318T122541Z">
+        <seg>Chacun des trois types de pourcentages de concordance présentés dans le volet &lt;l0/&gt; est pris en compte pour déterminer si une concordance est affichée.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Each output format has specific ways of dealing with RTL display; check the relevant application manuals for details.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221016T074937Z">
@@ -43944,6 +43953,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT displays the five best fuzzy matches above 30% by default.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230318T122450Z" creationid="Léo Delaune" creationdate="20230318T122450Z">
+        <seg>Par défaut, OmegaT affiche les cinq meilleures correspondances partielles au-delà de 30 %.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT does not have read and write permissions for this folder.</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20230115T125908Z" creationid="briac" creationdate="20230115T125908Z">
@@ -48242,6 +48259,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221226T083420Z" creationid="suzume" creationdate="20221226T083420Z">
         <seg>Interruption des commandes de post-traitement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Potential matches are rejected if all three percentages are below the threshold.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230318T122611Z" creationid="Léo Delaune" creationdate="20230318T122611Z">
+        <seg>Les correspondances potentielles sont rejetées si les trois pourcentages sont inférieurs au seuil.</seg>
       </tuv>
     </tu>
     <tu>
@@ -75680,6 +75705,14 @@ your programs, too.</seg>
       </tuv>
       <tuv lang="fr" changeid="Anand" changedate="20230302T170242Z" creationid="Anand" creationdate="20230301T113051Z">
         <seg>Vous pouvez changer ou ajouter des masques de nom de fichier pour associer différents fichiers à un filtre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can change that threshold here.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230318T122530Z" creationid="Léo Delaune" creationdate="20230318T122530Z">
+        <seg>Vous pouvez modifier le seuil ici.</seg>
       </tuv>
     </tu>
     <tu>
