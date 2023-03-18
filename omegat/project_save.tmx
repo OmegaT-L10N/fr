@@ -4583,6 +4583,22 @@ Valider les balises.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>-Dhttp.proxyHost=&lt;proxy IP&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230318T150502Z" creationid="Anand" creationdate="20230318T150502Z">
+        <seg>-Dhttp.proxyHost=&lt;IP du proxy&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>-Dhttp.proxyPort=&lt;port number&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230318T150552Z" creationid="Anand" creationdate="20230318T150552Z">
+        <seg>-Dhttp.proxyPort=&lt;numéro de port&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>-Dmicrosoft.api.client_id=&lt;p0&gt;XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX&lt;/p0&gt;</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210131T124105Z" creationid="suzume" creationdate="20210131T124105Z">
@@ -44948,6 +44964,14 @@ be launched.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT options</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230318T150652Z" creationid="Anand" creationdate="20230318T150652Z">
+        <seg>Options OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT options:</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20230316T074748Z" creationid="suzume" creationdate="20221007T144801Z">
@@ -49861,6 +49885,14 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Proxy host ip address</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230318T150437Z" creationid="Anand" creationdate="20230318T150437Z">
+        <seg>Adresse IP de l'hôte proxy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Proxy host port number</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130418T134144Z">
@@ -51280,6 +51312,14 @@ ces mots : « pas de page »...</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Replace &lt;c0&gt;&lt;proxy IP&gt;&lt;/c0&gt; with the IP address of your proxy server, if your system uses one.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230318T150533Z" creationid="Anand" creationdate="20230318T150533Z">
+        <seg>Remplacez &lt;c0&gt;&lt;IP du proxy&gt;&lt;/c0&gt; par l'adresse IP de votre serveur proxy, si votre système en utilise un.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(Anand) Voir comment remplacer le lien des balises
 (Anand) Peut-être &lt;ulink=url "https://fr.wikipedia.org/wiki/ISO_3166-2"&gt; ?</note>
       <tuv lang="en">
@@ -51312,6 +51352,14 @@ ces mots : « pas de page »...</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130528T124410Z">
         <seg>Remplacez &lt;l0&gt;&lt;nom de fichier&gt;&lt;/l0&gt; par le nom du fichier que vous voulez créer, absolu ou relatif au dossier de travail en cours (le dossier à partir duquel vous lancez &lt;a1&gt;OmegaT&lt;/a1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace &lt;o0&gt;&lt;port number&gt;&lt;/o0&gt; with the port number your system uses to access the proxy server.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230318T150643Z" creationid="Anand" creationdate="20230318T150643Z">
+        <seg>Remplacez &lt;o0&gt;&lt;numéro de port&gt;&lt;/o0&gt; par le numéro de port que votre système utilise pour accéder au serveur proxy.</seg>
       </tuv>
     </tu>
     <tu>
