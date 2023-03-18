@@ -45658,6 +45658,14 @@ disponible dans MacPorts sous le nom « py27-pysvn ».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>On macOS, it is also possible to use &lt;f0&gt;OmegaT.app&lt;/f0&gt; directly in the terminal, in which case java parameters cannot be added:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230318T142553Z" creationid="Anand" creationdate="20230318T142553Z">
+        <seg>Sur macOS, il est également possible d'utiliser &lt;f0&gt;OmegaT.app&lt;/f0&gt; directement dans le terminal, auquel cas les paramètres java ne peuvent pas être ajoutés :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>On macOS: &lt;k0&gt;&lt;k1&gt;Shift&lt;/k1&gt;&lt;k2&gt;Command&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20230316T075135Z" creationid="Léo Delaune" creationdate="20230302T161420Z">
@@ -59384,8 +59392,8 @@ Les remplacements portent sur les segments cible du projet, qu'ils soient déjà
       <tuv lang="en">
         <seg>That location is presented as &lt;f0&gt;path/to/OmegaT.jar&lt;/f0&gt; in this chapter.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230318T141851Z" creationid="Anand" creationdate="20230318T141851Z">
-        <seg>L'emplacement est présenté en tant que &lt;f0&gt;path/to/OmegaT.jar&lt;/f0&gt; dans ce chapitre.</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230318T142617Z" creationid="Anand" creationdate="20230318T141851Z">
+        <seg>L'emplacement est présenté en tant que &lt;f0&gt;chemin/à/OmegaT.jar&lt;/f0&gt; dans ce chapitre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -83232,8 +83240,8 @@ de créer son dossier de configuration.</seg>
       <tuv lang="en">
         <seg>java -jar &lt;java parameters&gt; path/to/OmegaT.jar &lt;OmegaT options&gt;</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230318T142456Z" creationid="Anand" creationdate="20230318T142456Z">
-        <seg>java -jar &lt;paramètres java&gt; path/to/OmegaT.jar &lt;options OmegaT&gt;</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230318T142629Z" creationid="Anand" creationdate="20230318T142456Z">
+        <seg>java -jar &lt;paramètres java&gt; chemin/à/OmegaT.jar &lt;options OmegaT&gt;</seg>
       </tuv>
     </tu>
     <tu>
