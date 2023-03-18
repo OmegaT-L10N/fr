@@ -59897,6 +59897,14 @@ software and other kinds of works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The ID of the translator who created the segment.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230318T124152Z" creationid="Léo Delaune" creationdate="20230318T124152Z">
+        <seg>L'identité du traducteur qui a créé le segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The JRE is now supplied with OmegaT and need not be obtained separately.</seg>
       </tuv>
       <tuv lang="fr">
@@ -60300,16 +60308,24 @@ software and other kinds of works.</seg>
       <tuv lang="en">
         <seg>The TM file full path.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Léo Delaune" changedate="20230318T123847Z" creationid="Léo Delaune" creationdate="20230318T123847Z">
-        <seg>Le chemin d'accès complet du fichier TM.</seg>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230318T123931Z" creationid="Léo Delaune" creationdate="20230318T123847Z">
+        <seg>Le chemin d'accès complet au fichier de mémoire de traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The TM file relative path.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230318T124007Z" creationid="Léo Delaune" creationdate="20230318T123904Z">
+        <seg>Le chemin d'accès relatif au fichier de mémoire de tarduction.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The TM filename, without the extension.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Léo Delaune" changedate="20230318T123830Z" creationid="Léo Delaune" creationdate="20230318T123830Z">
-        <seg>Le nom du fichier TM, sans l'extension.</seg>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230318T123917Z" creationid="Léo Delaune" creationdate="20230318T123830Z">
+        <seg>Le nom du fichier de mémoire de traduction, sans l'extension.</seg>
       </tuv>
     </tu>
     <tu>
