@@ -16551,6 +16551,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By default, stemming is used to determine the closest matches displayed in the &lt;g0&gt;Fuzzy Matches&lt;/g0&gt; panel.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230318T122105Z" creationid="Léo Delaune" creationdate="20230318T122105Z">
+        <seg>Par défaut, la lemmatisation est utilisée pour déterminer les correspondances les plus proches affichées dans le panneau &lt;g0&gt;Correspondances partielles&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default, the /tm folder is below the project's root folder (e.g. ...&lt;e0&gt;/MyProject/tm&lt;/e0&gt;), but you can choose a different folder in the project properties dialog if you wish.</seg>
       </tuv>
       <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210520T154833Z">
@@ -40594,6 +40602,14 @@ impose that choice.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Minimal threshold to show a fuzzy match</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230318T122428Z" creationid="Léo Delaune" creationdate="20230318T122428Z">
+        <seg>[correspondance]Seuil minimal pour afficher une correspondance partielle :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Minimal threshold to show a fuzzy match:</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20200503T103913Z" creationid="briac" creationdate="20200503T103913Z">
@@ -50485,6 +50501,14 @@ ces mots : « pas de page »...</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210110T094837Z" creationid="suzume" creationdate="20210110T094837Z">
         <seg>Retirez un projet de cette liste si vous souhaitez qu'OmegaT vous demande à nouveau de saisir un nom et un mot de passe pour accéder au projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remove a project from this list if you want OmegaT to ask you for its credentials the next time you access it.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230318T122014Z" creationid="Léo Delaune" creationdate="20230318T122014Z">
+        <seg>Supprimez un projet de cette liste si vous souhaitez qu'OmegaT vous demande ses identifiants lors de votre prochain accès.</seg>
       </tuv>
     </tu>
     <tu>
