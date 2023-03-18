@@ -18954,6 +18954,14 @@ kolekti -b C:\[...]\trunk\doc_src2 publish [-j JOB] -l fr,en C:\[...]\trunk\doc_
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Commands specified here are available to all the projects that use the same configuration folder.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230318T130511Z" creationid="Léo Delaune" creationdate="20230318T130511Z">
+        <seg>Les commandes spécifiées ici sont disponibles pour tous les projets qui utilisent le même dossier de configuration.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Commands:
 	-h, --help
 		Show usage information.</seg>
@@ -44006,6 +44014,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT can automatically run commands after you use &lt;l0/&gt;&lt;l1/&gt; or &lt;l2/&gt;&lt;l3/&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230318T130414Z" creationid="Léo Delaune" creationdate="20230318T130414Z">
+        <seg>OmegaT peut exécuter automatiquement des commandes après l'utilisation de &lt;l0/&gt;&lt;l1/&gt; ou &lt;l2/&gt;&lt;l3/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT can be customized to support other file formats as well.</seg>
       </tuv>
       <tuv lang="fr">
@@ -64663,6 +64679,14 @@ making modifications to it.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>The template variables list gives you access to various project data and system variables.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230318T130719Z" creationid="Léo Delaune" creationdate="20230318T130719Z">
+        <seg>La liste des variables de modèle vous permet d'accéder à diverses données de projet et variables système.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>(Le terme « Déplacement dans le segment » signifie que le curseur ira se placer au début du segment actif s'il est positionné avant celui-ci, et qu'il ira se placer à la fin du segment actif s'il est positionné après.)
 L'expression était censé être utilisée dans le tableau suivant, d'où  l'intérêt de la définir auparavant. Mais comme il ne l'a finalement pas utilisée dans le tableau, ça ne veut pas dire grand-chose. 
 L'idée était que l'utilisation de certaines touches en dehors du segment courant provoque le retour dans le segment en question, soit au début soit à la fin.</note>
@@ -65815,6 +65839,14 @@ pas de page...</seg>
       </tuv>
       <tuv lang="fr" changeid="jchelary" changedate="20130526T123534Z">
         <seg>Elles sont protégées pour que vous ne puissiez pas modifier leur contenu mais vous pouvez les supprimer, les entrer manuellement ou les déplacer dans la phrase cible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They are saved in the &lt;l0/&gt; file.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230318T130518Z" creationid="Léo Delaune" creationdate="20230318T130518Z">
+        <seg>Elles sont enregistrées dans le fichier &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -76351,6 +76383,14 @@ your programs, too.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20211117T150740Z" creationid="suzume" creationdate="20211117T150740Z">
         <seg>Il est possible de définir l'une des alternatives - la plus probable d'entre elles par exemple - comme traduction par défaut en sélectionnant &lt;m3&gt;&lt;g4&gt;Edition&lt;/g4&gt;&lt;g5&gt;Utiliser comme traduction par défaut&lt;/g5&gt;&lt;/m3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can define such commands here.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230318T130427Z" creationid="Léo Delaune" creationdate="20230318T130427Z">
+        <seg>Vous pouvez définir ces commandes ici.</seg>
       </tuv>
     </tu>
     <tu>
