@@ -2826,6 +2826,14 @@ your programs, too.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(This can vary depending on your distribution.)</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230318T141815Z" creationid="Anand" creationdate="20230318T141815Z">
+        <seg>(L'emplacement peut varier en fonction de votre distribution.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(X)HTML (*.html, *.xhtml,*.xht)</seg>
       </tuv>
       <tuv lang="fr">
@@ -4865,6 +4873,14 @@ Valider les balises.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221016T074652Z" creationid="suzume" creationdate="20221016T074652Z">
         <seg>/opt/omegat/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>/opt/omegat/OmegaT.jar</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230318T141743Z" creationid="Anand" creationdate="20230318T141743Z">
+        <seg>/opt/omegat/OmegaT.jar</seg>
       </tuv>
     </tu>
     <tu>
@@ -18960,6 +18976,14 @@ kolekti -b C:\[...]\trunk\doc_src2 publish [-j JOB] -l fr,en C:\[...]\trunk\doc_
       </tuv>
       <tuv lang="fr" changeid="Anand" changedate="20230316T080657Z" creationid="Anand" creationdate="20230316T080657Z">
         <seg>Lancer par ligne de commande</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Command syntax</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230318T142114Z" creationid="Anand" creationdate="20230318T142114Z">
+        <seg>Syntaxe de commande</seg>
       </tuv>
     </tu>
     <tu>
@@ -51275,6 +51299,14 @@ ces mots : « pas de page »...</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Replace it with the actual location of the file on your system.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230318T141921Z" creationid="Anand" creationdate="20230318T141921Z">
+        <seg>Remplacez-le avec l'emplacement réel du fichier sur votre système.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Replace matches when inserting source text</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230307T123059Z" creationid="Léo Delaune" creationdate="20230307T123059Z">
@@ -59346,6 +59378,14 @@ Les remplacements portent sur les segments cible du projet, qu'ils soient déjà
       </tuv>
       <tuv lang="fr" changeid="Anand" changedate="20230307T175432Z" creationid="Anand" creationdate="20230307T175432Z">
         <seg>C'est la raison pour laquelle les règles d'exception doivent être appliquées avant les règles de segmentation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>That location is presented as &lt;f0&gt;path/to/OmegaT.jar&lt;/f0&gt; in this chapter.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230318T141851Z" creationid="Anand" creationdate="20230318T141851Z">
+        <seg>L'emplacement est présenté en tant que &lt;f0&gt;path/to/OmegaT.jar&lt;/f0&gt; dans ce chapitre.</seg>
       </tuv>
     </tu>
     <tu>
