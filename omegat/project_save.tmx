@@ -16595,6 +16595,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By default, only the current segment is displayed in bold face.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230318T125201Z" creationid="Léo Delaune" creationdate="20230318T125201Z">
+        <seg>Par défaut, seul le segment courant est affiché en gras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default, scripts are stored in the "scripts" folder located in OmegaT installation folder (the folder that contains the OmegaT.jar).</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20141202T171449Z" creationid="Didier" creationdate="20141202T171449Z">
@@ -22358,10 +22366,26 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Display active source segment in bold</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230318T125214Z" creationid="Léo Delaune" creationdate="20230318T125214Z">
+        <seg>Afficher le segment source actif en gras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Display all &amp;source segments in bold</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20101126T222312Z">
         <seg>Afficher tous les segments &amp;source en gras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display all source segments in bold</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230318T125154Z" creationid="Léo Delaune" creationdate="20230318T125154Z">
+        <seg>Afficher tous les segments source en gras</seg>
       </tuv>
     </tu>
     <tu>
@@ -31578,6 +31602,14 @@ tous les paramètres reprendront leur valeur par défaut,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If source segments are displayed in normal face, you can use this option to display only the current source segment in bold.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230318T125224Z" creationid="Léo Delaune" creationdate="20230318T125224Z">
+        <seg>Si les segments source sont affichés en face normale, vous pouvez utiliser cette option pour afficher uniquement le segment source actuel en gras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If spell checking is activated, spelling mistakes and typos are recognized and can be corrected during translation.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130527T125052Z">
@@ -40059,6 +40091,14 @@ impose that choice.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221220T111403Z">
         <seg>Colorer les caractères d'espacement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mark all repeated segments</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230318T125255Z" creationid="Léo Delaune" creationdate="20230318T125255Z">
+        <seg>Marquer tous les segments répétés</seg>
       </tuv>
     </tu>
     <tu>
@@ -55525,6 +55565,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20180227T145449Z" creationid="Didier" creationdate="20161229T164305Z">
         <seg>&amp;Simplifier les info-bulles pour les parties protégées</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Simplify tag tooltips</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230318T125428Z" creationid="Léo Delaune" creationdate="20230318T125428Z">
+        <seg>Simplifier les infobulles des balises</seg>
       </tuv>
     </tu>
     <tu>
@@ -71749,6 +71797,14 @@ la configuration actuelle est de {0} Mo ;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to mark the second and subsequent copy of a repeated segments.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230318T125320Z" creationid="Léo Delaune" creationdate="20230318T125320Z">
+        <seg>Utilisez &lt;l0/&gt;&lt;l1/&gt; pour marquer la deuxième copie et les copies suivantes d'un segment répété.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l1&gt;$&lt;o2&gt;n&lt;/o2&gt;&lt;/l1&gt;, where &lt;o3&gt;n&lt;/o3&gt; is the number of the group defined in the search.</seg>
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230306T110052Z" creationid="sirine" creationdate="20230306T110052Z">
@@ -72258,6 +72314,15 @@ la configuration actuelle est de {0} Mo ;</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230313T204943Z" creationid="Léo Delaune" creationdate="20230313T204943Z">
         <seg>Utilisez cette option temporairement pour les parties de la traduction qui ne nécessitent pas beaucoup de transformation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use this option to also mark the first copy of the segment.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230318T125329Z" creationid="Léo Delaune" creationdate="20230318T125329Z">
+        <seg>Utilisez cette option pour marquer également la première copie du segment.
+</seg>
       </tuv>
     </tu>
     <tu>
