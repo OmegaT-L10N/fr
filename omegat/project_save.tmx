@@ -51256,7 +51256,8 @@ ces mots : « pas de page »...</seg>
       </tuv>
     </tu>
     <tu>
-      <note>(Anand) Voir comment remplacer le lien des balises</note>
+      <note>(Anand) Voir comment remplacer le lien des balises
+(Anand) Peut-être &lt;ulink=url "https://fr.wikipedia.org/wiki/ISO_3166-2"&gt; ?</note>
       <tuv lang="en">
         <seg>Replace &lt;c0&gt;CC&lt;/c0&gt; with the desired two-letter country code from the &lt;u1&gt;ISO 3166-1 alpha-2&lt;/u1&gt; list.</seg>
       </tuv>
@@ -67862,6 +67863,14 @@ this version will not interfere with it.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20200128T141621Z" creationid="suzume" creationdate="20200128T141621Z">
         <seg>Cette page vous permet de choisir des couleurs différentes pour chaque partie de l'interface utilisateur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This parameter combines with the previous user interface language parameter to specify a regional variant.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230318T145544Z" creationid="Anand" creationdate="20230318T145254Z">
+        <seg>Ce paramètre se combine avec le paramètre précédent de langue de l'interface utilisateur pour spécifier une variante régionale.</seg>
       </tuv>
     </tu>
     <tu>
