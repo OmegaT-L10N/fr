@@ -4615,6 +4615,14 @@ Valider les balises.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>-Duser.language=LL</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230318T143705Z" creationid="Anand" creationdate="20230318T143705Z">
+        <seg>-Duser.language=LL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>-Dyandex.api.key=&lt;p0&gt;trnsl.1.1.XXXXXXXXXXXXXXXX.XXXXXXXXXXXXXXXX.XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX&lt;/p0&gt;</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210131T124114Z" creationid="suzume" creationdate="20210131T124114Z">
@@ -51233,6 +51241,14 @@ ces mots : « pas de page »...</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Replace &lt;c0&gt;LL&lt;/c0&gt; with the desired two-letter language code from the &lt;u1&gt;ISO 639.1&lt;/u1&gt; list.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230318T143754Z" creationid="Anand" creationdate="20230318T143754Z">
+        <seg>Remplacez &lt;c0&gt;LL&lt;/c0&gt; par le code à deux lettres de la langue souhaitée depuis la liste &lt;u1&gt;ISO 639.1&lt;/u1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Replace &lt;l0&gt;&lt;filename&gt;&lt;/l0&gt; with the name of the file you wish to create, either absolute or relative to the working folder (the folder you start &lt;a1&gt;OmegaT&lt;/a1&gt; from).</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130528T124410Z">
@@ -82320,6 +82336,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230313T203727Z" creationid="Léo Delaune" creationdate="20230313T203727Z">
         <seg>https://duckduckgo.com/?q=%22{target}%22+site%3A.fr+-linguee</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230318T143808Z" creationid="Anand" creationdate="20230318T143711Z">
+        <seg>https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes</seg>
       </tuv>
     </tu>
     <tu>
