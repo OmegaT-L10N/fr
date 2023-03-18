@@ -21316,6 +21316,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Customize segment modification information</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230318T125606Z" creationid="Léo Delaune" creationdate="20230318T125606Z">
+        <seg>Personnaliser les informations de modification du segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Customize the processed source filename patterns, the translated file names and their respective encodings.</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20230115T121415Z" creationid="briac" creationdate="20230115T121415Z">
@@ -21488,6 +21496,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20220919T094507Z" creationid="suzume" creationdate="20220919T094507Z">
         <seg>Branche par défaut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Default display</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230318T125646Z" creationid="Léo Delaune" creationdate="20230318T125646Z">
+        <seg>Affichage par défaut</seg>
       </tuv>
     </tu>
     <tu>
@@ -31622,6 +31638,15 @@ tous les paramètres reprendront leur valeur par défaut,
       </tuv>
       <tuv lang="fr" changeid="Anand" changedate="20230301T113020Z" creationid="Anand" creationdate="20230301T113020Z">
         <seg>Si un tel fichier est trouvé dans le dossier &lt;l2/&gt;, il sera traité par le filtre XHTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If that content was originally enclosed in paired tags, the paired tags can be removed from the tooltip for better readability.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230318T125521Z" creationid="Léo Delaune" creationdate="20230318T125521Z">
+        <seg>Si ce contenu était à l'origine entouré de balises jumelées, ces dernières peuvent être supprimées de l'infobulle pour une meilleure lisibilité.
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -44916,6 +44941,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT tags are protected text that represents format-specific tags in the source document.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230318T125439Z" creationid="Léo Delaune" creationdate="20230318T125439Z">
+        <seg>Les balises OmegaT sont des textes protégés qui représentent des balises spécifiques à un format dans le document source.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT tags in RTL segments</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20211117T075008Z" creationid="suzume" creationdate="20211117T075008Z">
@@ -54004,6 +54037,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20150907T144028Z" creationid="Didier" creationdate="20150907T144028Z">
         <seg>Texte du marqueur de segments</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Segment modification information is displayed over the segment.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230318T125612Z" creationid="Léo Delaune" creationdate="20230318T125612Z">
+        <seg>Les informations relatives à la modification du segment sont affichées au-dessus du segment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71780,6 +71821,14 @@ la configuration actuelle est de {0} Mo ;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to display segment modification information.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230318T125823Z" creationid="Léo Delaune" creationdate="20230318T125823Z">
+        <seg>Utilisez &lt;l0/&gt;&lt;l1/&gt; pour afficher les informations relatives à la modification des segments.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; to enter new terms in this glossary.</seg>
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230316T144830Z" creationid="sirine" creationdate="20230316T144830Z">
@@ -73897,6 +73946,14 @@ you have just discovered.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20230316T075050Z" creationid="Léo Delaune" creationdate="20230313T204907Z">
         <seg>En entrant dans un segment vide :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When hovering on an OmegaT tag, OmegaT displays a tooltip that contains the original content of the tag.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230318T125511Z" creationid="Léo Delaune" creationdate="20230318T125511Z">
+        <seg>Lors du survol d'une balise OmegaT, OmegaT affiche une infobulle qui contient le contenu original de la balise.</seg>
       </tuv>
     </tu>
     <tu>
@@ -86813,6 +86870,14 @@ Ok. </note>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130412T122245Z">
         <seg>le contenu du dossier source</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the default setting shows who last modified the translation and when:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230318T125621Z" creationid="Léo Delaune" creationdate="20230318T125621Z">
+        <seg>Le paramètre par défaut indique qui a modifié la traduction pour la dernière fois et quand :</seg>
       </tuv>
     </tu>
     <tu>
