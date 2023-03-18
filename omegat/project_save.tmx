@@ -5372,6 +5372,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;OmegaT options&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230318T143217Z" creationid="Anand" creationdate="20230318T143217Z">
+        <seg>&lt;options OmegaT&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;User Home&gt;</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130527T135840Z">
@@ -46836,6 +46844,14 @@ happen should you file a bug report.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Optional parameters accepted by the &lt;c0&gt;java&lt;/c0&gt; command.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230318T142957Z" creationid="Anand" creationdate="20230318T142957Z">
+        <seg>Les paramètres optionnels acceptés par la commande &lt;c0&gt;java&lt;/c0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Optionally, you can let &lt;a0&gt;OmegaT&lt;/a0&gt; have an additional tmx file (&lt;a1&gt;OmegaT&lt;/a1&gt;-style) anywhere you specify, containing all translatable segments of the project.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130528T100809Z">
@@ -62830,6 +62846,14 @@ freedom to share and change it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The location of the OmegaT java executable.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230318T143204Z" creationid="Anand" creationdate="20230318T143204Z">
+        <seg>L'emplacement de l'exécutable java OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The location of the file must be within the &lt;f1&gt;/glossary&lt;/f1&gt;folder, but it can be in a deeper folder (e.g., &lt;f2&gt;glossary/sub/glossary.txt&lt;/f2&gt;).</seg>
       </tuv>
       <tuv lang="fr" changeid="jchelary" changedate="20130526T122452Z">
@@ -63368,6 +63392,14 @@ sure this has not already been reported.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The options specific to OmegaT are described &lt;l0&gt;later in this section&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230318T143351Z" creationid="Anand" creationdate="20230318T143351Z">
+        <seg>Les options spécifiques à OmegaT sont décrites &lt;l0&gt;plus bas dans cette section&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The original document is not changed; rather, a new document is created based on the content of an existing one.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130412T091443Z">
@@ -63396,6 +63428,14 @@ sure this has not already been reported.</seg>
       </tuv>
       <tuv lang="fr" changeid="Anand" changedate="20230316T072438Z" creationid="Anand" creationdate="20230316T072438Z">
         <seg>Le paquet vous fournit le script Kaptain &lt;f0&gt;omegat.kaptn&lt;/f0&gt;, ce qui peut être utile pour les utilisateurs de KDE, mais il vous fournit aussi un script bash &lt;f1&gt;OmegaT&lt;/f1&gt; qui lance automatiquement la commande &lt;a2&gt;java&lt;/a2&gt; appropriée pour lancer OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The parameters relevant to running OmegaT are described &lt;l1&gt;below&lt;/l1&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230318T143131Z" creationid="Anand" creationdate="20230318T143131Z">
+        <seg>Les paramètres pertinents pour lancer OmegaT sont décrits &lt;l1&gt;ci-dessous&lt;/l1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -85776,6 +85816,14 @@ Ok. </note>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130418T230616Z">
         <seg>au titre des conditions de la présente Licence.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>path/to/OmegaT.jar</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230318T143143Z" creationid="Anand" creationdate="20230318T143143Z">
+        <seg>chemin/à/OmegaT.jar</seg>
       </tuv>
     </tu>
     <tu>
