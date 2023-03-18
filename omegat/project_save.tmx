@@ -363,6 +363,22 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>${changeDate}</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230318T124317Z" creationid="Léo Delaune" creationdate="20230318T124317Z">
+        <seg>${changeDate}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${changeID}</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230318T124300Z" creationid="Léo Delaune" creationdate="20230318T124300Z">
+        <seg>${changeID}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>${changedDate}</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160718T160937Z" creationid="Didier" creationdate="20160718T160937Z">
@@ -539,6 +555,14 @@ ${filePath}&gt;</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20140303T165153Z" creationid="Didier" creationdate="20140303T165153Z">
         <seg>${score}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${sourceLanguage}</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230318T124404Z" creationid="Léo Delaune" creationdate="20230318T124404Z">
+        <seg>${sourceLanguage}</seg>
       </tuv>
     </tu>
     <tu>
@@ -34894,6 +34918,14 @@ patent against the party.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Indicate that this match is fuzzy (currently only for translations from PO files with the #fuzzy mark).</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230318T124401Z" creationid="Léo Delaune" creationdate="20230318T124401Z">
+        <seg>Indique que la correspondance est partielle (pour le moment, existe uniquement pour les fichiers PO possédant la marque #correspondance partielle)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Individual File Statistics:</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20230209T125145Z">
@@ -59905,6 +59937,14 @@ software and other kinds of works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The ID of the translator who last changed the segment.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230318T124314Z" creationid="Léo Delaune" creationdate="20230318T124314Z">
+        <seg>L'identité du traducteur qui a modifié le segment pour la dernière fois.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The JRE is now supplied with OmegaT and need not be obtained separately.</seg>
       </tuv>
       <tuv lang="fr">
@@ -61073,6 +61113,22 @@ instead.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130429T135052Z">
         <seg>Les données sont exportées lorsque le segment est ouvert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The date when the segment was created.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230318T124250Z" creationid="Léo Delaune" creationdate="20230318T124250Z">
+        <seg>Date de création du segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The date when the segment was last changed.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230318T124325Z" creationid="Léo Delaune" creationdate="20230318T124325Z">
+        <seg>La date de la dernière modification du segment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63794,6 +63850,22 @@ protocols for communication across the network.</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130421T171621Z">
         <seg>Le segment s'ouvre lorsque son numéro de segment est saisi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The segment source language.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230318T124413Z" creationid="Léo Delaune" creationdate="20230318T124413Z">
+        <seg>La langue source du segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The segment target language.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230318T125140Z" creationid="Léo Delaune" creationdate="20230318T125140Z">
+        <seg>La langue cible du segment.</seg>
       </tuv>
     </tu>
     <tu>
