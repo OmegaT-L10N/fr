@@ -27995,6 +27995,14 @@ authors of previous versions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For the sake of simplicity, this manual refers to it as the terminal.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230318T135238Z" creationid="Anand" creationdate="20230318T135238Z">
+        <seg>Par souci de simplicité, il sera désigné comme terminal dans ce manuel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For the user interface, user manual, Instant Start guide and/or the readme file, please contact the &lt;a0&gt;OmegaT Localization Co-ordinator&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20200128T093510Z" creationid="suzume" creationdate="20200128T093510Z">
@@ -45544,6 +45552,14 @@ disponible dans MacPorts sous le nom « py27-pysvn ».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>On Windows, you can use either the &lt;a0&gt;Command Prompt&lt;/a0&gt; or &lt;a1&gt;Powershell&lt;/a1&gt; as a terminal.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230318T135423Z" creationid="Anand" creationdate="20230318T135423Z">
+        <seg>Sur Windows, vous pouvez utiliser soit &lt;a0&gt;L'invite de commandes&lt;/a0&gt; soit &lt;a1&gt;Powershell&lt;/a1&gt; en guise de terminal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>On macOS</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210507T112439Z" creationid="suzume" creationdate="20210131T123649Z">
@@ -45556,6 +45572,14 @@ disponible dans MacPorts sous le nom « py27-pysvn ».</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20230316T075135Z" creationid="Léo Delaune" creationdate="20230302T161420Z">
         <seg>Sous macOS : &lt;k0&gt;&lt;k1&gt;Shift&lt;/k1&gt;&lt;k2&gt;Command&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On modern systems, the CLI is accessed through an application generally called a "terminal" or "console".</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230318T135136Z" creationid="Anand" creationdate="20230318T135136Z">
+        <seg>Sur les systèmes modernes, l'ILC est accessible à partir d'une application généralement appelée "terminal" ou "console".</seg>
       </tuv>
     </tu>
     <tu>
