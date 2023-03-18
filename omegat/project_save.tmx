@@ -7805,6 +7805,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;java parameters&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230318T142930Z" creationid="Anand" creationdate="20230318T142930Z">
+        <seg>&lt;paramètres java&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;N&lt;/k2&gt; &lt;/k0&gt; or &lt;k3&gt;Enter&lt;/k3&gt;</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20141202T180414Z" creationid="Didier" creationdate="20141202T180414Z">
@@ -66640,6 +66648,14 @@ under the terms of this General Public License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This command tells the Java Virtual Machine to run a Jar package.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230318T142925Z" creationid="Anand" creationdate="20230318T142925Z">
+        <seg>Cette commande indique à la machine virtuelle Java d'exécuter un paquet Jar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This command will be executed after Creating Translated Documents.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130128T144858Z">
@@ -83222,6 +83238,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>java -jar</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230318T142815Z" creationid="Anand" creationdate="20230318T142815Z">
+        <seg>java -jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>java -jar &lt;a0&gt;OmegaT&lt;/a0&gt;.jar</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T104521Z">
@@ -85308,6 +85332,16 @@ Ok. </note>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20141202T170431Z" creationid="Didier" creationdate="20141202T170431Z">
         <seg>ouvre une boîte de dialogue contenant des suggestions contextuels (Mac : &lt;e0&gt;Échap&lt;/e0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>open path/to/OmegaT.app
+		-n --args &lt;OmegaT options&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230318T142711Z" creationid="Anand" creationdate="20230318T142711Z">
+        <seg>open chemin/à/OmegaT.app
+		-n --args &lt;options OmegaT&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -88153,6 +88187,14 @@ Ok. </note>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20211117T131232Z" creationid="suzume" creationdate="20211117T131232Z">
         <seg>avec &lt;p0&gt;dossier&lt;/p0&gt; qui est le nom du dossier, ainsi que son chemin complet, dans lequel votre programme OmegaT est situé - et plus particulièrement le fichier &lt;f1&gt;OmegaT.jar&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>where &lt;u0&gt;-n&lt;/u0&gt; is used to create a new instance of OmegaT.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230318T142806Z" creationid="Anand" creationdate="20230318T142806Z">
+        <seg>ici, &lt;u0&gt;-n&lt;/u0&gt; est utilisé pour créer une nouvelle instance d'OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
