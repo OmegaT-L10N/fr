@@ -475,10 +475,30 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>${fuzzyFlag}${sourceText} ${targetText}
+&lt;${score}/${noStemScore}/${adjustedScore}%
+${filePath}&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230318T123224Z" creationid="Léo Delaune" creationdate="20230318T123224Z">
+        <seg>${fuzzyFlag}${sourceText} ${targetText}
+&lt;${score}/${noStemScore}/${adjustedScore}%
+${filePath}&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>${id}</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T105225Z">
         <seg>${id}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${id}.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230318T123223Z" creationid="Léo Delaune" creationdate="20230318T123223Z">
+        <seg>[correspondance]${id}</seg>
       </tuv>
     </tu>
     <tu>
@@ -5169,6 +5189,22 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
       <tuv lang="fr" changeid="Anand" changedate="20230316T075103Z" creationid="Anand" creationdate="20230316T075103Z">
         <seg>&lt;!-- &lt;string&gt;-Xmx6g&lt;/string&gt; --&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;${score}/${noStemScore}/${adjustedScore}%&gt; ${fuzzyFlag} ${fileNameOnly}
+[NEW]▷ ${diff}
+			
+[OLD]◀ ${diffReversed}
+◀ ${targetText}</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230318T123251Z" creationid="Léo Delaune" creationdate="20230318T123251Z">
+        <seg>&lt;${score}/${noStemScore}/${adjustedScore}%&gt; ${fuzzyFlag} ${fileNameOnly}
+[NEW]▷ ${diff}
+			
+[OLD]◀ ${diffReversed}
+◀ ${targetText}</seg>
       </tuv>
     </tu>
     <tu>
@@ -29735,6 +29771,14 @@ a disparu...</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Here is a possible alternative:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230318T123236Z" creationid="Léo Delaune" creationdate="20230318T123236Z">
+        <seg>Voici une alternative possible :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Here is a sample; alter the names:</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130419T195545Z">
@@ -40127,6 +40171,14 @@ impose that choice.</seg>
       </tuv>
       <tuv lang="fr" changeid="pingouin" changedate="20130426T121831Z">
         <seg>Fenêtre des statistiques des correpondances</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Match template variables</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230318T123311Z" creationid="Léo Delaune" creationdate="20230318T123311Z">
+        <seg>Faire correspondre les variables du modèle</seg>
       </tuv>
     </tu>
     <tu>
@@ -64067,6 +64119,14 @@ making modifications to it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The source text of the match</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230318T123332Z" creationid="Léo Delaune" creationdate="20230318T123318Z">
+        <seg>Texte source de la correspondance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The sources of the current version can be retrieved with a Git client from the repository &lt;u0/&gt; or directly on &lt;u1&gt;SourceForge&lt;/u1&gt;.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210202T073959Z" creationid="suzume" creationdate="20210202T073959Z">
@@ -64319,6 +64379,14 @@ making modifications to it.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130507T073217Z">
         <seg>L'équipe peut aussi utiliser la même structure de sous-dossiers pour les fichiers cible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The template variables are also available from a drop-down menu and can be inserted with a button.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230318T123301Z" creationid="Léo Delaune" creationdate="20230318T123301Z">
+        <seg>Les variables du modèle sont également disponibles dans un menu déroulant et peuvent être insérées à l'aide d'un bouton.</seg>
       </tuv>
     </tu>
     <tu>
@@ -88216,6 +88284,14 @@ Ok. </note>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20161123T143447Z" creationid="Didier" creationdate="20161123T143447Z">
         <seg>⚠ Les fichiers spécifiés ne sont pas pris en charge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>⥤ ${id}.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230318T123237Z" creationid="Léo Delaune" creationdate="20230318T123237Z">
+        <seg>[correspondance][correspondance]${id}</seg>
       </tuv>
     </tu>
     <tu>
