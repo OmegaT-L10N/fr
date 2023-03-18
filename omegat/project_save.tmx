@@ -27443,6 +27443,14 @@ know their rights.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, use &lt;u0&gt;\d+&lt;/u0&gt; to treat all numbers as tags, enabling you to check that numbers have not been accidentally changed in the translation.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230318T121655Z" creationid="Léo Delaune" creationdate="20230318T121655Z">
+        <seg>Par exemple, utilisez &lt;u0&gt;\d+&lt;/u0&gt; pour traiter tous les nombres comme des balises, ce qui vous permet de vérifier que les nombres n'ont pas été modifiés accidentellement dans la traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, use the pattern &lt;l0&gt;read*&lt;/l0&gt; if you want to have the text filter handle readme files (&lt;l1&gt;readme, read.me&lt;/l1&gt;, or &lt;l2&gt;readme.txt&lt;/l2&gt;).</seg>
       </tuv>
       <tuv lang="fr" changeid="Anand" changedate="20230302T172046Z" creationid="Anand" creationdate="20230302T172046Z">
@@ -38514,6 +38522,14 @@ automatically download and install it.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210110T094835Z" creationid="suzume" creationdate="20210110T094835Z">
         <seg>Liste des projets pour lesquels les identifiants de connexions sont enregistrés dans OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>List of projects for which login details have been stored in OmegaT.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230318T121957Z" creationid="Léo Delaune" creationdate="20230318T121957Z">
+        <seg>Liste des projets pour lesquels les données de connexion ont été enregistrées dans OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55268,6 +55284,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Similarly, use &lt;u0&gt;&lt;/?[^&gt;]+&gt;&lt;/u0&gt; to make sure that HTML (or similar) tags entered into the source text are preserved without modification in the translation.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230318T121702Z" creationid="Léo Delaune" creationdate="20230318T121702Z">
+        <seg>De même, utilisez &lt;u0&gt;&lt;/ ?[^&gt;]+&gt;&lt;/u0&gt; pour vous assurer que les balises HTML (ou similaires) introduites dans le texte source sont conservées sans modification dans la traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Simple expressions</seg>
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230306T115950Z" creationid="sirine" creationdate="20230306T115950Z">
@@ -62538,6 +62562,14 @@ freedom to share and change it.</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230313T203515Z" creationid="Léo Delaune" creationdate="20230313T203515Z">
         <seg>Le nom apparaitra à la fin du menu.&lt;l0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The name you enter here will be attached to all the segments you translate.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230318T121923Z" creationid="Léo Delaune" creationdate="20230318T121923Z">
+        <seg>Le nom que vous saisissez ici sera attaché à tous les segments que vous traduisez.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71652,6 +71684,14 @@ la configuration actuelle est de {0} Mo ;</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20230115T121110Z" creationid="briac" creationdate="20230115T121110Z">
         <seg>Utiliser les filtres de fichiers locaux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use parentheses and &lt;l0&gt;|&lt;/l0&gt; to have OmegaT consider the two tags: &lt;u1&gt;(\d+)|(&lt;/?[^&gt;]+&gt;)&lt;/u1&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230318T121808Z" creationid="Léo Delaune" creationdate="20230318T121808Z">
+        <seg>Utilisez des parenthèses et &lt;l0&gt;|&lt;/l0&gt; pour qu'OmegaT prenne en compte les deux balises : &lt;u1&gt;(\d+)|(&lt;/ ?[^&gt;]+&gt;)&lt;/u1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
