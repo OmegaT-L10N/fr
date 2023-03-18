@@ -12015,6 +12015,14 @@ or that patent license was granted, prior to 28 March 2007.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A string that shows the differences between the source and the match.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230318T123608Z" creationid="Léo Delaune" creationdate="20230318T123608Z">
+        <seg>Chaîne de caractères indiquant les différences entre la source et la correspondance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A team project can be opened and translated offline.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210131T123325Z" creationid="suzume" creationdate="20210131T123325Z">
@@ -47561,6 +47569,30 @@ mirage, pas de page...</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Percentage calculated with the &lt;g0&gt;Full text, including tags and numbers&lt;/g0&gt; option.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230318T123814Z" creationid="Léo Delaune" creationdate="20230318T123814Z">
+        <seg>Pourcentage calculé avec l'option &lt;g0&gt;Texte complet, y compris balises et nombres&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Percentage calculated with the &lt;g0&gt;No tags and no numbers&lt;/g0&gt; option.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230318T123706Z" creationid="Léo Delaune" creationdate="20230318T123706Z">
+        <seg>Pourcentage calculé avec l'option &lt;g0&gt;Aucune balise et aucun nombre&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Percentage calculated with the &lt;g0&gt;Stemming, no tags and no numbers&lt;/g0&gt; option.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230318T123657Z" creationid="Léo Delaune" creationdate="20230318T123657Z">
+        <seg>Pourcentage calculé avec l'option &lt;g0&gt;Lemmatisation, aucune balise et aucun nombre&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Percentage with tokenizer</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130425T200658Z">
@@ -60266,6 +60298,22 @@ software and other kinds of works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The TM file full path.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230318T123847Z" creationid="Léo Delaune" creationdate="20230318T123847Z">
+        <seg>Le chemin d'accès complet du fichier TM.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The TM filename, without the extension.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230318T123830Z" creationid="Léo Delaune" creationdate="20230318T123830Z">
+        <seg>Le nom du fichier TM, sans l'extension.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The TMX file will continue to be loaded.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20100403T095134Z">
@@ -64371,6 +64419,14 @@ making modifications to it.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130507T122216Z">
         <seg>Le segment cible saisi après cette action sera alors considéré comme une traduction alternative pour le segment source.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The target text of the match</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230318T123615Z" creationid="Léo Delaune" creationdate="20230318T123615Z">
+        <seg>Texte cible de la correspondance</seg>
       </tuv>
     </tu>
     <tu>
