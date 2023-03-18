@@ -4639,6 +4639,14 @@ Valider les balises.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>-XmxSIZE</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230318T145945Z" creationid="Anand" creationdate="20230318T145945Z">
+        <seg>-XmxTAILLE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>-b BASE: path to the kolekti base (project) to use</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160119T094036Z" creationid="Didier" creationdate="20160119T094036Z">
@@ -40650,6 +40658,14 @@ impose that choice.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Maximum memory assignment</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230318T145925Z" creationid="Anand" creationdate="20230318T145925Z">
+        <seg>Affectation maximale de la mémoire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Maximum number of finds has been reached ({0})</seg>
       </tuv>
       <tuv lang="fr">
@@ -51280,6 +51296,14 @@ ces mots : « pas de page »...</seg>
       </tuv>
       <tuv lang="fr" changeid="Anand" changedate="20230318T143754Z" creationid="Anand" creationdate="20230318T143754Z">
         <seg>Remplacez &lt;c0&gt;LL&lt;/c0&gt; par le code à deux lettres de la langue souhaitée depuis la liste &lt;u1&gt;ISO 639.1&lt;/u1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace &lt;c0&gt;SIZE&lt;/c0&gt; with a number consisting of a multiple of 1024 followed by &lt;c1&gt;k&lt;/c1&gt; for kilobytes, &lt;c2&gt;m&lt;/c2&gt; for megabytes, or &lt;c3&gt;g&lt;/c3&gt; for gigabytes.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230318T150226Z" creationid="Anand" creationdate="20230318T150226Z">
+        <seg>Remplacez&lt;c0&gt;TAILLE&lt;/c0&gt; par un nombre qui consiste d'un multiple de 1024 suivi d'un &lt;c1&gt;k&lt;/c1&gt; pour kilobytes, d'un &lt;c2&gt;m&lt;/c2&gt; pour megabytes, ou d'un &lt;c3&gt;g&lt;/c3&gt; pour gigabytes.</seg>
       </tuv>
     </tu>
     <tu>
