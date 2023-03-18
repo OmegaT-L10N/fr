@@ -4617,8 +4617,8 @@ Valider les balises.</seg>
       <tuv lang="en">
         <seg>-Duser.country=CC</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230318T144120Z" creationid="Anand" creationdate="20230318T144120Z">
-        <seg>-Duser.country=CC</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230318T145102Z" creationid="Anand" creationdate="20230318T144120Z">
+        <seg>-Duser.country=PP</seg>
       </tuv>
     </tu>
     <tu>
@@ -51256,6 +51256,16 @@ ces mots : « pas de page »...</seg>
       </tuv>
     </tu>
     <tu>
+      <note>(Anand) Voir comment remplacer le lien des balises</note>
+      <tuv lang="en">
+        <seg>Replace &lt;c0&gt;CC&lt;/c0&gt; with the desired two-letter country code from the &lt;u1&gt;ISO 3166-1 alpha-2&lt;/u1&gt; list.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230318T145219Z" creationid="Anand" creationdate="20230318T145219Z">
+        <seg>Remplacez &lt;c0&gt;PP&lt;/c0&gt; par le code à deux lettres du pays souhaité depuis la liste &lt;u1&gt;ISO 3166-1 alpha-2&lt;/u1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(Anand) Voir comment changer le lien des balises</note>
       <tuv lang="en">
         <seg>Replace &lt;c0&gt;LL&lt;/c0&gt; with the desired two-letter language code from the &lt;u1&gt;ISO 639.1&lt;/u1&gt; list.</seg>
       </tuv>
@@ -82375,8 +82385,8 @@ de créer son dossier de configuration.</seg>
       <tuv lang="en">
         <seg>https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230318T143808Z" creationid="Anand" creationdate="20230318T143711Z">
-        <seg>https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230318T145018Z" creationid="Anand" creationdate="20230318T143711Z">
+        <seg>https://fr.wikipedia.org/wiki/Liste_des_codes_ISO_639-1</seg>
       </tuv>
     </tu>
     <tu>
