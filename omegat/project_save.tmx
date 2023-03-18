@@ -64707,6 +64707,14 @@ making modifications to it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The syntax to launch OmegaT from the terminal is:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230318T142126Z" creationid="Anand" creationdate="20230318T142126Z">
+        <seg>La syntaxe pour lancer OmegaT depuis le terminal est :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The syntax used to specify the location of an application or folder depends on the platform.</seg>
       </tuv>
       <tuv lang="fr" changeid="Anand" changedate="20230318T141023Z" creationid="Anand" creationdate="20230318T141023Z">
@@ -83218,6 +83226,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T104531Z">
         <seg>java -jar &lt;a0&gt;OmegaT&lt;/a0&gt;.jar /path/to/project \</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>java -jar &lt;java parameters&gt; path/to/OmegaT.jar &lt;OmegaT options&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230318T142456Z" creationid="Anand" creationdate="20230318T142456Z">
+        <seg>java -jar &lt;paramètres java&gt; path/to/OmegaT.jar &lt;options OmegaT&gt;</seg>
       </tuv>
     </tu>
     <tu>
