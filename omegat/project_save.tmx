@@ -33936,6 +33936,14 @@ OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you want to know more, read the user manual.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230320T193817Z" creationid="sirine" creationdate="20230320T193817Z">
+        <seg>Pour en savoir plus, lisez le manuel d'utilisation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you want to learn more about using regular expressions, the two following sites have proven very useful.</seg>
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230314T160333Z" creationid="sirine" creationdate="20230314T160333Z">
@@ -73092,6 +73100,14 @@ la configuration actuelle est de {0} Mo ;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;g1&gt;&gt; Project&lt;/g1&gt; &lt;g2&gt;&gt; Access Project Contents&lt;/g2&gt; to access the files.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230320T193708Z" creationid="sirine" creationdate="20230320T193708Z">
+        <seg>Pour accéder aux fichiers, utilisez &lt;g1&gt;&gt;Projet&lt;/g1&gt; &lt;g2&gt;&gt;Accéder au contenu du projet&lt;/g2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;F3&lt;/k2&gt; &lt;/k0&gt; to cycle through the four alternatives.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210110T131829Z" creationid="suzume" creationdate="20210110T131829Z">
@@ -90002,6 +90018,14 @@ config-dir="chemin/au/nouveau/configdir"</seg>
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230320T193326Z" creationid="sirine" creationdate="20230320T193326Z">
         <seg>→ OmegaT enregistre ce segment dans la mémoire de traduction du projet et déplace le curseur vers le segment suivant. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>→ OmegaT will store the translated files into the &lt;g0&gt;target&lt;/g0&gt; folder of the project that was created in the first step.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230320T193640Z" creationid="sirine" creationdate="20230320T193640Z">
+        <seg>→ OmegaT conservera les fichiers traduits dans le dossier &lt;g0&gt;cible&lt;/g0&gt; du projet créé lors de la première étape.</seg>
       </tuv>
     </tu>
     <tu>
