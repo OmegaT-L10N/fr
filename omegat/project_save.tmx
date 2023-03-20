@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_edc74b19f" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -23658,8 +23658,6 @@ http://pysvn.tigris.org/project_downloads.html
       </tuv>
     </tu>
     <tu>
-      <note>(Anand) cross-platform à traduire ouuu?
-(sirine) "Téléchargez la version &lt;e0&gt;multiplateforme sans JRE&lt;/e0&gt;."</note>
       <tuv lang="en">
         <seg>Download the &lt;e0&gt;Cross-platform without JRE&lt;/e0&gt; version.</seg>
       </tuv>
