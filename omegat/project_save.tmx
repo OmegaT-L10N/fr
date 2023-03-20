@@ -3925,6 +3925,14 @@ Comportement du lemmatiseur source ou cible à utiliser (remplace les paramètre
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--config-dir=&lt;e0&gt;&lt;path&gt;&lt;/e0&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230320T155511Z" creationid="Anand" creationdate="20230320T155511Z">
+        <seg>--config-dir=&lt;e0&gt;&lt;chemin&gt;&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--config-dir=&lt;p1&gt;/path/to/config-files/&lt;/p1&gt; \</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210202T073029Z" creationid="suzume" creationdate="20210131T124217Z">
@@ -62731,6 +62739,14 @@ instead.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20230316T073810Z" creationid="Anand" creationdate="20230315T154853Z">
         <seg>Le dossier contient 2 fichiers : &lt;f1&gt;index.htm&lt;/f1&gt; (le fichier de saisie du manuel d'utilisation) et &lt;f2&gt;OmegaT.app&lt;/f2&gt; (l'application).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The folder used to read and write OmegaT configuration files.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230320T155652Z" creationid="Anand" creationdate="20230320T155652Z">
+        <seg>Le dossier à partir duquel lire et écrire les fichiers de configuration d'OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
