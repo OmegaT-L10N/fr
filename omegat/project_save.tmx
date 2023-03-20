@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_edc74b19f" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -39987,8 +39987,8 @@ impose that choice.</seg>
       <tuv lang="en">
         <seg>Mapping of local folders to remote folders in repositories</seg>
       </tuv>
-      <tuv lang="fr" changeid="briac" changedate="20230115T125809Z" creationid="briac" creationdate="20230115T125809Z">
-        <seg>Mise en correspondance des dossiers locaux avec les dossiers distants des dépôts</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230320T062159Z" creationid="briac" creationdate="20230115T125809Z">
+        <seg>Mise en correspondance des dossiers locaux avec les dossiers distants</seg>
       </tuv>
     </tu>
     <tu>
@@ -67140,6 +67140,14 @@ under the terms of this General Public License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This file contains the login information for your team project repositories.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230320T062255Z" creationid="suzume" creationdate="20230320T062255Z">
+        <seg>Ce fichier contient les informations d'authentification pour vos dépôts de projets en équipe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This file defines the following parameters:</seg>
       </tuv>
       <tuv lang="fr" changeid="Anand" changedate="20230313T145712Z" creationid="Anand" creationdate="20230313T145712Z">
@@ -86460,6 +86468,14 @@ Ok. </note>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210207T052614Z">
         <seg>renommez le fichier actuel &lt;f0&gt;project_save.tmx&lt;/f0&gt; (par exemple &lt;f1&gt;project_save.tmx.temporaire&lt;/f1&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>repositories.properties</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230320T062209Z" creationid="suzume" creationdate="20230320T062209Z">
+        <seg>repositories.properties</seg>
       </tuv>
     </tu>
     <tu>
