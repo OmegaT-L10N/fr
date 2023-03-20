@@ -9003,6 +9003,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;o0&gt;--remote-project&lt;/o0&gt; &lt;e1&gt;&lt;path-to-omegat-project-file&gt;&lt;/e1&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230320T153835Z" creationid="Anand" creationdate="20230320T153835Z">
+        <seg>&lt;o0&gt;--remote-project&lt;/o0&gt; &lt;e1&gt;&lt;chemin-au-fichier-projet-omegat&gt;&lt;/e1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;o0&gt;-h&lt;/o0&gt;, &lt;o1&gt;--help&lt;/o1&gt;</seg>
       </tuv>
       <tuv lang="fr" changeid="Anand" changedate="20230320T153142Z" creationid="Anand" creationdate="20230320T153142Z">
@@ -38543,6 +38551,14 @@ later version.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Launch the GUI and load the specified project</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230320T153722Z" creationid="Anand" creationdate="20230320T153722Z">
+        <seg>Lance l'interface utilisateur et charge le projet spécifié</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Launch the installation program.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20170210T103422Z" creationid="Didier" creationdate="20170210T103206Z">
@@ -56184,8 +56200,8 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       <tuv lang="en">
         <seg>Show usage information.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230320T153403Z" creationid="Anand" creationdate="20230320T153403Z">
-        <seg>Afficher les informations d'utilisation.</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230320T153725Z" creationid="Anand" creationdate="20230320T153403Z">
+        <seg>Afficher les informations d'utilisation</seg>
       </tuv>
     </tu>
     <tu>
@@ -86404,6 +86420,14 @@ Ok. </note>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130418T230616Z">
         <seg>au titre des conditions de la présente Licence.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>path to an omegat project</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230320T153658Z" creationid="Anand" creationdate="20230320T153658Z">
+        <seg>chemin à un projet omegat</seg>
       </tuv>
     </tu>
     <tu>
