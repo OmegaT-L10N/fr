@@ -15037,6 +15037,14 @@ void, and will automatically terminate your rights under this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Are you sure you want to remove the {0} segmentation rules set?</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230320T143822Z" creationid="suzume" creationdate="20230320T143822Z">
+        <seg>Voulez-vous vraiment supprimer l'ensemble {0} de règles de segmentation ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Are you sure you want to remove the {0} set of segmentation rules?</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021618Z">
@@ -38069,8 +38077,8 @@ itself on the first run.</seg>
       <tuv lang="en">
         <seg>Language sets</seg>
       </tuv>
-      <tuv lang="fr" changeid="Léo Delaune" changedate="20230308T170603Z" creationid="Léo Delaune" creationdate="20230308T170603Z">
-        <seg>Paramètres de langue.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230320T143636Z" creationid="Léo Delaune" creationdate="20230308T170603Z">
+        <seg>Règles par langue</seg>
       </tuv>
     </tu>
     <tu>
@@ -42249,6 +42257,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z" creationid="Didier" creationdate="20170728T151155Z">
         <seg>Nouveau dossier du projet local :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>New language and country</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230320T143922Z" creationid="suzume" creationdate="20230320T143922Z">
+        <seg>Nouvel ensemble langue-région</seg>
       </tuv>
     </tu>
     <tu>
@@ -55512,8 +55528,8 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       <tuv lang="en">
         <seg>Set contents</seg>
       </tuv>
-      <tuv lang="fr" changeid="Léo Delaune" changedate="20230308T174919Z" creationid="Léo Delaune" creationdate="20230308T174919Z">
-        <seg>Ajouter le contenu.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230320T143727Z" creationid="Léo Delaune" creationdate="20230308T174919Z">
+        <seg>Contenu des règles</seg>
       </tuv>
     </tu>
     <tu>
