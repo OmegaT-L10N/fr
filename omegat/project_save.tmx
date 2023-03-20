@@ -5300,8 +5300,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="en">
         <seg>&lt;&amp;br&gt; (breaks)</seg>
       </tuv>
-      <tuv lang="fr">
-        <seg>&lt;&amp;br&gt; (ruptures de ligne)</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230320T142849Z">
+        <seg>&lt;&amp;br&gt; (saut de ligne)</seg>
       </tuv>
     </tu>
     <tu>
@@ -38043,6 +38043,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Language pattern</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230320T143009Z" creationid="suzume" creationdate="20230320T143009Z">
+        <seg>Langue</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Language sets</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230308T170603Z" creationid="Léo Delaune" creationdate="20230308T170603Z">
@@ -43435,10 +43443,18 @@ Rajout d'une partie approriée, afin que la note de bas de page ne se retrouve p
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note: The Source File Encoding setting only affects HHC and HHK files with no encoding declaration.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230320T142915Z" creationid="suzume" creationdate="20230320T142915Z">
+        <seg>Note : les paramètres d'encodage ne concernent que les fichiers HHC et HHK dans lesquels l'encodage n'est pas déclaré.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note: The Source file encoding setting only affects HTML files with no encoding declaration.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20230316T073753Z" creationid="suzume" creationdate="20230316T073753Z">
-        <seg>Note : les paramètres d'encodage ne concernent que les fichiers HTML dans lesquels l'encodage n'est pas indiqué.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230320T142924Z" creationid="suzume" creationdate="20230316T073753Z">
+        <seg>Note : les paramètres d'encodage ne concernent que les fichiers HTML dans lesquels l'encodage n'est pas déclaré.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57608,6 +57624,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230310T223728Z" creationid="Anand" creationdate="20230307T180912Z">
         <seg>Commencer un nouveau segment après « 。» (point japonais).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Start a new segment on:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230320T142706Z" creationid="suzume" creationdate="20230320T142706Z">
+        <seg>Commencer un nouveau paragraphe sur :</seg>
       </tuv>
     </tu>
     <tu>
