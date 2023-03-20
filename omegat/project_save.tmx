@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_02bf2621" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12463,6 +12463,14 @@ or that patent license was granted, prior to 28 March 2007.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20230316T073951Z" creationid="briac" creationdate="20170413T064616Z">
         <seg>Une vaste palette de fonctions, une interface épurée et avant tout un développement constant et régulier grâce à l'open source !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A whitelist of regular expressions defining the source files to process.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230320T191429Z" creationid="Anand" creationdate="20230320T191429Z">
+        <seg>Une liste blanche d'expressions régulières qui définissent les fichiers source à traiter.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51373,6 +51381,14 @@ ces mots : « pas de page »...</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130527T142402Z">
         <seg>Souvenez-vous que si les balises vous posent problème dans OmegaT et que le formatage n'est pas très important pour la traduction en cours, supprimer les balises peut être la solution la plus facile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remember that in regular expressions, the period and backslash character must be escaped: &lt;c0&gt;\.&lt;/c0&gt; and &lt;c1&gt;\\&lt;/c1&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230320T191824Z" creationid="Anand" creationdate="20230320T191824Z">
+        <seg>N'oubliez pas que dans les expressions régulières, le point et la barre oblique inversée doivent être échappés : &lt;c0&gt;\.&lt;/c0&gt; et &lt;c1&gt;\\&lt;/c1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
