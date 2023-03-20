@@ -16353,6 +16353,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Break/exception</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230320T143108Z" creationid="suzume" creationdate="20230320T143108Z">
+        <seg>Segmentation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Breaks</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230308T175403Z" creationid="Léo Delaune" creationdate="20230308T175403Z">
@@ -28976,8 +28984,8 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       <tuv lang="en">
         <seg>Global Segmentation Rules</seg>
       </tuv>
-      <tuv lang="fr" changeid="Léo Delaune" changedate="20230308T170313Z" creationid="Léo Delaune" creationdate="20230308T170313Z">
-        <seg>Règles de segmentation globales</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230320T143223Z" creationid="Léo Delaune" creationdate="20230308T170313Z">
+        <seg>Règles de globales de segmentation</seg>
       </tuv>
     </tu>
     <tu>
@@ -39228,6 +39236,14 @@ automatically download and install it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local Segmentation Rules</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230320T143214Z" creationid="suzume" creationdate="20230320T143214Z">
+        <seg>Règles locales de segmentation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local external search commands are saved in the &lt;l0/&gt; file.</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230309T115621Z" creationid="Léo Delaune" creationdate="20230309T115621Z">
@@ -48014,6 +48030,22 @@ mirage, pas de page...</seg>
       </tuv>
       <tuv lang="fr">
         <seg>Masque avant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pattern after</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230320T143141Z" creationid="suzume" creationdate="20230320T143141Z">
+        <seg>Après</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pattern before</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230320T143135Z" creationid="suzume" creationdate="20230320T143135Z">
+        <seg>Avant</seg>
       </tuv>
     </tu>
     <tu>
@@ -57286,6 +57318,16 @@ of the GPL, as needed to protect the freedom of users.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210111T102231Z" creationid="suzume" creationdate="20210111T102231Z">
         <seg>Paramètres spécifiques</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Specific sets should be put above general sets:
+"FR-CA" should be above "FR.*", which should be above ".*".</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230320T143445Z" creationid="suzume" creationdate="20230320T143445Z">
+        <seg>Les règles les plus spécifiques doivent être placées avant les règles plus générales :
+« FR-CA » doit être plus haut que « FR.* », qui doit elle-même être plus haut que « .* ».</seg>
       </tuv>
     </tu>
     <tu>
