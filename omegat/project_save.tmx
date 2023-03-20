@@ -22595,8 +22595,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="en">
         <seg>Disable team project functionality.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230320T154109Z" creationid="Anand" creationdate="20230320T154109Z">
-        <seg>Désactive la fonctionnalité de projets en équipe.</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230320T154127Z" creationid="Anand" creationdate="20230320T154109Z">
+        <seg>Désactiver la fonctionnalité de projets en équipe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23782,8 +23782,8 @@ http://pysvn.tigris.org/project_downloads.html
       <tuv lang="en">
         <seg>Download the OmegaT project from the URL specified in &lt;e0&gt;&lt;path-to-omegat-project-file&gt;&lt;/e0&gt;, and load it.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230320T154038Z" creationid="Anand" creationdate="20230320T153854Z">
-        <seg>Télécharge le projet OmegaT depuis l'URL spécifiée dans &lt;e0&gt;chemin-au-fichier-projet-omegat&lt;/e0&gt;, et le charge.</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230320T154132Z" creationid="Anand" creationdate="20230320T153854Z">
+        <seg>Télécharger le projet OmegaT depuis l'URL spécifiée dans &lt;e0&gt;chemin-au-fichier-projet-omegat&lt;/e0&gt;, et le charge.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35504,6 +35504,14 @@ patent against the party.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Initialize a team project using &lt;e0&gt;SL&lt;/e0&gt; and &lt;e1&gt;TL&lt;/e1&gt; as the source and target two-letter language codes, respectively.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230320T154644Z" creationid="Anand" creationdate="20230320T154644Z">
+        <seg>Initialiser un projet en équipe en utilisant &lt;e0&gt;LS&lt;/e0&gt; et &lt;e1&gt;LC&lt;/e1&gt; comme code de langue à deux lettres pour la langue source et la langue cible, respectivement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Initialized en-ja team project.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160718T151137Z" creationid="Didier" creationdate="20160718T151137Z">
@@ -38577,8 +38585,8 @@ later version.</seg>
       <tuv lang="en">
         <seg>Launch the GUI and load the specified project</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230320T153722Z" creationid="Anand" creationdate="20230320T153722Z">
-        <seg>Lance l'interface utilisateur et charge le projet spécifié</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230320T154135Z" creationid="Anand" creationdate="20230320T153722Z">
+        <seg>Lancer l'interface utilisateur et charge le projet spécifié</seg>
       </tuv>
     </tu>
     <tu>
@@ -73269,6 +73277,14 @@ la configuration actuelle est de {0} Mo ;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use this option if you want to prevent OmegaT from synchronizing the project contents.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230320T154245Z" creationid="Anand" creationdate="20230320T154245Z">
+        <seg>Utilisez cette option si vous souhaitez empêcher OmegaT de synchroniser le contenu du projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use this option temporarily for parts of the translation that do not require much transformation.</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230313T204943Z" creationid="Léo Delaune" creationdate="20230313T204943Z">
@@ -87732,6 +87748,14 @@ Ok. </note>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T100232Z">
         <seg>te</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>team init &lt;e0&gt;SL&lt;/e0&gt; &lt;e1&gt;TL&lt;/e1&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230320T154417Z" creationid="Anand" creationdate="20230320T154417Z">
+        <seg>team init &lt;e0&gt;LS&lt;/e0&gt; &lt;e1&gt;LC&lt;/e1&gt;</seg>
       </tuv>
     </tu>
     <tu>
