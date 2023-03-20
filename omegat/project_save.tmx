@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_02bf2621" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12476,8 +12476,8 @@ or that patent license was granted, prior to 28 March 2007.</seg>
       <tuv lang="en">
         <seg>A writable glossary created for the project by OmegaT will be a TSV file saved in UTF-8.</seg>
       </tuv>
-      <tuv lang="fr" changeid="sirine" changedate="20230316T182254Z" creationid="sirine" creationdate="20230316T182254Z">
-        <seg>Un glossaire en écriture créé par OmegaT pour le projet, sera un fichier TSV sauvegardé en UTF-8.</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230320T182134Z" creationid="sirine" creationdate="20230316T182254Z">
+        <seg>Un glossaire modifiable créé par OmegaT pour le projet, sera un fichier TSV sauvegardé en UTF-8.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12804,8 +12804,8 @@ or that patent license was granted, prior to 28 March 2007.</seg>
       <tuv lang="en">
         <seg>Access Project Contents/Writable Glossary</seg>
       </tuv>
-      <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T210439Z" creationid="Léo Delaune" creationdate="20230305T210439Z">
-        <seg> Access Project Contents/Writable Glossary</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230320T182145Z" creationid="Léo Delaune" creationdate="20230305T210439Z">
+        <seg>Access Project Contents/Writable Glossary</seg>
       </tuv>
     </tu>
     <tu>
@@ -36790,12 +36790,11 @@ exécutez simplement le programme d'installation.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>(sirine) "writable glossary" --&gt; glossaire en écriture https://omegat.sourceforge.io/manual-standard/fr/appendix.shortcut.custom.html</note>
       <tuv lang="en">
         <seg>It is called the &lt;e2&gt;writable&lt;/e2&gt; glossary for this reason.</seg>
       </tuv>
-      <tuv lang="fr" changeid="sirine" changedate="20230316T150250Z" creationid="sirine" creationdate="20230316T150250Z">
-        <seg>C'est la raison pour laquelle il est appelé le glossaire &lt;e2&gt;en écriture&lt;/e2&gt;.</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230320T182050Z" creationid="sirine" creationdate="20230316T150250Z">
+        <seg>C'est la raison pour laquelle il est appelé le glossaire &lt;e2&gt;modifiable&lt;/e2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66100,8 +66099,8 @@ the [Help] menu after starting OmegaT.</seg>
       <tuv lang="en">
         <seg>The writable project glossary is located in the &lt;l0/&gt; folder by default and called &lt;l1/&gt;.</seg>
       </tuv>
-      <tuv lang="fr" changeid="sirine" changedate="20230316T180720Z" creationid="sirine" creationdate="20230316T180720Z">
-        <seg>Le glossaire en écriture est situé par défaut dans le dossier &lt;l0/&gt; et s'appelle &lt;l1/&gt;.</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230320T182114Z" creationid="sirine" creationdate="20230316T180720Z">
+        <seg>Le glossaire modifiable est situé par défaut dans le dossier &lt;l0/&gt; et s'appelle &lt;l1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
