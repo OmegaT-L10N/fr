@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_02bf2621" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -14964,6 +14964,14 @@ void, and will automatically terminate your rights under this License.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20230316T083028Z" creationid="sirine" creationdate="20230303T100154Z">
         <seg>Toute combinaison de trois lettres commençant par « d  » et finissant par « s  » : « &lt;e0&gt;des&lt;/e0&gt;  », « &lt;e1&gt;dis&lt;/e1&gt;  », « &lt;e2&gt;dos&lt;/e2&gt;  », ou même des combinaisons qui n'ont pas de sens, comme « &lt;e3&gt;dzs&lt;/e3&gt;  » ou « &lt;e4&gt;dqs&lt;/e4&gt;".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Any files also named test.html in other subfolders will be ignored.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230320T192036Z" creationid="Anand" creationdate="20230320T192036Z">
+        <seg>Tout fichier aussi nommé test.html dans d'autre sous-dossiers seront ignorés.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30385,6 +30393,14 @@ a disparu...</seg>
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230305T184438Z" creationid="suzume" creationdate="20221016T093511Z">
         <seg>Voici quelques exemples.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Here are some typical examples:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230320T191833Z" creationid="Anand" creationdate="20230320T191833Z">
+        <seg>Voici quelques exemples typiques :</seg>
       </tuv>
     </tu>
     <tu>
@@ -46910,6 +46926,22 @@ redontant URL
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230316T212714Z" creationid="Léo Delaune" creationdate="20230316T212714Z">
         <seg>Seuls les modèles de variables simples sont vérifiés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Only translate &lt;f0&gt;test.html&lt;/f0&gt; file in the source folder itself.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230320T192018Z" creationid="Anand" creationdate="20230320T192018Z">
+        <seg>Ne traduire que le fichier &lt;f0&gt;test.html&lt;/f0&gt; dans le dossier source même.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Only translate the &lt;f0&gt;test.html&lt;/f0&gt; file in the &lt;f1&gt;dir-10&lt;/f1&gt; folder.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230320T192123Z" creationid="Anand" creationdate="20230320T192123Z">
+        <seg>Ne traduire que le fichier &lt;f0&gt;test.html&lt;/f0&gt; dans le dossier &lt;f1&gt;dir-10.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71064,6 +71096,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20200724T172738Z" creationid="briac" creationdate="20200724T172738Z">
         <seg>Traduire un fichier PDF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translate all HTML files.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230320T191847Z" creationid="Anand" creationdate="20230320T191847Z">
+        <seg>Traduire tous les fichiers HTML.</seg>
       </tuv>
     </tu>
     <tu>
