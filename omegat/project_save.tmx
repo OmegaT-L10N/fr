@@ -1143,6 +1143,14 @@ ${filePath}&gt;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Do not insert the source text</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230320T144029Z" creationid="suzume" creationdate="20230320T144029Z">
+        <seg>Ne &amp;pas insérer le texte source</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Do not unescape Unicode literals (\uXXXX)</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20151111T100350Z" creationid="Didier" creationdate="20151111T100350Z">
@@ -1657,8 +1665,8 @@ ${filePath}&gt;</seg>
       <tuv lang="en">
         <seg>&amp;Minimal similarity:</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
-        <seg>Niveau minimum de correspondance :</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230320T144106Z">
+        <seg>Niveau minimum de correspondance :</seg>
       </tuv>
     </tu>
     <tu>
@@ -1682,8 +1690,8 @@ ${filePath}&gt;</seg>
       <tuv lang="en">
         <seg>&amp;Name/ID:</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
-        <seg>&amp;Nom/identifiant :</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230320T143949Z">
+        <seg>&amp;Nom / identifiant :</seg>
       </tuv>
     </tu>
     <tu>
@@ -1786,8 +1794,8 @@ ${filePath}&gt;</seg>
       <tuv lang="en">
         <seg>&amp;Prefix:</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
-        <seg>&amp;Préfixe :</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230320T144111Z">
+        <seg>&amp;Préfixe :</seg>
       </tuv>
     </tu>
     <tu>
@@ -2286,6 +2294,15 @@ ${filePath}&gt;</seg>
       </tuv>
       <tuv lang="fr">
         <seg>&amp;Statistiques</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Stop at segments that are untranslated or have alternative translations</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230320T144220Z" creationid="suzume" creationdate="20230320T144220Z">
+        <seg>S'arrêter sur les traductions non traduites et alternatives
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -24048,6 +24065,15 @@ several security warnings.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>E&amp;xport the segment to a text file</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230320T144200Z" creationid="suzume" creationdate="20230320T144200Z">
+        <seg>E&amp;xporter le segment dans des fichiers texte</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>E&amp;xport the segment to text files</seg>
       </tuv>
@@ -35651,8 +35677,8 @@ patent against the party.</seg>
       <tuv lang="en">
         <seg>Insert the &amp;best fuzzy match</seg>
       </tuv>
-      <tuv lang="fr">
-        <seg>La meilleure &amp;correspondance</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230320T144045Z">
+        <seg>Insérer la meilleure &amp;correspondance</seg>
       </tuv>
     </tu>
     <tu>
@@ -74687,8 +74713,8 @@ you have just discovered.</seg>
       <tuv lang="en">
         <seg>When entering an empty segment:</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20230316T075050Z" creationid="Léo Delaune" creationdate="20230313T204907Z">
-        <seg>En entrant dans un segment vide :</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230320T144003Z" creationid="Léo Delaune" creationdate="20230313T204907Z">
+        <seg>En entrant dans un segment vide  :</seg>
       </tuv>
     </tu>
     <tu>
@@ -78214,6 +78240,14 @@ them.</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T200513Z" creationid="Léo Delaune" creationdate="20230305T200513Z">
         <seg>Vos raccourcis modifiés ou ajoutés devraient maintenant être affichés à côté des éléments de menu que vous avez modifiés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your name/ID is used to identify your translations.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230320T143939Z" creationid="suzume" creationdate="20230320T143939Z">
+        <seg>Votre nom/ID est utilisé pour marquer vos traductions.</seg>
       </tuv>
     </tu>
     <tu>
