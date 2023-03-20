@@ -1747,8 +1747,8 @@ ${filePath}&gt;</seg>
       <tuv lang="en">
         <seg>&amp;None</seg>
       </tuv>
-      <tuv lang="fr" changeid="briac" changedate="20230129T184125Z" creationid="briac" creationdate="20230129T184125Z">
-        <seg>A&amp;ucun</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230320T145800Z" creationid="briac" creationdate="20230129T184125Z">
+        <seg>A&amp;ucune</seg>
       </tuv>
     </tu>
     <tu>
@@ -17989,17 +17989,24 @@ software--to make sure the software is free for all its users.</seg>
       <tuv lang="en">
         <seg>Check printf function variables</seg>
       </tuv>
-      <tuv lang="fr" changeid="Léo Delaune" changedate="20230316T210321Z" creationid="Léo Delaune" creationdate="20230316T210321Z">
-        <seg>Vérifier les variables de la fonction print
-</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230320T145638Z" creationid="Léo Delaune" creationdate="20230316T210321Z">
+        <seg>Vérifier les variables de la fonction printf</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check printf function variables:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230320T145621Z" creationid="suzume" creationdate="20230320T145621Z">
+        <seg>Vérifier les variables de la fonction printf :</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Check printf variables in file formats other than the PO format.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Léo Delaune" changedate="20230316T210337Z" creationid="Léo Delaune" creationdate="20230316T210337Z">
-        <seg>Vérifier les variables print dans les formats de fichiers autres que le format PO.
+      <tuv lang="fr" changeid="suzume" changedate="20230320T145658Z" creationid="Léo Delaune" creationdate="20230316T210337Z">
+        <seg>Vérifier les variables printf dans les formats de fichiers autres que le format PO.
 </seg>
       </tuv>
     </tu>
@@ -25253,8 +25260,8 @@ personne ne vous entend pleurer...</seg>
       <tuv lang="en">
         <seg>Error decoding user and password.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Didier" changedate="20101220T155114Z">
-        <seg>Erreur en décodage de l'utilisateur et du mot de passe.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230320T145558Z">
+        <seg>Erreur de décodage des identifiants.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61014,9 +61021,8 @@ software and other kinds of works.</seg>
       <tuv lang="en">
         <seg>The PO filter already handles variables marked with &lt;l0&gt;%&lt;/l0&gt;.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Léo Delaune" changedate="20230316T210347Z" creationid="Léo Delaune" creationdate="20230316T210347Z">
-        <seg>Le filtre PO traite déjà les variables marquées par &lt;l0&gt;%&lt;/l0&gt;.
-.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230320T145723Z" creationid="Léo Delaune" creationdate="20230316T210347Z">
+        <seg>Le filtre PO traite déjà les variables marquées avec &lt;l0&gt;%&lt;/l0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
