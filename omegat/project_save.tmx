@@ -30710,6 +30710,14 @@ a disparu...</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Hit &lt;k0&gt;Enter&lt;/k0&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230320T193253Z" creationid="sirine" creationdate="20230320T193253Z">
+        <seg>Appuyez sur &lt;k0&gt;Entrée&lt;/k0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Hit &lt;k0&gt;F1&lt;/k0&gt; or access the &lt;g1&gt;&gt; Help&lt;/g1&gt; menu to open the user manual.</seg>
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230320T183112Z" creationid="sirine" creationdate="20230320T183112Z">
@@ -73052,6 +73060,14 @@ la configuration actuelle est de {0} Mo ;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;g0&gt;&gt; Project&lt;/g0&gt;&lt;g1&gt;&gt; Create Translated Files&lt;/g1&gt; to create the translated document at any time.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230320T193537Z" creationid="sirine" creationdate="20230320T193537Z">
+        <seg>Pour créer le document traduit, allez dans &lt;g0&gt;&gt;Projet&lt;/g0&gt;&lt;g1&gt;&gt;Créer les documents traduits&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;g0&gt;Ctrl+L&lt;/g0&gt; to open and &lt;k1&gt;Esc&lt;/k1&gt; to close it.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210204T133051Z" creationid="suzume" creationdate="20210204T133051Z">
@@ -89978,6 +89994,14 @@ config-dir="chemin/au/nouveau/configdir"</seg>
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230320T190640Z" creationid="sirine" creationdate="20230320T190640Z">
         <seg>→ OmegaT créera un ensemble de dossiers contenant vos fichiers. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>→ OmegaT will register that segment into the project translation memory and will move the cursor to the next segment.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230320T193326Z" creationid="sirine" creationdate="20230320T193326Z">
+        <seg>→ OmegaT enregistre ce segment dans la mémoire de traduction du projet et déplace le curseur vers le segment suivant. </seg>
       </tuv>
     </tu>
     <tu>
