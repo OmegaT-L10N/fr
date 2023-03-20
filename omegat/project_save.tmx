@@ -1007,6 +1007,15 @@ ${filePath}&gt;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Check issues when leaving a segment</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230320T144418Z" creationid="suzume" creationdate="20230320T144418Z">
+        <seg>&amp;Vérifier les problèmes en quittant un segment
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Check simple printf-variables (e.g., %s, %d)</seg>
       </tuv>
       <tuv lang="fr">
@@ -15467,10 +15476,18 @@ provoquer des comportements inattendus, mais corrects.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Attempt to replace fuzzy match &amp;numbers</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230320T144314Z" creationid="suzume" creationdate="20230320T144302Z">
+        <seg>Tenter de remplacement les nombres des correspondances partielles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Attempt to replace fuzzy match numbers</seg>
       </tuv>
-      <tuv lang="fr" changeid="Léo Delaune" changedate="20230313T210530Z" creationid="Léo Delaune" creationdate="20230313T210503Z">
-        <seg>Tentative de remplacement des numéros de correspondance partielles.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230320T144322Z" creationid="Léo Delaune" creationdate="20230313T210503Z">
+        <seg>Tenter de remplacement les nombres des correspondances partielles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35401,6 +35418,14 @@ patent against the party.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Initial number of loaded segments:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230320T144441Z" creationid="suzume" creationdate="20230320T144441Z">
+        <seg>Nombre initial de segments chargés :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Initialize a minimal team project with the specified languages.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221014T002906Z" creationid="suzume" creationdate="20221014T002906Z">
@@ -47913,6 +47938,14 @@ mirage, pas de page...</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z" creationid="Didier" creationdate="20190226T091618Z">
         <seg>Format de la délimitation des paragraphes :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Paragraph delimiter:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230320T144502Z" creationid="suzume" creationdate="20230320T144502Z">
+        <seg>Délimitation des paragraphes :</seg>
       </tuv>
     </tu>
     <tu>
