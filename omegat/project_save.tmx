@@ -28987,6 +28987,14 @@ authors of previous versions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Fuzzy match number conversion</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230320T235629Z" creationid="Léo Delaune" creationdate="20230320T235629Z">
+        <seg>Conversion des nombres flous</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Fuzzy matches can come from the &lt;f0&gt;/tm&lt;/f0&gt; folder as well - and not just from the internal translation memory in &lt;f1&gt;/omegaT,&lt;/f1&gt; as is the case for repetitions and exact matches.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130507T132133Z">
@@ -46932,6 +46940,14 @@ redontant URL
       </tuv>
       <tuv lang="fr">
         <seg>elles ne seront intégrées au logiciel que dans le cas où elles constituent un ajout bénéfique pour les utilisateurs d'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Only integers and simple floats (e.g., 5.4) are considered.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230320T235126Z" creationid="Léo Delaune" creationdate="20230320T235126Z">
+        <seg>Seuls les nombres entiers et les nombres flottants simples (par exemple, 5,4) sont pris en compte.</seg>
       </tuv>
     </tu>
     <tu>
