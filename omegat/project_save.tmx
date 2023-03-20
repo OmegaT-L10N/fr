@@ -14112,6 +14112,14 @@ rights of fair use or other equivalent, as provided by copyright law.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Almost all parameters presented in this section can be used in a config file.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230320T160700Z" creationid="Anand" creationdate="20230320T160700Z">
+        <seg>Presque tous les paramètres présentés dans cette section peuvent être utilisés dans un fichier de configuration.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Alongside an existing version</seg>
       </tuv>
       <tuv lang="fr" changeid="Anand" changedate="20230315T162215Z" creationid="Anand" creationdate="20230315T162215Z">
@@ -16438,6 +16446,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20170106T154109Z" creationid="Didier" creationdate="20170106T154109Z">
         <seg>Les deux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Both Java parameters and OmegaT options can be used.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230320T160413Z" creationid="Anand" creationdate="20230320T160413Z">
+        <seg>Les paramètres Java et les options OmegaT peuvent tous deux être utilisés.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51620,6 +51636,14 @@ ces mots : « pas de page »...</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20140925T130219Z" creationid="Didier" creationdate="20140925T130203Z">
         <seg>Texte à supprimer de la cible</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remove the initial &lt;c0&gt;-D&lt;/c0&gt; or &lt;c1&gt;-X&lt;/c1&gt; to use Java parameters:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230320T160437Z" creationid="Anand" creationdate="20230320T160437Z">
+        <seg>Enlevez l'initiale &lt;c0&gt;-D&lt;/c0&gt; ou &lt;c1&gt;-X&lt;/c1&gt; pour utiliser les paramètres Java :</seg>
       </tuv>
     </tu>
     <tu>
@@ -88727,6 +88751,16 @@ Ok. </note>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130415T162422Z">
         <seg>Règles de segmentation par défaut des utilisateurs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>user.language=fr
+config-dir="path/to/new/configdir"</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230320T160500Z" creationid="Anand" creationdate="20230320T160500Z">
+        <seg>user.language=fr
+config-dir="chemin/au/nouveau/configdir"</seg>
       </tuv>
     </tu>
     <tu>
