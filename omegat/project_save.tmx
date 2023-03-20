@@ -11238,10 +11238,34 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;repository type="svn" url="https://repo_for_All_OmegaT_team_projects"&gt;
+	&lt;mapping local="" repository="En-US_DE_project"/&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230320T063615Z" creationid="suzume" creationdate="20230320T063615Z">
+        <seg>&lt;repository type="svn" url="https://dépôt_de_tous_les_projets_OmegaT_en_équipe"&gt;
+	&lt;mapping local="" repository="EN-US_FR_project"/&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;repository type="svn" url="https://repo_for_OmegaT_team_project"&gt;</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210201T140310Z" creationid="suzume" creationdate="20200119T142633Z">
         <seg>&lt;repository type="svn" url="https://dépôt_du_projet_OmegaT_en_équipe"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;repository type="svn" url="https://repo_for_OmegaT_team_project"&gt;
+	&lt;mapping local="" repository=""/&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230320T063438Z" creationid="suzume" creationdate="20230320T063438Z">
+        <seg>&lt;repository type="svn" url="https://dépôt_du_projet_OmegaT_en_équipe"&gt;
+	&lt;mapping local="" repository=""/&gt;
+&lt;/repository&gt;</seg>
       </tuv>
     </tu>
     <tu>
