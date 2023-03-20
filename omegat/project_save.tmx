@@ -13226,6 +13226,14 @@ this License without regard to the additional permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Additional plugins can be found on the &lt;u0&gt;OmegaT development site&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230320T234427Z" creationid="Léo Delaune" creationdate="20230320T234427Z">
+        <seg>Des modules d'extension supplémentaires sont disponibles sur le &lt;u0&gt;site de développement d'OmegaT&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Additional themes can be added as plugins.</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230308T165240Z" creationid="Léo Delaune" creationdate="20230307T133655Z">
@@ -23163,6 +23171,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Displays the list of all the installed plugins.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230320T234329Z" creationid="Léo Delaune" creationdate="20230320T234329Z">
+        <seg>Affiche la liste de tous les plugins installés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Displays the list of available dictionaries from the above URL.</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230309T114316Z" creationid="Léo Delaune" creationdate="20230309T081942Z">
@@ -31484,6 +31500,14 @@ need not be entered.)</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20170210T104105Z" creationid="Didier" creationdate="20170210T104105Z">
         <seg>Si Java est installé au niveau système et est inclus dans le chemin, il n'est pas nécessaire d'entrer le chemin complet.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If OmegaT detects an update, it will display a link to the download page.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230320T234544Z" creationid="Léo Delaune" creationdate="20230320T234544Z">
+        <seg>Si OmegaT détecte une mise à jour, il affichera un lien vers la page de téléchargement.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49336,6 +49360,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20161227T171628Z" creationid="Didier" creationdate="20161227T171628Z">
         <seg>Modules d'extension</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Plugins are by default installed in the &lt;l0&gt;configuration folder&lt;/l0&gt;, but can also be installed in the &lt;l1/&gt; folder under the &lt;l2&gt;application&lt;/l2&gt; folder.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230320T234338Z" creationid="Léo Delaune" creationdate="20230320T234338Z">
+        <seg>Les plugins sont installés par défaut dans le dossier &lt;l0&gt;configuration&lt;/l0&gt;, mais peuvent également être installés dans le dossier &lt;l1/&gt; sous le dossier &lt;l2&gt;application&lt;/l2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -73853,6 +73885,14 @@ la configuration actuelle est de {0} Mo ;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use this option to choose whether to be automatically notified of updates to OmegaT.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230320T234527Z" creationid="Léo Delaune" creationdate="20230320T234527Z">
+        <seg>Cette option permet de choisir d'être automatiquement informé des mises à jour d'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use this option to force OmegaT to register such entries and count them as translated.</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230316T093809Z" creationid="Léo Delaune" creationdate="20230316T093809Z">
@@ -83803,6 +83843,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20200118T152412Z" creationid="suzume" creationdate="20200118T152412Z">
         <seg>https://sourceforge.net/p/omegat/wiki/Configuring Machine Translation Services</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://sourceforge.net/p/omegat/wiki/Plugins/</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230320T234341Z" creationid="Léo Delaune" creationdate="20230320T234341Z">
+        <seg>[correspondance]https://sourceforge.net/p/omegat/wiki/Reference%20Material/</seg>
       </tuv>
     </tu>
     <tu>
