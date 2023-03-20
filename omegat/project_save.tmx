@@ -5378,6 +5378,16 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;/repositories&gt;
+&lt;/project&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230320T062327Z" creationid="suzume" creationdate="20230320T062327Z">
+        <seg>&lt;/repositories&gt;
+&lt;/project&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;/repository&gt;
 &lt;/repositories&gt;</seg>
       </tuv>
@@ -18030,8 +18040,8 @@ software--to make sure the software is free for all its users.</seg>
       <tuv lang="en">
         <seg>Check whether your repository has correct commits and files.</seg>
       </tuv>
-      <tuv lang="fr" changeid="briac" changedate="20230311T205803Z" creationid="briac" creationdate="20230311T205803Z">
-        <seg>Vérifiez si votre dépôt contient des fichiers et des commandes de validation (commit) corrects.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230320T062623Z" creationid="briac" creationdate="20230311T205803Z">
+        <seg>Vérifiez si votre dépôt contient des fichiers et des ajouts de données corrects.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24442,8 +24452,8 @@ pas de page...</seg>
       <tuv lang="en">
         <seg>Empty repository URL in the mapping</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210201T140310Z" creationid="Didier" creationdate="20160427T150540Z">
-        <seg>URL de dépôt vide dans le mappage</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230320T062517Z" creationid="Didier" creationdate="20160427T150540Z">
+        <seg>URL de dépôt vide dans la mise en correspondance</seg>
       </tuv>
     </tu>
     <tu>
@@ -46156,8 +46166,8 @@ redontant URL
       <tuv lang="en">
         <seg>Online repositories of spelling dictionaries for use within OmegaT.</seg>
       </tuv>
-      <tuv lang="fr" changeid="briac" changedate="20170403T154412Z" creationid="briac" creationdate="20170403T154412Z">
-        <seg>Répertoire de dictionnaires d'orthographe à utiliser dans OmegaT.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230320T062409Z" creationid="briac" creationdate="20170403T154412Z">
+        <seg>Dépôt de dictionnaires orthographiques utilisables dans OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
