@@ -7785,8 +7785,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="en">
         <seg>&lt;html&gt;Repository URL:&lt;/html&gt;</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210201T140310Z" creationid="Didier" creationdate="20170728T150913Z">
-        <seg>&lt;html&gt;URL du dépôt :&lt;/html&gt;</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230320T062642Z" creationid="Didier" creationdate="20170728T150913Z">
+        <seg>&lt;html&gt;URL :&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -25037,8 +25037,8 @@ personne ne vous entend pleurer...</seg>
       <tuv lang="en">
         <seg>Error checking out the project from remote repository:</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210201T140310Z">
-        <seg>Erreur durant l'extraction du projet à partir du dépôt distant :</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230320T062813Z">
+        <seg>Erreur de copie du projet à partir du dépôt distant :</seg>
       </tuv>
     </tu>
     <tu>
@@ -50901,8 +50901,8 @@ ces mots : « pas de page »...</seg>
       <tuv lang="en">
         <seg>Remote repository git+ssh credential error: {0}</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20230316T073810Z" creationid="briac" creationdate="20230311T205942Z">
-        <seg>Erreur d'identification git+ssh du dépôt distant : {0}</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230320T062829Z" creationid="briac" creationdate="20230311T205942Z">
+        <seg>Erreur d'identification git+ssh sur le dépôt distant : {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -51619,8 +51619,8 @@ ces mots : « pas de page »...</seg>
       <tuv lang="en">
         <seg>Repository Credentials</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210201T140310Z" creationid="Didier" creationdate="20160427T152629Z">
-        <seg>Informations d'identification du dépôt</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230320T062858Z" creationid="Didier" creationdate="20160427T152629Z">
+        <seg>Informations d'identification</seg>
       </tuv>
     </tu>
     <tu>
@@ -67316,16 +67316,16 @@ Segment non traduit Fait </note>
       <tuv lang="en">
         <seg>This is a Git repository.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210201T140310Z" creationid="Didier" creationdate="20140617T181838Z">
-        <seg>Il s'agit d'un dépôt Git.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230320T062841Z" creationid="Didier" creationdate="20140617T181838Z">
+        <seg>Dépôt Git.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>This is a Subversion repository.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210201T140310Z" creationid="Didier" creationdate="20140617T181858Z">
-        <seg>Il s'agit d'un dépôt Subversion.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230320T062844Z" creationid="Didier" creationdate="20140617T181858Z">
+        <seg>Dépôt Subversion.</seg>
       </tuv>
     </tu>
     <tu>
