@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_02bf2621" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4129,6 +4129,14 @@ Ne pas essayer de verrouiller le fichier omegat.project du projet.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--mode=[console mode name]</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230320T190136Z" creationid="Anand" creationdate="20230320T190136Z">
+        <seg>--mode=[nom du mode de console]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--mode=[console mode name]
 	  Specify a mode other than default (GUI).</seg>
       </tuv>
@@ -4463,6 +4471,14 @@ Le contenu à inclure dans la TMX pseudo-traduite.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--resource-bundle=&lt;e0&gt;&lt;path&gt;&lt;/e0&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230320T185958Z" creationid="Anand" creationdate="20230320T185958Z">
+        <seg>--resource-bundle=&lt;e0&gt;&lt;chemin&gt;&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--resource-bundle=&lt;path&gt;
 		A Java .properties file to use for interface text
 	--config-dir=&lt;path&gt;
@@ -4579,6 +4595,15 @@ Un fichier script à exécuter lors d'événements survenant dans le projet.</se
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210131T124311Z" creationid="suzume" creationdate="20210131T124311Z">
         <seg>--source-pattern=&lt;p4&gt;expression régulière&lt;/p4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>pattern</note>
+      <tuv lang="en">
+        <seg>--source-pattern=&lt;pattern&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230320T191300Z" creationid="Anand" creationdate="20230320T191300Z">
+        <seg>--source-pattern=&lt;masque&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11753,6 +11778,14 @@ work thus licensed is called the contributor's "contributor version".</seg>
       </tuv>
       <tuv lang="fr" changeid="briglegrand" changedate="20120622T075923Z">
         <seg>Un &lt;a0&gt;guide pratique à propos du module Tokenizer&lt;/a0&gt; est également disponible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A Java .properties file to use for interface text.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230320T190059Z" creationid="Anand" creationdate="20230320T190059Z">
+        <seg>Un fichier .properties en Java à utiliser pour les textes de l'interface utilisateur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34986,6 +35019,15 @@ the limitation as if written in the body of this License.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>(Anand) j'vais pas mentir j'ai pas trop compris la phrase</note>
+      <tuv lang="en">
+        <seg>In such cases, options defined in the config file take precedence over any option with duplicate functionality also passed on the command line.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230320T185951Z" creationid="Anand" creationdate="20230320T185951Z">
+        <seg>Dans ce cas, les options définies dans le fichier de configuration ont la priorité sur toute option avec une fonctionnalité double et transmise sur la ligne de commande.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>In that case, each paragraph (as defined in the original document format) is displayed as a single segment, and the translator is free to reorganize the sentences within the segment in the translation.</seg>
       </tuv>
@@ -35356,6 +35398,14 @@ patent against the party.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160726T132747Z" creationid="Didier" creationdate="20160726T132747Z">
         <seg>Dans ce mode, « &lt;g1&gt;Curseur déverrouillé&lt;/g1&gt; » est affiché en bas du volet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In this mode, OmegaT attempts to translate the files in the source folder with the available translation memories.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230320T190737Z" creationid="Anand" creationdate="20230320T190737Z">
+        <seg>Dans ce mode, OmegaT tente de traduire les fichiers du dossier source avec les mémoires de traduction disponibles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38728,8 +38778,8 @@ later version.</seg>
       <tuv lang="en">
         <seg>Launch the GUI and load the specified project</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230320T154135Z" creationid="Anand" creationdate="20230320T153722Z">
-        <seg>Lancer l'interface utilisateur et charge le projet spécifié</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230320T185130Z" creationid="Anand" creationdate="20230320T153722Z">
+        <seg>Lancer l'interface graphique et charge le projet spécifié</seg>
       </tuv>
     </tu>
     <tu>
@@ -57716,6 +57766,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Specify a mode other than the GUI default.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230320T190155Z" creationid="Anand" creationdate="20230320T190155Z">
+        <seg>Spécifier un mode différent que l'interface graphique par défaut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Specify a source- or target-language tokenizer (using this option overrides project settings).</seg>
       </tuv>
       <tuv lang="fr" changeid="Anand" changedate="20230320T155457Z" creationid="Anand" creationdate="20230320T155457Z">
@@ -61161,8 +61219,8 @@ software and other kinds of works.</seg>
       <tuv lang="en">
         <seg>The OmegaT GUI is launched if no option is specified.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230320T153113Z" creationid="Anand" creationdate="20230320T153113Z">
-        <seg>L'interface utilisateur d'OmegaT se lance si aucune option n'est spécifiée.</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230320T185124Z" creationid="Anand" creationdate="20230320T153113Z">
+        <seg>L'interface graphique d'OmegaT se lance si aucune option n'est spécifiée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62946,6 +63004,14 @@ instead.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20131230T125332Z" creationid="Didier" creationdate="20131230T125332Z">
         <seg>Les options suivantes ne s'appliquent qu'au filtre 3.x</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The following options are available:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230320T190203Z" creationid="Anand" creationdate="20230320T190203Z">
+        <seg>Les options suivantes sont disponibles :</seg>
       </tuv>
     </tu>
     <tu>
@@ -68174,6 +68240,14 @@ this version will not interfere with it.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130415T090805Z">
         <seg>Cette option est utile pour les textes contenant de nombreux noms de marque ou autres noms propres qui doivent rester inchangés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is useful if OmegaT is run on a server with TMX files automatically fed to a project.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230320T190944Z" creationid="Anand" creationdate="20230320T190944Z">
+        <seg>Ce mode est utile si OmegaT est exécuté sur un serveur qui fournit automatiquement des fichiers TMX à un projet.</seg>
       </tuv>
     </tu>
     <tu>
