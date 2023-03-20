@@ -16339,6 +16339,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Before resetting the master password, always make a backup of that information, because it will be deleted and will have to be re-entered.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230320T234226Z" creationid="Léo Delaune" creationdate="20230320T234226Z">
+        <seg>Avant de réinitialiser le mot de passe principal, faites toujours une sauvegarde de ces informations, car elles seront supprimées et devront être saisies à nouveau.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Before segments get translated, you may wish to pre-process them or address them in some other way than is possible with OmegaT.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130507T092543Z">
@@ -22052,6 +22060,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221014T013228Z" creationid="suzume" creationdate="20221014T013228Z">
         <seg>Le format par défaut est xml.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Define or reset the master password used to protect login credentials as well as access keys for machine translation services.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230320T234218Z" creationid="Léo Delaune" creationdate="20230320T234218Z">
+        <seg>Définir ou réinitialiser le mot de passe principal utilisé pour protéger les identifiants de connexion ainsi que les clés d'accès aux services de traduction automatique.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33918,6 +33934,14 @@ OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you use an authenticated proxy server to access the Internet, enter your credentials here.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230320T234102Z" creationid="Léo Delaune" creationdate="20230320T234102Z">
+        <seg>Si vous utilisez un serveur proxy authentifié pour accéder à Internet, entrez vos informations d'identification ici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you use local rules, you can still access the global rules, but modifying them will have no effect on your project.</seg>
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230310T222457Z" creationid="Anand" creationdate="20230307T141441Z">
@@ -39676,6 +39700,14 @@ automatically download and install it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local commands are run before global commands.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230320T234042Z" creationid="Léo Delaune" creationdate="20230320T234042Z">
+        <seg>Les commandes locales sont exécutées avant les commandes globales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local external search commands are saved in the &lt;l0/&gt; file.</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230309T115621Z" creationid="Léo Delaune" creationdate="20230309T115621Z">
@@ -39728,6 +39760,14 @@ automatically download and install it.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221227T050316Z" creationid="suzume" creationdate="20221227T050316Z">
         <seg>Les commandes locales de post-traitement sont désactivées et ne seront pas exécutées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local post-processing commands are saved in the &lt;l0/&gt; file.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230320T234005Z" creationid="Léo Delaune" creationdate="20230320T234005Z">
+        <seg>Les commandes locales de post-traitement sont enregistrées dans le fichier &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58662,6 +58702,14 @@ and then start OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Such commands are defined in the &lt;l0/&gt; window.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230320T233947Z" creationid="Léo Delaune" creationdate="20230320T233947Z">
+        <seg>Ces commandes sont définies dans la fenêtre &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Such file formats are designed to hold formatting information.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130430T073610Z">
@@ -77260,6 +77308,14 @@ Spotlight search field.</seg>
       </tuv>
       <tuv lang="fr" changeid="Anand" changedate="20230316T081145Z" creationid="Anand" creationdate="20230316T081145Z">
         <seg>Vous pouvez aussi définir et enregistrer des groupes d'options dans des scripts que vous pourrez ensuite utiliser afin de lancer OmegaT dans un objectif particulier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also define local post-processing commands available only to a given project.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230320T233934Z" creationid="Léo Delaune" creationdate="20230320T233934Z">
+        <seg>Vous pouvez également définir des commandes locales de post-traitement disponibles uniquement pour un projet donné.</seg>
       </tuv>
     </tu>
     <tu>
