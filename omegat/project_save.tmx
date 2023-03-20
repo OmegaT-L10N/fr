@@ -11218,6 +11218,20 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;repository type="file" url="/home/me/myfiles"&gt;
+	&lt;mapping local="source/file.txt" repository="my/file.txt"/&gt;
+	&lt;mapping local="source/file2.txt" repository="some/file.txt"/&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230320T064031Z" creationid="suzume" creationdate="20230320T064031Z">
+        <seg>&lt;repository type="file" url="/dossier/de/mes/fichiers"&gt;
+	&lt;mapping local="source/file.txt" repository="mon/fichier.txt"/&gt;
+	&lt;mapping local="source/file2.txt" repository="un/autre/fichier.txt"/&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;repository type="git" url="https://repo_for_OmegaT_team_project.git"&gt;</seg>
       </tuv>
       <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210520T161048Z" creationid="suzume" creationdate="20200119T142631Z">
@@ -11230,6 +11244,30 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20200119T142642Z" creationid="suzume" creationdate="20200119T142642Z">
         <seg>&lt;repository type="http" url="https://github.com/omegat-org/omegat/raw/master/"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;repository type="http" url="https://github.com/omegat-org/omegat/raw/master/"&gt;
+	&lt;mapping local="source/Bundle.properties" repository="src/org/omegat/Bundle.properties"/&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230320T063840Z" creationid="suzume" creationdate="20230320T063840Z">
+        <seg>&lt;repository type="http" url="https://github.com/omegat-org/omegat/raw/master/"&gt;
+	&lt;mapping local="source/Bundle.properties" repository="src/org/omegat/Bundle.properties"/&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;repository type="http" url="https://github.com/omegat-org/omegat/raw/master/"&gt;
+	&lt;mapping local="source/readme_tr.txt" repository="release/readme.txt"/&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230320T063855Z" creationid="suzume" creationdate="20230320T063855Z">
+        <seg>&lt;repository type="http" url="https://github.com/omegat-org/omegat/raw/master/"&gt;
+	&lt;mapping local="source/readme_fr.txt" repository="release/readme.txt"/&gt;
+&lt;/repository&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -51723,8 +51761,8 @@ ces mots : « pas de page »...</seg>
       <tuv lang="en">
         <seg>Repository credentials are stored in the &lt;l0/&gt; file and can be deleted from the &lt;l1/&gt; preferences.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20221220T114945Z" creationid="suzume" creationdate="20221220T114945Z">
-        <seg>Les autorisations de dépôt sont entreposées dans le fichier &lt;l0/&gt; et peuvent être effacées à partir des préférences &lt;l1/&gt;.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230320T064047Z" creationid="suzume" creationdate="20221220T114945Z">
+        <seg>Les identifiants de dépôt sont entreposées dans le fichier &lt;l0/&gt; et peuvent être effacées à partir des préférences &lt;l1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
