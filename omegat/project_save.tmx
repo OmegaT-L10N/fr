@@ -3820,6 +3820,14 @@ le programme d'installation peut créer des raccourcis pour vous dans le menu d�
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--ITokenizer=&lt;classname&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230320T155225Z" creationid="Anand" creationdate="20230320T155225Z">
+        <seg>--ITokenizer=&lt;nom de classe&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--ITokenizer=&lt;classname&gt;
 	--ITokenizerTarget=&lt;classname&gt;
 		Source- or target-language tokenizer to use (overrides project
@@ -3881,6 +3889,14 @@ project settings).</seg>
         <seg>--ITokenizerBehavior=&lt;version&gt;
 --ITokenizerBehaviorTarget=&lt;version&gt;
 Comportement du lemmatiseur source ou cible à utiliser (remplace les paramètres du projet).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--ITokenizerTarget=&lt;classname&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230320T155232Z" creationid="Anand" creationdate="20230320T155232Z">
+        <seg>--ITokenizerTarget=&lt;nom de classe&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -57585,6 +57601,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20230316T073810Z" creationid="Didier" creationdate="20170106T154525Z">
         <seg>Spécifiez un mnémonique avec « &amp; » : « T&amp;oto » pour utiliser O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Specify a source- or target-language tokenizer (using this option overrides project settings).</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230320T155457Z" creationid="Anand" creationdate="20230320T155457Z">
+        <seg>Spécifier le lemmatiseur source ou cible à utiliser (l'utilisation de cette option remplace les paramètres du projet).</seg>
       </tuv>
     </tu>
     <tu>
