@@ -3979,6 +3979,14 @@ Comportement du lemmatiseur source ou cible à utiliser (remplace les paramètre
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--config-file=&lt;e0&gt;&lt;path&gt;&lt;/e0&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230320T155746Z" creationid="Anand" creationdate="20230320T155746Z">
+        <seg>--config-file=&lt;e0&gt;&lt;chemin&gt;&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--config-file=&lt;p2&gt;/path/to/config-file/&lt;/p2&gt; \</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210202T073037Z" creationid="suzume" creationdate="20210131T124249Z">
@@ -11969,6 +11977,14 @@ this License.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20140414T135341Z" creationid="Didier" creationdate="20140414T135341Z">
         <seg>Si un fichier ne contient aucune entrée correspondante, il sera affiché vide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A file written in the Java .properties format used to specify a batch of command line options.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230320T160107Z" creationid="Anand" creationdate="20230320T155831Z">
+        <seg>Fichier .properties écrit en Java, utilisé pour spécifier un ensemble d'options de ligne de commande.</seg>
       </tuv>
     </tu>
     <tu>
