@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_02bf2621" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -36898,6 +36898,14 @@ implemented by public license practices.</seg>
       </tuv>
       <tuv lang="fr" changeid="jchelary" changedate="20130526T124716Z">
         <seg>Vous disposez également de puissantes fonctions de recherche dans la fenêtre &lt;g1&gt;Recherche textuelle&lt;/g1&gt; que vous pouvez utiliser au cours de la traduction (raccourci clavier &lt;k0&gt;Ctrl+F&lt;/k0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is possible to combine &lt;c0&gt;--config-file&lt;/c0&gt; with other command line options compatible with launching the GUI.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230320T185109Z" creationid="Anand" creationdate="20230320T185109Z">
+        <seg>Il est possible de combiner la commande&lt;c0&gt;--config-file&lt;/c0&gt; avec d'autres options de lignes de commandes compatibles avec le lancement de l'interface graphique.</seg>
       </tuv>
     </tu>
     <tu>
