@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_edc74b19f" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -21638,7 +21638,6 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Customize segment modification &amp;information</seg>
       </tuv>
@@ -24106,7 +24105,6 @@ several security warnings.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>E&amp;xport the segment to a text file</seg>
       </tuv>
@@ -41338,7 +41336,6 @@ impose that choice.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Mo&amp;ve Up</seg>
       </tuv>
@@ -76704,6 +76701,14 @@ Spotlight search field.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130527T132749Z">
         <seg>Vous pouvez également rédiger des &lt;u6&gt;rapports de bogues&lt;/u6&gt;(bug reports) et des&lt;u7&gt;demandes d'améliorations&lt;/u7&gt;(requests for enhancements).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also get a list of these options in the terminal with the &lt;c0&gt;java -jar OmegaT.jar --help&lt;/c0&gt; command.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230320T152958Z" creationid="Anand" creationdate="20230320T152825Z">
+        <seg>Vous pouvez également obtenir une liste de ces options dans le terminal avec la commande &lt;c0&gt;java -jar OmegaT.jar --help&lt;/c0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
