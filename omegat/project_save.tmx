@@ -41229,8 +41229,8 @@ impose that choice.</seg>
       <tuv lang="en">
         <seg>Minimal threshold to show a fuzzy match:</seg>
       </tuv>
-      <tuv lang="fr" changeid="briac" changedate="20200503T103913Z" creationid="briac" creationdate="20200503T103913Z">
-        <seg>Seuil minimal pour afficher une correspondance partielle :</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230320T144817Z" creationid="briac" creationdate="20200503T103913Z">
+        <seg>Seuil minimal pour afficher une correspondance :</seg>
       </tuv>
     </tu>
     <tu>
@@ -55753,6 +55753,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Settings for tags originating from non-OmegaT TMX files:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230320T144642Z" creationid="suzume" creationdate="20230320T144541Z">
+        <seg>Paramètres pour les balises ne venant pas de TMX OmegaT :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Several filters (Text files, XHTML files, HTML and XHTML files, OpenDocument files and Microsoft Open XML files) have one or more specific options.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210207T052528Z">
@@ -59519,8 +59527,8 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       <tuv lang="en">
         <seg>Template variables:</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20230316T102849Z">
-        <seg>Variables du modèle  :</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230320T144719Z">
+        <seg>Variables de modèle  :</seg>
       </tuv>
     </tu>
     <tu>
@@ -72491,6 +72499,14 @@ la configuration actuelle est de {0} Mo ;</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T025106Z">
         <seg>Utiliser &amp;XML pour les balises isolées (ex. : &lt;i/&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &amp;XML notation for standalone tags (e.g., &lt;i/&gt;)</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230320T144657Z" creationid="suzume" creationdate="20230320T144657Z">
+        <seg>Utiliser la notation &amp;XML pour les balises isolées (ex. : &lt;i/&gt;)</seg>
       </tuv>
     </tu>
     <tu>
