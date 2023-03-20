@@ -32396,6 +32396,14 @@ authors' reputations.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If there is a declaration, that encoding will be used regardless of the setting specified here.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230320T135122Z" creationid="suzume" creationdate="20230320T135122Z">
+        <seg>Si l'encodage est déclaré, il ne sera pas modifié quel que soit le paramètre que vous indiquez ici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If there isn’t one, it installs the program in &lt;f1&gt;/opt/omegat/OmegaT_5.8.0&lt;/f1&gt; and sets it as the default version (in &lt;f2&gt;/opt/omegat/OmegaT-default&lt;/f2&gt;).</seg>
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230317T224155Z" creationid="Anand" creationdate="20230315T153702Z">
