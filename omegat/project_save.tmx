@@ -5388,6 +5388,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;/repository&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230320T064259Z" creationid="suzume" creationdate="20230320T064259Z">
+        <seg>&lt;/repository&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;/repository&gt;
 &lt;/repositories&gt;</seg>
       </tuv>
@@ -8891,6 +8899,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;mapping local="/" repository="/"/&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230320T064257Z" creationid="suzume" creationdate="20230320T064257Z">
+        <seg>&lt;mapping local="/" repository="/"/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;mapping local="source/Bundle.properties" repository="src/org/omegat/Bundle.properties"/&gt;
 &lt;/repository&gt;</seg>
       </tuv>
@@ -11228,6 +11244,14 @@ la configuration actuelle est de {0} Mo.</seg>
 	&lt;mapping local="source/file.txt" repository="mon/fichier.txt"/&gt;
 	&lt;mapping local="source/file2.txt" repository="un/autre/fichier.txt"/&gt;
 &lt;/repository&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;repository type="git" url="https://URL/OF/THE/REMOTE/PROJECT/REPOSITORY"&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230320T064254Z" creationid="suzume" creationdate="20230320T064254Z">
+        <seg>&lt;repository type="git" url="https://URL/DU/DÉPÔT/DU/PROJET/À/DISTANCE"&gt;</seg>
       </tuv>
     </tu>
     <tu>
