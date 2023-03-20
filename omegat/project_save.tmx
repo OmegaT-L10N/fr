@@ -7863,6 +7863,18 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;includes&gt;readme.bak&lt;/includes&gt;
+	&lt;/mapping&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230320T063830Z" creationid="suzume" creationdate="20230320T063830Z">
+        <seg>&lt;includes&gt;readme.bak&lt;/includes&gt;
+	&lt;/mapping&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;java parameters&gt;</seg>
       </tuv>
       <tuv lang="fr" changeid="Anand" changedate="20230318T142930Z" creationid="Anand" creationdate="20230318T142930Z">
@@ -11226,6 +11238,18 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210201T140310Z" creationid="suzume" creationdate="20210129T121650Z">
         <seg>&lt;repository type="svn" url="https://dépôt_des_sources_de_tous_les_projets_OmegaT_en_équipe"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;repository type="svn" url="https://repo_for_All_OmegaT_team_project_sources"&gt;
+	&lt;mapping local="source/subdir" repository=""&gt;
+	    &lt;excludes&gt;**/*.bak&lt;/excludes&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230320T063826Z" creationid="suzume" creationdate="20230320T063826Z">
+        <seg>&lt;repository type="svn" url="https://dépôt_de_toutes_les_sources_des_projets_OmegaT_en_équipe"&gt;
+	&lt;mapping local="source/subdir" repository=""&gt;
+	    &lt;excludes&gt;**/*.bak&lt;/excludes&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -39987,6 +40011,14 @@ impose that choice.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mapping for additional sources from a remote repository, with filters:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230320T063717Z" creationid="suzume" creationdate="20230320T063717Z">
+        <seg>Mise en correspondance de sources supplémentaires en provenance de dépôts distants, avec des filtres :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mapping for additional sources from remote repository, with filters:</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210129T121602Z" creationid="suzume" creationdate="20210129T121602Z">
@@ -40007,6 +40039,14 @@ impose that choice.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210201T140310Z" creationid="suzume" creationdate="20210129T121412Z">
         <seg>Mise en correspondance de projets dans un sous-dossier du dépôt :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mapping for projects in a subfolder of the repository:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230320T063645Z" creationid="suzume" creationdate="20230320T063645Z">
+        <seg>Mise en correspondance pour des projets dans le sous-dossier d'un dépôt :</seg>
       </tuv>
     </tu>
     <tu>
