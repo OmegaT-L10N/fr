@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_02bf2621" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -22750,6 +22750,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="fr" changeid="Anand" changedate="20230313T155722Z" creationid="Anand" creationdate="20230313T155722Z">
         <seg>Déconnectez-vous du réseau avant l'ouverture du projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dismiss the window.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230320T192512Z" creationid="sirine" creationdate="20230320T192512Z">
+        <seg>Fermez la fenêtre.</seg>
       </tuv>
     </tu>
     <tu>
