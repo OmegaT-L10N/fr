@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_02bf2621" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -14013,6 +14013,14 @@ rights of fair use or other equivalent, as provided by copyright law.</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230309T115543Z" creationid="Léo Delaune" creationdate="20230309T115543Z">
         <seg>Autoriser les commandes de recherche externes locales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Allow local post-processing commands</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230320T233858Z" creationid="Léo Delaune" creationdate="20230320T233858Z">
+        <seg>Autoriser les commandes locales de post-traitement</seg>
       </tuv>
     </tu>
     <tu>
@@ -28378,6 +28386,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230309T115559Z" creationid="Léo Delaune" creationdate="20230309T115559Z">
         <seg>Pour des raisons de sécurité, les &lt;l0&gt;recherches externes locales&lt;/l0&gt; sont désactivées par défaut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For security reasons, the &lt;l0&gt;local post-processing commands&lt;/l0&gt; are disabled by default.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230320T233921Z" creationid="Léo Delaune" creationdate="20230320T233921Z">
+        <seg>Pour des raisons de sécurité, les &lt;l0&gt;commandes locales de post-traitement&lt;/l0&gt; sont désactivées par défaut.</seg>
       </tuv>
     </tu>
     <tu>
