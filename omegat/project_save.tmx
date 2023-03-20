@@ -4267,6 +4267,14 @@ Spécifier un mode différent du mode par défaut (interface utilisateur).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--no-team</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230320T154043Z" creationid="Anand" creationdate="20230320T154043Z">
+        <seg>--no-team</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--no-team
 		Disable team project functionality.</seg>
       </tuv>
@@ -9005,7 +9013,7 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="en">
         <seg>&lt;o0&gt;--remote-project&lt;/o0&gt; &lt;e1&gt;&lt;path-to-omegat-project-file&gt;&lt;/e1&gt;</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230320T153835Z" creationid="Anand" creationdate="20230320T153835Z">
+      <tuv lang="fr" changeid="Anand" changedate="20230320T153956Z" creationid="Anand" creationdate="20230320T153835Z">
         <seg>&lt;o0&gt;--remote-project&lt;/o0&gt; &lt;e1&gt;&lt;chemin-au-fichier-projet-omegat&gt;&lt;/e1&gt;</seg>
       </tuv>
     </tu>
@@ -22585,6 +22593,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Disable team project functionality.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230320T154109Z" creationid="Anand" creationdate="20230320T154109Z">
+        <seg>Désactive la fonctionnalité de projets en équipe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Disconnect from the network before opening the project,</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210131T123452Z" creationid="suzume" creationdate="20210131T123452Z">
@@ -23760,6 +23776,14 @@ http://pysvn.tigris.org/project_downloads.html
       </tuv>
       <tuv lang="fr" changeid="Anand" changedate="20230320T074351Z" creationid="Anand" creationdate="20230315T160014Z">
         <seg>Téléchargez la version &lt;e0&gt;Multiplateforme sans JRE&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Download the OmegaT project from the URL specified in &lt;e0&gt;&lt;path-to-omegat-project-file&gt;&lt;/e0&gt;, and load it.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230320T154038Z" creationid="Anand" creationdate="20230320T153854Z">
+        <seg>Télécharge le projet OmegaT depuis l'URL spécifiée dans &lt;e0&gt;chemin-au-fichier-projet-omegat&lt;/e0&gt;, et le charge.</seg>
       </tuv>
     </tu>
     <tu>
