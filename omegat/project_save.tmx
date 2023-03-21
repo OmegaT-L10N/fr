@@ -4303,6 +4303,14 @@ Spécifier un mode différent du mode par défaut (interface utilisateur).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--mode=console-stats &lt;e0&gt;&lt;path&gt;&lt;/e0&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230321T150159Z" creationid="Anand" creationdate="20230321T150159Z">
+        <seg>--mode=console-stats &lt;e0&gt;&lt;chemin&gt;&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--mode=console-translate</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T104533Z">
@@ -4373,6 +4381,14 @@ Disable team project functionality.</seg>
       <tuv lang="fr" changeid="Didier" changedate="20160115T134633Z" creationid="Didier" creationdate="20160115T134633Z">
         <seg>--no-team
 Désactiver la fonctionnalité de projets en équipe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--output-file=[stats-output-file]</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230321T150419Z" creationid="Anand" creationdate="20230321T150419Z">
+        <seg>--output-file=[fichier-de-sortie]</seg>
       </tuv>
     </tu>
     <tu>
@@ -50219,6 +50235,14 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130417T090028Z">
         <seg>Variables Printf - pas de vérification, vérification simple, vérification complète</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Prints to that file, or to standard output if absent.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230321T150441Z" creationid="Anand" creationdate="20230321T150441Z">
+        <seg>Envoie les informations vers ce fichier, ou vers la sortie standard si absent.</seg>
       </tuv>
     </tu>
     <tu>
