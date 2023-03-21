@@ -11623,6 +11623,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t0&gt;2003&lt;/t0&gt; in the fuzzy match:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230320T235932Z" creationid="Léo Delaune" creationdate="20230320T235932Z">
+        <seg>&lt;t0&gt;2003&lt;/t0&gt; dans la correspondance partielle :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t0&gt;Format&lt;/t0&gt; &lt;t1&gt;Extension&lt;/t1&gt; &lt;t2&gt;Encoding&lt;/t2&gt;</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210323T160544Z" creationid="suzume" creationdate="20210323T160544Z">
@@ -75661,6 +75669,14 @@ add Python to your Path.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When the match is inserted, OmegaT will convert &lt;t0&gt;2003&lt;/t0&gt; to &lt;t1&gt;2001&lt;/t1&gt;:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230321T000010Z" creationid="Léo Delaune" creationdate="20230321T000010Z">
+        <seg>Lorsque la correspondance est insérée, OmegaT convertit &lt;t0&gt;2003&lt;/t0&gt; en &lt;t1&gt;2001&lt;/t1&gt; :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When the option is enabled, OmegaT automatically searches in all the dictionaries for matches of the terms it identified in the segment, as it enters the segment.</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230307T133431Z" creationid="Léo Delaune" creationdate="20230307T133431Z">
@@ -79174,6 +79190,32 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20120504T112332Z">
         <seg>[Correspondance]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[[&lt;t0&gt;2001&lt;/t0&gt;]], elle acquiert la nationalité allemande.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230321T000026Z" creationid="Léo Delaune" creationdate="20230321T000026Z">
+        <seg>[[&lt;t0&gt;2001&lt;/t0&gt;]], elle acquiert la nationalité allemande.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[[&lt;t0&gt;2001&lt;/t0&gt;年]]、ドイツの永住権を取得。</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230320T235852Z" creationid="Léo Delaune" creationdate="20230320T235852Z">
+        <seg>[[&lt;t0&gt;2001&lt;/t0&gt;年]]、ドイツの永住権を取得。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[[&lt;t0&gt;2003&lt;/t0&gt;年]]、ドイツの永住権を取得。
+[[&lt;t1&gt;2003&lt;/t1&gt;]], elle acquiert la nationalité allemande.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230320T235956Z" creationid="Léo Delaune" creationdate="20230320T235956Z">
+        <seg>[[&lt;t0&gt;2003&lt;/t0&gt;年]]、ドイツの永住権を取得。
+[[&lt;t1&gt;2003&lt;/t1&gt;]], elle acquiert la nationalité allemande.</seg>
       </tuv>
     </tu>
     <tu>
