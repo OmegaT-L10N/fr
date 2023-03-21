@@ -4217,6 +4217,14 @@ Spécifier un mode différent du mode par défaut (interface utilisateur).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--mode=console-align &lt;e0&gt;--alignDir=&lt;path&gt;&lt;/e0&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230321T144916Z" creationid="Anand" creationdate="20230321T144916Z">
+        <seg>--mode=console-align &lt;e0&gt;--alignDir=&lt;chemin&gt;&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--mode=console-createpseudotranslatetmx</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T104541Z">
@@ -58266,8 +58274,8 @@ of the GPL, as needed to protect the freedom of users.</seg>
       <tuv lang="en">
         <seg>Specify the TMX file to be created with:</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230321T144512Z" creationid="Anand" creationdate="20230321T144512Z">
-        <seg>Spécifiez le fichier TMX qui sera créé avec :</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230321T144817Z" creationid="Anand" creationdate="20230321T144512Z">
+        <seg>Spécifiez le fichier TMX à créer :</seg>
       </tuv>
     </tu>
     <tu>
@@ -64784,8 +64792,8 @@ sure this has not already been reported.</seg>
       <tuv lang="en">
         <seg>The output pseudotranslated TMX file.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230321T144559Z" creationid="Anand" creationdate="20230321T144559Z">
-        <seg>Le fichier TMX résultant contenant une pseudo-traduction.</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230321T144857Z" creationid="Anand" creationdate="20230321T144559Z">
+        <seg>Le fichier TMX pseudo-traduit en résultat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -75742,6 +75750,14 @@ any other work released this way by its authors.</seg>
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230314T223204Z" creationid="sirine" creationdate="20230303T100329Z">
         <seg>Quelle est la lettre manquante ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What to fill the pseudotranslated TMX with.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230321T144804Z" creationid="Anand" creationdate="20230321T144804Z">
+        <seg>Le contenu à inclure dans la TMX pseudo-traduite.</seg>
       </tuv>
     </tu>
     <tu>
