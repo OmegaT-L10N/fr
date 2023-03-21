@@ -20172,6 +20172,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Consult the documentation for your server or hosting service for details.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230321T191031Z" creationid="Anand" creationdate="20230321T191031Z">
+        <seg>Consultez la documentation de votre serveur ou de votre service d'hébergement pour en savoir plus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Consult the documentation for your system for more information.</seg>
       </tuv>
       <tuv lang="fr" changeid="Anand" changedate="20230316T080610Z" creationid="Anand" creationdate="20230316T080555Z">
@@ -21112,8 +21120,8 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       <tuv lang="en">
         <seg>Create an empty repository on your VCS hosting server</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230321T190801Z" creationid="Anand" creationdate="20230321T190537Z">
-        <seg>Créer un dépôt vide sur le serveur d'hébergement de votre logiciel de contrôle de version</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230321T190910Z" creationid="Anand" creationdate="20230321T190537Z">
+        <seg>Créer un dépôt vide sur votre serveur d'hébergement du logiciel de gestion de version</seg>
       </tuv>
     </tu>
     <tu>
@@ -40871,8 +40879,8 @@ La version Mac intègre un JRE.</seg>
       <tuv lang="en">
         <seg>Managing a team project calls for some knowledge of either the &lt;e0&gt;SVN&lt;/e0&gt; or &lt;e1&gt;Git&lt;/e1&gt; version control system (&lt;e2&gt;VCS&lt;/e2&gt; in the rest of this section).</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230321T190626Z" creationid="Anand" creationdate="20230321T184512Z">
-        <seg>La gestion d'un projet en équipe demande une certaine connaissance du logiciel de contrôle de version &lt;e0&gt;SVN&lt;/e0&gt; ou &lt;e1&gt;Git&lt;/e1&gt;.</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230321T190806Z" creationid="Anand" creationdate="20230321T184512Z">
+        <seg>La gestion d'un projet en équipe demande une certaine connaissance du logiciel de gestion de version &lt;e0&gt;SVN&lt;/e0&gt; ou &lt;e1&gt;Git&lt;/e1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68210,6 +68218,14 @@ under the terms of this General Public License.</seg>
       </tuv>
       <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210521T093049Z" creationid="suzume" creationdate="20210129T094745Z">
         <seg>Http (qui inclut https), svn, git ou file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This can normally be done through a web interface, a graphical application, or the command line.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230321T191006Z" creationid="Anand" creationdate="20230321T191006Z">
+        <seg>Cela peut normalement se faire par l'intermédiaire d'une interface web, d'une application graphique, ou de la ligne de commande.</seg>
       </tuv>
     </tu>
     <tu>
