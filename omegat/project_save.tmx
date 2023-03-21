@@ -12779,6 +12779,14 @@ or that patent license was granted, prior to 28 March 2007.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Abort: Exit with an error if there are tag issues.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230321T151452Z" creationid="Anand" creationdate="20230321T151452Z">
+        <seg>Abort : Quitter avec un message d'erreur s'il y a des problèmes de balise.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Aborted.</seg>
       </tuv>
       <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210504T124357Z">
@@ -18410,6 +18418,14 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20140604T064710Z" creationid="Didier" creationdate="20140604T064710Z">
         <seg>Casse initiale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check tag issues.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230321T151405Z" creationid="Anand" creationdate="20230321T151405Z">
+        <seg>Vérifier les problèmes de balise.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52729,6 +52745,14 @@ ces mots : « pas de page »...</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Reports about tag issues are output to the terminal window.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230321T151700Z" creationid="Anand" creationdate="20230321T151700Z">
+        <seg>Les rapports sur les problèmes de balise sont affichés dans la fenêtre du terminal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Repository</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210201T145653Z" creationid="Didier" creationdate="20160427T150416Z">
@@ -75715,6 +75739,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20230316T073810Z" creationid="Didier" creationdate="20160115T135142Z">
         <seg>Warn : signaler les balises non valides sur stdout.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Warn: Show warnings without exiting if there are tag issues.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230321T151632Z" creationid="Anand" creationdate="20230321T151632Z">
+        <seg>Warn : Montrer des avertissements sans quitter s'il y a des problèmes de balise.</seg>
       </tuv>
     </tu>
     <tu>
