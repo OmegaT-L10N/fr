@@ -25230,8 +25230,8 @@ pas de page...</seg>
       <tuv lang="en">
         <seg>End of stream encountered without finding close block!</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20230316T073951Z">
-        <seg>Pas de bloc de fin en clôture de fichier !</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230321T051405Z">
+        <seg>Pas de bloc de fin en clôture de fichier .</seg>
       </tuv>
     </tu>
     <tu>
@@ -25862,24 +25862,24 @@ personne ne vous entend pleurer...</seg>
       <tuv lang="en">
         <seg>Escaped binary char contains malformed data ({0})!</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20230316T073951Z">
-        <seg>Caractère binaire contenant des données non conformes ({0}) !</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230321T051343Z">
+        <seg>Caractère binaire contenant des données non conformes ({0}) .</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Escaped character never terminated!</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20230316T073951Z">
-        <seg>Caractère d'échappement non fermé !</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230321T051346Z">
+        <seg>Caractère d'échappement non fermé .</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Escaped decimal char contains malformed data ({0})!</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20230316T073951Z">
-        <seg>Caractère décimal contenant des données non conformes ({0}) !</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230321T051340Z">
+        <seg>Caractère décimal contenant des données non conformes ({0}) .</seg>
       </tuv>
     </tu>
     <tu>
@@ -27108,8 +27108,8 @@ dommage...</seg>
       <tuv lang="en">
         <seg>File {0} does not exist!</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20230316T073951Z">
-        <seg>Le fichier {0} n'existe pas !</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230321T051337Z">
+        <seg>Le fichier {0} n'existe pas .</seg>
       </tuv>
     </tu>
     <tu>
@@ -73417,6 +73417,15 @@ la configuration actuelle est de {0} Mo ;</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to access it directly.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230321T051307Z" creationid="suzume" creationdate="20230321T051307Z">
+        <seg>Utilisez &lt;l0/&gt;&lt;l1/&gt; pour y accéder directement.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; to access the project folder and its subfolders.</seg>
       </tuv>
@@ -90327,6 +90336,30 @@ config-dir="chemin/au/nouveau/configdir"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>~/.omegat</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230321T051242Z" creationid="suzume" creationdate="20230321T051242Z">
+        <seg>~/.omegat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>~/Library/Preferences/OmegaT</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230321T051239Z" creationid="suzume" creationdate="20230321T051239Z">
+        <seg>~/Library/Preferences/OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>~\AppData\Roaming\OmegaT</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230321T051236Z" creationid="suzume" creationdate="20230321T051236Z">
+        <seg>~\AppData\Roaming\OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>×</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20170918T110233Z" creationid="briac" creationdate="20170918T110233Z">
@@ -90696,8 +90729,8 @@ config-dir="chemin/au/nouveau/configdir"</seg>
       <tuv lang="en">
         <seg>Preferences system save operation failed!</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20230320T134432Z" creationid="suzume" creationdate="20210505T045205Z">
-        <seg>Impossible d'enregistrer les préférences !</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230321T051333Z" creationid="suzume" creationdate="20210505T045205Z">
+        <seg>Impossible d'enregistrer les préférences .</seg>
       </tuv>
     </tu>
     <tu>
