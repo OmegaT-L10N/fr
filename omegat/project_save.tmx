@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_edc74b19f" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_02bf2621" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -16490,7 +16490,6 @@ documentation.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Block the creation of translated files with tag &amp;issues</seg>
       </tuv>
@@ -21912,7 +21911,6 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Customize segment modification &amp;information</seg>
       </tuv>
@@ -24444,7 +24442,6 @@ several security warnings.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>E&amp;xport the segment to a text file</seg>
       </tuv>
@@ -28903,9 +28900,11 @@ authors of previous versions.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>(sirine) Libertés d'utilisation et de modification</note>
       <tuv lang="en">
         <seg>Freedoms</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230321T130804Z">
+        <seg>Libertés d'utilisation et de modification</seg>
       </tuv>
     </tu>
     <tu>
@@ -41874,7 +41873,6 @@ impose that choice.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Mo&amp;ve Up</seg>
       </tuv>
@@ -53739,7 +53737,6 @@ REPAIR OR CORRECTION.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Save and close the file.</seg>
       </tuv>
@@ -73441,7 +73438,6 @@ la configuration actuelle est de {0} Mo ;</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; to access it directly.</seg>
       </tuv>
