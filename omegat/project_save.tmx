@@ -4485,6 +4485,14 @@ Le contenu à inclure dans la TMX pseudo-traduite.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--quiet</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230321T151040Z" creationid="Anand" creationdate="20230321T151040Z">
+        <seg>--quiet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--quiet
 	  Reduce output to command line stdout.</seg>
       </tuv>
@@ -43528,6 +43536,14 @@ Diminue les sorties sur stdout de la ligne de commande.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Non-gui mode options:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230321T151020Z" creationid="Anand" creationdate="20230321T151020Z">
+        <seg>Options non liées à l'interface graphique :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Non-unique segments</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20140924T085413Z" creationid="Didier" creationdate="20140924T085413Z">
@@ -58280,6 +58296,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Specifies the output format.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230321T150754Z" creationid="Anand" creationdate="20230321T150754Z">
+        <seg>Spécifie le format de sortie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Specify a mnemonic with "&amp;": "F&amp;oobar" to use O</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20230316T073810Z" creationid="Didier" creationdate="20170106T154525Z">
@@ -62786,6 +62810,14 @@ instead.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130429T135052Z">
         <seg>Les données sont exportées lorsque le segment est ouvert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The data is the same as when using &lt;l0/&gt;&lt;l1/&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230321T150955Z" creationid="Anand" creationdate="20230321T150955Z">
+        <seg>Les données sont les mêmes que lors de l'utilisation de &lt;l0/&gt;&lt;l1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
