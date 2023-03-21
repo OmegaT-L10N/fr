@@ -66284,6 +66284,22 @@ L'idée était que l'utilisation de certaines touches en dehors du segment coura
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The text in the file is replaced each time a new segment is entered.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230321T143456Z" creationid="sirine" creationdate="20230321T143456Z">
+        <seg>Le texte du fichier est remplacé à chaque fois qu'un nouveau segment est introduit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The text in the file is replaced each time this function is called.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230321T143409Z" creationid="sirine" creationdate="20230321T143409Z">
+        <seg>Le texte du fichier est remplacé chaque fois que cette fonction est appliquée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The text is exported to a plain text file.</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130421T233802Z">
@@ -68323,6 +68339,14 @@ under the terms of this General Public License.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130424T080911Z">
         <seg>Ce fichier existe toujours dans le projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This file contains the &lt;e0&gt;original text&lt;/e0&gt; from of the current segment when the &lt;l1/&gt; preference is enabled.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230321T143436Z" creationid="sirine" creationdate="20230321T143436Z">
+        <seg>Ce fichier contient le &lt;e0&gt;texte original&lt;/e0&gt; du segment en cours lorsque la préférence &lt;l1/&gt; est activée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -88501,6 +88525,14 @@ Ok. </note>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130419T184134Z">
         <seg>sous une forme lisible par un ordinateur, lequel doit être distribué au titre des termes des </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>source.txt</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230321T143412Z" creationid="sirine" creationdate="20230321T143412Z">
+        <seg>source.txt</seg>
       </tuv>
     </tu>
     <tu>
