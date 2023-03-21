@@ -28508,6 +28508,14 @@ know their rights.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For instance, if the project is EN-to-FR, the folder must contain a bundle ending with _fr.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230321T150142Z" creationid="Anand" creationdate="20230321T150142Z">
+        <seg>Par exemple, si la paire de langues du projet est EN-&gt;FR, le dossier doit contenir un paquet finissant par _fr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For instance, plain text files.</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130415T090106Z">
@@ -60677,6 +60685,14 @@ Les remplacements portent sur les segments cible du projet, qu'ils soient déjà
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>That folder must contain a translation in the target language of the project.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230321T150047Z" creationid="Anand" creationdate="20230321T150047Z">
+        <seg>Ce dossier doit contenir une traduction dans la langue cible du projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>That includes the platforms described above, as well as platforms for which no specific OmegaT package is provided.</seg>
       </tuv>
       <tuv lang="fr" changeid="Anand" changedate="20230315T155914Z" creationid="Anand" creationdate="20230315T155914Z">
@@ -61023,6 +61039,14 @@ form of a work.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130527T150909Z">
         <seg>L'argument&lt;e0&gt;« -Duser.language=XX »&lt;/e0&gt; oblige &lt;a1&gt;OmegaT&lt;/a1&gt; à utiliser la langue spécifiée plutôt que la langue du système d'exploitation de l'utilisateur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;e0&gt;--alignDir&lt;/e0&gt; parameter is used to specify the location of the data in the target language, which must be a folder containing the translated files.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230321T150032Z" creationid="Anand" creationdate="20230321T150032Z">
+        <seg>Le paramètre &lt;e0&gt;--alignDir&lt;/e0&gt; est utilisé pour spécifier l'emplacement des données dans la langue cible, qui doit être un dossier contenant les fichiers traduits.</seg>
       </tuv>
     </tu>
     <tu>
