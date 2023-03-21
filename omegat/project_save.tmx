@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_edc74b19f" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2223,6 +2223,14 @@ ${filePath}&gt;</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20150610T145221Z" creationid="Didier" creationdate="20150610T145221Z">
         <seg>&amp;Afficher automatiquement les suggestions pertinentes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Simple variables (e.g., %s, %d)</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230320T145825Z" creationid="suzume" creationdate="20230320T145825Z">
+        <seg>Variables &amp;simples (par exemple, %s, %d)</seg>
       </tuv>
     </tu>
     <tu>
@@ -16482,6 +16490,15 @@ documentation.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Block the creation of translated files with tag &amp;issues</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230321T045650Z" creationid="suzume" creationdate="20230321T045650Z">
+        <seg>Bloquer la création de fichiers traduits avec des problèmes de balises.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Block the creation of translated files with tag issues</seg>
       </tuv>
@@ -17722,6 +17739,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Changing the tag order may break the translated file!</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230321T041614Z" creationid="suzume" creationdate="20230321T041614Z">
+        <seg>Modifier l'ordre des balises peut endommager le document traduit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Changing this flag does not modify the segmentation of already existing translation memories.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130506T123241Z">
@@ -17870,6 +17895,14 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20170111T135930Z" creationid="Didier" creationdate="20170111T135930Z">
         <seg>Afficher les &amp;erreurs...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check &amp;Java MessageFormat placeholders (e.g. {0})</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230321T041551Z" creationid="suzume" creationdate="20230321T041551Z">
+        <seg>Vérifier les paramètres MessageFormat de &amp;Java (ex. : {0})</seg>
       </tuv>
     </tu>
     <tu>
@@ -21863,6 +21896,7 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Customize segment modification &amp;information</seg>
       </tuv>
@@ -24394,6 +24428,7 @@ several security warnings.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>E&amp;xport the segment to a text file</seg>
       </tuv>
@@ -41815,6 +41850,7 @@ impose that choice.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Mo&amp;ve Up</seg>
       </tuv>
