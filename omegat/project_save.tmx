@@ -4609,6 +4609,14 @@ Le répertoire à partir duquel lire et écrire les fichiers de configuration Om
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--script=&lt;e0&gt;&lt;path&gt;&lt;/e0&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230321T151202Z" creationid="Anand" creationdate="20230321T151202Z">
+        <seg>--script=&lt;e0&gt;&lt;chemin&gt;&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--script=&lt;path&gt;
 		A script file to be executed on project events.</seg>
       </tuv>
@@ -4704,6 +4712,14 @@ Un fichier script à exécuter lors d'événements survenant dans le projet.</se
       <tuv lang="fr" changeid="suzume" changedate="20221110T052750Z" creationid="suzume" creationdate="20221106T100436Z">
         <seg>--stats-type=[xml|text][txt][json]]]
 	    Spécifie le format de sortie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--tag-validation=[abort|warn]</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230321T151317Z" creationid="Anand" creationdate="20230321T151317Z">
+        <seg>--tag-validation=[abort|warn]</seg>
       </tuv>
     </tu>
     <tu>
@@ -12383,6 +12399,14 @@ or that patent license was granted, prior to 28 March 2007.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20200128T141757Z" creationid="suzume" creationdate="20200128T141648Z">
         <seg>Un script distribué avec OmegaT et nommé Switch Colour Theme fournit un thème sombre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A script file to run when a project event is triggered.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230321T151303Z" creationid="Anand" creationdate="20230321T151303Z">
+        <seg>Un fichier script à exécuter lorsqu'un évènement survient dans un projet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41944,6 +41968,14 @@ impose that choice.</seg>
       </tuv>
       <tuv lang="fr">
         <seg>Réduire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Minimize the output shown on the command line.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230321T151156Z" creationid="Anand" creationdate="20230321T151137Z">
+        <seg>Réduit les sorties affichées sur la ligne de commande.</seg>
       </tuv>
     </tu>
     <tu>
