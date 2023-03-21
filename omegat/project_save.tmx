@@ -64364,6 +64364,14 @@ freedom to share and change it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The local repository is used to add the initial project to the server, and can also be used for maintenance tasks, such as deleting files, that cannot be performed directly within OmegaT.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230321T191835Z" creationid="Anand" creationdate="20230321T191835Z">
+        <seg>Le dépôt local est utilisé pour ajouter le projet initial au serveur, et peut aussi être utilisé pour des tâches de maintenance qui ne peuvent pas être effectuées directement dans OmegaT, comme la suppression de fichiers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The location depends on the operating system and launch options.</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T195421Z" creationid="Léo Delaune" creationdate="20230306T195421Z">
@@ -74319,6 +74327,14 @@ la configuration actuelle est de {0} Mo ;</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130527T151209Z">
         <seg>Utilisez-la si vous voulez qu'OmegaT ne synchronise pas le contenu du projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use it to make modifications that affect the entire team.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230321T191517Z" creationid="Anand" creationdate="20230321T191517Z">
+        <seg>Utilisez-la pour effectuer des modifications qui affecteront l'ensemble de l'équipe.</seg>
       </tuv>
     </tu>
     <tu>
