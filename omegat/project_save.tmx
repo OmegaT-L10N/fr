@@ -64068,8 +64068,8 @@ freedom to share and change it.</seg>
       <tuv lang="en">
         <seg>The location of the default configuration folder varies by system (the &lt;e0&gt;~&lt;/e0&gt; character represents your home folder):</seg>
       </tuv>
-      <tuv lang="fr" changeid="sirine" changedate="20230321T132326Z" creationid="sirine" creationdate="20230321T132326Z">
-        <seg>L'emplacement du dossier de configuration par défaut varie selon le système (le caractère &lt;e0&gt;~&lt;/e0&gt; représente votre dossier personnel)  :</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230321T132645Z" creationid="sirine" creationdate="20230321T132326Z">
+        <seg>L'emplacement du dossier de configuration par défaut varie selon le système (le caractère &lt;e0&gt;~&lt;/e0&gt; représente votre dossier local)  :</seg>
       </tuv>
     </tu>
     <tu>
@@ -78435,6 +78435,14 @@ installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="fr" changeid="Anand" changedate="20230301T100556Z" creationid="Anand" creationdate="20230301T100556Z">
         <seg>Vous pouvez trier les filtres selon leur nom ou selon qu'ils soient activés ou non. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can specify a configuration folder other than the default when you start OmegaT from the command line.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230321T132909Z" creationid="sirine" creationdate="20230321T132909Z">
+        <seg>Vous pouvez préciser un dossier de configuration autre que celui défini par défaut lorsque vous démarrez OmegaT à partir de la ligne de commande.</seg>
       </tuv>
     </tu>
     <tu>
