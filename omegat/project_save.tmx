@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_02bf2621" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4389,6 +4389,14 @@ Désactiver la fonctionnalité de projets en équipe.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--pseudotranslatetmx=&lt;e0&gt;&lt;path&gt;&lt;/e0&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230321T144522Z" creationid="Anand" creationdate="20230321T144522Z">
+        <seg>--pseudotranslatetmx=&lt;e0&gt;&lt;chemin&gt;&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--pseudotranslatetmx=&lt;p0&gt;allsegments.tmx&lt;/p0&gt; --pseudotranslatetype=&lt;p1&gt;equal|empty&lt;/p1&gt;</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210202T073320Z" creationid="suzume" creationdate="20210202T073320Z">
@@ -4401,6 +4409,14 @@ Désactiver la fonctionnalité de projets en équipe.</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T104541Z">
         <seg>--pseudotranslatetmx=allsegments.tmx --pseudotranslatetype=[equal|empty]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--pseudotranslatetype=[equal|empty]</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230321T144619Z" creationid="Anand" creationdate="20230321T144619Z">
+        <seg>--pseudotranslatetype=[equal|empty]</seg>
       </tuv>
     </tu>
     <tu>
@@ -35676,6 +35692,14 @@ patent against the party.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In this mode OmegaT will create a TMX for the whole project using only the source files.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230321T144431Z" creationid="Anand" creationdate="20230321T144431Z">
+        <seg>Dans ce mode, OmegaT va créer un fichier TMX pour l'ensemble du projet en utilisant uniquement les fichiers sources.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In this mode OmegaT will create a TMX for the whole project, based on the source files only.</seg>
       </tuv>
       <tuv lang="fr" changeid="brigitte" changedate="20130714T133455Z">
@@ -58240,6 +58264,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Specify the TMX file to be created with:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230321T144512Z" creationid="Anand" creationdate="20230321T144512Z">
+        <seg>Spécifiez le fichier TMX qui sera créé avec :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Specify the encoding for your plain text files</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130422T150633Z">
@@ -64746,6 +64778,14 @@ sure this has not already been reported.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20220919T094401Z" creationid="suzume" creationdate="20220919T094401Z">
         <seg>Le fichier d'origine est enregistré sous forme de sauvegarde : {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The output pseudotranslated TMX file.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230321T144559Z" creationid="Anand" creationdate="20230321T144559Z">
+        <seg>Le fichier TMX résultant contenant une pseudo-traduction.</seg>
       </tuv>
     </tu>
     <tu>
