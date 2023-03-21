@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_02bf2621" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13221,6 +13221,14 @@ covered by this License; they are outside its scope.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Additional contents</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230321T144115Z" creationid="sirine" creationdate="20230321T144115Z">
+        <seg>Contenu supplémentaire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Additional layouts can be added as plugins.</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230308T165129Z" creationid="Léo Delaune" creationdate="20230307T132851Z">
@@ -24935,8 +24943,8 @@ by the Free Software Foundation.</seg>
       <tuv lang="en">
         <seg>EditorShortcuts.properties</seg>
       </tuv>
-      <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T210323Z" creationid="Léo Delaune" creationdate="20230305T210323Z">
-        <seg> EditorShortcuts.properties</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230321T144120Z" creationid="Léo Delaune" creationdate="20230305T210323Z">
+        <seg>EditorShortcuts.properties</seg>
       </tuv>
     </tu>
     <tu>
@@ -40511,8 +40519,8 @@ La version Mac intègre un JRE.</seg>
       <tuv lang="en">
         <seg>MainMenuShortcuts.properties</seg>
       </tuv>
-      <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T210322Z" creationid="Léo Delaune" creationdate="20230305T210322Z">
-        <seg> MainMenuShortcuts.properties</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230321T144148Z" creationid="Léo Delaune" creationdate="20230305T210322Z">
+        <seg>MainMenuShortcuts.properties</seg>
       </tuv>
     </tu>
     <tu>
@@ -69238,6 +69246,46 @@ this version will not interfere with it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This parameter file contains customized autotext parameters.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230321T144546Z" creationid="sirine" creationdate="20230321T144546Z">
+        <seg>Ce fichier de paramètres contient les paramètres personnalisés de l'insertion automatque.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This parameter file contains customized editor shortcuts.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230321T144139Z" creationid="sirine" creationdate="20230321T144139Z">
+        <seg>Ce fichier de paramètres contient des raccourcis personnalisés pour l'éditeur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This parameter file contains customized external search parameters.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230321T144309Z" creationid="sirine" creationdate="20230321T144309Z">
+        <seg>Ce fichier de paramètres contient des paramètres de recherche externe personnalisés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This parameter file contains customized file filters.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230321T144242Z" creationid="sirine" creationdate="20230321T144242Z">
+        <seg>Ce fichier de paramètres contient des filtres de fichiers personnalisés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This parameter file contains customized user interface shortcuts.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230321T144220Z" creationid="sirine" creationdate="20230321T144220Z">
+        <seg>Ce fichier de paramètres contient des raccourcis personnalisés pour l'interface utilisataire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This plan shows what translation/localization work has already been done on OmegaT, and what work is currently in progress.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
@@ -82784,6 +82832,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>finder.xml</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230321T144251Z" creationid="sirine" creationdate="20230321T144251Z">
+        <seg>finder.xml</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>first join the &lt;u0&gt;user group&lt;/u0&gt; (via web or by sending an email to &lt;u1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt;-subscribe@yahoogroups.com&lt;/u1&gt;).</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130527T133024Z">
@@ -86961,6 +87017,14 @@ Ok. </note>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130424T080706Z">
         <seg>dossier omegat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>omegat.autotext</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230321T144312Z" creationid="sirine" creationdate="20230321T144312Z">
+        <seg>omegat.autotext</seg>
       </tuv>
     </tu>
     <tu>
