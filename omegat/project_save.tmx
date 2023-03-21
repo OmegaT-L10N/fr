@@ -21086,6 +21086,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Creating a project gives it a core hierarchy, but its final structure is not fixed.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230321T005644Z" creationid="Léo Delaune" creationdate="20230321T005644Z">
+        <seg>La création d'un projet lui confère une hiérarchie de base, mais sa structure finale n'est pas figée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Creating a repository</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210201T140310Z">
@@ -28222,6 +28230,14 @@ know their rights.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130528T082555Z">
         <seg>Par exemple, si vous avez un fichier texte tchèque (très vraisemblablement écrit dans le code &lt;e2&gt;ISO-8859-2&lt;/e2&gt;) il vous suffit de faire passer l'extension de &lt;l3&gt;.txt&lt;/l3&gt; à &lt;l4&gt;.txt2 &lt;/l4&gt;pour qu'&lt;a5&gt;OmegaT&lt;/a5&gt; puisse interpréter le contenu correctement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, you can</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230321T005558Z" creationid="Léo Delaune" creationdate="20230321T005558Z">
+        <seg>Par exemple, vous pouvez</seg>
       </tuv>
     </tu>
     <tu>
@@ -81043,6 +81059,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>create the translated files in a shared folder outside the project folder, in a location easily accessible to your reviewer, or</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230321T005609Z" creationid="Léo Delaune" creationdate="20230321T005609Z">
+        <seg>créer les fichiers traduits dans un dossier partagé en dehors du dossier du projet, dans un endroit facilement accessible à votre réviseur, ou</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>cs</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T095905Z">
@@ -89364,6 +89388,22 @@ Ok. </note>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210111T122144Z" creationid="suzume" creationdate="20210111T122144Z">
         <seg>utiliser &lt;m0&gt; &lt;g1&gt;Projet&lt;/g1&gt; &lt;g2&gt;Envoyer les fichiers source&lt;/g2&gt; &lt;/m0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>use a glossary folder from a separate but related project, or</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230321T005623Z" creationid="Léo Delaune" creationdate="20230321T005623Z">
+        <seg>utiliser un dossier de glossaire provenant d'un projet distinct mais connexe, ou</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>use a reference translation memory folder that you have set up for related projects, and so on.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230321T005633Z" creationid="Léo Delaune" creationdate="20230321T005633Z">
+        <seg>utiliser un dossier de mémoire de traduction de référence que vous avez créé pour des projets connexes, etc.</seg>
       </tuv>
     </tu>
     <tu>
