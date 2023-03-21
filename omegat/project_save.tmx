@@ -33591,6 +33591,14 @@ free software which everyone can redistribute and change under these terms.</seg
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you do not use the default configuration folder, all modifications made in the &lt;l0&gt;preferences&lt;/l0&gt; will be stored in the specified configuration folder and will not appear when you resume work with the default configuration folder.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230321T133507Z" creationid="sirine" creationdate="20230321T133507Z">
+        <seg>Les modifications apportées dans les &lt;l0&gt;préférences&lt;/l0&gt; seront stockées dans le dossier de configuration précisé et n'apparaîtront pas lorsque vous reprendrez le travail avec le dossier de configuration par défaut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you do not wish &lt;a0&gt;OmegaT&lt;/a0&gt; to send your source segments to Google to get translated, untick the Google Translate menu entry in Options.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130503T124437Z">
@@ -42006,6 +42014,14 @@ impose that choice.</seg>
       </tuv>
       <tuv lang="fr" changeid="Anand" changedate="20230301T102859Z" creationid="Anand" creationdate="20230301T102009Z">
         <seg>Les modifications des filtres de fichiers locaux sont enregistrées dans le fichier &lt;l0/&gt; , situé dans le dossier du projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Modified preferences are stored in the configuration folder used by the project.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230321T133256Z" creationid="sirine" creationdate="20230321T133207Z">
+        <seg>Les préférences modifiées sont stockées dans le dossier de configuration du projet.</seg>
       </tuv>
     </tu>
     <tu>
