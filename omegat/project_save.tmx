@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_02bf2621" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -47262,16 +47262,16 @@ redontant URL
       <tuv lang="en">
         <seg>Only translate &lt;f0&gt;test.html&lt;/f0&gt; file in the source folder itself.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230320T192018Z" creationid="Anand" creationdate="20230320T192018Z">
-        <seg>Ne traduire que le fichier &lt;f0&gt;test.html&lt;/f0&gt; dans le dossier source même.</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230321T144054Z" creationid="Anand" creationdate="20230320T192018Z">
+        <seg>Traduire seulement le fichier &lt;f0&gt;test.html&lt;/f0&gt; dans le dossier source même.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Only translate the &lt;f0&gt;test.html&lt;/f0&gt; file in the &lt;f1&gt;dir-10&lt;/f1&gt; folder.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230320T192201Z" creationid="Anand" creationdate="20230320T192123Z">
-        <seg>Ne traduire que le fichier &lt;f0&gt;test.html&lt;/f0&gt; dans le dossier &lt;f1&gt;dir-10&lt;/f1&gt;.</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230321T144108Z" creationid="Anand" creationdate="20230320T192123Z">
+        <seg>Traduire seulement le fichier &lt;f0&gt;test.html&lt;/f0&gt; dans le dossier &lt;f1&gt;dir-10&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
