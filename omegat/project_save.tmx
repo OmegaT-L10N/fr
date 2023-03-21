@@ -20727,6 +20727,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Count &amp;flagged text and custom tags in statistics</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230321T052443Z" creationid="suzume" creationdate="20230321T052443Z">
+        <seg>Comptabilisation du texte signalé et des balises personnalisées dans les statistiques</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Count &amp;protected text and custom tags in statistics</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20150514T135207Z" creationid="Didier" creationdate="20150514T135207Z">
@@ -21845,6 +21853,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230301T100314Z" creationid="sirine" creationdate="20230301T100314Z">
         <seg>Balises personnalisées</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Custom tags (regular expression):</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230321T052540Z" creationid="suzume" creationdate="20230321T052516Z">
+        <seg>Balises personnalisées (expression régulière) :</seg>
       </tuv>
     </tu>
     <tu>
@@ -27490,6 +27506,14 @@ patents.</seg>
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230301T101026Z" creationid="sirine" creationdate="20230301T101026Z">
         <seg>Texte signalé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Flagged text (regular expression):</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230321T052535Z" creationid="suzume" creationdate="20230321T052535Z">
+        <seg>Texte signalé (expression régulière) :</seg>
       </tuv>
     </tu>
     <tu>
