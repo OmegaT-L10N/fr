@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_02bf2621" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -35756,6 +35756,14 @@ patent against the party.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In this mode, OmegaT will align the files in the /source folder of the project with those at the location specified by the &lt;e0&gt;--alignDir&lt;/e0&gt; parameter.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230321T145104Z" creationid="Anand" creationdate="20230321T145104Z">
+        <seg>Dans ce mode, OmegaT va aligner les fichiers du dossier /source du projet avec ceux qui se trouvent à l'emplacement spécifié par le paramètre &lt;e0&gt;--alignDir&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In this mode, OmegaT will attempt to translate the files in /source/ with the available translation memories.</seg>
       </tuv>
       <tuv lang="fr" changeid="brigitte" changedate="20130714T133439Z">
@@ -59132,6 +59140,14 @@ address new problems or concerns.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Supported filters include: ILIAS Language File, Java(TM) Resource Bundles, Key=Value Text, Magento CE Locale CSV, MoodlePHP, Mozilla DTD, Mozilla FTL, PO, RC, SubRip Subtitles, and Windows Resources.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230321T145815Z" creationid="Anand" creationdate="20230321T145642Z">
+        <seg>Parmi les filtres pris en charge, il y a : Fichier de langue ILIAS, Paquets de ressources Java(TM), Texte clé=valeur, Localisation CSV Magento CE, MoodlePHP, DTD Mozilla, FTL Mozilla, PO, RC, Sous-titres SubRip, et Ressources Windows.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Suppose, for example, that you want to find instances of “OmegaT” and “omegat”, but not “OMEGAT”.</seg>
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230309T144826Z" creationid="sirine" creationdate="20230307T220432Z">
@@ -63230,6 +63246,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The file types that can be aligned depend on whether the alignment is supported by the file filter.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230321T145434Z" creationid="Anand" creationdate="20230321T145434Z">
+        <seg>Les types de fichiers qui peuvent être alignés dépendent de si l'alignement est pris en charge par le filtre de fichier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The files appear in the /script subfolder in the OmegaT user files folder, and include:</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210503T231756Z">
@@ -64808,8 +64832,8 @@ sure this has not already been reported.</seg>
       <tuv lang="en">
         <seg>The output pseudotranslated TMX file.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230321T144857Z" creationid="Anand" creationdate="20230321T144559Z">
-        <seg>Le fichier TMX pseudo-traduit en résultat.</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230321T145140Z" creationid="Anand" creationdate="20230321T144559Z">
+        <seg>Le fichier TMX pseudo-traduit produit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65372,6 +65396,14 @@ protocols for communication across the network.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130507T091915Z">
         <seg>Le résultat dépendra donc de l'ordre dans lequel les segments source ont été chargés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The resulting TMX file is saved in the /omegat folder as align.tmx.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230321T145327Z" creationid="Anand" creationdate="20230321T145327Z">
+        <seg>Le fichier TMX produit est enregistré dans le dossier /omegat sous le nom d'align.tmx.</seg>
       </tuv>
     </tu>
     <tu>
