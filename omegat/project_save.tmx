@@ -27511,6 +27511,14 @@ dommage...</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Files and folders</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230322T122724Z" creationid="sirine" creationdate="20230322T122724Z">
+        <seg>Dossiers et fichiers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Files containing formatting (ODF documents, HTML documents, etc.) are segmented on the block-level (paragraph) tags.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130506T091502Z">
@@ -50320,6 +50328,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Preference settings and project properties</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230322T122838Z" creationid="sirine" creationdate="20230322T122838Z">
+        <seg>Paramètres de préférences et propriétés du projet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Preferences</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20161227T171406Z" creationid="Didier" creationdate="20161227T171406Z">
@@ -61865,10 +61881,26 @@ form of a work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;l0/&gt; pane.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230322T122707Z" creationid="sirine" creationdate="20230322T122707Z">
+        <seg>Le volet &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;l0/&gt; preference allows you to define strings that OmegaT will mark in red by default, and treat as extraneous tags for validation purposes.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221220T114127Z" creationid="suzume" creationdate="20221220T114035Z">
         <seg>Le paramètre &lt;l0/&gt; vous permet de définir une chaîne de caractères qu'OmegaT colorera en rouge par défaut et traitera comme une balise superflue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;l0/&gt; preference.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230322T122953Z" creationid="sirine" creationdate="20230322T122953Z">
+        <seg>La préférence de &lt;l0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -61902,6 +61934,14 @@ form of a work.</seg>
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230301T101602Z" creationid="sirine" creationdate="20230301T101602Z">
         <seg>Le paramètre &lt;l0/&gt; permet de définir les chaînes de caractères qu'OmegaT mettra en évidence dans les documents alignés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;l0&gt; &lt;f1&gt;omegat.project&lt;/f1&gt; &lt;/l0&gt; file.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230322T122811Z" creationid="sirine" creationdate="20230322T122811Z">
+        <seg>Le fichier &lt;l0&gt;&lt;f1&gt;omegat.project&lt;/f1&gt;&lt;/l0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
