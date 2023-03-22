@@ -69908,6 +69908,14 @@ be a consequence of the rest of this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This step can be performed before the registering and publishing the project for the first time, and can also be used to add new files, or update existing ones after the project has been created.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230322T074716Z" creationid="Anand" creationdate="20230322T074716Z">
+        <seg>Cette étape peut être réalisée avant d'enregistrer et de publier le projet pour la première fois, et peut aussi être utilisée pour ajouter de nouveaux fichiers, ou même mettre à jour les fichiers existants après la création du projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This subfolder is initially empty.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130527T135639Z">
@@ -78103,8 +78111,8 @@ this License.</seg>
       <tuv lang="en">
         <seg>You can achieve a similar result by starting OmegaT from the command line.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230307T141213Z" creationid="Anand" creationdate="20230307T141213Z">
-        <seg>Vous pouvez atteindre un résultat similaire en ouvrant OmegaT à partir d'une ligne de commande.</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230322T074448Z" creationid="Anand" creationdate="20230307T141213Z">
+        <seg>Vous pouvez atteindre un résultat similaire en ouvrant OmegaT à partir de la ligne de commande.</seg>
       </tuv>
     </tu>
     <tu>
@@ -79727,6 +79735,14 @@ source code.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20211120T090745Z" creationid="suzume" creationdate="20211120T090745Z">
         <seg>Vous devez ensuite utiliser &lt;k6&gt;&lt;k7&gt;Ctrl&lt;/k7&gt;&lt;k8&gt;M&lt;/k8&gt;&lt;/k6&gt; une deuxième fois pour insérer la suggestion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You must use your SVN or Git client, or the command line, to add and publish any dictionaries, glossaries, translation memories or other files you want to include in the project.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230322T074519Z" creationid="Anand" creationdate="20230322T074439Z">
+        <seg>Vous devez utiliser votre client SVN ou Git, ou la ligne de commande, pour ajouter et publier tout dictionnaire, glossaire, mémoire de traduction, ou autre fichier que vous souhaitez inclure dans le projet.</seg>
       </tuv>
     </tu>
     <tu>
