@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_02bf2621" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -50511,6 +50511,14 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Principles</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230322T100730Z" creationid="sirine" creationdate="20230322T100730Z">
+        <seg>Les principes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Printf variables - do not check, check simple, check all</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130417T090028Z">
@@ -76334,6 +76342,14 @@ any other work released this way by its authors.</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T104310Z">
         <seg>Webster's Revised Unabridged Dictionary (1913)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Welcome to OmegaT, a computer-assisted translation (CAT) tool that offers great flexibility, performance and robustness, as well as features beyond those of commercial offerings, even for beginning translators.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230322T101337Z" creationid="sirine" creationdate="20230322T101337Z">
+        <seg>Bienvenue sur OmegaT, un outil de traduction assistée par ordinateur (TAO) offrant une grande flexibilité, des performances et une robustesse exceptionnelles, ainsi que des fonctionnalités dépassant celles proposées par les offres commerciales, même pour les traducteurs débutants.</seg>
       </tuv>
     </tu>
     <tu>
