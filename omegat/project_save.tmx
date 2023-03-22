@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_02bf2621" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4911,6 +4911,14 @@ Valider les balises.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>...</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230322T121303Z" creationid="Léo Delaune" creationdate="20230322T121303Z">
+        <seg>...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>... matches the following</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130506T123656Z">
@@ -7550,6 +7558,14 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210129T121657Z" creationid="suzume" creationdate="20210129T121657Z">
         <seg>&lt;excludes&gt;**/*.bak&lt;/excludes&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;external_command&gt;&lt;/external_command&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230322T121309Z" creationid="Léo Delaune" creationdate="20230322T121309Z">
+        <seg>&lt;external_command&gt;&lt;/external_command&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12347,6 +12363,14 @@ or that patent license was granted, prior to 28 March 2007.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A project is a folder containing, at a minimum, the following:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230322T122239Z" creationid="Léo Delaune" creationdate="20230322T122239Z">
+        <seg>Un projet est un dossier contenant au minimum les éléments suivants:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A project's tmx will be upgraded only once, and will be written in upgraded form into the &lt;f0&gt;project-save.tmx&lt;/f0&gt;; legacy tmx files will be upgraded on the fly each time the project is loaded.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021550Z">
@@ -15188,6 +15212,14 @@ void, and will automatically terminate your rights under this License.</seg>
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230302T191757Z" creationid="sirine" creationdate="20230301T110208Z">
         <seg>Toute expression donnée soit &lt;e0&gt;correspond&lt;/e0&gt;, soit &lt;e1&gt;ne &lt;e2&gt;correspond&lt;/e2&gt; pas&lt;/e1&gt; à un mot, une phrase ou une autre séquence textuelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Any given folder that contains a valid &lt;f0&gt;omegat.project&lt;/f0&gt; file will be recognized as a translation project by OmegaT (even if it later needs manual adjustments).</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230322T121253Z" creationid="Léo Delaune" creationdate="20230322T121253Z">
+        <seg>Tout dossier contenant un fichier &lt;f0&gt;omegat.project&lt;/f0&gt; valide sera reconnu comme projet de traduction par OmegaT (même si des ajustements manuels sont nécessaires par la suite).</seg>
       </tuv>
     </tu>
     <tu>
@@ -32954,6 +32986,14 @@ countries not thus excluded.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the folder is an empty repository and the &lt;f0&gt;omegat.project&lt;/f0&gt; file contains remote repository information, the project will be recognized as a team project by OmegaT:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230322T121302Z" creationid="Léo Delaune" creationdate="20230322T121302Z">
+        <seg>Si le dossier est un dépôt vide et que le fichier &lt;f0&gt;omegat.project&lt;/f0&gt; contient des informations sur le dépôt distant, le projet sera reconnu par OmegaT comme un projet d'équipe :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the language is not available, OmegaT defaults to English even if the system uses a different default language.</seg>
       </tuv>
       <tuv lang="fr" changeid="Anand" changedate="20230318T144110Z" creationid="Anand" creationdate="20230318T144110Z">
@@ -42240,6 +42280,14 @@ impose that choice.</seg>
       </tuv>
       <tuv lang="fr" changeid="brigitte" changedate="20130205T195408Z">
         <seg>OmegaT – article (2012)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Minimal contents</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230322T122227Z" creationid="Léo Delaune" creationdate="20230322T122227Z">
+        <seg>Contenu minimal</seg>
       </tuv>
     </tu>
     <tu>
@@ -69572,6 +69620,14 @@ this version will not interfere with it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This is the project folder that always contains &lt;l0/&gt;, the project translation memory, and &lt;l1/&gt;, the statistics data file for the project.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230322T122331Z" creationid="Léo Delaune" creationdate="20230322T122331Z">
+        <seg>Il s'agit du dossier du projet qui contient toujours &lt;l0/&gt;, la mémoire de traduction du projet, et &lt;l1/&gt;, le fichier de données statistiques du projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This is the standard behavior.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130418T132510Z">
@@ -78678,6 +78734,14 @@ Spotlight search field.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also create OmegaT projects either manually or with scripts by copying a set of prewritten files to a new folder:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230322T121203Z" creationid="Léo Delaune" creationdate="20230322T121203Z">
+        <seg>Vous pouvez également créer des projets OmegaT manuellement ou à l'aide de scripts en copiant un ensemble de fichiers pré-écrits dans un nouveau dossier :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can also define and save sets of options in scripts that you can then use to launch OmegaT for a particular purpose.</seg>
       </tuv>
       <tuv lang="fr" changeid="Anand" changedate="20230316T081145Z" creationid="Anand" creationdate="20230316T081145Z">
@@ -78873,6 +78937,14 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
       </tuv>
       <tuv lang="fr" changeid="Anand" changedate="20230316T075536Z" creationid="Anand" creationdate="20230316T075536Z">
         <seg>Vous pouvez également utiliser AppleScript, Automator ou Raccourcis pour créer des services ou des scripts qui vont automatiser des actions fréquentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can always remove or add files and folders to the project.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230322T121151Z" creationid="Léo Delaune" creationdate="20230322T121151Z">
+        <seg>Vous pouvez à tout moment supprimer ou ajouter des fichiers et des dossiers au projet.</seg>
       </tuv>
     </tu>
     <tu>
