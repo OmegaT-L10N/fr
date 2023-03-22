@@ -27547,6 +27547,14 @@ patents.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Finally, publish your project to the remote server (&lt;c0&gt;commit&lt;/c0&gt; in SVN, &lt;c1&gt;commit&lt;/c1&gt; and &lt;c2&gt;push&lt;/c2&gt; in Git).</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230322T075856Z" creationid="Anand" creationdate="20230322T075805Z">
+        <seg>Enfin, publiez votre projet sur le serveur distant (&lt;c0&gt;commit&lt;/c0&gt; sur SVN, &lt;c1&gt;commit&lt;/c1&gt; et &lt;c2&gt;push&lt;/c2&gt; sur Git).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Finally, save the changes with &lt;e0&gt;File - Save.&lt;/e0&gt;</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130419T163802Z">
@@ -33761,8 +33769,8 @@ been installed in ROM).</seg>
       <tuv lang="en">
         <seg>If you created the project from the GUI, you then have to explicitly add it to the version control system (&lt;c0&gt;add&lt;/c0&gt; in both SVN and Git).</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230322T075520Z" creationid="Anand" creationdate="20230322T075343Z">
-        <seg>Si vous avez créé le projet à partir de l'interface graphique, vous devrez alors explicitement l'ajouter au logiciel de gestion de version (&lt;c0&gt;ajouter&lt;/c0&gt; dans SVN et Git).</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230322T075813Z" creationid="Anand" creationdate="20230322T075343Z">
+        <seg>Si vous avez créé le projet à partir de l'interface graphique, vous devrez alors explicitement l'ajouter au logiciel de gestion de version (&lt;c0&gt;add&lt;/c0&gt; dans SVN et Git).</seg>
       </tuv>
     </tu>
     <tu>
