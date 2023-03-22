@@ -41101,6 +41101,14 @@ La version Mac intègre un JRE.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Make sure that you enter the correct languages and that all other locations requiring a language code match the code you assign here.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230322T124628Z" creationid="sirine" creationdate="20230322T124628Z">
+        <seg>Assurez-vous de saisir les bonnes langues et que tous les autres emplacements nécessitant un code de langue correspondent au code que vous attribuez ici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Make sure that you have a free Microsoft account.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130527T151059Z">
@@ -74828,6 +74836,15 @@ la configuration actuelle est de {0} Mo ;</seg>
       </tuv>
       <tuv lang="fr" changeid="Anand" changedate="20230308T113222Z" creationid="Anand" creationdate="20230308T113222Z">
         <seg>Utilisez &lt;l0/&gt;&lt;l1/&gt; afin d'afficher la boîte de dialogue &lt;g2&gt;Télécharger projet en équipe&lt;/g2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(sirine) faute de frappe dans la source: "the project,."</note>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to come back to this dialog after you have created the project,.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230322T124804Z" creationid="sirine" creationdate="20230322T124804Z">
+        <seg>Utilisez &lt;l0/&gt;&lt;l1/&gt; pour revenir à cette boîte de dialogue après avoir créé le projet.</seg>
       </tuv>
     </tu>
     <tu>
