@@ -33759,6 +33759,14 @@ been installed in ROM).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you created the project from the GUI, you then have to explicitly add it to the version control system (&lt;c0&gt;add&lt;/c0&gt; in both SVN and Git).</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230322T075343Z" creationid="Anand" creationdate="20230322T075343Z">
+        <seg>Si vous avez créé le projet à partir de l'interface graphique, vous devrez alors explicitement l'ajouter au logiciel de gestion de </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you decide mid-translation to switch from sentence to paragraph translation, the internal translation memory of the project will not be changed (OmegaT may upgrade old translation memories that did not use sentence segmentation, but not vice versa), but OmegaT will attemp to create paragraph fuzzy matches by glueing together existing sentence translations.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20151111T092947Z" creationid="Didier" creationdate="20151111T092947Z">
@@ -51802,6 +51810,14 @@ ces mots : « pas de page »...</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Register the project files into the local VCS</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230322T075156Z" creationid="Anand" creationdate="20230322T075156Z">
+        <seg>Enregistrez les fichiers du projet dans le logiciel de gestion de version local</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Regular expression</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130424T075858Z">
@@ -57786,6 +57802,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T025125Z">
         <seg>Certains formats de fichiers conçus spécialement pour le travail de traduction (ex. : les fichiers PO) permettent l'ajout de commentaires.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some plugins can make this task easier.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230322T075116Z" creationid="Anand" creationdate="20230322T075116Z">
+        <seg>Certaines extensions peuvent faciliter cette tâche.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66645,6 +66669,14 @@ making modifications to it.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130507T073217Z">
         <seg>L'équipe peut aussi utiliser la même structure de sous-dossiers pour les fichiers cible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The team project administrator must use the local VCS to &lt;e0&gt;modify&lt;/e0&gt; or &lt;e1&gt;delete&lt;/e1&gt; those files.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230322T075053Z" creationid="Anand" creationdate="20230322T075053Z">
+        <seg>L'administrateur du projet en équipe doit utiliser le logiciel de gestion de version local pour &lt;e0&gt;modifier&lt;/e0&gt; ou &lt;e1&gt;supprimer&lt;/e1&gt; ces fichiers.</seg>
       </tuv>
     </tu>
     <tu>
