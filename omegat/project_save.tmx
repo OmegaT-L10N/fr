@@ -12979,6 +12979,14 @@ or that patent license was granted, prior to 28 March 2007.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Accessing a team project requires the following information:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230322T080136Z" creationid="Anand" creationdate="20230322T080136Z">
+        <seg>L'accès à un projet en équipe nécessite les informations suivantes :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Accessing the TaaS service</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20141202T221453Z" creationid="Didier" creationdate="20141202T221453Z">
@@ -13614,6 +13622,14 @@ this License without regard to the additional permissions.</seg>
       </tuv>
       <tuv lang="fr" changeid="Anand" changedate="20230308T111509Z" creationid="Anand" creationdate="20230308T111509Z">
         <seg>Une fois le projet téléchargé, il est installé localement et il suffit de l'ouvrir localement afin de le synchroniser avec le serveur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After the project is ready and has been uploaded to the server, the team project administrator has to set up access for the translators.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230322T080113Z" creationid="Anand" creationdate="20230322T080113Z">
+        <seg>Une fois le projet prêt et téléchargé sur le serveur, l'administrateur du projet en équipe doit configurer l'accès pour les traducteurs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29596,6 +29612,14 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20230316T073810Z" creationid="suzume" creationdate="20220919T094500Z">
         <seg>Notification Git : {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Give access rights to your team</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230322T075910Z" creationid="Anand" creationdate="20230322T075910Z">
+        <seg>Donnez les droits d'accès à votre équipe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51051,6 +51075,14 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130412T120647Z">
         <seg>Les projets peuvent être gérés en fonction de votre mode de développement et de vos besoins.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Projects on a hosting service</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230322T080158Z" creationid="Anand" creationdate="20230322T080158Z">
+        <seg>Projets sur un service d'hébergement</seg>
       </tuv>
     </tu>
     <tu>
