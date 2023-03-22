@@ -17392,6 +17392,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By default, that folder is the project folder itself but you can change its location to make it more practical to share exported TM files.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230322T133646Z" creationid="Léo Delaune" creationdate="20230322T133646Z">
+        <seg>Par défaut, ce dossier est le dossier du projet lui-même, mais vous pouvez modifier son emplacement pour rendre plus pratique le partage des fichiers TM exportés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default, the /tm folder is below the project's root folder (e.g. ...&lt;e0&gt;/MyProject/tm&lt;/e0&gt;), but you can choose a different folder in the project properties dialog if you wish.</seg>
       </tuv>
       <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210520T154833Z">
@@ -28425,6 +28433,23 @@ Par exemple, &lt;e0&gt;point suivi d'un espace&lt;/e0&gt; définit généralemen
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20211117T131013Z" creationid="suzume" creationdate="20211117T131013Z">
         <seg>Par exemple, &lt;l2&gt;user.language=ja&lt;/l2&gt; (sans le &lt;l3&gt;#&lt;/l3&gt;) lancera OmegaT avec l'interface utilisateur en japonais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, a 10% penalty folder within the machine translation folder: &lt;f0&gt;tm/mt/penalty-010&lt;/f0&gt; would never generate 100% matches that could otherwise be automatically inserted by OmegaT, and would always set a red background to the match whenever it is inserted.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230322T133627Z" creationid="Léo Delaune" creationdate="20230322T133556Z">
+        <seg>Par exemple, un dossier de pénalité de 10 % dans le dossier de traduction automatique : &lt;f0&gt;tm/mt/pénalité-010&lt;/f0&gt; ne générerait jamais de correspondances à 100 % qui pourraient autrement être insérées automatiquement par OmegaT, et placerait toujours un arrière-plan rouge sur la correspondance chaque fois qu'elle est insérée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, a 100% match in a TMX, stored in a folder called &lt;f0&gt;penalty-30&lt;/f0&gt; becomes a 70% match.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230322T133501Z" creationid="Léo Delaune" creationdate="20230322T133501Z">
+        <seg>Par exemple, une correspondance de 100 % dans un TMX, stocké dans un dossier appelé &lt;f0&gt;pénalité-30&lt;/f0&gt; devient une correspondance de 70 %.
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -54937,6 +54962,14 @@ La recherche port par défaut sur le projet, et peut porter sur tout fichier sit
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Scores of 75, 80 and 90 for a match are lowered to 45, 50 and 60.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230322T133521Z" creationid="Léo Delaune" creationdate="20230322T133521Z">
+        <seg>Les scores de 75, 80 et 90 pour une correspondance sont ramenés à 45, 50 et 60.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Scottish Gaelic, Gaelic</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130411T091151Z">
@@ -56107,6 +56140,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
       <tuv lang="fr" changeid="Anand" changedate="20230315T160630Z" creationid="Anand" creationdate="20230301T102820Z">
         <seg>Voir le chapitre &lt;l1/&gt; pour en savoir plus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the &lt;l1/&gt; how-to for details.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230322T133548Z" creationid="Léo Delaune" creationdate="20230322T133548Z">
+        <seg>Consultez le guide pratique &lt;l3/&gt; pour en savoir plus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65993,6 +66034,15 @@ sure this has not already been reported.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20161227T171202Z" creationid="Didier" creationdate="20161227T171202Z">
         <seg>Les mots de passe ne correspondent pas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The penalty applies to all three match percentages.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230322T133510Z" creationid="Léo Delaune" creationdate="20230322T133510Z">
+        <seg>La pénalité s'applique aux trois pourcentages de correspondance.
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -79810,6 +79860,15 @@ your programs, too.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can combine folders to create new functions.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230322T133604Z" creationid="Léo Delaune" creationdate="20230322T133553Z">
+        <seg>Vous pouvez combiner des dossiers pour créer de nouvelles fonctions.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can copy the default OmegaT shortcut files from the OmegaT development site on Sourceforge to &lt;l0&gt;your configuration folder&lt;/l0&gt; and modify them to suit your needs:</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20230316T080353Z" creationid="Léo Delaune" creationdate="20230302T173105Z">
@@ -79950,6 +80009,14 @@ your programs, too.</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230318T130427Z" creationid="Léo Delaune" creationdate="20230318T130427Z">
         <seg>Vous pouvez définir ces commandes ici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can display a third language &lt;e0&gt;right under&lt;/e0&gt; the source segment to use as a third language reference.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230322T133532Z" creationid="Léo Delaune" creationdate="20230322T133532Z">
+        <seg>Vous pouvez afficher une troisième langue &lt;e0&gt;directement sous&lt;/e0&gt; le segment source pour l'utiliser comme référence de troisième langue.</seg>
       </tuv>
     </tu>
     <tu>
@@ -84438,6 +84505,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210129T102927Z" creationid="suzume" creationdate="20210129T102927Z">
         <seg>excludes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>exported tms folder</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230322T133638Z" creationid="Léo Delaune" creationdate="20230322T133638Z">
+        <seg>dossier tms exporté</seg>
       </tuv>
     </tu>
     <tu>
@@ -91042,6 +91117,14 @@ Ok. </note>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130424T085101Z">
         <seg>Dossiers tm/penalty-xxx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tm/tmx2source</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230322T133522Z" creationid="Léo Delaune" creationdate="20230322T133522Z">
+        <seg>[correspondance]tm</seg>
       </tuv>
     </tu>
     <tu>
