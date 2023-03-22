@@ -57479,6 +57479,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Similarly, links to the various parts of the manual are displayed in a way that make it easier to identify the function of the linked item.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230322T122047Z" creationid="sirine" creationdate="20230322T122047Z">
+        <seg>De même, les liens vers les différentes parties du manuel sont présentés de manière à identifier plus facilement la fonction de l'élément lié.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Similarly, use &lt;u0&gt;&lt;/?[^&gt;]+&gt;&lt;/u0&gt; to make sure that HTML (or similar) tags entered into the source text are preserved without modification in the translation.</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230318T121702Z" creationid="Léo Delaune" creationdate="20230318T121702Z">
@@ -62658,6 +62666,14 @@ Program (independent of having been made by running the Program).</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130418T225839Z">
         <seg>L'opération consistant à exécuter le Programme n'est soumise à aucune limitation et les sorties du programme ne sont couvertes que si leur contenu constitue un ouvrage fondé sur le Programme (indépendamment du fait qu'il ait été réalisé par l'exécution du Programme).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The action associated with an item also hints at its function in case the display fails to convey the visual differences: &lt;e0&gt;use&lt;/e0&gt; a menu item, or &lt;e1&gt;click&lt;/e1&gt; on a button.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230322T121919Z" creationid="sirine" creationdate="20230322T121919Z">
+        <seg>L'action associée à un élément indique également sa fonction au cas où l'affichage ne permettrait pas de mettre en évidence les différences visuelles : &lt;e0&gt;utiliser&lt;/e0&gt; un élément de menu, ou &lt;e1&gt;cliquer&lt;/e1&gt; sur un bouton.</seg>
       </tuv>
     </tu>
     <tu>
