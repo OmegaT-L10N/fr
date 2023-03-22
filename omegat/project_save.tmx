@@ -33424,6 +33424,22 @@ authors' reputations.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If they &lt;e0&gt;do need&lt;/e0&gt; to remain immutable to further changes, leave the TMX in &lt;f1&gt;tm/enforce&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230322T130654Z" creationid="Léo Delaune" creationdate="20230322T130654Z">
+        <seg>Si ils &lt;e0&gt;ont besoin&lt;/e0&gt; de rester immuables à d'autres changements, laissez le TMX dans &lt;f1&gt;tm/enforce&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If they &lt;e0&gt;don't need&lt;/e0&gt; to remain immutable to further changes, remove the TMX from &lt;f1&gt;tm/enforce&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230322T130531Z" creationid="Léo Delaune" creationdate="20230322T130531Z">
+        <seg>S'ils &lt;e0&gt;n'ont pas besoin&lt;/e0&gt; de rester immuables aux modifications ultérieures, supprimez la TMX de &lt;f1&gt;tm/enforce&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If they &lt;e0&gt;don't need&lt;/e0&gt; to stay immune from further changes, then remove the TMX from /tm/enforce.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160718T160051Z" creationid="Didier" creationdate="20160718T160051Z">
@@ -34288,6 +34304,14 @@ OmegaT is to use Java Web Start.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20211117T151147Z" creationid="suzume" creationdate="20211117T151147Z">
         <seg>Si vous êtes certains qu'une TMX est plus à jour que &lt;f0&gt;project_save.tmx&lt;/f0&gt; d'OmegaT, placez cette TMX dans &lt;f1&gt;tm/enforce&lt;/f1&gt; pour remplacer les traductions existantes par défaut inconditionnellement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you have no doubt that a given TMX contains more accurate translations than the current &lt;f0&gt;project_save.tmx&lt;/f0&gt; file, put that TMX in the &lt;f1&gt;tm/enforce&lt;/f1&gt; folder to overwrite the existing translations unconditionally.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230322T130414Z" creationid="Léo Delaune" creationdate="20230322T130414Z">
+        <seg>Si vous n'avez aucun doute sur le fait qu'un TMX donné contient des traductions plus précises que le fichier &lt;f0&gt;project_save.tmx&lt;/f0&gt; actuel, placez ce TMX dans le dossier &lt;f1&gt;tm/enforce&lt;/f1&gt; pour écraser les traductions existantes sans condition.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41133,9 +41157,26 @@ La version Mac intègre un JRE.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Make a decision about the immutability of the enforced segments:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230322T130522Z" creationid="Léo Delaune" creationdate="20230322T130522Z">
+        <seg>Prenez une décision concernant la pérennité des segments renforcés :
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Make a minor change anywhere in the project and save it.</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230322T130111Z" creationid="Léo Delaune" creationdate="20230322T130111Z">
+        <seg>Effectuez une modification mineure n'importe où dans le projet et enregistrez-la.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Make a minor change anywhere in the project and save.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230322T130454Z" creationid="Léo Delaune" creationdate="20230322T130454Z">
         <seg>Effectuez une modification mineure n'importe où dans le projet et enregistrez-la.</seg>
       </tuv>
     </tu>
@@ -51794,6 +51835,14 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
         <seg>Put the applicable memories in the &lt;f0&gt;tm/auto&lt;/f0&gt; folder.</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230322T130019Z" creationid="Léo Delaune" creationdate="20230322T130019Z">
+        <seg>Placez les mémoires applicables dans le dossier &lt;f0&gt;tm/auto&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Put the applicable memories in the &lt;f0&gt;tm/enforce&lt;/f0&gt; folder.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230322T130423Z" creationid="Léo Delaune" creationdate="20230322T130423Z">
         <seg>Placez les mémoires applicables dans le dossier &lt;f0&gt;tm/auto&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
@@ -70779,6 +70828,14 @@ be a consequence of the rest of this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This updates the project translation memory.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230322T130501Z" creationid="Léo Delaune" creationdate="20230322T130501Z">
+        <seg>Cela met à jour la mémoire de traduction du projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This version of the JRE will only be used locally for OmegaT, will not conflict with, override or uninstall any other JRE installations, and is therefore safe to use.</seg>
       </tuv>
       <tuv lang="fr" changeid="briglegrand" changedate="20110130T165053Z">
@@ -73527,6 +73584,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230322T125939Z" creationid="Léo Delaune" creationdate="20230322T125939Z">
         <seg>Les traductions provenant de ce dossier sont considérées comme étant &lt;e0&gt;aussi&lt;/e0&gt; fiables que la mémoire du projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translations coming from this folder are considered to be &lt;e0&gt;more&lt;/e0&gt; reliable than the current project memory.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230322T130401Z" creationid="Léo Delaune" creationdate="20230322T130401Z">
+        <seg>Les traductions provenant de ce dossier sont considérées comme étant &lt;e0&gt;plus&lt;/e0&gt; fiables que la mémoire actuelle du projet.</seg>
       </tuv>
     </tu>
     <tu>
