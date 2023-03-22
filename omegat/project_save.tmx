@@ -33295,8 +33295,8 @@ when it starts in an interactive mode:</seg>
       <tuv lang="en">
         <seg>If the server uses SSH authentication, make sure you update your SSH configuration to include that server before attempting to download the project, otherwise you will get an authentication error and the project will fail to load.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230308T122656Z" creationid="Anand" creationdate="20230308T122656Z">
-        <seg>Si le serveur utilise une authentification SSH, veillez à mettre à jour votre configuration SSH afin d'inclure ce serveur avant d'essayer de télécharger le projet, autrement vous obtiendrez une erreur d'authentification et le chargement du projet va échouer.</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230322T194635Z" creationid="Anand" creationdate="20230308T122656Z">
+        <seg>Si le serveur utilise une authentification SSH, veillez à mettre à jour votre configuration SSH afin d'inclure ce serveur avant d'essayer de télécharger le projet, sinon vous rencontrerez une erreur d'authentification et le chargement du projet échouera.</seg>
       </tuv>
     </tu>
     <tu>
