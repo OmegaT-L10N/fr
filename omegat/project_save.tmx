@@ -33028,6 +33028,14 @@ when it starts in an interactive mode:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the server is self-hosted and does not have a provision for translators to register an account themselves, the team project administrator must create accounts with write access for the translators.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230322T080722Z" creationid="Anand" creationdate="20230322T080722Z">
+        <seg>Si le serveur est auto-hébergé et n'a pas de </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the server relies on username/password authentication, OmegaT will present you with an &lt;g0&gt;Authentication&lt;/g0&gt; dialog to enter your username and password either when you first download the project or later on in the process.</seg>
       </tuv>
       <tuv lang="fr" changeid="Anand" changedate="20230308T122115Z" creationid="Anand" creationdate="20230308T122115Z">
