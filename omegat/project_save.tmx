@@ -34514,6 +34514,14 @@ OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you remove a TMX file from &lt;f0&gt;tm/auto&lt;/f0&gt; before Step 3, its content will not be kept.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230322T130231Z" creationid="Léo Delaune" creationdate="20230322T130231Z">
+        <seg>Si vous retirez un fichier TMX du dossier &lt;f0&gt;tm/auto&lt;/f0&gt; avant l'étape 3, son contenu ne sera pas conservé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you right click on the Editor pane, a pop-up menu opens, offering&lt;e0&gt; Cut, Copy, Paste&lt;/e0&gt; (i.e. same functions as &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;X&lt;/k3&gt; &lt;/k1&gt;, &lt;k4&gt; &lt;k5&gt;Ctrl&lt;/k5&gt; &lt;k6&gt;C&lt;/k6&gt; &lt;/k4&gt; and &lt;k7&gt; &lt;k8&gt;Ctrl&lt;/k8&gt; &lt;k9&gt;V&lt;/k9&gt; &lt;/k7&gt;) and the &lt;e10&gt;GoTo segment&lt;/e10&gt; functions.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130528T124819Z">
@@ -41121,6 +41129,14 @@ La version Mac intègre un JRE.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130506T093916Z">
         <seg>Il est préférable d'éviter de trop modifier les règles de segmentation, surtout si le premier jet de la traduction a déjà été effectué. Néanmoins, des changements mineurs (comme l'ajout d'abréviations reconnues) peuvent s'avérer intéressants.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Make a minor change anywhere in the project and save it.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230322T130111Z" creationid="Léo Delaune" creationdate="20230322T130111Z">
+        <seg>Effectuez une modification mineure n'importe où dans le projet et enregistrez-la.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69701,6 +69717,15 @@ under the terms of this General Public License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This folder is made for reliable references files that are also meant to automatically overwrite previously translated contents.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230322T130312Z" creationid="Léo Delaune" creationdate="20230322T130312Z">
+        <seg>Ce dossier est destiné aux fichiers de référence fiables qui ont également pour but d'écraser automatiquement les contenus précédemment traduits.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This folder provides the standard location for manually installed OmegaT extension plugins.</seg>
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230321T145237Z" creationid="sirine" creationdate="20230321T145237Z">
@@ -70810,6 +70835,14 @@ projet depuis le serveur.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130429T125250Z">
         <seg>Le projet sera alors extrait dans un dossier local.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This will add the translations loaded from the tm/auto folder to the project translation memory.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230322T130118Z" creationid="Léo Delaune" creationdate="20230322T130118Z">
+        <seg>Cela ajoutera les traductions chargées à partir du dossier tm/auto à la mémoire de traduction du projet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -73507,6 +73540,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translations from TMX files placed in this folder are automatically inserted in matching segments without the fuzzy match prefix, making it unnecessary to confirm these segments.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230322T130350Z" creationid="Léo Delaune" creationdate="20230322T130350Z">
+        <seg>Les traductions des fichiers TMX placés dans ce dossier sont automatiquement insérées dans les segments correspondants sans le préfixe "correspondance partielle", ce qui rend inutile la confirmation de ces segments.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translator comments:</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20230320T145432Z">
@@ -75130,6 +75171,14 @@ la configuration actuelle est de {0} Mo ;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to highlight them.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230322T130105Z" creationid="Léo Delaune" creationdate="20230322T130105Z">
+        <seg>Utilisez &lt;l0/&gt;&lt;l1/&gt; pour les mettre en évidence.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; to identify segments that belong to the same paragraph.</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230316T095612Z" creationid="Léo Delaune" creationdate="20230316T095612Z">
@@ -75616,6 +75665,14 @@ la configuration actuelle est de {0} Mo ;</seg>
       </tuv>
       <tuv lang="fr" changeid="Anand" changedate="20230321T191155Z" creationid="Anand" creationdate="20230321T191155Z">
         <seg>Utilisez le logiciel de gestion de version local pour créer une copie locale (clone).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the navigation menus found in &lt;l0/&gt;&lt;l1/&gt; to navigate to the inserted segments.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230322T130223Z" creationid="Léo Delaune" creationdate="20230322T130223Z">
+        <seg>Utilisez les menus de navigation qui se trouvent dans &lt;l0/&gt;&lt;l1/&gt; pour naviguer vers les segments insérés.</seg>
       </tuv>
     </tu>
     <tu>
@@ -80900,6 +80957,14 @@ them.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20201203T113134Z" creationid="suzume" creationdate="20201203T113113Z">
         <seg>Il vous fera redémarrer OmegaT pour que ces modifications prennent effet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You will see that segments identical to source segments in those memories are already filled in.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230322T130057Z" creationid="Léo Delaune" creationdate="20230322T130057Z">
+        <seg>Vous verrez que les segments identiques aux segments sources dans ces mémoires sont déjà remplis.</seg>
       </tuv>
     </tu>
     <tu>
