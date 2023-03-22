@@ -21120,8 +21120,8 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       <tuv lang="en">
         <seg>Create an empty repository on your VCS hosting server</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230321T190910Z" creationid="Anand" creationdate="20230321T190537Z">
-        <seg>Créer un dépôt vide sur votre serveur d'hébergement du logiciel de gestion de version</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230322T064952Z" creationid="Anand" creationdate="20230321T190537Z">
+        <seg>Créez un dépôt vide sur votre serveur d'hébergement du logiciel de gestion de version</seg>
       </tuv>
     </tu>
     <tu>
@@ -21154,6 +21154,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130502T083828Z">
         <seg>S'il n'existe pas, commencez par créer le dossier « plugins ».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create the project structure</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230322T065050Z" creationid="Anand" creationdate="20230322T065050Z">
+        <seg>Créez la structure du projet</seg>
       </tuv>
     </tu>
     <tu>
@@ -27434,6 +27442,14 @@ dommage...</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Fill the empty local copy with a real OmegaT project</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230322T065040Z" creationid="Anand" creationdate="20230322T064949Z">
+        <seg>Remplissez la copie locale vide avec un vrai projet OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Filter</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20120914T162016Z">
@@ -33359,6 +33375,14 @@ Public License instead of this License.</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20170911T160903Z" creationid="briac" creationdate="20170911T160903Z">
         <seg>Si vous ne savez pas quelle version utiliser, vous pouvez utiliser le &lt;a0&gt;Sélecteur de téléchargement&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you are creating a new empty project, you can follow the &lt;l0&gt;GUI procedure&lt;/l0&gt;, or create it directly from the command line: &lt;c1&gt;java -jar OmegaT.jar team init &lt;source language&gt; &lt;target language&gt;&lt;/c1&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230322T072722Z" creationid="Anand" creationdate="20230322T072722Z">
+        <seg>Si vous créez un nouveau projet vide, vous pouvez suivre la &lt;l0&gt;procédure via interface graphique&lt;/l0&gt;, ou directement le créer à partir de la ligne de commande : &lt;c1&gt;java -jar OmegaT.jar team init &lt;langue source&gt; &lt;langue cible&gt;&lt;/c1&gt;</seg>
       </tuv>
     </tu>
     <tu>
