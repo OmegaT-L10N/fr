@@ -33395,6 +33395,14 @@ Public License instead of this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you are converting an existing project, make sure you delete any files in the project that you do not need or want to upload to the server before proceeding to the next step.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230322T074118Z" creationid="Anand" creationdate="20230322T074118Z">
+        <seg>Si vous convertissez un projet déjà existant, veillez à supprimer tout fichier du projet dont vous n'avez pas besoin ou que vous ne souhaitez pas envoyer au serveur avant de passer à la prochaine étape.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you are creating a new empty project, you can follow the &lt;l0&gt;GUI procedure&lt;/l0&gt;, or create it directly from the command line: &lt;c1&gt;java -jar OmegaT.jar team init &lt;source language&gt; &lt;target language&gt;&lt;/c1&gt;</seg>
       </tuv>
       <tuv lang="fr" changeid="Anand" changedate="20230322T072722Z" creationid="Anand" creationdate="20230322T072722Z">
@@ -54989,6 +54997,14 @@ La recherche port par défaut sur le projet, et peut porter sur tout fichier sit
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130430T114515Z">
         <seg>Voir le&lt;l0&gt;chapitre Glossaires&lt;/l0&gt; pour plus d'informations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See &lt;l0&gt;spellchecker files&lt;/l0&gt; for details.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230322T073754Z" creationid="Anand" creationdate="20230322T073754Z">
+        <seg>Voir &lt;l0&gt;fichiers de vérification orthographique&lt;/l0&gt; pour en savoir plus.</seg>
       </tuv>
     </tu>
     <tu>
