@@ -56553,6 +56553,22 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Send a URL and ask the translators to use &lt;l0/&gt;&lt;l1/&gt; to create a local copy of the project on their own system.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230322T084123Z" creationid="Anand" creationdate="20230322T084123Z">
+        <seg>Envoyer un URL et demander aux traducteurs d'utiliser &lt;l0/&gt;&lt;l1/&gt; pour créer une copie locale du projet sur leur propre système.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Send an &lt;f0&gt;omegat.project&lt;/f0&gt; file containing the project URL, and then have the translators copy it to an empty folder and open it in OmegaT.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230322T084304Z" creationid="Anand" creationdate="20230322T084137Z">
+        <seg>Envoyer un fichier &lt;f0&gt;omegat.project&lt;/f0&gt; qui contient l'URL du projet, et ensuite demander aux traducteurs de le copier dans un dossier vide et l'ouvrir dans OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Sentence level segmentation</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130423T154610Z">
@@ -68466,6 +68482,14 @@ under the terms of this General Public License.</seg>
       </tuv>
       <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210521T093049Z" creationid="suzume" creationdate="20210129T094745Z">
         <seg>Http (qui inclut https), svn, git ou file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This can be useful if the project is set up to use different &lt;l1&gt;mappings&lt;/l1&gt; for each translator.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230322T084343Z" creationid="Anand" creationdate="20230322T084343Z">
+        <seg>Ceci peut être utile si le projet est destiné à utiliser des &lt;l1&gt;mises en correspondance&lt;/l1&gt; différentes pour chaque traducteur.</seg>
       </tuv>
     </tu>
     <tu>
