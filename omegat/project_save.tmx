@@ -17272,6 +17272,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By default, resources include the project’s translation memory, which is automatically created upon project creation, and the files to translate.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230322T105814Z" creationid="sirine" creationdate="20230322T105758Z">
+        <seg>Les ressources comprennent par défaut la mémoire de traduction du projet, qui est automatiquement créée lors de la création du projet, et des fichiers à traduire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default, scripts are stored in the "scripts" folder located in OmegaT installation folder (the folder that contains the OmegaT.jar).</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20141202T171449Z" creationid="Didier" creationdate="20141202T171449Z">
@@ -68048,6 +68056,14 @@ pas de page...</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130415T142653Z">
         <seg>Ce sont les fichiers que vous utilisez quotidiennement pour vos traductions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They can also include reference translation memories, glossaries, and other reference files.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230322T105845Z" creationid="sirine" creationdate="20230322T105845Z">
+        <seg>Elles peuvent également inclure des mémoires de traduction de référence, des glossaires et d'autres fichiers de référence.</seg>
       </tuv>
     </tu>
     <tu>
