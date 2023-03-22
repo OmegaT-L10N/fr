@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_02bf2621" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -17083,6 +17083,14 @@ entire whole, and thus to each and every part regardless of who wrote it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Buttons</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230322T122524Z" creationid="sirine" creationdate="20230322T122524Z">
+        <seg>Boutons</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By Arno Peters and Mariëtte van Drunen (in Dutch).</seg>
       </tuv>
       <tuv lang="fr" changeid="briglegrand" changedate="20120622T172238Z">
@@ -19130,6 +19138,14 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130415T095332Z">
         <seg>Cliquez sur le bouton &lt;g1&gt;Fichiers et filtres...&lt;/g1&gt; et cochez la case &lt;g2&gt;Appliquez des paramètres de filtres de fichiers spécifiques au projet&lt;/g2&gt;&lt;i3/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;l0/&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230322T122532Z" creationid="sirine" creationdate="20230322T122532Z">
+        <seg>Cliquez sur &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42092,6 +42108,22 @@ impose that choice.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Menu items with a default shortcut</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230322T122220Z" creationid="sirine" creationdate="20230322T122220Z">
+        <seg>Éléments du menu avec un raccourci par défaut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Menu items with no default shortcut</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230322T122436Z" creationid="sirine" creationdate="20230322T122436Z">
+        <seg>Éléments du menu sans raccourci par défaut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Menus</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20190222T085101Z" creationid="Didier" creationdate="20190222T085101Z">
@@ -49074,6 +49106,14 @@ mirage, pas de page...</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20200724T172859Z" creationid="briac" creationdate="20200724T172859Z">
         <seg>Volets</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Panes, windows, dialogs</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230322T122633Z" creationid="sirine" creationdate="20230322T122633Z">
+        <seg>Volets, fenêtres et boîtes de dialogue</seg>
       </tuv>
     </tu>
     <tu>
@@ -74669,6 +74709,14 @@ la configuration actuelle est de {0} Mo ;</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230321T005549Z" creationid="Léo Delaune" creationdate="20230321T005549Z">
         <seg>Utilisez &lt;l0/&gt;&lt;l1/&gt; pour attribuer facilement des emplacements autres que ceux par défaut aux différentes ressources, soit lors de la création du projet, soit ultérieurement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230322T122403Z" creationid="sirine" creationdate="20230322T122403Z">
+        <seg>Utilisez &lt;l0/&gt;&lt;l1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
