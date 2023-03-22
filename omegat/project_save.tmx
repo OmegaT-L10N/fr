@@ -33761,8 +33761,8 @@ been installed in ROM).</seg>
       <tuv lang="en">
         <seg>If you created the project from the GUI, you then have to explicitly add it to the version control system (&lt;c0&gt;add&lt;/c0&gt; in both SVN and Git).</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230322T075343Z" creationid="Anand" creationdate="20230322T075343Z">
-        <seg>Si vous avez créé le projet à partir de l'interface graphique, vous devrez alors explicitement l'ajouter au logiciel de gestion de </seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230322T075520Z" creationid="Anand" creationdate="20230322T075343Z">
+        <seg>Si vous avez créé le projet à partir de l'interface graphique, vous devrez alors explicitement l'ajouter au logiciel de gestion de version (&lt;c0&gt;ajouter&lt;/c0&gt; dans SVN et Git).</seg>
       </tuv>
     </tu>
     <tu>
@@ -51275,6 +51275,14 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20211117T151156Z" creationid="suzume" creationdate="20211117T151156Z">
         <seg>Placez la TMX dans &lt;f0&gt;tm/enforce&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Put the registered files on the hosting server</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230322T075627Z" creationid="Anand" creationdate="20230322T075627Z">
+        <seg>Placez les fichiers enregistrés dans le serveur d'hébergement</seg>
       </tuv>
     </tu>
     <tu>
