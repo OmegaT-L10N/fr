@@ -14620,6 +14620,14 @@ the predecessor has it or can get it with reasonable efforts.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An OmegaT translation project consists of a number of resources stored in separate folders, of an &lt;l0&gt;&lt;f1&gt;omegat.project&lt;/f1&gt;&lt;/l0&gt; file that stores the location of all the resources and of a &lt;l2&gt;&lt;f3&gt;project_save.tmx&lt;/f3&gt;&lt;/l2&gt; translation memory file that stores all the translations made while working on that project.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230322T101730Z" creationid="sirine" creationdate="20230322T101730Z">
+        <seg>Un projet de traduction OmegaT est constitué de plusieurs ressources stockées dans différents dossiers, ainsi que de deux fichiers : un fichier &lt;l0&gt;&lt;f1&gt;omegat.project&lt;/f1&gt;&lt;/l0&gt; qui indique où se trouvent toutes les ressources, et un fichier de mémoire de traduction &lt;l2&gt;&lt;f3&gt;project_save.tmx&lt;/f3&gt;&lt;/l2&gt; qui contient toutes les traductions effectuées pendant le travail sur ce projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An area for setting project folders</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130422T145448Z">
@@ -72752,6 +72760,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20140203T140534Z" creationid="Didier" creationdate="20140203T140534Z">
         <seg>Traduction seulement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translation project</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230322T101516Z" creationid="sirine" creationdate="20230322T101516Z">
+        <seg>Projet de traduction</seg>
       </tuv>
     </tu>
     <tu>
