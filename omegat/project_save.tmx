@@ -15256,6 +15256,14 @@ void, and will automatically terminate your rights under this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Any modification to the segments that come from these memories will &lt;e2&gt;not&lt;/e2&gt; be taken into account.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230322T130707Z" creationid="Léo Delaune" creationdate="20230322T130707Z">
+        <seg>Toute modification des segments issus de ces mémoires ne sera &lt;e2&gt;pas&lt;/e2&gt; prise en compte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Any number of ranges can be defined: &lt;l0&gt;[a-zA-Z0-9]&lt;/l0&gt; means any lowercase character from “a” to “z”, or any uppercase character from “A” to “Z”, or any digit from “0” to “9”.</seg>
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230309T144917Z" creationid="sirine" creationdate="20230308T221021Z">
@@ -34542,6 +34550,14 @@ OmegaT.</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230322T130231Z" creationid="Léo Delaune" creationdate="20230322T130231Z">
         <seg>Si vous retirez un fichier TMX du dossier &lt;f0&gt;tm/auto&lt;/f0&gt; avant l'étape 3, son contenu ne sera pas conservé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you remove a TMX file from &lt;f0&gt;tm/enforce&lt;/f0&gt; before Step 3, none of the enforced translations will be kept.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230322T130720Z" creationid="Léo Delaune" creationdate="20230322T130720Z">
+        <seg>Si vous supprimez un fichier TMX de &lt;f0&gt;tm/enforce&lt;/f0&gt; avant l'étape 3, aucune des traductions imposées ne sera conservée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63265,6 +63281,14 @@ shown below.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The background colour is restored to normal when you leave the segment or when you modify the segment.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230322T131558Z" creationid="Léo Delaune" creationdate="20230322T131558Z">
+        <seg>La couleur d'arrière-plan revient à la normale lorsque vous quittez le segment ou lorsque vous le modifiez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The background is restored to normal when the segment is left.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20141202T222139Z" creationid="Didier" creationdate="20141202T222139Z">
@@ -75742,6 +75766,14 @@ la configuration actuelle est de {0} Mo ;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use the navigation menus found in &lt;l0/&gt;&lt;l1/&gt; to navigate to the segments that have been inserted.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230322T130714Z" creationid="Léo Delaune" creationdate="20230322T130714Z">
+        <seg>Utilisez les menus de navigation qui se trouvent dans &lt;l0/&gt;&lt;l1/&gt; pour naviguer vers les segments qui ont été insérés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use the search field at the top of the preferences list to look for specific items.</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T193211Z" creationid="Léo Delaune" creationdate="20230306T193211Z">
@@ -77401,6 +77433,14 @@ you have just discovered.</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230307T122843Z" creationid="Léo Delaune" creationdate="20230307T122843Z">
         <seg>Lorsqu'un terme du glossaire est un mot composé, le terme correspondra même si les mots apparaissent séparément dans le texte source. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When a match is inserted from a TMX contained in this folder, the background colour of the active segment changes to red.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230322T130740Z" creationid="Léo Delaune" creationdate="20230322T130740Z">
+        <seg>Lorsqu'une correspondance est insérée à partir d'un TMX contenu dans ce dossier, la couleur d'arrière-plan du segment actif devient rouge.</seg>
       </tuv>
     </tu>
     <tu>
