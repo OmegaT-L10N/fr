@@ -6753,6 +6753,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;In this manual:&lt;/e0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;E&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230322T123812Z" creationid="sirine" creationdate="20230322T123752Z">
+        <seg>&lt;e0&gt;Dans ce manuel  :&lt;/e0&gt;&lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;E&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Install over the existing installation.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130527T144819Z">
@@ -21230,6 +21238,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create a new project</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230322T123824Z" creationid="sirine" creationdate="20230322T123824Z">
+        <seg>Créer un nouveau projet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create a new project on ProjectLocker</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130412T114903Z">
@@ -34236,6 +34252,14 @@ OmegaT is to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you have not yet installed OmegaT, see the &lt;l0/&gt; how-to.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230322T123900Z" creationid="sirine" creationdate="20230322T123900Z">
+        <seg>Si vous n'avez pas encore installé OmegaT, consultez le guide pratique &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you have set local rules in the &lt;l0/&gt; dialog, modifications here will not be taken into account.</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230308T170547Z" creationid="Léo Delaune" creationdate="20230308T170547Z">
@@ -38826,6 +38850,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230301T154343Z" creationid="Léo Delaune" creationdate="20230301T154343Z">
         <seg>Identifiant clé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Key modifiers are identified by a single letter.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230322T123619Z" creationid="sirine" creationdate="20230322T123619Z">
+        <seg>Les modificateurs principaux sont identifiés par une seule lettre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47172,6 +47204,14 @@ disponible dans MacPorts sous le nom « py27-pysvn ».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>On Windows and Linux: &lt;k0&gt;&lt;k1&gt;Control&lt;/k1&gt;&lt;k2&gt;E&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230322T123657Z" creationid="sirine" creationdate="20230322T123657Z">
+        <seg>Sous Windows et Linux : &lt;k0&gt;&lt;k1&gt;Control&lt;/k1&gt;&lt;k2&gt;E&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>On Windows and Linux: &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;Shift&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20230316T083028Z" creationid="Léo Delaune" creationdate="20230302T161413Z">
@@ -47216,6 +47256,14 @@ disponible dans MacPorts sous le nom « py27-pysvn ».</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20230320T145432Z" creationid="Anand" creationdate="20230318T142553Z">
         <seg>Sur macOS, il est également possible d'utiliser &lt;f0&gt;OmegaT.app&lt;/f0&gt; directement dans le terminal, auquel cas les paramètres java ne peuvent pas être ajoutés :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On macOS: &lt;k0&gt;&lt;k1&gt;Command&lt;/k1&gt;&lt;k2&gt;E&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230322T123719Z" creationid="sirine" creationdate="20230322T123719Z">
+        <seg>Sous macOS : &lt;k0&gt;&lt;k1&gt;Command&lt;/k1&gt;&lt;k2&gt;E&lt;/k2&gt;&lt;/k0&gt;</seg>
       </tuv>
     </tu>
     <tu>
