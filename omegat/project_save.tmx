@@ -20629,6 +20629,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Copy the files to translate to the source/ folder, and use your SVN or Git client, or the command line, to add and publish them to the repository.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230322T074315Z" creationid="Anand" creationdate="20230322T074315Z">
+        <seg>Copiez les fichiers à traduire dans le dossier source/ et utilisez votre client SVN ou Git, ou la ligne de commande, pour les ajouter et les publier dans le dépôt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Copy the folder to a suitable folder (e.g. Applications).</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210512T155012Z" creationid="suzume" creationdate="20210201T121112Z">
@@ -74142,6 +74150,14 @@ la configuration actuelle est de {0} Mo ;</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T193121Z" creationid="Léo Delaune" creationdate="20230306T193121Z">
         <seg>Utilisez &lt;l0/&gt;&lt;l1/&gt; pour accéder à cette boîte de dialogue (le menu &lt;l2&gt;OmegaT&lt;/l2&gt; sur macOS).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to add files from OmegaT.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230322T074358Z" creationid="Anand" creationdate="20230322T074358Z">
+        <seg>Utilisez &lt;l0/&gt;&lt;l1/&gt; pour ajouter les fichiers à partir d'OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
