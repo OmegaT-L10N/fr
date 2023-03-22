@@ -19166,6 +19166,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Click on &lt;l0/&gt; or &lt;l1/&gt; and add source files.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230322T125054Z" creationid="sirine" creationdate="20230322T125054Z">
+        <seg>Cliquez sur &lt;l0/&gt; ou &lt;l1/&gt; et ajoutez les fichiers source.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Click on &lt;l0/&gt;.</seg>
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230322T122532Z" creationid="sirine" creationdate="20230322T122532Z">
@@ -35919,6 +35927,14 @@ the limitation as if written in the body of this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In the dialog, just tell OmegaT what new resource folders to use.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230322T124907Z" creationid="sirine" creationdate="20230322T124907Z">
+        <seg>Dans la boîte de dialogue, il suffit d'indiquer à OmegaT les nouveaux dossiers de ressources à utiliser.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In the editor pane, when a match is inserted from a TMX contained in a folder named &lt;e0&gt;mt&lt;/e0&gt;, the background of the active segment is changed to red.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20141202T222121Z" creationid="Didier" creationdate="20141202T222121Z">
@@ -38232,6 +38248,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="fr">
         <seg>Il installera l'environnement approprié pour votre ordinateur et l'application elle-même lors de la première exécution.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It will then just ask you to reload the project and start using the new locations.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230322T124932Z" creationid="sirine" creationdate="20230322T124932Z">
+        <seg>Il vous demandera alors de recharger le projet et commencera à utiliser les nouveaux emplacements.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61985,6 +62009,14 @@ form of a work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;l0/&gt; dialog opens next.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230322T125013Z" creationid="sirine" creationdate="20230322T125013Z">
+        <seg>Ensuite, la boîte de dialogue &lt;l0/&gt; s'ouvre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;l0/&gt; item in the &lt;l1/&gt; menu is an exception.</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T210908Z" creationid="Léo Delaune" creationdate="20230305T210704Z">
@@ -79732,6 +79764,14 @@ installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="fr" changeid="Anand" changedate="20230316T073826Z" creationid="Anand" creationdate="20230316T073713Z">
         <seg>Vous pouvez modifier le comportement du fichier OmegaT.app en modifiant le fichier &lt;f0&gt;Configuration.properties&lt;/f0&gt; (configuration d'OmegaT) ainsi que le fichier&lt;f1&gt;Info.plist&lt;/f1&gt; (configuration Java) situés à l'intérieur du paquet OmegaT.app.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can modify the structure of a project at any time after you have started translating.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230322T124852Z" creationid="sirine" creationdate="20230322T124852Z">
+        <seg>Vous pouvez modifier la structure d'un projet à tout moment après avoir commencé à traduire.</seg>
       </tuv>
     </tu>
     <tu>
