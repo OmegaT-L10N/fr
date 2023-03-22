@@ -13229,6 +13229,14 @@ covered by this License; they are outside its scope.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add the necessary files</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230322T073320Z" creationid="Anand" creationdate="20230322T073320Z">
+        <seg>Ajoutez les fichiers nécessaires</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add the new OmegaT project to the versioning system (&lt;c0&gt;add&lt;/c0&gt; with SVN and Git)</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210110T165626Z" creationid="suzume" creationdate="20210110T165626Z">
@@ -55357,6 +55365,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>See the &lt;l0/&gt; dialog for details.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230322T073259Z" creationid="Anand" creationdate="20230322T073259Z">
+        <seg>Voir la boîte de dialogue &lt;l0/&gt; pour en savoir plus.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>tag --&gt; Command line launch
 </note>
       <tuv lang="en">
@@ -57173,6 +57189,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210201T140310Z">
         <seg>Comme pour les projets OmegaT, vous devrez avoir des dépôts séparés pour les différentes paires de langues.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Similarly add any relevant lists of spellchecker files you want to make available to everyone working on the project.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230322T073723Z" creationid="Anand" creationdate="20230322T073723Z">
+        <seg>Ajoutez également toute liste de fichiers de vérification orthographique pertinente que vous souhaitez mettre à la disposition de toutes les personnes qui travaillent sur le projet.</seg>
       </tuv>
     </tu>
     <tu>
