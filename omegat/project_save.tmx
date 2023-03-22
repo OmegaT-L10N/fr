@@ -33058,6 +33058,14 @@ countries not thus excluded.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the format of your file is not listed, use third-party plugins or convert the file to a format that is supported.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230322T125339Z" creationid="sirine" creationdate="20230322T125339Z">
+        <seg>Si le format de votre fichier n'est pas répertorié, utilisez des extensions tierces ou convertissez le fichier dans un format pris en charge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the language is not available, OmegaT defaults to English even if the system uses a different default language.</seg>
       </tuv>
       <tuv lang="fr" changeid="Anand" changedate="20230318T144110Z" creationid="Anand" creationdate="20230318T144110Z">
@@ -34061,6 +34069,14 @@ free software which everyone can redistribute and change under these terms.</seg
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20150313T151531Z" creationid="Didier" creationdate="20150313T151531Z">
         <seg>Si vous ne disposez pas déjà d'un compte Azure Marketplace vous devrez d'abord en créer un.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you do not see the contents of a file in the &lt;l0/&gt; pane, that file might be empty, or in a format that is not supported by OmegaT.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230322T125200Z" creationid="sirine" creationdate="20230322T125200Z">
+        <seg>Si vous ne voyez pas le contenu d'un fichier dans le volet &lt;l0/&gt;, le fichier est peut-être vide ou dans un format qui n'est pas pris en charge par OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -74831,6 +74847,14 @@ la configuration actuelle est de {0} Mo ;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; if you don’t remember where your project is.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230322T125115Z" creationid="sirine" creationdate="20230322T125115Z">
+        <seg>Utilisez &lt;l0/&gt;&lt;l1/&gt; si vous ne vous souvenez pas de l'emplacement de votre projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; to access it directly.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20230321T051307Z" creationid="suzume" creationdate="20230321T051307Z">
@@ -74950,6 +74974,14 @@ la configuration actuelle est de {0} Mo ;</seg>
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230322T122403Z" creationid="sirine" creationdate="20230322T122403Z">
         <seg>Utilisez &lt;l0/&gt;&lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l1/&gt;&lt;l2/&gt; to open the list of supported file formats.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230322T125220Z" creationid="sirine" creationdate="20230322T125220Z">
+        <seg>Utilisez &lt;l1/&gt;&lt;l2/&gt; pour afficher la liste des formats de fichiers pris en charge.</seg>
       </tuv>
     </tu>
     <tu>
