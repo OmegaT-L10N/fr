@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_02bf2621" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -25448,6 +25448,14 @@ pas de page...</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enable the &lt;l0/&gt; option to have OmegaT remember that the inserted matches came from this folder.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230322T125947Z" creationid="Léo Delaune" creationdate="20230322T125947Z">
+        <seg>Activez l'option &lt;l0/&gt; pour qu'OmegaT se souvienne que les correspondances insérées proviennent de ce dossier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enable them in &lt;b&gt;Options &gt; Save...&lt;/b&gt;.&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130125T163541Z">
@@ -34881,6 +34889,14 @@ library.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If your translation project involves a number of folders and you feel like working on one folder at a time, use &lt;l0/&gt;&lt;l1/&gt; to access the project properties and change the assigned &lt;l2&gt;source folder&lt;/l2&gt; as you wish.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230322T124834Z" creationid="Léo Delaune" creationdate="20230322T124834Z">
+        <seg>Si votre projet de traduction comporte plusieurs dossiers et que vous souhaitez travailler sur un dossier à la fois, utilisez &lt;l0/&gt;&lt;l1/&gt; pour accéder aux propriétés du projet et modifiez le &lt;l2&gt;dossier source&lt;/l2&gt; assigné comme vous le souhaitez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If, as a consequence of a court judgment or allegation of patent
 infringement or for any other reason (not limited to patent issues),
 conditions are imposed on you (whether by court order, agreement or
@@ -37434,6 +37450,14 @@ exécutez simplement le programme d'installation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It also acts as an &lt;e0&gt;address book&lt;/e0&gt; that specifies where project resources are located.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230322T122453Z" creationid="Léo Delaune" creationdate="20230322T122453Z">
+        <seg>Il fait également office de &lt;e0&gt;carnet d'adresses&lt;/e0&gt; indiquant où se trouvent les ressources du projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It also allows to define various options related to tag validation and to define custom tags.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160322T173041Z" creationid="Didier" creationdate="20160322T173041Z">
@@ -38214,6 +38238,14 @@ dans le dossier de configuration.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221016T082045Z" creationid="suzume" creationdate="20221016T082045Z">
         <seg>Il sera créé la première fois que vous y insérerez un terme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It will be populated with the translated files every time you use &lt;l0/&gt; or &lt;l1/&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230322T124904Z" creationid="Léo Delaune" creationdate="20230322T124904Z">
+        <seg>Il sera alimenté par les fichiers traduits chaque fois que vous utiliserez &lt;l0/&gt; ou &lt;l1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42028,6 +42060,14 @@ impose that choice.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Matches from the reference memories are displayed in the &lt;l0/&gt; pane, just like matches from &lt;l1/&gt;, the project translation memory.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230322T125127Z" creationid="Léo Delaune" creationdate="20230322T125127Z">
+        <seg>Les correspondances provenant des mémoires de référence sont affichées dans le volet &lt;l0/&gt;, tout comme les correspondances provenant de &lt;l1/&gt;, la mémoire de traduction du projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Matches inserted active</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20230122T131652Z" creationid="briac" creationdate="20230122T131652Z">
@@ -45626,6 +45666,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT also creates a backup of that file (&lt;f0&gt;omegat.project.bak&lt;/f0&gt;) and will automatically use it to restore your project settings in case of need.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230322T122502Z" creationid="Léo Delaune" creationdate="20230322T122502Z">
+        <seg>OmegaT crée également une sauvegarde de ce fichier (&lt;f0&gt;omegat.project.bak&lt;/f0&gt;) et l'utilise automatiquement pour restaurer les paramètres du projet en cas de besoin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT also has the following mailing lists and trackers, which are hosted on SourceForge:</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20230320T145432Z" creationid="suzume" creationdate="20210323T155910Z">
@@ -45750,6 +45798,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210110T133513Z" creationid="suzume" creationdate="20210110T133513Z">
         <seg>OmegaT peut être installé sur tout système d'exploitation intégrant la version 1.8 de l'environnement d'exécution Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT can be instructed to automatically insert matches.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230322T125037Z" creationid="Léo Delaune" creationdate="20230322T125037Z">
+        <seg>Il est possible de demander à OmegaT d'insérer automatiquement des correspondances.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48871,6 +48927,14 @@ Afficher des informations sur l'utilisation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Other files will be added over the course of the translation.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230322T122340Z" creationid="Léo Delaune" creationdate="20230322T122340Z">
+        <seg>D'autres fichiers seront ajoutés au cours de la traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Other formatted text file types may also be handled by OmegaT by associating their file extensions to a supported file type, assuming that the corresponding segmentation rules will segment them correctly.</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130416T162710Z">
@@ -51707,6 +51771,14 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20211117T151156Z" creationid="suzume" creationdate="20211117T151156Z">
         <seg>Placez la TMX dans &lt;f0&gt;tm/enforce&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Put the applicable memories in the &lt;f0&gt;tm/auto&lt;/f0&gt; folder.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230322T130019Z" creationid="Léo Delaune" creationdate="20230322T130019Z">
+        <seg>Placez les mémoires applicables dans le dossier &lt;f0&gt;tm/auto&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55453,6 +55525,14 @@ La recherche port par défaut sur le projet, et peut porter sur tout fichier sit
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210207T055201Z" creationid="suzume" creationdate="20210207T055201Z">
         <seg>Voir &lt;l0&gt;Utiliser un projet en équipe&lt;/l0&gt; pour en savoir plus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See &lt;l0&gt;below&lt;/l0&gt; for details.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230322T122355Z" creationid="Léo Delaune" creationdate="20230322T122355Z">
+        <seg>Voir &lt;l0&gt;ci-dessous&lt;/l0&gt; pour en savoir plus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59840,6 +59920,14 @@ and then start OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Such matches are by default limited to the source and target languages defined in the &lt;l0/&gt; dialog, but you can also add matches in languages that are not the target language.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230322T125141Z" creationid="Léo Delaune" creationdate="20230322T125141Z">
+        <seg>Ces correspondances sont par défaut limitées aux langues source et cible définies dans la boîte de dialogue &lt;l0/&gt;, mais vous pouvez également ajouter des correspondances dans des langues autres que la langue cible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Such modifications are possible in ODF files for example.</seg>
       </tuv>
       <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210521T102437Z">
@@ -63490,6 +63578,14 @@ utilisé à la place.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The contents of the files in a format that OmegaT supports will be displayed in the &lt;l0/&gt; pane for translation.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230322T124756Z" creationid="Léo Delaune" creationdate="20230322T124756Z">
+        <seg>Le contenu des fichiers dans un format pris en charge par OmegaT sera affiché dans le volet &lt;l0/&gt; pour la traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The contents of the glossary pane will be updated accordingly.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130430T093704Z">
@@ -64189,6 +64285,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The files created here will reflect the current state of the translation.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230322T124920Z" creationid="Léo Delaune" creationdate="20230322T124920Z">
+        <seg>Les fichiers créés ici reflètent l'état actuel de la traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The files of this site, in a convenient package for those wishing to localize it.</seg>
       </tuv>
       <tuv lang="fr" changeid="briglegrand" changedate="20120622T171810Z">
@@ -64273,6 +64377,14 @@ instead.</seg>
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230314T151919Z" creationid="sirine" creationdate="20230314T151919Z">
         <seg>Le contraire de l'exemple précédent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The folder can contain any number of subfolders, including some that have special functions:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230322T125735Z" creationid="Léo Delaune" creationdate="20230322T125735Z">
+        <seg>Le dossier peut contenir un nombre illimité de sous-dossiers, dont certains ont des fonctions spéciales :</seg>
       </tuv>
     </tu>
     <tu>
@@ -66887,6 +66999,14 @@ making modifications to it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The source folder contains the files to translate.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230322T124743Z" creationid="Léo Delaune" creationdate="20230322T124743Z">
+        <seg>Le dossier source contient les fichiers à traduire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The source segment and the fuzzy matches must contain the same list of numbers</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130429T133757Z">
@@ -67414,6 +67534,14 @@ L'idée était que l'utilisation de certaines touches en dehors du segment coura
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20230321T051833Z" creationid="briac" creationdate="20230125T082701Z">
         <seg>Le dossier des fichiers traduits n'existe pas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The translated files that correspond to the contents of the &lt;l0/&gt; folder, whether fully translated or not, are then created here, using the same hierarchy as in the source folder.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230322T124913Z" creationid="Léo Delaune" creationdate="20230322T124913Z">
+        <seg>Les fichiers traduits correspondant au contenu du dossier &lt;l0/&gt;, qu'ils soient entièrement traduits ou non, sont alors créés ici, en utilisant la même hiérarchie que dans le dossier source.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69453,6 +69581,14 @@ under the terms of this General Public License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This file contains the project parameters defined in the &lt;l0&gt;project properties&lt;/l0&gt;, such as the source and target languages, their respective tokenizers and the type of segmentation.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230322T122435Z" creationid="Léo Delaune" creationdate="20230322T122435Z">
+        <seg>Ce fichier contient les paramètres du projet définis dans les &lt;l0&gt;propriétés du projet&lt;/l0&gt;, tels que les langues source et cible, leurs lemmatiseurs respectifs et le type de segmentation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This file defines the following parameters:</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20230320T145432Z" creationid="Anand" creationdate="20230313T145712Z">
@@ -69525,6 +69661,14 @@ under the terms of this General Public License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This folder can contain any number of bilingual reference documents (TMX files, but also any file in a bilingual format supported by OmegaT, including PO files, etc.) and the TMX files can also be compressed in the gzip format.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230322T125030Z" creationid="Léo Delaune" creationdate="20230322T125030Z">
+        <seg>Ce dossier peut contenir un nombre quelconque de documents de référence bilingues (fichiers TMX, mais aussi tout fichier dans un format bilingue pris en charge par OmegaT, y compris les fichiers PO, etc.) et les fichiers TMX peuvent également être compressés au format gzip.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This folder contains a number of log files.</seg>
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230321T135239Z" creationid="sirine" creationdate="20230321T135239Z">
@@ -69545,6 +69689,14 @@ under the terms of this General Public License.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130527T135516Z">
         <seg>À l'origine, ce dossier est vide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This folder is intended for reliable references files that can automatically fill exactly matching and not yet translated segments.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230322T125911Z" creationid="Léo Delaune" creationdate="20230322T125911Z">
+        <seg>Ce dossier est destiné aux fichiers de référence fiables qui peuvent remplir automatiquement les segments qui correspondent exactement et qui n'ont pas encore été traduits.</seg>
       </tuv>
     </tu>
     <tu>
@@ -72063,6 +72215,14 @@ you modify it: responsibilities to respect the freedom of others.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To remind you that a match was inserted by OmegaT and not by you, OmegaT adds the prefix set in the &lt;l0/&gt; preference.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230322T125117Z" creationid="Léo Delaune" creationdate="20230322T125117Z">
+        <seg>Pour vous rappeler qu'une correspondance a été insérée par OmegaT et non par vous, OmegaT ajoute le préfixe défini dans les paramètres &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To remind yourself of the project's initial settings, open the Project Settings dialog by pressing &lt;k0&gt;Ctrl+E&lt;/k0&gt;.</seg>
       </tuv>
       <tuv lang="fr" changeid="briglegrand" changedate="20120502T113752Z">
@@ -73330,6 +73490,23 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translations coming from this folder are considered to be &lt;e0&gt;as&lt;/e0&gt; reliable as the project memory.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230322T125939Z" creationid="Léo Delaune" creationdate="20230322T125939Z">
+        <seg>Les traductions provenant de ce dossier sont considérées comme étant &lt;e0&gt;aussi&lt;/e0&gt; fiables que la mémoire du projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translations from TMX files placed in this folder are automatically inserted in matching segments without the automatic prefix, making it unnecessary to confirm these segments.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230322T125929Z" creationid="Léo Delaune" creationdate="20230322T125929Z">
+        <seg>Les traductions des fichiers TMX placés dans ce dossier sont automatiquement insérées dans les segments correspondants sans le préfixe automatique, ce qui rend inutile la confirmation de ces segments.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translator comments:</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20230320T145432Z">
@@ -74411,6 +74588,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Untranslated segments will remain in the source language.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230322T124929Z" creationid="Léo Delaune" creationdate="20230322T124929Z">
+        <seg>Les segments non traduits resteront dans la langue source.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unzip the files, and put them all in the "plugins" folder located in OmegaT installation folder, that is the folder that contains the OmegaT.jar.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130527T130403Z">
@@ -74859,6 +75044,14 @@ la configuration actuelle est de {0} Mo ;</seg>
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230322T125115Z" creationid="sirine" creationdate="20230322T125115Z">
         <seg>Utilisez &lt;l0/&gt;&lt;l1/&gt; si vous ne vous souvenez pas de l'emplacement de votre projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; or drop files on the &lt;l2/&gt; pane to add files any time you want.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230322T124749Z" creationid="Léo Delaune" creationdate="20230322T124749Z">
+        <seg>Utilisez &lt;l0/&gt;&lt;l1/&gt; ou déposez des fichiers dans le volet &lt;l2/&gt; pour ajouter des fichiers à tout moment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -78929,6 +79122,14 @@ you think will help the developers with finding and fixing your bug.</seg>
       </tuv>
       <tuv lang="fr">
         <seg>Il est possible d'ajouter des copies de fichiers, des portions du journal, des copies d'écran à votre rapport, tout ce qui vous semble qui aidera les développeurs à résoudre votre problème.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can add folders or remove files with your file manager.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230322T124803Z" creationid="Léo Delaune" creationdate="20230322T124803Z">
+        <seg>Vous pouvez ajouter des dossiers ou supprimer des fichiers à l'aide de votre gestionnaire de fichiers.</seg>
       </tuv>
     </tu>
     <tu>
@@ -88392,6 +88593,14 @@ Ok. </note>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T104402Z">
         <seg>omegat.prefs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>omegat.project</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230322T122357Z" creationid="Léo Delaune" creationdate="20230322T122357Z">
+        <seg>omegat.project</seg>
       </tuv>
     </tu>
     <tu>
