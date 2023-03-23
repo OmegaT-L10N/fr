@@ -19208,8 +19208,8 @@ software--to make sure the software is free for all its users.</seg>
       <tuv lang="en">
         <seg>Click on the &lt;l0/&gt; button to display a list of dictionaries available at the URL in the &lt;g1&gt;URL of downloadable spellchecking dictionaries&lt;/g1&gt; field above that button.</seg>
       </tuv>
-      <tuv lang="fr" changeid="sirine" changedate="20230323T134428Z" creationid="sirine" creationdate="20230323T134428Z">
-        <seg>Cliquez sur le bouton &lt;l0/&gt; pour afficher la liste des dictionnaires disponibles à l'URL indiquée dans le champ &lt;g1&gt;URL des dictionnaires de correction orthographique téléchargeables&lt;/g1&gt; situé au-dessus de ce bouton.</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230323T134702Z" creationid="sirine" creationdate="20230323T134428Z">
+        <seg>Cliquez sur le bouton &lt;l0/&gt; pour afficher la liste des dictionnaires disponibles à l'URL indiquée dans le champ &lt;g1&gt;URL des dictionnaires de vérification orthographique téléchargeables&lt;/g1&gt; situé au-dessus de ce bouton.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25426,8 +25426,8 @@ pas de page...</seg>
       <tuv lang="en">
         <seg>Enable after installing a spellchecking dictionary.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Léo Delaune" changedate="20230309T101326Z" creationid="Léo Delaune" creationdate="20230309T081942Z">
-        <seg>Activé après l'installation d'un dictionnaire de correction orthographique.</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230323T134744Z" creationid="Léo Delaune" creationdate="20230309T081942Z">
+        <seg>Activé après l'installation d'un dictionnaire de vérification orthographique.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46205,8 +46205,8 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       <tuv lang="en">
         <seg>OmegaT has a built-in spellchecker but requires you to install spellchecking dictionaries based on your target languages.</seg>
       </tuv>
-      <tuv lang="fr" changeid="sirine" changedate="20230323T100914Z" creationid="Léo Delaune" creationdate="20230309T081942Z">
-        <seg>OmegaT dispose d'un correcteur d'orthographe intégré mais nécessite l'installation de dictionnaires de correction orthographique basés sur les langues cibles.</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230323T134724Z" creationid="Léo Delaune" creationdate="20230309T081942Z">
+        <seg>OmegaT dispose d'un vérificateur d'orthographe intégré mais nécessite l'installation de dictionnaires de vérification orthographique basés sur les langues cibles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47118,6 +47118,14 @@ with exactly the same structure, including copies of any non-supported files.</s
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT will download them and copy them to the spellchecking dictionaries location specified at the top of the dialog (the &lt;l1&gt;configuration&lt;/l1&gt; folder by default).</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230323T134932Z" creationid="sirine" creationdate="20230323T134932Z">
+        <seg>OmegaT les téléchargera et les copiera dans l'emplacement des dictionnaires de vérification orthographique spécifié en haut de la boîte de dialogue (le dossier &lt;l1&gt;configuration&lt;/l1&gt; par défaut).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT will erase it and will count the segment as not translated.</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230316T093404Z" creationid="Léo Delaune" creationdate="20230316T093328Z">
@@ -47405,8 +47413,8 @@ directory -&gt; folder</note>
       <tuv lang="en">
         <seg>Omegat provides a spellchecking system, but does not come with the dictionaries required to actually spellcheck your translations.</seg>
       </tuv>
-      <tuv lang="fr" changeid="sirine" changedate="20230323T132857Z" creationid="sirine" creationdate="20230323T132857Z">
-        <seg>Omegat fournit un système de correction orthographique, mais il n'inclut pas les dictionnaires nécessaires pour vérifier l'orthographe de vos traductions.</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230323T134641Z" creationid="sirine" creationdate="20230323T132857Z">
+        <seg>Omegat fournit un système de vérification orthographique, mais il n'inclut pas les dictionnaires nécessaires pour vérifier l'orthographe de vos traductions.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59433,8 +59441,8 @@ of the GPL, as needed to protect the freedom of users.</seg>
       <tuv lang="en">
         <seg>Spellchecking dictionaries location</seg>
       </tuv>
-      <tuv lang="fr" changeid="sirine" changedate="20230323T100948Z" creationid="Léo Delaune" creationdate="20230309T081942Z">
-        <seg>Emplacement des dictionnaires de correction orthographique</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230323T134757Z" creationid="Léo Delaune" creationdate="20230309T081942Z">
+        <seg>Emplacement des dictionnaires de vérification orthographique</seg>
       </tuv>
     </tu>
     <tu>
@@ -74075,8 +74083,8 @@ Les recherches exactes correspondent à l'ensemble de la chaîne recherchée.</s
       <tuv lang="en">
         <seg>URL of downloadable spellchecking dictionaries</seg>
       </tuv>
-      <tuv lang="fr" changeid="sirine" changedate="20230323T101042Z" creationid="Léo Delaune" creationdate="20230309T081942Z">
-        <seg>URL des dictionnaires de correction orthographique téléchargeables</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230323T134804Z" creationid="Léo Delaune" creationdate="20230309T081942Z">
+        <seg>URL des dictionnaires de vérification orthographique téléchargeables</seg>
       </tuv>
     </tu>
     <tu>
@@ -75841,8 +75849,8 @@ la configuration actuelle est de {0} Mo ;</seg>
       <tuv lang="en">
         <seg>Use the &lt;l0/&gt; section in the general &lt;l1/&gt; dialog to access the spellchecking preferences.</seg>
       </tuv>
-      <tuv lang="fr" changeid="sirine" changedate="20230323T133641Z" creationid="sirine" creationdate="20230323T133641Z">
-        <seg>Utilisez la section &lt;l0/&gt; du dialogue général &lt;l1/&gt; pour accéder aux préférences de correction orthographique.</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230323T134648Z" creationid="sirine" creationdate="20230323T133641Z">
+        <seg>Utilisez la section &lt;l0/&gt; du dialogue général &lt;l1/&gt; pour accéder aux préférences de vérification orthographique.</seg>
       </tuv>
     </tu>
     <tu>
