@@ -56879,6 +56879,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select as many dictionaries as you want and click the &lt;g0&gt;Install&lt;/g0&gt; button.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230323T134457Z" creationid="sirine" creationdate="20230323T134457Z">
+        <seg>Sélectionnez autant de dictionnaires que vous le souhaitez et cliquez sur le bouton &lt;g0&gt;Installer&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select how tags of non-OmegaT TMXs should be displayed</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230318T122621Z" creationid="Léo Delaune" creationdate="20230318T122621Z">
@@ -59417,8 +59425,8 @@ of the GPL, as needed to protect the freedom of users.</seg>
       <tuv lang="en">
         <seg>Spellchecking dictionaries</seg>
       </tuv>
-      <tuv lang="fr" changeid="sirine" changedate="20230323T100041Z" creationid="sirine" creationdate="20230323T095832Z">
-        <seg>Dictionnaires de correction orthographique</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230323T134623Z" creationid="sirine" creationdate="20230323T095832Z">
+        <seg>Dictionnaires de vérification orthographique</seg>
       </tuv>
     </tu>
     <tu>
@@ -59433,8 +59441,8 @@ of the GPL, as needed to protect the freedom of users.</seg>
       <tuv lang="en">
         <seg>Spellchecking dictionaries location:</seg>
       </tuv>
-      <tuv lang="fr" changeid="sirine" changedate="20230323T095837Z" creationid="sirine" creationdate="20230323T095837Z">
-        <seg>[correspondance]Localisation des dictionnaires de vérification orthographique.</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230323T134548Z" creationid="sirine" creationdate="20230323T095837Z">
+        <seg>Emplacement des dictionnaires de vérification orthographique.</seg>
       </tuv>
     </tu>
     <tu>
