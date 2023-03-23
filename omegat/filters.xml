@@ -42,7 +42,7 @@
         <option name="skipMeta" value="http-equiv=refresh,name=robots,name=revisit-after,http-equiv=expires,http-equiv=content-style-type,http-equiv=content-script-type"/>
         <option name="skipRegExp" value=""/>
         <option name="translateButtonValue" value="true"/>
-        <option name="translateHref" value="false"/>
+        <option name="translateHref" value="true"/>
         <option name="translateHreflang" value="false"/>
         <option name="translateLang" value="false"/>
         <option name="translateSrc" value="false"/>
