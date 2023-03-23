@@ -33260,6 +33260,14 @@ when it starts in an interactive mode:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the project target language is &lt;e0&gt;fr&lt;/e0&gt; and the dictionary name is &lt;e1&gt;fr_fr&lt;/e1&gt; or &lt;e2&gt;fr-fr&lt;/e2&gt;, you can either:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230323T141302Z" creationid="sirine" creationdate="20230323T141302Z">
+        <seg>Si la langue cible du projet est &lt;e0&gt;fr&lt;/e0&gt; et que le nom du dictionnaire est &lt;e1&gt;fr_fr&lt;/e1&gt; ou &lt;e2&gt;fr-fr&lt;/e2&gt;, vous pouvez soit :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the project uses specific filters and segmentation parameters, both the &lt;f0&gt;filters.xml&lt;/f0&gt; and &lt;f1&gt;segmentation.conf&lt;/f1&gt; files must be added to the versioning system and published on the server.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210111T102442Z" creationid="suzume" creationdate="20210111T102415Z">
@@ -46075,6 +46083,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT does not recognize languages automatically, and only uses a dictionary if its name matches the target language code.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230323T141203Z" creationid="sirine" creationdate="20230323T141203Z">
+        <seg>OmegaT ne reconnaît pas les langues automatiquement et n'utilise un dictionnaire que si son nom correspond au code de la langue cible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT does not support either site in any way.</seg>
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230314T162055Z" creationid="sirine" creationdate="20230314T162055Z">
@@ -51652,6 +51668,14 @@ chargé comme un projet local sans fonctionnalité d'équipe.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20151111T093725Z" creationid="Didier" creationdate="20151111T093725Z">
         <seg>Les recherches dans le projet sont effectuées par défaut sur la source et la cible, les MT de références, les glossaires, les notes et les commentaires du projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project target language code and spellchecking dictionary name</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230323T141239Z" creationid="sirine" creationdate="20230323T141239Z">
+        <seg>Code de la langue cible du projet et nom du dictionnaire de vérification orthographique</seg>
       </tuv>
     </tu>
     <tu>
@@ -91948,6 +91972,22 @@ Ok. </note>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T103559Z">
         <seg>urd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>use &lt;l0/&gt;&lt;l1/&gt; to access the &lt;l2&gt;configuration&lt;/l2&gt; folder and change the dictionary file names to &lt;e3&gt;fr&lt;/e3&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230323T141338Z" creationid="sirine" creationdate="20230323T141338Z">
+        <seg>utiliser &lt;l0/&gt;&lt;l1/&gt; pour accéder au dossier &lt;l2&gt;configuration&lt;/l2&gt; et changer les noms des fichiers du dictionnaire en &lt;e3&gt;fr&lt;/e3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>use &lt;l0/&gt;&lt;l1/&gt; to change the project target language to &lt;e2&gt;fr-fr&lt;/e2&gt;, or</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230323T141321Z" creationid="sirine" creationdate="20230323T141321Z">
+        <seg>utiliser &lt;l0/&gt;&lt;l1/&gt; pour changer la langue cible du projet en &lt;e2&gt;fr-fr&lt;/e2&gt;, ou</seg>
       </tuv>
     </tu>
     <tu>
