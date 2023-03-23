@@ -27851,6 +27851,14 @@ patents.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Find the location of that space.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230323T142656Z" creationid="sirine" creationdate="20230323T142656Z">
+        <seg>Trouvez l'emplacement de cet espace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Find words starting with a vowel that come after the article “a” rather than “an”.</seg>
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230314T152143Z" creationid="sirine" creationdate="20230314T151528Z">
@@ -30534,6 +30542,14 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160115T132543Z" creationid="Didier" creationdate="20160115T132543Z">
         <seg>Allez à https://term.tilde.com/account/keys/create?system=omegaT pour créer votre propre clé et passez-la à OmegaT avec -Dtaas.user.key=xxxxx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to the source file with &lt;l0/&gt;&lt;l1/&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230323T142557Z" creationid="sirine" creationdate="20230323T142557Z">
+        <seg>Accédez au fichier source avec &lt;l0/&gt;&lt;l1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67441,6 +67457,14 @@ making modifications to it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The standard space character is often used as a segment boundary.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230323T142444Z" creationid="sirine" creationdate="20230323T142444Z">
+        <seg>Le caractère espace standard est souvent utilisé comme limite de segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The statistics shown is available as a tab-separated &lt;f1&gt;project_stats.txt&lt;/f1&gt; file (subfolder &lt;f2&gt;omegat&lt;/f2&gt;), ready to be loaded into a spreadsheet program for the user's convenience.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130507T131036Z">
@@ -80246,6 +80270,14 @@ OmegaT-license.txt.</seg>
       <tuv lang="fr" changeid="Didier" changedate="20170210T102829Z" creationid="Didier" creationdate="20170210T102829Z">
         <seg>Vous pouvez trouver le texte de la licence dans
 OmegaT-license.txt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can follow the steps below to merge two text sections separated by a space character:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230323T142537Z" creationid="sirine" creationdate="20230323T142528Z">
+        <seg>Vous pouvez suivre les étapes ci-dessous pour fusionner deux sections de texte séparées par un caractère espace :</seg>
       </tuv>
     </tu>
     <tu>
