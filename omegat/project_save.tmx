@@ -41848,6 +41848,14 @@ impose that choice.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mapping for extra source files from the web:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230324T132123Z" creationid="Anand" creationdate="20230324T132123Z">
+        <seg>Mise en correspondance de sources supplémentaires provenant du web :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mapping for extra source files from the web: &lt;repository type="http" url="https://github.com/omegat-org/omegat/raw/master/"&gt;</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210129T133223Z" creationid="suzume" creationdate="20210129T133223Z">
@@ -66977,6 +66985,14 @@ modification follow.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The project will not load if a file specified in a mapping does not exist.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230324T132256Z" creationid="Anand" creationdate="20230324T132256Z">
+        <seg>Le projet ne chargera pas si un fichier spécifié dans une mise en correspondance n'existe pas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The project writable glossary is by default located in the &lt;l0/&gt; folder and called &lt;l1/&gt;.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221016T085316Z" creationid="suzume" creationdate="20221016T085132Z">
@@ -71050,6 +71066,14 @@ this version will not interfere with it.</seg>
         <seg>This makes it possible to rename the file to be translated.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210130T060122Z" creationid="suzume" creationdate="20210130T060122Z">
+        <seg>Ceci permet le renommage du fichier à traduire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This makes it possible to rename the file to translate.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230324T132215Z" creationid="Anand" creationdate="20230324T132215Z">
         <seg>Ceci permet le renommage du fichier à traduire.</seg>
       </tuv>
     </tu>
@@ -80244,6 +80268,14 @@ this License.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210503T232304Z">
         <seg>Vous pouvez ajouter un terme au glossaire à l'aide du raccourci clavier &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt;, ou copier d'autres glossaires dans le dossier &lt;f1&gt;./glossary&lt;/f1&gt; du projet : OmegaT y recherche automatiquement les mots associés au segment actif.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can add as many mappings as you want, but one of the mappings must include the &lt;f0&gt;omegat.project&lt;/f0&gt; file.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230324T132344Z" creationid="Anand" creationdate="20230324T132344Z">
+        <seg>Vous pouvez ajouter autant de mises en correspondance que vous souhaitez, mais une des mises en correspondance doit contenir le fichier &lt;f0&gt;omegat.project&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
