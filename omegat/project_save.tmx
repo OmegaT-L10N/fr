@@ -11910,6 +11910,22 @@ work thus licensed is called the contributor's "contributor version".</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A &lt;e0&gt;dialog&lt;/e0&gt; requires you to take action and close it before you can go back to translating.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230324T123216Z" creationid="Léo Delaune" creationdate="20230324T123216Z">
+        <seg>Un &lt;e0&gt;dialogue&lt;/e0&gt; exige que vous preniez des mesures et que vous le fermiez avant de pouvoir reprendre la traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A &lt;e0&gt;window&lt;/e0&gt; can be kept open next to the editor and lets you interact with both.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230324T123203Z" creationid="Léo Delaune" creationdate="20230324T123203Z">
+        <seg>Une &lt;e0&gt;fenêtre&lt;/e0&gt; peut rester ouverte à côté de l'éditeur et vous permet d'interagir avec les deux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A Java .properties file to use for interface text.</seg>
       </tuv>
       <tuv lang="fr" changeid="Anand" changedate="20230320T190059Z" creationid="Anand" creationdate="20230320T190059Z">
@@ -36005,6 +36021,14 @@ the scope of this License.</seg>
       </tuv>
       <tuv lang="fr">
         <seg>Cependant, il y a aussi des domaines qui exigent un certain degré de coordination.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In some operating systems, this folder is hidden by default.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230324T122921Z" creationid="Léo Delaune" creationdate="20230324T122921Z">
+        <seg>Dans certains systèmes d'exploitation, ce dossier est caché par défaut.</seg>
       </tuv>
     </tu>
     <tu>
@@ -70199,6 +70223,30 @@ under the terms of this General Public License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This file contains the project-specific GUI settings.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230324T122614Z" creationid="Léo Delaune" creationdate="20230324T122614Z">
+        <seg>Ce fichier contient les paramètres de l'interface graphique spécifiques au projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This file contains the project-specific external searches.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230324T122812Z" creationid="Léo Delaune" creationdate="20230324T122812Z">
+        <seg>Ce fichier contient les recherches externes spécifiques au projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This file contains the project-specific file filters.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230324T122430Z" creationid="Léo Delaune" creationdate="20230324T122430Z">
+        <seg>Ce fichier contient les filtres de fichiers spécifiques au projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This file contains the project-specific segmentation rules.</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230324T122403Z" creationid="Léo Delaune" creationdate="20230324T122403Z">
@@ -70239,6 +70287,14 @@ under the terms of this General Public License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This file is created if you manually change the order of the files in the &lt;l0/&gt; window.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230324T122819Z" creationid="Léo Delaune" creationdate="20230324T122819Z">
+        <seg>Ce fichier est créé si vous modifiez manuellement l'ordre des fichiers dans la fenêtre &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This file is not a plugin archive.</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20230122T131544Z" creationid="briac" creationdate="20230122T131544Z">
@@ -70251,6 +70307,14 @@ under the terms of this General Public License.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130527T140252Z">
         <seg>Ce fichier est très important. Assurez-vous de l'avoir lu avant de lancer OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This file keeps a record of the last segment you visited, including its number, its source contents, the file name and the date, so that you can come back to it when you reload/relaunch the project.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230324T122829Z" creationid="Léo Delaune" creationdate="20230324T122829Z">
+        <seg>Ce fichier conserve une trace du dernier segment visité, y compris son numéro, son contenu source, le nom du fichier et la date, afin que vous puissiez y revenir lorsque vous rechargez/relancez le projet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -74322,6 +74386,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130411T091916Z">
         <seg>Turkmène</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Turn on the option to show hidden files in your system to make it visible.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230324T122929Z" creationid="Léo Delaune" creationdate="20230324T122929Z">
+        <seg>Activez l'option d'affichage des fichiers cachés de votre système pour le rendre visible.</seg>
       </tuv>
     </tu>
     <tu>
@@ -78970,6 +79042,14 @@ la page...</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Windows and Dialogs</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230324T123142Z" creationid="Léo Delaune" creationdate="20230324T123142Z">
+        <seg>Fenêtres et dialogues</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Windows and Linux default shortcuts</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230302T173132Z" creationid="Léo Delaune" creationdate="20230302T173132Z">
@@ -80785,6 +80865,14 @@ installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="fr">
         <seg>Des opérations sur les fichiers distants (par exemple, la suppression d'un fichier) peuvent s'effectuer à partir de ce répertoire à l'aide d'un client Git ou SVN.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can make changes to the remote files (such as deleting or replacing them) by making your changes in this folder and using a Git or SVN client to synchronize them with the remote server.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230324T122858Z" creationid="Léo Delaune" creationdate="20230324T122858Z">
+        <seg>Vous pouvez apporter des modifications aux fichiers distants (comme les supprimer ou les remplacer) en effectuant vos modifications dans ce dossier et en utilisant un client Git ou SVN pour les synchroniser avec le serveur distant.</seg>
       </tuv>
     </tu>
     <tu>
@@ -85228,6 +85316,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>files_order.txt</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230324T122814Z" creationid="Léo Delaune" creationdate="20230324T122814Z">
+        <seg>files_order.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>filters.xml</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230324T122420Z">
@@ -88203,6 +88299,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20141202T223912Z">
         <seg>Lao</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>last_entry.properties</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230324T122820Z" creationid="Léo Delaune" creationdate="20230324T122820Z">
+        <seg>last_entry.properties</seg>
       </tuv>
     </tu>
     <tu>
