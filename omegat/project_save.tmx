@@ -34854,6 +34854,14 @@ OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you want to remove words from potential dictionary matches, add an &lt;f0&gt;ignore.txt&lt;/f0&gt; encoded in UTF-8 to the folder.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230324T121119Z" creationid="Léo Delaune" creationdate="20230324T121119Z">
+        <seg>Si vous souhaitez supprimer des mots des correspondances potentielles du dictionnaire, ajoutez un fichier &lt;f0&gt;ignore.txt&lt;/f0&gt; codé en UTF-8 au dossier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you want to revert to the filter's default configuration, click &lt;e1&gt;Defaults.&lt;/e1&gt; You can also modify the name directly in the target filename pattern field of the file filters dialog.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20201203T090537Z" creationid="suzume" creationdate="20201203T090537Z">
@@ -46963,6 +46971,15 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20140414T133855Z" creationid="Didier" creationdate="20140414T133855Z">
         <seg>OmegaT enregistre vos traductions et propose des traductions possibles en fonction des segments similaires présents dans les fichiers mémoires préexistants.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT supports dictionaries in the StarDict or in the Lingvo DSL format.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230324T121025Z" creationid="Léo Delaune" creationdate="20230324T121025Z">
+        <seg>OmegaT prend en charge les dictionnaires au format StarDict ou Lingvo DSL.
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -64578,6 +64595,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The file must have one word per line.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230324T121141Z" creationid="Léo Delaune" creationdate="20230324T121141Z">
+        <seg>Le fichier doit contenir un mot par ligne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The file structure must also be compatible with the filter: even if you associate &lt;l0&gt;.odt&lt;/l0&gt; to the XHMTL filter, the filter will not be able to understand the contents of a LibreOffice Writer file.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20230316T075754Z" creationid="Anand" creationdate="20230302T170537Z">
@@ -68651,6 +68676,14 @@ the [Help] menu after starting OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>There should be three files per dictionary, with extensions &lt;f0&gt;dz&lt;/f0&gt;, &lt;f1&gt;idx&lt;/f1&gt; and &lt;f2&gt;ifo&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230324T121111Z" creationid="Léo Delaune" creationdate="20230324T121111Z">
+        <seg>Il devrait y avoir trois fichiers par dictionnaire, avec les extensions &lt;f0&gt;dz&lt;/f0&gt;, &lt;f1&gt;idx&lt;/f1&gt; et &lt;f2&gt;ifo&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There should be three files, with extensions &lt;e1&gt;dz, idx &lt;/e1&gt;and &lt;e2&gt;ifo&lt;/e2&gt;.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130429T130329Z">
@@ -72308,6 +72341,14 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20211117T131112Z" creationid="suzume" creationdate="20211117T131112Z">
         <seg>Pour installer OmegaT, il suffit de décompresser le fichier &lt;f0&gt;OmegaT_4.n.n_Without_JRE.zip&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To install dictionaries:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230324T121041Z" creationid="Léo Delaune" creationdate="20230324T121041Z">
+        <seg>Pour installer les dictionnaires :</seg>
       </tuv>
     </tu>
     <tu>
@@ -80323,6 +80364,14 @@ your programs, too.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can find some dictionaries on the &lt;u0&gt;OmegaT Wiki&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230324T121034Z" creationid="Léo Delaune" creationdate="20230324T121034Z">
+        <seg>Vous pouvez trouver certains dictionnaires sur le &lt;u0&gt;Wiki OmegaT&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can find the text of the license in
 /docs/OmegaT-license.txt.</seg>
       </tuv>
@@ -84209,6 +84258,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>download the file - it should be a tarball archive (extension &lt;f0&gt;tar.bz&lt;/f0&gt; or &lt;f1&gt;tar.bz2&lt;/f1&gt;),</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230324T121055Z" creationid="Léo Delaune" creationdate="20230324T121055Z">
+        <seg>[correspondance]Téléchargez le fichier. Ce devrait être un fichier d'archive tarball (extension &lt;f0&gt;tar.bz&lt;/f0&gt; ou &lt;f1&gt;tar.bz2&lt;/f1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>dv</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T095908Z">
@@ -84797,6 +84854,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130506T133246Z">
         <seg>des espaces supplémentaires après le point à la fin de la ligne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>extract its contents into this folder.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230324T121103Z" creationid="Léo Delaune" creationdate="20230324T121103Z">
+        <seg>extrayez son contenu dans ce dossier.</seg>
       </tuv>
     </tu>
     <tu>
