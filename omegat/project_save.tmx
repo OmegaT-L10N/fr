@@ -80630,6 +80630,14 @@ Spotlight search field.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also define strings that OmegaT should warn you about if you leave them in a translation.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230324T140406Z" creationid="sirine" creationdate="20230324T140406Z">
+        <seg>Vous pouvez également définir des chaînes de caractères qu'OmegaT devrait vous signaler si vous les laissez dans une traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can also define various options relating to tag validation and define custom tags.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20201203T113558Z" creationid="suzume" creationdate="20201203T113558Z">
@@ -81123,6 +81131,14 @@ your programs, too.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130415T094821Z">
         <seg>Vous pouvez décider de ne pas traduire du tout ces segments.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can define custom tags that will be managed in the same manner.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230324T140300Z" creationid="sirine" creationdate="20230324T140300Z">
+        <seg>Vous pouvez définir des balises personnalisées qui seront gérées de la même manière.</seg>
       </tuv>
     </tu>
     <tu>
