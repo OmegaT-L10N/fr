@@ -32417,6 +32417,14 @@ need not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If a file refuses to open in LibreOffice, Word or other application, it is often due to errors in the management of OmegaT tags.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230324T140957Z" creationid="sirine" creationdate="20230324T140957Z">
+        <seg>Si un fichier refuse de s'ouvrir dans LibreOffice, Word ou une autre application, cela est souvent dû à des erreurs dans la gestion des balises OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If a given sentence has already been translated once, and translated correctly, there is no need for it to be retranslated.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130424T100850Z">
@@ -34695,6 +34703,14 @@ OmegaT.</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130415T095831Z">
         <seg>Si vous changez les filtres par la suite, seul les filtres du projet seront mis à jour, tandis que les filtres utilisateur resteront inchangés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you make mistakes when you manage the tags, your translated files might fail to open.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230324T140424Z" creationid="sirine" creationdate="20230324T140424Z">
+        <seg>Si vous faites des erreurs lors de la gestion des balises, vos fichiers traduits risquent de ne pas s'ouvrir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -76194,6 +76210,14 @@ la configuration actuelle est de {0} Mo ;</seg>
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230324T140101Z" creationid="sirine" creationdate="20230324T140101Z">
         <seg>Utilisez &lt;l0/&gt; &lt;l1/&gt; et &lt;l2/&gt; pour insérer les balises à l'emplacement indiqué par le curseur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt; &lt;l1/&gt; to check your tags before you generate your translated files.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230324T140505Z" creationid="sirine" creationdate="20230324T140505Z">
+        <seg>Utilisez &lt;l0/&gt; &lt;l1/&gt; pour vérifier vos balises avant de générer vos fichiers traduits.</seg>
       </tuv>
     </tu>
     <tu>
