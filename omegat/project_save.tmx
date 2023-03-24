@@ -57614,6 +57614,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Selective sharing</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230324T132350Z" creationid="Anand" creationdate="20230324T132350Z">
+        <seg>Partage sélectif</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Selects the previous, the next or the Nth fuzzy match displayed in the fuzzy match pane to replace or insert it to the segment.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210202T122133Z" creationid="suzume" creationdate="20210202T122133Z">
@@ -63759,6 +63767,14 @@ Essayer de corriger l'erreur et rechargez le projet.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130418T130937Z">
         <seg>La méthode ci-dessus n'est cependant pas très pratique pour lancer le programme de façon systématique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The above process describes the most common scenario, in which the team project administrator has full control of the project and all files (and statistics) are identical in all instances of the project, both on the server and the local systems of the translators.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230324T132820Z" creationid="Anand" creationdate="20230324T132820Z">
+        <seg>Le processus ci-dessus décrit le scénario le plus courant, dans lequel l'administrateur du projet en équipe a le contrôle total sur le projet et tous les fichiers (et statistiques) sont identiques dans toutes les instances du projet, que ça soit sur le serveur ou sur les systèmes locaux des traducteurs.</seg>
       </tuv>
     </tu>
     <tu>
