@@ -26453,6 +26453,14 @@ personne ne vous entend pleurer...</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Every time a project is loaded, OmegaT creates a backup of &lt;f0&gt;project_save.tmx&lt;/f0&gt; with the name &lt;f1&gt;project_save.tmx.[time stamp].bak&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230324T121831Z" creationid="Léo Delaune" creationdate="20230324T121831Z">
+        <seg>Chaque fois qu'un projet est chargé, OmegaT crée une sauvegarde de &lt;f0&gt;project_save.tmx&lt;/f0&gt; avec le nom &lt;f1&gt;project_save.tmx.[horodatage].bak&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Everyone is permitted to copy and distribute verbatim copies</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130418T224212Z">
@@ -38276,6 +38284,14 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is updated each time the project is reloaded.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230324T121855Z" creationid="Léo Delaune" creationdate="20230324T121855Z">
+        <seg>Il est mis à jour à chaque fois que le projet est rechargé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is used for testing purposes.</seg>
       </tuv>
       <tuv lang="fr" changeid="Anand" changedate="20230315T145048Z" creationid="suzume" creationdate="20221016T071225Z">
@@ -46776,6 +46792,14 @@ be launched.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20230113T163203Z" creationid="briac" creationdate="20170329T125850Z">
         <seg>OmegaT n'est pas seulement un logiciel, c'est aussi un projet passionnant dont vous pouvez également faire partie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT keeps up to 10 of those files.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230324T121837Z" creationid="Léo Delaune" creationdate="20230324T121837Z">
+        <seg>OmegaT conserve jusqu'à 10 de ces fichiers.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56521,6 +56545,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230323T142245Z" creationid="sirine" creationdate="20230322T125415Z">
         <seg>Voir le guide pratique &lt;l3/&gt; pour en savoir plus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the &lt;l4/&gt; preference for details.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230324T121812Z" creationid="Léo Delaune" creationdate="20230324T121812Z">
+        <seg>Voir le paramètre &lt;l2/&gt; pour en savoir plus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -70070,6 +70102,23 @@ under the terms of this General Public License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This file contains the latest project match statistics by file.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230324T121950Z" creationid="Léo Delaune" creationdate="20230324T121950Z">
+        <seg>Ce fichier contient les dernières statistiques de correspondance du projet par fichier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This file contains the latest project match statistics.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230324T121926Z" creationid="Léo Delaune" creationdate="20230324T121926Z">
+        <seg>Ce fichier contient les dernières statistiques de correspondance du projet.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This file contains the login information for your team project repositories.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20230320T062255Z" creationid="suzume" creationdate="20230320T062255Z">
@@ -70578,6 +70627,14 @@ this version will not interfere with it.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130418T132510Z">
         <seg>Ceci est le comportement normal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is the statistics file for the whole project.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230324T121845Z" creationid="Léo Delaune" creationdate="20230324T121845Z">
+        <seg>Il s'agit du fichier de statistiques pour l'ensemble du projet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -75716,6 +75773,14 @@ la configuration actuelle est de {0} Mo ;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to generate it.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230324T121932Z" creationid="Léo Delaune" creationdate="20230324T121932Z">
+        <seg>Utilisez &lt;l0/&gt;&lt;l1/&gt; pour le générer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; to highlight them.</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230322T130105Z" creationid="Léo Delaune" creationdate="20230322T130105Z">
@@ -75737,6 +75802,14 @@ la configuration actuelle est de {0} Mo ;</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230318T125320Z" creationid="Léo Delaune" creationdate="20230318T125320Z">
         <seg>Utilisez &lt;l0/&gt;&lt;l1/&gt; pour marquer la deuxième copie et les copies suivantes d'un segment répété.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to update it.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230324T121901Z" creationid="Léo Delaune" creationdate="20230324T121901Z">
+        <seg>Utilisez &lt;l0/&gt;&lt;l1/&gt; pour le mettre à jour.</seg>
       </tuv>
     </tu>
     <tu>
@@ -87180,6 +87253,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ignored_words.txt</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230324T122247Z" creationid="Léo Delaune" creationdate="20230324T122247Z">
+        <seg>ignored_words.txt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ignored_words.txt.</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T104357Z">
@@ -90500,10 +90581,34 @@ Ok. </note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>project_save.tmx.timestamp.bak</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230324T121816Z" creationid="Léo Delaune" creationdate="20230324T121816Z">
+        <seg>project_save.tmx.timestamp.bak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>project_stats.txt</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230324T121839Z" creationid="Léo Delaune" creationdate="20230324T121839Z">
+        <seg>project_stats.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>project_stats_match.txt</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130430T121204Z">
         <seg>Le fichier project_stats_match.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>project_stats_match_per_file.txt</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230324T121934Z" creationid="Léo Delaune" creationdate="20230324T121934Z">
+        <seg>project_stats_match_per_file.txt</seg>
       </tuv>
     </tu>
     <tu>
