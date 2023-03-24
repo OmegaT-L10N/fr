@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_02bf2621" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -22618,8 +22618,8 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       <tuv lang="en">
         <seg>Default project mapping:</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20230320T145432Z" creationid="suzume" creationdate="20210129T104652Z">
-        <seg>Mappage par défaut du projet :</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230324T131152Z" creationid="suzume" creationdate="20210129T104652Z">
+        <seg>Mise en correspondance par défaut du projet :</seg>
       </tuv>
     </tu>
     <tu>
@@ -26567,6 +26567,14 @@ The FSF strongly urges you not to use this translation as the official distribu-
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Everything in &lt;f0&gt;https://repo_for_All_OmegaT_team_project_sources&lt;/f0&gt; is mapped to the local OmegaT project source folder, except files with a &lt;f1&gt;.bak&lt;/f1&gt; extension.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230324T131923Z" creationid="Anand" creationdate="20230324T131346Z">
+        <seg>La totalité du contenu du &lt;f0&gt;https://dépôt_de_toutes_les_sources_des_projets_OmegaT_en_équipe&lt;/f0&gt; est mise en correspondance avec le dossier source du projet OmegaT, à l'exception des fichiers portant l'extension &lt;f1&gt;.bak&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ewe</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130519T100748Z">
@@ -26617,8 +26625,8 @@ The FSF strongly urges you not to use this translation as the official distribu-
       <tuv lang="en">
         <seg>Example mappings</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210129T104642Z" creationid="suzume" creationdate="20210129T104642Z">
-        <seg>Exemples de mappages</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230324T131144Z" creationid="suzume" creationdate="20210129T104642Z">
+        <seg>Exemples de mises en correspondance</seg>
       </tuv>
     </tu>
     <tu>
@@ -26627,6 +26635,14 @@ The FSF strongly urges you not to use this translation as the official distribu-
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
         <seg>Exemple :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Example: &lt;u0&gt;**/*.docx&lt;/u0&gt; to add all .docx files in the project, even if they are located in an excluded folder.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230324T130440Z" creationid="Anand" creationdate="20230324T130257Z">
+        <seg>Par exemple, le masque &lt;u0&gt;**/*.docx&lt;/u0&gt; ajoute tous les fichiers .docx au projet, même s'ils sont situés dans un dossier exclus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31743,6 +31759,14 @@ parties remain in full compliance.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210313T131737Z">
         <seg>Néanmoins, soumettre une demande d'amélioration ne conduit pas automatiquement à l'implantation de la fonction souhaitée ou de l'amélioration en question.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, the &lt;f2&gt;readme.bak&lt;/f2&gt; is also included.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230324T132024Z" creationid="Anand" creationdate="20230324T132024Z">
+        <seg>Cependant, le fichier &lt;f2&gt;readme.bak&lt;/f2&gt; est aussi inclus.</seg>
       </tuv>
     </tu>
     <tu>
