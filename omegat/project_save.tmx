@@ -14201,6 +14201,14 @@ rights of fair use or other equivalent, as provided by copyright law.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All the words contained in that list will be ignored by OmegaT.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230324T121157Z" creationid="Léo Delaune" creationdate="20230324T121157Z">
+        <seg>Tous les mots contenus dans cette liste seront ignorés par OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All translations from source documents are also displayed in the Comment pane, in addition to the Match pane.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130528T132018Z">
@@ -15697,6 +15705,14 @@ provoquer des comportements inattendus, mais corrects.</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230305T200121Z" creationid="Léo Delaune" creationdate="20230305T200121Z">
         <seg>Comme le montre le &lt;l0&gt;tableau du menu édition&lt;/l0&gt; ci-dessous, le code de la fonction &lt;g1&gt;Créer une traduction alternative&lt;/g1&gt; est &lt;c2&gt;editMultipleAlternate&lt;/c2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As soon as you have saved your modifications, they will be taken into account by OmegaT.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230324T121534Z" creationid="Léo Delaune" creationdate="20230324T121534Z">
+        <seg>Dès que vous aurez enregistré vos modifications, elles seront prises en compte par OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30270,6 +30286,14 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossary terms that match parts of the segment are displayed in the &lt;l0/&gt; pane.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230324T121243Z" creationid="Léo Delaune" creationdate="20230324T121243Z">
+        <seg>Les termes du glossaire qui correspondent à des parties du segment sont affichés dans le volet &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossary translation</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210110T094205Z" creationid="suzume" creationdate="20210110T094143Z">
@@ -37774,6 +37798,14 @@ exécutez simplement le programme d'installation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It constitutes the working translation memory of the project.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230324T121654Z" creationid="Léo Delaune" creationdate="20230324T121654Z">
+        <seg>Il constitue la mémoire de traduction de travail du projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It contains just the following line:</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
@@ -37923,6 +37955,14 @@ exécutez simplement le programme d'installation.</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130424T160620Z">
         <seg>Il est donc en mesure d'utiliser la vaste gamme de dictionnaires orthographiques gratuits utilisés par ces applications.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is created the first time you use &lt;l0/&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230324T121325Z" creationid="Léo Delaune" creationdate="20230324T121325Z">
+        <seg>Il est créé la première fois que vous l'utilisez &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38252,10 +38292,26 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is used to store the default writable glossary and any other glossaries you use in the project.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230324T121234Z" creationid="Léo Delaune" creationdate="20230324T121234Z">
+        <seg>Il est utilisé pour stocker le glossaire modifiable par défaut et tout autre glossaire utilisé dans le projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It may also be possible for developments commissioned from external developers to be implemented within OmegaT.</seg>
       </tuv>
       <tuv lang="fr">
         <seg>D'autres développements commissionnés par des développeurs externes pourront également faire l'objet d'implémentations dans OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It may also include several other files.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230324T121628Z" creationid="Léo Delaune" creationdate="20230324T121628Z">
+        <seg>Il peut également contenir plusieurs autres fichiers.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46930,6 +46986,14 @@ selecting, obtaining and installing it.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
         <seg>OmegaT reconnaît les codes de langues de ces deux conventions standards :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT regularly backs-up that file.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230324T121749Z" creationid="Léo Delaune" creationdate="20230324T121749Z">
+        <seg>OmegaT effectue régulièrement des sauvegardes de ce fichier.*</seg>
       </tuv>
     </tu>
     <tu>
@@ -62352,6 +62416,15 @@ form of a work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;f0&gt;omegat&lt;/f0&gt; folder contains, at a minimum, the &lt;l1/&gt; and &lt;l2/&gt; files.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230324T121622Z" creationid="Léo Delaune" creationdate="20230324T121622Z">
+        <seg>Le dossier &lt;f0&gt;omegat&lt;/f0&gt; contient, au minimum, les fichiers &lt;l1/&gt; et &lt;l2/&gt;.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;f0&gt;omegat&lt;/f0&gt; subfolder contains at least one and possibly several other files.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20211117T151228Z" creationid="suzume" creationdate="20211117T151228Z">
@@ -70037,6 +70110,14 @@ under the terms of this General Public License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This file is a backup of &lt;f0&gt;project_save.tmx&lt;/f0&gt; and is automatically recreated every time &lt;f1&gt;project_save.tmx&lt;/f1&gt; has been modified: either after using &lt;l2/&gt;&lt;l3/&gt;, or as a regular backup every 3 minutes by default.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230324T121803Z" creationid="Léo Delaune" creationdate="20230324T121803Z">
+        <seg>Ce fichier est une sauvegarde de &lt;f0&gt;projet_save.tmx&lt;/f0&gt; et est automatiquement recréé chaque fois que &lt;f1&gt;projet_save.tmx&lt;/f1&gt; a été modifié : soit après avoir utilisé &lt;l2/&gt;&lt;l3/&gt;, soit en tant que sauvegarde régulière toutes les 3 minutes par défaut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This file is not a plugin archive.</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20230122T131544Z" creationid="briac" creationdate="20230122T131544Z">
@@ -70469,10 +70550,26 @@ this version will not interfere with it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This is the most important file in the project.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230324T121637Z" creationid="Léo Delaune" creationdate="20230324T121637Z">
+        <seg>Il s'agit du fichier le plus important du projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This is the project folder that always contains &lt;l0/&gt;, the project translation memory, and &lt;l1/&gt;, the statistics data file for the project.</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230322T122331Z" creationid="Léo Delaune" creationdate="20230322T122331Z">
         <seg>Il s'agit du dossier du projet qui contient toujours &lt;l0/&gt;, la mémoire de traduction du projet, et &lt;l1/&gt;, le fichier de données statistiques du projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is the project writable glossary.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230324T121310Z" creationid="Léo Delaune" creationdate="20230324T121310Z">
+        <seg>C'est le glossaire modifiable du projet</seg>
       </tuv>
     </tu>
     <tu>
@@ -78281,6 +78378,14 @@ for which you have or can give appropriate copyright permission.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When you create a new project, the file is empty and is gradually filled with the translations of the text in files located in the &lt;l0/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230324T121646Z" creationid="Léo Delaune" creationdate="20230324T121646Z">
+        <seg>Lorsque vous créez un nouveau projet, le fichier est vide et se remplit progressivement avec les traductions du texte dans les fichiers situés dans le dossier &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When you create a translation project, OmegaT automatically creates a folder with the specified name, and a list of folders:</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
@@ -79586,6 +79691,14 @@ this License.</seg>
       </tuv>
       <tuv lang="fr">
         <seg>Vous désinstallez le dictionnaire de vérification d'orthographe utilisé actuellement par votre projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can access it with &lt;l0/&gt;, open it in a text editor, modify it with a text editor.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230324T121331Z" creationid="Léo Delaune" creationdate="20230324T121331Z">
+        <seg>Vous pouvez y accéder avec &lt;l0/&gt;, l'ouvrir dans un éditeur de texte, le modifier avec un éditeur de texte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -85188,8 +85301,8 @@ de créer son dossier de configuration.</seg>
       <tuv lang="en">
         <seg>glossary</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210110T132947Z" creationid="suzume" creationdate="20210110T132947Z">
-        <seg>glossary</seg>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230324T121217Z" creationid="suzume" creationdate="20210110T132947Z">
+        <seg>Glossaire</seg>
       </tuv>
     </tu>
     <tu>
@@ -90367,6 +90480,22 @@ Ok. </note>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T103753Z">
         <seg>projectWikiImportMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>project_save.tmx</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230324T121628Z" creationid="Léo Delaune" creationdate="20230324T121628Z">
+        <seg>project_save.tmx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>project_save.tmx.bak</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230324T121752Z" creationid="Léo Delaune" creationdate="20230324T121752Z">
+        <seg>project_save.tmx.bak</seg>
       </tuv>
     </tu>
     <tu>
