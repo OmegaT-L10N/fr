@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_edc74b19f" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13710,6 +13710,14 @@ this License without regard to the additional permissions.</seg>
       </tuv>
       <tuv lang="fr" changeid="jchelary" changedate="20130526T123007Z">
         <seg>Une fois le fichier source chargé et affiché dans le volet &lt;g3&gt;Édition&lt;/g3&gt;, vous pouvez fermer la fenêtre &lt;g4&gt;Fichiers du projet&lt;/g4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After the team project administrator confirms that a translator has been able to open the team project, it is a good idea to make sure that the &lt;l0&gt;project statistics&lt;/l0&gt; are the same for both the administrator (on the server) and the translator (locally).</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230324T120545Z" creationid="Anand" creationdate="20230324T120545Z">
+        <seg>Une fois que l'administrateur du projet en équipe a confirmé qu'un traducteur a réussi à ouvrir le projet en équipe, il est préférable de s'assurer que les &lt;l0&gt;statistiques du projet&lt;/l0&gt; sont les mêmes pour l'administrateur (sur le serveur) et pour le traducteur (localement).</seg>
       </tuv>
     </tu>
     <tu>
