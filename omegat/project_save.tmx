@@ -33773,6 +33773,14 @@ Public License instead of this License.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>If you already have a collection of words you want the spellchecker to ignore or accept, simply save them in text files with the corresponding names, and copy the files to the &lt;l0/&gt; folder of your current project.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230324T122327Z" creationid="Léo Delaune" creationdate="20230324T122327Z">
+        <seg>Si vous disposez déjà d'une collection de mots que vous souhaitez que le correcteur orthographique ignore ou accepte, il vous suffit de les enregistrer dans des fichiers texte portant les noms correspondants et de copier ces fichiers dans le dossier &lt;l0/&gt; de votre projet en cours.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment non traduit : Fait.</note>
       <tuv lang="en">
         <seg>If you already have a version of OmegaT installed on your PC and wish to upgrade to a more recent version, you have two options:</seg>
@@ -56557,6 +56565,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l4/&gt; preferences for details.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230324T122314Z" creationid="Léo Delaune" creationdate="20230324T122314Z">
+        <seg>Voir les préférences &lt;l2/&gt; pour en savoir plus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;u0&gt;Oracle documentation&lt;/u0&gt; for examples.</seg>
       </tuv>
       <tuv lang="fr" changeid="Anand" changedate="20230306T135743Z" creationid="Anand" creationdate="20230306T135743Z">
@@ -68942,6 +68958,14 @@ prohibited by law if you do not accept this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>These files are created and used by the spellchecker.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230324T122300Z" creationid="Léo Delaune" creationdate="20230324T122300Z">
+        <seg>Ces fichiers sont créés et utilisés par le correcteur orthographique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>These files record various internal state and program event messages generated while OmegaT is running.</seg>
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230321T142545Z" creationid="sirine" creationdate="20230321T142545Z">
@@ -70131,6 +70155,14 @@ under the terms of this General Public License.</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230322T122435Z" creationid="Léo Delaune" creationdate="20230322T122435Z">
         <seg>Ce fichier contient les paramètres du projet définis dans les &lt;l0&gt;propriétés du projet&lt;/l0&gt;, tels que les langues source et cible, leurs lemmatiseurs respectifs et le type de segmentation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This file contains the project-specific segmentation rules.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230324T122403Z" creationid="Léo Delaune" creationdate="20230324T122403Z">
+        <seg>Ce fichier contient les règles de segmentation spécifiques au projet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -79857,6 +79889,14 @@ you think will help the developers with finding and fixing your bug.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can add terms in the &lt;l0/&gt; pane by right-clicking on a word marked as incorrect and selecting &lt;g1&gt;Ignore All&lt;/g1&gt; (for words to skip during spellchecking), or &lt;g2&gt;Add to Dictionary&lt;/g2&gt; (for words to accept as correct), respectively, from the &lt;l3&gt;context menu&lt;/l3&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230324T122307Z" creationid="Léo Delaune" creationdate="20230324T122307Z">
+        <seg>Vous pouvez ajouter des termes dans le volet &lt;l0/&gt; en cliquant avec le bouton droit de la souris sur un mot marqué comme incorrect et en sélectionnant &lt;g1&gt;Ignorer tout&lt;/g1&gt; (pour les mots à ignorer pendant la vérification orthographique), ou &lt;g2&gt;Ajouter au dictionnaire&lt;/g2&gt; (pour les mots à accepter comme corrects), respectivement, à partir du &lt;l3&gt;menu contexte&lt;/l3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can add the files to it later.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130430T122046Z">
@@ -85142,8 +85182,8 @@ de créer son dossier de configuration.</seg>
       <tuv lang="en">
         <seg>filters.xml</seg>
       </tuv>
-      <tuv lang="fr" changeid="Clementine" changedate="20130430T121847Z">
-        <seg>Le fichier filters.xml</seg>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230324T122420Z">
+        <seg>filters.xml</seg>
       </tuv>
     </tu>
     <tu>
@@ -90991,8 +91031,8 @@ Ok. </note>
       <tuv lang="en">
         <seg>segmentation.conf</seg>
       </tuv>
-      <tuv lang="fr" changeid="Clementine" changedate="20130430T121314Z">
-        <seg>Le fichier segmentation.conf</seg>
+      <tuv lang="fr" changeid="Léo Delaune" changedate="20230324T122352Z">
+        <seg>segmentation.conf</seg>
       </tuv>
     </tu>
     <tu>
