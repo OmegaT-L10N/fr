@@ -76128,8 +76128,8 @@ la configuration actuelle est de {0} Mo ;</seg>
       <tuv lang="en">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; to return to the Editor and resume your translation.</seg>
       </tuv>
-      <tuv lang="fr" changeid="sirine" changedate="20230324T125717Z" creationid="sirine" creationdate="20230324T125717Z">
-        <seg>Utilisez &lt;l0/&gt;&lt;l1/&gt; pour revenir à l'éditeur et reprendre votre traduction.</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230324T131246Z" creationid="sirine" creationdate="20230324T125717Z">
+        <seg>Utilisez &lt;l0/&gt;&lt;l1/&gt; pour revenir à l'Éditeur et reprendre votre traduction.</seg>
       </tuv>
     </tu>
     <tu>
@@ -80427,6 +80427,14 @@ Spotlight search field.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also focus only on the results by filtering them in the Editor.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230324T131121Z" creationid="sirine" creationdate="20230324T131121Z">
+        <seg>Vous pouvez également vous concentrer uniquement sur les résultats en les filtrant dans l'éditeur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can also get a list of these options in the terminal with the &lt;c0&gt;java -jar OmegaT.jar --help&lt;/c0&gt; command.</seg>
       </tuv>
       <tuv lang="fr" changeid="Anand" changedate="20230320T152958Z" creationid="Anand" creationdate="20230320T152825Z">
@@ -80502,6 +80510,14 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20200126T091643Z" creationid="suzume" creationdate="20200126T091643Z">
         <seg>Vous également pouvez faire glisser le fichier OmegaT.exe dans le menu démarrer, sur le bureau ou dans la zone de lancement rapide afin d'y créer un raccourci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also narrow the scope of the search based on information such as author or date.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230324T131044Z" creationid="sirine" creationdate="20230324T131044Z">
+        <seg>Vous pouvez également restreindre le champ de la recherche en fonction d'informations telles que l'auteur ou la date.</seg>
       </tuv>
     </tu>
     <tu>
