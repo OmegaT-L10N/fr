@@ -14588,6 +14588,14 @@ OmegaT.exe.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Although the mapping feature is primarily intended for gathering source files from disparate locations, it can also be used for other types of files.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230324T122803Z" creationid="Anand" creationdate="20230324T122803Z">
+        <seg>Bien que la fonction de mise en correspondance est surtout conçue pour rassembler les fichiers sources de différents emplacements, elle peut aussi être utilisée pour d'autres types de fichiers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Although you can run OmegaT directly from the available files, you can also run the &lt;f0&gt;linux-install.sh&lt;/f0&gt; script found there to have OmegaT installed in more appropriate locations.</seg>
       </tuv>
       <tuv lang="fr" changeid="Anand" changedate="20230315T152920Z" creationid="Anand" creationdate="20230315T152920Z">
@@ -38102,6 +38110,14 @@ implemented by public license practices.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is possible to map various remote locations to local files via the OmegaT user interface using &lt;l0/&gt; in the &lt;l1/&gt; dialog, or by editing the &lt;l2/&gt; file.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230324T122500Z" creationid="Anand" creationdate="20230324T121627Z">
+        <seg>Il est possible de mettre en correspondance différents emplacements distants avec des fichiers locaux via l'interface utilisateur d'OmegaT en utilisant l'élément &lt;l0/&gt; dans la boîte de dialogue &lt;l1/&gt;, ou en modifiant le fichier &lt;l2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is possible to modify the project properties during a translation session.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130506T113352Z">
@@ -53890,8 +53906,8 @@ ces mots : « pas de page »...</seg>
       <tuv lang="en">
         <seg>Repository mappings</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230313T150518Z" creationid="Anand" creationdate="20230313T150518Z">
-        <seg>Mappage du référentiel</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230324T121619Z" creationid="Anand" creationdate="20230313T150518Z">
+        <seg>Mise en correspondance des dépôts</seg>
       </tuv>
     </tu>
     <tu>
@@ -80817,6 +80833,14 @@ installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="fr" changeid="briglegrand" changedate="20110113T210701Z">
         <seg>que vous pouvez choisir de modifier, d'ajouter ou d'ignorer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can now also work on the project with the team</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230324T121535Z" creationid="Anand" creationdate="20230324T121535Z">
+        <seg>Vous pouvez maintenant travailler sur le projet avec l'équipe.</seg>
       </tuv>
     </tu>
     <tu>
