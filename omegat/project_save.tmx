@@ -13716,8 +13716,8 @@ this License without regard to the additional permissions.</seg>
       <tuv lang="en">
         <seg>After the team project administrator confirms that a translator has been able to open the team project, it is a good idea to make sure that the &lt;l0&gt;project statistics&lt;/l0&gt; are the same for both the administrator (on the server) and the translator (locally).</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230324T120545Z" creationid="Anand" creationdate="20230324T120545Z">
-        <seg>Une fois que l'administrateur du projet en équipe a confirmé qu'un traducteur a réussi à ouvrir le projet en équipe, il est préférable de s'assurer que les &lt;l0&gt;statistiques du projet&lt;/l0&gt; sont les mêmes pour l'administrateur (sur le serveur) et pour le traducteur (localement).</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230324T120656Z" creationid="Anand" creationdate="20230324T120545Z">
+        <seg>Une fois que l'administrateur du projet en équipe a confirmé qu'un traducteur a réussi à ouvrir le projet en équipe, il est préférable de veiller à ce que les &lt;l0&gt;statistiques du projet&lt;/l0&gt; sont les mêmes pour l'administrateur (sur le serveur) et pour le traducteur (localement).</seg>
       </tuv>
     </tu>
     <tu>
@@ -33620,6 +33620,14 @@ authors' reputations.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If they do not match, make sure the &lt;f0&gt;filters.xml&lt;/f0&gt; and &lt;f1&gt;segmentation.conf&lt;/f1&gt; files are properly shared.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230324T121307Z" creationid="Anand" creationdate="20230324T120612Z">
+        <seg>Si elles ne correspondent pas, veillez à ce que les fichiers &lt;f0&gt;filters.xml&lt;/f0&gt; et &lt;f1&gt;segmentation.conf&lt;/f1&gt; sont correctement partagées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If this is not the case, open the main dialog by selecting&lt;e0&gt; Options → File Filters...&lt;/e0&gt; from the main menu.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130527T134125Z">
@@ -34586,6 +34594,14 @@ OmegaT.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130502T074626Z">
         <seg>Si vous avez besoin de voir les balises dans OmegaT mais pas de conserver la plupart du formatage dans le document traduit, il est possible de ne pas inclure les balises dans la traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you need to work on the project too, download the project yourself to a local location different from the local team project location</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230324T121458Z" creationid="Anand" creationdate="20230324T121458Z">
+        <seg>Si vous également besoin de travailler sur le projet, téléchargez le projet vous-même dans un emplacement local différent de l'emplacement du projet en équipe local.</seg>
       </tuv>
     </tu>
     <tu>
