@@ -23553,6 +23553,16 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Erreur
+from in ...</note>
+      <tuv lang="en">
+        <seg>Displays entries from in glossary files located in the /glossary/ folder if they are found in the source segment.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230324T103619Z" creationid="suzume" creationdate="20230324T103619Z">
+        <seg>Ce panneau affiche les entrées trouvées dans les fichiers situés dans le dossier glossary/ si ces entrées sont présentes dans le segment source.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Displays the &lt;a0&gt;OmegaT&lt;/a0&gt; help files in a separate window</seg>
       </tuv>
@@ -45268,6 +45278,10 @@ Rajout d'une partie approriée, afin que la note de bas de page ne se retrouve p
       </tuv>
     </tu>
     <tu>
+      <note>Problème
+When *the* segment...
+ou un truc plus neutre
+When matches are found...</note>
       <tuv lang="en">
         <seg>Notify Me When a Segment Has Fuzzy Matches</seg>
       </tuv>
@@ -93408,8 +93422,8 @@ config-dir="chemin/au/nouveau/configdir"</seg>
       <tuv lang="en">
         <seg>Preferences system save operation failed!</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20230321T051333Z" creationid="suzume" creationdate="20210505T045205Z">
-        <seg>Impossible d'enregistrer les préférences .</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210505T045252Z" creationid="suzume" creationdate="20210505T045205Z">
+        <seg>Impossible d'enregistrer les préférences !</seg>
       </tuv>
     </tu>
     <tu>
