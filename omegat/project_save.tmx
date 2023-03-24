@@ -75963,6 +75963,14 @@ la configuration actuelle est de {0} Mo ;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; and the &lt;l2/&gt; preferences to manage glossary matches.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230324T130419Z" creationid="sirine" creationdate="20230324T130419Z">
+        <seg>Utilisez les préférences &lt;l0/&gt;&lt;l1/&gt; et &lt;l2/&gt; pour gérer les correspondances avec le glossaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; if you don’t remember where your project is.</seg>
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230322T125115Z" creationid="sirine" creationdate="20230322T125115Z">
@@ -76546,6 +76554,14 @@ la configuration actuelle est de {0} Mo ;</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T201556Z" creationid="Léo Delaune" creationdate="20230306T201556Z">
         <seg>Utilisez le bouton &lt;g1&gt;Configurer&lt;/g1&gt; pour gérer vos informations d'authentification pour ce fournisseur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the &lt;l0/&gt; menu to manage translation memory matches and perform other various useful functions.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230324T130701Z" creationid="sirine" creationdate="20230324T130701Z">
+        <seg>Le menu &lt;l0/&gt; permet de gérer les correspondances de la mémoire de traduction et d'exécuter d'autres fonctions utiles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -78823,6 +78839,22 @@ for which you have or can give appropriate copyright permission.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210130T061336Z" creationid="suzume" creationdate="20210130T061148Z">
         <seg>Quand vous téléchargez le projet, celui-ci est converti en projet en équipe localement et une mise en correspondance par défaut est ajoutée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you enter a segment containing terms that match entries in your glossaries, those terms and their translations are displayed in the &lt;l0/&gt; pane.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230324T130442Z" creationid="sirine" creationdate="20230324T130442Z">
+        <seg>Lorsque vous saisissez un segment contenant des termes qui correspondent à des entrées de vos glossaires, ces termes et leurs traductions sont affichés dans le volet &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you enter a segment that matches part of the content of the project translation memories, OmegaT displays the matches in the &lt;l0/&gt; pane.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230324T130512Z" creationid="sirine" creationdate="20230324T130512Z">
+        <seg>Lorsque vous saisissez un segment qui correspond à une partie du contenu des mémoires de traduction du projet, OmegaT affiche les correspondances dans le volet &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
