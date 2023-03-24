@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_02bf2621" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -22812,6 +22812,15 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130423T151646Z">
         <seg>Des règles de segmentation adaptées étant déjà disponibles pour de nombreuses langues, il est peu probable que vous ayez à créer vos propres règles de segmentation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Depending on the original format, OmegaT, however, will present this sentence in a fashion similar to this one:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230324T133952Z" creationid="sirine" creationdate="20230324T133952Z">
+        <seg>Cependant, selon le format d'origine, OmegaT présentera cette phrase de manière similaire à ceci :
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -46820,6 +46829,14 @@ translation leveraging into updated projects.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT is an &lt;e0&gt;easy-to-use&lt;/e0&gt; program for &lt;e1&gt;eager&lt;/e1&gt; translators</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230324T133707Z" creationid="sirine" creationdate="20230324T133707Z">
+        <seg>OmegaT est un programme &lt;e0&gt;facile à utiliser&lt;/e0&gt; pour les traducteurs &lt;e1&gt;ambitieux&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT is an open-source application and project.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T023743Z" creationid="briac" creationdate="20170327T133619Z">
@@ -57698,6 +57715,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130423T154610Z">
         <seg>Segmentation au niveau des phrases</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sentence with decorative formatting</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230324T133502Z" creationid="sirine" creationdate="20230324T133502Z">
+        <seg>Phrase avec une mise en forme décorative</seg>
       </tuv>
     </tu>
     <tu>
