@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_02bf2621" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13802,6 +13802,14 @@ this License without regard to the additional permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>After you have typed the translation of a segment, use &lt;l0/&gt;&lt;l1/&gt; to move to the next untranslated segment.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230324T124721Z" creationid="sirine" creationdate="20230324T124721Z">
+        <seg>Après avoir saisi la traduction d'un segment, utilisez &lt;l0/&gt;&lt;l1/&gt; pour passer au segment suivant non traduit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Again note that the backslash is escaped as well.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210111T143346Z">
@@ -25415,6 +25423,14 @@ by the Free Software Foundation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Either a segment is translated, or it is not.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230324T125003Z" creationid="sirine" creationdate="20230324T125003Z">
+        <seg>Soit un segment est traduit, soit il ne l'est pas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Either can be used as the source or target.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130424T093026Z">
@@ -34626,6 +34642,14 @@ OmegaT.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
         <seg>Si vous modifiez la segmentation du projet ou si vous supprimez des fichiers du dossier source, certaines correspondances peuvent s'afficher en tant que &lt;e1&gt;chaînes de caractères orphelines&lt;/e1&gt; dans le volet Correspondances : ces correspondances concernent des segments qui n'existent plus dans les documents source, puisqu'ils correspondent aux segments traduits et enregistrés avant la modification.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you need a specific review process you can, for example:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230324T125237Z" creationid="sirine" creationdate="20230324T125237Z">
+        <seg>Si vous avez besoin d'un processus de révison spécifique, vous pouvez par exemple :</seg>
       </tuv>
     </tu>
     <tu>
@@ -46328,6 +46352,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT does not assign different statuses to translated segments.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230324T124934Z" creationid="sirine" creationdate="20230324T124934Z">
+        <seg>OmegaT n'attribue pas différents statuts aux segments traduits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT does not have read and write permissions for this folder.</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20230115T125908Z" creationid="briac" creationdate="20230115T125908Z">
@@ -56461,6 +56493,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l0/&gt; menu for more navigation options.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230324T124829Z" creationid="sirine" creationdate="20230324T124829Z">
+        <seg>Voir le menu &lt;l0/&gt; pour plus d'options de navigation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;l0/&gt; preference for details.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221220T113710Z" creationid="suzume" creationdate="20221220T113710Z">
@@ -62755,8 +62795,8 @@ form of a work.</seg>
       <tuv lang="en">
         <seg>The &lt;l0/&gt; pane is where you type your translation.</seg>
       </tuv>
-      <tuv lang="fr" changeid="sirine" changedate="20230324T124250Z" creationid="sirine" creationdate="20230324T124250Z">
-        <seg>Tapez votre traduction dans le volet &lt;l0/&gt;.</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230324T124727Z" creationid="sirine" creationdate="20230324T124250Z">
+        <seg>Saissisez votre traduction dans le volet &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -78759,6 +78799,14 @@ for which you have or can give appropriate copyright permission.</seg>
       </tuv>
       <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210506T111317Z">
         <seg>Ensuite, pour intégrer la traduction dans Wikipédia :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you leave the segment, its translation is automatically stored into the &lt;l0/&gt; file and will be used as reference for the rest of your translation.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230324T124803Z" creationid="sirine" creationdate="20230324T124803Z">
+        <seg>Lorsque vous quittez le segment, sa traduction est automatiquement enregistrée dans le fichier &lt;l0/&gt; et servira de référence pour le reste de votre traduction.</seg>
       </tuv>
     </tu>
     <tu>
