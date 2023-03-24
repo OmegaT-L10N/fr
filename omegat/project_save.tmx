@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_02bf2621" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -15652,6 +15652,14 @@ provoquer des comportements inattendus, mais corrects.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As above, but for files that should be part of the mapping.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230324T124631Z" creationid="Anand" creationdate="20230324T124631Z">
+        <seg>Comme plus haut, mais pour les fichiers qui doivent faire partie de la mise en correspondance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As above, but only for the document currently displayed in the Editor pane.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210204T014204Z" creationid="suzume" creationdate="20210204T014204Z">
@@ -26611,6 +26619,14 @@ The FSF strongly urges you not to use this translation as the official distribu-
       </tuv>
       <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210525T120822Z" creationid="suzume" creationdate="20210129T104324Z">
         <seg>Exemple : &lt;u0&gt;**/fichiers_exclus/**;*.txt&lt;/u0&gt; exclus les fichiers qui ont /fichiers_exclus/ dans leur chemin ainsi que les fichiers avec l'extension .txt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Example: &lt;u0&gt;**/excludedfolder/**;*.txt&lt;/u0&gt; excludes files that have /excludedfolder/ in the path, as well as files with the &lt;f1&gt;.txt&lt;/f1&gt; extension.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230324T124613Z" creationid="Anand" creationdate="20230324T124248Z">
+        <seg>Par exemple, le masque &lt;u0&gt;**/dossierexclu/**;*.txt&lt;/u0&gt; exclut les fichiers dont le chemin contient /dossierexclu/, ainsi que les fichiers avec l'extension &lt;f1&gt;.txt&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58502,6 +58518,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Since files are included by default unless specifically excluded, this option is only necessary to specify exceptions to an exclusion pattern.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230324T124739Z" creationid="Anand" creationdate="20230324T124739Z">
+        <seg>Vu que les fichiers sont inclus par défaut sauf s'ils sont exclus volontairement, cette option n'est nécessaire que pour spécifier les exceptions d'un masque d'exclusion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Since synchronization takes place by default every three minutes, project members will sometime translate or modify a segment that has already been translated by another member but not synchronized yet.</seg>
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230322T193527Z" creationid="Anand" creationdate="20230308T111804Z">
@@ -76158,6 +76182,14 @@ la configuration actuelle est de {0} Mo ;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use a semicolon to separate different patterns.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230324T123722Z" creationid="Anand" creationdate="20230324T123722Z">
+        <seg>Utilisez un point-virgule pour séparer différents masques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use a team project</seg>
       </tuv>
       <tuv lang="fr" changeid="Anand" changedate="20230307T181417Z" creationid="Anand" creationdate="20230307T181354Z">
@@ -76701,6 +76733,14 @@ la configuration actuelle est de {0} Mo ;</seg>
       </tuv>
       <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210525T123000Z">
         <seg>Utilisez l'utilitaire de désarchivage « untar » (ou l'un de ses équivalents, par exemple&lt;f0&gt;winrar&lt;/f0&gt; pour Windows) pour extraire le contenu du fichier dans le dossier « dictionary » (dictionnaire) du projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use wildcards (following the Apache Ant style: *, ?, **) to add patterns for files that should not be part of the mapping.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230324T123638Z" creationid="Anand" creationdate="20230324T123638Z">
+        <seg>Utilisez des caractères joker (suivant le style Apache Ant : *,?,**) pour ajouter des masques pour fichiers qui ne doivent pas faire partie de la mise en correspondance.</seg>
       </tuv>
     </tu>
     <tu>
