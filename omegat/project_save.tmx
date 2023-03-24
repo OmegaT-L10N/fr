@@ -42220,6 +42220,19 @@ impose that choice.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Erreur
+Pas seulement les fichiers TMX, cf. manuel.
+
+Problème
+Il faut standardiser la nomencladure des dossiers et l'homogénéiser avec celle du manuel (pas /tm/ mais, par ex. tm/)</note>
+      <tuv lang="en">
+        <seg>Matches come from your current translation or the TMX files placed in the /tm/ folder.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230324T103126Z" creationid="suzume" creationdate="20230324T103126Z">
+        <seg>Les correspondances viennent soit de votre traduction ou bien des fichiers de référence placés dans le dossier tm/.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Matches deleted active</seg>
       </tuv>
