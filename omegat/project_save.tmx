@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_02bf2621" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -64017,6 +64017,14 @@ shown below.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The basic procedure is essentially the same, except that the team project administrator does not add every file to the version-controlled project on the server.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230324T133451Z" creationid="Anand" creationdate="20230324T133451Z">
+        <seg>La procédure de base est principalement la même, à l'exception que l'administrateur du projet en équipe n'ajoute pas chaque fichier au projet géré par version sur le serveur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The basic rule is that the sequence of tags must be preserved in the same order.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130430T135830Z">
@@ -67182,6 +67190,14 @@ modification follow.</seg>
       </tuv>
       <tuv lang="fr" changeid="brigitte" changedate="20130714T133218Z">
         <seg>Les fichiers importants sont &lt;l2&gt;filters.conf&lt;/l2&gt; et &lt;l3&gt;segmentation.conf&lt;/l3&gt; et sont situés dans le dossier personnel de l'utilisateur (soit dans &lt;l4&gt;C:\Documents and Settings\%User%\&lt;a5&gt;OmegaT&lt;/a5&gt;&lt;/l4&gt; sous Windows, &lt;l6&gt;%user%/.omegat/&lt;/l6&gt; sous Linux).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The remaining files are either copied by the translators themselves, or mappings that synchronize files from other locations are defined.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230324T133717Z" creationid="Anand" creationdate="20230324T133717Z">
+        <seg>Les fichiers restants sont soit copiés par les traducteurs eux-mêmes, soit des mises en correspondance pour synchroniser des fichiers à partir d'autres emplacements sont définis.</seg>
       </tuv>
     </tu>
     <tu>
