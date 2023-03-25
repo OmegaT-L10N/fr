@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_02bf2621" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_edc74b19f" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12341,6 +12341,16 @@ this License.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>ERREUR
+"can simply be"</note>
+      <tuv lang="en">
+        <seg>A note is simply a remark about the source text or its translation.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230324T110342Z" creationid="suzume" creationdate="20230324T110342Z">
+        <seg>Une note peut simplement être une remarque au sujet du texte source ou de sa traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>A number between &lt;e0&gt;0.0&lt;/e0&gt; and &lt;e1&gt;0.9&lt;/e1&gt;, or just the final &lt;e2&gt;0.5&lt;/e2&gt; in numbers such as 10.5 or 560.5.</seg>
       </tuv>
@@ -13182,8 +13192,8 @@ covered by this License; they are outside its scope.</seg>
       <tuv lang="en">
         <seg>Add Glossary Entry</seg>
       </tuv>
-      <tuv lang="fr" changeid="Didier" changedate="20160427T150832Z" creationid="Didier" creationdate="20160427T150832Z">
-        <seg>Ajouter une entrée de glossaire</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230324T105315Z" creationid="Didier" creationdate="20160427T150832Z">
+        <seg>Ajouter une entrée au glossaire</seg>
       </tuv>
     </tu>
     <tu>
@@ -23752,8 +23762,8 @@ from in ...</note>
       <tuv lang="en">
         <seg>Displays the dictionary entries found in the dictionary files located in the /dictionary/ folder if they are present in the source segment.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20221111T044017Z">
-        <seg>Affiche les entrées de dictionnaires trouvées dans les fichiers dictionnaires situés dans le dossier dictionary/ si ces entrées sont présentes dans le segment source.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230324T105429Z">
+        <seg>Ce panneau affiche les entrées trouvées dans les fichiers situés dans le dossier dictionary/ si ces entrées sont présentes dans le segment source.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23826,6 +23836,14 @@ from in ...</note>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20230324T102842Z" creationid="sirine" creationdate="20230303T092649Z">
         <seg>Ce panneau affiche les segments des mémoires de traduction qui correspondent au segment source.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Displays the translation of the current segment provided by the machine translation services selected in Preferences &gt; Machine Translation if those services are available.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230324T105612Z" creationid="suzume" creationdate="20230324T105612Z">
+        <seg>Ce panneau affiche la traduction du segment source effectuée par les services de traductions automatiques sélectionnés dans Préférences &gt; Traduction automatique si ces services sont disponibles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26061,8 +26079,8 @@ writeable = writable</note>
       <tuv lang="en">
         <seg>Entries from the writeable glossary are in bold.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Didier" changedate="20130925T162505Z" creationid="Didier" creationdate="20130925T162505Z">
-        <seg>Les entrées du glossaire en écriture sont en gras.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230324T105123Z" creationid="Didier" creationdate="20130925T162505Z">
+        <seg>Les entrées du glossaire modifiable sont en gras.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38445,6 +38463,14 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is stored in the TMX file.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230324T110414Z" creationid="suzume" creationdate="20230324T110414Z">
+        <seg>Elle est entreposée dans le ficher TMX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is the recommended version for first-time users.</seg>
       </tuv>
       <tuv lang="fr" changeid="briglegrand" changedate="20110128T095917Z">
@@ -41438,6 +41464,14 @@ La version Mac intègre un JRE.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130507T123132Z">
         <seg>Volet Traduction automatique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Machine Translations</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230324T105544Z" creationid="suzume" creationdate="20230324T105544Z">
+        <seg>Traduction automatique</seg>
       </tuv>
     </tu>
     <tu>
@@ -45489,11 +45523,13 @@ Rajout d'une partie approriée, afin que la note de bas de page ne se retrouve p
       </tuv>
     </tu>
     <tu>
+      <note>RFE
+clic droit sur le panneau glossaire pour ouvrir le dossier glossaire</note>
       <tuv lang="en">
         <seg>Notepad</seg>
       </tuv>
-      <tuv lang="fr" changeid="briac" changedate="20230305T154954Z" creationid="briac" creationdate="20230305T154954Z">
-        <seg>Bloc-notes</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230324T105845Z" creationid="briac" creationdate="20230305T154954Z">
+        <seg>Bloc-note</seg>
       </tuv>
     </tu>
     <tu>
@@ -45574,6 +45610,16 @@ Rajout d'une partie approriée, afin que la note de bas de page ne se retrouve p
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160427T152852Z" creationid="Didier" creationdate="20160427T152852Z">
         <seg>Notification (fixe)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>ERREUR
+"Notify me even if there are no matching terms"</note>
+      <tuv lang="en">
+        <seg>Notify Me Even If There Are No Search Results</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230324T105534Z" creationid="suzume" creationdate="20230324T105534Z">
+        <seg>M'avertir même s'il n'y a pas de résultats</seg>
       </tuv>
     </tu>
     <tu>
@@ -59256,6 +59302,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20161229T164904Z" creationid="Didier" creationdate="20161229T164904Z">
         <seg>&amp;Trier par texte étendu, pas par raccourci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sort by Target Term Length</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230324T105346Z" creationid="suzume" creationdate="20230324T105346Z">
+        <seg>Trier les termes cible par longueur</seg>
       </tuv>
     </tu>
     <tu>
@@ -76449,6 +76503,14 @@ la configuration actuelle est de {0} Mo ;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use Create Glossary Entry in the Edit menu to add new entries.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230324T105306Z" creationid="suzume" creationdate="20230324T105157Z">
+        <seg>Pour ajouter une entrée au glossaire, utilisez Créer une entrée de glossaire dans le menu Édition.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use Fuzzy Matching for Dictionary Entries</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20150910T091615Z" creationid="Didier" creationdate="20150910T091615Z">
@@ -78091,6 +78153,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>View, add, remove or edit a note in the active segment.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20230324T110242Z" creationid="suzume" creationdate="20230324T105950Z">
+        <seg>Ce panneau permet d'afficher les notes du segment actuel, d'en ajouter, de les retirer ou de les modifier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>View...</seg>
       </tuv>
       <tuv lang="fr" changeid="laurieetclémentine" changedate="20130411T140830Z">
@@ -78587,8 +78657,8 @@ you have just discovered.</seg>
       <tuv lang="en">
         <seg>When a match is inserted from a TMX contained in this folder, the background colour of the active segment changes to red.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Léo Delaune" changedate="20230322T130740Z" creationid="Léo Delaune" creationdate="20230322T130740Z">
-        <seg>Lorsqu'une correspondance est insérée à partir d'un TMX contenu dans ce dossier, la couleur d'arrière-plan du segment actif devient rouge.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230324T110152Z" creationid="Léo Delaune" creationdate="20230322T130740Z">
+        <seg>Lorsqu'une correspondance est insérée à partir d'un TMX contenu dans ce dossier, la couleur d'arrière-plan du segment actuel devient rouge.</seg>
       </tuv>
     </tu>
     <tu>
@@ -80453,8 +80523,8 @@ this License.</seg>
       <tuv lang="en">
         <seg>You can add a new term to the glossary by pressing &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;Shift&lt;/k2&gt;&lt;k3&gt;G&lt;/k3&gt;&lt;/k0&gt;, or copy existing glossaries to the &lt;f4&gt;glossary&lt;/f4&gt; subfolder of your project folder, and OmegaT will automatically look up words in them.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20230316T073810Z" creationid="suzume" creationdate="20211117T145743Z">
-        <seg>Vous pouvez ajouter un terme au glossaire à l'aide du raccourci clavier &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;Maj&lt;/k2&gt;&lt;k3&gt;G&lt;/k3&gt;&lt;/k0&gt;, ou copier d'autres glossaires dans le dossier &lt;f4&gt;glossary&lt;/f4&gt; du projet : OmegaT y recherche automatiquement les mots associés au segment actif.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230324T110144Z" creationid="suzume" creationdate="20211117T145743Z">
+        <seg>Vous pouvez ajouter un terme au glossaire à l'aide du raccourci clavier &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;Maj&lt;/k2&gt;&lt;k3&gt;G&lt;/k3&gt;&lt;/k0&gt;, ou copier d'autres glossaires dans le dossier &lt;f4&gt;glossary&lt;/f4&gt; du projet : OmegaT y recherche automatiquement les mots associés au segment actuel.</seg>
       </tuv>
     </tu>
     <tu>
