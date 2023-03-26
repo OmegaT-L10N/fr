@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_edc74b19f" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -28966,6 +28966,14 @@ know their rights.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
         <seg>Par exemple :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For file formats and filters that support comments (e.g. PO-filter), displays the comments for the translator concerning the active segment, if any.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230326T190331Z" creationid="briac" creationdate="20230326T190331Z">
+        <seg>Pour les filtres et les formats de fichiers qui supportent les commentaires (comme le filtre PO), cette option affiche les commentaires du segment actif destinés au traducteur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -80219,6 +80227,14 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20230128T175343Z" creationid="briac" creationdate="20230128T175343Z">
         <seg>XLIFF (filtre obsolète)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XLIFF 1</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230326T190144Z" creationid="briac" creationdate="20230326T190144Z">
+        <seg>XLIFF 1</seg>
       </tuv>
     </tu>
     <tu>
