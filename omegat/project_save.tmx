@@ -13351,6 +13351,14 @@ covered by this License; they are outside its scope.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add to Dictionary</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230326T190616Z" creationid="briac" creationdate="20230326T190616Z">
+        <seg>Ajouter au dictionnaire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add to Dictionary: “{0}”</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20230316T073810Z" creationid="briac" creationdate="20230313T163115Z">
@@ -16388,6 +16396,14 @@ provoquer des comportements inattendus, mais corrects.</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230309T113538Z" creationid="Léo Delaune" creationdate="20230309T081942Z">
         <seg>Langues disponibles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Available languages:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230326T190635Z" creationid="briac" creationdate="20230326T190635Z">
+        <seg>Langues disponibles :</seg>
       </tuv>
     </tu>
     <tu>
@@ -28090,6 +28106,14 @@ patents.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>First Steps</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230326T190338Z" creationid="briac" creationdate="20230326T190338Z">
+        <seg>Premiers pas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>First steps</seg>
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230320T191628Z" creationid="sirine" creationdate="20230320T182940Z">
@@ -32519,6 +32543,18 @@ need not be entered.)</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20211117T131305Z" creationid="suzume" creationdate="20211117T131305Z">
         <seg>Si une interface utilisateur est disponible dans cette langue, OmegaT l'utilise.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If access to the desired location is granted later,
+that location will be used and all settings will be reset to
+their default values.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230326T190611Z" creationid="briac" creationdate="20230326T190611Z">
+        <seg>Si l'accès à l'emplacement souhaité est accordé ultérieurement,
+cet emplacement sera utilisé et tous les paramètres seront réinitialisés
+à leurs valeurs par défaut.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47633,6 +47669,19 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT was refused access to the system property containing
+the name of your OS and/or the system property containing
+your home folder.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230326T190416Z" creationid="briac" creationdate="20230326T190416Z">
+        <seg>L'accès à la propriété système contenant
+le nom de votre système d'exploitation ou celle
+contenant votre dossier de base n'est pas permise
+à OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT will automatically parse even the most complex source folder
 hierarchies, to access all the supported files, and produce a target folder
 with exactly the same structure, including copies of any non-supported files.</seg>
@@ -60044,6 +60093,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Spellcheck the tr&amp;anslation</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230326T190629Z" creationid="briac" creationdate="20230326T190629Z">
+        <seg>Vérifier l'orthographe de la tr&amp;aduction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Spellcheck the translation</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230309T101142Z" creationid="Léo Delaune" creationdate="20230309T081942Z">
@@ -72106,6 +72163,16 @@ projet depuis le serveur.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This will reset all
+settings to their defaults.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230326T190443Z" creationid="briac" creationdate="20230326T190443Z">
+        <seg>Cela réinitialisera tous les
+paramètres à leur valeur par défaut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This will split or merge some previously translated segments, which will therefore no longer be considered translated.</seg>
       </tuv>
       <tuv lang="fr" changeid="Anand" changedate="20230307T175634Z" creationid="Anand" creationdate="20230307T175634Z">
@@ -82238,6 +82305,16 @@ paragraph of section 11).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You may therefore experience
+unexpected, but correct behaviour.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230326T190514Z" creationid="briac" creationdate="20230326T190514Z">
+        <seg>Il se peut donc que vous constatiez
+un comportement inattendu, mais correct.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You may try to solve this problem in one of the following ways:</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
@@ -82578,6 +82655,16 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="fr">
         <seg>Votre système d'exploitation a refusé à OmegaT
+de créer son dossier de configuration.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your operating system refused to let OmegaT
+create the configuration folder.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20230326T190535Z" creationid="briac" creationdate="20230326T190535Z">
+        <seg>Votre système d'exploitation interdit à OmegaT
 de créer son dossier de configuration.</seg>
       </tuv>
     </tu>
