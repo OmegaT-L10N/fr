@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_02bf2621" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -15402,6 +15402,14 @@ void, and will automatically terminate your rights under this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Any time you create the translated files, any previously created files with the same name are overwritten.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230327T131347Z" creationid="sirine" creationdate="20230327T131347Z">
+        <seg>Chaque fois que vous créez des fichiers traduits, tous les fichiers créés précédemment et portant le même nom sont écrasés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Anything after the "//" will be ignored.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130502T083920Z">
@@ -21512,6 +21520,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create the translated files</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230327T131128Z" creationid="sirine" creationdate="20230327T131128Z">
+        <seg>Créer les fichiers traduits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create translated documents</seg>
       </tuv>
       <tuv lang="fr" changeid="laurieetclémentine" changedate="20130411T133723Z">
@@ -27546,6 +27562,14 @@ dommage...</seg>
       </tuv>
       <tuv lang="fr">
         <seg>Système de suivi des demandes d'amélioration</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Feel free to modify the &lt;l0/&gt; layout and &lt;l1/&gt; options when you review the translation.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230327T130807Z" creationid="sirine" creationdate="20230327T130807Z">
+        <seg>N'hésitez pas à modifier la présentation des &lt;l0/&gt; et les options &lt;l1/&gt; lors de la révision de la traduction.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53770,6 +53794,14 @@ ces mots : « pas de page »...</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Rename any files you want to prevent from being overwritten after you create them.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230327T131954Z" creationid="sirine" creationdate="20230327T131954Z">
+        <seg>Pour éviter que les fichiers que vous créez ne soient écrasés, renommez-les.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Rename the current &lt;f0&gt;project_save.tmx&lt;/f0&gt; file ( e.g. to &lt;f1&gt;project_save.tmx.temporary&lt;/f1&gt;)</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130507T073806Z">
@@ -54561,6 +54593,14 @@ ces mots : « pas de page »...</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Return to OmegaT, check your document for tag issues and recreate the translated file.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230327T130448Z" creationid="sirine" creationdate="20230327T130448Z">
+        <seg>Retournez dans OmegaT, vérifiez que votre document ne contient pas de problèmes de balises et recréez le fichier traduit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Reuse Translation Memories</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20200724T172612Z" creationid="briac" creationdate="20200724T172612Z">
@@ -54621,6 +54661,14 @@ ces mots : « pas de page »...</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20170918T110604Z" creationid="briac" creationdate="20170918T110604Z">
         <seg>Article sur OmegaT, 2010.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Review your translation</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230327T130543Z" creationid="sirine" creationdate="20230327T130543Z">
+        <seg>Réviser votre traduction</seg>
       </tuv>
     </tu>
     <tu>
@@ -76961,6 +77009,14 @@ la configuration actuelle est de {0} Mo ;</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Use the &lt;l0/&gt; option to perform various checks on the contents of your translation.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230327T131052Z" creationid="sirine" creationdate="20230327T131052Z">
+        <seg>Utilisez l'option &lt;l0/&gt; pour effectuer divers contrôles sur le contenu de votre traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>tag -&gt; local segmentation rules</note>
       <tuv lang="en">
         <seg>Use the &lt;l0/&gt; project property to limit the scope of the segmentation rules to the current project.</seg>
@@ -79411,6 +79467,14 @@ for which you have or can give appropriate copyright permission.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20211117T145505Z" creationid="suzume" creationdate="20211117T145505Z">
         <seg>Si vous souhaitez obtenir un aperçu de votre traduction dans son format final, utilisez le raccourci &lt;k7&gt;&lt;k8&gt;Ctrl&lt;/k8&gt;&lt;k9&gt;D&lt;/k9&gt;&lt;/k7&gt; pour générer le document traduit dans le dossier &lt;f10&gt;target&lt;/f10&gt; du projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Whenever you want to see what your translation will look like in its final format, use &lt;l0/&gt; &lt;l1/&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230327T131259Z" creationid="sirine" creationdate="20230327T131259Z">
+        <seg>Pour voir à quoi ressemblera votre traduction dans son format final, utilisez &lt;l0/&gt; &lt;l1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
