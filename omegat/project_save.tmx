@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_02bf2621" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7822,6 +7822,14 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
       <tuv lang="fr" changeid="Anand" changedate="20230327T153258Z" creationid="Anand" creationdate="20230327T153258Z">
         <seg>&lt;g0&gt;Remplacer par la correspondance ou la sélection&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;R&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Replace with Source&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;S&lt;/k3&gt;&lt;k4&gt;R&lt;/k4&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230327T154158Z" creationid="Anand" creationdate="20230327T154158Z">
+        <seg>&lt;g0&gt;Remplacer par la source&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;S&lt;/k3&gt;&lt;k4&gt;R&lt;/k4&gt;&lt;/k1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -32611,6 +32619,14 @@ need not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If a part of the target segment has been selected, that part will be overwritten.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230327T154027Z" creationid="Anand" creationdate="20230327T154027Z">
+        <seg>Si une partie du segment cible est sélectionnée, cette partie sera remplacée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If a search removes duplicates, those duplicates will not be in the Editor.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20140414T135404Z" creationid="Didier" creationdate="20140414T135404Z">
@@ -37403,8 +37419,8 @@ patent against the party.</seg>
       <tuv lang="en">
         <seg>Inserts the currently selected fuzzy match or the text selected in the &lt;l0/&gt; pane at the cursor position.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230327T153925Z" creationid="Anand" creationdate="20230327T153925Z">
-        <seg>Insère la correspondance partielle sélectionnée ou le texte sélectionné dans le panneau &lt;l0/&gt; à la position ou se trouve le curseur.</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230327T154032Z" creationid="Anand" creationdate="20230327T153925Z">
+        <seg>Insère la correspondance partielle sélectionnée ou le texte sélectionné dans le panneau &lt;l0/&gt; à la position où se trouve le curseur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68053,6 +68069,14 @@ protocols for communication across the network.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130506T110855Z">
         <seg>Les langues sélectionnées seront ainsi installées et pourront donc apparaître dans la fenêtre de configuration du vérificateur orthographique (cela peut prendre un certain temps).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The selected text has priority over the selected match.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230327T154103Z" creationid="Anand" creationdate="20230327T154103Z">
+        <seg>Le texte sélectionné à la priorité sur la correspondance sélectionnée.</seg>
       </tuv>
     </tu>
     <tu>
