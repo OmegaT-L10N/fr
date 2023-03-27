@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_02bf2621" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -37711,8 +37711,8 @@ exécutez simplement le programme d'installation.</seg>
       <tuv lang="en">
         <seg>Instead of reaching for the mouse, you unlock the cursor with &lt;l0&gt;&lt;k1&gt;F2&lt;/k1&gt;&lt;/l0&gt;, use the cursor keys and standard system shortcuts to navigate to the term and select it, and then press &lt;k2&gt;&lt;k3&gt;C&lt;/k3&gt;&lt;k4&gt;S&lt;/k4&gt;&lt;k5&gt;G&lt;/k5&gt;&lt;/k2&gt; to &lt;l6&gt;call up the glossary entry dialog&lt;/l6&gt; to enter the source term.</seg>
       </tuv>
-      <tuv lang="fr" changeid="sirine" changedate="20230327T153317Z" creationid="sirine" creationdate="20230327T153317Z">
-        <seg>Au lieu de prendre la souris, vous déverrouillez le curseur avec &lt;l0&gt;&lt;k1&gt;F2&lt;/k1&gt;&lt;/l0&gt;, utilisez les touches du curseur et les raccourcis système standard pour naviguer jusqu'au terme et le sélectionner. Puis appuyez sur &lt;k2&gt;&lt;k3&gt;C&lt;/k3&gt;&lt;k4&gt;S&lt;/k4&gt;&lt;k5&gt;G&lt;/k5&gt;&lt;/k2&gt; pour afficher &lt;l6&gt;la boîte de dialogue de saisie du glossaire&lt;/l6&gt; et y insérer le terme source.</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230327T153624Z" creationid="sirine" creationdate="20230327T153317Z">
+        <seg>Au lieu de prendre la souris, vous déverrouillez le curseur avec &lt;l0&gt;&lt;k1&gt;F2&lt;/k1&gt;&lt;/l0&gt;, en utilisant les touches du curseur et les raccourcis standard du système pour naviguer jusqu'au terme et le sélectionner. Puis appuyez sur &lt;k2&gt;&lt;k3&gt;C&lt;/k3&gt;&lt;k4&gt;S&lt;/k4&gt;&lt;k5&gt;G&lt;/k5&gt;&lt;/k2&gt; pour afficher &lt;l6&gt;la boîte de dialogue de saisie du glossaire&lt;/l6&gt; et y insérer le terme source. </seg>
       </tuv>
     </tu>
     <tu>
@@ -54796,8 +54796,8 @@ ces mots : « pas de page »...</seg>
       <tuv lang="en">
         <seg>Return to OmegaT, check your document for tag issues and recreate the translated file.</seg>
       </tuv>
-      <tuv lang="fr" changeid="sirine" changedate="20230327T130448Z" creationid="sirine" creationdate="20230327T130448Z">
-        <seg>Retournez dans OmegaT, vérifiez que votre document ne contient pas de problèmes de balises et recréez le fichier traduit.</seg>
+      <tuv lang="fr" changeid="sirine" changedate="20230327T154051Z" creationid="sirine" creationdate="20230327T130448Z">
+        <seg>Retournez sur OmegaT, vérifiez que votre document ne contient pas de problèmes de balises et recréez le fichier traduit.</seg>
       </tuv>
     </tu>
     <tu>
