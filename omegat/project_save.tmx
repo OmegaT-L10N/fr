@@ -54377,6 +54377,14 @@ ces mots : « pas de page »...</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Replaces the entire target segment with the segment source.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230327T154413Z" creationid="Anand" creationdate="20230327T154413Z">
+        <seg>Remplace l'entièreté du segment cible par le segment source.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Replaces the target segment with the currently selected fuzzy match (the first match by default) or with the text selected in the &lt;l0/&gt; pane.</seg>
       </tuv>
       <tuv lang="fr" changeid="Anand" changedate="20230327T153508Z" creationid="Anand" creationdate="20230327T153508Z">
