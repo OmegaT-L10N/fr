@@ -7738,6 +7738,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Insert Match or Selection&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;I&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230327T153747Z" creationid="Anand" creationdate="20230327T153619Z">
+        <seg>&lt;g0&gt;Insérer la correspondance ou la sélection&lt;/g0&gt;&lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;I&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;LanguageTool Issues&lt;/g0&gt; (optional).</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210204T012250Z" creationid="suzume" creationdate="20210204T012250Z">
@@ -37389,6 +37397,14 @@ patent against the party.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130527T152230Z">
         <seg>Insère la correspondance sélectionnée à l'endroit où se trouve le curseur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Inserts the currently selected fuzzy match or the text selected in the &lt;l0/&gt; pane at the cursor position.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230327T153925Z" creationid="Anand" creationdate="20230327T153925Z">
+        <seg>Insère la correspondance partielle sélectionnée ou le texte sélectionné dans le panneau &lt;l0/&gt; à la position ou se trouve le curseur.</seg>
       </tuv>
     </tu>
     <tu>
