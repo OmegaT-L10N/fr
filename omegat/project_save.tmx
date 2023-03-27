@@ -43317,6 +43317,14 @@ Il faut standardiser la nomencladure des dossiers et l'homogénéiser avec celle
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Modifications made outside OmegaT can be reinserted in OmegaT (and thus in the project translation memory, to keep it up to date) either by entering them manually in the relevant segments, or by aligning the original file and the final translated file to create a new translation memory (TMX) file that will be put in the &lt;l0/&gt; folder of your project folder.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230327T142930Z" creationid="sirine" creationdate="20230327T142930Z">
+        <seg>Les modifications effectuées en dehors d'OmegaT peuvent être réinsérées dans OmegaT (et donc dans la mémoire de traduction du projet, pour la maintenir à jour). Soit en les introduisant manuellement dans les segments concernés, soit en alignant le fichier original et le fichier final traduit pour créer un nouveau fichier de mémoire de traduction (TMX) qui sera placé dans le dossier &lt;l0/&gt; du dossier de votre projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Modifications made to any glossary are immediately recognized by OmegaT displayed in the &lt;l0/&gt; pane.</seg>
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230316T170459Z" creationid="sirine" creationdate="20230316T170459Z">
