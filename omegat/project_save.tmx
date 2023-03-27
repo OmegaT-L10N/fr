@@ -48388,6 +48388,14 @@ kolteki later.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Once the translated files have been created, you can open them in their original application to check their contents and eventually further modify them.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230327T141842Z" creationid="sirine" creationdate="20230327T141842Z">
+        <seg>Une fois les fichiers traduits créés, vous pouvez les ouvrir dans leur application d'origine pour vérifier leur contenu et les modifier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Once you have a working Python installation, install via pip:
 pip install virtualenv</seg>
       </tuv>
@@ -60843,6 +60851,14 @@ and then start OmegaT.</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230320T233947Z" creationid="Léo Delaune" creationdate="20230320T233947Z">
         <seg>Ces commandes sont définies dans la fenêtre &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Such external modifications will &lt;e0&gt;not&lt;/e0&gt; be reflected in OmegaT.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230327T141937Z" creationid="sirine" creationdate="20230327T141937Z">
+        <seg>Ces modifications externes ne seront &lt;e0&gt;pas&lt;/e0&gt; reflétées dans OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
