@@ -7762,6 +7762,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Redo Last Action&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;Y&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230327T153001Z" creationid="Anand" creationdate="20230327T153001Z">
+        <seg>&lt;g0&gt;Rétablir la dernière action&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;Y&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Remove HTML comments in translated document&lt;/g0&gt;: commented parts (between &lt;!-- and --&gt;) will not be copied into the translated document.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20211117T074248Z" creationid="suzume" creationdate="20211117T074248Z">
@@ -17828,8 +17836,8 @@ software--to make sure the software is free for all its users.</seg>
       <tuv lang="en">
         <seg>Cancels modifications made to the segment while it is current.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230327T152838Z" creationid="Anand" creationdate="20230327T152838Z">
-        <seg>Annule les modifications apportées au segment actuel, tant qu'il est en cours d'édition.</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230327T153229Z" creationid="Anand" creationdate="20230327T152838Z">
+        <seg>Annule les modifications apportées au segment actuel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52949,6 +52957,14 @@ ces mots : « pas de page »...</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160427T154100Z" creationid="Didier" creationdate="20160427T154100Z">
         <seg>Réaligner les éléments en attente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Reapplies modifications that were cancelled while the segment is current.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230327T153222Z" creationid="Anand" creationdate="20230327T153222Z">
+        <seg>Rétablit les modifications qui ont été annulées du segment actuel.</seg>
       </tuv>
     </tu>
     <tu>
