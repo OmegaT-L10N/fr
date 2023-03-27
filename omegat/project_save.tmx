@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_02bf2621" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7806,6 +7806,14 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20211120T232634Z" creationid="suzume" creationdate="20211120T232634Z">
         <seg>&lt;g0&gt;Remplacer tout :&lt;/g0&gt; effectue le remplacement de toutes les occurrences (après l'affichage d'une fenêtre de confirmation où le nombre d'occurrences est affiché).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Replace With Match or Selection&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;R&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230327T153258Z" creationid="Anand" creationdate="20230327T153258Z">
+        <seg>&lt;g0&gt;Remplacer par la correspondance ou la sélection&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;R&lt;/k3&gt;&lt;/k1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -54337,6 +54345,14 @@ ces mots : « pas de page »...</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Replaces the target segment with the currently selected fuzzy match (the first match by default) or with the text selected in the &lt;l0/&gt; pane.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230327T153508Z" creationid="Anand" creationdate="20230327T153508Z">
+        <seg>Remplace le segment cible par la correspondance partielle sélectionnée (la première correspondance par défaut) ou par le texte sélectionné dans le volet &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Replaces the target segment with the machine translation of the source.</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130421T230638Z">
@@ -56950,6 +56966,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l0/&gt; pane description for details..</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230327T153603Z" creationid="Anand" creationdate="20230327T153603Z">
+        <seg>Voir la description du volet &lt;l0/&gt; pour en savoir plus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;l0/&gt; preference for details.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221220T113710Z" creationid="suzume" creationdate="20221220T113710Z">
@@ -58003,6 +58027,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20230320T145432Z" creationid="Didier" creationdate="20180419T151024Z">
         <seg>Options sélectionnées :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Selected text has priority over the selected match.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230327T153529Z" creationid="Anand" creationdate="20230327T153529Z">
+        <seg>Le texte sélectionné à la priorité sur la correspondance sélectionnée.</seg>
       </tuv>
     </tu>
     <tu>
