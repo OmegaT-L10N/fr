@@ -7746,6 +7746,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Insert Missing Source Tags&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;S&lt;/k3&gt;&lt;k4&gt;T&lt;/k4&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230327T161459Z" creationid="Anand" creationdate="20230327T161459Z">
+        <seg>&lt;g0&gt;Insérer les balises sources manquantes&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;Maj&lt;/k3&gt;&lt;k4&gt;T&lt;/k4&gt;&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Insert Source&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;S&lt;/k3&gt;&lt;k4&gt;I&lt;/k4&gt;&lt;/k1&gt;</seg>
       </tuv>
       <tuv lang="fr" changeid="Anand" changedate="20230327T160512Z" creationid="Anand" creationdate="20230327T154519Z">
@@ -37453,6 +37461,14 @@ patent against the party.</seg>
       </tuv>
       <tuv lang="fr" changeid="Anand" changedate="20230327T154032Z" creationid="Anand" creationdate="20230327T153925Z">
         <seg>Insère la correspondance partielle sélectionnée ou le texte sélectionné dans le panneau &lt;l0/&gt; à la position où se trouve le curseur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Inserts the remaining missing source tags at the cursor position.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230327T161608Z" creationid="Anand" creationdate="20230327T161608Z">
+        <seg>Insère les balises sources manquantes à la position où se trouve le curseur.</seg>
       </tuv>
     </tu>
     <tu>
