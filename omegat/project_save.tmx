@@ -6761,6 +6761,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;In this manual:&lt;/e0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;Z&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230327T152601Z" creationid="Anand" creationdate="20230327T152601Z">
+        <seg>&lt;e0&gt;Dans ce manuel :&lt;/e0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;Z&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Install over the existing installation.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130527T144819Z">
@@ -7870,6 +7878,14 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20211122T092600Z" creationid="suzume" creationdate="20211122T092358Z">
         <seg>&lt;g0&gt;Traduits&lt;/g0&gt; : effectue la recherche uniquement dans les segments traduits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Undo Last Action&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;Z&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230327T152635Z" creationid="Anand" creationdate="20230327T152635Z">
+        <seg>&lt;g0&gt;Annuler la dernière action&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;Z&lt;/k3&gt;&lt;/k1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -48123,6 +48139,14 @@ disponible dans MacPorts sous le nom « py27-pysvn ».</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>On Windows and Linux: &lt;k0&gt;&lt;k1&gt;Control&lt;/k1&gt;&lt;k2&gt;Z&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230327T152513Z" creationid="Anand" creationdate="20230327T152513Z">
+        <seg>Sur Windows et Linux : &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;Z&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>On Windows and Linux: &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;Shift&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20230316T083028Z" creationid="Léo Delaune" creationdate="20230302T161413Z">
@@ -48175,6 +48199,14 @@ disponible dans MacPorts sous le nom « py27-pysvn ».</seg>
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230322T123719Z" creationid="sirine" creationdate="20230322T123719Z">
         <seg>Sous macOS : &lt;k0&gt;&lt;k1&gt;Command&lt;/k1&gt;&lt;k2&gt;E&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On macOS: &lt;k0&gt;&lt;k1&gt;Command&lt;/k1&gt;&lt;k2&gt;Z&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230327T152522Z" creationid="Anand" creationdate="20230327T152522Z">
+        <seg>Sur macOS : &lt;k0&gt;&lt;k1&gt;Commande&lt;/k1&gt;&lt;k2&gt;Z&lt;/k2&gt;&lt;/k0&gt;</seg>
       </tuv>
     </tu>
     <tu>
