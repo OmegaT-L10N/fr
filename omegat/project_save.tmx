@@ -7836,8 +7836,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="en">
         <seg>&lt;g0&gt;Replace with Source&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;S&lt;/k3&gt;&lt;k4&gt;R&lt;/k4&gt;&lt;/k1&gt;</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230327T154158Z" creationid="Anand" creationdate="20230327T154158Z">
-        <seg>&lt;g0&gt;Remplacer par la source&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;S&lt;/k3&gt;&lt;k4&gt;R&lt;/k4&gt;&lt;/k1&gt;</seg>
+      <tuv lang="fr" changeid="Anand" changedate="20230327T154931Z" creationid="Anand" creationdate="20230327T154158Z">
+        <seg>&lt;g0&gt;Remplacer par la source&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;M&lt;/k3&gt;&lt;k4&gt;R&lt;/k4&gt;&lt;/k1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -37429,6 +37429,14 @@ patent against the party.</seg>
       </tuv>
       <tuv lang="fr" changeid="Anand" changedate="20230327T154032Z" creationid="Anand" creationdate="20230327T153925Z">
         <seg>Insère la correspondance partielle sélectionnée ou le texte sélectionné dans le panneau &lt;l0/&gt; à la position où se trouve le curseur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Inserts the segment source at the cursor position.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230327T154953Z" creationid="Anand" creationdate="20230327T154953Z">
+        <seg>Insère le segment source à la position où se trouve le curseur.</seg>
       </tuv>
     </tu>
     <tu>
