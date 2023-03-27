@@ -7729,6 +7729,15 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>(Anand) C + C  ça peut porter à confusion, même dans le texte source</note>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Export Selection&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;C&lt;/k3&gt;&lt;k4&gt;S&lt;/k4&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230327T162001Z" creationid="Anand" creationdate="20230327T162001Z">
+        <seg>&lt;g0&gt;Exporter la sélection&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;C&lt;/k3&gt;&lt;k4&gt;Maj&lt;/k4&gt;&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>&lt;g0&gt;Ignore file context when identifying segments with alternate translations&lt;/g0&gt;: by default, OmegaT uses the source file name as part of the identification of an alternative translation.</seg>
       </tuv>
@@ -7750,6 +7759,14 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
       <tuv lang="fr" changeid="Anand" changedate="20230327T161459Z" creationid="Anand" creationdate="20230327T161459Z">
         <seg>&lt;g0&gt;Insérer les balises sources manquantes&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;Maj&lt;/k3&gt;&lt;k4&gt;T&lt;/k4&gt;&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Insert Next Missing Tag&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;T&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230327T161653Z" creationid="Anand" creationdate="20230327T161653Z">
+        <seg>&lt;g0&gt;Insère la prochaine balise manquante&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;T&lt;/k3&gt;&lt;/k1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -37461,6 +37478,14 @@ patent against the party.</seg>
       </tuv>
       <tuv lang="fr" changeid="Anand" changedate="20230327T154032Z" creationid="Anand" creationdate="20230327T153925Z">
         <seg>Insère la correspondance partielle sélectionnée ou le texte sélectionné dans le panneau &lt;l0/&gt; à la position où se trouve le curseur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Inserts the next missing tag at the cursor position.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230327T161721Z" creationid="Anand" creationdate="20230327T161721Z">
+        <seg>Insère la prochaine balise manquante à la position où se trouve le curseur.</seg>
       </tuv>
     </tu>
     <tu>
