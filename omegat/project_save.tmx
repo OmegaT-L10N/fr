@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_02bf2621" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2685,6 +2685,14 @@ Le caractère « ? » correspond à un seul caractère. La recherche sur « m
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T105041Z">
         <seg>(?i)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>(And do so again each time you reach a large unchanged section.)</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230327T152948Z" creationid="sirine" creationdate="20230327T152948Z">
+        <seg>(Et répétez l'opération chaque fois que vous atteignez une partie inchangée).</seg>
       </tuv>
     </tu>
     <tu>
@@ -12162,6 +12170,14 @@ this License.</seg>
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230308T223503Z" creationid="sirine" creationdate="20230308T223503Z">
         <seg>Quelques exemples sont présentés dans le tableau ci-dessous.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A few segments later, you come across a term you should add to the glossary.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230327T153006Z" creationid="sirine" creationdate="20230327T153006Z">
+        <seg>Quelques segments plus tard, vous tombez sur un terme que vous devriez ajouter au glossaire.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37669,6 +37685,14 @@ exécutez simplement le programme d'installation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Instead of reaching for the mouse, you unlock the cursor with &lt;l0&gt;&lt;k1&gt;F2&lt;/k1&gt;&lt;/l0&gt;, use the cursor keys and standard system shortcuts to navigate to the term and select it, and then press &lt;k2&gt;&lt;k3&gt;C&lt;/k3&gt;&lt;k4&gt;S&lt;/k4&gt;&lt;k5&gt;G&lt;/k5&gt;&lt;/k2&gt; to &lt;l6&gt;call up the glossary entry dialog&lt;/l6&gt; to enter the source term.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230327T153317Z" creationid="sirine" creationdate="20230327T153317Z">
+        <seg>Au lieu de prendre la souris, vous déverrouillez le curseur avec &lt;l0&gt;&lt;k1&gt;F2&lt;/k1&gt;&lt;/l0&gt;, utilisez les touches du curseur et les raccourcis système standard pour naviguer jusqu'au terme et le sélectionner. Puis appuyez sur &lt;k2&gt;&lt;k3&gt;C&lt;/k3&gt;&lt;k4&gt;S&lt;/k4&gt;&lt;k5&gt;G&lt;/k5&gt;&lt;/k2&gt; pour afficher &lt;l6&gt;la boîte de dialogue de saisie du glossaire&lt;/l6&gt; et y insérer le terme source.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Instead, the translators copy the files themselves, or add mappings to synchronize files from other locations.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210129T085507Z" creationid="suzume" creationdate="20210129T085444Z">
@@ -52861,6 +52885,14 @@ ces mots : « pas de page »...</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021936Z">
         <seg>Sans un bruit&lt;p&gt;ces mots : « pas de page »...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rather than tediously scroll down until you find the first segment to translate, you quickly press &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;U&lt;/k2&gt;&lt;/k0&gt; to &lt;l3&gt;jump straight into the action&lt;/l3&gt; and start translating.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230327T152739Z" creationid="sirine" creationdate="20230327T152739Z">
+        <seg>Plutôt que de faire défiler les pages jusqu'à ce que vous trouviez le premier segment à traduire, vous appuyez rapidement sur &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;U&lt;/k2&gt;&lt;/k0&gt; pour &lt;l3&gt;se mettre immédiatement à l'œuvre&lt;/l3&gt; et commencer à traduire.</seg>
       </tuv>
     </tu>
     <tu>
