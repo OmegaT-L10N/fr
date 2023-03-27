@@ -33393,6 +33393,14 @@ tous les paramètres reprendront leur valeur par défaut,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the &lt;l0/&gt; preference is disabled, use this action once to fetch the translation, and a second time to insert it.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230327T161036Z" creationid="Anand" creationdate="20230327T161036Z">
+        <seg>Si le la préférence &lt;l0/&gt; est désactivée, utilisez cette option une fois pour récupérer la traduction, et une seconde fois pour l'insérer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the Auto-propagation check box is not checked, the segments with alternative translations are left untranslated until the user has decided which translation is to be used.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130506T121051Z">
@@ -54437,6 +54445,14 @@ ces mots : « pas de page »...</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130421T230638Z">
         <seg>Remplace le segment cible par une traduction automatique de la source.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replaces the target segment with the translation provided by the selected machine translation service.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Anand" changedate="20230327T160815Z" creationid="Anand" creationdate="20230327T160815Z">
+        <seg>Remplace le segment cible par une traduction automatique fournie par le service de traduction automatique que vous avez choisi.</seg>
       </tuv>
     </tu>
     <tu>
