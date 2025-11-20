@@ -56,7 +56,6 @@
             <repository type="git" url="https://github.com/omegat-l10n/omegat-website.git">
                 <mapping local="source/website/" repository="_i18n/en/">
                    <excludes>**/howtos/**</excludes>
-                   <excludes>/.github/</excludes>
                 </mapping>
                 <mapping local="source/website/yml/fr.yml" repository="_i18n/en.yml"/>
             </repository>
