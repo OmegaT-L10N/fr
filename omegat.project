@@ -30,7 +30,9 @@
                 <mapping local="" repository=""/>
             </repository>
             <repository type="git" url="https://github.com/OmegaT-L10N/doc_src.git">
-                <mapping local="source/doc_src/" repository=""/>
+                <mapping local="source/doc_src/" repository="">
+                    <excludes>/.github/</excludes>
+                </mapping>
             </repository>
             <repository type="http" url="https://github.com/omegat-org/omegat/raw/master/">
                 <mapping local="source/Bundle.properties" repository="src/org/omegat/Bundle.properties"/>
@@ -54,6 +56,7 @@
             <repository type="git" url="https://github.com/omegat-l10n/omegat-website.git">
                 <mapping local="source/website/" repository="_i18n/en/">
                    <excludes>**/howtos/**</excludes>
+                   <excludes>/.github/</excludes>
                 </mapping>
                 <mapping local="source/website/yml/fr.yml" repository="_i18n/en.yml"/>
             </repository>
