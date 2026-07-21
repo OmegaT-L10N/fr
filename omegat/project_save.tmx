@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.0_0_0f8111ef7" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.2.0_0_8bda07422" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -82121,6 +82121,8 @@ shown below.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>This project = présent dans le projet,
++1 more = et présent aussi ailleurs</note>
       <tuv lang="en">
         <seg>The application folder contains the &lt;f0&gt;OmegaT.jar&lt;/f0&gt; application and a number of other important files.</seg>
       </tuv>
@@ -82624,6 +82626,14 @@ utilisé à la place.</seg>
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230306T110030Z" creationid="sirine" creationdate="20230306T110030Z">
         <seg>Le contenu du groupe peut également être utilisé dans le &lt;l0&gt;texte de remplacement&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The content of the group can also be used in the replacement text.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="sirine" changedate="20230306T110030Z" creationid="sirine" creationdate="20230306T110030Z">
+        <seg>Le contenu du groupe peut également être utilisé dans le texte de remplacement.</seg>
       </tuv>
     </tu>
     <tu>
