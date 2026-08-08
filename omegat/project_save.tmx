@@ -5596,6 +5596,14 @@ Valider les balises.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>0</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260808T164008Z" creationid="suzume" creationdate="20260808T164008Z">
+        <seg>0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>0 or more &lt;c0&gt;modifier&lt;/c0&gt;</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20230517T053804Z" creationid="Léo Delaune" creationdate="20230303T091457Z">
@@ -5773,6 +5781,14 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T105221Z">
         <seg>27/27</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>3 3 * * 6</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260808T164130Z" creationid="suzume" creationdate="20260808T164130Z">
+        <seg>3 3 * * 6</seg>
       </tuv>
     </tu>
     <tu>
@@ -21422,6 +21438,14 @@ this License without regard to the additional permissions.</seg>
         <seg>Align project against {0}</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20120131T094721Z">
+        <seg>Aligner le projet par rapport à {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Align the project against {0}</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260808T164458Z" creationid="suzume" creationdate="20260808T164458Z">
         <seg>Aligner le projet par rapport à {0}</seg>
       </tuv>
     </tu>
@@ -64070,6 +64094,14 @@ ajouter "file"</note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Optional reason for manual run</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260808T163937Z" creationid="suzume" creationdate="20260808T163937Z">
+        <seg>Optional reason for manual run</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Optionally, you can let &lt;a0&gt;OmegaT&lt;/a0&gt; have an additional tmx file (&lt;a1&gt;OmegaT&lt;/a1&gt;-style) anywhere you specify, containing all translatable segments of the project.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130528T100809Z">
@@ -106105,6 +106137,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>actions/checkout@v5</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260808T164006Z" creationid="suzume" creationdate="20260808T164006Z">
+        <seg>actions/checkout@v5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ae</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T095820Z">
@@ -108002,6 +108042,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>diff</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260808T164036Z" creationid="suzume" creationdate="20260808T164036Z">
+        <seg>diff</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>dir-10\\test\.html</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T104544Z">
@@ -108826,6 +108874,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>false</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260808T163940Z" creationid="suzume" creationdate="20260808T163940Z">
+        <seg>false</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>fao</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T095922Z">
@@ -109164,10 +109220,34 @@ for (i in 0 ..&lt; files.size())
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>git clone --depth=1 https://github.com/${{ env.UPSTREAM_REPO }}.git _upstream&lt;x1/&gt;curl -L -o _upstream/branch.tar.gz https://github.com/${{ env.UPSTREAM_REPO }}/archive/refs/heads/${{ env.MAINTAINANCE_BRANCH }}.tar.gz&lt;x2/&gt;curl -L -o _upstream/oldbranch.tar.gz https://github.com/${{ env.UPSTREAM_REPO }}/archive/refs/heads/${{ env.OLD_MAINTAINANCE_BRANCH }}.tar.gz&lt;x3/&gt;cd _upstream&lt;x4/&gt;tar xf branch.tar.gz&lt;x5/&gt;tar xf oldbranch.tar.gz</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260808T164018Z" creationid="suzume" creationdate="20260808T164018Z">
+        <seg>git clone --depth=1 https://github.com/${{ env.UPSTREAM_REPO }}.git _upstream&lt;x1/&gt;curl -L -o _upstream/branch.tar.gz https://github.com/${{ env.UPSTREAM_REPO }}/archive/refs/heads/${{ env.MAINTAINANCE_BRANCH }}.tar.gz&lt;x2/&gt;curl -L -o _upstream/oldbranch.tar.gz https://github.com/${{ env.UPSTREAM_REPO }}/archive/refs/heads/${{ env.OLD_MAINTAINANCE_BRANCH }}.tar.gz&lt;x3/&gt;cd _upstream&lt;x4/&gt;tar xf branch.tar.gz&lt;x5/&gt;tar xf oldbranch.tar.gz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>git clone https://git.code.sf.net/p/omegat/code omegat-code</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20191002T113607Z" creationid="briac" creationdate="20191002T113607Z">
         <seg>git clone https://git.code.sf.net/p/omegat/code omegat-code</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>git config user.name "github-actions[bot]"&lt;x1/&gt;git config user.email "l10n-github-actions@noreply.omegat.org"</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260808T164015Z" creationid="suzume" creationdate="20260808T164015Z">
+        <seg>git config user.name "github-actions[bot]"&lt;x1/&gt;git config user.email "l10n-github-actions@noreply.omegat.org"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>git push origin HEAD:master</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260808T164055Z" creationid="suzume" creationdate="20260808T164055Z">
+        <seg>git push origin HEAD:master</seg>
       </tuv>
     </tu>
     <tu>
@@ -112100,6 +112180,14 @@ for (i in 0 ..&lt; files.size())
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>if git diff --staged --quiet; then&lt;x1/&gt;echo "changed=false" &gt;&gt; "$GITHUB_OUTPUT"&lt;x2/&gt;else&lt;x3/&gt;echo "changed=true" &gt;&gt; "$GITHUB_OUTPUT"&lt;x4/&gt;fi</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260808T164040Z" creationid="suzume" creationdate="20260808T164040Z">
+        <seg>if git diff --staged --quiet; then&lt;x1/&gt;echo "changed=false" &gt;&gt; "$GITHUB_OUTPUT"&lt;x2/&gt;else&lt;x3/&gt;echo "changed=true" &gt;&gt; "$GITHUB_OUTPUT"&lt;x4/&gt;fi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>if sentence segmentation rules are active, the text will be segmented further according to the option selected here.</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20200503T104044Z" creationid="briac" creationdate="20200503T104044Z">
@@ -113488,6 +113576,22 @@ Ok. </note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>manual-6.1</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260808T163957Z" creationid="suzume" creationdate="20260808T163957Z">
+        <seg>manual-6.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>manuals-6.0</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260808T163949Z" creationid="suzume" creationdate="20260808T163949Z">
+        <seg>manuals-6.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>mapping local</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210129T102739Z" creationid="suzume" creationdate="20210129T102739Z">
@@ -113508,6 +113612,14 @@ Ok. </note>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T100110Z">
         <seg>mar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>master</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260808T163946Z" creationid="suzume" creationdate="20260808T163946Z">
+        <seg>master</seg>
       </tuv>
     </tu>
     <tu>
@@ -114628,6 +114740,30 @@ Ok. </note>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130424T080706Z">
         <seg>dossier omegat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>omegat-org/omegat</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260808T163945Z" creationid="suzume" creationdate="20260808T163945Z">
+        <seg>omegat-org/omegat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>omegat-releases-6.0</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260808T163948Z" creationid="suzume" creationdate="20260808T163948Z">
+        <seg>omegat-releases-6.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>omegat-releases-6.1</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260808T164155Z" creationid="suzume" creationdate="20260808T163952Z">
+        <seg>omegat-releases-6.1</seg>
       </tuv>
     </tu>
     <tu>
@@ -115764,6 +115900,22 @@ Ok. </note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>releases/6.0</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260808T163947Z" creationid="suzume" creationdate="20260808T163947Z">
+        <seg>releases/6.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>releases/6.1</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260808T163954Z" creationid="suzume" creationdate="20260808T163950Z">
+        <seg>releases/6.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>remove char after cursor</seg>
       </tuv>
       <tuv lang="fr" changeid="brigitte" changedate="20130712T175849Z">
@@ -116524,6 +116676,14 @@ Ok. </note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>steps.diff.outputs.changed == 'true'</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260808T164043Z" creationid="suzume" creationdate="20260808T164043Z">
+        <seg>steps.diff.outputs.changed == 'true'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>su</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T100226Z">
@@ -116576,6 +116736,14 @@ Ok. </note>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T100231Z">
         <seg>swe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>sync-i18n-en</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260808T163943Z" creationid="suzume" creationdate="20260808T163943Z">
+        <seg>sync-i18n-en</seg>
       </tuv>
     </tu>
     <tu>
@@ -117454,6 +117622,14 @@ Ok. </note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ts="$(date -u +'&lt;x1/&gt;-&lt;x2/&gt;-&lt;x3/&gt;')"&lt;x4/&gt;git commit -m "Sync manual(en) from upstream ${UPSTREAM_REPO} on ${ts}"</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260808T164044Z" creationid="suzume" creationdate="20260808T164044Z">
+        <seg>ts="$(date -u +'&lt;x1/&gt;-&lt;x2/&gt;-&lt;x3/&gt;')"&lt;x4/&gt;git commit -m "Sync manual(en) from upstream ${UPSTREAM_REPO} on ${ts}"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>tsn</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T100243Z">
@@ -117514,6 +117690,14 @@ Ok. </note>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T103550Z">
         <seg>ty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ubuntu-latest</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260808T163958Z" creationid="suzume" creationdate="20260808T163958Z">
+        <seg>ubuntu-latest</seg>
       </tuv>
     </tu>
     <tu>
@@ -118108,6 +118292,14 @@ config-dir="chemin/vers/nouveau/configdir"</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T103615Z">
         <seg>wol</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>write</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260808T163941Z" creationid="suzume" creationdate="20260808T163941Z">
+        <seg>write</seg>
       </tuv>
     </tu>
     <tu>
