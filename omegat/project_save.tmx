@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.1_0_4c766f495" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.2.0_0_96288dc85" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4175,6 +4175,18 @@ le programme d'installation peut créer des raccourcis pour vous dans le menu d�
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>-- 148&gt; | language = [[日本語]]・[[&lt;t0&gt;ドイツ&lt;/t0&gt;語]]
+&lt;p1&gt;-- 177&gt; [[2001年]]、 &lt;t2&gt;ドイツ&lt;/t2&gt;の永住権を取得。&lt;/p1&gt;
+---------</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260809T163301Z" creationid="suzume" creationdate="20260809T163301Z">
+        <seg>-- 148&gt; | language = [[日本語]]・[[&lt;t0&gt;ドイツ&lt;/t0&gt;語]]
+&lt;p1&gt;-- 177&gt; [[2001年]]、 &lt;t2&gt;ドイツ&lt;/t2&gt;の永住権を取得。&lt;/p1&gt;
+---------</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--% (-- left) / --% (-- left), --</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20140530T132641Z" creationid="Didier" creationdate="20140530T132040Z">
@@ -5777,6 +5789,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>2026-04-12_10-01 indicates that the session started at 10:01, on the 12th of April, 2026.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260809T080224Z" creationid="suzume" creationdate="20260809T080224Z">
+        <seg>2026-04-12_10-01 indique que la session a commencé à 10:01 le 12 avril 2026.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>27/27</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T105221Z">
@@ -5941,6 +5961,14 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20251224T061939Z">
         <seg>95 % à 100 % :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>97543 is a random number.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260809T080122Z" creationid="suzume" creationdate="20260809T080122Z">
+        <seg>où 97543 est un nombre aléatoire </seg>
       </tuv>
     </tu>
     <tu>
@@ -9526,6 +9554,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;f0&gt;OmegaT_2026-04-12_10-01_97543.log&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260809T080111Z" creationid="suzume" creationdate="20260809T080111Z">
+        <seg>&lt;f0&gt;OmegaT_2026-04-12_10-01_97543.log&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;f0&gt;alignDir &lt;/f0&gt;must contain a translation in the target language of the project.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130528T133502Z">
@@ -10906,6 +10942,14 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20230708T102117Z" creationid="Anand" creationdate="20230403T174052Z">
         <seg>&lt;g0&gt;Ouvrir…&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;O&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Open&lt;/g0&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260809T163316Z" creationid="suzume" creationdate="20260809T163316Z">
+        <seg>&lt;g0&gt;Ouvrir&lt;/g0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14940,6 +14984,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;o0&gt;--alignDir=&lt;/o0&gt; &lt;u1&gt;&lt;project path&gt;&lt;/u1&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260809T081054Z" creationid="suzume" creationdate="20260809T081054Z">
+        <seg>&lt;o0&gt;--alignDir=&lt;/o0&gt; &lt;u1&gt;&lt;chemin du projet&gt;&lt;/u1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;o0&gt;--alignDir=&lt;/o0&gt;&lt;u1&gt;&lt;project path&gt;&lt;/u1&gt;</seg>
       </tuv>
       <tuv lang="fr" changeid="JulieZ" changedate="20230512T135635Z" creationid="JulieZ" creationdate="20230512T135635Z">
@@ -15084,6 +15136,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;o0&gt;--output-file=&lt;/o0&gt; &lt;u1&gt;[stats-output-file]&lt;/u1&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260809T081200Z" creationid="suzume" creationdate="20260809T081200Z">
+        <seg>&lt;o0&gt;--output-file=&lt;/o0&gt; &lt;u1&gt;[fichier de sortie des statistiques]&lt;/u1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;o0&gt;--output-file=&lt;/o0&gt;&lt;u1&gt;[stats-output-file]&lt;/u1&gt;</seg>
       </tuv>
       <tuv lang="fr" changeid="JulieZ" changedate="20230512T142515Z" creationid="JulieZ" creationdate="20230512T142515Z">
@@ -15176,6 +15236,14 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20230708T134557Z" creationid="suzume" creationdate="20230708T134557Z">
         <seg>&lt;o0&gt;--script=&lt;e1&gt;&lt;chemin&gt;&lt;/e1&gt;&lt;/o0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;o0&gt;--source-pattern=&lt;/o0&gt; &lt;u1&gt;&lt;pattern&gt;&lt;/u1&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260809T081114Z" creationid="suzume" creationdate="20260809T081039Z">
+        <seg>&lt;o0&gt;--source-pattern=&lt;/o0&gt; &lt;u1&gt;&lt;masque&gt;&lt;/u1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -19594,6 +19662,14 @@ or that patent license was granted, prior to 28 March 2007.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A project manager who also works on the project as a translator must download a separate translation copy of the project to a local location other than the one used to create and manage that project.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260809T152725Z" creationid="suzume" creationdate="20260809T152725Z">
+        <seg>Une gestionnaire du projet qui travaille également sur le projet en tant que traductaire doit télécharger une copie du projet séparée à un emplacement local autre que celui utilisé pour créer et gérer celui-ci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A project's tmx will be upgraded only once, and will be written in upgraded form into the &lt;f0&gt;project-save.tmx&lt;/f0&gt;; legacy tmx files will be upgraded on the fly each time the project is loaded.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021550Z">
@@ -19854,6 +19930,14 @@ or that patent license was granted, prior to 28 March 2007.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130507T074042Z">
         <seg>Une unité de traduction se compose d'au moins deux variantes d'unité de traduction (VUT).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A typical log file name</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260809T080107Z" creationid="suzume" creationdate="20260809T080107Z">
+        <seg>Le nom d’un fichier journal aura la forme suivante : </seg>
       </tuv>
     </tu>
     <tu>
@@ -21202,6 +21286,14 @@ this License without regard to the additional permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>After the project is ready and has been uploaded to the server, the project manager will require the following information to set up access for the translators:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260809T152457Z" creationid="suzume" creationdate="20260809T152457Z">
+        <seg>Une fois le projet prêt et téléchargé sur le serveur, la gestionnaire du projet doit demander les informations suivantes aux membres de l’équipe de traduction pour configurer leur accès.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>After the project is ready and has been uploaded to the server, the team project administrator has to set up access for the translators.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20251226T203251Z" creationid="Anand" creationdate="20230322T080113Z">
@@ -21213,6 +21305,14 @@ this License without regard to the additional permissions.</seg>
         <seg>After the project manager confirms that a translator has been able to open the team project, it is a good idea to make sure that the &lt;l0&gt;project statistics&lt;/l0&gt; are the same for both the project manager (on the server) and the translator (locally).</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20251226T201215Z" creationid="suzume" creationdate="20251226T201215Z">
+        <seg>Une fois que la gestionnaire du projet a confirmé que les membres ont réussi à ouvrir le projet en équipe, il est préférable de veiller à ce que les &lt;l0&gt;statistiques du projet&lt;/l0&gt; soient les mêmes pour celle-ci (sur le serveur) et pour les membres (localement).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After the project manager confirms that a translator has been able to open the team project, it is a good idea to make sure that the project &lt;l0&gt;project statistics&lt;/l0&gt; are the same for both the project manager (on the server) and the translator (locally).</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260809T152614Z" creationid="suzume" creationdate="20260809T152614Z">
         <seg>Une fois que la gestionnaire du projet a confirmé que les membres ont réussi à ouvrir le projet en équipe, il est préférable de veiller à ce que les &lt;l0&gt;statistiques du projet&lt;/l0&gt; soient les mêmes pour celle-ci (sur le serveur) et pour les membres (localement).</seg>
       </tuv>
     </tu>
@@ -21270,6 +21370,14 @@ this License without regard to the additional permissions.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20251226T205548Z" creationid="suzume" creationdate="20251226T205548Z">
         <seg>Après avoir généré les fichiers cible, utilisez le menu &lt;l0/&gt;&lt;l1/&gt; pour les ajouter au serveur, si la gestionnaire du projet vous a demandé de le faire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After you generate the target, files use the &lt;l0/&gt; &lt;l1/&gt; command to add them to the server if the project manager has requested you to do so.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260809T162704Z" creationid="suzume" creationdate="20260809T162704Z">
+        <seg>Après avoir généré les fichiers cible, utilisez la commande &lt;l0/&gt; &lt;l1/&gt; pour les ajouter au serveur, si la gestionnaire du projet vous a demandé de le faire.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22420,6 +22528,14 @@ OmegaT.exe.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Although OmegaT provides a mechanism for adding translation source and target files to the repository, the project manager must add any other files, such as dictionaries, glossaries or reference translation memories, from the VCS client.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260809T152822Z" creationid="suzume" creationdate="20260809T152822Z">
+        <seg>Bien qu’OmegaT mette à disposition un mécanisme pour ajouter des fichiers à traduire et des fichiers traduits au dépôt, la gestionnaire du projet devra ajouter les autres fichiers (dictionnaires, glossaires, mémoire de référence), à partir du logiciel de gestion de version.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Although OmegaT provides a mechanism for adding translation source and target files to the repository, the project manager must add any other files, such as dictionaries, glossaries or reference translation memories, from the VCS repository.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20251226T202331Z" creationid="suzume" creationdate="20251226T202331Z">
@@ -22592,6 +22708,14 @@ the predecessor has it or can get it with reasonable efforts.</seg>
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230322T124152Z" creationid="sirine" creationdate="20230322T124152Z">
         <seg>Un projet OmegaT est simplement un ensemble de dossiers contenant toutes les ressources par défaut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An OmegaT team project synchronizes the project translation memory (&lt;l0/&gt;) and the project writable glossary (&lt;l1/&gt;) between the VCS hosting server and all the participating team members.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260809T081228Z" creationid="suzume" creationdate="20260809T081228Z">
+        <seg>Un projet en équipe OmegaT synchronise la mémoire de traduction du projet &lt;l0/&gt; et le glossaire modifiable du projet &lt;l1/&gt; entre le serveur d’hébergement et tous les membres de l’équipe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24627,6 +24751,14 @@ L’idée c’est de retirer "utilisateur" totalement.
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Avoid using that folder for translation tasks.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260809T081309Z" creationid="suzume" creationdate="20260809T081309Z">
+        <seg>Évitez d’utiliser ce dossier pour des tâches de traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Aymara</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130519T100743Z">
@@ -24752,6 +24884,15 @@ FOR THE PROGRAM, TO THE EXTENT PERMITTED BY APPLICABLE LAW.</seg>
       </tuv>
       <tuv lang="fr">
         <seg>Nom de dossier erroné {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Pourquoi pas "error" ?</note>
+      <tuv lang="en">
+        <seg>Bad location exception when changing case</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260809T074536Z" creationid="suzume" creationdate="20260809T074536Z">
+        <seg>Erreur d’emplacement lors du changement de casse</seg>
       </tuv>
     </tu>
     <tu>
@@ -34438,6 +34579,14 @@ Ajouter C:\Program Files (x86)\Prince\Engine\bin dans le Path.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Downloading the project creates a copy on the translator's computer that only needs to be opened locally to synchronize with the server.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260809T153132Z" creationid="suzume" creationdate="20260809T153132Z">
+        <seg>Télécharger le projet en crée une copie sur l’ordinateur de la traductaire qu’il suffira d’ouvrir localement pour le synchroniser avec le serveur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Downloading the right package</seg>
       </tuv>
       <tuv lang="fr" changeid="brigitte" changedate="20130713T114705Z">
@@ -36246,6 +36395,14 @@ personne ne vous entend pleurer…</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error loading dictionary from '{0}': {1}</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260809T074333Z" creationid="suzume" creationdate="20260809T074333Z">
+        <seg>Erreur de chargement du dictionnaire depuis {0} : {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error loading hunspell: {0}</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20251224T051742Z" creationid="suzume" creationdate="20251125T101659Z">
@@ -36286,6 +36443,14 @@ personne ne vous entend pleurer…</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error preparing SAX parsing</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260809T074556Z" creationid="suzume" creationdate="20260809T074556Z">
+        <seg>Erreur lors de la préparation de l’analyse SAX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error reading TMX level2 at line {0} column {1}</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20230517T051532Z">
@@ -36312,6 +36477,14 @@ personne ne vous entend pleurer…</seg>
       <note>weird</note>
       <tuv lang="en">
         <seg>Error saving ignore words"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error saving ignored words</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260809T074451Z" creationid="suzume" creationdate="20260809T074359Z">
+        <seg>Erreur d’enregistrement des mots ignorés</seg>
       </tuv>
     </tu>
     <tu>
@@ -38013,10 +38186,29 @@ Certains attributs ont des valeurs incorrectes.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to parse YAML: {0}</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260809T073844Z" creationid="suzume" creationdate="20260809T073844Z">
+        <seg>Impossible d’analyser le fichier YAML : {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to update project properties</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20230517T051754Z" creationid="Didier" creationdate="20171116T161514Z">
         <seg>Les propriétés du projet n’ont pas pu être mises à jour</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Failed to parse YAML: {0}
+
+YAML file ?</note>
+      <tuv lang="en">
+        <seg>Failed to write YAML: {0}</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260809T073916Z" creationid="suzume" creationdate="20260809T073916Z">
+        <seg>Impossible d’écrire le fichier YAML : {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -38570,6 +38762,14 @@ patents.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130503T075930Z">
         <seg>En définitive, un programme libre restera à la merci des brevets de logiciels.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Finally, publish your project to the remote server ( &lt;c0&gt;commit&lt;/c0&gt; and &lt;c1&gt;push&lt;/c1&gt; in Git, and &lt;c2&gt;commit&lt;/c2&gt; in SVN).</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260809T152359Z" creationid="suzume" creationdate="20260809T152359Z">
+        <seg>Enfin, publiez votre projet sur le serveur distant (&lt;c0&gt;commit&lt;/c0&gt; suivi de &lt;c1&gt;push&lt;/c1&gt; avec Git, &lt;c2&gt;commit&lt;/c2&gt; avec SVN).</seg>
       </tuv>
     </tu>
     <tu>
@@ -39467,6 +39667,14 @@ know their rights.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, members can have the Editor pane show translations made by a given person, or contents translated before or after a given time, or combinations thereof.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260809T153426Z" creationid="suzume" creationdate="20260809T153426Z">
+        <seg>Par exemple, il est possible d’afficher le contenu traduit par une personne spécifique, ou d’afficher le contenu traduit après ou avant une date spécifique, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, rules for Canadian French (FR-CA) should be set higher than rules for French (FR.*), and higher than Default (.*) ones.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130528T095547Z">
@@ -39877,6 +40085,22 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130527T153039Z">
         <seg>Pour les programmeurs : permet de configurer les options de validation des balises afin de vérifier également les variables de programmation (%...).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For projects on a hosting service</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260809T152505Z" creationid="suzume" creationdate="20260809T152505Z">
+        <seg>Projets sur un service d’hébergement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For projects on a self-hosted server</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260809T152510Z" creationid="suzume" creationdate="20260809T152510Z">
+        <seg>Projets sur un serveur autohébergé</seg>
       </tuv>
     </tu>
     <tu>
@@ -43032,6 +43256,14 @@ parties remain in full compliance.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>However, they can only be deleted by the project manager via the VCS.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260809T152020Z" creationid="suzume" creationdate="20260809T152020Z">
+        <seg>Cependant, ces fichiers ne peuvent être effacés que par la gestionnaire du projet à l’aide du logiciel de gestion de version.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>However, you may want to remove the &lt;k0&gt;S&lt;/k0&gt; key from the shortcut to make it only &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;W&lt;/k3&gt; &lt;/k1&gt; (or &lt;k4&gt; &lt;k5&gt;Command&lt;/k5&gt; &lt;k6&gt;W&lt;/k6&gt; &lt;/k4&gt; on macOS) to match the shortcut you use in other applications.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20260322T093449Z" creationid="suzume" creationdate="20260322T093449Z">
@@ -43879,6 +44111,14 @@ circumstances.</seg>
         <seg>If any shared team project files have become unnecessary, the project manager &lt;e0&gt;must&lt;/e0&gt; delete them from the VCS repository.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20251226T202552Z" creationid="suzume" creationdate="20251226T202552Z">
+        <seg>Si des fichiers partagés deviennent inutiles, la gestionnaire du projet &lt;e0&gt;devra&lt;/e0&gt; utiliser le logiciel de gestion de version pour les retirer du projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If any shared team project files have become unnecessary, the project manager &lt;e0&gt;must&lt;/e0&gt; use the VCS to delete them from the repository.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260809T152844Z" creationid="suzume" creationdate="20260809T152844Z">
         <seg>Si des fichiers partagés deviennent inutiles, la gestionnaire du projet &lt;e0&gt;devra&lt;/e0&gt; utiliser le logiciel de gestion de version pour les retirer du projet.</seg>
       </tuv>
     </tu>
@@ -45086,6 +45326,14 @@ when it starts in an interactive mode:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the server does not have a provision for translators to register an account themselves, the project manager must create accounts with write access for the translators.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260809T152525Z" creationid="suzume" creationdate="20260809T152525Z">
+        <seg>Si le serveur ne permet pas aux membres de l’équipe d’ouvrir un compte directement, la gestionnaire du projet en équipe devra créer des comptes avec un accès en écriture pour les membres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the server is self-hosted and does not have a provision for translators to register an account themselves, the project manager must create accounts with write access for the translators.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20251226T200947Z" creationid="suzume" creationdate="20251226T200947Z">
@@ -45229,6 +45477,14 @@ authors' reputations.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130503T135641Z">
         <seg>Si la valeur est &lt;l2&gt;warn&lt;/l2&gt;, les erreurs sont alors affichées mais OmegaT continue à fonctionner.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If there are any conflicts at that time, OmegaT will present a dialog to let you choose the correct version.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260809T163105Z" creationid="suzume" creationdate="20260809T163105Z">
+        <seg>Si à ce moment-là un conflit apparaît, OmegaT affichera un dialogue pour vous permettre de choisir la version appropriée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46039,6 +46295,14 @@ been installed in ROM).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you created the project from the OmegaT GUI, you then have to explicitly add it to the version control system ( &lt;c0&gt;add&lt;/c0&gt; in both Git and SVN).</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260809T152249Z" creationid="suzume" creationdate="20260809T152249Z">
+        <seg>Si vous avez créé le projet à partir de l’interface graphique d’OmegaT, vous devrez alors explicitement l’ajouter au logiciel de gestion de version (&lt;c0&gt;add&lt;/c0&gt; dans Git et SVN).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you decide mid-translation to switch from sentence to paragraph translation, the internal translation memory of the project will not be changed (OmegaT may upgrade old translation memories that did not use sentence segmentation, but not vice versa), but OmegaT will attemp to create paragraph fuzzy matches by glueing together existing sentence translations.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20151111T092947Z" creationid="Didier" creationdate="20151111T092947Z">
@@ -46602,6 +46866,14 @@ OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you need to edit the segment, use an alternative translation instead.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260809T074322Z" creationid="suzume" creationdate="20260809T074322Z">
+        <seg>Si vous devez modifier le segment, utilisez une traduction alternative à la place.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you need to perform translation or review tasks on that project, use OmegaT to download a separate copy of the team project and work from there.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20230517T051532Z" creationid="Anand" creationdate="20230321T192038Z">
@@ -46885,6 +47157,14 @@ OmegaT.</seg>
         <seg>If you use multiple projects on the same server, you will only be asked for your credentials once for that server.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20251226T203758Z" creationid="suzume" creationdate="20251226T203758Z">
+        <seg>Si vous utilisez plusieurs projets sur un même serveur, les informations d’identification ne vous seront demandées qu’une fois pour ce serveur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you use multiple projects on the same server, you will only be asked to enter your credentials once for that server.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260809T155610Z" creationid="suzume" creationdate="20260809T155610Z">
         <seg>Si vous utilisez plusieurs projets sur un même serveur, les informations d’identification ne vous seront demandées qu’une fois pour ce serveur.</seg>
       </tuv>
     </tu>
@@ -48142,6 +48422,22 @@ the scope of this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In projects that use more complex mapping, &lt;e0&gt;adding&lt;/e0&gt;, &lt;e1&gt;modifying&lt;/e1&gt;, or &lt;e2&gt;deleting&lt;/e2&gt; files must &lt;e3&gt;all&lt;/e3&gt; be performed through the VCS.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260809T152134Z" creationid="suzume" creationdate="20260809T152134Z">
+        <seg>Si le project utilise des filtres ou paramètres de segmentation spécifiques, les fichiers &lt;f0&gt;filters.xml&lt;/f0&gt; et &lt;f1&gt;segmentation.conf&lt;/f1&gt; doivent être ajoutés au système de gestion de version et êtres publiés sur le serveur., &lt;e0&gt;modifier&lt;/e0&gt; ou &lt;e1&gt;effacer&lt;/e1&gt; les fichiers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In properties</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260809T163623Z" creationid="suzume" creationdate="20260809T163458Z">
+        <seg>Propriétés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In situations where you need to share a TMX that contain only the text from certain specific files and excludes other content, follow the procedure below:</seg>
       </tuv>
       <tuv lang="fr" changeid="JulieZ" changedate="20230514T104551Z" creationid="sirine" creationdate="20230331T174914Z">
@@ -48239,6 +48535,14 @@ the limitation as if written in the body of this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In such cases, enter that passphrase or token when OmegaT asks for your password.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260809T155546Z" creationid="suzume" creationdate="20260809T155546Z">
+        <seg>Dans ces cas, il faudra utiliser cette phrase d’authentification ou ce jeton quand OmegaT vous demandera votre mot de passe. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In such cases, options defined in the config file take precedence over any option with duplicate functionality also passed on the command line.</seg>
       </tuv>
       <tuv lang="fr" changeid="JulieZ" changedate="20230512T131936Z" creationid="Anand" creationdate="20230320T185951Z">
@@ -48251,6 +48555,14 @@ the limitation as if written in the body of this License.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20230517T060924Z" creationid="Anand" creationdate="20230407T073753Z">
         <seg>Dans ce cas, vous devrez copier ou déplacer le dossier des scripts dans un emplacement où vous avez la permission d’écrire, comme le &lt;l0&gt;dossier de configuration&lt;/l0&gt;, si vous souhaitez écrire vos propres scripts, en ajouter de nouveaux, ou modifier ceux qui existent déjà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In team projects that use a simple mapping between the local repository and the remote repository (the default), &lt;e0&gt;and only in such projects&lt;/e0&gt;, the source and target files can be modified locally and uploaded to the server directly from OmegaT using the &lt;l1/&gt; &lt;l2/&gt; and &lt;l3/&gt; &lt;l4/&gt; commands.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260809T081629Z" creationid="suzume" creationdate="20260809T081629Z">
+        <seg>Dans les projets en équipe qui utilisent une simple mise en correspondance entre le dépôt local et le dépôt distant (par défaut), &lt;e0&gt;et seulement dans ces projets&lt;/e0&gt;, les fichiers source et cible peuvent être modifiés localement et envoyés vers le serveur à partir d’OmegaT en utilisant les commandes &lt;l1/&gt;&lt;l2/&gt; et &lt;l3/&gt;&lt;l4/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50337,6 +50649,14 @@ exécutez simplement le programme d'installation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It also manages all possible conflicts between them.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260809T081239Z" creationid="suzume" creationdate="20260809T081239Z">
+        <seg>Le projet en équipe gère aussi tous les conflits possibles entre les membres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It also possible to change the position of a filename, by clicking on it and pressing &lt;e0&gt;Move ...&lt;/e0&gt; buttons.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T023559Z" creationid="Didier" creationdate="20141202T222953Z">
@@ -51047,6 +51367,14 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is the session id.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260809T080132Z" creationid="suzume" creationdate="20260809T080132Z">
+        <seg>qui est le numéro de session.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is therefore always safe to install the version of OmegaT with JRE.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20251227T171839Z">
@@ -51259,6 +51587,16 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230309T144826Z" creationid="sirine" creationdate="20230308T231304Z">
         <seg>Elle correspond donc au « u » de « sur », mais &lt;e2&gt;pas&lt;/e2&gt; à celui de « équité ».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It was not possible to create the script folder
+inside the application data folder.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260809T073959Z" creationid="suzume" creationdate="20260809T073959Z">
+        <seg>Il n’a pas été possible de créer le dossier script
+dans le dossier de données de l’application.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54557,8 +54895,8 @@ La version Mac intègre un JRE.</seg>
       <tuv lang="en">
         <seg>Make a decision about the immutability of the enforced segments:</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20251224T061939Z" creationid="Léo Delaune" creationdate="20230322T130522Z">
-        <seg>Prenez une décision concernant la pérennité des segments renforcés :</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20260809T074056Z" creationid="Léo Delaune" creationdate="20230322T130522Z">
+        <seg>Prenez une décision concernant la pérennité des segments imposés :</seg>
       </tuv>
     </tu>
     <tu>
@@ -60172,6 +60510,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT can also optionally attempt to create fuzzy matches for paragraphs by assembling existing sentence translations.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260809T080939Z" creationid="suzume" creationdate="20260809T080939Z">
+        <seg>OmegaT peut également tenter de créer des correspondances partielles pour les paragraphes en combinant les traductions de phrases existantes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT can automatically create new file names for the files you create, by adding a language code or a time stamp, for example.</seg>
       </tuv>
       <tuv lang="fr" changeid="Anand" changedate="20230302T174423Z" creationid="Anand" creationdate="20230302T174423Z">
@@ -62659,6 +63005,14 @@ kolteki later.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Once an OmegaT team project has been set up on a server, the project manager sends members the information they need to access it.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260809T152935Z" creationid="suzume" creationdate="20260809T152935Z">
+        <seg>Lorsque le projet en équipe OmegaT est installé sur un serveur, la gestionnaire envoie aux membres les informations nécessaires pour y accéder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Once computed, the data also available in &lt;f6&gt;omegat/project_stats_match.txt.&lt;/f6&gt; Note that the file is time-stamped, as the calculation (contrary to the standard statistics) is not instantaneous and can thus quickly become obsolete.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210111T143437Z">
@@ -63534,6 +63888,14 @@ ajouter "file"</note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Open the &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; you have copied to your &lt;l1&gt;configuration folder&lt;/l1&gt; in a text editor.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260809T080843Z" creationid="suzume" creationdate="20260809T080843Z">
+        <seg>Ouvrez le fichier &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; que vous avez copié dans votre &lt;l1&gt;dossier de configuration&lt;/l1&gt; dans un éditeur de texte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Open the Scripting window</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210204T025909Z" creationid="suzume" creationdate="20210204T025909Z">
@@ -64299,6 +64661,14 @@ Afficher des informations sur l'utilisation.</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130519T100800Z">
         <seg>Oromo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Orphan segment</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260809T073805Z" creationid="suzume" creationdate="20260809T073805Z">
+        <seg>Segment orphelin</seg>
       </tuv>
     </tu>
     <tu>
@@ -68397,6 +68767,14 @@ ces mots : « pas de page »…</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Register the project files into the local repository.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260809T152207Z" creationid="suzume" creationdate="20260809T152207Z">
+        <seg>Enregistrez les fichiers du projet dans le dépôt local.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Regular expression</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130424T075858Z">
@@ -70196,6 +70574,14 @@ ces mots : « pas de page »…</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130424T100630Z">
         <seg>Réutilisation des mémoires de traduction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Reverting enforced segment.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260809T074257Z" creationid="suzume" creationdate="20260809T074257Z">
+        <seg>Réinitialiser le segment forcé.</seg>
       </tuv>
     </tu>
     <tu>
@@ -72206,6 +72592,14 @@ La recherche port par défaut sur le projet, et peut porter sur tout fichier sit
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;l0/&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260809T080626Z" creationid="suzume" creationdate="20260809T080626Z">
+        <seg>Voir &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;l0&gt;Apache Groovy&lt;/l0&gt; for details.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20260412T121649Z" creationid="suzume" creationdate="20260412T121649Z">
@@ -73648,6 +74042,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Segments that receive automated translation at that time can be marked in the &lt;g2&gt;Editor&lt;/g2&gt; pane by using &lt;l3/&gt; &lt;l4/&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260809T163235Z" creationid="suzume" creationdate="20260809T163235Z">
+        <seg>Les segments qui reçoivent une traduction automatique à ce moment-là peuvent être marqués dans le volet &lt;g2&gt;Éditeur&lt;/g2&gt; en utilisant &lt;l3/&gt; &lt;l4/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Segments that receive automated translation at that time can be marked in the &lt;g2&gt;Editor&lt;/g2&gt; pane by using &lt;l3/&gt;.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20260412T120055Z" creationid="suzume" creationdate="20260412T120055Z">
@@ -74541,6 +74943,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20170918T110908Z" creationid="briac" creationdate="20170918T110908Z">
         <seg>Cours de formation en ligne en anglais (payant)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Send a URL and ask the translators to use &lt;l0/&gt; &lt;l1/&gt; to create a local copy of the project on their own system.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260809T152550Z" creationid="suzume" creationdate="20260809T152550Z">
+        <seg>Envoyer l’URL et demander aux membres d’utiliser &lt;l0/&gt; &lt;l1/&gt; pour créer une copie locale du projet sur leur propre système.</seg>
       </tuv>
     </tu>
     <tu>
@@ -75761,6 +76171,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Since changes to the source files affect &lt;e0&gt;all&lt;/e0&gt; members, use that command with caution and only in accordance with the guidelines and workflow established for the project by the project manager.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260809T162646Z" creationid="suzume" creationdate="20260809T162646Z">
+        <seg>Comme les modifications des fichiers source impactent &lt;e0&gt;la totalité&lt;/e0&gt; des membres, il est nécessaire d’utiliser cette commande avec précaution et exclusivement en accord avec les directives et procédés établis par la gestionnaire du projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Since files are included by default unless specifically excluded, this option is only necessary to specify exceptions to an exclusion pattern.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20230517T061241Z" creationid="Anand" creationdate="20230324T124739Z">
@@ -75781,6 +76199,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20230517T051754Z" creationid="Anand" creationdate="20230308T111804Z">
         <seg>Puisque la synchronisation se fait par défaut toutes les trois minutes, il arrive que des membres du projet traduisent ou modifient un segment qui a déjà été traduit par un autre membre, mais qui n’a pas encore été synchronisé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Since synchronization takes place every three minutes by default, one project member may translate or modify a segment that has already been translated by another member, but not yet synchronized.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260809T153234Z" creationid="suzume" creationdate="20260809T153234Z">
+        <seg>Puisque la synchronisation s’effectue par défaut toutes les trois minutes, il arrive que des membres du projet traduisent ou modifient un segment qui a déjà été traduit par une autre membre, mais qui n’a pas encore été synchronisé.</seg>
       </tuv>
     </tu>
     <tu>
@@ -76232,6 +76658,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
       </tuv>
       <tuv lang="fr" changeid="JulieZ" changedate="20230514T091814Z" creationid="sirine" creationdate="20230329T173112Z">
         <seg>Certains formats, comme le PDF, ne peuvent pas être correctement traités par des conversions « aller-retour ».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some hosting services require you to generate a passphrase or other form of access token in addition to your password.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260809T155511Z" creationid="suzume" creationdate="20260809T155511Z">
+        <seg>Certains services d’hébergement vous demanderont de générer une phrase d’authentification ou autre jeton d’accès en plus de votre mot de passe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -81787,6 +82221,14 @@ software and other kinds of works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Search function offers a number of useful options to filter the content of the files.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260809T153318Z" creationid="suzume" creationdate="20260809T153318Z">
+        <seg>La fonction de recherche offre plusieurs options utiles pour filtrer le contenu des fichiers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Search window has its own menus:</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z" creationid="Didier" creationdate="20160718T155114Z">
@@ -82904,6 +83346,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The data is the same as when using &lt;l0/&gt; &lt;l1/&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260809T081206Z" creationid="suzume" creationdate="20260809T081206Z">
+        <seg>Les données sont les mêmes que lors de l’utilisation de &lt;l0/&gt; &lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The data is the same as when using &lt;l0/&gt;&lt;l1/&gt;.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20230517T051644Z" creationid="Anand" creationdate="20230321T150955Z">
@@ -83288,6 +83738,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The easiest way to modify the shortcuts is to download copies of the default files to your &lt;l0&gt;configuration folder&lt;/l0&gt;, as noted above, and make the changes you want there.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260809T080810Z" creationid="suzume" creationdate="20260809T080810Z">
+        <seg>La façon la plus simple de modifier les raccourcis est de télécharger des copies des fichiers par défaut dans &lt;l0&gt;votre fichier de configuration&lt;/l0&gt;, comme indiqué ci-dessus, et d’effectuer les changements que vous souhaitez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The editor initially loads and displays 2,000 segments, and progressively loads more as you scroll up or down.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20230517T060924Z" creationid="Léo Delaune" creationdate="20230316T095535Z">
@@ -83324,6 +83782,14 @@ instead.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20220919T050437Z">
         <seg>Fin de ligne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The enforced TM is considered to be more reliable than the project memory.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260809T074140Z" creationid="suzume" creationdate="20260809T074140Z">
+        <seg>Les mémoires de traductions forcées sont considérées plus fiables que la mémoire du projet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -84951,6 +85417,14 @@ freedom to share and change it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The matching percentages have the following meaning, in order:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260809T163218Z" creationid="suzume" creationdate="20260809T163218Z">
+        <seg>Les pourcentages de correspondance signifient, dans l’ordre, ce qui suit :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The memory named "omegat" can be used in OmegaT itself, in future projects that you create.</seg>
       </tuv>
       <tuv lang="fr" changeid="briglegrand" changedate="20120502T133202Z">
@@ -85856,6 +86330,22 @@ modification follow.</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20230402T185903Z" creationid="briac" creationdate="20230402T185903Z">
         <seg>Le projet est en mode hors ligne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The project manager has two options for sending the location of the project to the translators:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260809T152539Z" creationid="suzume" creationdate="20260809T152539Z">
+        <seg>La gestionnaire du projet a deux options pour envoyer l’emplacement du projet aux membres :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The project manager may find it advantageous—even necessary—to handle such tasks directly through the VCS, particularly in cases where that project manager only acts as a coordinator and is not involved in the translation process itself.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260809T152803Z" creationid="suzume" creationdate="20260809T152803Z">
+        <seg>La gestionnaire du projet trouvera plus avantageux, et même parfois nécessaire, d’exécuter ces tâches directement dans le logiciel de gestion de version, en particulier dans les cas où elle n’a qu’un rôle de coordinatrice et n’est pas associée au travail de traduction lui-même.</seg>
       </tuv>
     </tu>
     <tu>
@@ -87251,6 +87741,14 @@ making modifications to it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The supported file formats depend on your project preferences.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260809T163154Z" creationid="suzume" creationdate="20260809T163154Z">
+        <seg>Les formats de fichiers pris en charge dépendent des paramètres de votre projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The supported file formats depend on your project setting.</seg>
       </tuv>
       <tuv lang="fr" changeid="Anand" changedate="20230330T183530Z" creationid="Anand" creationdate="20230330T183530Z">
@@ -88187,6 +88685,17 @@ the [Help] menu after starting OmegaT.</seg>
       </tuv>
       <tuv lang="fr" changeid="Anand" changedate="20230301T100353Z" creationid="Anand" creationdate="20230301T100024Z">
         <seg>Leur contenu ne sera pas affiché pour la traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>file name ? -&gt; name
+
+</note>
+      <tuv lang="en">
+        <seg>Their file name indicates the beginning of the session they logged.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260809T075014Z" creationid="suzume" creationdate="20260809T075014Z">
+        <seg>Leur nom indique l’horaire du début de la session qu’ils enregistrent.</seg>
       </tuv>
     </tu>
     <tu>
@@ -89590,6 +90099,14 @@ under the terms of this General Public License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This can be a URL giving the location of the project, or an &lt;f0&gt;omegat.project&lt;/f0&gt; file.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260809T153010Z" creationid="suzume" creationdate="20260809T153010Z">
+        <seg>Cela peut prendre la forme d’une URL qui indique l’emplacement du projet, ou d’un fichier &lt;f0&gt;omegat.project&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This can be achieved (for Déjà Vu DVX) by use of Déjà Vu's "External View" file format.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T025528Z" creationid="suzume" creationdate="20190421T025528Z">
@@ -89610,6 +90127,14 @@ under the terms of this General Public License.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210110T165526Z" creationid="suzume" creationdate="20210110T165526Z">
         <seg>On peut faire ceci de deux manières :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This can be either &lt;e0&gt;http&lt;/e0&gt; (which includes https), &lt;e1&gt;git&lt;/e1&gt;, &lt;e2&gt;svn&lt;/e2&gt;, or &lt;e3&gt;file&lt;/e3&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260809T152902Z" creationid="suzume" creationdate="20260809T152902Z">
+        <seg>Il peut s’agir de &lt;e0&gt;http&lt;/e0&gt; (ce qui inclut https), &lt;e1&gt;git&lt;/e1&gt;, &lt;e2&gt;svn&lt;/e2&gt;, ou &lt;e3&gt;file&lt;/e3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -90456,32 +90981,32 @@ under the terms of this General Public License.</seg>
       <tuv lang="en">
         <seg>This folder contains the files that you want to translate.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Léo Delaune" changedate="20230404T091739Z" creationid="Léo Delaune" creationdate="20230404T091739Z">
-        <seg>Ce dossier contient les fichiers à traduire.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20260809T080426Z" creationid="Léo Delaune" creationdate="20230404T091739Z">
+        <seg>Mettez dans ce dossier les fichiers à traduire.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>This folder contains the files that you want to use as reference dictionaries.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Léo Delaune" changedate="20230404T093103Z" creationid="Léo Delaune" creationdate="20230404T093103Z">
-        <seg>Ce dossier contient les fichiers que vous souhaitez utiliser comme glossaires de référence.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20260809T080529Z" creationid="Léo Delaune" creationdate="20230404T093103Z">
+        <seg>Mettez dans ce dossier les fichiers que vous souhaitez utiliser comme dictionnaires de référence.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>This folder contains the files that you want to use as reference glossaries.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Léo Delaune" changedate="20230404T092745Z" creationid="Léo Delaune" creationdate="20230404T092745Z">
-        <seg>Ce dossier contient les fichiers que vous souhaitez utiliser comme glossaires de référence.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20260809T080501Z" creationid="Léo Delaune" creationdate="20230404T092745Z">
+        <seg>Mettez dans ce dossier les fichiers que vous souhaitez utiliser comme glossaires de référence.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>This folder contains the files that you want to use as reference translation memories.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Léo Delaune" changedate="20230404T092703Z" creationid="Léo Delaune" creationdate="20230404T092703Z">
-        <seg>Ce dossier contient les fichiers que vous souhaitez utiliser comme mémoires de traduction de référence.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20260809T080418Z" creationid="Léo Delaune" creationdate="20230404T092703Z">
+        <seg>Mettez dans ce dossier les fichiers que vous souhaitez utiliser comme mémoires de traduction de référence.</seg>
       </tuv>
     </tu>
     <tu>
@@ -90522,6 +91047,14 @@ under the terms of this General Public License.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20230517T060924Z" creationid="Léo Delaune" creationdate="20230322T130312Z">
         <seg>Ce dossier est destiné aux fichiers de référence fiables qui ont également pour but d’écraser automatiquement les contenus précédemment traduits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This folder is where you put your spelling dictionaries.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260809T080449Z" creationid="suzume" creationdate="20260809T080333Z">
+        <seg>Mettez dans ce dossier vos dictionnaires orthographiques.</seg>
       </tuv>
     </tu>
     <tu>
@@ -91244,6 +91777,14 @@ this version will not interfere with it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This means users cannot delete from OmegaT or the local file system unless the project manager removes them from the server.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260809T163015Z" creationid="suzume" creationdate="20260809T163015Z">
+        <seg>Cela signifie qu’il n’est pas possible d’effacer de fichiers à partir d’OmegaT ou du système de fichiers à moins que la gestionnaire du projet ne le fasse sur le serveur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This memory is gradually filled as your translation progresses.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20230517T051644Z" creationid="sirine" creationdate="20230330T154141Z">
@@ -91918,6 +92459,14 @@ be a consequence of the rest of this License.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20251226T205639Z" creationid="suzume" creationdate="20251226T205639Z">
         <seg>Cette tâche est normalement effectuée par la gestionnaire du projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This task normally has to be performed by the project manager, since files in a team project are restored the next time the project is synchronized.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260809T162814Z" creationid="suzume" creationdate="20260809T162814Z">
+        <seg>Cette tâche est normalement de la responsabilité de la gestionnaire du projet car les fichiers dans un projet en équipe sont réinitialisés lors d’une synchronisation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -93158,6 +93707,14 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221220T114705Z" creationid="suzume" creationdate="20221220T114705Z">
         <seg>Pour les activer, cliquez sur &lt;l0/&gt; dans les préférences &lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To enable this feature, see &lt;l0/&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260809T080949Z" creationid="suzume" creationdate="20260809T080949Z">
+        <seg>Utilisez  &lt;l0/&gt; pour activer cette fonction.</seg>
       </tuv>
     </tu>
     <tu>
@@ -95671,6 +96228,14 @@ Les recherches exactes correspondent à l’ensemble de la chaine recherchée.</
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unable to connect to the Belazar server.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260809T074608Z" creationid="suzume" creationdate="20260809T074608Z">
+        <seg>Impossible de se connecter au serveur Belazar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unable to convert project!</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20230321T051829Z" creationid="suzume" creationdate="20220919T094832Z">
@@ -96228,6 +96793,14 @@ Les recherches exactes correspondent à l’ensemble de la chaine recherchée.</
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20251120T115559Z" creationid="suzume" creationdate="20251120T115559Z">
         <seg>Inconnu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unless special mappings or &lt;l0/&gt; have been set up, all source files are shared by all team members, and any changes made to the local source files are overwritten the next time the project is synchronized, unless they are committed to the server using the &lt;l1/&gt; &lt;l2/&gt; command.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260809T162339Z" creationid="suzume" creationdate="20260809T162339Z">
+        <seg>À moins qu’une mise en correspondance spéciale n’ait été effectuée, tous les fichiers source seront accessibles à la totalité des membres du projet et toutes modifications faites sur les fichiers source locaux sera annulée lors de la synchronisation suivante, à moins qu’elles aient été envoyées sur le serveur à l’aide de la commande &lt;l0/&gt; &lt;l1/&gt;. </seg>
       </tuv>
     </tu>
     <tu>
@@ -97162,6 +97735,14 @@ la configuration actuelle est de {0} Mo ;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt; &lt;l1/&gt; to bring up the &lt;g2&gt;Download Team Project&lt;/g2&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260809T153451Z" creationid="suzume" creationdate="20260809T153451Z">
+        <seg>Utilisez &lt;l0/&gt; &lt;l1/&gt; pour afficher la boite de dialogue &lt;g2&gt;Télécharger un projet en équipe&lt;/g2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt; &lt;l1/&gt; to check for possible issues.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20260412T101311Z" creationid="suzume" creationdate="20260412T101311Z">
@@ -97222,6 +97803,14 @@ la configuration actuelle est de {0} Mo ;</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20260412T101745Z" creationid="suzume" creationdate="20260412T101745Z">
         <seg>Utilisez &lt;l0/&gt;&lt;l1/&gt; pour afficher les caractères afin de faciliter la manipulation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt; &lt;l1/&gt; to display the current session’s log file.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260809T080249Z" creationid="suzume" creationdate="20260809T080249Z">
+        <seg>Utilisez &lt;l0/&gt;&lt;l1/&gt; pour afficher le fichier journal actuel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -98878,6 +99467,14 @@ la configuration actuelle est de {0} Mo ;</seg>
       </tuv>
       <tuv lang="fr" changeid="JulieZ" changedate="20230512T150721Z" creationid="Anand" creationdate="20230324T123638Z">
         <seg>Utilisez des caractères joker (suivant le style Apache Ant : *,?,**) pour ajouter des masques pour les fichiers qui doivent être exclus de la mise en correspondance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use your local VCS client to make a local copy (clone) of that repository.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260809T081252Z" creationid="suzume" creationdate="20260809T081252Z">
+        <seg>Utilisez votre logiciel de gestion de version local pour créer une copie locale (clone).</seg>
       </tuv>
     </tu>
     <tu>
@@ -103455,6 +104052,14 @@ your programs, too.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can copy the default OmegaT shortcut files from the OmegaT development site on Sourceforge to your &lt;l0&gt;configuration folder&lt;/l0&gt; and modify them to suit your needs:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260809T080659Z" creationid="suzume" creationdate="20260809T080659Z">
+        <seg>Vous pouvez copier les fichiers de raccourcis OmegaT par défaut du site de développement d’OmegaT sur Sourceforge vers &lt;l0&gt; votre dossier de configuration&lt;/l0&gt; et les modifier selon vos besoins :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can create a glossary by pressing &lt;g0&gt;Ctrl+Shift+G&lt;/g0&gt;, or copy existing glossaries to the&lt;f1&gt;/glossary/&lt;/f1&gt;subfolder of your project folder, and OmegaT will automatically look up words in them.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20120710T123617Z">
@@ -104920,6 +105525,14 @@ source code.</seg>
       </tuv>
       <tuv lang="fr" changeid="Anand" changedate="20230322T074519Z" creationid="Anand" creationdate="20230322T074439Z">
         <seg>Vous devez utiliser votre client SVN ou Git, ou la ligne de commande, pour ajouter et publier tout dictionnaire, glossaire, mémoire de traduction, ou autre fichier que vous souhaitez inclure dans le projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You must use your VCS client, or the command line, to add and publish any dictionaries, glossaries, translation memories or any other files you want to include in the project.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260809T081341Z" creationid="suzume" creationdate="20260809T081341Z">
+        <seg>Vous devez utiliser votre client logiciel de gestion de version, ou la ligne de commande, pour ajouter et publier tout dictionnaire, glossaire, mémoire de traduction, ou tout autre fichier que vous souhaitez inclure dans le projet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -107229,6 +107842,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130423T094150Z">
         <seg>commons-*.jar (licence Apache 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>config-dir="path/to/new/configdir"</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260809T081012Z" creationid="suzume" creationdate="20260809T081012Z">
+        <seg>config-dir="chemin/vers/nouveau/configdir"</seg>
       </tuv>
     </tu>
     <tu>
@@ -117770,6 +118391,14 @@ Ok. </note>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130415T162422Z">
         <seg>Règles de segmentation par défaut des utilisateurs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>user.language=fr</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260809T080959Z" creationid="suzume" creationdate="20260809T080959Z">
+        <seg>user.language=fr</seg>
       </tuv>
     </tu>
     <tu>
