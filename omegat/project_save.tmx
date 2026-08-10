@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.2.0_0_96288dc85" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.1_0_4c766f495" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -41464,6 +41464,14 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130511T165246Z">
         <seg>Entrées de glossaire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossary entries with an empty target term are excluded from terminology checks.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260810T093148Z" creationid="suzume" creationdate="20260810T093049Z">
+        <seg>Les entrées de glossaire qui ne contiennent pas de terme cible  ne font pas partie des vérifications terminologiques.</seg>
       </tuv>
     </tu>
     <tu>
