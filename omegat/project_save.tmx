@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.1_0_4c766f495" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.2.0_0_96288dc85" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -47098,6 +47098,14 @@ OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you switch to paragraph segmentation in a project that originally used &lt;l0/&gt;, you can have OmegaT present matches assembled from existing segments by enabling the &lt;l1/&gt; option in addition to showing regular fuzzy matches.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260810T074426Z" creationid="suzume" creationdate="20260810T074426Z">
+        <seg>Si vous passez en segmentation par paragraphe dans un projet qui était à l’origine segmenté par règles de segmentation (voir la section &lt;l0/&gt;), l’activation de l’option &lt;l1/&gt; vous permettra également d’obtenir des correspondances assemblées à partir de segments existants.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you try to create the translated files, OmegaT will display the issues dialog until no issues are found.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20230708T102632Z" creationid="Léo Delaune" creationdate="20230316T215534Z">
@@ -51713,6 +51721,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230322T124932Z" creationid="sirine" creationdate="20230322T124932Z">
         <seg>Il vous demandera alors de recharger le projet et commencera à utiliser les nouveaux emplacements.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It works when there is a supported language module, or a user local custom dictionary for the target language.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260810T092916Z" creationid="suzume" creationdate="20260810T092916Z">
+        <seg>Ne fonctionne que si un module de langue ou un dictionnaire local pour la langue cible est installé.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59859,8 +59875,8 @@ combination as such.</seg>
       <tuv lang="en">
         <seg>OS default encoding</seg>
       </tuv>
-      <tuv lang="fr" changeid="sirine" changedate="20230316T174012Z" creationid="sirine" creationdate="20230316T174012Z">
-        <seg>OS Encodage par défaut</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20260810T092511Z" creationid="sirine" creationdate="20230316T174012Z">
+        <seg>Encodage par défaut de l’ordinateur</seg>
       </tuv>
     </tu>
     <tu>
@@ -62297,6 +62313,14 @@ directory -&gt; folder</note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT will try to segment the source text into sentences, apply fuzzy matching on the segmented memory entries, and then assemble a paragraph from those matches.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260810T092131Z" creationid="suzume" creationdate="20260810T092131Z">
+        <seg>OmegaT va tenter alors de segmenter le texte source, d’appliquer les correspondances sur les parties segmentées et de réassembler un paragraphe à partir d’elles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT will underline spelling mistakes with red wavy-lines.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20230517T051532Z" creationid="Léo Delaune" creationdate="20230309T081942Z">
@@ -63023,8 +63047,8 @@ kolteki later.</seg>
       <tuv lang="en">
         <seg>Once copied to the OS clipboard, it can also be used in web searches and elsewhere.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20230517T051532Z" creationid="Anand" creationdate="20230327T160320Z">
-        <seg>Une fois la sélection copiée dans le presse-papier de votre système d’exploitation, elle peut aussi être utilisée dans des recherches internet ou ailleurs.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20260810T092553Z" creationid="Anand" creationdate="20230327T160320Z">
+        <seg>Une fois la sélection copiée dans le presse-papier de votre ordinateur, elle peut aussi être utilisée dans des recherches internet ou ailleurs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68539,6 +68563,14 @@ ces mots : « pas de page »…</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130503T114113Z">
         <seg>Rétablit la dernière action d'édition effectuée dans le segment cible en cours.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Refer to the &lt;l0/&gt; section for more information on the benefits and drawbacks of the different types of segmentation.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260810T092321Z" creationid="suzume" creationdate="20260810T092321Z">
+        <seg>Voir la section &lt;l0/&gt; pour en savoir plus sur les avantages et inconvénients des différents types de segmentation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -85946,6 +85978,14 @@ sure this has not already been reported.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The origins of the matches can be multiple files or memories because the assembled paragraph may not exist in the translation memories.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260810T092235Z" creationid="suzume" creationdate="20260810T092235Z">
+        <seg>L’origine de ces correspondances pourra être des fichiers ou mémoires différentes car le paragraphe à traduire peut ne pas être présent dans les mémoires de traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The other items on the template list are environment variables for your system.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20230517T051532Z" creationid="Léo Delaune" creationdate="20230328T100119Z">
@@ -94116,6 +94156,14 @@ as a Source Forge user.</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130426T152742Z">
         <seg>Pour ouvrir une nouvelle fenêtre de recherche, appuyez sur &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To open the folder that encloses the file in the OS file manager, press down the &lt;k0&gt;&lt;k1&gt;ALT&lt;/k1&gt;&lt;/k0&gt; key while selecting this menu item.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260810T092801Z" creationid="suzume" creationdate="20260810T092801Z">
+        <seg>Pour ouvrir le dossier qui contient le fichier dans votre gestionnaire de fichier, appuyer sur la touche &lt;k0&gt;&lt;k1&gt;ALT&lt;/k1&gt;&lt;/k0&gt; tout en sélectionnant cet élément du menu.</seg>
       </tuv>
     </tu>
     <tu>
