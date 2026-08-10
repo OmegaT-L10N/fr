@@ -45204,6 +45204,22 @@ countries not thus excluded.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the matching segment exists in the files located in the source folder, as well as in other reference memories, it is labeled &lt;e0&gt;This project&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260810T093612Z" creationid="suzume" creationdate="20260810T093554Z">
+        <seg>si le segment correspondant est présent dans les fichiers du dossier des fichiers à traduire ainsi que dans d’autres mémoires de référence, son origine sera &lt;e0&gt;Ce projet&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the matching segment is no longer present in the files located in the source folder, it is labeled &lt;e0&gt;Orphan segment&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260810T093509Z" creationid="suzume" creationdate="20260810T093504Z">
+        <seg>si le segment correspondant n’est pas présent dans les fichiers du dossier des fichiers à traduire , son origine sera &lt;e0&gt;Segment orphelin&lt;/e0&gt;,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the option is OFF, the glossary entry above will not be found.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160322T172044Z" creationid="Didier" creationdate="20160322T172044Z">
@@ -85409,6 +85425,14 @@ freedom to share and change it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The match also displays three matching percentages, the origin of the match and how many times is the match repeated in the matching data.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260810T093307Z" creationid="suzume" creationdate="20260810T093307Z">
+        <seg>La correspondance affiche trois pourcentages de correspondance, l’origine de la correspondance et le nombre de répétitions de celle-ci dans le corpus de correspondances.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The match also displays three matching percentages.</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230407T102933Z" creationid="Léo Delaune" creationdate="20230407T102933Z">
@@ -101165,6 +101189,14 @@ you have just discovered.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20240421T083027Z" creationid="Léo Delaune" creationdate="20230307T122843Z">
         <seg>Lorsqu’un terme du glossaire est un mot composé, le terme correspondra même si les mots apparaissent séparément dans le texte source.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When a match comes from the project memory, its origin is only specified in two cases:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260810T093337Z" creationid="suzume" creationdate="20260810T093337Z">
+        <seg>Quand une correspondance provient de la mémoire du projet, son origine n’est spécifiée que dans deux cas :</seg>
       </tuv>
     </tu>
     <tu>
