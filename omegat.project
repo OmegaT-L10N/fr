@@ -11,7 +11,7 @@
         <mapping local="source/" repository=""/>
       </repository>
       <repository type="http" url="https://github.com/omegat-org/omegat/raw/master/">
-        <mapping local="source/Bundle.properties" repository="src/org/omegat/Bundle.properties"/>
+        <mapping local="source/Bundle.properties" repository="src/main/resources/org/omegat/Bundle.properties"/>
         <mapping local="source/aligner/Bundle.properties" repository="aligner/src/main/resources/org/omegat/gui/align/Bundle.properties"/>
         <mapping local="source/machinetranslators/apertium/Bundle.properties" repository="machinetranslators/apertium/src/main/resources/org/omegat/machinetranslators/apertium/Bundle.properties"/>
         <mapping local="source/machinetranslators/belazar/Bundle.properties" repository="machinetranslators/belazar/src/main/resources/org/omegat/machinetranslators/belazar/Bundle.properties"/>
