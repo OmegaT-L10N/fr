@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.1_0_4c766f495" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.2.0_0_96288dc85" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -28776,6 +28776,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (dévelo
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Colour changes take effect as soon as you confirm them with &lt;g0&gt;OK&lt;/g0&gt; or &lt;g1&gt;Apply&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260811T060144Z" creationid="suzume" creationdate="20260811T060144Z">
+        <seg>Les modifications sont appliquées dès que vous confirmez à l’aide de &lt;g0&gt;OK&lt;/g0&gt; ou &lt;g1&gt;Appliquer&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Colours</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20161227T170846Z" creationid="Didier" creationdate="20161227T170846Z">
@@ -43472,6 +43480,14 @@ parties remain in full compliance.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Hunspell spellchecker for language '{0}' dictionary {1} initialized</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260811T063835Z" creationid="suzume" creationdate="20260811T063835Z">
+        <seg>Le dictionnaire Hunspell {1} pour la langue {0} est initialisé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Hyperlinks</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20251226T083653Z" creationid="Didier" creationdate="20151111T100557Z">
@@ -43829,6 +43845,14 @@ sections when you distribute them as separate works.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160322T172027Z" creationid="Didier" creationdate="20160322T172027Z">
         <seg>Si &lt;g0&gt;Utiliser les termes apparaissant séparément dans le texte source&lt;/g0&gt; est activée, l'entrée de glossaire « itema itemb » sera trouvée dans le texte source « itema autre mot itemb ».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If &lt;l0/&gt; is enabled, each file entry also shows its translation progress, calculated from the number of unique segments in that file that have already been translated.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260811T060907Z" creationid="suzume" creationdate="20260811T060907Z">
+        <seg>Si l’option &lt;l0/&gt; est activée, chaque ligne indiquera l’avancée de la traduction calculée à partir du nombre de segments uniques qui ont déjà été traduits dans le fichier.</seg>
       </tuv>
     </tu>
     <tu>
@@ -72376,6 +72400,14 @@ La recherche port par défaut sur le projet, et peut porter sur tout fichier sit
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Search in the properties attached to segments, including the segment's file, ID and path, as displayed in the &lt;l0/&gt; pane.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260811T061626Z" creationid="suzume" creationdate="20260811T061626Z">
+        <seg>Effectuer une recherche dans toutes les propriétés du segment affichées dans le volet &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Search in the source segments.</seg>
       </tuv>
       <tuv lang="fr" changeid="Anand" changedate="20230412T143227Z" creationid="Anand" creationdate="20230412T143205Z">
@@ -81299,6 +81331,14 @@ form of a work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;g0&gt;Find Previous&lt;/g0&gt; and &lt;g1&gt;Find Next&lt;/g1&gt; buttons below the results, as well as &lt;k2&gt; &lt;k3&gt;S&lt;/k3&gt; &lt;k4&gt;F3&lt;/k4&gt; &lt;/k2&gt; and &lt;k5&gt;F3&lt;/k5&gt; from anywhere in the window, move the selection one result backward or forward, wrapping around at both ends of the list.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260811T063132Z" creationid="suzume" creationdate="20260811T063132Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;g0&gt;Open&lt;/g0&gt; button next to each &lt;g1&gt;Browse&lt;/g1&gt; button opens that resource folder in the system file manager.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20260811T054122Z" creationid="suzume" creationdate="20260811T054122Z">
@@ -82393,6 +82433,14 @@ software and other kinds of works.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z" creationid="Didier" creationdate="20160718T155114Z">
         <seg>La fenêtre de recherche dispose de ses propres menus :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Source Files progress colours shown in the &lt;l0/&gt; window can also be changed here.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260811T060332Z" creationid="suzume" creationdate="20260811T060332Z">
+        <seg>Les couleurs indiquant l’avancée de la traduction dans la fenêtre &lt;l0/&gt; peuvent également être modifiées ici.</seg>
       </tuv>
     </tu>
     <tu>
@@ -86454,6 +86502,14 @@ modification follow.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The progress colours can be changed in &lt;l0/&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260811T061346Z" creationid="suzume" creationdate="20260811T061346Z">
+        <seg>Les couleurs utilisées peuvent être modifiées dans le dialogue &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The progress is calculated from translated unique segments.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20260811T055838Z" creationid="suzume" creationdate="20260811T055838Z">
@@ -86690,6 +86746,14 @@ modification follow.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130527T151729Z">
         <seg>La qualité de la traduction de Google Translate dépend d'une part du réservoir de textes de la langue cible et de leur disponibilité en version bilingue, et d'autre part de la qualité des modèles construits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The reached segment is always displayed in the &lt;l6/&gt; pane, regardless of the &lt;g7&gt;Auto-sync with editor&lt;/g7&gt; option, without moving the focus away from the Search window.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260811T063137Z" creationid="suzume" creationdate="20260811T063137Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
@@ -101667,6 +101731,14 @@ add Python to your Path.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When the navigation wraps around, a short note appears next to the number of results.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260811T063141Z" creationid="suzume" creationdate="20260811T063141Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When the option is enabled, OmegaT automatically searches in all the dictionaries for matches of the terms it identified in the segment, as it enters the segment.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20230517T052032Z" creationid="Léo Delaune" creationdate="20230307T133431Z">
@@ -101679,6 +101751,14 @@ add Python to your Path.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210110T095127Z" creationid="suzume" creationdate="20210110T095127Z">
         <seg>Quand l'option est décochée, seul le premier segment non-unique n'est pas grisé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When the progress display is enabled, the bottom progress value shows the overall translation progress for all source files in the project.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260811T061306Z" creationid="suzume" creationdate="20260811T061306Z">
+        <seg>Si l’affichage de l’avancée de la traduction est activée, l’avancée affichée en bas de la fenêtre correspond à l’avancée de la totalité du projet.</seg>
       </tuv>
     </tu>
     <tu>
