@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.1_0_4c766f495" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.2.0_0_96288dc85" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -25888,6 +25888,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By default, OmegaT requires a double-click to enter the segment under the cursor.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260811T044105Z" creationid="suzume" creationdate="20260811T044021Z">
+        <seg>Par défaut, il est nécessaire de double-cliquer sur un segment pour y déplacer le curseur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default, a newly created project will contain all the required resources within its folder, and those resources are assigned the default names below.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20230329T141519Z" creationid="Léo Delaune" creationdate="20230321T005326Z">
@@ -44929,6 +44937,14 @@ tous les paramètres reprendront leur valeur par défaut,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the OmegaT language module for your project target language provides a Hunspell dictionary, it will automatically install it in this folder when you enable spell checking.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260811T043243Z" creationid="suzume" creationdate="20260811T043243Z">
+        <seg>Si les modules de langue pour la langue cible de votre projet offre un dictionnaire Hunspell, le module installera celui-ci automatiquement dans ce dossier une fois la correction orthographique activée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the Program
 specifies a version number of this License which applies to it and "any
 later version", you have the option of following the terms and conditions
@@ -45216,6 +45232,14 @@ countries not thus excluded.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20260810T093509Z" creationid="suzume" creationdate="20260810T093504Z">
         <seg>si le segment correspondant n’est pas présent dans les fichiers du dossier des fichiers à traduire , son origine sera &lt;e0&gt;Segment orphelin&lt;/e0&gt;,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the module provides a Morfologik dictionary, spellchecking works without having to install a dictionary in the folder.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260811T043332Z" creationid="suzume" creationdate="20260811T043332Z">
+        <seg>Si le module offre un dictionnaire Morfologik, la correction orthographique fonctionnera sans installation de dictionnaire dans ce dossier.</seg>
       </tuv>
     </tu>
     <tu>
@@ -99455,6 +99479,14 @@ la configuration actuelle est de {0} Mo ;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use this option if you prefer to enter segments with a single-click.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260811T044124Z" creationid="suzume" creationdate="20260811T044044Z">
+        <seg>Cette option vous permet d’y déplacer le curseur avec un clic simple.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use this option if you want to prevent OmegaT from synchronizing the project contents.</seg>
       </tuv>
       <tuv lang="fr" changeid="Anand" changedate="20230320T154245Z" creationid="Anand" creationdate="20230320T154245Z">
@@ -104737,6 +104769,14 @@ installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130502T083555Z">
         <seg>Vous pouvez traiter le fichier TMX créé avec l'outil de votre choix.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can put a dictionary in this folder to a use custom spelling dictionary, or if your project target language is not covered by an OmegaT language module.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260811T043852Z" creationid="suzume" creationdate="20260811T043742Z">
+        <seg>Vous pouvez mettre un dictionnaire dans ce dossier pour personnaliser votre correction orthographique ou si votre langue cible ne dispose pas de module de langue.</seg>
       </tuv>
     </tu>
     <tu>
