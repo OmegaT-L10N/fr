@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.2.0_0_96288dc85" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.1_0_4c766f495" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -35691,6 +35691,14 @@ pas de page…</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enable matches for paragraphs assembled from matches found in segmented memory entries from a segmented source text in a project that uses paragraph segmentation.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260811T050153Z" creationid="suzume" creationdate="20260811T045951Z">
+        <seg>Dans un projet qui utilise la segmentation par paragraphes, active la recherche de correspondances à partir de l’assemblage de correspondances trouvées dans des mémoires segmentées par phrases. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enable project-specific commands</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20170210T102432Z" creationid="Didier" creationdate="20170210T102423Z">
@@ -38017,8 +38025,8 @@ dommage…</seg>
       <tuv lang="en">
         <seg>Failed to copy user scripts to {0}.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20260809T055303Z" creationid="suzume" creationdate="20260809T055303Z">
-        <seg>Les scripts </seg>
+      <tuv lang="fr" changeid="suzume" changedate="20260811T051337Z" creationid="suzume" creationdate="20260809T055303Z">
+        <seg>Les scripts n’ont pas pu être copiés dans {0}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50922,6 +50930,14 @@ exécutez simplement le programme d'installation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It does not recognize plugin files renamed with a &lt;f0&gt;.zip&lt;/f0&gt; extension.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260811T050938Z" creationid="suzume" creationdate="20260811T050938Z">
+        <seg>Il ne reconnait pas les fichiers qui ont été renommés avec une extension &lt;f0&gt;.zip&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It does not translate for you!</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20230327T182840Z" creationid="briac" creationdate="20170329T125214Z">
@@ -60430,6 +60446,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT also accepts zip archives that contain a JAR plugin file.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260811T050747Z" creationid="suzume" creationdate="20260811T050747Z">
+        <seg>OmegaT accepte également des archives zip qui contiennent un module JAR.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT also backs up the translation memory to project_save.tmx.YEARMMDDHHNN.bak in the same subfolder each time a project is opened or reloaded.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130527T153741Z">
@@ -66428,6 +66452,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20240421T220343Z" creationid="suzume" creationdate="20240421T220343Z">
         <seg>Nom du module d’extension</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Plugin files are JAR files with a &lt;f1&gt;.jar&lt;/f1&gt; extension.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260811T050719Z" creationid="suzume" creationdate="20260811T050719Z">
+        <seg>Les modules sont des fichiers JAR avec une extension &lt;f1&gt;.jar&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -86229,6 +86261,14 @@ an access to the hard drive of the computer.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The plugin installer only accepts archives containing a JAR plugin.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260811T050908Z" creationid="suzume" creationdate="20260811T050908Z">
+        <seg>L’installateur de module n’accepte que des archives qui contiennent un module JAR.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The possible keyevents (keys) are listed in the following Java 1.5 documentation from Oracle: &lt;u0&gt;Java 1.5 keyEvents description&lt;/u0&gt;</seg>
       </tuv>
       <tuv lang="fr" changeid="brigitte" changedate="20130715T193517Z">
@@ -89869,6 +89909,14 @@ pas de page…</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20230517T061013Z" creationid="Léo Delaune" creationdate="20230305T200538Z">
         <seg>Ils seront désormais disponibles dans OmegaT, à condition qu’il n’y ait pas de conflit avec d’autres fonctions ou avec des raccourcis du système.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Third party plugins are typically distributed as zip archives that contain the plugin file itself, as well as README and LICENSE files.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260811T050843Z" creationid="suzume" creationdate="20260811T050843Z">
+        <seg>Les modules distribués par des tiers le sont en général sous la forme d’archives zip qui contiennent le module ainsi qu’un fichier README et une licence d’utilisation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -99075,6 +99123,14 @@ la configuration actuelle est de {0} Mo ;</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210207T055324Z" creationid="suzume" creationdate="20210207T055324Z">
         <seg>Utilisez le mode de comparaison par &lt;g0&gt;ID&lt;/g0&gt; pour aligner les textes de la forme Clé=Valeur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the &lt;g0&gt;Install plugin from disk&lt;/g0&gt; button to install or upgrade your plugin.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260811T050639Z" creationid="suzume" creationdate="20260811T050639Z">
+        <seg>Utiliser le bouton &lt;g0&gt;Installer le module d'extension à partir du disque&lt;/g0&gt; pour installer ou mettre à jour un module.</seg>
       </tuv>
     </tu>
     <tu>
