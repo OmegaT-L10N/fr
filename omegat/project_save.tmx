@@ -11548,8 +11548,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="en">
         <seg>&lt;g0&gt;Select Match #2&lt;/g0&gt; &lt;k1&gt; &lt;k2&gt;C&lt;/k2&gt; &lt;k3&gt;2&lt;/k3&gt; &lt;/k1&gt;</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20260412T101735Z" creationid="suzume" creationdate="20260412T101735Z">
-        <seg>&lt;g0&gt;Choisir la correspondance #1&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;2&lt;/k3&gt;&lt;/k1&gt;</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20260811T052758Z" creationid="suzume" creationdate="20260412T101735Z">
+        <seg>&lt;g0&gt;Choisir la correspondance #2&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;2&lt;/k3&gt;&lt;/k1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11564,8 +11564,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="en">
         <seg>&lt;g0&gt;Select Match #3&lt;/g0&gt; &lt;k1&gt; &lt;k2&gt;C&lt;/k2&gt; &lt;k3&gt;3&lt;/k3&gt; &lt;/k1&gt;</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20260412T101736Z" creationid="suzume" creationdate="20260412T101736Z">
-        <seg>&lt;g0&gt;Choisir la correspondance #1&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;3&lt;/k3&gt;&lt;/k1&gt;</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20260811T052803Z" creationid="suzume" creationdate="20260412T101736Z">
+        <seg>&lt;g0&gt;Choisir la correspondance #3&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;3&lt;/k3&gt;&lt;/k1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11580,8 +11580,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="en">
         <seg>&lt;g0&gt;Select Match #4&lt;/g0&gt; &lt;k1&gt; &lt;k2&gt;C&lt;/k2&gt; &lt;k3&gt;4&lt;/k3&gt; &lt;/k1&gt;</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20260412T101737Z" creationid="suzume" creationdate="20260412T101737Z">
-        <seg>&lt;g0&gt;Choisir la correspondance #1&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;4&lt;/k3&gt;&lt;/k1&gt;</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20260811T052808Z" creationid="suzume" creationdate="20260412T101737Z">
+        <seg>&lt;g0&gt;Choisir la correspondance #4&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;4&lt;/k3&gt;&lt;/k1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11596,8 +11596,8 @@ la configuration actuelle est de {0} Mo.</seg>
       <tuv lang="en">
         <seg>&lt;g0&gt;Select Match #5&lt;/g0&gt; &lt;k1&gt; &lt;k2&gt;C&lt;/k2&gt; &lt;k3&gt;5&lt;/k3&gt; &lt;/k1&gt;</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20260412T101738Z" creationid="suzume" creationdate="20260412T101738Z">
-        <seg>&lt;g0&gt;Choisir la correspondance #1&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;5&lt;/k3&gt;&lt;/k1&gt;</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20260811T052828Z" creationid="suzume" creationdate="20260412T101738Z">
+        <seg>&lt;g0&gt;Choisir la correspondance #5&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;5&lt;/k3&gt;&lt;/k1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15877,6 +15877,14 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20230605T114154Z" creationid="suzume" creationdate="20230605T114154Z">
         <seg>&lt;o0&gt;Configurations&lt;/o0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;o0&gt;Show Source Files progress&lt;/o0&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260811T055427Z" creationid="suzume" creationdate="20260811T055427Z">
+        <seg>&lt;o0&gt;Afficher l’avancée de la traduction&lt;/o0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -25295,8 +25303,8 @@ documentation.</seg>
       <tuv lang="en">
         <seg>Both are available from the &lt;g2&gt;System Tools&lt;/g2&gt; folder of the &lt;g3&gt;Start Menu&lt;/g3&gt;.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Anand" changedate="20230318T140216Z" creationid="Anand" creationdate="20230318T140216Z">
-        <seg>Les deux sont disponibles à partir du &lt;g3&gt;Menu Démarrer&lt;/g3&gt;.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20260811T052142Z" creationid="Anand" creationdate="20230318T140216Z">
+        <seg>Les deux sont disponibles à partir du &lt;g3&gt;Menu Démarrer&lt;/g3&gt; dans le dossier &lt;g2&gt;Outils&lt;/g2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33366,6 +33374,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Displays a &lt;g0&gt;Progress&lt;/g0&gt; column in the &lt;l1/&gt; window and shows the overall project progress in the totals area.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260811T055730Z" creationid="suzume" creationdate="20260811T055730Z">
+        <seg>Affiche une colonne &lt;g0&gt;Avancée&lt;/g0&gt; dans la fenêtre &lt;l1/&gt; et montre l’avancée générale dans la zone des totaux. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Displays a dialog to conduct searches in the project</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130503T114417Z">
@@ -37953,8 +37969,8 @@ dommage…</seg>
       <tuv lang="en">
         <seg>Failed to access the spelling dictionary {0} with a reason {1}</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20251125T102009Z">
-        <seg>Le dictionnaire orthographique {0} n’a pas pu être </seg>
+      <tuv lang="fr" changeid="suzume" changedate="20260811T051815Z">
+        <seg>Le dictionnaire orthographique {0} n’est pas accessible : {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -40308,6 +40324,14 @@ authors of previous versions.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20200128T093510Z" creationid="suzume" creationdate="20200128T093510Z">
         <seg>Pour l'interface utilisateur, le manuel de l'utilisateur, le tutoriel de prise en main ou le fichier lisez-moi, contacter le &lt;a0&gt;coordinateur de la localisation&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For the writable glossary, it opens the folder that contains the glossary file.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260811T054150Z" creationid="suzume" creationdate="20260811T054150Z">
+        <seg>Le bouton ouvrira le dossier qui contient le glossaire modifiable.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48496,8 +48520,8 @@ the scope of this License.</seg>
       <tuv lang="en">
         <seg>In projects that use more complex mapping, &lt;e0&gt;adding&lt;/e0&gt;, &lt;e1&gt;modifying&lt;/e1&gt;, or &lt;e2&gt;deleting&lt;/e2&gt; files must &lt;e3&gt;all&lt;/e3&gt; be performed through the VCS.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20260809T152134Z" creationid="suzume" creationdate="20260809T152134Z">
-        <seg>Si le project utilise des filtres ou paramètres de segmentation spécifiques, les fichiers &lt;f0&gt;filters.xml&lt;/f0&gt; et &lt;f1&gt;segmentation.conf&lt;/f1&gt; doivent être ajoutés au système de gestion de version et êtres publiés sur le serveur., &lt;e0&gt;modifier&lt;/e0&gt; ou &lt;e1&gt;effacer&lt;/e1&gt; les fichiers.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20260811T052427Z" creationid="suzume" creationdate="20260809T152134Z">
+        <seg>Si le projet utilise une mise en correspondance plus complexe, l’&lt;e0&gt;ajout&lt;/e0&gt;, la &lt;e1&gt;modification&lt;/e1&gt;, ou l’&lt;e2&gt;effaçage&lt;/e2&gt; de fichier &lt;e3&gt;doivent&lt;/e3&gt; s’effectuer à l’aide du logiciel de gestion de version.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50291,8 +50315,8 @@ exécutez simplement le programme d'installation.</seg>
       <tuv lang="en">
         <seg>Instead of reaching for the mouse, you unlock the cursor with &lt;l0&gt; &lt;k1&gt;&lt;k2&gt;F2&lt;/k2&gt;&lt;/k1&gt; &lt;/l0&gt;, use the cursor keys and standard system shortcuts to navigate to the term and select it, and then press &lt;k3&gt; &lt;k4&gt;C&lt;/k4&gt; &lt;k5&gt;S&lt;/k5&gt; &lt;k6&gt;G&lt;/k6&gt; &lt;/k3&gt; to &lt;l7&gt;call up the glossary entry dialog&lt;/l7&gt; to enter the source term.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20260412T101538Z" creationid="suzume" creationdate="20260412T101538Z">
-        <seg>Au lieu de prendre la souris, vous déverrouillez le curseur avec &lt;l0&gt;&lt;k1&gt;F2&lt;/k1&gt;&lt;/l0&gt;, en utilisant les touches du curseur et les raccourcis standards du système pour naviguer jusqu’au terme et le sélectionner. Puis appuyez sur &lt;k2&gt;&lt;k3&gt;C&lt;/k3&gt;&lt;k4&gt;S&lt;/k4&gt;&lt;k5&gt;G&lt;/k5&gt;&lt;/k2&gt; pour afficher la boite de dialogue de saisie du glossaire et y insérer le terme source.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20260811T052724Z" creationid="suzume" creationdate="20260412T101538Z">
+        <seg>Au lieu de prendre la souris, vous déverrouillez le curseur avec &lt;l0&gt; &lt;k1&gt;&lt;k2&gt;F2&lt;/k2&gt;&lt;/k1&gt; &lt;/l0&gt;, en utilisant les touches du curseur et les raccourcis standards du système pour naviguer jusqu’au terme et le sélectionner. Puis appuyez sur &lt;k3&gt;&lt;k4&gt;C&lt;/k4&gt; &lt;k5&gt;S&lt;/k5&gt; &lt;k6&gt;G&lt;/k6&gt; &lt;/k3&gt; pour &lt;l7&gt;afficher la boite de dialogue de saisie du glossaire&lt;/l7&gt; et y insérer le terme source.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67650,8 +67674,8 @@ chargé comme un projet local sans fonctionnalité d’équipe.</seg>
       <tuv lang="en">
         <seg>Project loading error: {0}</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20251119T133622Z" creationid="suzume" creationdate="20251119T133622Z">
-        <seg>Erreur lors du chargement du projet</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20260811T051503Z" creationid="suzume" creationdate="20251119T133622Z">
+        <seg>Erreur lors du chargement du projet : {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -81275,6 +81299,14 @@ form of a work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;g0&gt;Open&lt;/g0&gt; button next to each &lt;g1&gt;Browse&lt;/g1&gt; button opens that resource folder in the system file manager.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260811T054122Z" creationid="suzume" creationdate="20260811T054122Z">
+        <seg>Cliquer sur ce bouton pour ouvrir le dossier dans votre gestionnaire de fichier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;g0&gt;Segment Properties&lt;/g0&gt; pane allows notification settings for each of its item.</seg>
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230421T103045Z" creationid="Léo Delaune" creationdate="20230406T110612Z">
@@ -82914,6 +82946,14 @@ shown below.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20230517T060924Z" creationid="Léo Delaune" creationdate="20230411T093105Z">
         <seg>La barre d’état se trouve en bas de la fenêtre principale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The button is only available while the folder entered in the corresponding field exists.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260811T054214Z" creationid="suzume" creationdate="20260811T054214Z">
+        <seg>Ce bouton n’est disponible que si le dossier correspondant existe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -86410,6 +86450,14 @@ modification follow.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20200118T110302Z" creationid="suzume" creationdate="20200118T110302Z">
         <seg>Le programme demandera toujours la confirmation avant de quitter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The progress is calculated from translated unique segments.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260811T055838Z" creationid="suzume" creationdate="20260811T055838Z">
+        <seg>L’avancée est calculée sur la base de segments uniques traduits.</seg>
       </tuv>
     </tu>
     <tu>
@@ -90583,6 +90631,14 @@ under the terms of this General Public License.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130507T125432Z">
         <seg>Ceci copie les fichiers sélectionnés dans le dossier &lt;f3&gt;source&lt;/f3&gt; et recharge le projet pour importer les nouveaux fichiers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This covers the no-break space (U+00A0), the narrow no-break space (U+202F) used before tall punctuation in French typography, and the figure space (U+2007) used to group digits in numbers.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260811T055146Z" creationid="suzume" creationdate="20260811T055146Z">
+        <seg>Ceci inclut l’espace insécable U+00A0, l’espace fine insécable U+202F utilisée devant les signes de ponctuation doubles en français, et l’espace tabulaire U+2007 utilisé pour séparer les groupes de chiffres.</seg>
       </tuv>
     </tu>
     <tu>
@@ -96967,8 +97023,8 @@ Les recherches exactes correspondent à l’ensemble de la chaine recherchée.</
       <tuv lang="en">
         <seg>Unless special mappings or &lt;l0/&gt; have been set up, all source files are shared by all team members, and any changes made to the local source files are overwritten the next time the project is synchronized, unless they are committed to the server using the &lt;l1/&gt; &lt;l2/&gt; command.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20260809T162339Z" creationid="suzume" creationdate="20260809T162339Z">
-        <seg>À moins qu’une mise en correspondance spéciale n’ait été effectuée, tous les fichiers source seront accessibles à la totalité des membres du projet et toutes modifications faites sur les fichiers source locaux sera annulée lors de la synchronisation suivante, à moins qu’elles aient été envoyées sur le serveur à l’aide de la commande &lt;l0/&gt; &lt;l1/&gt;. </seg>
+      <tuv lang="fr" changeid="suzume" changedate="20260811T052501Z" creationid="suzume" creationdate="20260809T162339Z">
+        <seg>À moins qu’une mise en correspondance spéciale n’ait été effectuée, tous les fichiers source seront accessibles à la totalité des membres du projet et toutes modifications faites sur les fichiers source locaux sera annulée lors de la synchronisation suivante, à moins qu’elles aient été envoyées sur le serveur à l’aide de la commande &lt;l1/&gt; &lt;l2/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -99091,6 +99147,14 @@ la configuration actuelle est de {0} Mo ;</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20211117T131048Z" creationid="suzume" creationdate="20211117T131048Z">
         <seg>Utilisez le fichier &lt;f0&gt;OmegaT&lt;/f0&gt;.jar situé dans &lt;f1&gt;OmegaT.app/Contents/macOS/Java/&lt;/f1&gt; pour lancer OmegaT à partir de la ligne de commande.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the &lt;g0&gt;Apply&lt;/g0&gt; button to save your changes and see their effect without closing the dialog.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260811T055343Z" creationid="suzume" creationdate="20260811T055308Z">
+        <seg>Utilisez le bouton &lt;g0&gt;Appliquer&lt;/g0&gt; pour enregistrer les modifications et les voir en application sans fermer la boîte de dialogue.</seg>
       </tuv>
     </tu>
     <tu>
@@ -118903,8 +118967,8 @@ config-dir="chemin/vers/nouveau/configdir"</seg>
       <tuv lang="en">
         <seg>where &lt;p0&gt;&lt;charset&gt;&lt;/p0&gt; is typically one of the sets listed in the &lt;l1&gt;IANA Charset Registry&lt;/l1&gt;.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20260322T093007Z" creationid="suzume" creationdate="20260322T093007Z">
-        <seg>dans lequel &lt;p0&gt;&lt;charset&gt;&lt;/p0&gt; est généralement l’une des chaines de caractères répertoriées dans le &lt;u1&gt;registre IANA&lt;/u1&gt;.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20260811T051837Z" creationid="suzume" creationdate="20260322T093007Z">
+        <seg>dans lequel &lt;p0&gt;&lt;charset&gt;&lt;/p0&gt; est généralement l’une des chaines de caractères répertoriées dans le &lt;l1&gt;registre IANA&lt;/l1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
