@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.2.0_0_96288dc85" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.2.0_0_53a17882e" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5801,6 +5801,14 @@ la configuration actuelle est de {0} Mo.</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T105221Z">
         <seg>27/27</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>3 3 * * 6</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T050328Z" creationid="suzume" creationdate="20260813T050328Z">
+        <seg>3 3 * * 6</seg>
       </tuv>
     </tu>
     <tu>
@@ -18732,6 +18740,14 @@ la configuration actuelle est de {0} Mo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;tm/auto&lt;/s0&gt; folder is intended for reliable references files that can automatically fill exactly matching and not yet translated segments.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T054927Z" creationid="suzume" creationdate="20260813T054927Z">
+        <seg>&lt;s0&gt;tm/auto&lt;/s0&gt; est destiné aux fichiers de référence fiables qui peuvent remplir automatiquement les segments qui correspondent exactement et qui n’ont pas encore été traduits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s1&gt;In order to prevent two or more translators from working on the same language at the same time, it is therefore very important that you make an entry in the localization plan when you begin work on a translation.&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
@@ -20745,6 +20761,14 @@ covered by this License; they are outside its scope.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add files to the source folder</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T045931Z" creationid="suzume" creationdate="20260813T045931Z">
+        <seg>Ajouter des fichiers au dossier source</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add glossary entry</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130104T145708Z">
@@ -21114,6 +21138,14 @@ this License without regard to the additional permissions.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z">
         <seg>Après une mauvaise manipulation :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After a incident, the &lt;c0&gt;omegat.project&lt;/c0&gt; file may be locked and prevent opening the project.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T055937Z" creationid="suzume" creationdate="20260813T055937Z">
+        <seg>Après un incident, le fichier &lt;c0&gt;omegat.project&lt;/c0&gt; peut être verrouillé et empêcher le projet de s’ouvrir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23595,6 +23627,14 @@ void, and will automatically terminate your rights under this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Apply penalties to matches with tm/penalty-xxx</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T050112Z" creationid="suzume" creationdate="20260813T050112Z">
+        <seg>Utiliser tm/penalty-xxx pour appliquer des pénalités sur les correspondances</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Apply this font to tabular data (project files, statistics, etc.)</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230307T140454Z" creationid="Léo Delaune" creationdate="20230307T140454Z">
@@ -24035,6 +24075,14 @@ provoquer des comportements inattendus, mais corrects.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20230329T140856Z" creationid="suzume" creationdate="20230329T140856Z">
         <seg>Associer un raccourci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Associate file formats</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T055437Z" creationid="suzume" creationdate="20260813T055437Z">
+        <seg>Associer des formats de fichier</seg>
       </tuv>
     </tu>
     <tu>
@@ -24563,6 +24611,14 @@ L’idée c’est de retirer "utilisateur" totalement.
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130421T135242Z">
         <seg>Outil d'alignement automatique des propriétés Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Automatic backup</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T045622Z" creationid="suzume" creationdate="20260813T045622Z">
+        <seg>Sauvegardes automatiques</seg>
       </tuv>
     </tu>
     <tu>
@@ -25421,6 +25477,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Bridge two languages with an intermediate TM</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260811T151723Z" creationid="suzume" creationdate="20260811T151723Z">
+        <seg>Faire le lien entre deux langues à l’aide d’une mémoire de traduction intermédiaire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Brief introduction to OmegaT, 2009 (in Vietnamese).</seg>
       </tuv>
       <tuv lang="fr">
@@ -25952,6 +26016,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By default, it is the project folder, but you can change it to a remote location for easy sharing.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T053612Z" creationid="suzume" creationdate="20260813T053612Z">
+        <seg>Par défaut, ce dossier est le dossier du projet lui-même, mais vous pouvez modifier son emplacement pour rendre plus pratique le partage de vos mémoires.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default, left justification is used for Left-To-Right (LTR) languages and right justification for Right-To-Left (RTL) languages.</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130416T175713Z">
@@ -26076,6 +26148,14 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230406T112028Z" creationid="Léo Delaune" creationdate="20230406T112028Z">
         <seg>Par défaut, le curseur est verrouillé dans le champ de traduction et les touches fléchées ne peuvent pas être utilisées pour se déplacer dans le texte source.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By default, the cursor is locked in the translation field.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T053449Z" creationid="suzume" creationdate="20260813T053449Z">
+        <seg>Le curseur est verrouillé par défaut dans le champ de traduction.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26292,6 +26372,14 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20251224T061939Z" creationid="suzume" creationdate="20220317T102936Z">
         <seg>L’appel à un programme externe a été interrompu : {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Call user manual</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T055444Z" creationid="suzume" creationdate="20260813T055444Z">
+        <seg>Ouvrir le manuel d'utilisation</seg>
       </tuv>
     </tu>
     <tu>
@@ -27137,6 +27225,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check for differences</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T050417Z" creationid="suzume" creationdate="20260813T050417Z">
+        <seg>Check for differences</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check for doubled blanks</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20140604T064615Z" creationid="Didier" creationdate="20140604T064615Z">
@@ -27650,6 +27746,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Checkout target repository</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T050354Z" creationid="suzume" creationdate="20260813T050354Z">
+        <seg>Checkout target repository</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Checks for language errors (style, grammar, etc.).</seg>
       </tuv>
       <tuv lang="fr" changeid="briglegrand" changedate="20120622T171544Z">
@@ -27734,6 +27838,14 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160427T153910Z" creationid="Didier" creationdate="20160427T153910Z">
         <seg>Choisir un fichier cible</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Choose a folder for exported TMs</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T045717Z" creationid="suzume" creationdate="20260813T045717Z">
+        <seg>Choisir le dossier d’export des mémoires</seg>
       </tuv>
     </tu>
     <tu>
@@ -29062,6 +29174,14 @@ kolekti -b C:\[...]\trunk\doc_src2 publish [-j JOB] -l fr,en C:\[...]\trunk\doc_
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Commit changes</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T050428Z" creationid="suzume" creationdate="20260813T050428Z">
+        <seg>Commit changes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Commit not possible because somebody else changed remote translation.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20120420T210632Z">
@@ -30100,6 +30220,14 @@ makes it unnecessary.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Copy or rename the best backup TM (&lt;c0&gt;project_save.tmx&lt;/c0&gt; or a backup) into the new project's omegat folder, then open the new project.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T055405Z" creationid="suzume" creationdate="20260813T055405Z">
+        <seg>Copiez la meilleure mémoire sauvegardée du projet (&lt;c0&gt;project_save.tmx&lt;/c0&gt; ou un sauvegarde) dans le nouveau dossier omegat, puis ouvrez le nouveau projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Copy the 
 OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
@@ -30695,6 +30823,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create a new project with the same settings and copy the source, glossary and reference TM files from the old project.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T055257Z" creationid="suzume" creationdate="20260813T055257Z">
+        <seg>Créez un nouveau projet avec les mêmes paramètres et copiez y les fichiers source, glossary et tm de l’ancien projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create a new project with the same settings.</seg>
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230404T085306Z" creationid="sirine" creationdate="20230404T085306Z">
@@ -30819,6 +30955,14 @@ La version anglaise est sous Copyright (C) 1989, 1991 Free Software Foundation, 
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20161227T170755Z" creationid="Didier" creationdate="20161227T170755Z">
         <seg>Créez votre propre clé puis entrez-la ci-dessous.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create your own translation memories</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T044927Z" creationid="suzume" creationdate="20260813T044927Z">
+        <seg>Créez vos propres mémoires</seg>
       </tuv>
     </tu>
     <tu>
@@ -32822,6 +32966,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Did you know...</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260811T092634Z" creationid="suzume" creationdate="20260811T092634Z">
+        <seg>Saviez-vous que…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Didier Briel</seg>
       </tuv>
       <tuv lang="fr">
@@ -34447,6 +34599,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Download StarDict or Lingvo DSL dictionaries and extract them into the project's &lt;c0&gt;dictionary&lt;/c0&gt; folder.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T045525Z" creationid="suzume" creationdate="20260813T045525Z">
+        <seg>Téléchargez des dictionnaires dans les formats StarDict ou Lingvo DSL et décompressez les dans le dossier &lt;c0&gt;dictionary&lt;/c0&gt; du projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Download Team Project</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20251225T134818Z">
@@ -34664,6 +34824,14 @@ Ajouter C:\Program Files (x86)\Prince\Engine\bin dans le Path.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210110T124156Z" creationid="suzume" creationdate="20210110T124156Z">
         <seg>Faites glisser et déposez &lt;f0&gt;OmegaT.app&lt;/f0&gt; sur le Dock.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Drag pane titles to rearrange or undock them.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T054315Z" creationid="suzume" creationdate="20260813T054315Z">
+        <seg>Tirez le titre d’un voler pour le déplacer ou le décrocher de la fenêtre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38317,6 +38485,14 @@ YAML file ?</note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Fetch from upstream repository</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T050402Z" creationid="suzume" creationdate="20260813T050402Z">
+        <seg>Fetch from upstream repository</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Few more things to remember</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130503T073717Z">
@@ -40408,6 +40584,14 @@ authors of previous versions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For unsupported formats, try to convert them to a supported one (e.g., convert to XLIFF) before adding them to the source folder.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260811T151541Z" creationid="suzume" creationdate="20260811T151541Z">
+        <seg>Essayez de les convertir à un format pris en charge (par ex. XLIFF) avant de mettre les fichiers dans le dossier source.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For your reference, OmegaT displays the translation of any word that is both present in the segment and registered in the glossary.</seg>
       </tuv>
       <tuv lang="fr" changeid="jchelary" changedate="20130526T100319Z">
@@ -42173,6 +42357,14 @@ Pour fonctionner, OmegaT a besoin d'un environnement d'exécution Java (JRE) de 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Group panes into tabs to save space.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T054453Z" creationid="suzume" creationdate="20260813T054410Z">
+        <seg>Regroupez les volets en onglets pour économiser de l’espace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Group {0} does not exist in search expression</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20230517T051754Z" creationid="Didier" creationdate="20180220T085032Z">
@@ -43136,6 +43328,14 @@ a disparu…</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>How to download dictionary</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T055455Z" creationid="suzume" creationdate="20260813T055455Z">
+        <seg>Télécharger un dictionnaire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>How to install Kolekti</seg>
       </tuv>
       <tuv lang="fr">
@@ -44059,6 +44259,30 @@ need not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If a project is locked</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T045838Z" creationid="suzume" creationdate="20260813T045838Z">
+        <seg>Si un projet est verrouillé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If a project won't open</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T055205Z" creationid="suzume" creationdate="20260813T055205Z">
+        <seg>Si un projet ne s’ouvre pas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If a project won’t open</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T045825Z" creationid="suzume" creationdate="20260813T045825Z">
+        <seg>Si un projet ne s’ouvre pas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If a search removes duplicates, those duplicates will not be in the Editor.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20140414T135404Z" creationid="Didier" creationdate="20140414T135404Z">
@@ -44905,6 +45129,14 @@ tous les paramètres reprendront leur valeur par défaut,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If some panes are not displayed anymore, use &lt;s0&gt;View&lt;/s0&gt; &gt; &lt;s1&gt;Restore OmegaT Window&lt;/s1&gt; to return to the default layout.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T045326Z" creationid="suzume" creationdate="20260813T045251Z">
+        <seg>Si des volets ne sont plus affichés, utiliser l’action &lt;s0&gt;Réinitialiser la fenêtre d’OmegaT&lt;/s0&gt; du menu &lt;s1&gt;Affichage&lt;/s1&gt; pour revenir à la présentation initiale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If some texts are selected within the fuzzy match, only this selection will be inserted at the cursor position.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160322T170549Z" creationid="Didier" creationdate="20160322T170549Z">
@@ -45541,6 +45773,14 @@ authors' reputations.</seg>
       </tuv>
       <tuv lang="fr" changeid="laurieetclémentine" changedate="20130412T124813Z">
         <seg>Si les lemmatiseurs ne démarrent pas correctement, le journal affichera ceci :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the translated file won't open</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T050124Z" creationid="suzume" creationdate="20260813T050124Z">
+        <seg>Si un fichier traduit ne s’ouvre pas</seg>
       </tuv>
     </tu>
     <tu>
@@ -47354,6 +47594,14 @@ OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you want to remove words from potential dictionary matches, add an &lt;c0&gt;ignore.txt&lt;/c0&gt; encoded in UTF-8 to the folder.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T053843Z" creationid="suzume" creationdate="20260813T053843Z">
+        <seg>Si vous souhaitez supprimer des mots des correspondances potentielles du dictionnaire, ajoutez un fichier &lt;c0&gt;ignore.txt&lt;/c0&gt; codé en UTF-8 au dossier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you want to remove words from potential dictionary matches, add an &lt;f0&gt;ignore.txt&lt;/f0&gt; encoded in UTF-8 to the folder.</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230324T121119Z" creationid="Léo Delaune" creationdate="20230324T121119Z">
@@ -47684,6 +47932,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20251216T070253Z" creationid="suzume" creationdate="20251216T070253Z">
         <seg>Ignorer un DOCTYPE erroné sans DTD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ignore a word in the dictionary</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T050213Z" creationid="suzume" creationdate="20260813T050213Z">
+        <seg>Ignorer des mots dans le dictionnaire</seg>
       </tuv>
     </tu>
     <tu>
@@ -50081,6 +50337,14 @@ patent against the party.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20240421T215856Z" creationid="suzume" creationdate="20240421T215856Z">
         <seg>Installer le module d’extension</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Install dictionaries</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T045339Z" creationid="suzume" creationdate="20260813T045339Z">
+        <seg>Installer des dictionnaires</seg>
       </tuv>
     </tu>
     <tu>
@@ -52499,6 +52763,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130430T140145Z">
         <seg>Gardez bien à l'esprit que pour une paire de balises, la balise ouvrante doit précéder la balise fermante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Keep it safe, it is the heart of your project.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T055154Z" creationid="suzume" creationdate="20260813T055154Z">
+        <seg>C’est le dossier le plus important de votre projet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58007,6 +58279,22 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Navigate and insert from Fuzzy Matches</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T055502Z" creationid="suzume" creationdate="20260813T055502Z">
+        <seg>Sélectionner et insérer une correspondance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Navigate and insert fuzzy matches</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T053907Z" creationid="suzume" creationdate="20260813T053907Z">
+        <seg>Sélectionner et insérer une correspondance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Navigate between segments that were automatically populated by exact matches from the &lt;l0/&gt; and &lt;l1/&gt; subfolders.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20230514T085040Z" creationid="Anand" creationdate="20230329T122523Z">
@@ -58163,6 +58451,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20230320T143922Z" creationid="suzume" creationdate="20230320T143922Z">
         <seg>Nouvel ensemble langue-région</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>New projects include standard folders such as source, target, glossary, tm, dictionary and the omegat folder.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T054859Z" creationid="suzume" creationdate="20260813T054622Z">
+        <seg>Les nouveaux projets incluent les dossiers source, target, glossary, tm, et dictionary dans le dossier du projet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59654,6 +59950,14 @@ clic droit sur le panneau glossaire pour ouvrir le dossier glossaire</note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Notepad access shortcut</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T045926Z" creationid="suzume" creationdate="20260813T045926Z">
+        <seg>Accès au bloc-note</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Notes</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20110906T131255Z">
@@ -60854,6 +61158,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT creates backups of your project settings to ensure it can retrieve them in case of problems.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260811T151615Z" creationid="suzume" creationdate="20260811T151615Z">
+        <seg>OmegaT crée des sauvegardes des paramètres de votre projet afin de pouvoir les récupérer en cas de problème.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT creates up to ten backup files, and older backups are automatically deleted in turn.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20230517T061109Z" creationid="Anand" creationdate="20230313T154213Z">
@@ -61868,6 +62180,14 @@ selecting, obtaining and installing it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT regularly and automatically stores all your progress in the &lt;c0&gt;project_save.tmx&lt;/c0&gt; file located in the project's &lt;c1&gt;omegat&lt;/c1&gt; folder.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260811T151656Z" creationid="suzume" creationdate="20260811T151656Z">
+        <seg>OmegaT enregistre régulièrement et automatiquement toute votre progression dans le fichier &lt;c0&gt;project_save.tmx&lt;/c0&gt;, situé dans le dossier &lt;c1&gt;omegat&lt;/c1&gt; du projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT regularly and automatically stores all your progress in the &lt;l0/&gt; file located in the project’s &lt;l1/&gt; folder.</seg>
       </tuv>
       <tuv lang="fr" changeid="JulieZ" changedate="20230505T141624Z" creationid="sirine" creationdate="20230404T075618Z">
@@ -61929,6 +62249,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230314T162448Z" creationid="sirine" creationdate="20230301T100137Z">
         <seg>Les recherches incluent une option &lt;l0/&gt; qui vous permet d'effectuer des recherches extrêmement puissantes dans vos fichiers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT standard theme will switch its default colours based on the system colors.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260811T180813Z" creationid="suzume" creationdate="20260811T180813Z">
+        <seg>Le thème standard d’OmegaT changera de couleurs en fonction des couleurs du système.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62065,6 +62393,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20230113T163042Z" creationid="suzume" creationdate="20230113T163042Z">
         <seg>OmegaT the CAT power tools (en japonais)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT theme</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260811T164507Z" creationid="suzume" creationdate="20260811T164507Z">
+        <seg>Thèmes de couleurs</seg>
       </tuv>
     </tu>
     <tu>
@@ -62270,6 +62606,14 @@ with exactly the same structure, including copies of any non-supported files.</s
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT will create memories with &lt;s0&gt;Project menu&lt;/s0&gt; &gt; &lt;s1&gt;Create Translated Files&lt;/s1&gt; that you can share when needed.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T045216Z" creationid="suzume" creationdate="20260813T045216Z">
+        <seg>Utilisez le menu l’action &lt;s0&gt;Créer les fichiers traduits&lt;/s0&gt; du menu &lt;s1&gt;Projet&lt;/s1&gt; pour les créer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT will display a list of the installed dictionaries.</seg>
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230323T141144Z" creationid="sirine" creationdate="20230323T141144Z">
@@ -62290,6 +62634,14 @@ with exactly the same structure, including copies of any non-supported files.</s
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20240731T173614Z" creationid="Léo Delaune" creationdate="20230316T093328Z">
         <seg>OmegaT l’effacera et considèrera le segment comme non traduit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT will ignore all the words contained in that list.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T053850Z" creationid="suzume" creationdate="20260813T053850Z">
+        <seg>Tous les mots contenus dans cette liste seront ignorés par OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62485,6 +62837,14 @@ directory -&gt; folder</note>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20251224T064606Z" creationid="sirine" creationdate="20230405T155906Z">
         <seg>OmegaT ne fonctionne pas correctement ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT writes them to &lt;c2&gt;glossary/glossary.txt&lt;/c2&gt;, which you can edit in a text editor.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T053743Z" creationid="suzume" creationdate="20260813T053743Z">
+        <seg>OmegaT l’enregistrera dans &lt;c2&gt;glossary/glossary.txt&lt;/c2&gt; et vous pouvez modifier ce fichier dans un éditeur de texte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64620,6 +64980,14 @@ ajouter "file"</note>
       </tuv>
       <tuv lang="fr" changeid="Anand" changedate="20230318T142957Z" creationid="Anand" creationdate="20230318T142957Z">
         <seg>Les paramètres optionnels acceptés par la commande &lt;c0&gt;java&lt;/c0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Optional reason for manual run</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T050334Z" creationid="suzume" creationdate="20260813T050334Z">
+        <seg>Optional reason for manual run</seg>
       </tuv>
     </tu>
     <tu>
@@ -66848,6 +67216,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Prepare a team project repository</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T045913Z" creationid="suzume" creationdate="20260813T045913Z">
+        <seg>Préparer un projet en équipe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Prerequisites</seg>
       </tuv>
       <tuv lang="fr" changeid="pingouin" changedate="20130418T145819Z">
@@ -66992,6 +67368,14 @@ chargé comme un projet local sans fonctionnalité d’équipe.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20141202T222541Z" creationid="Didier" creationdate="20141202T222541Z">
         <seg>Appuyer sur &lt;k0&gt;Ctrl+M &lt;/k0&gt;permet de remplacer la traduction du segment en cours par la traduction suggérée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Press &lt;s0&gt;F2&lt;/s0&gt; to unlock it and move between source, translation and other areas of the &lt;s1&gt;Editor&lt;/s1&gt; pane.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T053518Z" creationid="suzume" creationdate="20260813T053518Z">
+        <seg>Utilisez &lt;s0&gt;F2&lt;/s0&gt; pour le déverrouiller et le déplacer librement entre le champ de traduction et d’autres parties du volet &lt;s1&gt;Éditeur&lt;/s1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67664,6 +68048,30 @@ chargé comme un projet local sans fonctionnalité d’équipe.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Project folder default structure</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T045754Z" creationid="suzume" creationdate="20260813T045754Z">
+        <seg>La structure d’un projet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project folder: default structure</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T054504Z" creationid="suzume" creationdate="20260813T054504Z">
+        <seg>La structure d’un projet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project folders</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T045806Z" creationid="suzume" creationdate="20260813T045806Z">
+        <seg>Les dossiers d’un projet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Project glossary</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20221016T083443Z" creationid="suzume" creationdate="20221016T083443Z">
@@ -68192,6 +68600,14 @@ Folder = &lt;t1&gt;Dossier&lt;/t1&gt;</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20230517T051935Z">
         <seg>L’envoi a échoué.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Push to master</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T050433Z" creationid="suzume" creationdate="20260813T050433Z">
+        <seg>Push to master</seg>
       </tuv>
     </tu>
     <tu>
@@ -69712,6 +70128,14 @@ ces mots : « pas de page »…</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Rename &lt;c0&gt;omegat.project&lt;/c0&gt; to &lt;c1&gt;omegat.project.locked&lt;/c1&gt; and rename &lt;c2&gt;omegat.project.bak&lt;/c2&gt; to &lt;c3&gt;omegat.project&lt;/c3&gt;, then open the project.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260814T101238Z" creationid="suzume" creationdate="20260814T101238Z">
+        <seg>Renommez le fichier &lt;c0&gt;omegat.project</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Rename any files you want to prevent from being overwritten after you create them.</seg>
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230327T131954Z" creationid="sirine" creationdate="20230327T131954Z">
@@ -70086,6 +70510,14 @@ ces mots : « pas de page »…</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20230517T051644Z" creationid="Anand" creationdate="20230318T141921Z">
         <seg>Remplacez-le avec l’emplacement réel du fichier sur votre système.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace local English with upstream version</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T050407Z" creationid="suzume" creationdate="20260813T050407Z">
+        <seg>Replace local English with upstream version</seg>
       </tuv>
     </tu>
     <tu>
@@ -70490,6 +70922,14 @@ ces mots : « pas de page »…</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Reset configuration to defaults</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T055524Z" creationid="suzume" creationdate="20260813T055524Z">
+        <seg>Réinitialiser la configuration</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Resolve Conflicts</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160427T153134Z" creationid="Didier" creationdate="20160427T153134Z">
@@ -70618,6 +71058,14 @@ ces mots : « pas de page »…</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Restore lost translations</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T045858Z" creationid="suzume" creationdate="20260813T045858Z">
+        <seg>Récupérer des traduction à partir des sauvegardes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Restore the default window layout</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20251226T092006Z" creationid="suzume" creationdate="20251226T092006Z">
@@ -70733,6 +71181,14 @@ ces mots : « pas de page »…</seg>
         <seg>Reuse Translation Memories</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20200724T172612Z" creationid="briac" creationdate="20200724T172612Z">
+        <seg>Réutiliser des mémoires de traduction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Reuse translation memories</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T045902Z" creationid="suzume" creationdate="20260813T045902Z">
         <seg>Réutiliser des mémoires de traduction</seg>
       </tuv>
     </tu>
@@ -73938,6 +74394,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the manual section on supporting other formats for ideas.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260811T151608Z" creationid="suzume" creationdate="20260811T151608Z">
+        <seg>Voir la section du manuel « Prendre en charge d’autres formats ».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the section Preventing data loss for ways and means of protecting your work.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130422T133006Z">
@@ -75387,6 +75851,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Set up Git user</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T050358Z" creationid="suzume" creationdate="20260813T050358Z">
+        <seg>Set up Git user</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Set up a Team Project</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210110T165027Z" creationid="suzume" creationdate="20210110T165027Z">
@@ -75599,6 +76071,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230331T183623Z" creationid="sirine" creationdate="20230331T183623Z">
         <seg>Partager les MT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Share translation memories</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T045917Z" creationid="suzume" creationdate="20260813T045917Z">
+        <seg>Partager des mémoires de traduction</seg>
       </tuv>
     </tu>
     <tu>
@@ -75955,6 +76435,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Show Tip of the Day</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260811T092618Z" creationid="suzume" creationdate="20260811T092618Z">
+        <seg>Afficher l’info du jour</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Show definition first</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130913T165518Z" creationid="Didier" creationdate="20130913T165518Z">
@@ -76015,6 +76503,14 @@ https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.htm
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130917T085440Z" creationid="Didier" creationdate="20130917T085440Z">
         <seg>Afficher le terme cible en premier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Show tips on startup</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260811T092646Z" creationid="suzume" creationdate="20260811T092646Z">
+        <seg>Afficher l’info du jour au lancement</seg>
       </tuv>
     </tu>
     <tu>
@@ -78065,6 +78561,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Stage changes</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T050413Z" creationid="suzume" creationdate="20260813T050413Z">
+        <seg>Stage changes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Standar&amp;d</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20230128T175222Z" creationid="briac" creationdate="20230128T175222Z">
@@ -78909,6 +79413,14 @@ address new problems or concerns.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Support other file formats</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260811T092708Z" creationid="suzume" creationdate="20260811T092708Z">
+        <seg>Prendre en charge d’autres formats</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Support other formats</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20230517T051532Z" creationid="sirine" creationdate="20230329T164558Z">
@@ -79129,6 +79641,14 @@ address new problems or concerns.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20160929T151149Z" creationid="Didier" creationdate="20160929T151149Z">
         <seg>Passage à la version intégrée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sync English manual from upstream</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T050323Z" creationid="suzume" creationdate="20260813T050323Z">
+        <seg>Sync English manual from upstream</seg>
       </tuv>
     </tu>
     <tu>
@@ -80057,6 +80577,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20251224T064824Z" creationid="Didier" creationdate="20171016T153854Z">
         <seg>Fichiers cible envoyés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Target folder creates translated files</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T055537Z" creationid="suzume" creationdate="20260813T055537Z">
+        <seg>Créer les fichiers traduits</seg>
       </tuv>
     </tu>
     <tu>
@@ -81639,6 +82167,14 @@ form of a work.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130528T131925Z">
         <seg>La boîte de dialogue &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;E&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Projet&lt;/g5&gt; &lt;g6&gt;Propriétés...&lt;/g6&gt; &lt;/m0&gt; sert à définir et à modifier les dossiers et les langues du projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;s0&gt;Fuzzy Matches&lt;/s0&gt; pane lists matches from &lt;c1&gt;project_save.tmx&lt;/c1&gt; and reference TMs. Use shortcuts to insert the best match or pick one with the mouse.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T054034Z" creationid="suzume" creationdate="20260813T054034Z">
+        <seg>Le volet &lt;s0&gt;Correspondances&lt;/s0&gt; propose une liste de correspondances issues du fichier &lt;c1&gt;project_save.tmx&lt;/c1&gt; et des mémoires de référence. Utilisez les raccourcis clavier pour sélectionner et insérer la meilleure correspondance, ou utilisez la souris.</seg>
       </tuv>
     </tu>
     <tu>
@@ -83654,6 +84190,22 @@ instead.</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T194450Z" creationid="Léo Delaune" creationdate="20230306T194450Z">
         <seg>La touche par défaut pour valider et quitter un segment est &lt;k0&gt;Entrée&lt;/k0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The default layout shows the Editor, the Notepad, Fuzzy Matches, Glossaries, Segment properties, Comments, Multiple Translations, Dictionaries and Machine Translations panes.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T054211Z" creationid="suzume" creationdate="20260813T054211Z">
+        <seg>La disposition par défaut des volets montre l’Éditeur, le Bloc-note, les Correspondances, les Glossaires, les Propriétés du segment, les Commentaires, les Traductions multiples, les Dictionnaires et la Traduction automatique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The default names are as follows.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T055005Z" creationid="suzume" creationdate="20260813T055005Z">
+        <seg>Les noms par défaut sont :</seg>
       </tuv>
     </tu>
     <tu>
@@ -86010,10 +86562,26 @@ sure this has not already been reported.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The omegat folder</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T045815Z" creationid="suzume" creationdate="20260813T045815Z">
+        <seg>Le dossier omegat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The omegat folder contains the &lt;f0&gt;project_save.tmx&lt;/f0&gt; and possibly a number of backup TMX files.</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130506T135917Z">
         <seg>le dossier omegat contient le fichier &lt;f0&gt;project_save.tmx&lt;/f0&gt; et peut contenir un certain nombre de fichiers TMX de sauvegarde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The omegat folder stores the project TM (&lt;c0&gt;project_save.tmx&lt;/c0&gt;), statistics and settings.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T055137Z" creationid="suzume" creationdate="20260813T055137Z">
+        <seg>Le dossier omegat contient la mémoire du projet (&lt;c0&gt;project_save.tmx&lt;/c0&gt;), les statistiques et les paramètres du projet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -88320,6 +88888,14 @@ L'idée était que l'utilisation de certaines touches en dehors du segment coura
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The themes also provide a predefined set of default colors for marks.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260811T164558Z" creationid="suzume" creationdate="20260811T164558Z">
+        <seg>Les thèmes proposent aussi des couleurs par défaut pour les surlignements.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The themes also provide predefined set of default colours.</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230307T133707Z" creationid="Léo Delaune" creationdate="20230307T133707Z">
@@ -88849,6 +89425,14 @@ the [Help] menu after starting OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The writable glossary glossary.txt</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T045736Z" creationid="suzume" creationdate="20260813T045736Z">
+        <seg>glossary.txt, le glossaire modifiable</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The writable glossary is located in the &lt;l0/&gt; folder.</seg>
       </tuv>
       <tuv lang="fr" changeid="Anand" changedate="20230404T090024Z" creationid="Anand" creationdate="20230404T090024Z">
@@ -88869,6 +89453,14 @@ the [Help] menu after starting OmegaT.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20230517T060725Z" creationid="Léo Delaune" creationdate="20230404T092930Z">
         <seg>Le glossaire modifiable est le fichier qu’OmegaT utilise lorsque vous ajoutez des termes traduits dans votre projet à l’aide de la commande &lt;l0/&gt;&lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The writable glossary: glossary.txt</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T053619Z" creationid="suzume" creationdate="20260813T053619Z">
+        <seg>glossary.txt, le glossaire modifiable</seg>
       </tuv>
     </tu>
     <tu>
@@ -89320,6 +89912,14 @@ the [Help] menu after starting OmegaT.</seg>
       </tuv>
       <tuv lang="fr" changeid="briglegrand" changedate="20110109T103545Z">
         <seg>Certaines références (anciennes versions de la documentation, mémoires de traduction sous forme de fichiers TMX, etc.) existent éventuellement déjà et peuvent par conséquent s'avérer utiles pour votre travail.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There should be three files per dictionary, with extensions &lt;c0&gt;dz&lt;/c0&gt;, &lt;c1&gt;idx&lt;/c1&gt; and &lt;c2&gt;ifo&lt;/c2&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T053838Z" creationid="suzume" creationdate="20260813T053838Z">
+        <seg>Il devrait y avoir trois fichiers par dictionnaire, avec les extensions &lt;c0&gt;dz&lt;/c0&gt;, &lt;c1&gt;idx&lt;/c1&gt; et &lt;c2&gt;ifo&lt;/c2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -90439,6 +91039,14 @@ under the terms of this General Public License.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20230517T041803Z" creationid="Anand" creationdate="20230322T084343Z">
         <seg>Cette option peut être utile si le projet est paramétré pour utiliser des &lt;l1&gt;mises en correspondance&lt;/l1&gt; différentes pour chaque membre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This can help suggest terminology via the Fuzzy Matches pane.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260811T180902Z" creationid="suzume" creationdate="20260811T180902Z">
+        <seg>La langue de liaison sera affichée sous le segment source.</seg>
       </tuv>
     </tu>
     <tu>
@@ -93165,6 +93773,14 @@ collective works based on the Program.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130412T135446Z">
         <seg>TinySegmenter (domaine public)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tip of the Day</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260811T092608Z" creationid="suzume" creationdate="20260811T092608Z">
+        <seg>L’info du jour</seg>
       </tuv>
     </tu>
     <tu>
@@ -95937,6 +96553,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translations from TMX files placed in this folder are automatically inserted in empty matching segments without the automatic prefix, making it unnecessary to confirm these segments.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T054947Z" creationid="suzume" creationdate="20260813T054947Z">
+        <seg>Les traductions des fichiers TMX placés dans ce dossier sont automatiquement insérées dans les segments correspondants vides sans le préfixe automatique, ce qui rend inutile la confirmation de ces segments.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translations from TMX files placed in this folder are automatically inserted in matching segments without the automatic prefix, making it unnecessary to confirm these segments.</seg>
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230419T174742Z" creationid="Léo Delaune" creationdate="20230322T125929Z">
@@ -97105,6 +97729,14 @@ Les recherches exactes correspondent à l’ensemble de la chaine recherchée.</
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20230517T051532Z" creationid="sirine" creationdate="20230301T112634Z">
         <seg>Contrairement à une lettre seule, qui se représente simplement comme indiqué ci-dessus, une lettre précédée d’une &lt;l0&gt;\&lt;/l0&gt; a une fonction particulière dans une expression régulière.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unlock the cursor with F2</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T045656Z" creationid="suzume" creationdate="20260813T045656Z">
+        <seg>Libérer le curseur avec F2</seg>
       </tuv>
     </tu>
     <tu>
@@ -98847,6 +99479,14 @@ la configuration actuelle est de {0} Mo ;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;s0&gt;Edit&lt;/s0&gt; &gt; &lt;s1&gt;Create Glossary Entry...&lt;/s1&gt; to add terms.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T053640Z" creationid="suzume" creationdate="20260813T053640Z">
+        <seg>Pour ajouter une entrée au glossaire, utilisez &lt;s0&gt;Créer une entrée de glossaire&lt;/s0&gt; dans le menu &lt;s1&gt;Édition&lt;/s1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use Aggressive &amp;Font Fallback</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20230129T184055Z" creationid="briac" creationdate="20230129T184055Z">
@@ -98859,6 +99499,14 @@ la configuration actuelle est de {0} Mo ;</seg>
       </tuv>
       <tuv lang="fr" changeid="Anand" changedate="20230329T133501Z" creationid="Anand" creationdate="20230329T133501Z">
         <seg>Utilisation intensive des polices de repli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use Check Issues for tag problems</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T050149Z" creationid="suzume" creationdate="20260813T050149Z">
+        <seg>Utiliser Afficher les erreurs pour les problèmes de balises</seg>
       </tuv>
     </tu>
     <tu>
@@ -99375,6 +100023,14 @@ la configuration actuelle est de {0} Mo ;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use the icons to minimize, maximize, restore or dock panes.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T054350Z" creationid="suzume" creationdate="20260813T054350Z">
+        <seg>Utilisez les icônes pour réduire, agrandir, rétablir ou ancrer le volet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use the installation language in OmegaT</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20230517T051644Z">
@@ -99747,6 +100403,22 @@ la configuration actuelle est de {0} Mo ;</seg>
       </tuv>
       <tuv lang="fr" changeid="Anand" changedate="20230303T132639Z" creationid="Anand" creationdate="20230303T132639Z">
         <seg>Utilisez cette option pour les supprimer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use tm/auto to auto-populate exact matches</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T055607Z" creationid="suzume" creationdate="20260813T055607Z">
+        <seg>Utilisez tm/auto pour des mémoires de référence fiables</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use tm/enforce to overwrite translations</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T050022Z" creationid="suzume" creationdate="20260813T050022Z">
+        <seg>Utiliser tm/enforce pour forcer des traductions</seg>
       </tuv>
     </tu>
     <tu>
@@ -102066,6 +102738,14 @@ for which you have or can give appropriate copyright permission.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130528T132010Z">
         <seg>Quand vous quittez le projet,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you have a TM in a different target language, you can bridge languages by adding both that TM and another TM that maps to your target.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260811T163815Z" creationid="suzume" creationdate="20260811T163815Z">
+        <seg>Quand vous avez une mémoire de traduction avec une langue cible différente de celle de votre projet, vous pouvez faire le lien entre les langues en ajoutant aussi bien cette mémoire qu’une mémoire qui elle correspond à votre langue cible.</seg>
       </tuv>
     </tu>
     <tu>
@@ -104612,6 +105292,14 @@ your programs, too.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can export TMX file from each OmegaT project for delivery and future project reference TM.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T045043Z" creationid="suzume" creationdate="20260813T045043Z">
+        <seg>Vous pouvez exporter des fichiers TMX pour chaque projet soit dans le but de les livrer, soit pour les utiliser en référence dans d’autres projets.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can find a number of online or offline utilities that convert PDF to common office formats, but the conversion will always require extensive manual adjustments to the target document before a proper PDF document can be produced.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20230517T051532Z">
@@ -104626,6 +105314,14 @@ your programs, too.</seg>
       <tuv lang="fr" changeid="suzume" changedate="20251224T061939Z">
         <seg>Les informations statistiques sont dans le fichier :
 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can find some dictionaries on the &lt;a0&gt;OmegaT Wiki&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T053755Z" creationid="suzume" creationdate="20260813T053755Z">
+        <seg>Vous pouvez trouver certains dictionnaires sur le &lt;a0&gt;Wiki d’OmegaT&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -105005,6 +105701,14 @@ installation script (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can reassign their locations in &lt;s0&gt;Project&lt;/s0&gt; &gt; &lt;s1&gt;Properties&lt;/s1&gt;, or access them via &lt;s2&gt;Project&lt;/s2&gt; &gt; &lt;s3&gt;Access Project Contents&lt;/s3&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T054846Z" creationid="suzume" creationdate="20260813T054846Z">
+        <seg>Vous pouvez sélectionner d’autres emplacements avec l’action &lt;s0&gt;Propriétés&lt;/s0&gt; du menu &lt;s1&gt;Projet&lt;/s1&gt;, ou accéder à leur contenu avec l’action &lt;s2&gt;Accéder au contenu du projet&lt;/s2&gt; du même menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can refer to the &lt;l1&gt;table presenting the different editor shortcuts&lt;/l1&gt; to find the values for keys such as &lt;l2&gt;Home&lt;/l2&gt;, &lt;l3&gt;Page Up&lt;/l3&gt;, or the arrow keys.</seg>
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230419T161852Z" creationid="Léo Delaune" creationdate="20230303T104838Z">
@@ -105101,6 +105805,14 @@ installation script (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can select a theme for the OmegaT user interface.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260811T164518Z" creationid="suzume" creationdate="20260811T164518Z">
+        <seg>Vous pouvez sélectionner un thème pour l'interface utilisateur d'OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can select any folder you want to hold your resources, including folders on shared disks.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20230517T051754Z" creationid="Léo Delaune" creationdate="20230404T091716Z">
@@ -105129,6 +105841,14 @@ installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20230517T054539Z" creationid="suzume" creationdate="20221220T114731Z">
         <seg>Vous pouvez modifier la fréquence des enregistrements dans la rubrique &lt;l0/&gt; des préférences.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can set where exported TMX files are saved.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T053550Z" creationid="suzume" creationdate="20260813T053550Z">
+        <seg>Vous pouvez spécifier où enregistrer les mémoires TMX exportées.</seg>
       </tuv>
     </tu>
     <tu>
@@ -105968,6 +106688,14 @@ necessary.</seg>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130419T195535Z">
         <seg>Vous devriez aussi obtenir de votre employeur (si vous travaillez en tant que développeur) ou de votre école, si c'est le cas, qu'il (ou elle) signe une 'renonciation aux droits d'auteur' concernant le programme, si nécessaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You should have .dz, .idx and .ifo files for each dictionary.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T045605Z" creationid="suzume" creationdate="20260813T045605Z">
+        <seg>Chaque dictionnaire doit comporter des fichiers de types .dz, .irx et .ifo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -107102,6 +107830,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>actions/checkout@v5</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T050355Z" creationid="suzume" creationdate="20260813T050355Z">
+        <seg>actions/checkout@v5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ae</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T095820Z">
@@ -107438,6 +108174,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>associate_file_formats.html</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T045611Z" creationid="suzume" creationdate="20260813T045611Z">
+        <seg>associate_file_formats.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>attributes.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210505T233702Z">
@@ -107602,6 +108346,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230306T135105Z" creationid="Léo Delaune" creationdate="20230306T135105Z">
         <seg>autocompleterTrigger</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>automatic_backup.html</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T045619Z" creationid="suzume" creationdate="20260813T045619Z">
+        <seg>automatic_backup.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -107878,6 +108630,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>bridge_two_languages.html</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T045632Z" creationid="suzume" creationdate="20260813T045632Z">
+        <seg>bridge_two_languages.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>bs</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T095847Z">
@@ -108118,6 +108878,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>change_theme.html</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T045634Z" creationid="suzume" creationdate="20260813T045634Z">
+        <seg>change_theme.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>changes.txt</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T104417Z">
@@ -108330,6 +109098,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230321T005609Z" creationid="Léo Delaune" creationdate="20230321T005609Z">
         <seg>créer les fichiers traduits dans un dossier partagé en dehors du dossier du projet, dans un endroit facilement accessible à votre réviseur, ou</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>create_your_own_tms.html</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T045638Z" creationid="suzume" creationdate="20260813T045638Z">
+        <seg>create_your_own_tms.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -109007,6 +109783,30 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>dictionary contains the reference dictionaries</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T055042Z" creationid="suzume" creationdate="20260813T055042Z">
+        <seg>dictionary, qui contient les dictionnaires de référence</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>dictionary_installation.html</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T045641Z" creationid="suzume" creationdate="20260813T045641Z">
+        <seg>dictionary_installation.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>diff</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T050422Z" creationid="suzume" creationdate="20260813T050418Z">
+        <seg>diff</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>dir-10\\test\.html</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T104544Z">
@@ -109135,6 +109935,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>download the file - it should be a tarball archive (extension &lt;c0&gt;tar.bz&lt;/c0&gt; or &lt;c1&gt;tar.bz2&lt;/c1&gt;),</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T053823Z" creationid="suzume" creationdate="20260813T053823Z">
+        <seg>Téléchargez le fichier. Ce devrait être un fichier d’archive tarball (extension &lt;c0&gt;tar.bz&lt;/c0&gt; ou &lt;c1&gt;tar.bz2&lt;/c1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>download the file - it should be a tarball archive (extension &lt;f0&gt;tar.bz&lt;/f0&gt; or &lt;f1&gt;tar.bz2&lt;/f1&gt;),</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20230517T051532Z" creationid="Léo Delaune" creationdate="20230324T121055Z">
@@ -109227,6 +110035,26 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="fr" changeid="briglegrand" changedate="20120622T174659Z">
         <seg>e-lexica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>echo "changed=false" &gt;&gt; "$GITHUB_OUTPUT"
+else</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T050425Z" creationid="suzume" creationdate="20260813T050425Z">
+        <seg>echo "changed=false" &gt;&gt; "$GITHUB_OUTPUT"
+else</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>echo "changed=true" &gt;&gt; "$GITHUB_OUTPUT"
+fi</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T050426Z" creationid="suzume" creationdate="20260813T050426Z">
+        <seg>echo "changed=true" &gt;&gt; "$GITHUB_OUTPUT"
+fi</seg>
       </tuv>
     </tu>
     <tu>
@@ -109599,6 +110427,14 @@ de créer son dossier de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>editor_unlock_cursor_f2.html</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T045645Z" creationid="suzume" creationdate="20260813T045645Z">
+        <seg>editor_unlock_cursor_f2.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ee</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T095920Z">
@@ -109787,6 +110623,14 @@ de créer son dossier de configuration.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20230517T063923Z" creationid="Léo Delaune" creationdate="20230322T133638Z">
         <seg>dossier des mémoires de traduction exportées</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>exported_tms_folder.html</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T045657Z" creationid="suzume" creationdate="20260813T045657Z">
+        <seg>exported_tms_folder.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -110177,6 +111021,32 @@ for (i in 0 ..&lt; files.size())
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>git add manual greeting tips ${{ env.OLD_MAINTAINANCE_BRANCH_TARGET }} ${{ env.MAINTAINANCE_BRANCH_TARGET }}</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T050415Z" creationid="suzume" creationdate="20260813T050415Z">
+        <seg>git add manual greeting tips ${{ env.OLD_MAINTAINANCE_BRANCH_TARGET }} ${{ env.MAINTAINANCE_BRANCH_TARGET }}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>git clone --depth=1 https://github.com/${{ env.UPSTREAM_REPO }}.git _upstream
+curl -L -o _upstream/branch.tar.gz https://github.com/${{ env.UPSTREAM_REPO }}/archive/refs/heads/${{ env.MAINTAINANCE_BRANCH }}.tar.gz
+curl -L -o _upstream/oldbranch.tar.gz https://github.com/${{ env.UPSTREAM_REPO }}/archive/refs/heads/${{ env.OLD_MAINTAINANCE_BRANCH }}.tar.gz
+cd _upstream
+tar xf branch.tar.gz
+tar xf oldbranch.tar.gz</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T050405Z" creationid="suzume" creationdate="20260813T050405Z">
+        <seg>git clone --depth=1 https://github.com/${{ env.UPSTREAM_REPO }}.git _upstream
+curl -L -o _upstream/branch.tar.gz https://github.com/${{ env.UPSTREAM_REPO }}/archive/refs/heads/${{ env.MAINTAINANCE_BRANCH }}.tar.gz
+curl -L -o _upstream/oldbranch.tar.gz https://github.com/${{ env.UPSTREAM_REPO }}/archive/refs/heads/${{ env.OLD_MAINTAINANCE_BRANCH }}.tar.gz
+cd _upstream
+tar xf branch.tar.gz
+tar xf oldbranch.tar.gz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>git clone --depth=1 https://github.com/${{ env.UPSTREAM_REPO }}.git _upstream&lt;x1/&gt;curl -L -o _upstream/branch.tar.gz https://github.com/${{ env.UPSTREAM_REPO }}/archive/refs/heads/${{ env.MAINTAINANCE_BRANCH }}.tar.gz&lt;x2/&gt;curl -L -o _upstream/oldbranch.tar.gz https://github.com/${{ env.UPSTREAM_REPO }}/archive/refs/heads/${{ env.OLD_MAINTAINANCE_BRANCH }}.tar.gz&lt;x3/&gt;cd _upstream&lt;x4/&gt;tar xf branch.tar.gz&lt;x5/&gt;tar xf oldbranch.tar.gz</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20260808T164018Z" creationid="suzume" creationdate="20260808T164018Z">
@@ -110193,10 +111063,28 @@ for (i in 0 ..&lt; files.size())
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>git config user.name "github-actions[bot]"
+git config user.email "l10n-github-actions@noreply.omegat.org"</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T050401Z" creationid="suzume" creationdate="20260813T050401Z">
+        <seg>git config user.name "github-actions[bot]"
+git config user.email "l10n-github-actions@noreply.omegat.org"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>git config user.name "github-actions[bot]"&lt;x1/&gt;git config user.email "l10n-github-actions@noreply.omegat.org"</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20260808T164015Z" creationid="suzume" creationdate="20260808T164015Z">
         <seg>git config user.name "github-actions[bot]"&lt;x1/&gt;git config user.email "l10n-github-actions@noreply.omegat.org"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>git push origin HEAD:master</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T050437Z" creationid="suzume" creationdate="20260813T050437Z">
+        <seg>git push origin HEAD:master</seg>
       </tuv>
     </tu>
     <tu>
@@ -110241,6 +111129,14 @@ for (i in 0 ..&lt; files.size())
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>glossary contains the glossaries</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T055029Z" creationid="suzume" creationdate="20260813T055029Z">
+        <seg>glossary, qui contient les glossaires</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>glossary.txt</seg>
       </tuv>
       <tuv lang="fr" changeid="Anand" changedate="20230308T123205Z" creationid="Anand" creationdate="20230308T123205Z">
@@ -110249,10 +111145,26 @@ for (i in 0 ..&lt; files.size())
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>glossary.txt is the project writable glossary.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T055057Z" creationid="suzume" creationdate="20260813T055057Z">
+        <seg>glossary.txt, qui est le glossaire modifiable du projet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>glossary/glossary.txt</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210111T143630Z" creationid="suzume" creationdate="20210111T143630Z">
         <seg>glossary/glossary.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>glossary_writable_glossary_txt.html</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T045719Z" creationid="suzume" creationdate="20260813T045719Z">
+        <seg>glossary_writable_glossary_txt.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -110613,6 +111525,14 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20230517T060838Z" creationid="Anand" creationdate="20230306T140003Z">
         <seg>nom de l’hôte sur le système</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>howto_download_dictionary.html</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T045624Z" creationid="suzume" creationdate="20260813T045624Z">
+        <seg>howto_download_dictionary.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -113129,6 +114049,14 @@ for (i in 0 ..&lt; files.size())
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>if git diff --staged --quiet; then</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T050423Z" creationid="suzume" creationdate="20260813T050423Z">
+        <seg>if git diff --staged --quiet; then</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>if git diff --staged --quiet; then&lt;x1/&gt;echo "changed=false" &gt;&gt; "$GITHUB_OUTPUT"&lt;x2/&gt;else&lt;x3/&gt;echo "changed=true" &gt;&gt; "$GITHUB_OUTPUT"&lt;x4/&gt;fi</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20260808T164040Z" creationid="suzume" creationdate="20260808T164040Z">
@@ -113165,6 +114093,14 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T100010Z">
         <seg>ig</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ignore_dictionary_word.html</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T050152Z" creationid="suzume" creationdate="20260813T050152Z">
+        <seg>ignore_dictionary_word.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -114525,6 +115461,22 @@ Ok. </note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>manual-6.1</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T050351Z" creationid="suzume" creationdate="20260813T050351Z">
+        <seg>manual-6.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>manuals-6.0</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T050346Z" creationid="suzume" creationdate="20260813T050346Z">
+        <seg>manuals-6.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>mapping local</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210129T102739Z" creationid="suzume" creationdate="20210129T102739Z">
@@ -114545,6 +115497,14 @@ Ok. </note>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T100110Z">
         <seg>mar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>master</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T050342Z" creationid="suzume" creationdate="20260813T050342Z">
+        <seg>master</seg>
       </tuv>
     </tu>
     <tu>
@@ -115669,6 +116629,30 @@ Ok. </note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>omegat-org/omegat</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T050341Z" creationid="suzume" creationdate="20260813T050341Z">
+        <seg>omegat-org/omegat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>omegat-releases-6.0</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T050345Z" creationid="suzume" creationdate="20260813T050345Z">
+        <seg>omegat-releases-6.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>omegat-releases-6.1</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T050350Z" creationid="suzume" creationdate="20260813T050350Z">
+        <seg>omegat-releases-6.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>omegat.autotext</seg>
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230321T144312Z" creationid="sirine" creationdate="20230321T144312Z">
@@ -116265,10 +117249,26 @@ Ok. </note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>pane_fuzzy_matches_navigation.html</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T045738Z" creationid="suzume" creationdate="20260813T045738Z">
+        <seg>pane_fuzzy_matches_navigation.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>panes_default_layout_overview.html</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20251226T092220Z" creationid="suzume" creationdate="20251226T092220Z">
         <seg>panes_default_layout_overview.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>panes_principles_manipulation.html</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T045742Z" creationid="suzume" creationdate="20260813T045742Z">
+        <seg>panes_principles_manipulation.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -116673,6 +117673,38 @@ Ok. </note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>project_folder_default_structure.html</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T045744Z" creationid="suzume" creationdate="20260813T045744Z">
+        <seg>project_folder_default_structure.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>project_folder_tm_auto.html</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T045809Z" creationid="suzume" creationdate="20260813T045809Z">
+        <seg>project_folder_tm_auto.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>project_folders.html</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T045756Z" creationid="suzume" creationdate="20260813T045756Z">
+        <seg>project_folders.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>project_omegat_folder_overview.html</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T045811Z" creationid="suzume" creationdate="20260813T045811Z">
+        <seg>project_omegat_folder_overview.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>project_save.tmx</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230324T121628Z" creationid="Léo Delaune" creationdate="20230324T121628Z">
@@ -116717,6 +117749,14 @@ Ok. </note>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230324T121934Z" creationid="Léo Delaune" creationdate="20230324T121934Z">
         <seg>project_stats_match_per_file.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>project_wont_open_recover.html</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T045817Z" creationid="suzume" creationdate="20260813T045817Z">
+        <seg>project_wont_open_recover.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -116785,6 +117825,14 @@ Ok. </note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>recover_project_when_locked.html</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T045827Z" creationid="suzume" creationdate="20260813T045827Z">
+        <seg>recover_project_when_locked.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>register the contents of the translation field in the project translation memory, and</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230406T111345Z" creationid="Léo Delaune" creationdate="20230406T111345Z">
@@ -116797,6 +117845,22 @@ Ok. </note>
       </tuv>
       <tuv lang="fr" changeid="samsung" changedate="20130422T211614Z">
         <seg>expressions régulières</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>releases/6.0</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T050344Z" creationid="suzume" creationdate="20260813T050344Z">
+        <seg>releases/6.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>releases/6.1</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T050348Z" creationid="suzume" creationdate="20260813T050348Z">
+        <seg>releases/6.1</seg>
       </tuv>
     </tu>
     <tu>
@@ -116889,10 +117953,34 @@ Ok. </note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>reset_configuration.html</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T045840Z" creationid="suzume" creationdate="20260813T045840Z">
+        <seg>reset_configuration.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>restore_translation_from_backup.html</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T045844Z" creationid="suzume" creationdate="20260813T045844Z">
+        <seg>restore_translation_from_backup.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>restores the layout before the maximizing step</seg>
       </tuv>
       <tuv lang="fr" changeid="AlexandraAnselmi57" changedate="20210519T102649Z">
         <seg>restaure la mise en page avant l'étape d'agrandissement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>reuse_translation_memories.html</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T045859Z" creationid="suzume" creationdate="20260813T045859Z">
+        <seg>reuse_translation_memories.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -117177,10 +118265,68 @@ Ok. </note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>set -e
+rm -rf en || true
+rm -rf greeting || true
+rm -rf tips || true
+rm -rf ${{ env.BRANCH_TARGET }} || true
+mkdir -p manual
+mkdir -p greeting
+mkdir -p tips
+mkdir -p ${{ env.MAINTAINANCE_BRANCH_TARGET }}
+mkdir -p ${{ env.OLD_MAINTAINANCE_BRANCH_TARGET }}
+# Copy manual, greeting and tips from src/docs/* at master branch
+cp -r _upstream/src/docs/manual/en/* ./manual/
+cp -r _upstream/src/docs/greeting/en/* ./greeting/
+cp -r _upstream/src/docs/tips/en/* ./tips/
+# Copy manual from src_docs/ at releases/6.1 branch
+cp -r _upstream/${{ env.MAINTAINANCE_TREE_DIR }}/src_docs/manual/en/* ./${{ env.MAINTAINANCE_BRANCH_TARGET }}/
+# Copy manual from doc_src/ at releases/6.0 branch 
+cp -r _upstream/${{ env.OLD_MAINTAINANCE_TREE_DIR }}/doc_src/en/* ./${{ env.OLD_MAINTAINANCE_BRANCH_TARGET }}/</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T050410Z" creationid="suzume" creationdate="20260813T050410Z">
+        <seg>set -e
+rm -rf en || true
+rm -rf greeting || true
+rm -rf tips || true
+rm -rf ${{ env.BRANCH_TARGET }} || true
+mkdir -p manual
+mkdir -p greeting
+mkdir -p tips
+mkdir -p ${{ env.MAINTAINANCE_BRANCH_TARGET }}
+mkdir -p ${{ env.OLD_MAINTAINANCE_BRANCH_TARGET }}
+# Copy manual, greeting and tips from src/docs/* at master branch
+cp -r _upstream/src/docs/manual/en/* ./manual/
+cp -r _upstream/src/docs/greeting/en/* ./greeting/
+cp -r _upstream/src/docs/tips/en/* ./tips/
+# Copy manual from src_docs/ at releases/6.1 branch
+cp -r _upstream/${{ env.MAINTAINANCE_TREE_DIR }}/src_docs/manual/en/* ./${{ env.MAINTAINANCE_BRANCH_TARGET }}/
+# Copy manual from doc_src/ at releases/6.0 branch 
+cp -r _upstream/${{ env.OLD_MAINTAINANCE_TREE_DIR }}/doc_src/en/* ./${{ env.OLD_MAINTAINANCE_BRANCH_TARGET }}/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>setup_team_project_preparations.html</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T045903Z" creationid="suzume" creationdate="20260813T045903Z">
+        <seg>setup_team_project_preparations.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>sg</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T100212Z">
         <seg>sg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>share_translation_memories.html</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T045915Z" creationid="suzume" creationdate="20260813T045915Z">
+        <seg>share_translation_memories.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -117221,6 +118367,22 @@ Ok. </note>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210110T095139Z" creationid="suzume" creationdate="20210110T095139Z">
         <seg>intervalles de courte durée (minimum : 10 secondes) pour des projets synchronisés sur un réseau interne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>shortcut_help.html</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T045616Z" creationid="suzume" creationdate="20260813T045616Z">
+        <seg>shortcut_help.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>shortcut_note.html</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T045918Z" creationid="suzume" creationdate="20260813T045918Z">
+        <seg>shortcut_note.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -117401,10 +118563,26 @@ Ok. </note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>source contains the source files</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T055015Z" creationid="suzume" creationdate="20260813T055015Z">
+        <seg>source, qui contient les fichiers source</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>source.txt</seg>
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230321T143412Z" creationid="sirine" creationdate="20230321T143412Z">
         <seg>source.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>source_folder_add_files.html</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T045927Z" creationid="suzume" creationdate="20260813T045927Z">
+        <seg>source_folder_add_files.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -117561,6 +118739,14 @@ Ok. </note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>steps.diff.outputs.changed == 'true'</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T050430Z" creationid="suzume" creationdate="20260813T050430Z">
+        <seg>steps.diff.outputs.changed == 'true'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>su</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T100226Z">
@@ -117613,6 +118799,14 @@ Ok. </note>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T100231Z">
         <seg>swe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>sync-i18n-en</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T050340Z" creationid="suzume" creationdate="20260813T050340Z">
+        <seg>sync-i18n-en</seg>
       </tuv>
     </tu>
     <tu>
@@ -117673,6 +118867,14 @@ Ok. </note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>target is the location where target files are created</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T055022Z" creationid="suzume" creationdate="20260813T055022Z">
+        <seg>target, qui est l’emplacement où les fichiers cibles sont créés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>target language code (xx)</seg>
       </tuv>
       <tuv lang="fr" changeid="Anand" changedate="20230306T135516Z" creationid="Anand" creationdate="20230306T135516Z">
@@ -117709,6 +118911,14 @@ Ok. </note>
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230321T143459Z" creationid="sirine" creationdate="20230321T143459Z">
         <seg>target.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>target_folder_create_translated_files.html</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T045933Z" creationid="suzume" creationdate="20260813T045933Z">
+        <seg>target_folder_create_translated_files.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -118115,6 +119325,14 @@ Ok. </note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>tm contains the reference translation memories</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T055035Z" creationid="suzume" creationdate="20260813T055035Z">
+        <seg>tm, qui contient les mémoires de traduction de référence</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>tm/auto</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210110T132857Z" creationid="suzume" creationdate="20210110T132857Z">
@@ -118163,6 +119381,14 @@ Ok. </note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>tm/mt folder highlights inserted matches</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T055817Z" creationid="suzume" creationdate="20260813T055817Z">
+        <seg>Les correspondances venant de tm/mt sont colorées</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>tm/penalty-xxx</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210110T132908Z" creationid="suzume" creationdate="20210110T132908Z">
@@ -118183,6 +119409,38 @@ Ok. </note>
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230419T174321Z" creationid="Léo Delaune" creationdate="20230322T133522Z">
         <seg>tm/tmx2source</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tm_auto_auto_populate.html</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T045940Z" creationid="suzume" creationdate="20260813T045940Z">
+        <seg>tm_auto_auto_populate.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tm_enforce_overwrite.html</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T050004Z" creationid="suzume" creationdate="20260813T050004Z">
+        <seg>tm_enforce_overwrite.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tm_mt_highlight.html</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T050027Z" creationid="suzume" creationdate="20260813T050027Z">
+        <seg>tm_mt_highlight.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tm_penalty_folder.html</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T050034Z" creationid="suzume" creationdate="20260813T050034Z">
+        <seg>tm_penalty_folder.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -118419,6 +119677,14 @@ Ok. </note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>translated_file_wont_open.html</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T050113Z" creationid="suzume" creationdate="20260813T050113Z">
+        <seg>translated_file_wont_open.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>translation equals source (default)</seg>
       </tuv>
       <tuv lang="fr" changeid="Clementine" changedate="20130424T193912Z">
@@ -118491,6 +119757,16 @@ Ok. </note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ts="$(date -u +'%Y-%m-%d')"
+git commit -m "Sync manual(en) from upstream ${UPSTREAM_REPO} on ${ts}"</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T050431Z" creationid="suzume" creationdate="20260813T050431Z">
+        <seg>ts="$(date -u +'%Y-%m-%d')"
+git commit -m "Sync manual(en) from upstream ${UPSTREAM_REPO} on ${ts}"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ts="$(date -u +'&lt;x1/&gt;-&lt;x2/&gt;-&lt;x3/&gt;')"&lt;x4/&gt;git commit -m "Sync manual(en) from upstream ${UPSTREAM_REPO} on ${ts}"</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20260808T164044Z" creationid="suzume" creationdate="20260808T164044Z">
@@ -118559,6 +119835,14 @@ Ok. </note>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T103550Z">
         <seg>ty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ubuntu-latest</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T050352Z" creationid="suzume" creationdate="20260813T050352Z">
+        <seg>ubuntu-latest</seg>
       </tuv>
     </tu>
     <tu>
@@ -118719,6 +120003,14 @@ Ok. </note>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20251224T061939Z" creationid="Anand" creationdate="20230303T101237Z">
         <seg>utilisez : &lt;l0&gt;translate=no&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>use_check_issues_for_tags.html</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T050125Z" creationid="suzume" creationdate="20260813T050125Z">
+        <seg>use_check_issues_for_tags.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -119161,6 +120453,14 @@ config-dir="chemin/vers/nouveau/configdir"</seg>
       </tuv>
       <tuv lang="fr" changeid="JC Helary" changedate="20130505T103615Z">
         <seg>wol</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>write</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260813T050336Z" creationid="suzume" creationdate="20260813T050336Z">
+        <seg>write</seg>
       </tuv>
     </tu>
     <tu>
