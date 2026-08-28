@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.2_0_3f13f18e2" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.2.0_0_c1194a381" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -39030,6 +39030,22 @@ patents.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Find Ne&amp;xt</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260828T100644Z" creationid="suzume" creationdate="20260828T100644Z">
+        <seg>Rechercher le suivant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find Pre&amp;vious</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260828T100633Z" creationid="suzume" creationdate="20260828T100633Z">
+        <seg>Rechercher le précédent</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Find a period followed by an uppercase letter.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20230517T051532Z" creationid="sirine" creationdate="20230314T153556Z">
@@ -67891,6 +67907,14 @@ chargé comme un projet local sans fonctionnalité d’équipe.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20230517T061013Z" creationid="briac" creationdate="20170331T122620Z">
         <seg>La programmation est certainement la fonction la plus importante, et sans celle-ci, il n’y a pas de logiciel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Progress</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260828T100737Z" creationid="suzume" creationdate="20260828T100737Z">
+        <seg>Avancée</seg>
       </tuv>
     </tu>
     <tu>
@@ -121026,6 +121050,16 @@ config-dir="chemin/vers/nouveau/configdir"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>{0}
+{1} (started on {2} {3}) Locale {4}</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260828T100722Z" creationid="suzume" creationdate="20260828T100722Z">
+        <seg>{0}
+{1} (lancé le {2} {3}) Locale {4}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>{0} ({1} left) / {2} ({3} left), {4}</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20230207T041955Z" creationid="Didier" creationdate="20150514T134711Z">
@@ -121150,6 +121184,14 @@ config-dir="chemin/vers/nouveau/configdir"</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20140310T125837Z" creationid="Didier" creationdate="20140310T125837Z">
         <seg>{0}/{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0}/{1} unique segments translated</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260828T100802Z" creationid="suzume" creationdate="20260828T100802Z">
+        <seg>Nombre de segments uniques traduits : {0}/{1}</seg>
       </tuv>
     </tu>
     <tu>
