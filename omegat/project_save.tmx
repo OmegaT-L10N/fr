@@ -1,7 +1,7 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.2.0_0_53a17882e" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.2_0_3f13f18e2" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -40802,16 +40802,16 @@ authors of previous versions.</seg>
       <tuv lang="en">
         <seg>From 100% memory</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20251226T083421Z" creationid="Didier" creationdate="20140925T132948Z">
-        <seg>Des correspondances 100 %</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20260828T094615Z" creationid="Didier" creationdate="20140925T132948Z">
+        <seg>Correspondances 100 %</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>From ICE memory</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20251226T083413Z" creationid="Didier" creationdate="20140925T132932Z">
-        <seg>Des correspondances en contexte </seg>
+      <tuv lang="fr" changeid="suzume" changedate="20260828T094545Z" creationid="Didier" creationdate="20140925T132932Z">
+        <seg>Correspondances en contexte </seg>
       </tuv>
     </tu>
     <tu>
@@ -40850,24 +40850,25 @@ authors of previous versions.</seg>
       <tuv lang="en">
         <seg>From auto memory</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20251226T083427Z" creationid="Didier" creationdate="20140925T133033Z">
-        <seg>Des correspondances automatiques</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20260828T094619Z" creationid="Didier" creationdate="20140925T133033Z">
+        <seg>Correspondances automatiques</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>From enforced memory</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20251226T083443Z" creationid="briac" creationdate="20190417T221652Z">
-        <seg>Des correspondances imposées</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20260828T094627Z" creationid="briac" creationdate="20190417T221652Z">
+        <seg>Correspondances forcées</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Should be "Match coming from memory"</note>
       <tuv lang="en">
         <seg>From memory</seg>
       </tuv>
-      <tuv lang="fr" changeid="Didier" changedate="20140925T132903Z" creationid="Didier" creationdate="20140925T132903Z">
-        <seg>De la mémoire</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20260828T094642Z" creationid="Didier" creationdate="20140925T132903Z">
+        <seg>Correspondances du projet</seg>
       </tuv>
     </tu>
     <tu>
