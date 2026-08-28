@@ -45426,6 +45426,14 @@ Foundation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the cursor is unlocked, only double-clicking can be used to enter the segment.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260828T105531Z" creationid="suzume" creationdate="20260828T105531Z">
+        <seg>Si le curseur est libre, seul un double clic permettra d’y déplacer le curseur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the distribution and/or use of the Program is restricted in
 certain countries either by patents or by copyrighted interfaces, the
 original copyright holder who places the Program under this License
@@ -45571,6 +45579,14 @@ countries not thus excluded.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20230517T051754Z" creationid="Anand" creationdate="20230318T144110Z">
         <seg>Si la langue n’est pas disponible, OmegaT sera par défaut en anglais, même si le système utilise une autre langue par défaut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the language module for your project target language provides a Hunspell dictionary, it will automatically install it in this folder when you enable spell checking.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260828T105509Z" creationid="suzume" creationdate="20260828T105509Z">
+        <seg>Si les modules de langue pour la langue cible de votre projet offre un dictionnaire Hunspell, le module installera celui-ci automatiquement dans ce dossier une fois la correction orthographique activée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -106112,6 +106128,14 @@ installation script (linux-install.sh).</seg>
         <seg>You can put a dictionary in this folder to a use custom spelling dictionary, or if your project target language is not covered by an OmegaT language module.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20260811T043852Z" creationid="suzume" creationdate="20260811T043742Z">
+        <seg>Vous pouvez mettre un dictionnaire dans ce dossier pour personnaliser votre correction orthographique ou si votre langue cible ne dispose pas de module de langue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can put a dictionary in this folder to use a custom spelling dictionary, or if your project target language is not covered by a language module.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260828T105521Z" creationid="suzume" creationdate="20260828T105521Z">
         <seg>Vous pouvez mettre un dictionnaire dans ce dossier pour personnaliser votre correction orthographique ou si votre langue cible ne dispose pas de module de langue.</seg>
       </tuv>
     </tu>
