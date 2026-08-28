@@ -41097,6 +41097,14 @@ authors of previous versions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Fuzzy match #{0}: "{1}"</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260828T101730Z" creationid="suzume" creationdate="20260828T101730Z">
+        <seg>Correspondance #{0} : « {1} »</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Fuzzy match number conversion</seg>
       </tuv>
       <tuv lang="fr" changeid="sirine" changedate="20230505T175416Z" creationid="Léo Delaune" creationdate="20230320T235629Z">
@@ -102026,6 +102034,14 @@ pas besoin de user created files, ça s'applique à tous les fichiers.</note>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20190421T021512Z" creationid="Didier" creationdate="20141202T172952Z">
         <seg>Avertissement : dans les formats Microsoft Open XML (docx, xlsx, etc.), si toutes les balises sont affichées, n'écrivez AUCUN texte avant la première balise (il s'agit d'une balise technique qui doit toujours commencer le segment).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Warning: the numbers do not match</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260828T101811Z" creationid="suzume" creationdate="20260828T101811Z">
+        <seg>Attention : les nombres ne correspondent pas</seg>
       </tuv>
     </tu>
     <tu>
