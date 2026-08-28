@@ -64737,6 +64737,14 @@ ajouter "file"</note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Open: {0}</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260828T101243Z" creationid="suzume" creationdate="20260828T101243Z">
+        <seg>Ouvrir : {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OpenDocument</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20130531T094344Z">
@@ -96886,6 +96894,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20230115T125706Z" creationid="briac" creationdate="20230115T125706Z">
         <seg>Essai avec le fichier de sauvegarde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Trying with backup file.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260828T101332Z" creationid="suzume" creationdate="20260828T101332Z">
+        <seg>Essai avec le fichier de sauvegarde.</seg>
       </tuv>
     </tu>
     <tu>
