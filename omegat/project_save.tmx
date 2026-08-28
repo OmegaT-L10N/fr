@@ -25669,6 +25669,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Bundled JRE packages currently ship with JRE 25.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260828T104442Z" creationid="suzume" creationdate="20260828T104442Z">
+        <seg>Les versions qui incluent une JRE ont une JRE version 25.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Burmese</seg>
       </tuv>
       <tuv lang="fr" changeid="etudiant_local" changedate="20130410T124806Z">
@@ -47890,6 +47898,14 @@ library.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If your source document has already been translated to a different target language, you can display the translations in that language as references under the source segment.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260828T104305Z" creationid="suzume" creationdate="20260828T104305Z">
+        <seg>Si votre document source a déjà été traduit vers une autre langue cible, vous pouvez afficher les traductions dans cette langue en tant que références sous le segment source.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If your source file is a formatted file, e.g. Microsoft Word, LibreOffice Writer or HTML, OmegaT will convert the formatting into tags that surround the text that you translate.</seg>
       </tuv>
       <tuv lang="fr" changeid="brigitte" changedate="20130626T073626Z">
@@ -61884,6 +61900,16 @@ translation leveraging into updated projects.</seg>
     <tu>
       <tuv lang="en">
         <seg>OmegaT is available under the terms of the GNU General Public License as
+published by the Free Software Foundation, either version 3 of the License or
+(at your option) any later version.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260828T104343Z" creationid="suzume" creationdate="20260828T104343Z">
+        <seg>OmegaT est disponible suivant les termes de la GNU General Public License telle que publiée par la Free Software Foundation, soit la version 3 de la Licence, soit (à votre gré) toute version ultérieure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT is available under the terms of the GNU General Public License as
 published by the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.</seg>
       </tuv>
@@ -62366,6 +62392,15 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT requires the Java Runtime Environment (JRE) version 21 or higher to be
+installed on your system.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260828T104359Z" creationid="suzume" creationdate="20260828T104359Z">
+        <seg>OmegaT a besoin qu’un environnement d’exécution Java (JRE) de version 21 soit installé dans votre système.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT runs an issues check on the segment as you leave it.</seg>
       </tuv>
       <tuv lang="fr" changeid="Léo Delaune" changedate="20230316T095018Z" creationid="Léo Delaune" creationdate="20230316T095018Z">
@@ -62601,6 +62636,14 @@ installed on your system.</seg>
         <seg>OmegaT uses a number of librairies.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20170210T102845Z" creationid="Didier" creationdate="20170210T102845Z">
+        <seg>OmegaT utilise un certain nombre de bibliothèques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT uses a number of libraries.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260828T104352Z" creationid="suzume" creationdate="20260828T104352Z">
         <seg>OmegaT utilise un certain nombre de bibliothèques.</seg>
       </tuv>
     </tu>
@@ -102110,6 +102153,15 @@ trouble of selecting, obtaining and installing it.</seg>
       </tuv>
       <tuv lang="fr" changeid="Didier" changedate="20170210T103127Z" creationid="Didier" creationdate="20170210T103127Z">
         <seg>Nous recommandons d'utiliser les versions d'OmegaT incluant le JRE pour vous éviter d'avoir à le sélectionner, l'obtenir et l'installer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>We recommend using OmegaT packages that include the JRE, to save you the trouble
+of selecting, getting, and installing it.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260828T104452Z" creationid="suzume" creationdate="20260828T104452Z">
+        <seg>Nous recommandons d’utiliser les versions d’OmegaT incluant le JRE pour vous éviter d’avoir à le sélectionner, l’obtenir et l’installer.</seg>
       </tuv>
     </tu>
     <tu>
