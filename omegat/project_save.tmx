@@ -43737,6 +43737,14 @@ parties remain in full compliance.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Hunspell spellchecker dictionary {1} for language '{0}' is initialized</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260828T104120Z" creationid="suzume" creationdate="20260828T104120Z">
+        <seg>Le dictionnaire Hunspell {1} pour la langue {0} est initialisé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Hunspell spellchecker for language '{0}' dictionary {1} initialized</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20260811T063835Z" creationid="suzume" creationdate="20260811T063835Z">
@@ -86842,6 +86850,7 @@ sure this has not already been reported.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Modifier "open source" en "free software"</note>
       <tuv lang="en">
         <seg>The open-source philosophy</seg>
       </tuv>
