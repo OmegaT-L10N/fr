@@ -47557,6 +47557,14 @@ OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you switch to paragraph segmentation in a project that originally used rules based segmentation (see the &lt;l0/&gt; section), you can also have OmegaT present matches assembled from existing segments by enabling the &lt;l1/&gt; option.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260828T105442Z" creationid="suzume" creationdate="20260828T105442Z">
+        <seg>Si vous passez en segmentation par paragraphe dans un projet qui était à l’origine segmenté par règles de segmentation (voir la section &lt;l0/&gt;), l’activation de l’option &lt;l1/&gt; vous permettra également d’obtenir des correspondances assemblées à partir de segments existants.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you try to create the translated files, OmegaT will display the issues dialog until no issues are found.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20230708T102632Z" creationid="Léo Delaune" creationdate="20230316T215534Z">
@@ -98008,6 +98016,14 @@ Les recherches exactes correspondent à l’ensemble de la chaine recherchée.</
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20251120T115559Z" creationid="suzume" creationdate="20251120T115559Z">
         <seg>Inconnu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unless special mappings have been set up, all source files are shared by all team members, and any changes made to the local source files are overwritten the next time the project is synchronized, unless they are committed to the server using the &lt;l0/&gt; &lt;l1/&gt; command.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20260828T105343Z" creationid="suzume" creationdate="20260828T105343Z">
+        <seg>À moins qu’une mise en correspondance spéciale n’ait été effectuée, tous les fichiers source seront accessibles à la totalité des membres du projet et toutes modifications faites sur les fichiers source locaux sera annulée lors de la synchronisation suivante, à moins qu’elles aient été envoyées sur le serveur à l’aide de la commande &lt;l0/&gt; &lt;l1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
